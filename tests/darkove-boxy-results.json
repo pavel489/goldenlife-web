@@ -1,0 +1,257 @@
+{
+  "boxes_tested": 5,
+  "html_files_tested": 10,
+  "viewport_checks": 40,
+  "comparison_views_tested": 20,
+  "results": [
+    {
+      "box": "beauty",
+      "responsive": [
+        {
+          "kind": "long",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 1440,
+          "passed": true
+        }
+      ],
+      "host_fixture": "passed",
+      "binding_mode": "buy",
+      "original_card_text_preserved": true,
+      "image_paths_preserved": true
+    },
+    {
+      "box": "hormonal",
+      "responsive": [
+        {
+          "kind": "long",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 1440,
+          "passed": true
+        }
+      ],
+      "host_fixture": "passed",
+      "binding_mode": "purchase-location",
+      "original_card_text_preserved": true,
+      "image_paths_preserved": true
+    },
+    {
+      "box": "longevity",
+      "responsive": [
+        {
+          "kind": "long",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 1440,
+          "passed": true
+        }
+      ],
+      "host_fixture": "passed",
+      "binding_mode": "purchase-location",
+      "original_card_text_preserved": true,
+      "image_paths_preserved": true
+    },
+    {
+      "box": "slim",
+      "responsive": [
+        {
+          "kind": "long",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 1440,
+          "passed": true
+        }
+      ],
+      "host_fixture": "passed",
+      "binding_mode": "purchase-location",
+      "original_card_text_preserved": true,
+      "image_paths_preserved": true
+    },
+    {
+      "box": "ufirst",
+      "responsive": [
+        {
+          "kind": "long",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "long",
+          "width": 1440,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 320,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 390,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 768,
+          "passed": true
+        },
+        {
+          "kind": "short",
+          "width": 1440,
+          "passed": true
+        }
+      ],
+      "host_fixture": "passed",
+      "binding_mode": "purchase-location",
+      "original_card_text_preserved": true,
+      "image_paths_preserved": true
+    }
+  ],
+  "console_errors": [],
+  "external_requests_in_offline_preview": [],
+  "live_checkout_executed": false,
+  "note": "All host purchase tests are local synthetic fixtures. Only Beauty has a verified production product ID; other boxes navigate to native purchase controls until configured."
+}
