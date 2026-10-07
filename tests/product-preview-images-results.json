@@ -1,0 +1,571 @@
+{
+  "preview_images": {
+    "real_cdn_images_rendered": 20,
+    "boxes": 5,
+    "rows": [
+      {
+        "box": "beauty",
+        "product": "USB Míchátko",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "beauty",
+        "product": "Slim Extreme Collagen – ananas",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-1_sliim-extremecollagen-box.png?ff=1&x=1024&y=1024&q=85&ts=67d2ba82&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "beauty",
+        "product": "Slim & Detox Power",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/174-2_detox-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a18183b&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "beauty",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/57-9_good-sleep-night-burn.png?ff=1&x=1024&y=1024&q=85&ts=6a17fefd&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "hormonal",
+        "product": "USB Míchátko",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "hormonal",
+        "product": "Woman Hormonal Balance se Shatavari",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "hormonal",
+        "product": "Peptides GLP-1 Woman Balance Dark Cherry",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_render-cherry-combo.png?ff=1&x=1024&y=1024&q=85&ts=6abf8e1e&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "hormonal",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/550_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e077c&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "longevity",
+        "product": "USB Míchátko",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "longevity",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/57-9_good-sleep-night-burn.png?ff=1&x=1024&y=1024&q=85&ts=6a17fefd&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "longevity",
+        "product": "Beauty & Longevity NAD+",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/544_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e26a6&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "longevity",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/550_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e077c&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "slim",
+        "product": "USB Míchátko",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "slim",
+        "product": "Slim Extreme Collagen – mango",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464_sliim-extremecollagen-box--2.png?ff=1&x=1024&y=1024&q=85&ts=68ed0622&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "slim",
+        "product": "Slim & Detox Power",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/174-2_detox-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a18183b&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "slim",
+        "product": "Slim GLP-1 Activator s berberinem",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "ufirst",
+        "product": "USB Míchátko",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "ufirst",
+        "product": "UFIRST All-in-One",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/576_box-mockup-u-firs-webt.png?ff=1&x=1024&y=1024&q=85&ts=6a6081a3&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "ufirst",
+        "product": "UFIRST Brain & Focus",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/582_ufirst-tabletkyd-brain-web.png?ff=1&x=1024&y=1024&q=85&ts=6a620c64&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      },
+      {
+        "box": "ufirst",
+        "product": "UFIRST Care Free",
+        "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/585_ufirst-tabletkyd-care-free-web.png?ff=1&x=1024&y=1024&q=85&ts=6a620ca5&sg=38cb01fe",
+        "complete": true,
+        "width": 1024,
+        "height": 1024,
+        "fit": "contain"
+      }
+    ],
+    "mobile_width": 390,
+    "unchanged_bottle_slots": 5,
+    "method": "Locally served updated fragments at shop origin, actual HTTPS image requests to Shoptet CDN; no storefront writes."
+  },
+  "details_regression": {
+    "boxes": 5,
+    "product_slots_tested": 25,
+    "loaded_slots": 20,
+    "empty_source_slots": 5,
+    "unique_sources": 14,
+    "rows": [
+      {
+        "box": "Beauty",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Beauty",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Beauty",
+        "product": "Slim Extreme Collagen – ananas",
+        "url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Beauty",
+        "product": "Slim & Detox Power",
+        "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Beauty",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Hormonal",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Woman Hormonal Balance se Shatavari",
+        "url": "https://www.golden-life.cz/woman-hormonal-balance/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Peptides GLP-1 Woman Balance Dark Cherry",
+        "url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Hormonal",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Longevity",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Beauty & Longevity NAD+",
+        "url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 3
+      },
+      {
+        "box": "Longevity",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Slim",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Slim Extreme Collagen – mango",
+        "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Slim",
+        "product": "Slim & Detox Power",
+        "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Slim GLP-1 Activator s berberinem",
+        "url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "UFIRST",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST All-in-One",
+        "url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST Brain & Focus",
+        "url": "https://www.golden-life.cz/brain-focus/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST Care Free",
+        "url": "https://www.golden-life.cz/care-free/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      }
+    ],
+    "js_errors": [],
+    "responsive_closed_viewports": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "open_details_mobile_overflow": "none",
+    "tables_preserved": true,
+    "no_initial_product_fetch": true,
+    "memory_cache_reopen": true,
+    "fresh_source_after_new_page": true,
+    "synthetic_failure_retry": true,
+    "synthetic_wrong_sku_rejected": true,
+    "synthetic_xss_and_unrelated_images_blocked": true,
+    "rapid_switch_latest_wins": true,
+    "close_during_fetch_stays_closed": true,
+    "test_method": "Actual downloaded public source HTML replayed in isolated browser; failure/identity/XSS/version tests explicitly synthetic; no real checkout or shop write."
+  },
+  "changes": [
+    {
+      "box": "Golden Life Darkovy box Beauty",
+      "name": "Láhev Golden Life",
+      "changed": false,
+      "reason": "canonical primary image missing",
+      "retained_url": "/user/documents/upload/darkovybox/lahev.png"
+    },
+    {
+      "box": "Golden Life Darkovy box Beauty",
+      "name": "USB Míchátko",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/michatko/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Beauty",
+      "name": "Slim Extreme Collagen – ananas",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-1_sliim-extremecollagen-box.png?ff=1&x=1024&y=1024&q=85&ts=67d2ba82&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Beauty",
+      "name": "Slim & Detox Power",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/174-2_detox-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a18183b&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Beauty",
+      "name": "Good Sleep & Night Burn",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/57-9_good-sleep-night-burn.png?ff=1&x=1024&y=1024&q=85&ts=6a17fefd&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Hormonal",
+      "name": "Láhev Golden Life",
+      "changed": false,
+      "reason": "canonical primary image missing",
+      "retained_url": "/user/documents/upload/darkovybox-hormonal/lahev.png"
+    },
+    {
+      "box": "Golden Life Darkovy box Hormonal",
+      "name": "USB Míchátko",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/michatko/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Hormonal",
+      "name": "Woman Hormonal Balance se Shatavari",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Hormonal",
+      "name": "Peptides GLP-1 Woman Balance Dark Cherry",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_render-cherry-combo.png?ff=1&x=1024&y=1024&q=85&ts=6abf8e1e&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Hormonal",
+      "name": "Anti-Age Longevity NAD+",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/550_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e077c&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Longevity",
+      "name": "Láhev Golden Life",
+      "changed": false,
+      "reason": "canonical primary image missing",
+      "retained_url": "/user/documents/upload/darkovybox-longevity/lahev.png"
+    },
+    {
+      "box": "Golden Life Darkovy box Longevity",
+      "name": "USB Míchátko",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/michatko/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Longevity",
+      "name": "Good Sleep & Night Burn",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/57-9_good-sleep-night-burn.png?ff=1&x=1024&y=1024&q=85&ts=6a17fefd&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Longevity",
+      "name": "Beauty & Longevity NAD+",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/544_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e26a6&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Longevity",
+      "name": "Anti-Age Longevity NAD+",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/550_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e077c&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Slim",
+      "name": "Láhev Golden Life",
+      "changed": false,
+      "reason": "canonical primary image missing",
+      "retained_url": "/user/documents/upload/darkovybox-mango/lahev.png"
+    },
+    {
+      "box": "Golden Life Darkovy box Slim",
+      "name": "USB Míchátko",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/michatko/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Slim",
+      "name": "Slim Extreme Collagen – mango",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464_sliim-extremecollagen-box--2.png?ff=1&x=1024&y=1024&q=85&ts=68ed0622&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Slim",
+      "name": "Slim & Detox Power",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/174-2_detox-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a18183b&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box Slim",
+      "name": "Slim GLP-1 Activator s berberinem",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box UFIRST",
+      "name": "Láhev Golden Life",
+      "changed": false,
+      "reason": "canonical primary image missing",
+      "retained_url": "/user/documents/upload/darkovybox-ufirst/lahev.png"
+    },
+    {
+      "box": "Golden Life Darkovy box UFIRST",
+      "name": "USB Míchátko",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/michatko/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/653_michatko.png?ff=1&x=1024&y=1024&q=85&ts=6ac4a4fc&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box UFIRST",
+      "name": "UFIRST All-in-One",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/576_box-mockup-u-firs-webt.png?ff=1&x=1024&y=1024&q=85&ts=6a6081a3&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box UFIRST",
+      "name": "UFIRST Brain & Focus",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/brain-focus/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/582_ufirst-tabletkyd-brain-web.png?ff=1&x=1024&y=1024&q=85&ts=6a620c64&sg=38cb01fe"
+    },
+    {
+      "box": "Golden Life Darkovy box UFIRST",
+      "name": "UFIRST Care Free",
+      "changed": true,
+      "source_url": "https://www.golden-life.cz/care-free/",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/585_ufirst-tabletkyd-care-free-web.png?ff=1&x=1024&y=1024&q=85&ts=6a620ca5&sg=38cb01fe"
+    }
+  ],
+  "visual_review": "All 13 distinct source packshots reviewed in labelled contact sheet; Beauty rendered card grid reviewed. No product identity substitution found; small-print formulation not audited."
+}

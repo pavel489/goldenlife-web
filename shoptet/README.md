@@ -26,3 +26,7 @@ Zdrojová láhev nemá podrobný popis. U ananasového kolagenu zůstává v př
 Publikace do Gitu není nasazení do Shoptetu. Po uložení v administraci je třeba zkontrolovat skutečně publikované HTML a kliknutí; místní test neumí garantovat, že editor kód nezmění.
 
 `web/` obsahuje stejné upravené plné dokumenty. Starší `nahledy/darkove-boxy.html` je historický náhled před pilulkami, nikoli zdroj pro nasazení.
+
+## Produktové náhledové fotografie
+
+Karty nyní používají přímo ověřené URL úvodních obrázků z hlavní galerie jednotlivých produktů. Celková fotografie dárkového boxu se nemění. U láhve má zdrojová stránka pouze chybějící obrázek, proto zůstává původní připravená cesta. Jde o převzetí aktuálních URL, ne o dodatečné stahování celých produktových stránek při prvním renderu. Pokud u produktu nahraješ jinou fotografii s novou URL, odkazy v boxech bude potřeba znovu obnovit; popisy dál zůstávají dynamické.
