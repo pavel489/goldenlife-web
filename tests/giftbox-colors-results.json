@@ -1,0 +1,338 @@
+{
+  "palette_tests": [
+    {
+      "box": "beauty",
+      "primary_color": "rgb(217, 8, 23)",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "pill_geometry": "centered, 44px, radius 999px",
+      "short_palette_matches": true,
+      "copy_and_scripts_unchanged": true,
+      "js_errors": []
+    },
+    {
+      "box": "hormonal",
+      "primary_color": "rgb(217, 8, 23)",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "pill_geometry": "centered, 44px, radius 999px",
+      "short_palette_matches": true,
+      "copy_and_scripts_unchanged": true,
+      "js_errors": []
+    },
+    {
+      "box": "longevity",
+      "primary_color": "rgb(217, 8, 23)",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "pill_geometry": "centered, 44px, radius 999px",
+      "short_palette_matches": true,
+      "copy_and_scripts_unchanged": true,
+      "js_errors": []
+    },
+    {
+      "box": "slim",
+      "primary_color": "rgb(217, 8, 23)",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "pill_geometry": "centered, 44px, radius 999px",
+      "short_palette_matches": true,
+      "copy_and_scripts_unchanged": true,
+      "js_errors": []
+    },
+    {
+      "box": "ufirst",
+      "primary_color": "rgb(91, 207, 222)",
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "pill_geometry": "centered, 44px, radius 999px",
+      "short_palette_matches": true,
+      "copy_and_scripts_unchanged": true,
+      "js_errors": []
+    }
+  ],
+  "detail_regression": {
+    "boxes": 5,
+    "product_slots_tested": 25,
+    "loaded_slots": 20,
+    "empty_source_slots": 5,
+    "unique_sources": 14,
+    "rows": [
+      {
+        "box": "Beauty",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Beauty",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Beauty",
+        "product": "Slim Extreme Collagen – ananas",
+        "url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Beauty",
+        "product": "Slim & Detox Power",
+        "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Beauty",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Hormonal",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Woman Hormonal Balance se Shatavari",
+        "url": "https://www.golden-life.cz/woman-hormonal-balance/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Peptides GLP-1 Woman Balance Dark Cherry",
+        "url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Hormonal",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Longevity",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Beauty & Longevity NAD+",
+        "url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 3
+      },
+      {
+        "box": "Longevity",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Slim",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Slim Extreme Collagen – mango",
+        "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Slim",
+        "product": "Slim & Detox Power",
+        "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Slim GLP-1 Activator s berberinem",
+        "url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "UFIRST",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST All-in-One",
+        "url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST Brain & Focus",
+        "url": "https://www.golden-life.cz/brain-focus/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST Care Free",
+        "url": "https://www.golden-life.cz/care-free/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      }
+    ],
+    "js_errors": [],
+    "responsive_closed_viewports": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "open_details_mobile_overflow": "none",
+    "tables_preserved": true,
+    "no_initial_product_fetch": true,
+    "memory_cache_reopen": true,
+    "fresh_source_after_new_page": true,
+    "synthetic_failure_retry": true,
+    "synthetic_wrong_sku_rejected": true,
+    "synthetic_xss_and_unrelated_images_blocked": true,
+    "rapid_switch_latest_wins": true,
+    "close_during_fetch_stays_closed": true,
+    "test_method": "Actual downloaded public source HTML replayed in isolated browser; failure/identity/XSS/version tests explicitly synthetic; no real checkout or shop write."
+  },
+  "contrast": {
+    "source": "Pavel, this Slack thread; supplied PANTONE names and RGB triplets, confirmed application to U F1RST vs other four gift boxes. RGB used for screen rendering; not a Pantone print proof.",
+    "recorded_at": "2026-10-07T15:03:12.248216+00:00",
+    "palettes": [
+      {
+        "brand": "golden-life",
+        "pantone": "PANTONE 3517 C",
+        "rgb": [
+          217,
+          8,
+          23
+        ],
+        "primary": "#d90817",
+        "hover": "#ad0612",
+        "ink": "#d90817",
+        "tint": "#fdf0f1",
+        "border": "#ebafb5",
+        "button_text": "#ffffff",
+        "body_text": "#222222",
+        "tint_mix": {
+          "brand_fraction": 0.06,
+          "white_fraction": 0.94,
+          "method": "sRGB channel mixture, decorative background only"
+        },
+        "text_contrast_ratios": {
+          "pill_text_on_white": 5.2533512412176355,
+          "pill_text_on_tint": 4.730702669448822,
+          "purchase_button": 5.2533512412176355,
+          "purchase_hover": 7.468972458718764
+        }
+      },
+      {
+        "brand": "ufirst",
+        "pantone": "PANTONE 3105 C",
+        "rgb": [
+          91,
+          207,
+          222
+        ],
+        "primary": "#5bcfde",
+        "hover": "#46c5d6",
+        "ink": "#18383d",
+        "tint": "#e6f8fa",
+        "border": "#a3e2ea",
+        "button_text": "#18383d",
+        "body_text": "#222222",
+        "tint_mix": {
+          "brand_fraction": 0.15,
+          "white_fraction": 0.85,
+          "method": "sRGB channel mixture, decorative background only"
+        },
+        "text_contrast_ratios": {
+          "pill_text_on_white": 12.56062181000365,
+          "pill_text_on_tint": 11.467240630315812,
+          "purchase_button": 6.833423294390706,
+          "purchase_hover": 6.111596079326165
+        }
+      }
+    ],
+    "scope": "Gift-box UI long and short descriptions. Imported canonical product detail styles and packshot pixels unchanged. Cyan used for accents/backgrounds with dark text; red used for other box accents.",
+    "assumption": "The four non-U-F1RST gift boxes use the specified red; no claim that this overrides all Golden Life brand materials."
+  }
+}

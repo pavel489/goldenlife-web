@@ -1,3 +1,9 @@
+# Aktuální barevnost boxů
+
+U F1RST používá dodanou tyrkysovou RGB (91, 207, 222); Beauty, Hormonal, Longevity a Slim dodanou červenou RGB (217, 8, 23). Sladěny dlouhé i krátké popisy, produktové fotky a kanonické popisy ponechány původní. Podrobnosti a kontrolované kontrasty jsou v `config/giftbox-brand-colors.json`. Starší poznámky o zlaté paletě níže jsou historické.
+
+---
+
 # Aktuální doplnění: pilulky a zkrácený CMS kód
 
 Aktuální soubory pro nahrání a postup jsou v [shoptet/README.md](../shoptet/README.md). Všech pět dlouhých popisů v `web/` má stejnou úpravu. Následuje historická dokumentace před touto opravou; tvrzení o čistě inline čtečce a původním náhledu už nepopisují aktuální nasazovací balíček.
