@@ -1,3 +1,9 @@
+# Aktuální doplnění: pilulky a zkrácený CMS kód
+
+Aktuální soubory pro nahrání a postup jsou v [shoptet/README.md](../shoptet/README.md). Všech pět dlouhých popisů v `web/` má stejnou úpravu. Následuje historická dokumentace před touto opravou; tvrzení o čistě inline čtečce a původním náhledu už nepopisují aktuální nasazovací balíček.
+
+---
+
 # Dárkové boxy — obnovený společný zdroj produktových detailů
 
 ## Aktuální řešení

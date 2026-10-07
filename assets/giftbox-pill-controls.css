@@ -1,0 +1,10 @@
+
+/* Subtle, centered pill controls for all gift-box descriptions. */
+#special-popis.gl-box-refined .gl-open-detail{display:inline-flex;align-items:center;justify-content:center;align-self:center;justify-self:center;width:auto;max-width:calc(100% - 32px);min-height:44px;margin: auto auto 20px;padding:10px 22px;border:1px solid #d6c6a3;border-radius:999px;background:#fffdf8;color:#80632b;font:600 13px/1.5 Metropolis,Arial,sans-serif;letter-spacing:0;text-transform:none;text-align:center;box-shadow:none;cursor:pointer;transition:background-color .15s,border-color .15s,color .15s}
+#special-popis.gl-box-refined .gl-open-detail:hover{background:#f7f0e2;border-color:#bca16a;color:#6f5421}
+#special-popis.gl-box-refined .gl-open-detail[aria-expanded=true]{background:#f4eddf;border-color:#bca16a;color:#715726}
+#special-popis.gl-box-refined .gl-reader-close,#special-popis.gl-box-refined .gl-reader-retry{border:1px solid #d6c6a3;border-radius:999px;background:#fffdf8;color:#80632b;min-height:44px;padding:10px 20px;font:600 13px/1.5 Metropolis,Arial,sans-serif;box-shadow:none}
+#special-popis.gl-box-refined .gl-reader-close:hover,#special-popis.gl-box-refined .gl-reader-retry:hover{background:#f7f0e2;border-color:#bca16a}
+#special-popis.gl-box-refined .gl-reader-footer{text-align:center}
+#special-popis.gl-box-refined .gl-reader-retry:not([hidden]){display:block;margin:12px auto}
+@media(max-width:600px){#special-popis.gl-box-refined .gl-open-detail{grid-column:1/-1;justify-self:center;align-self:center;margin:6px auto 18px;max-width:calc(100% - 24px);padding:10px 22px;font-size:13px}}

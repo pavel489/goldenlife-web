@@ -1,0 +1,500 @@
+{
+  "regression": {
+    "boxes": 5,
+    "product_slots_tested": 25,
+    "loaded_slots": 20,
+    "empty_source_slots": 5,
+    "unique_sources": 14,
+    "rows": [
+      {
+        "box": "Beauty",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Beauty",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Beauty",
+        "product": "Slim Extreme Collagen – ananas",
+        "url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Beauty",
+        "product": "Slim & Detox Power",
+        "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Beauty",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Hormonal",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Woman Hormonal Balance se Shatavari",
+        "url": "https://www.golden-life.cz/woman-hormonal-balance/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Hormonal",
+        "product": "Peptides GLP-1 Woman Balance Dark Cherry",
+        "url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Hormonal",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Longevity",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Good Sleep & Night Burn",
+        "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Longevity",
+        "product": "Beauty & Longevity NAD+",
+        "url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 3
+      },
+      {
+        "box": "Longevity",
+        "product": "Anti-Age Longevity NAD+",
+        "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "Slim",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Slim Extreme Collagen – mango",
+        "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "Slim",
+        "product": "Slim & Detox Power",
+        "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "Slim",
+        "product": "Slim GLP-1 Activator s berberinem",
+        "url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "Láhev Golden Life",
+        "url": "https://www.golden-life.cz/lahev-golden-life/",
+        "result": "source-description-empty",
+        "tables_retained": null
+      },
+      {
+        "box": "UFIRST",
+        "product": "USB Míchátko",
+        "url": "https://www.golden-life.cz/michatko/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST All-in-One",
+        "url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 2
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST Brain & Focus",
+        "url": "https://www.golden-life.cz/brain-focus/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      },
+      {
+        "box": "UFIRST",
+        "product": "UFIRST Care Free",
+        "url": "https://www.golden-life.cz/care-free/",
+        "result": "full-canonical-detail-loaded",
+        "tables_retained": 1
+      }
+    ],
+    "js_errors": [],
+    "responsive_closed_viewports": [
+      320,
+      390,
+      768,
+      1440
+    ],
+    "open_details_mobile_overflow": "none",
+    "tables_preserved": true,
+    "no_initial_product_fetch": true,
+    "memory_cache_reopen": true,
+    "fresh_source_after_new_page": true,
+    "synthetic_failure_retry": true,
+    "synthetic_wrong_sku_rejected": true,
+    "synthetic_xss_and_unrelated_images_blocked": true,
+    "rapid_switch_latest_wins": true,
+    "close_during_fetch_stays_closed": true,
+    "test_method": "Actual downloaded public source HTML replayed in isolated browser; failure/identity/XSS/version tests explicitly synthetic; no real checkout or shop write."
+  },
+  "bootstrap": [
+    {
+      "box": "beauty",
+      "cms_fragment": true,
+      "cdn_failure_then_retry": true,
+      "js_errors": []
+    },
+    {
+      "box": "hormonal",
+      "cms_fragment": true,
+      "cdn_failure_then_retry": true,
+      "js_errors": []
+    },
+    {
+      "box": "longevity",
+      "cms_fragment": true,
+      "cdn_failure_then_retry": true,
+      "js_errors": []
+    },
+    {
+      "box": "slim",
+      "cms_fragment": true,
+      "cdn_failure_then_retry": true,
+      "js_errors": []
+    },
+    {
+      "box": "ufirst",
+      "cms_fragment": true,
+      "cdn_failure_then_retry": true,
+      "js_errors": []
+    }
+  ],
+  "live_beauty": {
+    "method": "Current live Shoptet document with only the broken description replaced locally; real CDN and real product requests, no shop write. Marketing overlays hidden for component testing.",
+    "live_detail_rows": [
+      {
+        "product": "Láhev Golden Life",
+        "status": "Na zdrojové stránce zatím není podrobný popis produktu. Jakmile bude doplněný, načte se sem.",
+        "detail_characters": 0
+      },
+      {
+        "product": "USB Míchátko",
+        "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+        "detail_characters": 46972
+      },
+      {
+        "product": "Slim Extreme Collagen – ananas",
+        "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+        "detail_characters": 21879
+      },
+      {
+        "product": "Slim & Detox Power",
+        "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+        "detail_characters": 28482
+      },
+      {
+        "product": "Good Sleep & Night Burn",
+        "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+        "detail_characters": 13078
+      }
+    ],
+    "viewport_checks": [
+      {
+        "viewport": 320,
+        "buttons": [
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 253
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 253
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 253
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 253
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 253
+          }
+        ]
+      },
+      {
+        "viewport": 390,
+        "buttons": [
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 323
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 323
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 323
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 323
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 323
+          }
+        ]
+      },
+      {
+        "viewport": 768,
+        "buttons": [
+          {
+            "centerError": 0.0078125,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 240.328125
+          },
+          {
+            "centerError": 0.0078125,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 240.328125
+          },
+          {
+            "centerError": 0.0078125,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 240.328125
+          },
+          {
+            "centerError": 0.0078125,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 240.328125
+          },
+          {
+            "centerError": 0.0078125,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 240.328125
+          }
+        ]
+      },
+      {
+        "viewport": 1440,
+        "buttons": [
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 356
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 356
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 356
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 356
+          },
+          {
+            "centerError": 0,
+            "height": 44,
+            "radius": "999px",
+            "background": "rgb(255, 253, 248)",
+            "width": 178.15625,
+            "cardWidth": 356
+          }
+        ]
+      }
+    ],
+    "reader_network": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@912c837872b8ed6b882746590b0b7aaf94f8f44c/assets/giftbox-detail-loader.js",
+        "status": 200
+      }
+    ],
+    "js_errors": [],
+    "native_footer_restored": true,
+    "lazy_reader_download": true
+  },
+  "files": [
+    {
+      "box": "beauty",
+      "html": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "cms": "shoptet/beauty.html",
+      "before_bytes": 75416,
+      "after_bytes": 31641,
+      "cms_bytes": 30745
+    },
+    {
+      "box": "hormonal",
+      "html": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "cms": "shoptet/hormonal.html",
+      "before_bytes": 75593,
+      "after_bytes": 31818,
+      "cms_bytes": 30898
+    },
+    {
+      "box": "longevity",
+      "html": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "cms": "shoptet/longevity.html",
+      "before_bytes": 75522,
+      "after_bytes": 31747,
+      "cms_bytes": 30828
+    },
+    {
+      "box": "slim",
+      "html": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "cms": "shoptet/slim.html",
+      "before_bytes": 75624,
+      "after_bytes": 31849,
+      "cms_bytes": 30933
+    },
+    {
+      "box": "ufirst",
+      "html": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "cms": "shoptet/ufirst.html",
+      "before_bytes": 75281,
+      "after_bytes": 31506,
+      "cms_bytes": 30614
+    }
+  ],
+  "mobile_source_limitation": "Ananas collagen source benefit grid has internal overflow at 390px in live template; outer component does not overflow."
+}
