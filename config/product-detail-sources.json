@@ -1,0 +1,90 @@
+{
+  "verified_at": "2026-10-07T08:33:11.185888+00:00",
+  "sources": [
+    {
+      "name": "bottle",
+      "url": "https://www.golden-life.cz/lahev-golden-life/",
+      "product_id": "597",
+      "has_description": false
+    },
+    {
+      "name": "mixer",
+      "url": "https://www.golden-life.cz/michatko/",
+      "product_id": "653",
+      "has_description": true
+    },
+    {
+      "name": "pineapple",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "product_id": "383",
+      "has_description": true
+    },
+    {
+      "name": "mango",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "product_id": "464",
+      "has_description": true
+    },
+    {
+      "name": "booster",
+      "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "product_id": "174",
+      "has_description": true
+    },
+    {
+      "name": "sleep",
+      "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "product_id": "57",
+      "has_description": true
+    },
+    {
+      "name": "woman",
+      "url": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "product_id": "644",
+      "has_description": true
+    },
+    {
+      "name": "peptides",
+      "url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "product_id": "635",
+      "has_description": true
+    },
+    {
+      "name": "antiage",
+      "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "product_id": "550",
+      "has_description": true
+    },
+    {
+      "name": "beautynad",
+      "url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+      "product_id": "544",
+      "has_description": true
+    },
+    {
+      "name": "activator",
+      "url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+      "product_id": "476",
+      "has_description": true
+    },
+    {
+      "name": "ufirst",
+      "url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+      "product_id": "576",
+      "has_description": true
+    },
+    {
+      "name": "brain",
+      "url": "https://www.golden-life.cz/brain-focus/",
+      "product_id": "582",
+      "has_description": true
+    },
+    {
+      "name": "care",
+      "url": "https://www.golden-life.cz/care-free/",
+      "product_id": "585",
+      "has_description": true
+    }
+  ],
+  "note": "Detailed information is fetched from these canonical pages; this file lists routing, not duplicate product copy. Bottle currently has no description."
+}

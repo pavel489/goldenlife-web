@@ -1,257 +1,278 @@
 {
-  "boxes_tested": 5,
-  "html_files_tested": 10,
-  "viewport_checks": 40,
-  "comparison_views_tested": 20,
-  "results": [
+  "boxes": 5,
+  "product_slots_tested": 25,
+  "loaded_slots": 20,
+  "empty_source_slots": 5,
+  "unique_sources": 14,
+  "rows": [
     {
-      "box": "beauty",
-      "responsive": [
-        {
-          "kind": "long",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 1440,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 1440,
-          "passed": true
-        }
-      ],
-      "host_fixture": "passed",
-      "binding_mode": "buy",
-      "original_card_text_preserved": true,
-      "image_paths_preserved": true
+      "box": "Beauty",
+      "product": "Láhev Golden Life",
+      "url": "https://www.golden-life.cz/lahev-golden-life/",
+      "result": "source-description-empty",
+      "tables_retained": null
     },
     {
-      "box": "hormonal",
-      "responsive": [
-        {
-          "kind": "long",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 1440,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 1440,
-          "passed": true
-        }
-      ],
-      "host_fixture": "passed",
-      "binding_mode": "purchase-location",
-      "original_card_text_preserved": true,
-      "image_paths_preserved": true
+      "box": "Beauty",
+      "product": "USB Míchátko",
+      "url": "https://www.golden-life.cz/michatko/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
     },
     {
-      "box": "longevity",
-      "responsive": [
-        {
-          "kind": "long",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 1440,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 1440,
-          "passed": true
-        }
-      ],
-      "host_fixture": "passed",
-      "binding_mode": "purchase-location",
-      "original_card_text_preserved": true,
-      "image_paths_preserved": true
+      "box": "Beauty",
+      "product": "Slim Extreme Collagen – ananas",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 2
     },
     {
-      "box": "slim",
-      "responsive": [
-        {
-          "kind": "long",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 1440,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 1440,
-          "passed": true
-        }
-      ],
-      "host_fixture": "passed",
-      "binding_mode": "purchase-location",
-      "original_card_text_preserved": true,
-      "image_paths_preserved": true
+      "box": "Beauty",
+      "product": "Slim & Detox Power",
+      "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
     },
     {
-      "box": "ufirst",
-      "responsive": [
-        {
-          "kind": "long",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "long",
-          "width": 1440,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 320,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 390,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 768,
-          "passed": true
-        },
-        {
-          "kind": "short",
-          "width": 1440,
-          "passed": true
-        }
-      ],
-      "host_fixture": "passed",
-      "binding_mode": "purchase-location",
-      "original_card_text_preserved": true,
-      "image_paths_preserved": true
+      "box": "Beauty",
+      "product": "Good Sleep & Night Burn",
+      "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Hormonal",
+      "product": "Láhev Golden Life",
+      "url": "https://www.golden-life.cz/lahev-golden-life/",
+      "result": "source-description-empty",
+      "tables_retained": null
+    },
+    {
+      "box": "Hormonal",
+      "product": "USB Míchátko",
+      "url": "https://www.golden-life.cz/michatko/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Hormonal",
+      "product": "Woman Hormonal Balance se Shatavari",
+      "url": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Hormonal",
+      "product": "Peptides GLP-1 Woman Balance Dark Cherry",
+      "url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 2
+    },
+    {
+      "box": "Hormonal",
+      "product": "Anti-Age Longevity NAD+",
+      "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Longevity",
+      "product": "Láhev Golden Life",
+      "url": "https://www.golden-life.cz/lahev-golden-life/",
+      "result": "source-description-empty",
+      "tables_retained": null
+    },
+    {
+      "box": "Longevity",
+      "product": "USB Míchátko",
+      "url": "https://www.golden-life.cz/michatko/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Longevity",
+      "product": "Good Sleep & Night Burn",
+      "url": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Longevity",
+      "product": "Beauty & Longevity NAD+",
+      "url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 3
+    },
+    {
+      "box": "Longevity",
+      "product": "Anti-Age Longevity NAD+",
+      "url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Slim",
+      "product": "Láhev Golden Life",
+      "url": "https://www.golden-life.cz/lahev-golden-life/",
+      "result": "source-description-empty",
+      "tables_retained": null
+    },
+    {
+      "box": "Slim",
+      "product": "USB Míchátko",
+      "url": "https://www.golden-life.cz/michatko/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Slim",
+      "product": "Slim Extreme Collagen – mango",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 2
+    },
+    {
+      "box": "Slim",
+      "product": "Slim & Detox Power",
+      "url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "Slim",
+      "product": "Slim GLP-1 Activator s berberinem",
+      "url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "UFIRST",
+      "product": "Láhev Golden Life",
+      "url": "https://www.golden-life.cz/lahev-golden-life/",
+      "result": "source-description-empty",
+      "tables_retained": null
+    },
+    {
+      "box": "UFIRST",
+      "product": "USB Míchátko",
+      "url": "https://www.golden-life.cz/michatko/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "UFIRST",
+      "product": "UFIRST All-in-One",
+      "url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 2
+    },
+    {
+      "box": "UFIRST",
+      "product": "UFIRST Brain & Focus",
+      "url": "https://www.golden-life.cz/brain-focus/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
+    },
+    {
+      "box": "UFIRST",
+      "product": "UFIRST Care Free",
+      "url": "https://www.golden-life.cz/care-free/",
+      "result": "full-canonical-detail-loaded",
+      "tables_retained": 1
     }
   ],
-  "console_errors": [],
-  "external_requests_in_offline_preview": [],
-  "live_checkout_executed": false,
-  "note": "All host purchase tests are local synthetic fixtures. Only Beauty has a verified production product ID; other boxes navigate to native purchase controls until configured."
+  "js_errors": [],
+  "responsive_closed_viewports": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "open_details_mobile_overflow": "none",
+  "tables_preserved": true,
+  "no_initial_product_fetch": true,
+  "memory_cache_reopen": true,
+  "fresh_source_after_new_page": true,
+  "synthetic_failure_retry": true,
+  "synthetic_wrong_sku_rejected": true,
+  "synthetic_xss_and_unrelated_images_blocked": true,
+  "rapid_switch_latest_wins": true,
+  "close_during_fetch_stays_closed": true,
+  "test_method": "Actual downloaded public source HTML replayed in isolated browser; failure/identity/XSS/version tests explicitly synthetic; no real checkout or shop write.",
+  "live_source_tests": [
+    {
+      "box": "Beauty",
+      "source": "https://www.golden-life.cz/michatko/",
+      "result": "live_source_loaded",
+      "source_fetch_count": 1,
+      "data": {
+        "tables": 1,
+        "chars": 3725,
+        "details": 0,
+        "sourceImages": 7,
+        "icons": [
+          {
+            "text": "science",
+            "font": "\"Material Symbols Outlined\""
+          },
+          {
+            "text": "usb",
+            "font": "\"Material Symbols Outlined\""
+          }
+        ]
+      },
+      "js_errors": []
+    },
+    {
+      "box": "Beauty",
+      "source": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "result": "live_source_loaded",
+      "source_fetch_count": 1,
+      "data": {
+        "tables": 1,
+        "chars": 3300,
+        "details": 0,
+        "sourceImages": 19,
+        "icons": []
+      },
+      "js_errors": []
+    },
+    {
+      "box": "UFIRST",
+      "source": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+      "result": "live_source_loaded",
+      "source_fetch_count": 1,
+      "data": {
+        "tables": 2,
+        "chars": 15908,
+        "details": 19,
+        "sourceImages": 54,
+        "icons": [
+          {
+            "text": "auto_stories",
+            "font": "\"Material Symbols Outlined\""
+          },
+          {
+            "text": "escalator_warning",
+            "font": "\"Material Symbols Outlined\""
+          }
+        ]
+      },
+      "js_errors": []
+    },
+    {
+      "box": "Slim",
+      "source": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "result": "live_source_loaded",
+      "source_fetch_count": 1,
+      "data": {
+        "tables": 2,
+        "chars": 7803,
+        "details": 0,
+        "sourceImages": 20,
+        "icons": []
+      },
+      "js_errors": []
+    }
+  ]
 }
