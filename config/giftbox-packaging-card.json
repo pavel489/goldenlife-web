@@ -1,0 +1,11 @@
+{
+  "photo_urls": {
+    "ufirst": null,
+    "beauty": null,
+    "longevity": null,
+    "hormonal": null,
+    "slim": null
+  },
+  "configure": "Set data-gl-packaging-src on the sixth card to an authenticated/verified correct variant photo URL (same origin or HTTPS golden-life.cz / cdn.myshoptet.com). Do not reuse another variant. Button becomes visible only after successful image load.",
+  "fallback": "Symbol of packaging, not a photograph; no sixth product, no extra purchase."
+}
