@@ -1,0 +1,181 @@
+{
+  "responsive_cases": 16,
+  "widths": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "views": 4,
+  "rows": [
+    {
+      "view": "offline-preview",
+      "width": 320,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "offline-preview",
+      "width": 390,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "offline-preview",
+      "width": 768,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "offline-preview",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "short-fragment",
+      "width": 320,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "short-fragment",
+      "width": 390,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "short-fragment",
+      "width": 768,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "short-fragment",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "long-fragment",
+      "width": 320,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "long-fragment",
+      "width": 390,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "long-fragment",
+      "width": 768,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "long-fragment",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "both-fragments",
+      "width": 320,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "both-fragments",
+      "width": 390,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "both-fragments",
+      "width": 768,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    },
+    {
+      "view": "both-fragments",
+      "width": 1440,
+      "horizontal_overflow": false,
+      "images_ok": true,
+      "faq_toggle_ok": true,
+      "duplicate_ids": false,
+      "js_errors": [],
+      "unexpected_requests": []
+    }
+  ],
+  "synthetic_native_host_identity_match": "passed: scroll and focus, no submission",
+  "synthetic_wrong_host_identity": "passed: retains canonical URL",
+  "synthetic_broken_photo": "passed: visible text fallback",
+  "cms_body_only": true,
+  "source_script_size_checked": true,
+  "health_claims": false,
+  "unverified_technical_specs_omitted": true,
+  "live_shoptet_write": false,
+  "browser": "Playwright Chromium; not physical device or live checkout"
+}

@@ -1,0 +1,36 @@
+{
+  "product_id": "597",
+  "ean": "8594203440715",
+  "product_url": "https://www.golden-life.cz/lahev-golden-life/",
+  "source_revision": "949ab2a6ff2a94de9ac6e24108ee2018f610fdf7",
+  "photo_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac79f6d&sg=38cb01fe",
+  "photo_original_sha256": "a6291f3b15edecefe6a52557212d01b8743f658aa30270ffb63a12ae49b2ef95",
+  "photo_original_dimensions": [
+    1024,
+    1024
+  ],
+  "photo_edited": "Whitespace crop only; no alteration of product",
+  "photo_crop": [
+    320,
+    180,
+    704,
+    944
+  ],
+  "photo_asset_sha256": "7e4416d75cb5dd827beeda179186f9fdc05d5a61bc7451b9eda43c5524b05d27",
+  "facts_from_photo": [
+    "Průhledné tělo",
+    "Bílé logo Golden Life",
+    "Šroubovací víčko ve stříbrném odstínu"
+  ],
+  "missing_verified_specs": [
+    "objem",
+    "materiál těla a víčka",
+    "myčka",
+    "vhodnost pro horké nápoje",
+    "deklarace nepropustnosti"
+  ],
+  "font": "Inherited Nunito on live shop; Nunito/Arial fallback in standalone preview",
+  "model": "gpt-6.1-sol",
+  "paid_generation": false,
+  "shop_written": false
+}
