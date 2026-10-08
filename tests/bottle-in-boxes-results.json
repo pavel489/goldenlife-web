@@ -1,0 +1,367 @@
+{
+  "html_files": 10,
+  "checks": 50,
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "rows": [
+    {
+      "path": "shoptet/beauty.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 320,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 390,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 768,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 1024,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 1440,
+      "photo_loaded_and_visible": true,
+      "natural_width": 1024,
+      "unchanged_other_content": true
+    }
+  ],
+  "js_errors": [],
+  "source_product_id": "597",
+  "source_image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac79f6d&sg=38cb01fe",
+  "method": "Current actual product image downloaded from verified live primary gallery, replayed in isolated browser. Other requests blocked. Portable previews contain original photo bytes and make no network requests; no shop writes."
+}

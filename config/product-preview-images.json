@@ -70,10 +70,18 @@
       "url": "https://www.golden-life.cz/lahev-golden-life/",
       "product_id": "597",
       "has_description": false,
-      "image_url": null,
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac79f6d&sg=38cb01fe",
       "page_url": "https://www.golden-life.cz/lahev-golden-life/",
-      "status": "source-primary-image-missing",
-      "placeholder_url": "https://cdn.myshoptet.com/prj/dist/master/cms/img/common/missing_images/big.png"
+      "status": "verified-real-product-photo",
+      "image_alt": "Láhev Golden Life",
+      "image_bytes": 185760,
+      "sha256": "a6291f3b15edecefe6a52557212d01b8743f658aa30270ffb63a12ae49b2ef95",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "selector": "#main-slider-slide01 img",
+      "verified_at": "2026-10-08T14:32:41.661981+00:00"
     },
     {
       "name": "brain",
