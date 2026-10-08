@@ -1,8 +1,11 @@
 {
   "product_id": "597",
-  "ean": "8594203440715",
   "product_url": "https://www.golden-life.cz/lahev-golden-life/",
-  "source_revision": "949ab2a6ff2a94de9ac6e24108ee2018f610fdf7",
+  "source_revision": "2f87b08b8ea4c8afb73b9d57b80c139495381705",
+  "brand_sources": [
+    "brand/RULES.md",
+    "shoptet/README.md (Golden Life box palette and type convention)"
+  ],
   "photo_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac79f6d&sg=38cb01fe",
   "photo_original_sha256": "a6291f3b15edecefe6a52557212d01b8743f658aa30270ffb63a12ae49b2ef95",
   "photo_original_dimensions": [
@@ -29,8 +32,11 @@
     "vhodnost pro horké nápoje",
     "deklarace nepropustnosti"
   ],
-  "font": "Inherited Nunito on live shop; Nunito/Arial fallback in standalone preview",
+  "font": "Metropolis/Arial/Helvetica, same convention as prepared box descriptions; no font file added",
+  "accent": "#d90817, same palette as Golden Life box descriptions",
   "model": "gpt-6.1-sol",
   "paid_generation": false,
-  "shop_written": false
+  "billing_cost": "Model and connector billing unavailable",
+  "shop_written": false,
+  "scope": "Very short copy: single photo card, no FAQs, no purchase actions, no other products"
 }
