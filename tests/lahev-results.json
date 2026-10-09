@@ -243,25 +243,10 @@
       "image_http": 200
     }
   ],
-  "short_description_unchanged": true,
+  "capacity_in_both_descriptions": true,
   "js_errors": [],
   "cms_body_only": true,
   "offline_external_requests": 0,
   "shop_deployed": false,
-  "method": "Actual verified current product images replayed in an isolated browser; colored 32px fixtures explicitly synthetic for main-gallery mutations, identity and failure tests. Link navigation intercepted after each live source URL/product ID was verified. Captured live DOM replacement is local, not a saved Shoptet change.",
-  "live_browser_local_injection": {
-    "gallerySource": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597-1_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac88fc5&sg=38cb01fe",
-    "bottleSource": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597-1_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac88fc5&sg=38cb01fe",
-    "nativeId": "597",
-    "photoLoadedAndVisible": true,
-    "links": [
-      "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
-      "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
-      "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
-      "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/",
-      "https://www.golden-life.cz/beauty-longevity-nad-drink/"
-    ],
-    "localDOMOnly": true,
-    "shopSaved": false
-  }
+  "method": "Actual verified current product images replayed in an isolated browser; colored 32px fixtures explicitly synthetic for main-gallery mutations, identity and failure tests. Link navigation intercepted after each live source URL/product ID was verified. Captured live DOM replacement is local, not a saved Shoptet change."
 }

@@ -1,7 +1,8 @@
 {
   "product_id": "597",
+  "capacity": {"value": "0,5", "unit": "l", "source": "Pavel – aktuální zadání: asi bude fajn tam dát objem a to do obou částí 0,5", "unit_interpretation": "Litry, podle kontextu objemu této lahve"},
   "product_url": "https://www.golden-life.cz/lahev-golden-life/",
-  "source_revision": "7f0a6797e7c1a19d4b0640904564dfe35888e26d",
+  "source_revision": "5936bddbd8e78441cc3ae5c79d13bc985f6ff091",
   "brand_sources": [
     "brand/RULES.md",
     "shoptet/README.md (Golden Life box palette and type convention)"
@@ -21,7 +22,6 @@
     "Šroubovací víčko ve stříbrném odstínu"
   ],
   "missing_verified_specs": [
-    "objem",
     "materiál těla a víčka",
     "myčka",
     "vhodnost pro horké nápoje",
@@ -33,7 +33,7 @@
   "paid_generation": false,
   "billing_cost": "Model and connector billing unavailable",
   "shop_written": false,
-  "scope": "Preserve one bottle card and short copy; add five linked product tiles styled like mixer and sync photo with native main gallery; no cart or shop writes",
+  "scope": "Add user-confirmed capacity 0,5 l to short and long descriptions; preserve bottle card, five linked products and native-gallery photo sync; no cart or shop writes",
   "main_photo_behavior": "Mirrors successfully loaded currentSrc of #main-slider-slide01 img only when native product ID is 597; handles src/srcset and gallery-element replacement; verified gallery URL used as standalone/error fallback",
   "related_sources": [
     {
