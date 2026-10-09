@@ -1,0 +1,5 @@
+
+/* Five benefits in one compact row, including the narrow mobile host. */
+.gl-box-short .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));align-items:start;gap:8px}
+.gl-box-short .maly-ikony>div{min-width:0;line-height:1.3;overflow-wrap:anywhere}
+@media(max-width:767px){.gl-box-short .maly-ikony{gap:4px;margin-top:14px}.gl-box-short .maly-ikony>div{font-size:clamp(11px,2.9vw,12px)}.gl-box-short .maly-ikony .gl-icon{width:28px;height:28px;margin:0 auto 6px}.gl-box-short .gl-short-details{margin:12px 0}}

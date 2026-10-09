@@ -1,0 +1,744 @@
+{
+  "boxes": 5,
+  "layout_cases": 60,
+  "widths": [
+    280,
+    320,
+    360,
+    375,
+    390,
+    414,
+    599,
+    600,
+    767,
+    768,
+    1024,
+    1440
+  ],
+  "details_checked": 25,
+  "html_styles_only": true,
+  "all_25_buttons_and_product_sources_unchanged": true,
+  "portable_file_all_variants_verified": true,
+  "rows": [
+    {
+      "box": "beauty",
+      "width": 280,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 360,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 375,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 390,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 414,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 599,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 600,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 767,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "beauty",
+      "width": 768,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "beauty",
+      "width": 1024,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "beauty",
+      "width": 1440,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "hormonal",
+      "width": 280,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 320,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 360,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 375,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 390,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 414,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 599,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 600,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 767,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "hormonal",
+      "width": 768,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "hormonal",
+      "width": 1024,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "hormonal",
+      "width": 1440,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "longevity",
+      "width": 280,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 320,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 360,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 375,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 390,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 414,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 599,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 600,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 767,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "longevity",
+      "width": 768,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "longevity",
+      "width": 1024,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "longevity",
+      "width": 1440,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "slim",
+      "width": 280,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 320,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 360,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 375,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 390,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 414,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 599,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 600,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 767,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "slim",
+      "width": 768,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "slim",
+      "width": 1024,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "slim",
+      "width": 1440,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "ufirst",
+      "width": 280,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 360,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 375,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 390,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 414,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 599,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 600,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 767,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": true,
+      "desktop_card_layout_unchanged": false
+    },
+    {
+      "box": "ufirst",
+      "width": 768,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "ufirst",
+      "width": 1024,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    },
+    {
+      "box": "ufirst",
+      "width": 1440,
+      "icons_one_row": true,
+      "all_packshots_loaded": true,
+      "no_horizontal_overflow": true,
+      "mobile_image_above_text": false,
+      "desktop_card_layout_unchanged": true
+    }
+  ],
+  "details": [
+    {
+      "box": "beauty",
+      "index": 1,
+      "title": "Láhev Golden Life",
+      "source": "https://www.golden-life.cz/lahev-golden-life/",
+      "status": "Na zdrojové stránce zatím není podrobný popis produktu. Jakmile bude doplněný, načte se sem."
+    },
+    {
+      "box": "beauty",
+      "index": 2,
+      "title": "USB Míchátko",
+      "source": "https://www.golden-life.cz/michatko/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "beauty",
+      "index": 3,
+      "title": "Slim Extreme Collagen – ananas",
+      "source": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "beauty",
+      "index": 4,
+      "title": "Slim & Detox Power",
+      "source": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "beauty",
+      "index": 5,
+      "title": "Good Sleep & Night Burn",
+      "source": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "hormonal",
+      "index": 1,
+      "title": "Láhev Golden Life",
+      "source": "https://www.golden-life.cz/lahev-golden-life/",
+      "status": "Na zdrojové stránce zatím není podrobný popis produktu. Jakmile bude doplněný, načte se sem."
+    },
+    {
+      "box": "hormonal",
+      "index": 2,
+      "title": "USB Míchátko",
+      "source": "https://www.golden-life.cz/michatko/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "hormonal",
+      "index": 3,
+      "title": "Woman Hormonal Balance se Shatavari",
+      "source": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "hormonal",
+      "index": 4,
+      "title": "Peptides GLP-1 Woman Balance Dark Cherry",
+      "source": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "hormonal",
+      "index": 5,
+      "title": "Anti-Age Longevity NAD+",
+      "source": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "longevity",
+      "index": 1,
+      "title": "Láhev Golden Life",
+      "source": "https://www.golden-life.cz/lahev-golden-life/",
+      "status": "Na zdrojové stránce zatím není podrobný popis produktu. Jakmile bude doplněný, načte se sem."
+    },
+    {
+      "box": "longevity",
+      "index": 2,
+      "title": "USB Míchátko",
+      "source": "https://www.golden-life.cz/michatko/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "longevity",
+      "index": 3,
+      "title": "Good Sleep & Night Burn",
+      "source": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "longevity",
+      "index": 4,
+      "title": "Beauty & Longevity NAD+",
+      "source": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "longevity",
+      "index": 5,
+      "title": "Anti-Age Longevity NAD+",
+      "source": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "slim",
+      "index": 1,
+      "title": "Láhev Golden Life",
+      "source": "https://www.golden-life.cz/lahev-golden-life/",
+      "status": "Na zdrojové stránce zatím není podrobný popis produktu. Jakmile bude doplněný, načte se sem."
+    },
+    {
+      "box": "slim",
+      "index": 2,
+      "title": "USB Míchátko",
+      "source": "https://www.golden-life.cz/michatko/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "slim",
+      "index": 3,
+      "title": "Slim Extreme Collagen – mango",
+      "source": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "slim",
+      "index": 4,
+      "title": "Slim & Detox Power",
+      "source": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "slim",
+      "index": 5,
+      "title": "Slim GLP-1 Activator s berberinem",
+      "source": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "ufirst",
+      "index": 1,
+      "title": "Láhev Golden Life",
+      "source": "https://www.golden-life.cz/lahev-golden-life/",
+      "status": "Na zdrojové stránce zatím není podrobný popis produktu. Jakmile bude doplněný, načte se sem."
+    },
+    {
+      "box": "ufirst",
+      "index": 2,
+      "title": "USB Míchátko",
+      "source": "https://www.golden-life.cz/michatko/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "ufirst",
+      "index": 3,
+      "title": "UFIRST All-in-One",
+      "source": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "ufirst",
+      "index": 4,
+      "title": "UFIRST Brain & Focus",
+      "source": "https://www.golden-life.cz/brain-focus/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    },
+    {
+      "box": "ufirst",
+      "index": 5,
+      "title": "UFIRST Care Free",
+      "source": "https://www.golden-life.cz/care-free/",
+      "status": "Ukázka z uloženého snímku zdrojové stránky. Na e-shopu se tento obsah načítá živě."
+    }
+  ],
+  "http_requests": [],
+  "js_errors": [],
+  "method": "Real Chromium rendering with original cached product photos/pages. No live shop write. Native packshots remain uncropped (object-fit:contain)."
+}

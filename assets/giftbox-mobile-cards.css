@@ -1,0 +1,15 @@
+
+/* Mobile cards: full packshot above the text. Never crop the actual product. */
+@media(max-width:767px){
+#special-popis.gl-box-refined .latky-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+#special-popis.gl-box-refined .latky-grid>.odstavec2{display:flex;flex-direction:column;align-items:stretch;min-width:0}
+#special-popis.gl-box-refined .latky-grid>.odstavec2>.obrazek-odstavec{grid-column:auto;grid-row:auto;align-self:stretch;width:100%;height:clamp(220px,62vw,280px);aspect-ratio:auto;object-fit:contain;padding:14px;border-radius:var(--gl-radius-lg) var(--gl-radius-lg) 0 0;background:#fff}
+#special-popis.gl-box-refined .latky-grid>.odstavec2>h4{grid-column:auto;font-size:19px;line-height:1.3;text-align:center;padding:18px 18px 8px;margin:0;overflow-wrap:normal}
+#special-popis.gl-box-refined .latky-grid>.odstavec2>p{grid-column:auto;font-size:15px;line-height:1.6;text-align:center;padding:0 18px;margin:0 0 14px}
+#special-popis.gl-box-refined .latky-grid>.odstavec2>.gl-open-detail{grid-column:auto;align-self:center;margin:2px auto 20px;max-width:calc(100% - 32px);min-height:44px;padding:10px 22px}
+#special-popis.gl-box-refined .gl-packaging-card .gl-packaging-symbol{width:38%;max-width:100px}
+#special-popis.gl-box-refined .latky-grid>.gl-packaging-card>.gl-packaging-badge{grid-column:auto;align-self:center;margin:14px auto 0}
+#special-popis.gl-box-refined .latky-grid>.gl-packaging-card>h4{padding-top:10px}
+#special-popis.gl-box-refined .latky-grid>.gl-packaging-card>.gl-packaging-note{grid-column:auto;font-size:12px;padding:0 18px;margin:0 0 20px;text-align:center}
+}
+@media(max-width:599px){#special-popis.gl-box-refined .latky-grid{grid-template-columns:minmax(0,1fr)}}
