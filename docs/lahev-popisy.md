@@ -1,14 +1,21 @@
-# Láhev Golden Life – stručné popisy
+# Láhev Golden Life – popisy, odkazy a hlavní fotografie
 
-- `shoptet/lahev-kratky.html`: celý obsah vlož do krátkého popisu v HTML režimu.
-- `shoptet/lahev.html`: celý obsah vlož do dlouhého popisu v HTML režimu.
-- `nahledy/lahev.html`: samostatný offline náhled obou popisů se zabalenou fotografií.
-- `web/Golden Life Lahev/`: dlouhý dokument a krátký fragment v `maly/`, stejně jako u boxů.
+- `shoptet/lahev.html`: celý fragment vlož do **dlouhého popisu v HTML režimu**. Není to celý HTML dokument; neobsahuje `<html>`, `<head>` ani `<body>`.
+- `shoptet/lahev-kratky.html`: krátký popis, beze změny.
+- `nahledy/lahev.html`: samostatný offline náhled s vloženými skutečnými fotografiemi.
+- `web/Golden Life Lahev/Golden_Life_Lahev_cz.html`: samostatný pracovní dokument. I ten nyní používá funkční veřejnou fotografii a synchronizaci hlavní galerie, ne relativní `/assets/` cestu.
 
-Zachována červená `#d90817` z připravených Golden Life boxů. Jen jedna produktová karta, žádné další produkty, košík, FAQ ani zdravotní tvrzení. Skutečná fotografie z galerie lahve; jen ořez prázdných okrajů, bez generování nebo úprav potisku. CMS používá původní URL fotografie z e-shopu, ne pohyblivý Git CDN odkaz.
+## Rozsah úpravy
+Zachována jedna hlavní karta láhve, dosavadní krátký text, červená `#d90817` a font Metropolis/Arial/Helvetica. Do karty doplněno pět skutečných odkazů s malými obrázky, obdobně jako vizuální seznam na https://www.golden-life.cz/michatko/: Slim Extreme Collagen ananas, Slim Extreme Collagen ananas/mango, Peptides GLP-1 Woman Balance, Slim GLP-1 Shake cappuccino a Beauty & Longevity NAD+. Každý cíl a packshot je ověřen z aktuálního e-shopu včetně přesného ID produktu. Nápoj cappuccino vede na ID 547, nikoliv na příslušenství pojmenované Shaker.
 
-Zdroj: `brand/RULES.md`, dokumentace barev boxů v `shoptet/README.md`, https://www.golden-life.cz/lahev-golden-life/ (produkt 597) a aktuální úvodní fotografie. Na živé stránce chyběl krátký i dlouhý popis. Objem, materiál, vhodnost do myčky, teplotní odolnost a nepropustnost nejsou doložené, proto je copy neslibuje. Font přebírá styl boxů Metropolis s Arial/Helvetica fallbackem; licence ani nový font se nepřidává.
+## Oprava fotografie
+Při živé kontrole popis láhve obsahoval `/assets/lahev-golden-life.webp`, který na e-shopu nefungoval, a žádné převzetí hlavní galerie. Galerie přitom obsahovala skutečnou načtenou fotografii produktu 597. Nový skript přebírá úspěšně načtený `currentSrc` z `#main-slider-slide01 img`, reaguje na načtení, změnu `src/srcset` a výměnu elementu. Synchronizuje jen na hostiteli s nativním ID 597. Na jiném produktu, bez galerie či při její chybě zůstává ověřený veřejný obrázek láhve; když selže i ten, zobrazí se textový fallback. Žádné obrázky jiného produktu se nepřebírají. Opakované selhání stejného zrcadleného zdroje nevyvolává nekonečné požadavky.
 
-Ověření: viz `tests/lahev-results.json`. Místní Chromium není test uložené Shoptet administrace. Nasazení na e-shop nebylo provedeno.
+Skript je v CMS vložen přímo; nenačítá externí JS. `assets/bottle-main-photo.js` je jeho čitelná zdrojová kopie. Offline fotografie jsou převedeny do WebP bez změn produktu či loga; nová hlavní fotografie je zachována celá.
 
-Model: gpt-6.1-sol. Bez placeného generování obrázků; skutečné poplatky modelu a konektoru nejsou v této relaci dostupné.
+## Zdroje a ověření
+`brand/RULES.md`, dosavadní popis z ověřeného `main`, živé stránky láhve a míchátka, pět propojených produktových stránek. Přesné URL, ID, rozměry a hashe jsou v `config/lahev-sources.json`. Testy jsou v `tests/lahev-results.json`: prohlížeč Chromium, mobil/desktop, skutečné stažené fotografie, zachycené navigace, synchronizace galerie a explicitně syntetické chybové/identitní scénáře. Vzhled ověřen na offline náhledu. Lokální vložení do zachyceného živého DOM neznamená uložení do Shoptetu.
+
+Objem, materiál, myčka, teplotní odolnost ani nepropustnost nejsou doložené a copy je neslibuje. Přidané odkazy obsahují identifikační názvy, nikoliv nová zdravotní tvrzení. Boxy, krátký popis, ceny a košík se nemění. Nasazení do Shoptetu nebylo provedeno.
+
+Model: gpt-6.1-sol. Bez placené obrazové generace; celkové poplatky modelu a konektoru nejsou v nástrojích vyčíslené.

@@ -1,73 +1,267 @@
 {
-  "engine": "Chromium",
+  "engine": "Playwright Chromium",
+  "responsive_cases": 20,
   "rows": [
     {
-      "file": "nahledy/lahev.html",
+      "view": "CMS-long",
       "width": 320,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
     },
     {
-      "file": "nahledy/lahev.html",
+      "view": "CMS-long",
       "width": 390,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
     },
     {
-      "file": "nahledy/lahev.html",
+      "view": "CMS-long",
       "width": 768,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
     },
     {
-      "file": "nahledy/lahev.html",
+      "view": "CMS-long",
+      "width": 1024,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "CMS-long",
       "width": 1440,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
     },
     {
-      "file": "web/Golden Life Lahev/Golden_Life_Lahev_cz.html",
+      "view": "CMS-short-plus-long",
       "width": 320,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
     },
     {
-      "file": "web/Golden Life Lahev/Golden_Life_Lahev_cz.html",
+      "view": "CMS-short-plus-long",
       "width": 390,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
     },
     {
-      "file": "web/Golden Life Lahev/Golden_Life_Lahev_cz.html",
+      "view": "CMS-short-plus-long",
       "width": 768,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
     },
     {
-      "file": "web/Golden Life Lahev/Golden_Life_Lahev_cz.html",
-      "width": 1440,
+      "view": "CMS-short-plus-long",
+      "width": 1024,
+      "real_images_loaded": true,
+      "related_links": 5,
       "no_overflow": true,
-      "photo_loaded": true,
-      "single_bottle_only": true
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "CMS-short-plus-long",
+      "width": 1440,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "standalone-web",
+      "width": 320,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "standalone-web",
+      "width": 390,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "standalone-web",
+      "width": 768,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "standalone-web",
+      "width": 1024,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "standalone-web",
+      "width": 1440,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": null
+    },
+    {
+      "view": "offline-preview",
+      "width": 320,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": 0
+    },
+    {
+      "view": "offline-preview",
+      "width": 390,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": 0
+    },
+    {
+      "view": "offline-preview",
+      "width": 768,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": 0
+    },
+    {
+      "view": "offline-preview",
+      "width": 1024,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": 0
+    },
+    {
+      "view": "offline-preview",
+      "width": 1440,
+      "real_images_loaded": true,
+      "related_links": 5,
+      "no_overflow": true,
+      "duplicate_ids": false,
+      "external_requests": 0
     }
   ],
-  "cms_pair_widths": [
-    320,
-    390,
-    768,
-    1440
+  "checks": [
+    "loaded-native-main-photo-mirrored",
+    "main-src-change-followed",
+    "main-srcset-change-followed",
+    "main-gallery-element-replacement-followed",
+    "stale-target-responsive-attributes-removed",
+    "changed-host-identity-restores-bottle-fallback",
+    "wrong-product-main-photo-not-imported",
+    "late-gallery-arrival-followed",
+    "loaded-placeholder-rejected",
+    "failed-images-show-text-and-recover-on-new-gallery-photo",
+    "all-five-related-links-navigate-to-exact-verified-targets",
+    "host-paragraph-CSS-unchanged",
+    "captured-live-DOM-native-photo-and-links-functional-with-local-replacement"
   ],
-  "cms_real_source_photo_loaded": true,
-  "css_did_not_change_host_paragraph": true,
-  "image_failure_and_recovery_passed": true,
-  "offline_preview_external_requests": 0,
+  "related_targets": [
+    "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+    "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+    "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+    "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+    "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/"
+  ],
+  "live_sources_verified": [
+    {
+      "url": "https://www.golden-life.cz/lahev-golden-life/",
+      "id": "597",
+      "http": 200,
+      "image_http": 200
+    },
+    {
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "id": "383",
+      "http": 200,
+      "image_http": 200
+    },
+    {
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "id": "464",
+      "http": 200,
+      "image_http": 200
+    },
+    {
+      "url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "id": "635",
+      "http": 200,
+      "image_http": 200
+    },
+    {
+      "url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+      "id": "544",
+      "http": 200,
+      "image_http": 200
+    },
+    {
+      "url": "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/",
+      "id": "547",
+      "http": 200,
+      "image_http": 200
+    }
+  ],
+  "short_description_unchanged": true,
   "js_errors": [],
-  "shop_deployed": false
+  "cms_body_only": true,
+  "offline_external_requests": 0,
+  "shop_deployed": false,
+  "method": "Actual verified current product images replayed in an isolated browser; colored 32px fixtures explicitly synthetic for main-gallery mutations, identity and failure tests. Link navigation intercepted after each live source URL/product ID was verified. Captured live DOM replacement is local, not a saved Shoptet change.",
+  "live_browser_local_injection": {
+    "gallerySource": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597-1_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac88fc5&sg=38cb01fe",
+    "bottleSource": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597-1_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac88fc5&sg=38cb01fe",
+    "nativeId": "597",
+    "photoLoadedAndVisible": true,
+    "links": [
+      "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/",
+      "https://www.golden-life.cz/beauty-longevity-nad-drink/"
+    ],
+    "localDOMOnly": true,
+    "shopSaved": false
+  }
 }

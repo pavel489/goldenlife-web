@@ -1,25 +1,20 @@
 {
   "product_id": "597",
   "product_url": "https://www.golden-life.cz/lahev-golden-life/",
-  "source_revision": "2f87b08b8ea4c8afb73b9d57b80c139495381705",
+  "source_revision": "7f0a6797e7c1a19d4b0640904564dfe35888e26d",
   "brand_sources": [
     "brand/RULES.md",
     "shoptet/README.md (Golden Life box palette and type convention)"
   ],
-  "photo_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac79f6d&sg=38cb01fe",
-  "photo_original_sha256": "a6291f3b15edecefe6a52557212d01b8743f658aa30270ffb63a12ae49b2ef95",
+  "photo_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/597-1_lahev.png?ff=1&x=1024&y=1024&q=85&ts=6ac88fc5&sg=38cb01fe",
+  "photo_original_sha256": "450082b1d169b8e27f82a45777d54119e0e5431e6ee308dda3064e2c3b6a458c",
   "photo_original_dimensions": [
     1024,
     1024
   ],
-  "photo_edited": "Whitespace crop only; no alteration of product",
-  "photo_crop": [
-    320,
-    180,
-    704,
-    944
-  ],
-  "photo_asset_sha256": "7e4416d75cb5dd827beeda179186f9fdc05d5a61bc7451b9eda43c5524b05d27",
+  "photo_edited": "Full current primary-gallery photograph; WebP compression only in offline preview",
+  "photo_crop": null,
+  "photo_asset_sha256": "242a3160544f4f39c12cdd9243743ebe57732a8ef70b82eb20865cb44a25ca5a",
   "facts_from_photo": [
     "Průhledné tělo",
     "Bílé logo Golden Life",
@@ -38,5 +33,85 @@
   "paid_generation": false,
   "billing_cost": "Model and connector billing unavailable",
   "shop_written": false,
-  "scope": "Very short copy: single photo card, no FAQs, no purchase actions, no other products"
+  "scope": "Preserve one bottle card and short copy; add five linked product tiles styled like mixer and sync photo with native main gallery; no cart or shop writes",
+  "main_photo_behavior": "Mirrors successfully loaded currentSrc of #main-slider-slide01 img only when native product ID is 597; handles src/srcset and gallery-element replacement; verified gallery URL used as standalone/error fallback",
+  "related_sources": [
+    {
+      "key": "pineapple",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "resolved_url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+      "product_id": "383",
+      "title": "Slim Extreme Collagen box s příchutí ananasu",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-1_sliim-extremecollagen-box.png?ff=1&x=1024&y=1024&q=85&ts=67d2ba82&sg=38cb01fe",
+      "image_sha256": "14539f156907f6348ff0cba266c96e4b4df75fd7dc586cf9e5d4807d7991d950",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "http_status": 200,
+      "image_http_status": 200
+    },
+    {
+      "key": "mango",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "resolved_url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "product_id": "464",
+      "title": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464_sliim-extremecollagen-box--2.png?ff=1&x=1024&y=1024&q=85&ts=68ed0622&sg=38cb01fe",
+      "image_sha256": "0320bd6fd55ffd8274ecedd21b32906fb7a6213757dbce7911c0069368e181ff",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "http_status": 200,
+      "image_http_status": 200
+    },
+    {
+      "key": "peptides",
+      "url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "resolved_url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "product_id": "635",
+      "title": "Peptides GLP-1 Woman Balance Dark Cherry",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_render-cherry-combo.png?ff=1&x=1024&y=1024&q=85&ts=6abf8e1e&sg=38cb01fe",
+      "image_sha256": "20b2efb6f9614a2f00f01914ca140def074e799e9f89b2edb9c02e6ba4581458",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "http_status": 200,
+      "image_http_status": 200
+    },
+    {
+      "key": "shake",
+      "url": "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/",
+      "resolved_url": "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/",
+      "product_id": "547",
+      "title": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+      "image_sha256": "b239e42d3753a8579f4bfb9caf4fc5065cc2e79c27ee483b304fa6d706eb412a",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "http_status": 200,
+      "image_http_status": 200
+    },
+    {
+      "key": "beautynad",
+      "url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+      "resolved_url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+      "product_id": "544",
+      "title": "Beauty Longevity NAD+",
+      "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/544_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e26a6&sg=38cb01fe",
+      "image_sha256": "9443ded84aa4c8a389fbf29b13f72c0f39c2c55f5a84bcabf830be5d340d8d17",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "http_status": 200,
+      "image_http_status": 200
+    }
+  ],
+  "related_reference": "https://www.golden-life.cz/michatko/",
+  "verified_at": "2026-10-09T07:32:35.661769+00:00"
 }
