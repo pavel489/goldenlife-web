@@ -1,0 +1,131 @@
+{
+  "browser": {
+    "passed": true,
+    "runs": [
+      {
+        "mode": "offline-long",
+        "width": 320,
+        "all_images_loaded": true,
+        "nine_native_details_toggle": true,
+        "no_page_overflow": true,
+        "no_external_requests": true,
+        "no_js_errors": true
+      },
+      {
+        "mode": "offline-long",
+        "width": 390,
+        "all_images_loaded": true,
+        "nine_native_details_toggle": true,
+        "no_page_overflow": true,
+        "no_external_requests": true,
+        "no_js_errors": true
+      },
+      {
+        "mode": "offline-long",
+        "width": 768,
+        "all_images_loaded": true,
+        "nine_native_details_toggle": true,
+        "no_page_overflow": true,
+        "no_external_requests": true,
+        "no_js_errors": true
+      },
+      {
+        "mode": "offline-long",
+        "width": 1024,
+        "all_images_loaded": true,
+        "nine_native_details_toggle": true,
+        "no_page_overflow": true,
+        "no_external_requests": true,
+        "no_js_errors": true
+      },
+      {
+        "mode": "offline-long",
+        "width": 1440,
+        "all_images_loaded": true,
+        "nine_native_details_toggle": true,
+        "no_page_overflow": true,
+        "no_external_requests": true,
+        "no_js_errors": true
+      },
+      {
+        "mode": "offline-short",
+        "viewport": 390,
+        "host": 366,
+        "five_icons_in_one_row": true,
+        "no_overflow": true
+      },
+      {
+        "mode": "offline-short",
+        "viewport": 1440,
+        "host": 220,
+        "five_icons_in_one_row": true,
+        "no_overflow": true
+      },
+      {
+        "mode": "offline-short",
+        "viewport": 1440,
+        "host": 320,
+        "five_icons_in_one_row": true,
+        "no_overflow": true
+      },
+      {
+        "mode": "offline-short",
+        "viewport": 1440,
+        "host": 540,
+        "five_icons_in_one_row": true,
+        "no_overflow": true
+      }
+    ],
+    "limits": [
+      "Chromium emulation only, not physical devices.",
+      "Offline preview uses a fallback font until host-font test.",
+      "Native-host integration tested separately before publication."
+    ]
+  },
+  "host": {
+    "passed": true,
+    "public_photo_exact_bytes_verified": true,
+    "runs": [
+      {
+        "mode": "sanitized_real_storefront_DOM_and_live_CSS",
+        "width": 390,
+        "all_component_images_loaded": true,
+        "nine_details_toggle": true,
+        "native_CTA_focus_no_submit": true,
+        "no_write_requests": true,
+        "font": "Nunito, Arial, sans-serif",
+        "errors": []
+      },
+      {
+        "mode": "sanitized_real_storefront_DOM_and_live_CSS",
+        "width": 1440,
+        "all_component_images_loaded": true,
+        "nine_details_toggle": true,
+        "native_CTA_focus_no_submit": true,
+        "no_write_requests": true,
+        "font": "Nunito, Arial, sans-serif",
+        "errors": []
+      },
+      {
+        "mode": "synthetic_branches",
+        "wrong_product_no_native_data": true,
+        "later_correct_product_synced": true,
+        "native_text_mutation_synced": true,
+        "gallery_swap_and_removal_fallback": true,
+        "return_to_wrong_product_cleared": true
+      }
+    ],
+    "limits": [
+      "Sanitized real storefront DOM with current public CSS, not saved CMS.",
+      "Synthetic branch text and images are test-only, not real shop values.",
+      "No purchase or shop write occurred."
+    ]
+  },
+  "invariants": {
+    "ingredient_count": 9,
+    "all_ingredient_paragraphs_preserved": true,
+    "full_composition_table_preserved": true,
+    "short_copy_preserved": true,
+    "dosage_warning_texts_preserved": true
+  }
+}
