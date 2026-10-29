@@ -1,0 +1,272 @@
+{
+  "base": "afc9af327d3875033ed695adf7d83997323345c7",
+  "paths": [
+    "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+  ],
+  "passed": true,
+  "literal_requester_path": "user/documents/upload/womanhormonalbalancetabletky/ashvaganda uvod.png",
+  "resolved_src": "/user/documents/upload/womanhormonalbalancetabletky/ashvaganda uvod.png",
+  "source_sha256": "bba1d777a5a9e41940db132d9ea620cbce2c86e11937433d0c717f6414e52bff",
+  "source_alpha_extrema": [
+    0,
+    255
+  ],
+  "source_actual_bytes_downloaded_and_visually_inspected": true,
+  "runs": [
+    {
+      "width": 320,
+      "intro_image_loaded_and_visible": true,
+      "image_has_no_text_dose_button_overlap": true,
+      "image_inside_banner": true,
+      "eleven_icons_remain_red": true,
+      "all_nine_dialogs_preserved": true,
+      "boxes": {
+        "root": {
+          "x": 16,
+          "y": 150,
+          "right": 304,
+          "bottom": 955.796875,
+          "w": 288,
+          "h": 805.796875
+        },
+        "image": {
+          "x": 81.34375,
+          "y": 510.578125,
+          "right": 238.640625,
+          "bottom": 664.984375,
+          "w": 157.296875,
+          "h": 154.40625
+        },
+        "text": {
+          "x": 39,
+          "y": 185,
+          "right": 281,
+          "bottom": 492.578125,
+          "w": 242,
+          "h": 307.578125
+        },
+        "dose": {
+          "x": 39,
+          "y": 678.984375,
+          "right": 281,
+          "bottom": 771.984375,
+          "w": 242,
+          "h": 93
+        },
+        "button": {
+          "x": 39,
+          "y": 864.796875,
+          "right": 281,
+          "bottom": 920.796875,
+          "w": 242,
+          "h": 56
+        }
+      }
+    },
+    {
+      "width": 390,
+      "intro_image_loaded_and_visible": true,
+      "image_has_no_text_dose_button_overlap": true,
+      "image_inside_banner": true,
+      "eleven_icons_remain_red": true,
+      "all_nine_dialogs_preserved": true,
+      "boxes": {
+        "root": {
+          "x": 16,
+          "y": 132,
+          "right": 374,
+          "bottom": 889.734375,
+          "w": 358,
+          "h": 757.734375
+        },
+        "image": {
+          "x": 93.59375,
+          "y": 429.78125,
+          "right": 296.390625,
+          "bottom": 628.859375,
+          "w": 202.796875,
+          "h": 199.078125
+        },
+        "text": {
+          "x": 39,
+          "y": 167,
+          "right": 351,
+          "bottom": 411.78125,
+          "w": 312,
+          "h": 244.78125
+        },
+        "dose": {
+          "x": 39,
+          "y": 642.859375,
+          "right": 351,
+          "bottom": 735.859375,
+          "w": 312,
+          "h": 93
+        },
+        "button": {
+          "x": 39,
+          "y": 813.734375,
+          "right": 351,
+          "bottom": 854.734375,
+          "w": 312,
+          "h": 41
+        }
+      }
+    },
+    {
+      "width": 768,
+      "intro_image_loaded_and_visible": true,
+      "image_has_no_text_dose_button_overlap": true,
+      "image_inside_banner": true,
+      "eleven_icons_remain_red": true,
+      "all_nine_dialogs_preserved": true,
+      "boxes": {
+        "root": {
+          "x": 0,
+          "y": 96,
+          "right": 768,
+          "bottom": 847.359375,
+          "w": 768,
+          "h": 751.359375
+        },
+        "image": {
+          "x": 254,
+          "y": 346.1875,
+          "right": 514,
+          "bottom": 601.421875,
+          "w": 260,
+          "h": 255.234375
+        },
+        "text": {
+          "x": 23,
+          "y": 131,
+          "right": 745,
+          "bottom": 328.1875,
+          "w": 722,
+          "h": 197.1875
+        },
+        "dose": {
+          "x": 23,
+          "y": 615.421875,
+          "right": 745,
+          "bottom": 708.421875,
+          "w": 722,
+          "h": 93
+        },
+        "button": {
+          "x": 23,
+          "y": 771.359375,
+          "right": 745,
+          "bottom": 812.359375,
+          "w": 722,
+          "h": 41
+        }
+      }
+    },
+    {
+      "width": 1024,
+      "intro_image_loaded_and_visible": true,
+      "image_has_no_text_dose_button_overlap": true,
+      "image_inside_banner": true,
+      "eleven_icons_remain_red": true,
+      "all_nine_dialogs_preserved": true,
+      "boxes": {
+        "root": {
+          "x": 0,
+          "y": 96,
+          "right": 1024,
+          "bottom": 579.921875,
+          "w": 1024,
+          "h": 483.921875
+        },
+        "image": {
+          "x": 717,
+          "y": 154.453125,
+          "right": 977,
+          "bottom": 414.453125,
+          "w": 260,
+          "h": 260
+        },
+        "text": {
+          "x": 47,
+          "y": 147,
+          "right": 687,
+          "bottom": 421.921875,
+          "w": 640,
+          "h": 274.921875
+        },
+        "dose": {
+          "x": 717,
+          "y": 421.921875,
+          "right": 977,
+          "bottom": 528.921875,
+          "w": 260,
+          "h": 107
+        },
+        "button": {
+          "x": 47,
+          "y": 487.015625,
+          "right": 687,
+          "bottom": 528.015625,
+          "w": 640,
+          "h": 41
+        }
+      }
+    },
+    {
+      "width": 1440,
+      "intro_image_loaded_and_visible": true,
+      "image_has_no_text_dose_button_overlap": true,
+      "image_inside_banner": true,
+      "eleven_icons_remain_red": true,
+      "all_nine_dialogs_preserved": true,
+      "boxes": {
+        "root": {
+          "x": 170,
+          "y": 78,
+          "right": 1270,
+          "bottom": 577.1875,
+          "w": 1100,
+          "h": 499.1875
+        },
+        "image": {
+          "x": 963,
+          "y": 144.09375,
+          "right": 1223,
+          "bottom": 404.09375,
+          "w": 260,
+          "h": 260
+        },
+        "text": {
+          "x": 217,
+          "y": 129,
+          "right": 857,
+          "bottom": 419.1875,
+          "w": 640,
+          "h": 290.1875
+        },
+        "dose": {
+          "x": 963,
+          "y": 419.1875,
+          "right": 1223,
+          "bottom": 526.1875,
+          "w": 260,
+          "h": 107
+        },
+        "button": {
+          "x": 217,
+          "y": 484.28125,
+          "right": 933,
+          "bottom": 525.28125,
+          "w": 716,
+          "h": 41
+        }
+      }
+    }
+  ],
+  "only_image_and_banner_layout_changed": true,
+  "all_copy_other_images_CTA_and_icon_filters_unchanged": true,
+  "new_paid_generations": 0,
+  "shop_saved": false,
+  "concern": "Requester-selected botanical illustration is not a depiction of NAD formulation."
+}

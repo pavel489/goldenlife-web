@@ -4,6 +4,6 @@ Vrácen přesný původní obrázek pozadí CTA z původního NAD HTML: https://
 
 Dva vínové filtry zděděné z Woman Hormonal Balance nahrazeny původním červeným filtrem NAD ze zdrojového HTML. Týká se6 hlavních a5 „bez…“ ikon v dlouhém popisu. Krátký popis již stejný původní červený filtr používá a zůstává beze změny. Žádné přebarvení autentického obalu, změna tvaru ikon, textu či složení.
 
-Otevřeno: konkrétní obrázek pro úplně horní banner NAD+ nebyl ve zdrojových verzích ani ve vyhledaných vlastních uložených zadáních jednoznačně identifikován. Není nahrazený odhadem. Vyžaduje upřesnění názvu/obrázku od zadavatele.
+Vyřešeno: zadavatel výslovně určil obrázek `user/documents/upload/womanhormonalbalancetabletky/ashvaganda uvod.png`. Přesně tento originál je doplněn do prvního banneru jako dekorativní ilustrace; nebyl vygenerován ani přejmenován. Upraveno jen rozložení prvního banneru tak, aby se obrázek, text a dávka nepřekrývaly na desktopu ani mobilu. Bylinná ilustrace není vyobrazením složení NAD+.
 
 Testy: pět šířek320/390/768/1024/1440, správný filtr všech11 ikon, původní desktopový breakpoint pozadí, všech9 existujících dialogů a nulové nové externí požadavky offline náhledu. Finální CTA a ikony vizuálně prohlédnuty. Původní zdravotní tvrzení nejsou nově schválená. Nová placená obrazová generace:0; náklady modelového/connectorového běhu nevyčíslené. Do Shoptetu se neukládalo.
