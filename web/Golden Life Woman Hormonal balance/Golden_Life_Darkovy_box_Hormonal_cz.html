@@ -1160,7 +1160,7 @@
 </div>
 <div class="product-container">
 <div class="cta-box">
-<div class="cta-content"><img src="/user/documents/upload/womanhormonalbalancetabletky/cta.png" alt="Woman Hormonal Balance se Shatavari" class="cta-product-img" />
+<div class="cta-content"><img src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6abfc83e&amp;sg=38cb01fe" alt="Woman Hormonal Balance se Shatavari" class="cta-product-img" />
 <div class="cta-text">
 <h3 class="barvaruzova">Woman Hormonal Balance se Shatavari</h3>
 <p class="cta-meta">Balení: 47,4 g | 60 kapslí &nbsp;·&nbsp; Délka kúry: 30 dní, doporučeno minimálně 3 měsíce</p>
@@ -1290,29 +1290,40 @@
 })();
 
 (function() {
-  function syncHeroImg() {
-    var slide = document.getElementById('main-slider-slide01');
-    if (!slide) return false;
-    var slideImg = slide.querySelector('a > img');
-    if (!slideImg || !slideImg.src) return false;
-    var heroImg = document.querySelector('.hero-row .heroimg');
-    if (heroImg) {
-      heroImg.src = slideImg.src;
-      return true;
-    }
-    return false;
+  'use strict';
+  var root = document.getElementById('special-popis');
+  if (!root) return;
+  var targets = root.querySelectorAll('.hero-row .heroimg, .cta-content .cta-product-img');
+  var defaults = Array.prototype.map.call(targets, function(img) { return img.getAttribute('src'); });
+  var failed = new Set(), queued = false;
+  function setImage(img, url) {
+    if (!url || img.getAttribute('src') === url) return;
+    ['srcset', 'sizes', 'data-src', 'data-srcset', 'data-lazy'].forEach(function(a) { img.removeAttribute(a); });
+    img.src = url;
   }
-  if (syncHeroImg()) return;
-  document.addEventListener('DOMContentLoaded', function() {
-    if (syncHeroImg()) return;
-    var attempts = 0;
-    var iv = setInterval(function() {
-      if (syncHeroImg() || ++attempts >= 20) clearInterval(iv);
-    }, 500);
+  function sync() {
+    queued = false;
+    if (!root.isConnected) { observer.disconnect(); return; }
+    var form = document.getElementById('product-detail-form');
+    var id = form && form.querySelector('input[name="productId"]');
+    var image = document.querySelector('#main-slider-slide01 img');
+    var url = image && (image.currentSrc || image.getAttribute('src'));
+    var valid = id && id.value === '644' && image && !root.contains(image) && image.complete && image.naturalWidth > 1 && url && !failed.has(url) && !/missing_images|missing-image|no-image/i.test(url);
+    Array.prototype.forEach.call(targets, function(img, i) { setImage(img, valid ? url : defaults[i]); });
+  }
+  function schedule() { if (!queued) { queued = true; queueMicrotask(sync); } }
+  Array.prototype.forEach.call(targets, function(img, i) {
+    img.addEventListener('error', function() {
+      var url = img.getAttribute('src');
+      if (url !== defaults[i]) { failed.add(url); setImage(img, defaults[i]); }
+    });
   });
-  var mo = new MutationObserver(function() {
-    if (syncHeroImg()) mo.disconnect();
-  });
-  mo.observe(document.documentElement, { childList: true, subtree: true });
+  var observer = new MutationObserver(schedule);
+  observer.observe(document.documentElement, { childList: true, subtree: true, attributes: true, attributeFilter: ['src', 'srcset', 'sizes', 'value', 'id'] });
+  document.addEventListener('load', function(e) { if (!root.contains(e.target)) schedule(); }, true);
+  document.addEventListener('error', function(e) { if (!root.contains(e.target)) schedule(); }, true);
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', schedule, { once: true });
+  window.addEventListener('pagehide', function() { observer.disconnect(); }, { once: true });
+  schedule();
 })();</script>
 </p>

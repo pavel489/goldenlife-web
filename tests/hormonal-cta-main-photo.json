@@ -1,0 +1,23 @@
+{
+  "source": "def7acade0545f43c07bd8e3a467ae46a6c1373c",
+  "product_id": "644",
+  "default_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe",
+  "copy_unchanged": true,
+  "ingredient_section_unchanged": true,
+  "fixture_checks": [
+    "correct_644_mirrors_both",
+    "gallery_src_change",
+    "gallery_srcset_change",
+    "gallery_element_replaced",
+    "failed_gallery_fallback",
+    "wrong_product_guard",
+    "no_form_fallback",
+    "late_gallery"
+  ],
+  "actual_photo_preview_widths": [
+    390,
+    1440
+  ],
+  "errors": [],
+  "shop_saved": false
+}
