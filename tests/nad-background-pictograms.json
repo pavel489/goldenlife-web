@@ -1,0 +1,57 @@
+{
+  "base": "d94cb21a89813274ead2d7815ee8c430e332e577",
+  "paths": [
+    "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+  ],
+  "passed": true,
+  "runs": [
+    {
+      "width": 320,
+      "eleven_long_icons_use_original_red_filter": true,
+      "cta_original_background_at_original_desktop_breakpoint": false,
+      "all_nine_dialogs_preserved": true,
+      "no_page_overflow": true,
+      "no_external_requests": true
+    },
+    {
+      "width": 390,
+      "eleven_long_icons_use_original_red_filter": true,
+      "cta_original_background_at_original_desktop_breakpoint": false,
+      "all_nine_dialogs_preserved": true,
+      "no_page_overflow": true,
+      "no_external_requests": true
+    },
+    {
+      "width": 768,
+      "eleven_long_icons_use_original_red_filter": true,
+      "cta_original_background_at_original_desktop_breakpoint": true,
+      "all_nine_dialogs_preserved": true,
+      "no_page_overflow": true,
+      "no_external_requests": true
+    },
+    {
+      "width": 1024,
+      "eleven_long_icons_use_original_red_filter": true,
+      "cta_original_background_at_original_desktop_breakpoint": true,
+      "all_nine_dialogs_preserved": true,
+      "no_page_overflow": true,
+      "no_external_requests": true
+    },
+    {
+      "width": 1440,
+      "eleven_long_icons_use_original_red_filter": true,
+      "cta_original_background_at_original_desktop_breakpoint": true,
+      "all_nine_dialogs_preserved": true,
+      "no_page_overflow": true,
+      "no_external_requests": true
+    }
+  ],
+  "only_two_filter_replacements_and_original_CTA_background_added": true,
+  "copy_and_all_image_sources_unchanged": true,
+  "original_cta_source": "47fcc622245dcba59b5873aab2e475ba74cda5b8:web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+  "background_url": "https://www.golden-life.cz/user/documents/upload/produktove_stranky/Anti-Age-Longevity-NAD.png",
+  "intro_image_status": "unresolved_specific_original_not_identified; ask requester rather than guess",
+  "short_description_already_uses_original_red_filter": true,
+  "new_paid_generations": 0,
+  "shop_saved": false
+}
