@@ -1,0 +1,77 @@
+{
+  "source_commit": "6b78706f220c6c4d7877f1c25cbc2844d368581e",
+  "source_file": "web/Golden Life Hormonal Duo/Golden_Life__Hormonal_duo_cz.html",
+  "replacement_count": 2,
+  "only_two_image_urls_changed": true,
+  "copy_css_scripts_preserved": true,
+  "short_description_unchanged": true,
+  "sources": [
+    {
+      "product_id": "644",
+      "card_name": "Woman Hormonal Balance se Shatavari",
+      "page_url": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "resolved_url": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "old_src": "/user/documents/upload/womanhormonalbalancetabletky/cta.png",
+      "main_image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "46586ffb2f92425870764d77bba5235606544842a8cdaa16534834352edbf041",
+      "downloaded": "/root/workspace/jobs/2026-10-29_hormonal-duo-main/out/produkt-644.png"
+    },
+    {
+      "product_id": "635",
+      "card_name": "Peptides GLP-1 Woman Balance Dark Cherry",
+      "page_url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "resolved_url": "https://www.golden-life.cz/hormonal-balance-nocni-glp-1-drink/",
+      "old_src": "/user/documents/upload/peptidesglp1womanbalancedarkcherry/cta.png",
+      "main_image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_box-komplet-peptides.png?ff=1&x=1024&y=1024&q=85&ts=6ace0dbd&sg=38cb01fe",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "sha256": "4faa008779ac9c46576c33c387142f630af3981f66f7fb643f020be1968078b6",
+      "downloaded": "/root/workspace/jobs/2026-10-29_hormonal-duo-main/out/produkt-635.png"
+    }
+  ],
+  "browser_tests": [
+    {
+      "width": 320,
+      "two_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "two_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 768,
+      "two_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 1024,
+      "two_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "two_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    }
+  ],
+  "offline_preview_no_external_requests": true,
+  "shop_saved": false
+}
