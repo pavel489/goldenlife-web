@@ -241,7 +241,7 @@ async function fetchDetail(url) {
   const res = await fetch(url);
   if (!res.ok) throw new Error('Nelze načíst obsah');
   const doc = new DOMParser().parseFromString(await res.text(), 'text/html');
-  const el = doc.querySelector('#special-popis') || doc.querySelector('.ufirst-detail');
+  const el = doc.querySelector('#special-popis') || doc.querySelector('#nad-popis') || doc.querySelector('.ufirst-detail');
   if (!el) return null;
   /* Z náhledu odstranit nákupní prvky i skripty – v balíčku se kupuje TRIO. */
   el.querySelectorAll('.cta-box, .uf-footcta').forEach(function(n){ (n.closest('.product-container') || n).remove(); });
