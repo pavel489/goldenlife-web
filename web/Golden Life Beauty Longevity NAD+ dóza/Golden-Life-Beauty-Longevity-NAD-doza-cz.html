@@ -1,0 +1,1404 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- Beauty Longevity NAD+ dóza: 270 g, denní dávka 9 g. Nový samostatný HTML popis; původní sáčková varianta beze změny. -->
+<style><!--
+
+
+#special-popis {
+  --gl-color-primary: #bf1818;
+  --gl-color-primary-hover: #991313;
+  --gl-color-primary-rgb: 191, 24, 24;
+  --gl-color-bg-light: #fdf1f1;
+  --gl-color-bg-light-rgb: 253, 241, 241;
+  --gl-color-bg-grey: #f0f0f0;
+  --gl-color-table-border: var(--gl-color-primary-hover);
+  --gl-color-table-bg: #f8dfdf;
+  --gl-color-table-row-alt: #fcf0f0;
+  --gl-color-text-muted: #555;
+  --gl-color-text-subtle: #999;
+  --gl-color-success: #27ae60;
+  --gl-radius-sm: 6px;
+  --gl-radius-md: 12px;
+  --gl-radius-lg: 24px;
+  --gl-radius-xl: 16px;
+  --gl-radius-pill: 50px;
+}
+
+/* Všechny fonty na Metropolis */
+#special-popis,
+#special-popis * {
+  font-family: Metropolis, Arial, Helvetica, sans-serif !important;
+}
+
+#special-popis h1, #special-popis h2, #special-popis h3, #special-popis h4 {
+  color: var(--gl-color-primary);
+  font-weight: bold;
+}
+
+#special-popis h2, #special-popis h3, #special-popis h4 {
+  font-family: Metropolis, Arial, Helvetica, sans-serif;
+}
+
+#special-popis h2 { font-size: 32px; margin: 20px 0 10px; }
+#special-popis h3 { font-size: 28px; margin: 15px 0 8px; }
+#special-popis h4 { font-size: 1.8rem; margin: 10px 0 5px; }
+
+#special-popis h1::after,
+#special-popis h2::after,
+#special-popis h3::after,
+#special-popis h4::after {
+  content: none !important;
+  display: none !important;
+}
+
+.barvaruzova { color: var(--gl-color-primary); }
+.p-mobil { padding: 0 5px; }
+.text-justify { text-align: justify; }
+.text-center { text-align: center; }
+.dobloku { text-align: justify; }
+
+#special-popis p {
+  font-size: 16px;
+  line-height: 1.65;
+  margin: 0 0 10px;
+}
+
+.product-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 10px 16px 20px;
+}
+
+@media (min-width: 768px) {
+  .product-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  
+@media (max-width: 768px) {
+.latky-grid .odstavec2 {
+        padding: 0px 0 0;}
+}
+}
+.custom-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  text-align: center;
+  justify-items: center;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 1024px) {
+  .custom-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+/* Jak užívat – piktogramy na mobilu v jedné řádce (všech 5 vedle sebe) */
+@media (max-width: 768px) {
+  .custom-grid {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 6px;
+  }
+  .custom-grid > div { min-width: 0; }
+  .custom-grid img { max-width: 42px !important; width: 100%; height: auto; }
+  .custom-grid .p-card-p { font-size: 10px; line-height: 1.25; overflow-wrap: break-word; word-break: break-word; }
+}
+
+.custom-grid img {
+  max-width: 80px;
+  height: auto;
+  margin-bottom: 0.5rem;
+  filter: brightness(0) saturate(100%) invert(15%) sepia(94%) saturate(2883%) hue-rotate(349deg) brightness(92%) contrast(95%);
+}
+
+.obrazek-odstavec {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+  border-radius: var(--gl-radius-lg) var(--gl-radius-lg) 0 0;
+}
+
+.odstavec2 {
+  border: 1px solid var(--gl-color-bg-grey);
+  border-radius: var(--gl-radius-lg);
+  padding: 0 10px 0 0;
+  margin: 10px 0;
+  background-color: var(--gl-color-bg-light);
+  overflow: hidden;
+}
+
+.latky {
+  background-color: var(--gl-color-bg-grey);
+  border-radius: var(--gl-radius-lg);
+  padding: 18px 25px 22px;
+}
+
+.story-block {
+  display: grid;
+  grid-template-columns: minmax(280px, 380px) 1fr;
+  gap: 24px;
+  align-items: stretch;
+}
+
+.story-block-image img {
+  width: 100%;
+  height: 100%;
+  min-height: 320px;
+  object-fit: cover;
+  display: block;
+  border-radius: var(--gl-radius-lg);
+}
+
+.story-block-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.latky-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  align-items: stretch;
+}
+
+.latky-grid-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 599px) {
+  .latky-grid-4 {
+    grid-template-columns: 1fr;
+  }
+
+  .story-block {
+    grid-template-columns: 1fr;
+  }
+
+  .story-block-image img {
+    min-height: 220px;
+  }
+}
+
+@media (min-width: 600px) {
+  .latky-grid {
+    grid-template-columns: repeat(3, 1fr);
+    align-items: stretch;
+  }
+}
+
+.latky-grid .odstavec2 {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 0px 0 0;
+  margin: 0;
+  position: relative;
+}
+
+#special-popis .latky-grid .odstavec2 h4 {
+  position: static;
+  display: block;
+  color: var(--gl-color-primary);
+  background: none;
+  box-shadow: none;
+  padding: 10px 12px 2px;
+  margin: 0;
+  white-space: normal;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#special-popis .latky-grid .odstavec2 p {
+  display: block;
+  position: static;
+  padding: 2px 25px 0;
+  margin: 0 0 10px;
+  width: auto;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+@media (max-width: 768px) {
+  .odstavec2 {
+    padding: 10px;
+    margin: 10px;
+    border-radius: var(--gl-radius-lg);
+  }
+  .latky { border-radius: 0; }
+  .odstavec2 h4 {
+    text-align: left;
+    background: none;
+    padding: 0;
+    border-radius: 0;
+    display: block;
+    text-shadow: none;
+  }
+  .latky-grid .odstavec2 {
+    border-radius: var(--gl-radius-md);
+    margin: 0;
+    padding: 14px 0 0;
+  }
+  .ucinky-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .latky-grid-4 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 599px) {
+  .latky-grid-4 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Aktivní látky – na mobilu vodorovný swipe slider (vedle sebe), jako .uf-swipe v UFIRST */
+@media (max-width: 768px) {
+  .latky-grid-4.latky-swipe {
+    display: flex;
+    grid-template-columns: none;
+    gap: 12px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gl-color-primary) rgba(191, 24, 24, 0.12);
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 12px;
+  }
+  .latky-grid-4.latky-swipe::-webkit-scrollbar { height: 8px; }
+  .latky-grid-4.latky-swipe::-webkit-scrollbar-track { background: rgba(191, 24, 24, 0.12); border-radius: 50px; }
+  .latky-grid-4.latky-swipe::-webkit-scrollbar-thumb { background: var(--gl-color-primary); border-radius: 50px; }
+  .latky-grid-4.latky-swipe > .odstavec2 {
+    flex: 0 0 82%;
+    scroll-snap-align: center;
+    padding: 0;
+  }
+}
+
+/* Aktivní látky – náhled (krátká věta + tlačítko "+") a modální okno (CSS-only, :target) */
+#special-popis .latky-grid .odstavec2 .latky-teaser {
+  text-align: center;
+  color: var(--gl-color-text-muted);
+  font-size: 14px;
+  padding: 0 16px;
+  margin: 4px 0 12px;
+}
+.latky-plus {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  background: var(--gl-color-primary);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 24px;
+  line-height: 1;
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(var(--gl-color-primary-rgb), 0.3);
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+.latky-plus:hover { transform: scale(1.1); background: var(--gl-color-primary-hover); }
+
+.latky-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.latky-modal:target { display: flex; }
+.latky-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+}
+.latky-modal-box {
+  position: relative;
+  z-index: 1;
+  background: #fff;
+  border-radius: var(--gl-radius-lg);
+  max-width: 560px;
+  width: 100%;
+  max-height: 88vh;
+  overflow-y: auto;
+  padding-bottom: 24px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+}
+.latky-modal-img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+  border-radius: var(--gl-radius-lg) var(--gl-radius-lg) 0 0;
+}
+.latky-modal-box h4 {
+  padding: 16px 24px 6px;
+  text-align: center;
+}
+.latky-modal-box p {
+  padding: 0 24px;
+  margin: 0 0 10px;
+}
+.latky-modal-close {
+  position: absolute;
+  top: 12px;
+  right: 14px;
+  z-index: 2;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: 50%;
+  font-size: 26px;
+  line-height: 1;
+  color: var(--gl-color-primary);
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+}
+
+.cta-box {
+  background: linear-gradient(135deg, var(--gl-color-bg-light) 0%, #fff7f7 100%);
+  border: 2px solid var(--gl-color-primary);
+  border-radius: var(--gl-radius-lg);
+  padding: 20px;
+  margin: 20px 0;
+  box-shadow: 0 4px 12px rgba(var(--gl-color-primary-rgb), 0.1);
+}
+
+.cta-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  text-align: center;
+}
+
+.cta-content > * + * { margin-top: 16px; }
+
+.cta-text {
+  flex: 1;
+  text-align: center;
+}
+
+@media (min-width: 600px) {
+  .cta-content {
+    flex-direction: row;
+    text-align: left;
+    gap: 24px;
+    justify-content: center;
+  }
+  .cta-text { text-align: left; }
+}
+
+.cta-price {
+  font-size: 2.2rem;
+  color: var(--gl-color-primary);
+  font-weight: bold;
+  margin: 12px 0 4px;
+  line-height: 1.1;
+}
+
+.cta-price-label {
+  font-size: 0.85rem;
+  color: var(--gl-color-text-subtle);
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+.cta-meta {
+  font-size: 0.95rem;
+  color: var(--gl-color-text-muted);
+  margin: 0 0 10px;
+}
+
+.cta-button {
+  background-color: var(--gl-color-primary);
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 14px 35px;
+  border: none;
+  border-radius: var(--gl-radius-pill);
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: inline-block;
+  text-decoration: none;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.cta-button:hover {
+  background-color: var(--gl-color-primary-hover);
+  color: white !important;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(var(--gl-color-primary-rgb), 0.3);
+}
+
+.cta-availability {
+  color: var(--gl-color-success);
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-top: 8px;
+}
+
+.cta-product-img {
+  max-width: 220px;
+  height: auto;
+  margin: 0 auto 15px;
+  display: block;
+  filter: drop-shadow(0 10px 24px rgba(var(--gl-color-primary-rgb), 0.3));
+}
+
+@media (min-width: 768px) {
+  .cta-product-img { max-width: 260px; }
+}
+
+.ruzovatabulka.tabulka {
+  border-radius: var(--gl-radius-md);
+  overflow: hidden;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--gl-color-table-border);
+  background-color: var(--gl-color-table-bg);
+  margin-bottom: 15px;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.ruzovatabulka.tabulka th:first-child,
+.ruzovatabulka.tabulka td:first-child { width: 55%; }
+
+.ruzovatabulka.tabulka th:nth-child(2),
+.ruzovatabulka.tabulka td:nth-child(2),
+.ruzovatabulka.tabulka th:nth-child(3),
+.ruzovatabulka.tabulka td:nth-child(3) {
+  width: 22.5%;
+  text-align: right;
+}
+
+.ruzovatabulka.tabulka td,
+.ruzovatabulka.tabulka th {
+  padding: 10px 12px;
+}
+
+.ruzovatabulka.tabulka td {
+  border: 1px solid var(--gl-color-bg-grey);
+  border-left: none;
+  border-top: none;
+}
+
+.ruzovatabulka.tabulka th {
+  border: none;
+  padding-top: 9px;
+}
+
+.ruzovatabulka.tabulka tr:nth-child(even) td {
+  background-color: var(--gl-color-table-row-alt);
+}
+
+.ruzovatabulka.tabulka tr:first-child th {
+  background-color: var(--gl-color-primary);
+  color: white;
+}
+
+.ruzovatabulka.tabulka th:first-child { border-top-left-radius: var(--gl-radius-md); }
+.ruzovatabulka.tabulka th:last-child { border-top-right-radius: var(--gl-radius-md); }
+.ruzovatabulka.tabulka tr:last-child td:first-child,
+.ruzovatabulka.tabulka tr:last-child th:first-child { border-bottom-left-radius: var(--gl-radius-md); }
+.ruzovatabulka.tabulka tr:last-child td:last-child,
+.ruzovatabulka.tabulka tr:last-child th:last-child { border-bottom-right-radius: var(--gl-radius-md); }
+
+.hero-img {
+  background: linear-gradient(145deg, var(--gl-color-bg-light) 0%, #fff8f8 50%, var(--gl-color-bg-light) 100%);
+  border-radius: var(--gl-radius-lg);
+  padding: 32px;
+  margin: 0 0 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: stretch;
+  gap: 30px;
+}
+
+@media (max-width: 768px) {
+  .hero-img {
+    grid-template-columns: 1fr;
+    padding: 24px 16px;
+    gap: 20px;
+  }
+  .hero-icons-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-img {
+    grid-template-columns: 1fr;
+    padding: 24px 16px;
+    border-radius: var(--gl-radius-xl);
+    margin: 0 0 24px;
+    gap: 20px;
+  }
+  .hero-row { margin-bottom: 0 !important; }
+  .hero-icons-grid { gap: 8px; }
+  .p-icon-card { padding: 12px 6px 10px; border-radius: var(--gl-radius-md); }
+  .p-card-img { width: 64px; height: 64px; }
+}
+
+/* Hlavní účinky – piktogramy na mobilu 3 a 3 (6 ikon ve dvou řádcích) */
+@media (max-width: 768px) {
+  .hero-icons-grid {
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    gap: 8px;
+    height: auto;
+  }
+  .hero-icons-grid .p-icon-card {
+    min-width: 0;
+    height: auto;
+    padding: 12px 5px 10px;
+  }
+  .hero-icons-grid .p-card-img {
+    width: 52px !important;
+    height: auto;
+    margin-bottom: 6px;
+  }
+  #special-popis .hero-icons-grid .p-card-p {
+    font-size: 11px;
+    line-height: 1.25;
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+}
+
+.hero-icons-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: 1fr;
+  gap: 12px;
+  height: 100%;
+}
+
+.p-icon-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.92);
+  border-radius: var(--gl-radius-md);
+  padding: 16px 10px 14px;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);
+  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);
+}
+
+.p-icon-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1);
+}
+
+.p-card-img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 8px;
+  filter: brightness(0) saturate(100%) invert(15%) sepia(94%) saturate(2883%) hue-rotate(349deg) brightness(92%) contrast(95%);
+}
+
+#special-popis .p-card-p {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--gl-color-primary);
+  margin: 0;
+  text-align: center;
+  line-height: 1.35;
+}
+
+.hero-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 320px;
+}
+
+.hero-row .heroimg {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 16px 20px rgba(var(--gl-color-primary-rgb), 0.18));
+  border-radius: var(--gl-radius-md);
+}
+
+@media (min-width: 1094px) {
+  .heroimg { max-width: 380px; }
+}
+
+.latky-grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.latky-grid-2 .odstavec2 img {
+  height: 420px;
+}
+
+.latky-grid-2 .odstavec2.has-img::after,
+.latky-grid-2 .odstavec2:has(img)::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 370px;
+  height: 50px;
+  background: linear-gradient(to bottom, transparent, var(--gl-color-bg-light));
+  pointer-events: none;
+}
+
+@media (max-width: 768px) {
+  .latky-grid-2 {
+    grid-template-columns: 1fr;
+  }
+
+  .latky-grid-2 .odstavec2 {
+    padding: 0;
+  }
+
+  .latky-grid-2 .odstavec2 img {
+    height: 260px;
+  }
+
+  .latky-grid-2 .odstavec2.has-img::after,
+  .latky-grid-2 .odstavec2:has(img)::after {
+    top: 210px;
+  }
+}
+
+.ucinky-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin: 10px 0 20px;
+}
+
+.ucinky-item {
+  background: var(--gl-color-bg-light);
+  border-radius: var(--gl-radius-lg);
+  padding: 16px 18px;
+  font-size: 14.5px;
+  line-height: 1.5;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ucinky-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(var(--gl-color-primary-rgb), 0.08);
+}
+
+.ucinky-icon {
+  color: var(--gl-color-primary);
+  font-weight: bold;
+  font-size: 16px;
+  flex-shrink: 0;
+  line-height: 1.4;
+}
+
+@media (max-width: 599px) {
+  .ucinky-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ===================== NAD+ BANNER ===================== */
+#special-popis .material-symbols-outlined {
+  font-family: 'Material Symbols Outlined' !important;
+  font-weight: normal; font-style: normal; line-height: 1;
+  letter-spacing: normal; text-transform: none; white-space: nowrap;
+  -webkit-font-smoothing: antialiased; font-size: 24px;
+}
+.nad-banner {
+  position: relative; overflow: hidden;
+  margin: 30px 0; border-radius: var(--gl-radius-lg);
+  background-image: url('/user/documents/upload/NAD/nadmolekula.png'),
+                    linear-gradient(135deg, #fdf1f1 0%, #fff7f7 55%, #fbe9e9 100%);
+  background-size: auto 60%, cover;
+  background-position: right top, center;
+  background-repeat: no-repeat, no-repeat;
+  background-color: #fdf1f1;
+  color: #2f2323;
+  border: 1px solid rgba(var(--gl-color-primary-rgb), .15);
+  box-shadow: 0 6px 20px rgba(var(--gl-color-primary-rgb), .07);
+  display: grid; grid-template-columns: 1fr auto;
+  grid-template-areas: "content dose" "features dose" "btn dose";
+  column-gap: 30px; row-gap: 0;
+  align-items: start; padding: 50px 46px; min-height: 360px;
+}
+.nad-banner::after { content: none; }
+.nad-content, .nad-dose { position: relative; z-index: 2; }
+.nad-content { max-width: 640px; grid-area: content; align-self: center; }
+.nad-mol { display: none; }
+.nad-eyebrow {
+  font-size: 15px; letter-spacing: 4px; text-transform: uppercase;
+  color: var(--gl-color-primary); font-weight: 700; margin: 0 0 8px;
+}
+#special-popis .nad-title {
+  font-family: Metropolis, Arial, Helvetica, sans-serif !important;
+  font-size: 108px; line-height: .9; font-weight: 800; color: var(--gl-color-primary);
+  margin: 0; letter-spacing: 1px; text-align: left;
+}
+.nad-sub {
+  font-size: 26px; letter-spacing: 2px; text-transform: uppercase;
+  color: var(--gl-color-primary-hover); font-weight: 600; margin: 6px 0 0;
+}
+.nad-divider { width: 92px; height: 3px; background: var(--gl-color-primary); border-radius: 3px; margin: 22px 0; }
+.nad-tagline {
+  font-size: 22px; line-height: 1.4; text-transform: uppercase; letter-spacing: 1px;
+  color: #3a2a2a; font-weight: 600; margin: 0 0 26px; max-width: 580px;
+}
+.nad-tagline .nad-hl { color: var(--gl-color-primary); font-weight: 800; }
+.nad-features { display: flex; flex-wrap: nowrap; gap: 0 18px; grid-area: features; margin-top: 22px; }
+.nad-feature {
+  display: flex; align-items: center; gap: 11px;
+  font-size: 14px; line-height: 1.3; color: #3a2a2a; flex: 1 1 0; min-width: 0;
+}
+.nad-ico {
+  flex-shrink: 0; width: 48px; height: 48px; border-radius: 50%;
+  border: 1.5px solid var(--gl-color-primary); display: flex; align-items: center; justify-content: center;
+  color: var(--gl-color-primary); background: rgba(255,255,255,.55);
+}
+.nad-dose { text-align: right; align-self: end; grid-area: dose; }
+.nad-dose-num { display: block; font-size: 58px; font-weight: 800; color: var(--gl-color-primary); line-height: 1; white-space: nowrap; }
+.nad-dose-label { display: block; font-size: 17px; color: #2f2323; margin-top: 8px; }
+.nad-dose-sub { display: block; font-size: 15px; color: #8a6a6a; margin-top: 4px; }
+.nad-btn {
+  grid-area: btn; justify-self: start;
+  display: inline-flex; align-items: center; gap: 8px; margin-top: 24px;
+  padding: 12px 28px; border-radius: 50px; text-decoration: none;
+  background: var(--gl-color-primary); color: #fff !important;
+  font-weight: 700; font-size: 14px; letter-spacing: .5px; text-transform: uppercase;
+  box-shadow: 0 4px 14px rgba(var(--gl-color-primary-rgb), .25);
+  transition: background .2s ease, transform .2s ease;
+}
+
+
+.btn-s {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 28px;
+  border-radius: 100px;
+  text-decoration: none;
+  background: var(--gl-color-primary);
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  box-shadow: 0 4px 14px rgba(var(--gl-color-primary-rgb), .25);
+  transition: background .2s ease, transform .2s ease;
+}
+.nad-btn-stud {
+
+  background: var(--gl-color-bg-grey); color:--gl-color-primary !important;
+
+}
+.btn-group {
+  grid-area: btn;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px; /* Mezera mezi tlačítky */
+  align-items: center;
+  margin-top: 24px;
+}
+.btn-s::after { content: '↓'; font-size: 15px; }
+.btn-s:hover { background: var(--gl-color-primary-hover); transform: translateY(-1px); }
+.nad-info {
+  display: none; position: relative;
+  margin: 14px 0 0; padding: 26px 30px; border-radius: var(--gl-radius-lg);
+  background: var(--gl-color-bg-light); border: 1px solid rgba(var(--gl-color-primary-rgb), .18);
+}
+.nad-info:target { display: block; }
+#special-popis .nad-info h4 { color: var(--gl-color-primary); margin: 0 0 12px; font-size: 20px; font-weight: bold; }
+#special-popis .nad-info p { margin: 0 0 10px; font-size: 16px; line-height: 1.65; color: #333; text-align: justify; }
+.nad-info-close {
+  position: absolute; top: 14px; right: 18px; z-index: 2;
+  color: var(--gl-color-primary); font-weight: 700; font-size: 13px;
+  text-decoration: none; text-transform: uppercase; letter-spacing: .5px;
+}
+.nad-info-grid { display: flex; gap: 26px; align-items: center; }
+.nad-info-text { flex: 1; min-width: 0; }
+.nad-info-img {
+  flex-shrink: 0; width: 320px; max-width: 40%; height: auto;
+  border-radius: var(--gl-radius-lg); object-fit: cover; display: block;
+}
+@media (max-width: 768px) {
+  .nad-info-grid { flex-direction: column; gap: 18px; }
+  .nad-info-img { width: 100%; max-width: none; }
+}
+
+@media (max-width: 768px) {
+  .nad-banner {
+    grid-template-columns: 1fr;
+    grid-template-areas: "content" "mol" "dose" "features" "btn";
+    column-gap: 0; row-gap: 0; padding: 34px 22px; min-height: 0;
+    text-align: center;
+    background-image: linear-gradient(135deg, #fdf1f1 0%, #fff7f7 55%, #fbe9e9 100%);
+  }
+  .nad-content { max-width: none; align-self: auto; }
+  .nad-eyebrow { display: inline-block; border: 1.5px solid var(--gl-color-primary); border-radius: 50px; padding: 7px 20px; margin: 0 0 14px; }
+  #special-popis .nad-title { font-size: 66px; text-align: center; }
+  .nad-sub { font-size: 19px; }
+  .nad-divider { margin: 18px auto; }
+  .nad-tagline { font-size: 17px; margin: 0 auto; max-width: none; }
+  .nad-mol { display: block; width: 50%; max-width: 340px; height: auto; margin: 18px auto 8px; }
+  .nad-dose { text-align: center; align-self: auto; margin-top: 6px; }
+  .nad-dose-num { font-size: 44px; }
+  .nad-features { margin-top: 24px; gap: 0; justify-content: center; }
+  .nad-feature { flex: 1 1 0; min-width: 0; flex-direction: column; align-items: center; text-align: center; gap: 6px; font-size: 11.5px; padding: 0 6px; }
+  .nad-feature + .nad-feature { border-left: 1px solid rgba(var(--gl-color-primary-rgb), .28); }
+  .nad-ico { width: 42px; height: 42px; }
+  #special-popis .nad-ico .material-symbols-outlined { font-size: 21px; }
+  .nad-btn { justify-self: center; margin: 24px auto 0; }
+}
+/* =================== /NAD+ BANNER ===================== */
+
+/* ===================== PRAVIDELNOST / GRAF ===================== */
+.reg-banner {
+  position: relative; overflow: hidden;
+  margin: 30px 0; border-radius: var(--gl-radius-lg);
+  background: linear-gradient(135deg, #fdf1f1 0%, #fff7f7 60%, #fbe9e9 100%);
+  color: #2f2323; padding: 40px 48px 30px;
+  border: 1px solid rgba(var(--gl-color-primary-rgb), .15);
+  box-shadow: 0 6px 20px rgba(var(--gl-color-primary-rgb), .07);
+}
+#special-popis .reg-title {
+  font-family: Metropolis, Arial, Helvetica, sans-serif !important;
+  font-size: 38px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;
+  color: #2f2323; text-align: center; margin: 0 0 30px;
+}
+.reg-gold { color: var(--gl-color-primary); }
+.reg-chart { display: flex; gap: 12px; }
+.reg-yaxis {
+  writing-mode: vertical-rl; transform: rotate(180deg);
+  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  color: #7a3a3a; font-size: 14px; letter-spacing: 2px; text-transform: uppercase; font-weight: 700;
+}
+.reg-col { flex: 1; display: flex; flex-direction: column; min-width: 0; }
+.reg-area {
+  position: relative; min-height: 340px;
+  border-left: 2px solid var(--gl-color-primary); border-bottom: 2px solid var(--gl-color-primary);
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20400'%20preserveAspectRatio='none'%3E%3Cpath%20d='M0,398%20C140,150%20270,72%20440,60%20C630,46%20810,43%201000,42'%20fill='none'%20stroke='%23e06a6a'%20stroke-width='16'%20opacity='0.22'%20stroke-linecap='round'/%3E%3Cpath%20d='M0,398%20C140,150%20270,72%20440,60%20C630,46%20810,43%201000,42'%20fill='none'%20stroke='%23bf1818'%20stroke-width='5'%20stroke-linecap='round'/%3E%3Cg%20fill='%23bf1818'%20stroke='%23ffffff'%20stroke-width='3'%3E%3Ccircle%20cx='270'%20cy='105'%20r='10'/%3E%3Ccircle%20cx='480'%20cy='62'%20r='10'/%3E%3Ccircle%20cx='700'%20cy='48'%20r='10'/%3E%3Ccircle%20cx='905'%20cy='43'%20r='10'/%3E%3C/g%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: left bottom; background-size: 100% 100%;
+}
+.reg-area::before { /* šipka nahoře osy Y */
+  content: ''; position: absolute; top: -9px; left: -8px;
+  border-left: 7px solid transparent; border-right: 7px solid transparent; border-bottom: 11px solid var(--gl-color-primary);
+}
+.reg-area::after { /* šipka vpravo osy X */
+  content: ''; position: absolute; right: -11px; bottom: -8px;
+  border-top: 7px solid transparent; border-bottom: 7px solid transparent; border-left: 11px solid var(--gl-color-primary);
+}
+.reg-caxis {
+  position: absolute; right: 8px; bottom: 12px;
+  color: var(--gl-color-primary); font-size: 14px; letter-spacing: 2px; text-transform: uppercase; font-weight: 700;
+}
+.reg-xticks { display: flex; justify-content: space-between; margin-top: 10px; color: #7a3a3a; font-size: 15px; }
+.reg-note { position: absolute; left: 41%; top: 47%; max-width: 300px; z-index: 3; }
+#special-popis .reg-note p { margin: 0; font-size: 18px; line-height: 1.5; color: #3a2a2a; text-align: left; }
+.reg-note .reg-gold { font-weight: 800; }
+.reg-footnote { text-align: center; color: #9a7a7a; font-size: 13px; margin: 24px 0 0; }
+
+@media (max-width: 768px) {
+  .reg-banner { padding: 28px 16px 22px; }
+  #special-popis .reg-title { font-size: 23px; margin-bottom: 22px; }
+  .reg-area { min-height: 220px; }
+  .reg-yaxis { font-size: 12px; }
+  .reg-caxis { font-size: 12px; right: 6px; bottom: 10px; }
+  .reg-xticks { font-size: 11.5px; }
+  .reg-note { position: static; left: auto; top: auto; max-width: none; margin: 18px 0 0; }
+  #special-popis .reg-note p { font-size: 15px; text-align: center; }
+}
+/* =================== /PRAVIDELNOST ===================== */
+--></style>
+<div id="special-popis" data-gl-product-slug="beauty-longevity-nad-doza" data-gl-product-id="">
+<div class="product-container"><!-- ===== NAD+ BANNER (pozadí molekuly doplnit přes background-image v .nad-banner) ===== -->
+<div class="nad-banner" id="nad-banner">
+<div class="nad-content">
+<div class="nad-eyebrow">Klíč k buněčné energii</div>
+<h2 class="nad-title">NAD+</h2>
+<div class="nad-sub">(NR) Nikotinamid ribosid</div>
+<div class="nad-divider"> </div>
+<p class="nad-tagline">Top longevity ingredience, (NR) která podporuje <span class="nad-hl">energii a dlouhověkost</span>.</p>
+</div>
+<img class="nad-mol" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/NAD/nadmolekula.png" alt="NAD+ molekula">
+<div class="nad-dose"><span class="nad-dose-num">300 mg</span> <span class="nad-dose-label">nikotinamid ribosid chlorid (NR)</span> <span class="nad-dose-sub">v 1 denní dávce</span></div>
+<div class="nad-features">
+<div class="nad-feature"><span class="nad-ico"><span class="material-symbols-outlined">bolt</span></span>Podporuje buněčnou energii</div>
+<div class="nad-feature"><span class="nad-ico"><span class="material-symbols-outlined">autorenew</span></span>Podporuje regeneraci buněk</div>
+<div class="nad-feature"><span class="nad-ico"><span class="material-symbols-outlined">verified_user</span></span>Podporuje zdravé stárnutí</div>
+</div>
+<div class="btn-group"><a href="#nad-info" class="btn-s">Více o aktivní látce</a> <a style="color: black;" href="https://www.golden-life.cz/studie/nad-a-longevity-co-rika-veda/" class="btn-s nad-btn-stud">Studie</a></div>
+</div>
+<div class="nad-info" id="nad-info"><a href="#nad-banner" class="nad-info-close" aria-label="Zavřít">Zavřít ×</a>
+<div class="nad-info-grid">
+<div class="nad-info-text">
+<h4>Nikotinamid ribosid (NAD+ prekurzor)</h4>
+<p>Nikotinamid ribosid je moderní NAD+ prekurzor, který podporuje buněčnou energii, regeneraci a procesy spojované s dlouhověkostí. NAD+ je koenzym důležitý pro energetický metabolismus buněk a jeho hladina se s věkem přirozeně snižuje.</p>
+<p>Doplnění NAD+ prekurzoru pomáhá podporovat vitalitu, regeneraci organismu a přirozenou obnovu buněk. Beauty Longevity NAD+ dóza tak podporuje nejen vzhled, ale i energii a fungování organismu zevnitř.</p>
+</div>
+<img class="nad-info-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip1-2.jpg" alt="Nikotinamid ribosid"></div>
+</div>
+</div>
+<div class="product-container text-justify">
+<h1 class="barvaruzova text-center">Beauty Longevity NAD+ dóza</h1>
+<p class="text-justify"><strong>Špička mezi doplňky stravy.</strong> All-in-one drink nové generace.</p>
+<p class="text-justify"><strong>Beauty Longevity NAD+ dóza</strong> není jen další beauty drink. Je to pokročilý all-in-one koncept, který v jedné denní dávce propojuje <strong>6 000 mg mořského kolagenu Peptan®</strong>, <strong>NAD+ prekurzor (NR)</strong>, <strong>antioxidanty</strong>, <strong>kyselinu hyaluronovou</strong>, <strong>vitaminy</strong>, <strong>minerály</strong> a další aktivní látky.</p>
+<p class="text-justify">Místo řady jednotlivých doplňků získáte jeden komplexní ranní rituál, který podporuje <strong>buněčnou energii</strong>, <strong>vitalitu</strong>, <strong>tvorbu kolagenu</strong>, <strong>zdravý vzhled pokožky</strong> a <strong>ochranu buněk před oxidačním stresem</strong>.</p>
+<p class="text-justify">Je to nový level každodenní suplementace – maximum aktivních látek v jedné skleničce, prémiové složení a <strong>lahodná malinová chuť</strong>. Pro ženy, které nechtějí deset různých produktů, ale chtějí jedno promyšlené řešení pro beauty, energii a longevity.</p>
+<p class="text-justify"><strong>Jedna dávka. Jeden ranní rituál.</strong> All-in-one pro krásu, vitalitu a longevity.</p>
+<h2 class="barvaruzova">Hlavní účinky Beauty Longevity NAD+ dóza</h2>
+<div class="hero-img">
+<div class="hero-row"><div class="doza-photo-pending" data-doza-photo-pending="" role="note">Fotografie dózy bude doplněna.</div><img class="heroimg" alt="Beauty Longevity NAD+ dóza – dóza 270 g" hidden="hidden" data-doza-photo=""></div>
+<div class="hero-icons-grid">
+<div class="p-icon-card"><img class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/snizeni-unavy-zelena.png" alt="Podpora vitality a energie">
+<p class="p-card-p">Podpora vitality a energie</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlasy-zelena.png" alt="Pro zdravou pokožku a vlasy">
+<p class="p-card-p">Pro zdravou pokožku a vlasy</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png" alt="Podpora normální funkce imunity">
+<p class="p-card-p">Podpora normální funkce imunity</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/zpevneni-pleti-zelena.png" alt="Podpora tvorby kolagenu">
+<p class="p-card-p">Podpora tvorby kolagenu</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nad.png" alt="NAD+ prekurzor">
+<p class="p-card-p">NAD+ prekurzor</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-zelena.png" alt="Vyrobeno v ČR">
+<p class="p-card-p">Vyrobeno v ČR</p>
+</div>
+</div>
+</div>
+<div class="latky-grid latky-grid-2">
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/morsky_kolagen_peptan.png" alt="Jak funguje">
+<h4 class="barvaruzova">Jak funguje</h4>
+<p class="p-mobil">Klíčovou složkou Beauty Longevity NAD+ dóza je NAD+ prekurzor nikotinamid ribosid, který podporuje buněčnou energii, regeneraci a procesy spojené s dlouhověkostí. V kombinaci s resveratrolem a koenzymem Q10 pomáhá chránit buňky před oxidačním stresem a podporuje jejich vitalitu.</p>
+<p class="p-mobil">Kokosová voda CocoMineral® dodává tělu důležité elektrolyty pro optimální hydrataci a správné fungování buněk, zatímco BioPerine® zvyšuje vstřebatelnost účinných látek. Vysoce vstřebatelný mořský kolagen Peptan® společně s kyselinou hyaluronovou podporují hloubkovou hydrataci, pružnost a mladistvý vzhled pokožky.</p>
+<p class="p-mobil">Longevity obsahuje řadu aktivních látek, například Alpha Lipoic Acid a BioPerine® pro lepší vstřebatelnost. Proto může lehce štípat v krku – je to přirozený důsledek aktivních složek. Představte si to jako ginger shot. :)</p>
+</div>
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip2-2.jpg" alt="Účinky">
+<h4 class="barvaruzova">Účinky</h4>
+<p class="p-mobil">Beauty Longevity NAD+ dóza spojuje moderní longevity složky, kolagenovou péči a funkční nutrikosmetiku do jednoho každodenního rituálu. Produkt je navržený pro ženy, které chtějí pečovat nejen o vzhled pleti, ale také o energii, vitalitu a celkový pocit rovnováhy. Díky kombinaci beauty a anti-aging složek podporuje svěží vzhled pokožky, hydrataci organismu i komfort během náročných dnů.</p>
+<p class="p-mobil">Pravidelné užívání podporuje pevnější a hydratovanější pleť, zdravější vzhled vlasů a nehtů i každodenní pocit vitality. Aktivní látky byly zvoleny tak, aby se vzájemně doplňovaly a vytvořily komplexní drink zaměřený na krásu zevnitř, regeneraci organismu a podporu moderního životního stylu bez zbytečně složitých rutin.</p>
+</div>
+</div>
+</div>
+<div class="product-container">
+<h3 class="barvaruzova text-center">Co vám přinese</h3>
+<div class="ucinky-grid">
+<div class="ucinky-item"><span class="ucinky-icon">✓</span>Podpora vitality a energie</div>
+<div class="ucinky-item"><span class="ucinky-icon">✓</span>Pro zdravou pokožku a vlasy</div>
+<div class="ucinky-item"><span class="ucinky-icon">✓</span>Podpora normální funkce imunity</div>
+<div class="ucinky-item"><span class="ucinky-icon">✓</span>Podpora tvorby kolagenu</div>
+<div class="ucinky-item"><span class="ucinky-icon">✓</span>Pravidelné užívání podporuje pevnější a hydratovanější pleť, zdravější vzhled vlasů a nehtů i každodenní pocit vitality.</div>
+<div class="ucinky-item"><span class="ucinky-icon">✓</span>Aktivní látky byly zvoleny tak, aby se vzájemně doplňovaly a vytvořily komplexní drink zaměřený na krásu zevnitř, regeneraci organismu a podporu moderního životního stylu bez zbytečně složitých rutin.</div>
+</div>
+</div>
+<div class="product-container">
+<div class="latky">
+<div class="story-block">
+<div class="story-block-image"><img src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip3-1.jpg" alt="Váš věk je jen číslo."></div>
+<div class="story-block-text">
+<h3 class="barvaruzova">Váš věk je jen číslo.</h3>
+<p class="dobloku">Po třicítce se začnou dít věci, které nečekáte. Pleť ztrácí pružnost. Vlasy lesk. Energie ráno chybí dřív, než den pořádně začne. Nejde o dramatické změny, jde o drobné signály, které tělo vysílá, když mu začíná chybět to, co samo nedokáže vyrobit v dostatečném množství.</p>
+<p class="dobloku">Kolagen. NAD+. Antioxidanty. Hydratace na buněčné úrovni. Vitamíny skupiny B.</p>
+<p class="dobloku">Beauty Longevity NAD+ dóza dodává tělu přesně to, co s věkem ubývá, v jednom kolagenovém nápoji každý den. Žádné hrstky tablet. Žádné složité režimy. Jen denní dávka prášku rozmíchaná ve vodě a rituál, který si zamilujete.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="product-container">
+<h3 class="barvaruzova text-center">Časté otázky</h3>
+<div class="latky-grid latky-grid-4">
+<div class="odstavec2">
+<h4 class="barvaruzova">Jak dlouho trvá, než uvidím výsledky?</h4>
+<p class="dobloku">Kolagen, NAD+ prekurzory i další aktivní látky potřebují pravidelné užívání. Pro optimální výsledky doporučujeme kúru minimálně 3 měsíce.</p>
+</div>
+<div class="odstavec2">
+<h4 class="barvaruzova">Mohu Beauty Longevity NAD+ dóza kombinovat s jinými doplňky?</h4>
+<p class="dobloku">Ano, ale při kombinaci s dalšími doplňky je vhodné sledovat celkový příjem vitamínů a minerálů.</p>
+</div>
+<div class="odstavec2">
+<h4 class="barvaruzova">Mohu produkt užívat dlouhodobě?</h4>
+<p class="dobloku">Ano, produkt je navržený pro dlouhodobé každodenní užívání.</p>
+</div>
+</div>
+</div>
+<div class="product-container"><!-- ===== GRAF PRAVIDELNOSTI (křivku NAD+ doplnit přes background-image v .reg-area) ===== -->
+<div class="reg-banner">
+<h2 class="reg-title">Proč je důležitá <span class="reg-gold">pravidelnost</span>?</h2>
+<div class="reg-chart">
+<div class="reg-yaxis">Hladina NAD+</div>
+<div class="reg-col">
+<div class="reg-area"><span class="reg-caxis">Čas</span></div>
+<div class="reg-xticks"><span>0</span><span>2 týdny</span><span>4 týdny</span><span>Dlouhodobě</span></div>
+</div>
+</div>
+<div class="reg-note">
+<p>Hladiny NAD+ rostou postupně a ustalují se při pravidelném <span class="reg-gold">dlouhodobém užívání</span>.*</p>
+</div>
+<p class="reg-footnote">*Na základě klinických studií s NR.</p>
+</div>
+</div>
+<div class="product-container">
+<h3 class="barvaruzova text-center">Aktivní látky</h3>
+<div class="latky-grid latky-grid-4 latky-swipe" id="latky">
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/morsky_kolagen_peptan.png" alt="Mořský kolagen Peptan®" caption="false" width="338" height="220">
+<h4 class="barvaruzova">Mořský kolagen Peptan®</h4>
+<p class="latky-teaser">Nejlépe vstřebatelný mořský kolagen pro pleť i klouby.</p>
+<a class="latky-plus" href="#lm-kolagen" aria-label="Více o Mořský kolagen Peptan">+</a></div>
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip2-2.jpg" alt="Kyselina hyaluronová">
+<h4 class="barvaruzova">Kyselina hyaluronová</h4>
+<p class="latky-teaser">Hloubková hydratace a pružnost pleti.</p>
+<a class="latky-plus" href="#lm-hya" aria-label="Více o Kyselina hyaluronová">+</a></div>
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip5-1.png" alt="Resveratrol, koenzym Q10 a kyselina alfa-lipoová">
+<h4 class="barvaruzova">Resveratrol, koenzym Q10 a kyselina alfa-lipoová</h4>
+<p class="latky-teaser">Trojice silných antioxidantů pro ochranu buněk.</p>
+<a class="latky-plus" href="#lm-antiox" aria-label="Více o antioxidanty">+</a></div>
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip4-1.jpg" alt="MSM">
+<h4 class="barvaruzova">MSM</h4>
+<p class="latky-teaser">Organická síra pro kolagen, vlasy a nehty.</p>
+<a class="latky-plus" href="#lm-msm" aria-label="Více o MSM">+</a></div>
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip3-1.jpg" alt="Kokosová voda CocoMineral®">
+<h4 class="barvaruzova">Kokosová voda CocoMineral®</h4>
+<p class="latky-teaser">Přírodní elektrolyty pro hydrataci a rovnováhu.</p>
+<a class="latky-plus" href="#lm-coco" aria-label="Více o Kokosová voda CocoMineral">+</a></div>
+<div class="odstavec2 has-img"><img class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/vitaminy_1.png" alt="Vitaminový komplex">
+<h4 class="barvaruzova">Vitaminový komplex</h4>
+<p class="latky-teaser">Vitaminy pro pleť, energii a ochranu buněk.</p>
+<a class="latky-plus" href="#lm-vitaminy" aria-label="Více o Vitaminový komplex">+</a></div>
+</div>
+<div class="latky-modal" id="lm-kolagen"><a class="latky-modal-backdrop" href="#latky" aria-label="Zavřít"></a>
+<div class="latky-modal-box"><a class="latky-modal-close" href="#latky" aria-label="Zavřít">×</a> <img class="latky-modal-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip0-6.jpg" alt="Mořský kolagen Peptan®">
+<h4 class="barvaruzova">Mořský kolagen Peptan®</h4>
+<p>Základem tohoto kolagenového beauty drinku je hydrolyzovaný rybí kolagen Peptan®, který patří mezi nejlépe vstřebatelné formy mořského kolagenu. Kolagenní peptidy jsou předštěpeny na optimální velikost, takže se efektivně vstřebávají a dostávají tam, kde jsou potřeba — do pleti, kloubů a pojivových tkání.</p>
+<p>Pravidelné doplňování kolagenu podporuje pružnost, pevnost a hydrataci pokožky, pomáhá redukovat jemné linky a zároveň podporuje vlasy, nehty i pohybový aparát.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-hya"><a class="latky-modal-backdrop" href="#latky" aria-label="Zavřít"></a>
+<div class="latky-modal-box"><a class="latky-modal-close" href="#latky" aria-label="Zavřít">×</a> <img class="latky-modal-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip2-2.jpg" alt="Kyselina hyaluronová">
+<h4 class="barvaruzova">Kyselina hyaluronová</h4>
+<p>Kyselina hyaluronová je přirozenou součástí pokožky a pomáhá vázat vodu v tkáních. Díky tomu podporuje hloubkovou hydrataci, pružnost a svěží vzhled pleti.</p>
+<p>Ve spojení s mořským kolagenem vytváří silnou kombinaci pro podporu mladistvého vzhledu pokožky a redukci pocitu suché nebo unavené pleti.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-antiox"><a class="latky-modal-backdrop" href="#latky" aria-label="Zavřít"></a>
+<div class="latky-modal-box"><a class="latky-modal-close" href="#latky" aria-label="Zavřít">×</a> <img class="latky-modal-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip5-1.png" alt="Resveratrol, koenzym Q10 a kyselina alfa-lipoová">
+<h4 class="barvaruzova">Resveratrol, koenzym Q10 a kyselina alfa-lipoová</h4>
+<p>Trojice silných antioxidantů podporuje ochranu buněk před oxidačním stresem a zároveň podporuje vitalitu organismu i pokožky.</p>
+<p>Resveratrol z extraktu rdesna japonského je známý svými anti-aging účinky a podporou zdravého stárnutí. Koenzym Q10 podporuje buněčnou energii a mladistvý vzhled pleti. Kyselina alfa-lipoová působí jako univerzální antioxidant ve vodném i tukovém prostředí, čímž doplňuje komplexní ochranu buněk.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-msm"><a class="latky-modal-backdrop" href="#latky" aria-label="Zavřít"></a>
+<div class="latky-modal-box"><a class="latky-modal-close" href="#latky" aria-label="Zavřít">×</a> <img class="latky-modal-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip4-1.jpg" alt="MSM">
+<h4 class="barvaruzova">MSM</h4>
+<p>MSM je organická forma síry, která je důležitá pro tvorbu kolagenu a keratinu — základních stavebních látek vlasů, nehtů a pokožky.</p>
+<p>Podporuje pružnost kloubů, regeneraci po fyzické zátěži a společně s kolagenem a kyselinou hyaluronovou tvoří důležitou součást komplexní péče o krásu i pohybový aparát.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-coco"><a class="latky-modal-backdrop" href="#latky" aria-label="Zavřít"></a>
+<div class="latky-modal-box"><a class="latky-modal-close" href="#latky" aria-label="Zavřít">×</a> <img class="latky-modal-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mceclip3-1.jpg" alt="Kokosová voda CocoMineral®">
+<h4 class="barvaruzova">Kokosová voda CocoMineral®</h4>
+<p>Koncentrát kokosové vody CocoMineral® dodává tělu přirozené elektrolyty, jako je draslík, sodík, hořčík a vápník. Ty podporují optimální hydrataci organismu, rovnováhu minerálů a správné fungování buněk.</p>
+<p>Hydratace přitom hraje důležitou roli nejen pro energii a vitalitu, ale i pro svěží vzhled pokožky a celkový komfort organismu během dne.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-vitaminy"><a class="latky-modal-backdrop" href="#latky" aria-label="Zavřít"></a>
+<div class="latky-modal-box"><a class="latky-modal-close" href="#latky" aria-label="Zavřít">×</a> <img class="latky-modal-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/vitaminy_1.png" alt="Vitaminový komplex">
+<h4 class="barvaruzova">Vitaminový komplex</h4>
+<p>Beauty Longevity NAD+ dóza obsahuje pečlivě sladěný komplex vitaminů, které se vzájemně doplňují. <strong>Vitamin C</strong> podporuje normální tvorbu kolagenu pro zdravou pokožku a zároveň působí jako silný antioxidant, který pomáhá chránit buňky před oxidačním stresem.</p>
+<p>Vitaminy skupiny <strong>B</strong> přispívají ke snížení míry únavy a vyčerpání, k normálnímu energetickému metabolismu a k normální funkci nervové soustavy. Společně tak podporují nejen krásu zevnitř, ale i každodenní vitalitu a pocit energie.</p>
+</div>
+</div>
+</div>
+<div class="product-container">
+<div class="cta-box">
+<div class="cta-content"><div class="doza-photo-pending" data-doza-photo-pending="" role="note">Fotografie dózy bude doplněna.</div><img alt="Beauty Longevity NAD+ dóza – dóza 270 g" class="cta-product-img" hidden="hidden" data-doza-photo="">
+<div class="cta-text">
+<h3 class="barvaruzova">Beauty Longevity NAD+ dóza</h3>
+<p class="cta-meta">Balení: 270 g | 30 denních dávek  ·  Délka kúry: 30 dní, doporučeno minimálně 3 měsíce</p>
+<p class="cta-meta">Denní dávka: 9 g prášku / 26 kcal</p>
+<div class="cta-price" hidden="hidden"><span class="cta-price-value"></span> <span class="cta-price-label">z e-shopu</span></div>
+<p class="cta-availability" hidden="hidden"></p>
+<a href="#" class="cta-button" aria-disabled="true" data-doza-purchase-scroll="">Přejít k objednání</a></div>
+</div>
+</div>
+</div>
+<div class="product-container">
+<h3 class="barvaruzova text-center">Jak užívat</h3>
+<div class="custom-grid">
+<div><img src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose%20free.png" alt="Lactose free">
+<p class="p-card-p">Lactose free</p>
+</div>
+<div><img src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives%20free.png" alt="Additives free">
+<p class="p-card-p">Additives free</p>
+</div>
+<div><img src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO%20free.png" alt="GMO free">
+<p class="p-card-p">GMO free</p>
+</div>
+<div><img src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten%20free.png" alt="Gluten free">
+<p class="p-card-p">Gluten free</p>
+</div>
+<div><img src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar%20free.png" alt="Sugar free">
+<p class="p-card-p">Sugar free</p>
+</div>
+</div>
+<div class="latky-grid latky-grid-4">
+<div class="odstavec2">
+<h4 class="barvaruzova">Návod k použití</h4>
+<p class="dobloku">Doporučená denní dávka: 9 g prášku rozmíchat v 300–400 ml vody. Doporučená denní dávka se nesmí překročit. Vhodné používat dlouhodobě, minimálně 3 měsíce.</p>
+</div>
+<div class="odstavec2">
+<h4 class="barvaruzova">Skladování</h4>
+<p class="dobloku">Skladovat v suchu, mimo dosah dětí a slunečních paprsků, při teplotě 25 °C.</p>
+</div>
+<div class="odstavec2">
+<h4 class="barvaruzova">Omezení</h4>
+<p class="dobloku">Nevhodné v těhotenství, během kojení a při alergii na některou z použitých surovin. Tento výrobek není náhradou vyvážené a pestré stravy.</p></div>
+</div>
+</div>
+<div class="product-container">
+<div class="latky">
+<h3 class="barvaruzova text-center">Složení</h3>
+<p class="dobloku">Hydrolyzovaný rybí kolagen Peptan® F, prášek z kokosové vody 10:1, vitamin C (kyselina askorbová), MSM (methylsulfonylmethan), extrakt z kořene rdesna japonského 25:1, kyselina alfa-lipoová, nikotinamid ribosid chlorid, glukonát zinečnatý, hyaluronát sodný, vitamin B7 (biotin), vitamin E (DL-alfatokoferylacetát), bisglycinát zinečnatý, koenzym Q10, vitamin B3 (nikotinamid), vitamin D3 (cholekalciferol), extrakt z černého pepře BioPerine® 50:1, vitamin B6 (pyridoxin hydrochlorid), vitamin B2 (riboflavin), vitamin B9 (kyselina listová), Selenomethionine, sodík, lyofilizovaný prášek malina 2,1%, Kyselina citronová (regulátor kyselosti), trinatriumcitrát, aroma: malina, barvivo: koncentrát z červené řepy, sladidlo: sukralóza. Alergen: ryba</p>
+</div>
+</div>
+<div class="product-container">
+<h3 class="barvaruzova">Longevity komplex</h3>
+<table class="ruzovatabulka tabulka">
+<tbody>
+<tr>
+<th>Longevity komplex</th>
+<th>100 g</th>
+<th>9 g (denní dávka)</th>
+</tr>
+<tr>
+<td>Hydrolyzovaný rybí kolagen Peptan® F</td>
+<td>66,67 g</td>
+<td>6 000 mg</td>
+</tr>
+<tr>
+<td>Kokosová voda prášek 10:1</td>
+<td>7,78 g</td>
+<td>700 mg</td>
+</tr>
+<tr>
+<td>Nikotinamid ribosid chlorid</td>
+<td>3,33 g</td>
+<td>300 mg</td>
+</tr>
+<tr>
+<td>Koenzym Q10</td>
+<td>333,3 mg</td>
+<td>30 mg</td>
+</tr>
+<tr>
+<td>Kyselina alfa-lipoová</td>
+<td>1,11 g</td>
+<td>100 mg</td>
+</tr>
+<tr>
+<td>MSM</td>
+<td>4,44 g</td>
+<td>400 mg</td>
+</tr>
+<tr>
+<td>Extrakt z kořene rdesna japonského 25:1</td>
+<td>1,11 g</td>
+<td>100 mg</td>
+</tr>
+<tr>
+<td>Z toho resveratrol</td>
+<td>555,6 mg</td>
+<td>50 mg</td>
+</tr>
+<tr>
+<td>Kyselina hyaluronová</td>
+<td>538,9 mg</td>
+<td>48,5 mg</td>
+</tr>
+<tr>
+<td>BioPerine® extrakt z černého pepře</td>
+<td>55,6 mg</td>
+<td>5 mg</td>
+</tr>
+<tr>
+<td>Z toho piperin</td>
+<td>53,3 mg</td>
+<td>4,8 mg</td>
+</tr>
+</tbody>
+</table>
+<h3 class="barvaruzova">Vitamíny + minerály</h3>
+<table class="ruzovatabulka tabulka">
+<tbody>
+<tr>
+<th>Vitamíny + minerály</th>
+<th>100 g</th>
+<th>9 g (denní dávka)</th>
+</tr>
+<tr>
+<td>Vitamin C</td>
+<td>4,44 g</td>
+<td>400 mg</td>
+</tr>
+<tr>
+<td>Vitamin E</td>
+<td>266,7 mg</td>
+<td>24 mg</td>
+</tr>
+<tr>
+<td>Vitamin B3</td>
+<td>88,9 mg</td>
+<td>8 mg</td>
+</tr>
+<tr>
+<td>Vitamin B6</td>
+<td>15,6 mg</td>
+<td>1,4 mg</td>
+</tr>
+<tr>
+<td>Vitamin B2</td>
+<td>15,6 mg</td>
+<td>1,4 mg</td>
+</tr>
+<tr>
+<td>Vitamin B7</td>
+<td>11 111 µg</td>
+<td>1000 µg</td>
+</tr>
+<tr>
+<td>Vitamin B9</td>
+<td>4 978 µg</td>
+<td>448 µg</td>
+</tr>
+<tr>
+<td>Vitamin D3</td>
+<td>194,4 µg</td>
+<td>17,5 µg</td>
+</tr>
+<tr>
+<td>Zinek</td>
+<td>166,7 mg</td>
+<td>15 mg</td>
+</tr>
+<tr>
+<td>Selen</td>
+<td>611,1 µg</td>
+<td>55 µg</td>
+</tr>
+<tr>
+<td>Křemík</td>
+<td>22,2 mg</td>
+<td>2 mg</td>
+</tr>
+</tbody>
+</table>
+<h3 class="barvaruzova">Nutriční hodnoty</h3>
+<table class="ruzovatabulka tabulka">
+<tbody>
+<tr>
+<th>Nutriční hodnoty</th>
+<th>100 g</th>
+<th>9 g (denní dávka)</th>
+</tr>
+<tr>
+<td>Energetická hodnota</td>
+<td>1 210 kJ / 289 kcal</td>
+<td>109 kJ / 26 kcal</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="doza-safety"><strong>Doplněk stravy.</strong> Není náhradou pestré a vyvážené stravy. Nepřekračujte doporučenou denní dávku. Uchovávejte mimo dosah dětí.</p></div>
+<style>@font-face{font-family:'Material Symbols Outlined';font-style:normal;font-weight:400;src:url(data:font/ttf;base64,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) format('truetype');font-display:block}#special-popis .material-symbols-outlined{font-family:'Material Symbols Outlined'!important;letter-spacing:normal;text-transform:none;font-feature-settings:'liga';font-variant-ligatures:normal}#special-popis [hidden]{display:none!important}#special-popis .doza-photo-pending{display:grid;place-items:center;min-height:220px;width:100%;max-width:380px;margin:auto;padding:24px;box-sizing:border-box;border:1px dashed #cf9c9c;border-radius:16px;background:#fff8f8;color:#795555;text-align:center;font-size:15px}#special-popis .cta-content>.doza-photo-pending{flex:0 1 260px}#special-popis .cta-button[aria-disabled=true]{opacity:.6;cursor:default}#special-popis .doza-safety{max-width:1100px;margin:20px auto;padding:16px;box-sizing:border-box;background:#faf6f6;border-radius:12px}</style><script>/* Náhled nové dózy není navázán na původní sáčkové SKU. Žádné zápisy do košíku. */
+(function () {
+  'use strict';
+  var root = document.querySelector('#special-popis[data-gl-product-slug="beauty-longevity-nad-doza"]');
+  if (!root) return;
+  var expected = 'beauty longevity nad+ doza';
+  function normalize(value) {
+    return String(value || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, ' ').trim().toLowerCase();
+  }
+  function ownProduct() {
+    var heading = document.querySelector('.p-detail-inner-header h1, #product-detail h1, .p-detail h1');
+    var form = document.getElementById('product-detail-form');
+    var input = form && form.querySelector('input[name="productId"]');
+    return !!(heading && !root.contains(heading) && normalize(heading.textContent) === expected && input && /^\d+$/.test(input.value));
+  }
+  function show(el, yes) {
+    if (el && el.hidden === yes) el.hidden = !yes;
+  }
+  function sync() {
+    var ok = ownProduct();
+    var gallery = document.querySelector('#main-slider-slide01 a > img, .p-main-image img');
+    var url = gallery && (gallery.currentSrc || gallery.src);
+    var usable = !!(ok && gallery && gallery.complete && gallery.naturalWidth > 0 && url && !/no-image|missing-image|placeholder|\[|\]/i.test(url));
+    root.querySelectorAll('[data-doza-photo]').forEach(function (img) {
+      if (usable && img.getAttribute('src') !== url) img.setAttribute('src', url);
+      show(img, usable);
+      var note = img.previousElementSibling;
+      if (note && note.hasAttribute('data-doza-photo-pending')) show(note, !usable);
+    });
+    var nativePrice = document.querySelector('.p-info-wrapper .price-final-holder, .price-final-holder');
+    var price = root.querySelector('.cta-price');
+    var value = root.querySelector('.cta-price-value');
+    var priceText = ok && nativePrice ? nativePrice.textContent.trim() : '';
+    if (value && value.textContent !== priceText) value.textContent = priceText;
+    show(price, !!priceText);
+    var cta = root.querySelector('[data-doza-purchase-scroll]');
+    if (cta && cta.getAttribute('aria-disabled') !== String(!ok)) cta.setAttribute('aria-disabled', String(!ok));
+  }
+  var cta = root.querySelector('[data-doza-purchase-scroll]');
+  if (cta) cta.addEventListener('click', function (event) {
+    event.preventDefault();
+    if (!ownProduct()) return;
+    var form = document.getElementById('product-detail-form');
+    if (form) form.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+  sync();
+  document.addEventListener('DOMContentLoaded', sync, { once: true });
+  document.addEventListener('load', function (event) {
+    if (event.target instanceof HTMLImageElement && !root.contains(event.target)) sync();
+  }, true);
+  var scheduled = false;
+  new MutationObserver(function (records) {
+    if (!records.some(function (record) { return !root.contains(record.target); })) return;
+    if (scheduled) return;
+    scheduled = true;
+    queueMicrotask(function () { scheduled = false; sync(); });
+  }).observe(document.documentElement, { subtree: true, childList: true, characterData: true, attributes: true, attributeFilter: ['src', 'srcset', 'value'] });
+})();
+</script>
