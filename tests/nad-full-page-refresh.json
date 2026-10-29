@@ -6,80 +6,147 @@
         "mode": "offline-long",
         "width": 320,
         "all_images_loaded": true,
-        "nine_native_details_toggle": true,
-        "no_page_overflow": true,
+        "nine_modal_open_close": true,
+        "banner_detail_open_close": true,
+        "no_overflow": true,
         "no_external_requests": true,
-        "no_js_errors": true
+        "reference_style_match": true
       },
       {
         "mode": "offline-long",
         "width": 390,
         "all_images_loaded": true,
-        "nine_native_details_toggle": true,
-        "no_page_overflow": true,
+        "nine_modal_open_close": true,
+        "banner_detail_open_close": true,
+        "no_overflow": true,
         "no_external_requests": true,
-        "no_js_errors": true
+        "reference_style_match": true
       },
       {
         "mode": "offline-long",
         "width": 768,
         "all_images_loaded": true,
-        "nine_native_details_toggle": true,
-        "no_page_overflow": true,
+        "nine_modal_open_close": true,
+        "banner_detail_open_close": true,
+        "no_overflow": true,
         "no_external_requests": true,
-        "no_js_errors": true
+        "reference_style_match": true
       },
       {
         "mode": "offline-long",
         "width": 1024,
         "all_images_loaded": true,
-        "nine_native_details_toggle": true,
-        "no_page_overflow": true,
+        "nine_modal_open_close": true,
+        "banner_detail_open_close": true,
+        "no_overflow": true,
         "no_external_requests": true,
-        "no_js_errors": true
+        "reference_style_match": true
       },
       {
         "mode": "offline-long",
         "width": 1440,
         "all_images_loaded": true,
-        "nine_native_details_toggle": true,
-        "no_page_overflow": true,
+        "nine_modal_open_close": true,
+        "banner_detail_open_close": true,
+        "no_overflow": true,
         "no_external_requests": true,
-        "no_js_errors": true
+        "reference_style_match": true
       },
       {
         "mode": "offline-short",
         "viewport": 390,
         "host": 366,
-        "five_icons_in_one_row": true,
+        "five_icons_one_row": true,
         "no_overflow": true
       },
       {
         "mode": "offline-short",
         "viewport": 1440,
         "host": 220,
-        "five_icons_in_one_row": true,
+        "five_icons_one_row": true,
         "no_overflow": true
       },
       {
         "mode": "offline-short",
         "viewport": 1440,
         "host": 320,
-        "five_icons_in_one_row": true,
+        "five_icons_one_row": true,
         "no_overflow": true
       },
       {
         "mode": "offline-short",
         "viewport": 1440,
         "host": 540,
-        "five_icons_in_one_row": true,
+        "five_icons_one_row": true,
         "no_overflow": true
       }
     ],
-    "limits": [
-      "Chromium emulation only, not physical devices.",
-      "Offline preview uses a fallback font until host-font test.",
-      "Native-host integration tested separately before publication."
+    "reference_comparisons": [
+      {
+        "width": 320,
+        "reference_card_style_equal": true,
+        "values": {
+          "radius": "12px",
+          "imageHeight": "220px",
+          "headingSize": "18px",
+          "headingAlign": "center",
+          "plusWidth": "38px",
+          "plusLeft": "12px",
+          "fontFamily": "Metropolis, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "width": 390,
+        "reference_card_style_equal": true,
+        "values": {
+          "radius": "12px",
+          "imageHeight": "220px",
+          "headingSize": "18px",
+          "headingAlign": "center",
+          "plusWidth": "38px",
+          "plusLeft": "12px",
+          "fontFamily": "Metropolis, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "width": 768,
+        "reference_card_style_equal": true,
+        "values": {
+          "radius": "12px",
+          "imageHeight": "220px",
+          "headingSize": "18px",
+          "headingAlign": "center",
+          "plusWidth": "38px",
+          "plusLeft": "12px",
+          "fontFamily": "Metropolis, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "width": 1024,
+        "reference_card_style_equal": true,
+        "values": {
+          "radius": "24px",
+          "imageHeight": "220px",
+          "headingSize": "18px",
+          "headingAlign": "center",
+          "plusWidth": "38px",
+          "plusLeft": "12px",
+          "fontFamily": "Metropolis, Arial, Helvetica, sans-serif"
+        }
+      },
+      {
+        "width": 1440,
+        "reference_card_style_equal": true,
+        "values": {
+          "radius": "24px",
+          "imageHeight": "220px",
+          "headingSize": "18px",
+          "headingAlign": "center",
+          "plusWidth": "38px",
+          "plusLeft": "12px",
+          "fontFamily": "Metropolis, Arial, Helvetica, sans-serif"
+        }
+      }
     ]
   },
   "host": {
@@ -93,7 +160,7 @@
         "nine_details_toggle": true,
         "native_CTA_focus_no_submit": true,
         "no_write_requests": true,
-        "font": "Nunito, Arial, sans-serif",
+        "font": "Metropolis, Arial, Helvetica, sans-serif",
         "errors": []
       },
       {
@@ -103,7 +170,7 @@
         "nine_details_toggle": true,
         "native_CTA_focus_no_submit": true,
         "no_write_requests": true,
-        "font": "Nunito, Arial, sans-serif",
+        "font": "Metropolis, Arial, Helvetica, sans-serif",
         "errors": []
       },
       {
@@ -122,10 +189,27 @@
     ]
   },
   "invariants": {
+    "base": "39d235191f233474967de1536b4e2a4b8673d96a",
+    "paths": [
+      "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html"
+    ],
+    "reference_path": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+    "reference_short_path": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html",
+    "reference_bytes_unchanged": true,
     "ingredient_count": 9,
-    "all_ingredient_paragraphs_preserved": true,
-    "full_composition_table_preserved": true,
-    "short_copy_preserved": true,
-    "dosage_warning_texts_preserved": true
+    "card_and_modal_images": 18,
+    "all_full_ingredient_paragraphs_preserved": true,
+    "table_preserved": true,
+    "short_text_preserved": true,
+    "no_hormonal_formula_copy": true,
+    "style_source": "actual reference CSS parsed with Chromium CSSOM and scoped; NAD product red retained",
+    "new_paid_generations": 0,
+    "new_asset_files": 0,
+    "limits": [
+      "NAD inherited claims not newly approved.",
+      "Shatavari-specific content, disease framing and result graph are not transferred.",
+      "Offline preview uses Arial fallback; production uses same Metropolis stack as reference."
+    ]
   }
 }

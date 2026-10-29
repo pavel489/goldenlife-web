@@ -1,13 +1,15 @@
-# Anti-Age Longevity NAD+ — vylepšený celý produktový popis
+# Anti-Age Longevity NAD+ — stejná šablona jako Woman Hormonal Balance se Shatavari
 
-Základ main 47fcc622245dcba59b5873aab2e475ba74cda5b8 a veřejná aktuální stránka SKU 550. Jde o vylepšení celého dlouhého a krátkého popisu, ne jen výměnu obrázků. Zachována červená produktová paleta, skutečné fotografie, devět dodaných obrázků aktivních látek, celé původní popisy složek, tabulka složení, dávkování a upozornění. Odstraněna jedna přesně duplicitní úvodní věta.
+Tato revize nahrazuje předchozí samostatný návrh přímou adaptací pojmenované předlohy. Referenční soubory: web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html a jeho maly/ fragment, z aktuálního main. Předloha zůstává beze změny.
 
-Nový úvod s autentickým balením, fakta 60 tobolek / 2 kapsle denně / 30 denních dávek, navigace, devět nativních rozbalovacích detailů, mobilní posouvání karet, sjednocený blok CTA, přehlednější užívání a tabulka. CSS je omezené na #gl-nad a #gl-nad-short, bez globálních :root proměnných. Typografie dědí Nunito z aktuálního e-shopu; není to nová schválená fontová norma.
+Přeneseno: úvodní banner s hlavní látkou a denní dávkou, Metropolis font stack, produkt vlevo a šest ikon vpravo, dvě obsahové karty, seznam účinků, ingredienční fotografie s krátkou větou a tlačítkem plus vlevo nahoře, CSS :target dialogy, mobilní vodorovné posouvání, CTA s hlavní fotografií, užívání a tabulka. Obsah, červená NAD paleta, 9 dodaných fotografií, celý text podrobností, dávky, složení a upozornění zůstávají NAD; Shatavari/BioPerine ani hormonální tvrzení, graf výsledků a délka kúry z předlohy se nepřebírají. NR dávka300mg je ze stávající tabulky NAD.
 
-Fotografie hero/CTA: přesná veřejná hlavní galerie SKU 550, ořez pouze prázdných okrajů (350,280,680,790), bez generování, retuše etikety a změny proporcí. Neměnný obrázkový commit 6d5e610d7748124562ce4f7133cdc2c1bbd3e7f8. Při nové načtené hlavní fotografii téhož SKU může komponenta fotografii převzít; při chybě se vrací k dodanému základu.
+Zdrojové NAD HTML před samostatným redesignem:47fcc622245dcba59b5873aab2e475ba74cda5b8. Jedna přesně duplicitní úvodní věta je odstraněna. Žádná nová účinková tvrzení nevznikají; původní texty nejsou tímto nově schválené. Schválený produktový claims soubor nebyl pro SKU nalezen.
 
-Nákupní CTA pouze odkazuje/posouvá k nativnímu objednávkovému formuláři, nikdy samo neodesílá košík. Cena a dostupnost se jen zobrazují z nativního hostu pod ověřeným productId 550. Bez hostu zůstávají skryté, žádná cena 0 nebo falešné skladem. Odstraněna vložená metadata/Offer z CMS fragmentu; shopová metadata se v tomto úkolu nemění.
+CSS je parserem Chromium omezené na #nad-popis, krátký popis na #nad-short. Unikátní root zabraňuje kolizi hostitelských pravidel pro obecné #special-popis. Produkční karty mají vůči předloze ověřené shodné computed styly radius/imageHeight/headingSize/headingAlign/plusWidth/plusLeft/fontFamily v pěti šířkách. Offline náhled používá Arial místo hostovaného Metropolis.
 
-Zachované zdravotní účinky nejsou tímto schválené. Pro toto SKU nebyl nalezen soubor schválených tvrzení; podklady ke kontrole jsou v lokálním předávacím souboru poznamky-k-textum.md.
+Nativní bridge je omezený na productId550. Zobrazí pouze aktuální cenu/dostupnost nativního hostu a tlačítko posune/fokusuje původní formulář, neposílá nákup. Bez hostu se neukazuje smyšlená cena ani sklad. Hlavní foto a CTA mají ověřený autentický fallback; devět obrázků karet i dialogů je připnutých na dříve ověřené immutable URL.
 
-Ověření: reálné Chromium viewporty 320/390/768/1024/1440, devět detailů a posouvání, krátký popis v úzkém desktopovém hostu, obrázky, izolace stylů, nákupní fallback a testovací host bez odeslání objednávky. Nejde o fyzické telefony či WebKit. Nová placená obrazová generace: žádná. Git main není uložení do Shoptetu; v administraci se neukládalo.
+Testy: pět šířek320/390/768/1024/1440, všech9 dialogů a horní detail, pět porovnání s předlohou, mobilní swipe, krátký host220/320/366/540px, test s aktuálními veřejnými styly e-shopu390/1440 a syntetické větve nativního bridge. Sanitizovaný hostovací fixture není uložený Shoptet; inicializační load-fade a překryvy se vypínají jen v testu. Nejde o fyzické telefony nebo WebKit.
+
+Bez nové obrazové generace a nových obrazových assetů. Git main není uložení do Shoptetu; administrace e-shopu se neměnila.
