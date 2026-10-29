@@ -1,0 +1,105 @@
+{
+  "source_commit": "8aca1dade14c959a0ada6429767a771d104c983d",
+  "source_file": "web/Golden Life Hormonal Trio/Golden_Life__Hormonal_triocz.html",
+  "replacement_count": 3,
+  "only_three_image_urls_changed": true,
+  "copy_css_scripts_preserved": true,
+  "short_description_unchanged": true,
+  "product_ids": [
+    "644",
+    "635",
+    "550"
+  ],
+  "sources": [
+    {
+      "index": 1,
+      "product_id": "644",
+      "card_name": "Woman Hormonal Balance se Shatavari",
+      "page_url": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "resolved_url": "https://www.golden-life.cz/woman-hormonal-balance/",
+      "page_title": "Woman Hormonal balance",
+      "old_src": "/user/documents/upload/womanhormonalbalancetabletky/cta.png",
+      "old_http_status": 200,
+      "main_image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe",
+      "image_dimensions": [
+        1024,
+        1024
+      ],
+      "image_sha256": "46586ffb2f92425870764d77bba5235606544842a8cdaa16534834352edbf041",
+      "downloaded": "/root/workspace/jobs/2026-10-29_hormonal-trio-thumbnails/out/01-produkt-644.png"
+    },
+    {
+      "index": 2,
+      "product_id": "635",
+      "card_name": "Peptides GLP-1 Woman Balance Dark Cherry",
+      "page_url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+      "resolved_url": "https://www.golden-life.cz/hormonal-balance-nocni-glp-1-drink/",
+      "page_title": "Hormonal Balance noční GLP-1 drink",
+      "old_src": "/user/documents/upload/peptidesglp1womanbalancedarkcherry/cta.png",
+      "old_http_status": 200,
+      "main_image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_box-komplet-peptides.png?ff=1&x=1024&y=1024&q=85&ts=6ace0dbd&sg=38cb01fe",
+      "image_dimensions": [
+        1024,
+        1024
+      ],
+      "image_sha256": "4faa008779ac9c46576c33c387142f630af3981f66f7fb643f020be1968078b6",
+      "downloaded": "/root/workspace/jobs/2026-10-29_hormonal-trio-thumbnails/out/02-produkt-635.png"
+    },
+    {
+      "index": 3,
+      "product_id": "550",
+      "card_name": "Anti-Age Longevity NAD+",
+      "page_url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "resolved_url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+      "page_title": "Anti-Age longevity NAD+",
+      "old_src": "/user/documents/upload/mockup/ANTI-AGE-LONGEVITA-NAD-TABLETKYd_1.png",
+      "old_http_status": 200,
+      "main_image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/550_sliim-extremecollagen-box-mango-sleep-glp.png?ff=1&x=1024&y=1024&q=85&ts=6a4e077c&sg=38cb01fe",
+      "image_dimensions": [
+        1024,
+        1024
+      ],
+      "image_sha256": "79e862c02f2829e11f025d5671375511643097d3d57d9299c3f25a83d8f788b0",
+      "downloaded": "/root/workspace/jobs/2026-10-29_hormonal-trio-thumbnails/out/03-produkt-550.png"
+    }
+  ],
+  "browser_tests": [
+    {
+      "width": 320,
+      "three_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "three_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 768,
+      "three_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 1024,
+      "three_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "three_real_remote_images_loaded": true,
+      "object_fit_contain": true,
+      "page_overflow": false,
+      "errors": []
+    }
+  ],
+  "offline_preview_no_external_requests": true,
+  "shop_saved": false
+}
