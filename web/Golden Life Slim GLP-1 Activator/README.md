@@ -65,3 +65,11 @@ Pravidla značky a pracovní vizuální identita Golden Life; aktuální veřejn
 - Piktogramy v dlouhém i krátkém popisu už mají vlastní fialovou #62388E; odstraněno jejich druhotné CSS přebarvování (`--gl-icon-filter: none`). Zdrojové PNG a průhlednost jsou zachované. Stačí nahrát aktualizované barevné CSS a dlouhý popis; krátký popis se nemění.
 - Zachované texty, všech 6 detailů, obrázky složek, tabulka včetně chromu 25/50 mcg a společné CSS. Nejde o obsahovou revizi ani schválení tvrzení na etiketě.
 - [Testy této opravy](../../docs/slim-glp-1-activator-hlavni-foto-piktogramy-testy.json). Git není živé nasazení v Shoptetu.
+
+## Piktogramy podle reference Pavla – 30. 10. 2026
+- Dlouhý i krátký popis obsahují všech šest původních fialových PNG z webu, v pořadí zaslaného screenshotu: Snižuje chuť do jídla, Stabilizuje hladinu cukru, Podporuje spalování tuků, Zvyšuje pocit sytosti, Bleskové hubnutí, Vyrobeno v ČR. Nejde o novou AI kresbu.
+- Krátký popis používá šest sloupců bez zalomení 5+1. Nové pravidlo je jen v produktovém barevném CSS; společné CSS zůstává beze změny.
+- K importu aktualizuj dlouhý i krátký HTML popis a barevné CSS. Git publikace není nasazení do Shoptetu.
+- Produktové fotografie (třetí odstavec a CTA), jejich synchronizace s galerií, tabulka a jednotky chromu 25/50 mcg zůstávají beze změny.
+- **Pracovní návrh – claims nejsou schválené:** prvních pět popisků tvrdí účinek. Produktový info.md nemá doložené schválené zdravotní tvrzení, proto nelze nabídnout schválenou zdravotní náhradu z tohoto souboru. „Bleskové hubnutí“ navíc slibuje rychlost výsledku a je proti brand/RULES.md. Neutrální alternativa pro veřejnou verzi: „Rostlinné extrakty“, „S chromem“, „S L-leucinem“, „S Nextida® GLP-1“, „60 tobolek“; poslední „Vyrobeno v ČR“ je údaj o původu, nikoli zdravotní tvrzení. Vyžaduje ověření původu. Texty byly na výslovný požadavek zachovány v interním návrhu, nikoli schváleny k reklamnímu použití.
+- Zdroje: screenshot zadavatele, veřejná produktová stránka a originální PNG, aktuální main f20323141476b10d619a8ff3e83165a6cc8dbd1b, brand/RULES.md a produktový info.md. Model GPT-6.1-sol, bez placené obrazové generace; cenu agentového běhu nemáme vyčíslenu.

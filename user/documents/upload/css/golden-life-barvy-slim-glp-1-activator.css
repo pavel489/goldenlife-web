@@ -85,3 +85,9 @@
 }
 
 /* The original GLP-1 pictograms already carry row purple #62388E. Do not recolour them a second time. */
+
+/* Six requester-selected GLP-1 pictograms; retain one row in the short description. */
+[data-gl-theme="slim-glp-1-activator"] .maly-ikony{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:6px;align-items:start}
+[data-gl-theme="slim-glp-1-activator"] .maly-ikony>div{min-width:0;overflow-wrap:anywhere;line-height:1.3}
+[data-gl-theme="slim-glp-1-activator"] .maly-ikony .p-card-img{max-width:100%;object-fit:contain}
+@media(max-width:600px){[data-gl-theme="slim-glp-1-activator"] .maly-ikony{gap:4px}[data-gl-theme="slim-glp-1-activator"] .maly-ikony>div{font-size:10px}[data-gl-theme="slim-glp-1-activator"] .maly-ikony .p-card-img{width:36px;height:36px}}

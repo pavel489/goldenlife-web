@@ -1,0 +1,70 @@
+{
+  "errors": [],
+  "widths": [
+    {
+      "width": 320,
+      "six_long_six_short": true,
+      "short_single_row": true,
+      "no_horizontal_overflow": true,
+      "icons_unfiltered_and_decoded": true,
+      "both_product_images_preserved": true
+    },
+    {
+      "width": 360,
+      "six_long_six_short": true,
+      "short_single_row": true,
+      "no_horizontal_overflow": true,
+      "icons_unfiltered_and_decoded": true,
+      "both_product_images_preserved": true
+    },
+    {
+      "width": 390,
+      "six_long_six_short": true,
+      "short_single_row": true,
+      "no_horizontal_overflow": true,
+      "icons_unfiltered_and_decoded": true,
+      "both_product_images_preserved": true
+    },
+    {
+      "width": 600,
+      "six_long_six_short": true,
+      "short_single_row": true,
+      "no_horizontal_overflow": true,
+      "icons_unfiltered_and_decoded": true,
+      "both_product_images_preserved": true
+    },
+    {
+      "width": 768,
+      "six_long_six_short": true,
+      "short_single_row": true,
+      "no_horizontal_overflow": true,
+      "icons_unfiltered_and_decoded": true,
+      "both_product_images_preserved": true
+    },
+    {
+      "width": 1440,
+      "six_long_six_short": true,
+      "short_single_row": true,
+      "no_horizontal_overflow": true,
+      "icons_unfiltered_and_decoded": true,
+      "both_product_images_preserved": true
+    },
+    {
+      "width": 390,
+      "six_long_six_short": true,
+      "short_single_row": true,
+      "no_horizontal_overflow": true,
+      "icons_unfiltered_and_decoded": true,
+      "both_product_images_preserved": true
+    }
+  ],
+  "source_base": "f20323141476b10d619a8ff3e83165a6cc8dbd1b",
+  "long_icon_count": 6,
+  "short_icon_count": 6,
+  "other_long_bytes_unchanged": true,
+  "other_short_bytes_unchanged": true,
+  "common_css_unchanged": true,
+  "shop_saved": false,
+  "portable_preview_checked": true,
+  "all_six_ingredient_modals_open_close_mobile_desktop": true
+}
