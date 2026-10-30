@@ -41,7 +41,7 @@ Každý CMS popis obsahuje přesně dva importy v jednom malém bloku:
 
 ## Podklady a limity
 - Veřejná https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/ , productId 476.
-- Vlastní autentický čistý packshot z dlouhého popisu: https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1-ACTIVATOR-INFOGRAFIKA.png. Ořez zachovává produktové pixely i etiketu; odstraňuje pouze prázdný okraj a odpojený šedý bod mimo produkt. Nejde o generování nebo přebarvení obalu. Nový ořez je uložený v repozitáři.
+- Produktové fotografie v bloku u třetího odstavce a v CTA čerpají z nativního hlavního obrázku produktu 476 v Shoptetu, nikoli z infografiky v popisu. Skript ověřuje productId, načtení obrázku a původ mimo vložený popis; obě místa sledují změnu hlavního obrázku. Samostatný náhled a chybové stavy mají skutečný aktuální hlavní packshot jako zálohu. Aktuální URL: https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-3_activator-02-aktualni-mockup-v1.png?ff=1&x=1024&y=1024&q=85&ts=6adf20e6&sg=38cb01fe
 - Vlastní existující lifestyle fotografie z aktuální stránky, šest ilustrací složek a vlastní dekorativní `GLPBLESKY.png`. Fotografie složek nejsou důkazem původu surovin. Současné fotografie se v tomto grafickém návrhu neredrawují ani nepřenášejí na jiný produkt.
 - Původní detail L-leucinu odkazoval na `glp1-berberin_04_I-leucin.png` (404). Nově používá stejnou skutečně funkční fotografii jako vlastní karta: `glp1-berberin_04_l-leucin.png`. Jde o ověřenou existující adresu, nikoli odhad náhradního souboru.
 - Plný původní seznam surovin, návod, skladování a upozornění jsou převzaté z aktuální stránky. Obecné povinné upozornění doplňku je doplněné. Botanické pojmenování „indický dřín“ ze zdroje je ponechané v doslovném složení k lidskému ověření, nikoli vydávané za novou taxonomickou kontrolu.
@@ -59,3 +59,9 @@ Každý CMS popis obsahuje přesně dva importy v jednom malém bloku:
 
 ## Výroba
 Pravidla značky a pracovní vizuální identita Golden Life; aktuální veřejný Activator; komponenty a společný CSS z Git main 7fb242e47c6d5ade6abfddab867edda2a261906b. Model GPT-6.1-sol, Python/BeautifulSoup, Chromium/Playwright a Pillow. Bez placené obrazové/video generace; cenu jazykového modelu nemám vyčíslenou.
+
+## Oprava hlavního obrázku a piktogramů
+- Obě produktové fotografie se synchronizují s hlavním obrázkem nativní galerie pouze pro productId 476. Jiný produkt se nikdy nepřevezme. Fallback je skutečný hlavní packshot 476. Při změně hlavního obrázku galerie se obě místa aktualizují automaticky.
+- Piktogramy v dlouhém i krátkém popisu už mají vlastní fialovou #62388E; odstraněno jejich druhotné CSS přebarvování (`--gl-icon-filter: none`). Zdrojové PNG a průhlednost jsou zachované. Stačí nahrát aktualizované barevné CSS a dlouhý popis; krátký popis se nemění.
+- Zachované texty, všech 6 detailů, obrázky složek, tabulka včetně chromu 25/50 mcg a společné CSS. Nejde o obsahovou revizi ani schválení tvrzení na etiketě.
+- [Testy této opravy](../../docs/slim-glp-1-activator-hlavni-foto-piktogramy-testy.json). Git není živé nasazení v Shoptetu.

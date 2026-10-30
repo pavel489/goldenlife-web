@@ -12,7 +12,7 @@
   --gl-color-table-row-alt: #f8f3fb;
   --gl-color-text-muted: #555;
   --gl-color-text-subtle: #999;
-  --gl-icon-filter: brightness(0) saturate(100%) invert(25%) sepia(44%) saturate(1532%) hue-rotate(238deg) brightness(88%) contrast(92%);
+  --gl-icon-filter: none;
   --gl-tone-btn-s-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
   --gl-tone-btn-s-color-1: #fff;
   --gl-tone-cta-box-background-1: #faf7fd;
@@ -83,3 +83,5 @@
   --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
   --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
 }
+
+/* The original GLP-1 pictograms already carry row purple #62388E. Do not recolour them a second time. */

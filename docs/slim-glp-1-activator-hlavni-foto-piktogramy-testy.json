@@ -1,0 +1,188 @@
+{
+  "scope": "Temporary browser fixtures on shop origin; no live CMS write or purchase",
+  "gallery_tests": [
+    "Both targets follow the native main image on load",
+    "Both targets follow subsequent gallery src update to the real original-resolution product image",
+    "Wrong native productId refused; own-product fallback retained",
+    "Missing native image falls back without broken targets",
+    "Late native image recovers both targets",
+    "Target image error recovers"
+  ],
+  "viewport_tests": [
+    {
+      "viewport": 320,
+      "icons": 11,
+      "all_icon_filters": "none",
+      "row_colour": "#62388E",
+      "no_overflow": true,
+      "both_photos_match_native": true,
+      "no_broken_images": true
+    },
+    {
+      "viewport": 360,
+      "icons": 11,
+      "all_icon_filters": "none",
+      "row_colour": "#62388E",
+      "no_overflow": true,
+      "both_photos_match_native": true,
+      "no_broken_images": true
+    },
+    {
+      "viewport": 390,
+      "icons": 11,
+      "all_icon_filters": "none",
+      "row_colour": "#62388E",
+      "no_overflow": true,
+      "both_photos_match_native": true,
+      "no_broken_images": true
+    },
+    {
+      "viewport": 767,
+      "icons": 11,
+      "all_icon_filters": "none",
+      "row_colour": "#62388E",
+      "no_overflow": true,
+      "both_photos_match_native": true,
+      "no_broken_images": true
+    },
+    {
+      "viewport": 768,
+      "icons": 11,
+      "all_icon_filters": "none",
+      "row_colour": "#62388E",
+      "no_overflow": true,
+      "both_photos_match_native": true,
+      "no_broken_images": true
+    },
+    {
+      "viewport": 1440,
+      "icons": 11,
+      "all_icon_filters": "none",
+      "row_colour": "#62388E",
+      "no_overflow": true,
+      "both_photos_match_native": true,
+      "no_broken_images": true
+    },
+    {
+      "viewport": 390,
+      "icons": 11,
+      "all_icon_filters": "none",
+      "row_colour": "#62388E",
+      "no_overflow": true,
+      "both_photos_match_native": true,
+      "no_broken_images": true
+    }
+  ],
+  "interactions": [
+    {
+      "width": 390,
+      "modal": "#glp1-lm-0",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-1",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-2",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-3",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-4",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-5",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "banner_open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-0",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-1",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-2",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-3",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-4",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-5",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "banner_open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-0",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-1",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-2",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-3",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-4",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-5",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "banner_open_close": true
+    }
+  ],
+  "errors": [],
+  "copy_unchanged": true,
+  "table_unchanged": true,
+  "short_html_unchanged": true,
+  "common_css_unchanged": true,
+  "ingredient_images_unchanged": true,
+  "standalone_fallback": true,
+  "cta_anchor_only": true
+}
