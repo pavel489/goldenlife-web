@@ -1,0 +1,35 @@
+{
+  "source_url": "https://www.golden-life.cz/slim-sos-fat-burner/",
+  "product_id": "473",
+  "base_commit": "68a7bff4553f3b4e35d2832d4eb6eef21c0354da",
+  "chromium": {
+    "one_capsule": "0,55 mcg",
+    "two_capsules": "1,11 mcg",
+    "numbers_unchanged": true,
+    "other_table_cells_unchanged": true
+  },
+  "source_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/473-1_sos-web.png?ff=1&x=1024&y=1024&q=85&ts=6adf0f19&sg=38cb01fe",
+  "photo_crop": [
+    376,
+    322,
+    646,
+    785
+  ],
+  "live_css_status": [
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-produkt.css",
+      "status": 200,
+      "matches_prepared": false
+    },
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+      "error": "HTTP Error 404: Not Found",
+      "matches_prepared": false
+    }
+  ],
+  "common_css_added_bytes": 852,
+  "model": "gpt-6.1-sol",
+  "paid_image_video_generation": 0,
+  "model_cost": "unknown",
+  "shop_updated": false
+}

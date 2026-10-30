@@ -1,0 +1,19 @@
+{
+  "base_css_prefix_byte_identical": true,
+  "added_bytes": 852,
+  "opt_in_selector": "table[data-gl-table=\"three-columns\"]",
+  "existing_html_checked": 54,
+  "existing_selector_matches": 0,
+  "beauty_regression": [
+    {
+      "product": "Beauty Star",
+      "width": 390,
+      "pixel_identical": true
+    },
+    {
+      "product": "Beauty Star",
+      "width": 1440,
+      "pixel_identical": true
+    }
+  ]
+}
