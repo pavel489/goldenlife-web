@@ -1,0 +1,106 @@
+{
+  "browser_only_not_saved": true,
+  "product": "573",
+  "native": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+  "targets": [
+    {
+      "src": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+      "loaded": true
+    },
+    {
+      "src": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+      "loaded": true
+    }
+  ],
+  "icons": [
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    },
+    {
+      "filter": "none",
+      "loaded": true
+    }
+  ],
+  "executed_bootstraps": 2,
+  "phone_cards": [
+    {
+      "parent": "p-icon-card",
+      "width": 84,
+      "padding": "12px 5px 10px",
+      "text": "Blokuje tuky a sacharidy",
+      "font": "11px"
+    },
+    {
+      "parent": "p-icon-card",
+      "width": 84,
+      "padding": "12px 5px 10px",
+      "text": "Podporuje trávení",
+      "font": "11px"
+    },
+    {
+      "parent": "p-icon-card",
+      "width": 84,
+      "padding": "12px 5px 10px",
+      "text": "Dodává vitalitu a energii",
+      "font": "11px"
+    },
+    {
+      "parent": "p-icon-card",
+      "width": 84,
+      "padding": "12px 5px 10px",
+      "text": "Podpora imunity",
+      "font": "11px"
+    },
+    {
+      "parent": "p-icon-card",
+      "width": 84,
+      "padding": "12px 5px 10px",
+      "text": "Rovnováha metabolismu",
+      "font": "11px"
+    },
+    {
+      "parent": "p-icon-card",
+      "width": 84,
+      "padding": "12px 5px 10px",
+      "text": "Vyrobeno v ČR",
+      "font": "11px"
+    }
+  ]
+}

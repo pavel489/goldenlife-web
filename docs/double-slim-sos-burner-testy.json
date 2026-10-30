@@ -1,0 +1,589 @@
+{
+  "preview_widths": [
+    {
+      "viewport": 320,
+      "scroll": 305,
+      "width": 320,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 3
+    },
+    {
+      "viewport": 390,
+      "scroll": 375,
+      "width": 390,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 3
+    },
+    {
+      "viewport": 768,
+      "scroll": 753,
+      "width": 768,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 0
+    },
+    {
+      "viewport": 1440,
+      "scroll": 1425,
+      "width": 1440,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 0
+    },
+    {
+      "viewport": 390,
+      "scroll": 375,
+      "width": 390,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 3
+    }
+  ],
+  "cms_widths": [
+    {
+      "viewport": 320,
+      "scroll": 309,
+      "width": 320,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 3
+    },
+    {
+      "viewport": 390,
+      "scroll": 375,
+      "width": 390,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 3
+    },
+    {
+      "viewport": 768,
+      "scroll": 753,
+      "width": 768,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 0
+    },
+    {
+      "viewport": 1440,
+      "scroll": 1425,
+      "width": 1440,
+      "broken": [],
+      "icons": [
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+          "filter": "none"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+          "filter": "none"
+        }
+      ],
+      "photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+      ],
+      "toggles": 0
+    }
+  ],
+  "photo_regressions": [
+    {
+      "case": "initial actual main image",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+    },
+    {
+      "case": "main-image src replacement",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573-7_double-slim-sos-burner.webp?ff=1&x=1024&y=1024&q=85&ts=6a59cbc7&sg=38cb01fe"
+    },
+    {
+      "case": "wrong host identity rejected",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+    },
+    {
+      "case": "correct identity restored",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573-7_double-slim-sos-burner.webp?ff=1&x=1024&y=1024&q=85&ts=6a59cbc7&sg=38cb01fe"
+    },
+    {
+      "case": "missing gallery safe fallback",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+    },
+    {
+      "case": "late inserted gallery",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573-7_double-slim-sos-burner.webp?ff=1&x=1024&y=1024&q=85&ts=6a59cbc7&sg=38cb01fe"
+    },
+    {
+      "case": "native image node replacement",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+    },
+    {
+      "case": "native srcset change",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573-7_double-slim-sos-burner.webp?ff=1&x=1024&y=1024&q=85&ts=6a59cbc7&sg=38cb01fe"
+    },
+    {
+      "case": "broken native image fallback",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+    },
+    {
+      "case": "native image recovers after failure",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573-7_double-slim-sos-burner.webp?ff=1&x=1024&y=1024&q=85&ts=6a59cbc7&sg=38cb01fe"
+    },
+    {
+      "case": "mirrored-target failure cached, no retry loop",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+    },
+    {
+      "case": "new source recovers from cached mirrored failure",
+      "both_targets_match": true,
+      "source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe"
+    }
+  ],
+  "errors": [],
+  "fixture_note": "Native-gallery mutation cases are explicit local fixtures, not saved shop changes",
+  "shop_saved": false,
+  "ingredient_copy_and_per_dose_table_unchanged": true,
+  "icon_colour": "#E40E7E",
+  "icon_occurrences": 11,
+  "icon_source_alpha_preserved": true,
+  "existing_three_toggles_and_five_details_work": true
+}
