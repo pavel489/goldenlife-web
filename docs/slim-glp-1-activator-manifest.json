@@ -1,0 +1,43 @@
+{
+  "source_url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+  "product_id": "476",
+  "base_commit": "7fb242e47c6d5ade6abfddab867edda2a261906b",
+  "chromium": {
+    "old": [
+      "25 mg",
+      "50 mg"
+    ],
+    "new": [
+      "25 mcg",
+      "50 mcg"
+    ],
+    "numbers_unchanged": true,
+    "other_cells_unchanged": true,
+    "rhp_unchanged": true
+  },
+  "common_css_unchanged": true,
+  "common_css_sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+  "photo_source": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1-ACTIVATOR-INFOGRAFIKA.png",
+  "photo_crop": [
+    572,
+    280,
+    1028,
+    1096
+  ],
+  "live_css_status": [
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-produkt.css",
+      "status": 200,
+      "matches_prepared": false
+    },
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css",
+      "error": "HTTP Error 404: Not Found",
+      "matches_prepared": false
+    }
+  ],
+  "model": "gpt-6.1-sol",
+  "paid_image_video_generation": 0,
+  "model_cost": "unknown",
+  "shop_updated": false
+}

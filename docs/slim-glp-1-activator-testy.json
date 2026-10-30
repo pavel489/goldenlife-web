@@ -1,0 +1,254 @@
+{
+  "widths": [
+    {
+      "viewport": 320,
+      "no_clipped_table_text": true,
+      "width": 320,
+      "scroll": 305,
+      "broken": [],
+      "banner": [
+        219,
+        219
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 360,
+      "no_clipped_table_text": true,
+      "width": 360,
+      "scroll": 345,
+      "broken": [],
+      "banner": [
+        259,
+        259
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 390,
+      "no_clipped_table_text": true,
+      "width": 390,
+      "scroll": 375,
+      "broken": [],
+      "banner": [
+        289,
+        289
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 520,
+      "no_clipped_table_text": true,
+      "width": 520,
+      "scroll": 505,
+      "broken": [],
+      "banner": [
+        419,
+        419
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 767,
+      "no_clipped_table_text": true,
+      "width": 767,
+      "scroll": 752,
+      "broken": [],
+      "banner": [
+        666,
+        666
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 768,
+      "no_clipped_table_text": true,
+      "width": 768,
+      "scroll": 753,
+      "broken": [],
+      "banner": [
+        719,
+        719
+      ],
+      "primary": "#62388E",
+      "toggles": 0,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 1100,
+      "no_clipped_table_text": true,
+      "width": 1100,
+      "scroll": 1085,
+      "broken": [],
+      "banner": [
+        1051,
+        1051
+      ],
+      "primary": "#62388E",
+      "toggles": 0,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 1440,
+      "no_clipped_table_text": true,
+      "width": 1440,
+      "scroll": 1425,
+      "broken": [],
+      "banner": [
+        1066,
+        1066
+      ],
+      "primary": "#62388E",
+      "toggles": 0,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 390,
+      "no_clipped_table_text": true,
+      "width": 390,
+      "scroll": 375,
+      "broken": [],
+      "banner": [
+        289,
+        289
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    }
+  ],
+  "interactions": [
+    {
+      "read_more": "gl-mobile-intro",
+      "mouse_keyboard": true
+    },
+    {
+      "read_more": "gl-mobile-detail-0",
+      "mouse_keyboard": true
+    },
+    {
+      "read_more": "gl-mobile-detail-1",
+      "mouse_keyboard": true
+    },
+    {
+      "banner_open_close": true
+    },
+    {
+      "modal": "#glp1-lm-0",
+      "open_close": true
+    },
+    {
+      "modal": "#glp1-lm-1",
+      "open_close": true
+    },
+    {
+      "modal": "#glp1-lm-2",
+      "open_close": true
+    },
+    {
+      "modal": "#glp1-lm-3",
+      "open_close": true
+    },
+    {
+      "modal": "#glp1-lm-4",
+      "open_close": true
+    },
+    {
+      "modal": "#glp1-lm-5",
+      "open_close": true
+    }
+  ],
+  "errors": [],
+  "cms_import_tests": [
+    {
+      "viewport": 320,
+      "no_clipped_table_text": true,
+      "width": 320,
+      "scroll": 309,
+      "broken": [],
+      "banner": [
+        251,
+        251
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 390,
+      "no_clipped_table_text": true,
+      "width": 390,
+      "scroll": 375,
+      "broken": [],
+      "banner": [
+        321,
+        321
+      ],
+      "primary": "#62388E",
+      "toggles": 3,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 768,
+      "no_clipped_table_text": true,
+      "width": 768,
+      "scroll": 753,
+      "broken": [],
+      "banner": [
+        751,
+        751
+      ],
+      "primary": "#62388E",
+      "toggles": 0,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    },
+    {
+      "viewport": 1440,
+      "no_clipped_table_text": true,
+      "width": 1440,
+      "scroll": 1425,
+      "broken": [],
+      "banner": [
+        1098,
+        1098
+      ],
+      "primary": "#62388E",
+      "toggles": 0,
+      "chromium": "Chrom\t25 mcg (*% RHP)\t50 mcg (125 % RHP)"
+    }
+  ],
+  "photo_source": "Real clean photo from this product description; original product pixels preserved; crop excludes detached source speck",
+  "temporary_response_overrides": true,
+  "shop_saved": false,
+  "decorative_background": {
+    "url": "https://www.golden-life.cz/user/documents/upload/GLPBLESKY.png",
+    "width": 1531,
+    "height": 553
+  },
+  "cta_scroll_anchor": true,
+  "exact_table_changes": [
+    {
+      "row": 6,
+      "column": 1,
+      "old": "25 mg (*% RHP)",
+      "new": "25 mcg (*% RHP)"
+    },
+    {
+      "row": 6,
+      "column": 2,
+      "old": "50 mg (125 % RHP)",
+      "new": "50 mcg (125 % RHP)"
+    }
+  ],
+  "common_css_unchanged": true
+}
