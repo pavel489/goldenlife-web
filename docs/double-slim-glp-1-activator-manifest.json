@@ -1,0 +1,40 @@
+{
+  "base_commit": "9351d93d9b6a9ee5c8b0fa399f03e5c793953c80",
+  "source_product_id": "476",
+  "destination_product_id": "461",
+  "source_url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+  "destination_url": "https://www.golden-life.cz/double-slim-glp-1-activator-s-berberinem/",
+  "source_long": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-cz.html",
+  "long": "web/Golden Life Double Slim GLP-1 Activator/Golden-Life-Double-Slim-GLP-1-Activator-cz.html",
+  "short": "web/Golden Life Double Slim GLP-1 Activator/maly/Golden-Life-Double-Slim-GLP-1-Activator-maly-cz.html",
+  "photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/461_double-slim-glp-1-activator-s-berberinem.png?ff=1&x=1024&y=1024&q=85&ts=6a180411&sg=38cb01fe",
+  "pack_count": 2,
+  "capsules_per_jar": 60,
+  "capsules_total": 120,
+  "daily_capsules": 2,
+  "days_total": 60,
+  "composition_table_byte_identical": true,
+  "all_ingredient_dialogs_and_cards_unchanged": true,
+  "shared_and_theme_css_unchanged": true,
+  "single_product_unchanged": true,
+  "shop_updated": false,
+  "model": "gpt-6.1-sol",
+  "paid_image_generation": 0,
+  "model_cost": "unknown",
+  "live_css_dependencies": [
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-produkt.css",
+      "http_status": 200,
+      "matches_repo_bytes": false,
+      "live_sha256": "45d7633470804e03925a2a587d3eb7db5eff1a41c32531be579cc70864ad0515",
+      "repo_sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f"
+    },
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css",
+      "http_status": 200,
+      "matches_repo_bytes": false,
+      "live_sha256": "b77b980d3479650b86a7b505e519380f507bb7710d79cacaaa7f4c171a3775d0",
+      "repo_sha256": "1008c93cf33b059bcc5130a3cb3587e6f8794c6f2aecd2f4eecfe9112f25911a"
+    }
+  ]
+}

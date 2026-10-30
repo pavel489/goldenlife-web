@@ -1,0 +1,234 @@
+{
+  "scope": "Local browser fixtures only; no CMS save, cart write or live deployment",
+  "viewports": [
+    {
+      "width": 320,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 360,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 390,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 600,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 767,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 768,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 1024,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 1440,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    },
+    {
+      "width": 390,
+      "no_document_or_banner_overflow": true,
+      "no_clipped_table_text": true,
+      "pictograms": 12,
+      "icon_filters": "none",
+      "short_strip_one_row": true,
+      "colour": "#62388E",
+      "no_broken_images": true
+    }
+  ],
+  "interactions": [
+    {
+      "width": 390,
+      "modal": "#glp1-lm-0",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-1",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-2",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-3",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-4",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-5",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "banner_open_close": true
+    },
+    {
+      "width": 390,
+      "all_three_read_more_toggles_and_keyboard": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-0",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-1",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-2",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-3",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-4",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "modal": "#glp1-lm-5",
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "banner_open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-0",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-1",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-2",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-3",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-4",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "modal": "#glp1-lm-5",
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "banner_open_close": true
+    },
+    {
+      "width": 390,
+      "all_three_read_more_toggles_and_keyboard": true
+    }
+  ],
+  "gallery": [
+    "Both images match native main photo for exact ID 461",
+    "Both images follow a genuinely different loaded same-SKU gallery image",
+    "Single-product ID 476 rejected, genuine Double fallback retained",
+    "Missing native image falls back",
+    "Target image error recovers"
+  ],
+  "errors": [],
+  "source_id": 476,
+  "target_id": 461,
+  "table_unchanged": true,
+  "shared_and_theme_css_unchanged": true,
+  "standalone_fallback": true,
+  "cta_scroll_only": true,
+  "source_template_style_parity_mobile_and_desktop": true,
+  "offline_preview": {
+    "tested_file": "Double-Slim-GLP-1-Activator-nahled-offline.html",
+    "network_disabled": true,
+    "external_requests": 0,
+    "broken_images": 0,
+    "runtime_errors": 0,
+    "viewport_widths": [
+      320,
+      390,
+      1440
+    ]
+  }
+}
