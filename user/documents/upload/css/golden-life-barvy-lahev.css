@@ -1,0 +1,32 @@
+/* Barevný model: lahev. Použij po golden-life-produkt.css. */
+:where([data-gl-theme="lahev"]) {
+  --gl-accent: #d90817;
+  --gl-tone-gl-bottle-color-1: #222;
+  --gl-tone-gl-bottle-figure-background-1: #f6f6f6;
+  --gl-tone-gl-bottle-glb-card-background-1: #fff;
+  --gl-tone-gl-bottle-glb-card-border-1: #e7e7e7;
+  --gl-tone-gl-bottle-glb-lead-color-1: #222;
+  --gl-tone-gl-bottle-glb-photo-fallback-color-1: #555;
+  --gl-tone-gl-bottle-glb-prod-border-1: #eee;
+  --gl-tone-gl-bottle-glb-prod-box-shadow-1: rgba(0,0,0,.04);
+  --gl-tone-gl-bottle-glb-prod-focus-visible-outline-1: #d90817;
+  --gl-tone-gl-bottle-glb-prod-hover-box-shadow-1: rgba(0,0,0,.1);
+  --gl-tone-gl-bottle-glb-prod-img-background-1: #fff;
+  --gl-tone-gl-bottle-glb-related-h3-color-1: #222;
+  --gl-tone-gl-bottle-glb-text-color-1: #555;
+  --gl-tone-gl-bottle-li-background-1: #fdf0f1;
+  --gl-tone-gl-bottle-li-border-1: #f2d3d6;
+  --gl-tone-gl-bottle-li-color-1: #333;
+  --gl-tone-gl-bottle-short-color-1: #333;
+  --gl-tone-gl-bottle-short-strong-color-1: #d90817;
+  --gl-tone-inline-glb-prod-1-glb-tile-1: #e3127e;
+  --gl-tone-inline-glb-prod-1-glb-tint-1: #fdf0f7;
+  --gl-tone-inline-glb-prod-2-glb-tile-1: #e08a1e;
+  --gl-tone-inline-glb-prod-2-glb-tint-1: #fdf4e6;
+  --gl-tone-inline-glb-prod-3-glb-tile-1: #761232;
+  --gl-tone-inline-glb-prod-3-glb-tint-1: #fbeef1;
+  --gl-tone-inline-glb-prod-4-glb-tile-1: #62388e;
+  --gl-tone-inline-glb-prod-4-glb-tint-1: #f3eef9;
+  --gl-tone-inline-glb-prod-5-glb-tile-1: #bf1818;
+  --gl-tone-inline-glb-prod-5-glb-tint-1: #fdf1f1;
+}

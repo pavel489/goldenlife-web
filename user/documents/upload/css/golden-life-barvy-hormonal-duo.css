@@ -1,0 +1,36 @@
+/* Barevný model: hormonal-duo. Použij po golden-life-produkt.css. */
+:where([data-gl-theme="hormonal-duo"]) {
+  --gl-color-bg-grey: #f0f0f0;
+  --gl-color-bg-light: #fbeef1;
+  --gl-color-bg-light-rgb: 251,238,241;
+  --gl-color-primary: #761232;
+  --gl-color-primary-hover: #5c0e27;
+  --gl-color-primary-rgb: 118,18,50;
+  --gl-color-success: #27ae60;
+  --gl-color-table-bg: #f3d9e0;
+  --gl-color-table-border: var(--gl-color-primary-hover);
+  --gl-color-table-row-alt: #f9ecef;
+  --gl-color-text-muted: #555;
+  --gl-color-text-subtle: #999;
+  --gl-icon-filter: brightness(0) saturate(100%) invert(11%) sepia(56%) saturate(3200%) hue-rotate(315deg) brightness(80%) contrast(95%);
+  --gl-tone-cta-box-background-1: #fff7f7;
+  --gl-tone-cta-box-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+  --gl-tone-cta-button-color-1: white;
+  --gl-tone-cta-button-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-cta-button-hover-color-1: white;
+  --gl-tone-cta-product-img-filter-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-hero-img-background-1: #fff8f8;
+  --gl-tone-hero-row-heroimg-filter-1: rgba(var(--gl-color-primary-rgb),0.18);
+  --gl-tone-maly-hr-background-1: var(--gl-color-primary);
+  --gl-tone-maly-ikony-div-color-1: var(--gl-color-primary);
+  --gl-tone-maly-popis-color-1: #333;
+  --gl-tone-maly-produkt-background-1: var(--gl-color-bg-light);
+  --gl-tone-maly-produkt-info-color-1: #333;
+  --gl-tone-maly-produkt-nazev-color-1: var(--gl-color-primary);
+  --gl-tone-nad-duo-btn-color-1: #fff;
+  --gl-tone-obrazek-odstavec-background-1: #fff;
+  --gl-tone-p-icon-card-background-1: rgba(255,255,255,0.92);
+  --gl-tone-p-icon-card-border-1: rgba(var(--gl-color-primary-rgb),0.06);
+  --gl-tone-p-icon-card-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.04);
+  --gl-tone-p-icon-card-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+}
