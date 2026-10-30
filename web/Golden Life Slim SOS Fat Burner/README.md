@@ -42,7 +42,7 @@ Obrázky jsou skutečně uložené v tomto repozitáři a HTML je odkazuje přes
 Zdrojový HTML komentář a stavový atribut označují pracovní obnovení; stejný status je viditelný nahoře v náhledu. Před zveřejněním účinkového copy je nutná samostatná obsahová kontrola. Povinná upozornění k doplňku a alergenu korýši zůstávají.
 
 ## Co se neměnilo
-- Obecné a barevné CSS beze změny; zachované dva importy v každém popisu.
+- Obecné CSS beze změny; barevné CSS je aktualizované pro přesně růžové piktogramy. Zachované dva importy v každém popisu.
 - Celá tabulka a dříve opravené jednotky chromu beze změny.
 - Aktuální CTA bez natvrdo zapsané ceny či dostupnosti; odkaz k nativnímu formuláři.
 - Ostatní produkty, GLP-1 Activator, Beauty Star a jazykové mutace beze změny.
@@ -60,3 +60,10 @@ Doručení je přes Git, bez ZIPu. Nové obsahové HTML se tímto nenasazuje do 
 
 ## Výroba a náklady
 Podklady: původní české veřejné HTML, současné SK/DE/EN stránky stejného produktu, pět přesně jmenovaných dodaných ilustrací, aktuální Git a pravidla značky. Model GPT-6.1-sol, Python/BeautifulSoup/Pillow a Chromium/Playwright. Nevznikla nová placená obrazová/video generace; cenu běhu jazykového modelu nemám vyčíslenou. Původní náklady na dříve vytvořené dodané PNG nejsou nákladem nové generace v tomto úkolu a nejsou nově vyčíslené.
+
+## Aktuální vizuální oprava: hlavní fotografie a růžové piktogramy
+- Fotografie ve třetím odstavci / hero a v CTA se automaticky přebírají z hlavní galerie produktu 473. Zdroj se ověřuje mimo vložený popis a pouze se shodným productId. Záloha je skutečná současná hlavní fotografie stejného produktu. Ověřeny změny src/srcset, vložení a výměna galerie, neplatná identita a chybové stavy.
+- Všech 11 použití piktogramů v dlouhém a krátkém popisu používá růžovou řady #E40E7E. Původní tvary a alfa kanály jsou zachované; barevné CSS je znovu nefiltruje. PNG jsou uložené v repozitáři a HTML používá existující neměnné URL.
+- Texty, pětičlenný přehled složek a jejich fotografie, tabulka i chrom 0,55 / 1,11 mcg zůstaly beze změny. Původní pracovní stav účinkových textů zůstává otevřený k ověření.
+- Pro nasazení nahraj aktualizované barevné CSS a nahraď celý dlouhý i krátký HTML popis; žádné ukládání do Shoptetu v této úloze neproběhlo.
+- [Nové testy hlavní fotografie a piktogramů](../../docs/slim-sos-main-photo-icons-testy.json). Společné CSS a ostatní produkty se nemění.

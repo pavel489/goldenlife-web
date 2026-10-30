@@ -70,12 +70,33 @@
     "1,11 mcg"
   ],
   "whole_table_and_cta_unchanged": true,
-  "common_and_theme_css_unchanged": true,
+  "common_and_theme_css_unchanged": false,
   "copy_status": "working source restoration; claims approval not established",
   "identified_effect_sentences": 49,
   "model": "gpt-6.1-sol",
   "new_paid_image_video_generation": 0,
   "model_cost": "unknown",
   "shop_saved": false,
-  "language_mutations_changed": false
+  "language_mutations_changed": false,
+  "common_css_unchanged": true,
+  "theme_css_unchanged": false,
+  "latest_visual_correction": {
+    "base": "e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4",
+    "original_base": "82abf51b54a7eb4916b0d770b67394b655e28be0",
+    "long": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+    "short": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+    "theme": "user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+    "native_main": {
+      "product_id": "473",
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/473-1_sos-web.png?ff=1&x=1024&y=1024&q=85&ts=6adf0f19&sg=38cb01fe",
+      "sha256": "18d4ecec840f85fcb25ca065ab759d313b8172e06178c4ed9dabacf173ddf410"
+    },
+    "icon_color": "#E40E7E",
+    "icon_occurrences": 11,
+    "product_photo_targets": 2,
+    "all_copy_and_table_unchanged": true,
+    "ingredient_images_unchanged": true,
+    "shared_css_unchanged": true,
+    "shop_saved": false
+  }
 }

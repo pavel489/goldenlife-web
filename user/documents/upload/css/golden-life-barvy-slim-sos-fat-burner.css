@@ -12,7 +12,7 @@
   --gl-color-table-row-alt: #fff5fa;
   --gl-color-text-muted: #555;
   --gl-color-text-subtle: #999;
-  --gl-icon-filter: brightness(0) saturate(100%) invert(20%) sepia(94%) saturate(3788%) hue-rotate(313deg) brightness(93%) contrast(100%);
+  --gl-icon-filter: none;
   --gl-tone-btn-s-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
   --gl-tone-btn-s-color-1: #fff;
   --gl-tone-cta-box-background-1: #fff7fb;
@@ -83,3 +83,6 @@
   --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
   --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
 }
+
+/* Exact row-colour icons already carry #E40E7E RGB; never filter ingredient photographs. */
+[data-gl-theme="slim-sos-fat-burner"] img[data-gl-row-icon="slim-pink"]{filter:none!important}
