@@ -86,3 +86,12 @@
 
 /* Exact row-colour icons already carry #E40E7E RGB; never filter ingredient photographs. */
 [data-gl-theme="double-slim-sos-burner"] img[data-gl-row-icon="slim-pink"]{filter:none!important}
+
+/* Double SOS short description: narrow native Shoptet host, not only a wide preview. */
+[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;align-items:start;width:100%;max-width:100%;box-sizing:border-box}
+[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony>div{width:auto;min-width:0;max-width:100%;text-align:center;font-size:12px;line-height:1.4;overflow-wrap:anywhere;white-space:normal}
+[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony .p-card-img{display:block;width:44px;height:44px;max-width:100%;object-fit:contain;margin:0 auto 5px;filter:none}
+[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-produkt{min-width:0;box-sizing:border-box}
+[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-produkt-info{display:flex;flex-direction:column;align-items:flex-start;gap:6px;line-height:1.5}
+[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-produkt-info>span{display:block;max-width:100%;overflow-wrap:anywhere}
+@media(max-width:600px){[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony{gap:4px}[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony>div{font-size:11px}[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony .p-card-img{width:38px;height:38px}}

@@ -1,0 +1,99 @@
+{
+  "scope": "Real public shop page with only the proposed theme response overridden locally; no live CMS or asset upload",
+  "viewports": [
+    {
+      "width": 320,
+      "host_width": 285,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 360,
+      "host_width": 325,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 390,
+      "host_width": 355,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 600,
+      "host_width": 565,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 767,
+      "host_width": 732,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 768,
+      "host_width": 640,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 1024,
+      "host_width": 318,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 1280,
+      "host_width": 392,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 1440,
+      "host_width": 460,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    },
+    {
+      "width": 390,
+      "host_width": 355,
+      "five_icons_in_one_row": true,
+      "no_clipped_text_or_component_overflow": true,
+      "meta_separate_lines": true,
+      "no_broken_images": true,
+      "row_colour": "#E40E7E"
+    }
+  ],
+  "errors": [],
+  "copy_unchanged": true,
+  "common_css_unchanged": true,
+  "long_description_not_targeted": true
+}
