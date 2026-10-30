@@ -1,63 +1,62 @@
-# Slim SOS Fat Burner – nová produktová grafika
+# Slim SOS Fat Burner – obnovený plný obsah a nové obrázky
 
-## Hotové soubory
+## Aktuální oprava
+Nové CSS rozložení zůstává, ale vrací se významové a prodejní texty původní verze – nikoli opakování dávek a názvů složek.
+
+- Obnovený původní dlouhý i krátký úvod a přínosové piktogramy.
+- Obnovené „Jak funguje“, „Účinky“ a souhrn „Co vám přinese“.
+- Každá z pěti složek má vlastní původní odlišný teaser a plný vysvětlující odstavec v detailu.
+- Pět přesně dodaných PNG je na správných kartách i uvnitř jejich detailů. Včetně skutečného obrázku chitosanu, který předchozí verzi chyběl.
+- Tabulka, ceny/nákupní chování, dávkování, bezpečnostní upozornění a nové společné CSS rozložení nebyly obsahově změněné. Chrom zůstává **0,55 mcg / 1,11 mcg**.
+- Mobilní rozbalování přizpůsobené obnovenému nadpisu „Účinky“ a ověřené myší/Enterem. Nezmizí žádný dlouhý odstavec.
+
+## Soubory
 - [Dlouhý popis](Golden-Life-Slim-SOS-Fat-Burner-cz.html)
 - [Krátký popis](maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html)
-- [Obecné produktové CSS](../../user/documents/upload/css/golden-life-produkt.css)
-- [Barevný model Slim SOS](../../user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css)
-- [HTML náhled](../../nahledy/slim-sos-fat-burner.html) – otevři stažený soubor v prohlížeči; skutečné obrázky, fonty a shop styly vyžadují internet. GitHub HTML nezobrazuje jako živou stránku.
-- [Obrázkový náhled](../../nahledy/slim-sos-fat-burner.png)
-- [Testy](../../docs/slim-sos-fat-burner-testy.json) a [regrese sdíleného CSS](../../docs/slim-sos-css-regrese.json)
-- [Kontrola původních tvrzení](../../docs/slim-sos-fat-burner-texty.md)
+- [HTML náhled](../../nahledy/slim-sos-fat-burner.html) – otevři stažený soubor v prohlížeči; obrázky a fonty vyžadují internet. Nákup je vypnutý.
+- [Náhled všech pěti skutečně vyrenderovaných karet](../../nahledy/slim-sos-fat-burner-slozky.png)
+- [Horní část stránky](../../nahledy/slim-sos-fat-burner.png)
+- [Pět původních dodaných PNG](../../assets/slim-sos-fat-burner/ingredients/)
+- [Testy](../../docs/slim-sos-fat-burner-testy.json), [manifest opravy](../../docs/slim-sos-fat-burner-manifest.json), [poznámky k tvrzením](../../docs/slim-sos-fat-burner-texty.md)
 
-## Výslovná oprava Chromu / Chromium
-Ve složení byla opravena pouze jednotka, přesně podle zadání:
-- 1 tobolka: **0,55 mcg** místo 0,55 mg.
-- 2 tobolky – denní dávka: **1,11 mcg** místo 1,11 mg.
+## Podklady a přesné obrázky
+Původní český popis byl obnovený z uloženého původního veřejného HTML. Zkontrolované současné jazykové mutace stejného productId **473** potvrzují, že významové texty zůstaly zachované:
+- https://www.golden-life.cz/sk/slim-sos-fat-burner/
+- https://www.golden-life.cz/de/slim-sos-fat-burner/
+- https://www.golden-life.cz/en/sos-fat--burner/
 
-Číselné hodnoty zůstaly stejné. Nejde o matematický převod původních mg na mikrogramy; jde o opravu chybně uvedené jednotky. Stejné mcg jsou v tabulce, přehledech i detailu chromu. Všechny ostatní tabulkové buňky zůstaly obsahově stejné. Původní značení `*% RHP` a poznámka o RHP nebyly při této opravě přepočítávané; jejich správnost je samostatný otevřený produktový podklad, ne ověřené tvrzení této migrace.
+Aktuální česká veřejná stránka už na začátku opravy obsahovala předchozí zredukovanou verzi. Proto není nově vydávaná za původní referenci. Jazykové mutace se pouze četly – jejich obsah, tabulky ani staré jednotky se v této práci neměnily.
 
-## Nový vzhled
-Stejný komponentový systém jako nejnovější Woman Hormonal Balance a připravená Beauty Star: banner s rozbalením, hero, fakta, karty s pěti detaily látek, CTA, užívání a tabulka. Vlastní téma `slim-sos-fat-burner`, hlavní barva Slim Pink Strong **#E40E7E** z pracovního brandového manuálu. Produktová identita 473; referenční layout marker neznamená jiný produkt.
+Použité dodané soubory beze změny původních bajtů a názvů:
+1. `01_chitosan_sos-burner_v1.png`
+2. `02_bile-fazole_sos-burner_v1.png`
+3. `03_cervena-repa_sos-burner_v1.png`
+4. `04_jablecny-ocet_sos-burner_v1.png`
+5. `05_chrom_sos-burner_v1.png`
 
-Každý CMS popis obsahuje jeden malý style blok a právě dva importy:
+Obrázky jsou skutečně uložené v tomto repozitáři a HTML je odkazuje přes neměnné URL připnuté ke commitu f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b. Není potřeba domýšlet jejich složku na Shoptetu nebo předstírat neprovedený upload.
 
-```html
-<style>
-@import url("/user/documents/upload/css/golden-life-produkt.css");
-@import url("/user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css");
-</style>
-```
+## Stav a bezpečnost copy
+**Jde o požadované pracovní obnovení původních účinkových textů, nikoli o legislativní schválení.** Tvrzení o blokaci tuků/sacharidů, detoxikaci jater, stabilizaci glukózy či účincích na chutě nejsou tímto označena za schválená. Konkrétní produktový soubor s povoleným zněním není dostupný; schválené formulace proto nejsou vymýšlené. Původní tvrzení i neutrální faktické alternativy jsou odděleně rozepsané v kontrolním souboru. Nejsou znovu tajně nahrazené pouhými dávkami v požadovaném pracovním návrhu.
 
-Obecné CSS dostalo pouze malý přídavný opt-in komponent pro třísloupcovou tabulku `data-gl-table="three-columns"`: rozumné šířky sloupců a čitelné mobilní zalamování. Původní obsah CSS zůstal beze změny jako přesný prefix souboru. Pravidlo nematchuje ostatní současné HTML; Beauty Star má pixelově shodný výsledek před/po na mobilu i desktopu.
+Zdrojový HTML komentář a stavový atribut označují pracovní obnovení; stejný status je viditelný nahoře v náhledu. Před zveřejněním účinkového copy je nutná samostatná obsahová kontrola. Povinná upozornění k doplňku a alergenu korýši zůstávají.
 
-## Nasazení
-1. Nahraj aktuální společné CSS a nové barevné CSS na stejné cesty do e-shopu.
-2. Nahraď staré dlouhé a krátké popisy celými HTML, nepřidávej je za staré inline styly.
-3. Ponech funkční skript mobilního rozbalování; CSS samo chování neimplementuje.
-4. Ověř skutečně uloženou stránku na telefonu i desktopu, jednotky chromu, pět detailů a upozornění.
-
-**Git publikace není nasazení do Shoptetu. V této práci se nic neukládalo v administraci e-shopu.** CTA odkazuje k nativnímu formuláři, neprovádí vlastní nákup ani nevymýšlí cenu/dostupnost. Nákup v náhledu je vypnutý. Soubory jsou doručené přes Git, bez ZIPu.
-
-## Podklady a omezení
-- Aktuální veřejný https://www.golden-life.cz/slim-sos-fat-burner/ , native productId 473.
-- Skutečná aktuální hlavní fotografie; pro hero je oříznutý pouze prázdný okraj. Produkt nebyl generovaný ani přebarvený. Originál: https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/473-1_sos-web.png?ff=1&x=1024&y=1024&q=85&ts=6adf0f19&sg=38cb01fe. Ořez je uložený v repozitáři, nikoli závislý na novém uploadu do Shoptetu.
-- Existující skutečné fotografie bílých fazolí, řepy, octa a chromu. Jsou ilustrační, nikoli důkaz původu surovin.
-- Původní odkazy `[jak-funguje.jpg]`, `[ucinky.jpg]` a `[SOS-chitosan.png]` vracejí 404. Do nového HTML se nepřenášejí rozbité zástupné cesty. Chitosan má plnohodnotný textový detail bez domyšlené fotografie.
-- Zůstává produktové upozornění na korýše, děti, těhotné a kojící ženy i pokyny ke skladování. Doplněno obecné povinné upozornění k doplňku stravy.
-- Produktový soubor se schválenými formulacemi nebyl dostupný. Původní sliby blokace tuků/cukrů, detoxikace jater či potlačení chutí se proto nepřenášejí jako schválená účinková tvrzení; nové znění uvádí složky a množství. Revize je rozepsaná zvlášť. Autentická etiketa na fotografii nebyla retušovaná; její vlastní účinkové nápisy jsou původní obal, ne dodatečně ověřený claim.
-- Kompletní seznam pomocných surovin zdroj neposkytuje; stručný původní seznam pěti složek není vymyšleně rozšířený o další suroviny. Před nasazením ho porovnej s etiketou.
-- Původní krátký a dlouhý popis se liší v časování vůči jídlu. Nový krátký uvádí pouze 2 tobolky denně s vodou, dlouhý zachovává původní produktový návod. Časování je potřeba sjednotit podle etikety.
-- Při pozdějším vkládání do dárkových boxů je třeba ověřit allowlist názvu nového barevného CSS v jejich loaderu. Boxy nebyly v tomto zadání měněné.
+## Co se neměnilo
+- Obecné a barevné CSS beze změny; zachované dva importy v každém popisu.
+- Celá tabulka a dříve opravené jednotky chromu beze změny.
+- Aktuální CTA bez natvrdo zapsané ceny či dostupnosti; odkaz k nativnímu formuláři.
+- Ostatní produkty, GLP-1 Activator, Beauty Star a jazykové mutace beze změny.
+- Žádné ukládání do administrace Shoptetu, zákazníci/objednávky/platby/měření beze změny.
 
 ## Skutečné ověření
-- Náhled: 320, 360, 390, 520, 767, 768, 1100, 1440 px a návrat na 390 px.
-- Skutečné dodané CMS fragmenty se dvěma importy a veřejným shop CSS: 320, 390, 768 a 1440 px, pomocí dočasných lokálních odpovědí na původním originu.
-- Bez horizontálního přetečení stránky/banneru, bez rozbitých obrázků, bez JavaScript chyb. Text všech tabulkových buněk měřený pomocí DOM Range – žádný vpravo oříznutý nadpis.
-- Tři mobilní rozbalování myší/Enterem, detail banneru a všech pět detailů složek otevřeno/zavřeno. Ověřený návrat mobil–desktop–mobil.
-- Přesně dvě změny obsahu tabulky: mg → mcg u chromu; zbytek shodný se zdrojem.
-- Nová fotka před Git uploadem testovaná skutečnými připravenými bajty pomocí lokálního response override; po publikaci se samostatně ověřuje skutečná veřejná URL.
-- Vizuálně kontrolovaný horní desktop, celá mobilní stránka, aktuální packshot a detail mobilní tabulky.
+- Devět průchodů šířkami 320–1440 px včetně návratu na mobil; čtyři šířky přesných CMS fragmentů s reálnými shop styly a dvěma importy.
+- Žádné rozbité použité obrázky, žádné JS chyby, bez horizontálního přetečení stránky nebo banneru.
+- Všech pět detailů otevřeno/zavřeno na mobilu i desktopu: deset kombinací, včetně kontroly plného původního textu a správného nového obrázku.
+- Tři mobilní přepínače ověřené myší/Enterem; po rozbalení se plný text neřeže.
+- Pět skutečně odlišných teaserů, sedm původních přínosových položek, žádné dřívější obecné výplňové věty v detailech.
+- Všechny dodané PNG porovnané bajt po bajtu po Git uploadu a přes skutečné veřejné URL. Náhledy karet vznikly screenshotem skutečného HTML, ne přestavěním UI v grafickém editoru.
+
+Doručení je přes Git, bez ZIPu. Nové obsahové HTML se tímto nenasazuje do Shoptetu.
 
 ## Výroba a náklady
-Podklady: pravidla značky, pracovní vizuální identita Golden Life, aktuální veřejná stránka Slim SOS Fat Burner, sdílený framework a komponentová reference z Git `main` 68a7bff4553f3b4e35d2832d4eb6eef21c0354da. Model GPT-6.1-sol; Python/BeautifulSoup, Chromium/Playwright, Pillow. Bez placené obrazové nebo video generace. Cenu jazykového modelu nemám vyčíslenou.
+Podklady: původní české veřejné HTML, současné SK/DE/EN stránky stejného produktu, pět přesně jmenovaných dodaných ilustrací, aktuální Git a pravidla značky. Model GPT-6.1-sol, Python/BeautifulSoup/Pillow a Chromium/Playwright. Nevznikla nová placená obrazová/video generace; cenu běhu jazykového modelu nemám vyčíslenou. Původní náklady na dříve vytvořené dodané PNG nejsou nákladem nové generace v tomto úkolu a nejsou nově vyčíslené.

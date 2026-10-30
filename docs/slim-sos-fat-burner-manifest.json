@@ -1,35 +1,81 @@
 {
-  "source_url": "https://www.golden-life.cz/slim-sos-fat-burner/",
   "product_id": "473",
-  "base_commit": "68a7bff4553f3b4e35d2832d4eb6eef21c0354da",
-  "chromium": {
-    "one_capsule": "0,55 mcg",
-    "two_capsules": "1,11 mcg",
-    "numbers_unchanged": true,
-    "other_table_cells_unchanged": true
-  },
-  "source_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/473-1_sos-web.png?ff=1&x=1024&y=1024&q=85&ts=6adf0f19&sg=38cb01fe",
-  "photo_crop": [
-    376,
-    322,
-    646,
-    785
-  ],
-  "live_css_status": [
+  "content_base_commit": "e7821b3c14ea988b13f8f126d4b21ddd799fc02e",
+  "asset_commit": "f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b",
+  "copy_sources": [
     {
-      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-produkt.css",
-      "status": 200,
-      "matches_prepared": false
+      "language": "cs",
+      "kind": "original archived public HTML",
+      "sha256": "f8fece1d43fa227115ec060dafd59d6db40ee94bf7da63cbe0f4520be8b53d39"
     },
     {
-      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
-      "error": "HTTP Error 404: Not Found",
-      "matches_prepared": false
+      "language": "sk",
+      "url": "https://www.golden-life.cz/sk/slim-sos-fat-burner/",
+      "product_id": "473",
+      "status": 200
+    },
+    {
+      "language": "de",
+      "url": "https://www.golden-life.cz/de/slim-sos-fat-burner/",
+      "product_id": "473",
+      "status": 200
+    },
+    {
+      "language": "en",
+      "url": "https://www.golden-life.cz/en/sos-fat--burner/",
+      "product_id": "473",
+      "status": 200
     }
   ],
-  "common_css_added_bytes": 852,
+  "restored_sections": [
+    "intro",
+    "short intro",
+    "hero benefit icons",
+    "How it works",
+    "Effects",
+    "benefit summary",
+    "five distinct ingredient teasers",
+    "five complete ingredient dialogs",
+    "banner ingredient explanation"
+  ],
+  "images": [
+    {
+      "path": "assets/slim-sos-fat-burner/ingredients/01_chitosan_sos-burner_v1.png",
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/01_chitosan_sos-burner_v1.png",
+      "sha256": "870cf047ff1991d2573a3ee68aee90c5fc3bf6d4bed09d45f9c25713d5c25478"
+    },
+    {
+      "path": "assets/slim-sos-fat-burner/ingredients/02_bile-fazole_sos-burner_v1.png",
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/02_bile-fazole_sos-burner_v1.png",
+      "sha256": "126623cbc24e05e7f73453752cc1e32f4c16939de5dc3fe450fc1add714e3bce"
+    },
+    {
+      "path": "assets/slim-sos-fat-burner/ingredients/03_cervena-repa_sos-burner_v1.png",
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/03_cervena-repa_sos-burner_v1.png",
+      "sha256": "4e5825e7b36acba2b547ea0c98fd26ed7afc9dae533dd17a0ea7d77a7bd4cfe7"
+    },
+    {
+      "path": "assets/slim-sos-fat-burner/ingredients/04_jablecny-ocet_sos-burner_v1.png",
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/04_jablecny-ocet_sos-burner_v1.png",
+      "sha256": "58702c9488fcdb2a2616173057ad00afdd0ff0679c723d8545cdba25b911ce5b"
+    },
+    {
+      "path": "assets/slim-sos-fat-burner/ingredients/05_chrom_sos-burner_v1.png",
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/05_chrom_sos-burner_v1.png",
+      "sha256": "5bd45345c039c7dadcc6017b57d3bd6c93a9cd0ce9069d28484c444a7fc25f95"
+    }
+  ],
+  "chromium_unchanged": [
+    "0,55 mcg",
+    "1,11 mcg"
+  ],
+  "whole_table_and_cta_unchanged": true,
+  "common_and_theme_css_unchanged": true,
+  "copy_status": "working source restoration; claims approval not established",
+  "identified_effect_sentences": 49,
   "model": "gpt-6.1-sol",
-  "paid_image_video_generation": 0,
+  "new_paid_image_video_generation": 0,
   "model_cost": "unknown",
-  "shop_updated": false
+  "shop_saved": false,
+  "language_mutations_changed": false
 }

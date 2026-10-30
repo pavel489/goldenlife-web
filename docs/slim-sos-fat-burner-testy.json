@@ -2,243 +2,263 @@
   "widths": [
     {
       "viewport": 320,
-      "no_clipped_table_text": true,
-      "width": 320,
       "scroll": 305,
+      "width": 320,
       "broken": [],
+      "toggles": 3,
       "banner": [
         219,
         219
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 360,
-      "no_clipped_table_text": true,
-      "width": 360,
       "scroll": 345,
+      "width": 360,
       "broken": [],
+      "toggles": 3,
       "banner": [
         259,
         259
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 390,
-      "no_clipped_table_text": true,
-      "width": 390,
       "scroll": 375,
+      "width": 390,
       "broken": [],
+      "toggles": 3,
       "banner": [
         289,
         289
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 520,
-      "no_clipped_table_text": true,
-      "width": 520,
       "scroll": 505,
+      "width": 520,
       "broken": [],
+      "toggles": 3,
       "banner": [
         419,
         419
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 767,
-      "no_clipped_table_text": true,
-      "width": 767,
       "scroll": 752,
+      "width": 767,
       "broken": [],
+      "toggles": 3,
       "banner": [
         666,
         666
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 768,
-      "no_clipped_table_text": true,
-      "width": 768,
       "scroll": 753,
+      "width": 768,
       "broken": [],
+      "toggles": 0,
       "banner": [
         719,
         719
       ],
-      "primary": "#E40E7E",
-      "toggles": 0,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 1100,
-      "no_clipped_table_text": true,
-      "width": 1100,
       "scroll": 1085,
+      "width": 1100,
       "broken": [],
+      "toggles": 0,
       "banner": [
         1051,
         1051
       ],
-      "primary": "#E40E7E",
-      "toggles": 0,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 1440,
-      "no_clipped_table_text": true,
-      "width": 1440,
       "scroll": 1425,
+      "width": 1440,
       "broken": [],
+      "toggles": 0,
       "banner": [
         1066,
         1066
       ],
-      "primary": "#E40E7E",
-      "toggles": 0,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 390,
-      "no_clipped_table_text": true,
-      "width": 390,
       "scroll": 375,
+      "width": 390,
       "broken": [],
+      "toggles": 3,
       "banner": [
         289,
         289
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     }
   ],
-  "interactions": [
-    {
-      "read_more": "gl-mobile-intro",
-      "mouse_keyboard": true
-    },
-    {
-      "read_more": "gl-mobile-detail-0",
-      "mouse_keyboard": true
-    },
-    {
-      "read_more": "gl-mobile-detail-1",
-      "mouse_keyboard": true
-    },
-    {
-      "banner_open_close": true
-    },
-    {
-      "modal": "#sos-lm-0",
-      "open_close": true
-    },
-    {
-      "modal": "#sos-lm-1",
-      "open_close": true
-    },
-    {
-      "modal": "#sos-lm-2",
-      "open_close": true
-    },
-    {
-      "modal": "#sos-lm-3",
-      "open_close": true
-    },
-    {
-      "modal": "#sos-lm-4",
-      "open_close": true
-    }
-  ],
-  "errors": [],
-  "cms_import_tests": [
+  "cms_widths": [
     {
       "viewport": 320,
-      "no_clipped_table_text": true,
+      "scroll": 309,
       "width": 320,
-      "scroll": 308,
       "broken": [],
+      "toggles": 3,
       "banner": [
         251,
         251
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 390,
-      "no_clipped_table_text": true,
-      "width": 390,
       "scroll": 375,
+      "width": 390,
       "broken": [],
+      "toggles": 3,
       "banner": [
         321,
         321
       ],
-      "primary": "#E40E7E",
-      "toggles": 3,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 768,
-      "no_clipped_table_text": true,
-      "width": 768,
       "scroll": 753,
+      "width": 768,
       "broken": [],
+      "toggles": 0,
       "banner": [
         751,
         751
       ],
-      "primary": "#E40E7E",
-      "toggles": 0,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     },
     {
       "viewport": 1440,
-      "no_clipped_table_text": true,
-      "width": 1440,
       "scroll": 1425,
+      "width": 1440,
       "broken": [],
+      "toggles": 0,
       "banner": [
         1098,
         1098
       ],
-      "primary": "#E40E7E",
-      "toggles": 0,
-      "chromium": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
+      "table": "Chrom\t0,55 mcg (*% RHP)\t1,11 mcg (*% RHP)"
     }
   ],
-  "photo_source": "Real current gallery photograph, cropped white margins only",
-  "temporary_response_overrides": true,
-  "shop_saved": false,
-  "cta_scroll_anchor": true,
-  "exact_table_changes": [
+  "modals": [
     {
-      "row": 5,
-      "column": 1,
-      "old": "0,55 mg (*% RHP)",
-      "new": "0,55 mcg (*% RHP)"
+      "width": 390,
+      "ingredient": "Chitosan",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
     },
     {
-      "row": 5,
-      "column": 2,
-      "old": "1,11 mg (*% RHP)",
-      "new": "1,11 mcg (*% RHP)"
+      "width": 390,
+      "ingredient": "Extrakt z bílých fazolí",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "ingredient": "Červená řepa",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "ingredient": "Jablečný ocet",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 390,
+      "ingredient": "Chrom",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "ingredient": "Chitosan",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "ingredient": "Extrakt z bílých fazolí",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "ingredient": "Červená řepa",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "ingredient": "Jablečný ocet",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
+    },
+    {
+      "width": 1440,
+      "ingredient": "Chrom",
+      "full_original_copy": true,
+      "new_image_loaded": true,
+      "open_close": true
     }
-  ]
+  ],
+  "toggles": [
+    {
+      "id": "gl-mobile-intro",
+      "open_close_keyboard": true,
+      "full_expanded_text_not_clipped": true
+    },
+    {
+      "id": "gl-mobile-detail-0",
+      "open_close_keyboard": true,
+      "full_expanded_text_not_clipped": true
+    },
+    {
+      "id": "gl-mobile-detail-1",
+      "open_close_keyboard": true,
+      "full_expanded_text_not_clipped": true
+    }
+  ],
+  "errors": [],
+  "network_overrides": "CMS fixture and exact CSS only; all images use real public URLs",
+  "claims_status": "restored source copy requires review",
+  "shop_saved": false,
+  "banner_open_close": true,
+  "source_copy_checks": {
+    "distinct_teasers": 5,
+    "benefit_items": 7,
+    "intro_mentions_digestion": true,
+    "no_generic_filler": true
+  },
+  "cta_anchor_unchanged": true,
+  "whole_table_unchanged": true
 }
