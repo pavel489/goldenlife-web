@@ -120,3 +120,12 @@ Piktogramy a jejich význam byly na výslovné zadání převzaté z aktuálníc
 - Firemní soubor brand/NOT-ALLOWED.md není v aktuální knihovně dostupný. Lidský brand/RULES.md zůstal beze změny.
 
 Nevkládat do komunikace tvrzení o léčbě, prevenci onemocnění, garantovaném hubnutí nebo spánku odvozeném pouze z motivu obrázku. Žádná taková tvrzení se v této práci nepřidávají.
+
+
+## Doplněné šesté piktogramy — samostatná kontrola před CMS
+Všechny následující krátké popisky vyjadřují účinek a zůstávají pouze pracovním návrhem převzatým z veřejného produktu; přidání do grafického návrhu není právní schválení.
+- Beauty: **Zpevnění nehtů** — Slim Extreme Collagen ananas, stejnojmenný existující PNG motiv. Ve vlastním podkladu není doložená schválená alternativní formulace pro tento účinek; právní potvrzení otevřené.
+- Slim: **Zvýšený pocit sytosti** — Slim GLP-1 Activator s berberinem. Schválená formulace v dostupném podkladu není doložena; právní potvrzení otevřené.
+- Hormonal: **Metabolická rovnováha** — Peptides GLP-1 Woman Balance Dark Cherry. Schválená formulace v dostupném podkladu není doložena; právní potvrzení otevřené.
+- Longevity: **Podpora zdravého stárnutí** — Anti-Age Longevity NAD+. Schválená formulace v dostupném podkladu není doložena; právní potvrzení otevřené.
+- UFIRST: **Hydratuje** — UFIRST all-in-one drink. Samotný krátký popisek není doložená autorizovaná formulace. Vlastní `brand/product/ufirst-all-in-one-drink-/info.md` zaznamenává: „Hořčík přispívá k elektrolytické rovnováze, k normálnímu energetickému metabolismu, k normální činnosti nervové soustavy a ke snížení míry únavy a vyčerpání.“ To je podklad pro alternativu, nikoli automatické schválení hydratačního tvrzení; je nutné potvrdit množství a podmínky použití živiny.

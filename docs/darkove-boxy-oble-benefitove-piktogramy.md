@@ -1,43 +1,23 @@
-# Dárkové boxy — původní oblé užitkové piktogramy e-shopu
+# Šest oblých piktogramů v barvě dárkového boxu
 
-## Rozsah a výsledek
-Opravené boxy **Beauty, Hormonal, Longevity, Slim a UFIRST**, krátké i dlouhé české popisy v `web/` a jejich CMS protějšky v `shoptet/`: **20 HTML souborů**.
+Oprava výslovného zadání: **šest**, ne pět. Beauty, Hormonal, Longevity a Slim přebírají červenou `--gl-color-primary: #d90817`; UFIRST přebírá vlastní modrou/tyrkysovou `#5bcfde`. Barvy jsou převzaté z dosavadního boxového tématu, nikoli z barev jednotlivých komponent.
 
-- Generické inventární SVG krabice, lahve, míchátka, počtu produktů apod. v benefitových řadách jsou nahrazené skutečnými původními PNG piktogramy používanými na produktových stránkách e-shopu. Oblost je v kresbě originální ikony, nikoli jen v CSS zaoblení kartičky.
-- Každý box má pět vlastních benefitových párování podle produktů, které skutečně obsahuje. Stejných pět ikon a popisků je v krátkém i dlouhém popisu; nejde o nahrazení benefitů počtem kusů nebo vlastností balení.
-- V krátkém rozbalovacím seznamu byly odstraněné i zbývající generické dekorativní SVG před názvy produktů. Samotné názvy a seznam pěti produktů zůstaly zachované.
-- Nadpis nad velkým ikonovým blokem je změněný na „Přínosy produktů v boxu“. Pět dlouhých kartiček zůstává v původním layoutu; poslední zabere zbývající dvě buňky, aby nevznikl prázdný slot po šesté inventární ikoně.
-- Původní PNG barvy a poměry stran jsou zachované. Nové obrázky nedostávají starý zlatý CSS filtr; UFIRST zůstává v původní tyrkysové. Neproběhla žádná generace ani nové kreslení ikon.
+Ve všech 20 dlouhých/krátkých HTML (`web/` a CMS protějšky `shoptet/`) je šest skutečných původních oblých PNG motivů. CSS maska použije původní alfa kanál PNG a vybarví kresbu přesně proměnnou boxu, bez barevné aproximace filtrem a bez změny fotografií. V prohlížeči nepodporujícím masky zůstává původní PNG jako fallback (v jeho původní barvě).
 
-## Kde jsou soubory
-CMS: `shoptet/beauty.html`, `hormonal.html`, `longevity.html`, `slim.html`, `ufirst.html` a všech pět odpovídajících `*-kratky.html`.
+Šestý piktogram: Beauty — Zpevnění nehtů; Hormonal — Metabolická rovnováha; Longevity — Podpora zdravého stárnutí; Slim — Zvýšený pocit sytosti; UFIRST — Hydratuje. Jde o existující párování skutečně obsažených produktů, ne generický symbol krabice/lahve. Souřadná provenience všech šesti je v `config/giftbox-benefit-pictograms.json`.
 
-Plné/krátké dokumenty: odpovídající adresáře `web/Golden Life Darkovy box …/` a `maly/`.
+Dlouhá mřížka používá 3×2 na širokém zobrazení a 2×3 na mobilu. Krátká řada má šest sloupců na širokém zobrazení, na telefonu 3×2 pro čitelnost. Zrušeno roztažení poslední kartičky přes dvě buňky. Názvy, fotografie, produktové detaily, galerie, původní skripty a dřívější uživatelovy UFIRST CSS/JS zůstávají mimo ikonový blok beze změny. Jediná další HTML změna je připnutí nové verze sdíleného CSS.
 
-Párování ikon, popisků a konkrétního zdrojového produktu: `config/giftbox-benefit-pictograms.json`. Sdílená odnož stylů: `assets/golden-life-darkove-boxy.css`, ověřená přes veřejnou CDN HTTP 200 a připnutá v každém dodaném HTML na revizi `94653b2435aaba506bcd3bc3c195a1141f030c39`. Kvůli této odnoži není potřeba ručně nahrávat další stylesheet do Shoptetu.
+## Skutečná kontrola
+- 21 unikátních originálních PNG: HTTP 200, dekódování a ověřený průhledný alfa kanál.
+- 30 skutečných renderů Chromium: pět boxů × dlouhý/krátký × 320, 390 a 1280 px. V každém šest načtených motivů, správná vypočtená barva a žádné horizontální přetékání stránky nebo popisků.
+- Na 390 px samostatná kontrola reálně vykreslených barevných pixelů všech 60 motivů; porovnání zohledňuje alfa antialiasing vůči bílému podkladu. Nešlo pouze o kontrolu deklarace masky.
+- Pět krátkých seznamů produktů otevřeno i zavřeno skutečným kliknutím.
+- Zachování mimo ikonový blok ověřeno přesnou reverzibilitou. Finální vzdálené soubory se čtou zpět po každé Git publikaci.
 
-Dřívější zapojení `/user/documents/upload/css/ufirst-global.css` a `/user/documents/upload/css/ufirst-global.js` v UFIRST boxu zůstalo bajtově zachované. Tyto nahrané soubory se touto úpravou nemění.
+Testy jsou izolované vizuální fixture se skutečnými veřejnými závislostmi; nepředstírají kompletní nativní Shoptet checkout. Původní shop bootstrapy jsou ve fixture vynechané a v dodaných HTML zachované. První kontrola přes browser helper narazila na screenshot timeout; úspěšné renderové/pixelové testy byly dokončené samostatným Chromium přes Playwright. Původní test vyžadující plně sytý pixel neprošel u tenké antialiasované kresby; opravená kontrola měří barvu po alfa kompozici a byla znovu spuštěna nad všemi motivy.
 
-## Co zůstalo zachované
-Původní skripty, všechny neikonové obrázkové atributy, pět produktových detailových tlačítek u každého boxu, produkty a jejich URL, texty mimo explicitně měněné ikonové bloky/nadpis, balicí karta, galerie, CTA a import detailů. Každou změnu lze přesně obrátit na původní zdroj; neproběhla obecná HTML reserializace.
+## Stav a zdroje
+Grafický pracovní návrh na Gitu, **nikoli živé uložení do Shoptetu**. Popisky účinků nejsou tímto vzhledovým zadáním právně schválené; všechny včetně nově doplněných jsou evidované v `docs/darkove-boxy-claims-piktogramy.md`.
 
-Bílá kartička jako layoutový prvek není zaměňovaná za styl samotné ikony. UI symbol balicí karty/fotogalerie není prezentovaný jako benefit a jeho funkční fotografie/fallback se v tomto zadání nepřepisují.
-
-## Skutečné ověření
-- Pět boxů × dlouhý/krátký popis × 320, 390 a 1280 px = **30 skutečných renderů Chromium**. V každé benefitové řadě pět načtených skutečných PNG, nula inventárních SVG, žádné horizontální přetékání dokumentu ani ikonových kartiček. Krátkých pět benefitů zůstává v jednom řádku.
-- **18 různých skutečných původních PNG** bylo staženo, dekódováno, zkontrolováno na kontaktních přehledech a napárováno na zdrojový produkt. Napříč dvaceti dodanými HTML jde o 100 odkazů na benefitové obrázky.
-- Po odstranění dekorativních SVG v krátkých popisech bylo u všech pěti boxů při 390 px skutečným pointerem otevřeno a zavřeno rozbalení pěti produktů; názvy zůstaly viditelné a bez přetékání.
-- Bajtově ověřené původní skripty, neikonové produktové fotografie a data všech původních detailových tlačítek. CSS předchozí odnože zůstává přesným prefixem; nová pravidla jsou omezená na nové `data-gl-benefits="rounded"` bloky.
-- Vizuálně zkontrolované dlouhé i krátké přehledy všech pěti variant a závěrečný náhled z reálných mobilních výřezů.
-
-Vizuální testy používaly izolované HTML fixture se skutečnými vzdálenými styly a PNG. Neměněné shop bootstrapy byly ve fixture vynechané; tyto testy nepředstírají kompletní nativní Shoptet galerii, aktuální cenu ani checkout. Neikonové fotografie s případnými původními nefunkčními URL nebyly nahrazované smyšlenými produkty. První test přímo ve shop kontextu překročil pětisekundové čekání na decode; byl nahrazen úspěšnými běžnými navigacemi fixture a kontrolami skutečně načtených obrázků.
-
-## Popisky účinků — samostatná otevřená kontrola
-**Toto je grafická implementace / pracovní návrh, ne nové právní schválení účinků.** Popisky jsou převzaté z veřejných stránek skutečných komponent. Konkrétní zdravotní tvrzení a chybějící podklady jsou po jednotlivých popiscích v `docs/darkove-boxy-claims-piktogramy.md`, včetně formulací z vlastních produktových souborů tam, kde jsou doložené. Nepřenášelo se např. tvrzení o kvalitním spánku na Care Free pouze podle motivu obrázku.
-
-Git publikace není uložení do administrace Shoptetu. Žádný živý produktový popis nebyl touto prací uložený; pro nasazení jsou připravené aktualizované celé CMS fragmenty.
-
-## Zdroje, model a náklady
-Aktuální autorizovaný Git snapshot; veřejné stránky skutečných komponent každého boxu; jejich původní piktogramy a viditelné popisky; `brand/RULES.md`, pracovní vizuální identita Golden Life, vlastní produktové soubory a manuál UFIRST. Veřejná UFIRST rešerše byla navíc porovnána s přímým načtením vybraných souborů a skutečným renderem.
-
-Model GPT-6.1-sol; Python/HTMLParser/Pillow, Chromium a existující Composio GitHub spojení ověřené jako bot Goldie. Bez placené generace obrázků/videí; přesná cena modelu a konektoru není poskytovaná.
+Zdroje: aktuální vzdálený snapshot autorizovaného repozitáře; jeho boxová témata; původní produktové PNG a doložená veřejná párování; `brand/RULES.md` a vlastní produktový soubor UFIRST. Model GPT-6.1-sol, Python/Pillow a Chromium/Playwright, existující Composio GitHub spojení jako Goldie. Bez placené generace obrázků/videí; cenu modelu a konektoru runtime neposkytuje.
