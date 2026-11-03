@@ -1,0 +1,21 @@
+/* Appearance only. No SupportBox configuration, contacts, messages or tracking changes. */
+(()=>{'use strict';if(!/^\/ufirst-darkovy-box\/?$/.test(location.pathname))return;
+const html=document.documentElement;if(html.dataset.glUfirstPageElements==='giftbox')return;
+html.dataset.glUfirstPageElements='giftbox';
+const frameCss=`#supportBoxWebChat .sb-color__primary-bg{background-color:#5bcfde!important}
+#supportBoxWebChat input.sb-color__primary-bg:disabled{background-color:silver!important}
+#supportBoxWebChat .sb-color__title,#supportBoxWebChat #supportBoxWebChatInit{color:#000!important}
+#supportBoxWebChat .init-button__button-text,#supportBoxWebChat .init-button__close-button{color:#000!important}
+#supportBoxWebChat .init-button__open-icon{filter:brightness(0)}
+#supportBoxWebChat .sb-color__primary-border-left__before::before{border-left-color:#5bcfde!important}
+#supportBoxWebChat .supportBoxWebChat-window--user-info-question::after{border-color:#5bcfde transparent transparent transparent!important}
+#supportBoxWebChat .dot-flashing{background-color:#5bcfde!important}`;
+const frames=new WeakSet(),documents=new WeakSet();let queued=false;
+function paint(frame){let doc;try{doc=frame.contentDocument}catch(error){return}if(!doc||!doc.documentElement)return;
+const apply=()=>{if(doc.getElementById('gl-ufirst-supportbox-colors'))return;const style=doc.createElement('style');style.id='gl-ufirst-supportbox-colors';style.textContent=frameCss;(doc.head||doc.documentElement).append(style)};
+apply();if(!documents.has(doc)){documents.add(doc);new MutationObserver(apply).observe(doc.documentElement,{childList:true,subtree:true})}}
+function scan(){queued=false;const frame=document.getElementById('supportBox-iframe');if(!frame||frame.tagName!=='IFRAME')return;
+if(!frames.has(frame)){frames.add(frame);frame.addEventListener('load',()=>paint(frame))}paint(frame)}
+function schedule(){if(!queued){queued=true;queueMicrotask(scan)}}
+new MutationObserver(schedule).observe(html,{childList:true,subtree:true});scan();
+})();

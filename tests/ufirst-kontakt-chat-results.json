@@ -1,0 +1,167 @@
+{
+  "responsive": [
+    {
+      "contacts": [
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        }
+      ],
+      "chat": "rgb(91, 207, 222)",
+      "text": "rgb(0, 0, 0)",
+      "styleCount": 1,
+      "width": 390
+    },
+    {
+      "contacts": [
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        },
+        {
+          "heading": "rgb(0, 0, 0)",
+          "phone": "rgb(31, 156, 173)",
+          "email": "rgb(31, 156, 173)",
+          "hrefs": [
+            "tel:+420605264357",
+            "mailto:info@golden-life.cz"
+          ]
+        }
+      ],
+      "chat": "rgb(91, 207, 222)",
+      "text": "rgb(0, 0, 0)",
+      "styleCount": 1,
+      "width": 1280
+    }
+  ],
+  "late_frame": {
+    "frameExistedAtInit": false,
+    "marker": "giftbox",
+    "frameExists": true,
+    "styleCount": 1,
+    "background": "rgb(91, 207, 222)",
+    "heading": "rgb(0, 0, 0)",
+    "duplicateAndLoadStyleCount": 1
+  },
+  "non_target": {
+    "before": "rgb(238, 0, 131)",
+    "after": {
+      "marker": null,
+      "heading": "rgb(238, 0, 131)",
+      "frameStyle": 0
+    }
+  },
+  "interaction": {
+    "opened": {
+      "visible": true,
+      "headerBg": "rgb(91, 207, 222)",
+      "headerColor": "rgb(0, 0, 0)"
+    },
+    "closed": {
+      "init": true,
+      "opened": false,
+      "bg": "rgb(91, 207, 222)"
+    }
+  },
+  "preserved_or_restored_files": [
+    "shoptet/ufirst.html",
+    "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+    "assets/golden-life-darkove-boxy.css",
+    "shoptet/ufirst-kratky.html",
+    "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html"
+  ],
+  "product_copy_and_original_scripts_unchanged": true,
+  "no_chat_message_sent": true,
+  "not_live_cms_deployment": true
+}
