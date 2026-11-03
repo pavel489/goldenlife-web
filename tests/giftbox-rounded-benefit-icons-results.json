@@ -1,0 +1,1717 @@
+{
+  "html_files": 20,
+  "boxes": [
+    "beauty",
+    "hormonal",
+    "longevity",
+    "slim",
+    "ufirst"
+  ],
+  "benefit_img_references": 100,
+  "unique_original_assets": 18,
+  "render_cases": 30,
+  "preservation": [
+    {
+      "path": "shoptet/beauty-kratky.html",
+      "box": "beauty",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "box": "beauty",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/hormonal-kratky.html",
+      "box": "hormonal",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "box": "hormonal",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/longevity-kratky.html",
+      "box": "longevity",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "box": "longevity",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/slim-kratky.html",
+      "box": "slim",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "box": "slim",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/ufirst-kratky.html",
+      "box": "ufirst",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "box": "ufirst",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "box": "beauty",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "box": "beauty",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "box": "hormonal",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "box": "hormonal",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "box": "longevity",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "box": "longevity",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "box": "slim",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "box": "slim",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "box": "ufirst",
+      "short": false,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 0,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "benefit heading",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "box": "ufirst",
+      "short": true,
+      "benefits": 5,
+      "old_icon_block_removed": true,
+      "removed_decorative_inventory_icons": 5,
+      "original_rest_reversible": true,
+      "changes": [
+        "benefit pictograms",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "decorative inventory icon",
+        "shared CSS version"
+      ],
+      "original_scripts_identical": true,
+      "nonbenefit_images_identical": true,
+      "product_detail_buttons_identical": true
+    }
+  ],
+  "renders": [
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Redukce vrásek",
+        "Redukce celulitidy",
+        "Více energie",
+        "Zlepšuje kvalitu spánku",
+        "Podpora hubnutí"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "beauty",
+      "kind": "long",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Redukce vrásek",
+        "Redukce celulitidy",
+        "Více energie",
+        "Zlepšuje kvalitu spánku",
+        "Podpora hubnutí"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        52,
+        52,
+        52,
+        52,
+        52
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "beauty",
+      "kind": "long",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "hormonal",
+      "kind": "long",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        52,
+        52,
+        52,
+        52,
+        52
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "hormonal",
+      "kind": "long",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora vitality",
+        "Pro zdravou pokožku a vlasy",
+        "Podpora normální funkce imunity",
+        "Podpora tvorby kolagenu",
+        "Zlepšuje kvalitu spánku"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "longevity",
+      "kind": "long",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora vitality",
+        "Pro zdravou pokožku a vlasy",
+        "Podpora normální funkce imunity",
+        "Podpora tvorby kolagenu",
+        "Zlepšuje kvalitu spánku"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        52,
+        52,
+        52,
+        52,
+        52
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "longevity",
+      "kind": "long",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora hubnutí",
+        "Podporuje spalování tuků",
+        "Redukce celulitidy",
+        "Redukce vrásek",
+        "Více energie"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "slim",
+      "kind": "long",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora hubnutí",
+        "Podporuje spalování tuků",
+        "Redukce celulitidy",
+        "Redukce vrásek",
+        "Více energie"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        52,
+        52,
+        52,
+        52,
+        52
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "slim",
+      "kind": "long",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora energie",
+        "Podpora imunity",
+        "Soustředění",
+        "Paměť",
+        "Psychická pohoda"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        64,
+        64,
+        64,
+        64,
+        64
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "ufirst",
+      "kind": "long",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora energie",
+        "Podpora imunity",
+        "Soustředění",
+        "Paměť",
+        "Psychická pohoda"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "iconWidths": [
+        52,
+        52,
+        52,
+        52,
+        52
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "lastColumn": "span 2",
+      "box": "ufirst",
+      "kind": "long",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Redukce vrásek",
+        "Redukce celulitidy",
+        "Více energie",
+        "Zlepšuje kvalitu spánku",
+        "Podpora hubnutí"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "box": "beauty",
+      "kind": "long",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "box": "hormonal",
+      "kind": "long",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora vitality",
+        "Pro zdravou pokožku a vlasy",
+        "Podpora normální funkce imunity",
+        "Podpora tvorby kolagenu",
+        "Zlepšuje kvalitu spánku"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "box": "longevity",
+      "kind": "long",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora hubnutí",
+        "Podporuje spalování tuků",
+        "Redukce celulitidy",
+        "Redukce vrásek",
+        "Více energie"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "box": "slim",
+      "kind": "long",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora energie",
+        "Podpora imunity",
+        "Soustředění",
+        "Paměť",
+        "Psychická pohoda"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "box": "ufirst",
+      "kind": "long",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Redukce vrásek",
+        "Redukce celulitidy",
+        "Více energie",
+        "Zlepšuje kvalitu spánku",
+        "Podpora hubnutí"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        219.25,
+        219.25,
+        219.25,
+        219.25,
+        219.25
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "beauty",
+      "kind": "short",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Redukce vrásek",
+        "Redukce celulitidy",
+        "Více energie",
+        "Zlepšuje kvalitu spánku",
+        "Podpora hubnutí"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        194.5,
+        194.5,
+        194.5,
+        194.5,
+        194.5
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "beauty",
+      "kind": "short",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Redukce vrásek",
+        "Redukce celulitidy",
+        "Více energie",
+        "Zlepšuje kvalitu spánku",
+        "Podpora hubnutí"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        174.75,
+        174.75,
+        174.75,
+        174.75,
+        174.75
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "beauty",
+      "kind": "short",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        219.25,
+        219.25,
+        219.25,
+        219.25,
+        219.25
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "hormonal",
+      "kind": "short",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        194.5,
+        194.5,
+        194.5,
+        194.5,
+        194.5
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "hormonal",
+      "kind": "short",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        174.75,
+        174.75,
+        174.75,
+        174.75,
+        174.75
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "hormonal",
+      "kind": "short",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora vitality",
+        "Pro zdravou pokožku a vlasy",
+        "Podpora normální funkce imunity",
+        "Podpora tvorby kolagenu",
+        "Zlepšuje kvalitu spánku"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        268.75,
+        268.75,
+        268.75,
+        268.75,
+        268.75
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "longevity",
+      "kind": "short",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora vitality",
+        "Pro zdravou pokožku a vlasy",
+        "Podpora normální funkce imunity",
+        "Podpora tvorby kolagenu",
+        "Zlepšuje kvalitu spánku"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        219.25,
+        219.25,
+        219.25,
+        219.25,
+        219.25
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "longevity",
+      "kind": "short",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora vitality",
+        "Pro zdravou pokožku a vlasy",
+        "Podpora normální funkce imunity",
+        "Podpora tvorby kolagenu",
+        "Zlepšuje kvalitu spánku"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        199.5,
+        199.5,
+        199.5,
+        199.5,
+        199.5
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "longevity",
+      "kind": "short",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora hubnutí",
+        "Podporuje spalování tuků",
+        "Redukce celulitidy",
+        "Redukce vrásek",
+        "Více energie"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        244,
+        244,
+        244,
+        244,
+        244
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "slim",
+      "kind": "short",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora hubnutí",
+        "Podporuje spalování tuků",
+        "Redukce celulitidy",
+        "Redukce vrásek",
+        "Více energie"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        194.5,
+        194.5,
+        194.5,
+        194.5,
+        194.5
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "slim",
+      "kind": "short",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora hubnutí",
+        "Podporuje spalování tuků",
+        "Redukce celulitidy",
+        "Redukce vrásek",
+        "Více energie"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        174.75,
+        174.75,
+        174.75,
+        174.75,
+        174.75
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "slim",
+      "kind": "short",
+      "viewport": 1280
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora energie",
+        "Podpora imunity",
+        "Soustředění",
+        "Paměť",
+        "Psychická pohoda"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        219.25,
+        219.25,
+        219.25,
+        219.25,
+        219.25
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "ufirst",
+      "kind": "short",
+      "viewport": 320
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora energie",
+        "Podpora imunity",
+        "Soustředění",
+        "Paměť",
+        "Psychická pohoda"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        194.5,
+        194.5,
+        194.5,
+        194.5,
+        194.5
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "ufirst",
+      "kind": "short",
+      "viewport": 390
+    },
+    {
+      "count": 5,
+      "svg": 0,
+      "labels": [
+        "Podpora energie",
+        "Podpora imunity",
+        "Soustředění",
+        "Paměť",
+        "Psychická pohoda"
+      ],
+      "loaded": true,
+      "filters": [
+        "none",
+        "none",
+        "none",
+        "none",
+        "none"
+      ],
+      "itemTops": [
+        174.75,
+        174.75,
+        174.75,
+        174.75,
+        174.75
+      ],
+      "overflow": false,
+      "cardOverflow": false,
+      "display": "grid",
+      "products": 5,
+      "box": "ufirst",
+      "kind": "short",
+      "viewport": 1280
+    }
+  ],
+  "native_short_detail_toggles": [
+    {
+      "open": true,
+      "products": 5,
+      "overflow": false,
+      "box": "beauty",
+      "closed_again": true
+    },
+    {
+      "open": true,
+      "products": 5,
+      "overflow": false,
+      "box": "hormonal",
+      "closed_again": true
+    },
+    {
+      "open": true,
+      "products": 5,
+      "overflow": false,
+      "box": "longevity",
+      "closed_again": true
+    },
+    {
+      "open": true,
+      "products": 5,
+      "overflow": false,
+      "box": "slim",
+      "closed_again": true
+    },
+    {
+      "open": true,
+      "products": 5,
+      "overflow": false,
+      "box": "ufirst",
+      "closed_again": true
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/energie-ruzova.png",
+      "status": 200,
+      "sha256": "c28699ec291385f571f4651c64e3fd6e579cebf1c4be8f8be1cdf009ca4bc9ec",
+      "size": [
+        140,
+        140
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        16,
+        29,
+        125,
+        112
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+      "status": 200,
+      "sha256": "fa4a8413210bd63cfe4694caa51e7ddd5d225e69b5f97b8d7ff4497582b29e0d",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        41,
+        64,
+        239,
+        214
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek.png",
+      "status": 200,
+      "sha256": "b327f438ec957b519412b57e41e28dc4ed0643fdf8b4d501575e8f1a27a29ef2",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        30,
+        39,
+        232,
+        248
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+      "status": 200,
+      "sha256": "3c8191084c78f3def80200d60da14dedf30f5505f9be11b527a0ae54fac4f95b",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        45,
+        20,
+        246,
+        249
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+      "status": 200,
+      "sha256": "d69a6df99a8971dc574fc223c3098d4e03f31de6c1e5cce3f927a1699bd8d62a",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        22,
+        38,
+        257,
+        228
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+      "status": 200,
+      "sha256": "26f1fbe9d493edd79a292aed204e003754a583148253c74c86ea2fc9e14a5291",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        45,
+        36,
+        242,
+        241
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-fialova.png",
+      "status": 200,
+      "sha256": "2fb1ad76976f4666daaf7e71d07ae46d0f17cb4907b0ccdea4020b1834474f2b",
+      "size": [
+        279,
+        278
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        41,
+        32,
+        238,
+        246
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+      "status": 200,
+      "sha256": "a96bdcaeb0a9166cf4eebe96435566dc30bf4c7df246eeb47f973434a01a7f31",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        41,
+        33,
+        238,
+        246
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovanii-fialova.png",
+      "status": 200,
+      "sha256": "df4fab94d2ba2e3ad1ccac45beb215028ff0f9021476f6593e953ee77b662870",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        60,
+        34,
+        219,
+        247
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/sytost-fialova.png",
+      "status": 200,
+      "sha256": "7f5cfe4181f87b2bbbf2c6dd0cdda2ab4c0b1aaa06e866ff3d2d033d478f2af2",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        24,
+        29,
+        246,
+        254
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlasy-zelena.png",
+      "status": 200,
+      "sha256": "d56a6e59ec593cefe0ba8b01a4daf6f14a0b60887108f7d35ebfc4346189bd04",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        28,
+        42,
+        255,
+        237
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/zpevneni-pleti-zelena.png",
+      "status": 200,
+      "sha256": "7d2b8d67c3c9bffb6bdf91b3f4c6c8c31de78d001494bfd88cf688dc635bf983",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        54,
+        16,
+        243,
+        263
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+      "status": 200,
+      "sha256": "509f2569acc71efa917b7dd719498a762894e577c1168d3eea3b9ade60bb1de8",
+      "size": [
+        145,
+        145
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        0,
+        0,
+        145,
+        145
+      ],
+      "opaque_white_pixels": 0
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/brain.png",
+      "status": 200,
+      "sha256": "f2ca0a80eeea2b9853e5d3f233e8e446752ec7d25937d29c146c7c4c670aec4f",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/focus.png",
+      "status": 200,
+      "sha256": "1b5df9a19a2efbebcdf231a3de63493866671ea703985a8826b9236eacbdece0",
+      "size": [
+        279,
+        279
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-blesk_20.png",
+      "status": 200,
+      "sha256": "057bb92c09c4fc6dbcc1be4c36c4f5718ca151ba290ef6f8da32b4251584af7d",
+      "size": [
+        100,
+        100
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-srdce_20.png",
+      "status": 200,
+      "sha256": "88306bd147ab44c067613b5a2ef2a8bbcc8872ab8625bfffbf66274f589be01c",
+      "size": [
+        100,
+        100
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-stit_20.png",
+      "status": 200,
+      "sha256": "31de9265c1803597dfed8818447b26dbd08a0c473fd1ffcf25954078c5ee2cae",
+      "size": [
+        100,
+        100
+      ],
+      "alpha_extrema": [
+        0,
+        255
+      ]
+    }
+  ],
+  "cdn": {
+    "url": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@94653b2435aaba506bcd3bc3c195a1141f030c39/assets/golden-life-darkove-boxy.css",
+    "status": 200,
+    "bytes": 19598,
+    "sha256": "b4623b9a2ac8e49731f8cacb82f1f4da23bd9e832842e1887414e24b3169d8f2"
+  },
+  "limits": [
+    "Visual-only fixtures used real remote styles and PNGs but omitted unchanged shop bootstrap scripts.",
+    "No saved Shoptet CMS changes.",
+    "Effect captions copied from public component pages require separate claims review; see the exact ledger."
+  ]
+}
