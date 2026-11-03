@@ -1,0 +1,246 @@
+{
+  "source_commit": "d9b8959c0d1ef2a9c6e6f6494b46cf70ac2fc7b7",
+  "html_changes": [
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "variant": "Longevity",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 267,
+      "why_characters": 445
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "variant": "Longevity",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 267,
+      "why_characters": 445
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "variant": "Slim",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 304,
+      "why_characters": 367
+    },
+    {
+      "path": "shoptet/slim.html",
+      "variant": "Slim",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 304,
+      "why_characters": 367
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "variant": "UFIRST",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 325,
+      "why_characters": 375
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "variant": "UFIRST",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 325,
+      "why_characters": 375
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "variant": "Beauty",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 284,
+      "why_characters": 344
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "variant": "Beauty",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 284,
+      "why_characters": 344
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "variant": "Hormonal",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 280,
+      "why_characters": 375
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "variant": "Hormonal",
+      "only_two_paragraphs_changed": true,
+      "who_characters": 280,
+      "why_characters": 375
+    }
+  ],
+  "responsive_section_cases": [
+    {
+      "variant": "Longevity",
+      "width": 320,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Longevity",
+      "width": 360,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Longevity",
+      "width": 768,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Longevity",
+      "width": 1280,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Slim",
+      "width": 320,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Slim",
+      "width": 360,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Slim",
+      "width": 768,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Slim",
+      "width": 1280,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "UFIRST",
+      "width": 320,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "UFIRST",
+      "width": 360,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "UFIRST",
+      "width": 768,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "UFIRST",
+      "width": 1280,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Beauty",
+      "width": 320,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Beauty",
+      "width": 360,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Beauty",
+      "width": 768,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Beauty",
+      "width": 1280,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Hormonal",
+      "width": 320,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Hormonal",
+      "width": 360,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Hormonal",
+      "width": 768,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    },
+    {
+      "variant": "Hormonal",
+      "width": 1280,
+      "exact_text": true,
+      "no_clipping": true,
+      "no_overflow": true,
+      "page_errors": []
+    }
+  ],
+  "short_descriptions_changed": false,
+  "styles_changed": false,
+  "scripts_changed": false,
+  "shop_saved": false,
+  "claims_pending_product_specific_approval": [
+    "Beauty: vitamin C / normal collagen formation and skin function",
+    "Hormonal: vitamin D / normal bones"
+  ],
+  "conversion_lift_measured": false
+}
