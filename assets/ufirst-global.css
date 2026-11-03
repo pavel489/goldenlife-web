@@ -1,0 +1,23 @@
+/* Shared UFIRST page chrome. One palette for the native page AND SupportBox iframe.
+   Keep this installed globally; the script marks only confirmed UFIRST pages. */
+html[data-gl-site-brand="ufirst"]{
+  --ufirst-turquoise:#5bcfde;
+  --ufirst-dark-turquoise:#1f9cad;
+  --ufirst-yellow:#edff00;
+  --ufirst-text:#000;
+  --ufirst-disabled:silver;
+}
+html[data-gl-site-brand="ufirst"] .top-navigation-contacts strong{color:var(--ufirst-text)!important}
+html[data-gl-site-brand="ufirst"] .top-navigation-contacts .project-phone::before,
+html[data-gl-site-brand="ufirst"] .top-navigation-contacts .project-email::before{background-color:var(--ufirst-dark-turquoise)!important}
+/* These selectors run inside the same-origin widget document, not across its boundary. */
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .sb-color__primary-bg{background-color:var(--ufirst-turquoise)!important}
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat input.sb-color__primary-bg:disabled{background-color:var(--ufirst-disabled)!important}
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .sb-color__title,
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat #supportBoxWebChatInit,
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .init-button__button-text,
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .init-button__close-button{color:var(--ufirst-text)!important}
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .init-button__open-icon{filter:brightness(0)}
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .sb-color__primary-border-left__before::before{border-left-color:var(--ufirst-turquoise)!important}
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .supportBoxWebChat-window--user-info-question::after{border-color:var(--ufirst-turquoise) transparent transparent transparent!important}
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .dot-flashing{background-color:var(--ufirst-turquoise)!important}
