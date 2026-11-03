@@ -1,0 +1,14 @@
+[
+  {
+    "name": "ufirst-global.css",
+    "status": 200,
+    "matches": true,
+    "sha256": "1fca5a6bad92346cde54c6a4a33bd93d3b90113fe1a6e51e5c728c5f273475ce"
+  },
+  {
+    "name": "ufirst-global.js",
+    "status": 200,
+    "matches": true,
+    "sha256": "5707393dd600c446353ecc8d9ed60e7f4be82dff932c50754fd2c867cecb2cb7"
+  }
+]

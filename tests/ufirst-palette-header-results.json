@@ -1,0 +1,12 @@
+{
+  "url": "https://www.golden-life.cz/admin/html-kody/",
+  "header_exact_match": true,
+  "other_fields_unchanged": {
+    "footer": true,
+    "orderFinale": true,
+    "robotsFile": true,
+    "llmsFile": true
+  },
+  "single_css": true,
+  "single_js": true
+}

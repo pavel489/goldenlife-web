@@ -1,0 +1,84 @@
+{
+  "test_mode": "anonymous live public pages; no asset overrides or initializer injection",
+  "results": [
+    {
+      "path": "/ufirst-darkovy-box/",
+      "marker": "ufirst",
+      "version": "ufirst-2",
+      "frameCSS": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css?v=ufirst-2",
+      "chat": "rgb(91, 207, 222)",
+      "parentLinks": 1,
+      "frameLinks": 1
+    },
+    {
+      "path": "/ufirst-darkovy-box/",
+      "width": 1280,
+      "opened": {
+        "id": "supportBoxWebChatOffline",
+        "background": "rgb(91, 207, 222)",
+        "visible": true
+      },
+      "minimized": true,
+      "screenshot": "/root/workspace/deliverables/ufirst-palette-42be/live-1280.png"
+    },
+    {
+      "path": "/ufirst-darkovy-box/",
+      "width": 390,
+      "opened": {
+        "id": "supportBoxWebChatOffline",
+        "background": "rgb(91, 207, 222)",
+        "visible": true
+      },
+      "minimized": true,
+      "screenshot": "/root/workspace/deliverables/ufirst-palette-42be/live-390.png"
+    },
+    {
+      "idempotent": {
+        "parent": 1,
+        "frame": 1
+      }
+    },
+    {
+      "provider_teaser_contract_fixture_only": {
+        "newsletter": "rgb(91, 207, 222)",
+        "newsletterText": "rgb(0, 0, 0)",
+        "privacy": "rgb(228, 14, 126)"
+      }
+    },
+    {
+      "path": "/ufirst-all-in-one-drink-/",
+      "marker": "ufirst",
+      "version": "ufirst-2",
+      "frameCSS": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css?v=ufirst-2",
+      "chat": "rgb(91, 207, 222)",
+      "parentLinks": 1,
+      "frameLinks": 1
+    },
+    {
+      "path": "/ufirst-trio/",
+      "marker": "ufirst",
+      "version": "ufirst-2",
+      "frameCSS": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css?v=ufirst-2",
+      "chat": "rgb(91, 207, 222)",
+      "parentLinks": 1,
+      "frameLinks": 1
+    },
+    {
+      "path": "/",
+      "marker": null,
+      "version": null,
+      "frameCSS": null,
+      "chat": "rgb(228, 14, 126)",
+      "parentLinks": 1,
+      "frameLinks": 0
+    }
+  ],
+  "page_errors": [],
+  "limitations": [
+    "The historical 10-percent teaser did not display in this fresh visit. Its public provider selector was verified and tested as an explicitly identified DOM contract fixture. No Leadhub campaign/form/consent settings were modified."
+  ],
+  "screenshots": [
+    "/root/workspace/deliverables/ufirst-palette-42be/live-1280.png",
+    "/root/workspace/deliverables/ufirst-palette-42be/live-390.png"
+  ]
+}

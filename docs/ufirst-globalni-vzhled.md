@@ -1,32 +1,27 @@
-# UFIRST — zapojení vlastních nahraných CSS/JS do dárkového boxu
+# UFIRST: společný modrý/tyrkysový vzhled kontaktu a plovoucích prvků
 
-## Aktuální zdroje
-Box používá přesně cesty dodané zadavatelem:
-- `/user/documents/upload/css/ufirst-global.css`
-- `/user/documents/upload/css/ufirst-global.js`
+## Skutečná příčina a oprava
+Na veřejném dárkovém boxu se obě nahrané závislosti už načítaly. Nešlo o chybějící upload. Shoptet ale přepsal URL JavaScriptu na `cdn.myshoptet.com/usr/www.golden-life.cz/...`. Původní inicializátor vyhodnotil kořenovou cestu CSS vůči původu skriptu a vložil do SupportBox iframe neplatnou URL `https://cdn.myshoptet.com/user/documents/upload/css/ufirst-global.css`. Hlavní dokument tak byl označený UFIRST, ale chat zůstal růžový.
 
-Obě skutečné veřejné URL byly načtené s HTTP 200; CSS má `text/css` a JS `application/javascript`. Nahrané soubory nejsou přepisované ani nahrazované vlastní kopií. Barevná paleta zůstává v jediném sdíleném CSS.
+`assets/ufirst-global.js` nyní vyhodnocuje dodanou cestu vůči veřejné stránce obchodu, aktualizuje i již existující chybný CSS link a stále obsluhuje pozdější vložení/načtení skutečného same-origin iframe. Revize `ufirst-2` umožňuje opravit starší inicializaci bez násobení linků. CSS odkaz nese verzi kvůli roční veřejné cache.
 
-## Implementace v boxu
-Do konce dlouhého CMS popisu `shoptet/ufirst.html` a odpovídajícího plného HTML `web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html` je přidaný pouze malý bootstrap označený `data-gl-ufirst-own-assets`.
+`assets/ufirst-global.css` zachovává původní paletu #5BCFDE / #1F9CAD / černá. Doplňuje vzhled newsletterového teaseru Leadhub podle selektoru ověřeného v jeho skutečném veřejném skriptu. Ovládací prvky označené `PRIVACY_TEASER` zůstávají výslovně mimo tento selektor. Opravené je i přečnívání textu u mobilního ikonového tlačítka SupportBoxu; desktopový text zůstává viditelný.
 
-Bootstrap vloží nahrané CSS a JS do dokumentu, pokud ještě nejsou načtené globálně. Skriptu předá `data-ufirst-css` s přesnou dodanou cestou; stejný CSS soubor se tím načte i do skutečného iframe SupportBoxu. Nevkládá druhou paletu ani další CSS do každého produktu. Na boxu už proto není podmínkou samostatné zapojení globálního záhlaví.
+## Skutečně provedeno v Shoptetu
+- Opravené CSS a JS jsou nahrané na stejné dodané veřejné cesty `/user/documents/upload/css/ufirst-global.css` a `/user/documents/upload/css/ufirst-global.js`.
+- Správce souborů nepřepisuje existující jména: první upload vytvořil `_1` kopie. Jejich bajty byly ověřené. Původní dva soubory byly přes nativní přejmenování zachované jako `ufirst-global-backup-42be.css` a `.js`, nové kopie následně dostaly původní jména. Konečné veřejné CSS i JS byly nezávisle stažené a porovnané bajt po bajtu s testovaným výstupem.
+- V `Vzhled a obsah → Editor → HTML kód`, skutečná cesta `/admin/html-kody/`, je jednou přidaný verzovaný společný include ze `shoptet/ufirst-globalni-vzhled.html` do pole **Záhlaví**. Inicializátor uplatňuje paletu jen na ověřených UFIRST cestách či výslovně označené UFIRST stránce.
+- Před zápisem byla uchovaná lokální záloha. Po nové navigaci bylo ověřeno celé přesné uložené záhlaví a bajtová shoda nezměněných polí footer, orderFinale, robotsFile a llmsFile. Žádné měření, formulář, text kampaně, odesílání ani nastavení objednávek se neupravovalo.
+- Živé produktové popisy se nepřepisovaly. Připravený CMS a plný HTML soubor boxu na Gitu mají pouze aktualizované společné URL s verzí; odstranění těchto přesných záměn vrací ostatní bajty beze změny.
 
-Krátký popis, texty, fotografie, původní stylové importy a původní skripty zůstaly beze změny. Odstranění přesně přidaného bloku vrací obě původní HTML bajtově shodně.
+## Ověření
+`tests/ufirst-palette-live-results.json` popisuje nezávislý anonymní Chromium běh bez síťových podvrhů či ručního vložení inicializátoru pro ověření stránek:
+- Dárkový box, all-in-one drink a Trio: skutečný chat má `rgb(91, 207, 222)`; iframe načítá správnou veřejnou CSS URL; jeden link v hlavním dokumentu a jeden ve frame.
+- Box 1280 px / 390 px: skutečné kliknutí, otevření offline panelu a minimalizace bez napsání či odeslání zprávy.
+- Domovská stránka jako negativní kontrola: žádné UFIRST označení ani CSS ve frame, původní růžový chat zůstává.
+- Samostatný opakovací test inicializátoru: žádné zdvojení CSS.
+- Newsletterový teaser: ověřený provider selektor a označený DOM kontraktní test barvy; privacy varianta beze změny. **Historický teaser „Sleva 10 %“ se v této návštěvě nespustil; jeho živé zobrazení proto není potvrzené.** Tento test není vydáván za živou kampaň ani její snímek.
+- Dočasné skrytí cookie/newsletter překryvů pro čistý snímek platilo pouze v testovací kartě. Nastavení návštěvnického souhlasu se na serveru neměnilo.
 
-## Volitelné použití pro ostatní UFIRST stránky
-`shoptet/ufirst-globalni-vzhled.html` je zároveň přepojený na stejné vlastní nahrané URL. Lze ho jednou přidat do globálního záhlaví (Vzhled a obsah → Editor → HTML kód → Záhlaví), pokud má společná vrstva běžet i na ostatních rozpoznaných UFIRST stránkách. Produktový bootstrap podle ID nevytvoří další CSS/JS include, pokud už tento globální blok existuje.
-
-Při přechodu ze starých CDN odkazů nahradit starý globální blok novým; neponechávat souběžně odlišné zdroje se stejnými ID.
-
-## Skutečné ověření
-- Stažené oba nahrané soubory, skutečné MIME typy, SHA-256 v test reportu a kontrola syntaxe skutečného JS pomocí `node --check`.
-- Z finálního doručovaného CMS HTML byl vytažen přesný přidaný bootstrap a spuštěn na veřejné stránce dárkového boxu. Prokazatelně načetl dodané cesty, nikoli předchozí CDN soubory.
-- Nadpis kontaktu černý, telefon a obálka tmavě tyrkysové, tlačítko chatu tyrkysové s černým textem. Iframe načetl `https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css`.
-- Opakované spuštění: jeden hlavní CSS link, jeden společný JS a jeden CSS link uvnitř iframe.
-- Mobil 390 px a desktop 1280 px: skutečné otevření a minimalizace chatu, tyrkysová hlavička a černý text. Bez psaní nebo odeslání zprávy.
-
-Test provedl pouze dočasné vložení bootstrapu do testovací karty. Newsletter/cookie překryvy byly při pointer testu skryté jen v této kartě. Git publikace ani tento test nejsou uložením produktového pole v živém Shoptetu. Pro ruční nasazení je třeba použít aktualizovaný celý dlouhý popis z Gitu; samotné nahrání CSS/JS na server nevloží odkaz do produktu.
-
-## Zdroje a náklady
-Aktuální vzdálený Git snapshot, dvě přesné URL od zadavatele, veřejná stránka boxu a skutečný SupportBox, `brand/RULES.md`, manuál UFIRST a stávající schválený rozsah vzhledu. Model GPT-6.1-sol, Python, Chromium a Composio GitHub. Bez placené generace médií; přesná cena modelu a konektoru není k dispozici. Produktové texty a zdravotní tvrzení se tímto technickým zapojením nemění ani nově neschvalují.
+## Soubory a zdroje
+Aktuální Git snapshot, přesné dva veřejné uploady zadavatele, skutečný veřejný box/drink/Trio a SupportBox, veřejný `agent-plugin-popup.js`, `brand/RULES.md`, existující UFIRST barevná paleta. Model GPT-6.1-sol, Chromium/Playwright, Python a Composio GitHub; vlastní účet Goldie pro nativní správce souborů a HTML editor. Bez placené generace médií; cena modelu a konektorů není z použitých nástrojů dostupná. Produktové texty ani zdravotní tvrzení se neměnila.

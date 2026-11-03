@@ -21,3 +21,10 @@ html[data-gl-site-brand="ufirst"] #supportBoxWebChat .init-button__open-icon{fil
 html[data-gl-site-brand="ufirst"] #supportBoxWebChat .sb-color__primary-border-left__before::before{border-left-color:var(--ufirst-turquoise)!important}
 html[data-gl-site-brand="ufirst"] #supportBoxWebChat .supportBoxWebChat-window--user-info-question::after{border-color:var(--ufirst-turquoise) transparent transparent transparent!important}
 html[data-gl-site-brand="ufirst"] #supportBoxWebChat .dot-flashing{background-color:var(--ufirst-turquoise)!important}
+
+html[data-gl-site-brand="ufirst"] #supportBoxWebChat .init-button:not(.init-button--with-text) .init-button__button-text{display:none!important}
+/* Leadhub newsletter teaser: appearance only, never consent/privacy controls.
+   Selector verified in the publicly served agent-plugin-popup.js. */
+html[data-gl-site-brand="ufirst"] ._2cZS8Kk3BCRlfb5pJQp4oY:not(.PRIVACY_TEASER){background:var(--ufirst-turquoise)!important;color:var(--ufirst-text)!important}
+html[data-gl-site-brand="ufirst"] ._2cZS8Kk3BCRlfb5pJQp4oY:not(.PRIVACY_TEASER) :is(span,button,a){color:var(--ufirst-text)!important}
+html[data-gl-site-brand="ufirst"] ._2cZS8Kk3BCRlfb5pJQp4oY:not(.PRIVACY_TEASER) :is(._3mDFKQZigEhQEdroYsGC_E,._2Vsk5w0-MYWeEUdY3mt1M1){background:transparent!important}
