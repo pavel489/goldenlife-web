@@ -1,0 +1,280 @@
+{
+  "root_render_count": 8,
+  "reader_open_count": 12,
+  "html_preservation_count": 4,
+  "other_giftbox_rules_unchanged": true,
+  "roots": [
+    {
+      "root": "gl-box-refined",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": {
+        "bg": "rgb(237, 255, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      "kind": "long",
+      "width": 320
+    },
+    {
+      "root": "gl-box-refined",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": {
+        "bg": "rgb(237, 255, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      "kind": "long",
+      "width": 390
+    },
+    {
+      "root": "gl-box-refined",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": {
+        "bg": "rgb(237, 255, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      "kind": "long",
+      "width": 768
+    },
+    {
+      "root": "gl-box-refined",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": {
+        "bg": "rgb(237, 255, 0)",
+        "color": "rgb(0, 0, 0)"
+      },
+      "kind": "long",
+      "width": 1280
+    },
+    {
+      "root": "gl-box-short",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": null,
+      "kind": "short",
+      "width": 320
+    },
+    {
+      "root": "gl-box-short",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": null,
+      "kind": "short",
+      "width": 390
+    },
+    {
+      "root": "gl-box-short",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": null,
+      "kind": "short",
+      "width": 768
+    },
+    {
+      "root": "gl-box-short",
+      "overflow": false,
+      "primary": "#5bcfde",
+      "hover": "#1f9cad",
+      "tint": "#e6f8fa",
+      "pink": [],
+      "cta": null,
+      "kind": "short",
+      "width": 1280
+    }
+  ],
+  "readers": [
+    {
+      "title": "Podrobně: USB Míchátko",
+      "activeId": "653",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 1,
+      "overflow": false,
+      "width": 390,
+      "sku": "653"
+    },
+    {
+      "title": "Podrobně: UFIRST All-in-One",
+      "activeId": "576",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 390,
+      "sku": "576"
+    },
+    {
+      "title": "Podrobně: UFIRST Brain & Focus",
+      "activeId": "582",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 390,
+      "sku": "582"
+    },
+    {
+      "title": "Podrobně: UFIRST Care Free",
+      "activeId": "585",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 390,
+      "sku": "585"
+    },
+    {
+      "title": "Podrobně: Lahev UFIRST",
+      "activeId": "638",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 390,
+      "sku": "638"
+    },
+    {
+      "title": "Podrobně: USB Míchátko",
+      "activeId": "653",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 1,
+      "overflow": false,
+      "width": 390,
+      "sku": "653"
+    },
+    {
+      "title": "Podrobně: USB Míchátko",
+      "activeId": "653",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 1,
+      "overflow": false,
+      "width": 1280,
+      "sku": "653"
+    },
+    {
+      "title": "Podrobně: UFIRST All-in-One",
+      "activeId": "576",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 1280,
+      "sku": "576"
+    },
+    {
+      "title": "Podrobně: UFIRST Brain & Focus",
+      "activeId": "582",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 1280,
+      "sku": "582"
+    },
+    {
+      "title": "Podrobně: UFIRST Care Free",
+      "activeId": "585",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 1280,
+      "sku": "585"
+    },
+    {
+      "title": "Podrobně: Lahev UFIRST",
+      "activeId": "638",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 0,
+      "overflow": false,
+      "width": 1280,
+      "sku": "638"
+    },
+    {
+      "title": "Podrobně: USB Míchátko",
+      "activeId": "653",
+      "status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "pink": [],
+      "shadow": true,
+      "overrideCount": 1,
+      "overflow": false,
+      "width": 1280,
+      "sku": "653"
+    }
+  ],
+  "preservation": [
+    {
+      "path": "shoptet/ufirst.html",
+      "text_preserved": true,
+      "images_preserved": true,
+      "original_scripts_preserved": true
+    },
+    {
+      "path": "shoptet/ufirst-kratky.html",
+      "text_preserved": true,
+      "images_preserved": true,
+      "original_scripts_preserved": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "text_preserved": true,
+      "images_preserved": true,
+      "original_scripts_preserved": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "text_preserved": true,
+      "images_preserved": true,
+      "original_scripts_preserved": true
+    }
+  ],
+  "cdn": {
+    "url": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@8f9db974966408eba8bdfdb66fc4f35e376a709c/assets/golden-life-darkove-boxy.css",
+    "status": 200,
+    "bytes": 19227,
+    "sha256": "f1a81c606f36118b8cc3933029a23ab3e9f9ab7c828ebf662eed154f02a13806",
+    "matches_remote_asset": true
+  },
+  "limits": [
+    "Test harness, not live Shoptet deployment.",
+    "Existing broken hero and USB recommendation thumbnail preserved.",
+    "Newsletter/chat overlays suppressed only in test tab."
+  ]
+}
