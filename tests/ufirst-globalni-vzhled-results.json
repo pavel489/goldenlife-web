@@ -1,0 +1,109 @@
+{
+  "public_pages": [
+    {
+      "marker": "ufirst",
+      "bound": true,
+      "contact": "rgb(0, 0, 0)",
+      "phone": "rgb(31, 156, 173)",
+      "framePresent": true,
+      "frameMarker": "ufirst",
+      "frameLink": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@9dbd6116840d7d56bcc3e1ae887c0eb135ba0d7a/assets/ufirst-global.css",
+      "chat": "rgb(91, 207, 222)",
+      "text": "rgb(0, 0, 0)",
+      "path": "/ufirst-darkovy-box/"
+    },
+    {
+      "marker": "ufirst",
+      "bound": true,
+      "contact": "rgb(0, 0, 0)",
+      "phone": "rgb(31, 156, 173)",
+      "framePresent": true,
+      "frameMarker": "ufirst",
+      "frameLink": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@9dbd6116840d7d56bcc3e1ae887c0eb135ba0d7a/assets/ufirst-global.css",
+      "chat": "rgb(91, 207, 222)",
+      "text": "rgb(0, 0, 0)",
+      "path": "/brain-focus/"
+    },
+    {
+      "marker": "ufirst",
+      "bound": true,
+      "contact": "rgb(0, 0, 0)",
+      "phone": "rgb(31, 156, 173)",
+      "framePresent": true,
+      "frameMarker": "ufirst",
+      "frameLink": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@9dbd6116840d7d56bcc3e1ae887c0eb135ba0d7a/assets/ufirst-global.css",
+      "chat": "rgb(91, 207, 222)",
+      "text": "rgb(0, 0, 0)",
+      "path": "/znacka/u-first/"
+    },
+    {
+      "marker": null,
+      "bound": false,
+      "contact": "rgb(238, 0, 131)",
+      "phone": "rgb(238, 0, 131)",
+      "framePresent": true,
+      "frameMarker": null,
+      "frameLink": null,
+      "chat": "rgb(228, 14, 126)",
+      "text": "rgb(255, 255, 255)",
+      "path": "/"
+    }
+  ],
+  "late_frame_and_interaction": {
+    "late": {
+      "frameExistedAtInit": false,
+      "frameLinks": 1
+    },
+    "interaction": [
+      {
+        "width": 390,
+        "opened": {
+          "visible": true,
+          "background": "rgb(91, 207, 222)",
+          "text": "rgb(0, 0, 0)"
+        },
+        "closed": true
+      },
+      {
+        "width": 1280,
+        "opened": {
+          "visible": true,
+          "background": "rgb(91, 207, 222)",
+          "text": "rgb(0, 0, 0)"
+        },
+        "closed": true
+      }
+    ]
+  },
+  "cdn": [
+    {
+      "name": "ufirst-global.css",
+      "url": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@9dbd6116840d7d56bcc3e1ae887c0eb135ba0d7a/assets/ufirst-global.css",
+      "status": 200,
+      "bytes": 1933
+    },
+    {
+      "name": "ufirst-global.js",
+      "url": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@9dbd6116840d7d56bcc3e1ae887c0eb135ba0d7a/assets/ufirst-global.js",
+      "status": 200,
+      "bytes": 2198
+    }
+  ],
+  "preservation": [
+    {
+      "path": "shoptet/ufirst.html",
+      "only_removed_previous_page_local_patch": true,
+      "copy_and_original_scripts_preserved": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "only_removed_previous_page_local_patch": true,
+      "copy_and_original_scripts_preserved": true
+    }
+  ],
+  "one_palette_only_in_css": true,
+  "single_global_include": true,
+  "live_installation": false,
+  "installation_blocker": "Dedicated vault fill did not match the actual admin login fields. No password read or manual entry.",
+  "preview_limit": "Browser CDP became unavailable only during the optional final screenshot; completed interaction/colour tests above were saved before the failure."
+}

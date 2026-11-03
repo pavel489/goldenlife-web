@@ -1,4 +1,0 @@
-/* Only the native contact component on the UFIRST gift-box page. */
-html[data-gl-ufirst-page-elements="giftbox"] .top-navigation-contacts strong{color:#000!important}
-html[data-gl-ufirst-page-elements="giftbox"] .top-navigation-contacts .project-phone::before,
-html[data-gl-ufirst-page-elements="giftbox"] .top-navigation-contacts .project-email::before{background-color:#1f9cad!important}
