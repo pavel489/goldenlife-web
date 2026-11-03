@@ -175,11 +175,30 @@
 .gl-gift-note .gl-gift-note-highlight{background:#edff00;color:#000}
 
 /* Rounded native shop BENEFIT pictograms. Scope only the newly migrated icon strips.
-   Use the genuine PNG artwork and original source colour; never re-apply the old gold filter. */
+   Use genuine PNG contours; scoped alpha masks below apply the box theme colour. */
 #special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"] .p-card-img.gl-gift-benefit-icon{display:block;width:64px;height:64px;max-width:100%;object-fit:contain;filter:none!important;margin:0 auto 10px}
-#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"]>.p-icon-card:last-child{grid-column:span 2}
+#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"]>.p-icon-card:last-child{grid-column:auto}
 #special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"] .p-card-p{overflow-wrap:anywhere;hyphens:auto}
 .gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"] .gl-gift-benefit-icon{display:block;width:40px;height:40px;max-width:100%;object-fit:contain;filter:none!important;margin:0 auto 8px}
 .gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"]>div{min-width:0;line-height:1.35;hyphens:auto}
 @media(max-width:768px){#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"] .p-card-img.gl-gift-benefit-icon{width:48px;height:48px}}
 @media(max-width:767px){.gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"] .gl-gift-benefit-icon{width:32px;height:32px;margin-bottom:6px}.gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"]>div{font-size:clamp(10px,2.65vw,12px)}}
+
+/* Six rounded benefit glyphs, coloured by the containing gift-box theme.
+   The mask uses the ORIGINAL PNG alpha, not a replacement drawing or approximate filter.
+   Fall back to the authentic IMG in a browser without CSS masks. */
+#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"]{grid-template-columns:repeat(3,minmax(0,1fr))}
+.gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"]{grid-template-columns:repeat(6,minmax(0,1fr))}
+[data-gl-giftbox] [data-gl-benefits="rounded"] .gl-benefit-colour{display:block;width:64px;height:64px;margin:0 auto 10px;max-width:100%}
+.gl-box-short[data-gl-giftbox] [data-gl-benefits="rounded"] .gl-benefit-colour{width:40px;height:40px;margin-bottom:8px}
+[data-gl-giftbox] [data-gl-benefits="rounded"] .gl-benefit-colour>.gl-gift-benefit-icon{width:100%!important;height:100%!important;margin:0!important}
+@supports ((mask-image:url("")) or (-webkit-mask-image:url(""))){
+ [data-gl-giftbox] [data-gl-benefits="rounded"] .gl-benefit-colour{background-color:var(--gl-color-primary);-webkit-mask-image:var(--gl-benefit-mask);mask-image:var(--gl-benefit-mask);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-position:center;mask-position:center;mask-mode:alpha}
+ [data-gl-giftbox] [data-gl-benefits="rounded"] .gl-benefit-colour>.gl-gift-benefit-icon{opacity:0}
+}
+@media(max-width:768px){[data-gl-giftbox] [data-gl-benefits="rounded"] .gl-benefit-colour{width:48px;height:48px}}
+@media(max-width:600px){
+ #special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"]{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"]{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px 8px}
+ .gl-box-short[data-gl-giftbox] [data-gl-benefits="rounded"] .gl-benefit-colour{width:32px;height:32px;margin-bottom:6px}
+}
