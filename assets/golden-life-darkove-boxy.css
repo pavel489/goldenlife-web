@@ -173,3 +173,13 @@
 .gl-gift-note .gl-gift-note-text{font-size:13px;line-height:1.5;color:var(--gl-note-ink)}
 .gl-gift-note .gl-gift-note-last{padding:10px 0 4px}
 .gl-gift-note .gl-gift-note-highlight{background:#edff00;color:#000}
+
+/* Rounded native shop BENEFIT pictograms. Scope only the newly migrated icon strips.
+   Use the genuine PNG artwork and original source colour; never re-apply the old gold filter. */
+#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"] .p-card-img.gl-gift-benefit-icon{display:block;width:64px;height:64px;max-width:100%;object-fit:contain;filter:none!important;margin:0 auto 10px}
+#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"]>.p-icon-card:last-child{grid-column:span 2}
+#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"] .p-card-p{overflow-wrap:anywhere;hyphens:auto}
+.gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"] .gl-gift-benefit-icon{display:block;width:40px;height:40px;max-width:100%;object-fit:contain;filter:none!important;margin:0 auto 8px}
+.gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"]>div{min-width:0;line-height:1.35;hyphens:auto}
+@media(max-width:768px){#special-popis.gl-box-refined .hero-icons-grid[data-gl-benefits="rounded"] .p-card-img.gl-gift-benefit-icon{width:48px;height:48px}}
+@media(max-width:767px){.gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"] .gl-gift-benefit-icon{width:32px;height:32px;margin-bottom:6px}.gl-box-short[data-gl-giftbox] .maly-ikony[data-gl-benefits="rounded"]>div{font-size:clamp(10px,2.65vw,12px)}}

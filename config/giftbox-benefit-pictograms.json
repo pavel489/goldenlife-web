@@ -1,0 +1,215 @@
+{
+  "purpose": "Original rounded benefit artwork, not inventory symbols. Caption reuse is an internal implementation draft, not new claims approval.",
+  "boxes": {
+    "beauty": [
+      {
+        "caption": "Redukce vrásek",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "source_product_id": "383",
+        "source_product_name": "Slim Extreme Collagen – ananas",
+        "source_url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Redukce celulitidy",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "source_product_id": "383",
+        "source_product_name": "Slim Extreme Collagen – ananas",
+        "source_url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Více energie",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/energie-ruzova.png",
+        "source_product_id": "174",
+        "source_product_name": "Slim & Detox Power",
+        "source_url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Zlepšuje kvalitu spánku",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek.png",
+        "source_product_id": "57",
+        "source_product_name": "Good Sleep & Night Burn",
+        "source_url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Podpora hubnutí",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "source_product_id": "174",
+        "source_product_name": "Slim & Detox Power",
+        "source_url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      }
+    ],
+    "slim": [
+      {
+        "caption": "Podpora hubnutí",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "source_product_id": "464",
+        "source_product_name": "Slim Extreme Collagen – mango",
+        "source_url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Podporuje spalování tuků",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovanii-fialova.png",
+        "source_product_id": "476",
+        "source_product_name": "Slim GLP-1 Activator s berberinem",
+        "source_url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Redukce celulitidy",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "source_product_id": "464",
+        "source_product_name": "Slim Extreme Collagen – mango",
+        "source_url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Redukce vrásek",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "source_product_id": "464",
+        "source_product_name": "Slim Extreme Collagen – mango",
+        "source_url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Více energie",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/energie-ruzova.png",
+        "source_product_id": "174",
+        "source_product_name": "Slim & Detox Power",
+        "source_url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      }
+    ],
+    "hormonal": [
+      {
+        "caption": "Hormonální rovnováha",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "source_product_id": "644",
+        "source_product_name": "Woman Hormonal Balance se Shatavari",
+        "source_url": "https://www.golden-life.cz/woman-hormonal-balance/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Vnitřní pohoda",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+        "source_product_id": "644",
+        "source_product_name": "Woman Hormonal Balance se Shatavari",
+        "source_url": "https://www.golden-life.cz/woman-hormonal-balance/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Péče o pleť zevnitř",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/zpevneni-pleti-zelena.png",
+        "source_product_id": "550",
+        "source_product_name": "Anti-Age Longevity NAD+",
+        "source_url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Antioxidační ochrana",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "source_product_id": "550",
+        "source_product_name": "Anti-Age Longevity NAD+",
+        "source_url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Kontrola chuti k jídlu",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-fialova.png",
+        "source_product_id": "635",
+        "source_product_name": "Peptides GLP-1 Woman Balance Dark Cherry",
+        "source_url": "https://www.golden-life.cz/peptides-glp-1-woman-balance-dark-cherry/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      }
+    ],
+    "longevity": [
+      {
+        "caption": "Podpora vitality",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/sytost-fialova.png",
+        "source_product_id": "550",
+        "source_product_name": "Anti-Age Longevity NAD+",
+        "source_url": "https://www.golden-life.cz/anti-age-longevity-nad-/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Pro zdravou pokožku a vlasy",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlasy-zelena.png",
+        "source_product_id": "544",
+        "source_product_name": "Beauty & Longevity NAD+",
+        "source_url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Podpora normální funkce imunity",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "source_product_id": "544",
+        "source_product_name": "Beauty & Longevity NAD+",
+        "source_url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Podpora tvorby kolagenu",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/zpevneni-pleti-zelena.png",
+        "source_product_id": "544",
+        "source_product_name": "Beauty & Longevity NAD+",
+        "source_url": "https://www.golden-life.cz/beauty-longevity-nad-drink/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Zlepšuje kvalitu spánku",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek.png",
+        "source_product_id": "57",
+        "source_product_name": "Good Sleep & Night Burn",
+        "source_url": "https://www.golden-life.cz/good-sleep-night-burn/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      }
+    ],
+    "ufirst": [
+      {
+        "caption": "Podpora energie",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-blesk_20.png",
+        "source_product_id": "576",
+        "source_product_name": "UFIRST all-in-one drink",
+        "source_url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Podpora imunity",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-stit_20.png",
+        "source_product_id": "576",
+        "source_product_name": "UFIRST all-in-one drink",
+        "source_url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Soustředění",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/focus.png",
+        "source_product_id": "582",
+        "source_product_name": "Brain & Focus",
+        "source_url": "https://www.golden-life.cz/brain-focus/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Paměť",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/brain.png",
+        "source_product_id": "582",
+        "source_product_name": "Brain & Focus",
+        "source_url": "https://www.golden-life.cz/brain-focus/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      },
+      {
+        "caption": "Psychická pohoda",
+        "image_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-srdce_20.png",
+        "source_product_id": "585",
+        "source_product_name": "Care Free",
+        "source_url": "https://www.golden-life.cz/care-free/",
+        "claims_status": "existing_public_caption_not_new_legal_approval"
+      }
+    ]
+  }
+}
