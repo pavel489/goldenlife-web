@@ -1,0 +1,1241 @@
+{
+  "base_commit": "c890145800a33b4ff7117d84f9ba7f2193a920f4",
+  "source_css": [
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-produkt.css",
+      "status": 200,
+      "bytes": 266094,
+      "sha256": "45d7633470804e03925a2a587d3eb7db5eff1a41c32531be579cc70864ad0515"
+    },
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-beauty-star.css",
+      "status": 200,
+      "bytes": 5125,
+      "sha256": "40f6d7d6c86bb2859fdc3654126b2389a37bda5178114dc2a948d4036635ef03"
+    }
+  ],
+  "extension": {
+    "url": "https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@d2e913cddda836da9ff9b3543c4ac58d1912d7d9/assets/golden-life-darkove-boxy.css",
+    "status": 200,
+    "bytes": 18202,
+    "sha256": "5aeb60498b506a6d475d105f305e8d7149e9d93262dfad2b18f1b97bcaae7899",
+    "matches_asset": true
+  },
+  "html_file_checks": [
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/ufirst-kratky.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/slim-kratky.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/longevity-kratky.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/beauty-kratky.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    },
+    {
+      "path": "shoptet/hormonal-kratky.html",
+      "text_scripts_images_ids_preserved": true,
+      "inline_style_attributes": 0,
+      "base_import": true,
+      "extension_import": true
+    }
+  ],
+  "responsive_fixture_summary": {
+    "expected": 60,
+    "passed": 60,
+    "failed": 0,
+    "failures": [],
+    "scope": "Isolated storefront-origin fixtures; current downloaded global CSS and local extension; no CMS save."
+  },
+  "live_css_fixture_summary": {
+    "expected": 20,
+    "passed": 20,
+    "failed": 0,
+    "failures": [],
+    "scope": "Isolated storefront-origin fixtures; actual live global CSS and immutable CDN extension; no CMS save."
+  },
+  "responsive_cases": [
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 320,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 600,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 768,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 1024,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    }
+  ],
+  "live_css_cases": [
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 28
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "global_base_effective": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html",
+      "width": 1280,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [],
+      "five_icons_one_row": true,
+      "expanded_products": 5,
+      "icon_width": 32
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 360,
+      "overflow": false,
+      "page_errors": [],
+      "blocked_writes": [],
+      "broken_images": [
+        "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png"
+      ],
+      "cards": 6,
+      "detail_buttons": 5,
+      "faq_open": true,
+      "packshots_contain": true,
+      "reader_visible": true,
+      "reader_status": "Podrobnosti ze stránky produktu. Stále vybíráš celý dárkový box.",
+      "reader_retry_visible": false
+    }
+  ],
+  "unchanged_unavailable_image_urls": [
+    "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/476-1_glp-1-tabletky-vyzualizace-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a17fe9d&sg=38cb01fe",
+    "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-hormonal.png",
+    "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-longevity.png",
+    "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-mango.png",
+    "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box-ufirst.png",
+    "https://www.golden-life.cz/user/documents/upload/mockup/darkovy-box.png"
+  ],
+  "shop_saved": false
+}
