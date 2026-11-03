@@ -24,9 +24,9 @@
   color:#222;
 }
 :where([data-gl-giftbox="ufirst"]) {
-  --gl-color-primary:#5bcfde; --gl-color-primary-hover:#46c5d6; --gl-color-primary-rgb:91,207,222;
+  --gl-color-primary:#5bcfde; --gl-color-primary-hover:#1f9cad; --gl-color-primary-rgb:91,207,222;
   --gl-color-bg-light:#e6f8fa; --gl-color-bg-light-rgb:230,248,250;
-  --gl-box-ink:#18383d; --gl-box-line:#a3e2ea; --gl-box-button-ink:#18383d;
+  --gl-box-ink:#000; --gl-box-line:#a3e2ea; --gl-box-button-ink:#000;
 }
 /* Shared typography, paragraph rhythm, containers, hero, icon panels and CTA layout
    are intentionally inherited from golden-life-produkt.css, not duplicated. */
@@ -173,3 +173,19 @@
 .gl-gift-note .gl-gift-note-text{font-size:13px;line-height:1.5;color:var(--gl-note-ink)}
 .gl-gift-note .gl-gift-note-last{padding:10px 0 4px}
 .gl-gift-note .gl-gift-note-highlight{background:#edff00;color:#000}
+
+/* UFIRST gift-box colour boundary: do not inherit Golden Life pink tokens.
+   Scoped to this box only; product photographs and isolated child details stay authentic. */
+#special-popis.gl-box-refined[data-gl-giftbox="ufirst"],
+.gl-box-short[data-gl-giftbox="ufirst"] {
+  --gl-color-primary:#5bcfde; --gl-color-primary-hover:#1f9cad;
+  --gl-color-primary-rgb:91,207,222;
+  --gl-color-bg-light:#e6f8fa; --gl-color-bg-light-rgb:230,248,250;
+  --gl-color-table-bg:#e6f8fa; --gl-color-table-row-alt:#e6f8fa;
+  --gl-color-table-border:#1f9cad;
+  --gl-box-ink:#000; --gl-box-line:#a3e2ea; --gl-box-button-ink:#000;
+}
+#special-popis.gl-box-refined[data-gl-giftbox="ufirst"] .p-icon-card .gl-icon {color:#1f9cad}
+#special-popis.gl-box-refined[data-gl-giftbox="ufirst"] .gl-gift-choice>div {border-color:var(--gl-box-line)}
+#special-popis.gl-box-refined[data-gl-giftbox="ufirst"] .cta-button {background:#edff00;color:#000}
+#special-popis.gl-box-refined[data-gl-giftbox="ufirst"] .cta-button:hover {background:#5bcfde;color:#000!important}
