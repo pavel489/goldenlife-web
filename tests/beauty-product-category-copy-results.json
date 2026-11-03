@@ -1,0 +1,26 @@
+{
+  "source_commit": "1acb9c2febef9cb950c694451b6dcc2583b892b7",
+  "checks": [
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "only_role_and_recipient_changed": true,
+      "cosmetic_references_in_html": 0,
+      "styles_scripts_urls_unchanged": true
+    },
+    {
+      "path": "shoptet/beauty.html",
+      "only_role_and_recipient_changed": true,
+      "cosmetic_references_in_html": 0,
+      "styles_scripts_urls_unchanged": true
+    }
+  ],
+  "short_descriptions_checked_unchanged": [
+    "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html",
+    "shoptet/beauty-kratky.html"
+  ],
+  "new_health_claims": false,
+  "shop_saved": false,
+  "model": "GPT-6.1-sol",
+  "paid_media_generation": false,
+  "model_cost": "not available"
+}

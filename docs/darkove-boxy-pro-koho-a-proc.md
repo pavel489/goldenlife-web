@@ -4,7 +4,7 @@
 Pouze dva odstavce v sekci `gl-gift-choice` na každé z pěti dlouhých stránek a v odpovídajícím CMS fragmentu `shoptet/`: celkem deset HTML souborů. Pole `who` a `why` v `config/giftbox-positioning.json` jsou synchronizovaná, aby starší konfigurace nevrátila generické texty. Krátké popisy, hlavní nadpisy, intro, produkty, ceny, skripty, fotografie a globální CSS se nemění. Následující názvy rolí jsou redakční pomůcka, nikoli změna názvu produktu.
 
 ## Rozhodování při výběru dárku
-- Beauty: přítelkyně, maminka, sestra i babička, kterou baví kosmetika a kolagenová péče.
+- Beauty: přítelkyně, maminka, sestra i babička se zájmem o kolagenové nápoje a doplňky stravy.
 - Hormonal: maminka, partnerka nebo teta 40+, která si sama přeje řadu Woman Balance v kontextu své životní etapy.
 - Longevity: maminka nebo babička, kterou baví péče o sebe, vlastní zájmy a řada NAD+.
 - Slim: žena, která si sama vybrala řadu Slim ke svému jídelníčku a pohybu; není to nevyžádaná narážka na postavu.
@@ -18,7 +18,7 @@ Příbuzenský vztah sám nepotvrzuje zdravotní vhodnost doplňků. Cílem je u
 
 **Pro koho je box**
 
-Pro přítelkyni, maminku, sestru i babičku, která má ráda kosmetiku a ráda si dopřeje péči o svůj vzhled. Jestli ji potěší nový krém nebo návštěva kosmetiky, vyber jí tentokrát kolagenový nápoj a chvíli jen pro sebe. Z našich boxů je Beauty volba pro milovnici každodenní péče o krásu.
+Pro přítelkyni, maminku, sestru i babičku, která chce zařadit kolagenový nápoj do své každodenní péče o sebe. Pokud už kolagen užívá nebo si ho přeje vyzkoušet, tímhle dárkem se trefíš do jejího zájmu. K ananasovému nápoji dostane dva další doplňky stravy i příslušenství k přípravě — hotový výběr v jedné dárkové krabici.
 
 **Proč vybrat právě tento**
 
@@ -104,3 +104,7 @@ Druhá věta je s přiřazením produktu z `brand/product/care-free/info.md`, ř
 
 ## Podklady, model a náklady
 Výchozí Git `d9b8959c0d1ef2a9c6e6f6494b46cf70ac2fc7b7`; přesné obsahy a zdrojová ID jednotlivých boxů; `brand/RULES.md`; výše citované produktové `info.md`, navíc Good Sleep & Night Burn, Slim & Detox Power+ a Slim GLP-1 Activator pro kontrolu toho, které účinky nemají v dostupném podkladu schválené znění. Model GPT-6.1-sol, Python/lxml a Chromium/Playwright. Bez placené generace médií; přesná cena modelu a konektoru není poskytovaná.
+
+
+## Oprava kategorie Collagen Beauty
+Odkazy na kosmetiku, krémy a kosmetické návštěvy byly chybné: box obsahuje doplňky stravy a příslušenství, nikoli kosmetické výrobky. Byla opravena role v úvodu i odstavec Pro koho a jejich zdrojová konfigurace; ostatní boxy, text Proč, stávající poznámky ke zdravotním větám a vizuální styl se nemění.
