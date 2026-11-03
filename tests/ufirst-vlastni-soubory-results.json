@@ -1,0 +1,72 @@
+{
+  "uploaded": [
+    {
+      "path": "/user/documents/upload/css/ufirst-global.css",
+      "url": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "bytes": 1956,
+      "sha256": "0da088ee447a4fc9fd3274e5586610e422d032daa6e977ed2f8233da3c0f4d94"
+    },
+    {
+      "path": "/user/documents/upload/css/ufirst-global.js",
+      "url": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 2215,
+      "sha256": "485ae393215518bbb8ac035ba7d451098790d215e8c182249c687202c140d737"
+    }
+  ],
+  "preservation": [
+    {
+      "path": "shoptet/ufirst.html",
+      "only_added_shared_asset_bootstrap": true,
+      "original_bytes_preserved": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "only_added_shared_asset_bootstrap": true,
+      "original_bytes_preserved": true
+    }
+  ],
+  "browser": {
+    "integration": {
+      "url": "https://www.golden-life.cz/ufirst-darkovy-box/",
+      "css": "/user/documents/upload/css/ufirst-global.css",
+      "script": "/user/documents/upload/css/ufirst-global.js",
+      "dataCss": "/user/documents/upload/css/ufirst-global.css",
+      "marker": "ufirst",
+      "contact": "rgb(0, 0, 0)",
+      "phone": "rgb(31, 156, 173)",
+      "email": "rgb(31, 156, 173)",
+      "frameCss": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css",
+      "chat": "rgb(91, 207, 222)",
+      "chatText": "rgb(0, 0, 0)"
+    },
+    "duplicate_guard": {
+      "mainCss": 1,
+      "js": 1,
+      "frameCss": 1
+    }
+  },
+  "interaction": [
+    {
+      "open": true,
+      "headerBg": "rgb(91, 207, 222)",
+      "headerText": "rgb(0, 0, 0)",
+      "frameCss": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css",
+      "width": 390,
+      "minimized": true
+    },
+    {
+      "open": true,
+      "headerBg": "rgb(91, 207, 222)",
+      "headerText": "rgb(0, 0, 0)",
+      "frameCss": "https://www.golden-life.cz/user/documents/upload/css/ufirst-global.css",
+      "width": 1280,
+      "minimized": true
+    }
+  ],
+  "cms_saved": false,
+  "scope": "Only loading the requester-supplied shared appearance files in the UFIRST gift-box HTML."
+}
