@@ -1,0 +1,537 @@
+{
+  "build": {
+    "base": "c0cb239d25b1caa83d277d58afd87e88587eb8dc",
+    "paths": [
+      "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css"
+    ],
+    "shared_css_changed": false,
+    "common_live_matches_git_normalized": true,
+    "text_preserved": true,
+    "tables_preserved": true,
+    "scripts_preserved": true,
+    "imports_per_fragment": 2,
+    "photo": "https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+    "theme": "slim-extreme-collagen",
+    "new_theme_live_status": "not_uploaded",
+    "shop_saved": false
+  },
+  "browser": {
+    "note": "Temporary response overrides, not a CMS save. Exact delivered scripts execute during normal HTML parsing. Real shop CSS and real image responses.",
+    "widths": [
+      {
+        "w": 320,
+        "scroll": 305,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 251,
+          "h": 251,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 305,
+          "scroll": 305
+        },
+        "tableOverflow": [
+          {
+            "w": 253,
+            "s": 251
+          },
+          {
+            "w": 253,
+            "s": 251
+          },
+          {
+            "w": 253,
+            "s": 251
+          },
+          {
+            "w": 253,
+            "s": 251
+          }
+        ],
+        "iconFilter": "none"
+      },
+      {
+        "w": 360,
+        "scroll": 345,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 291,
+          "h": 291,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 345,
+          "scroll": 345
+        },
+        "tableOverflow": [
+          {
+            "w": 293,
+            "s": 291
+          },
+          {
+            "w": 293,
+            "s": 291
+          },
+          {
+            "w": 293,
+            "s": 291
+          },
+          {
+            "w": 293,
+            "s": 291
+          }
+        ],
+        "iconFilter": "none"
+      },
+      {
+        "w": 390,
+        "scroll": 375,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 321,
+          "h": 321,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 375,
+          "scroll": 375
+        },
+        "tableOverflow": [
+          {
+            "w": 323,
+            "s": 321
+          },
+          {
+            "w": 323,
+            "s": 321
+          },
+          {
+            "w": 323,
+            "s": 321
+          },
+          {
+            "w": 323,
+            "s": 321
+          }
+        ],
+        "iconFilter": "none"
+      },
+      {
+        "w": 520,
+        "scroll": 505,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 451,
+          "h": 451,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 420,
+          "scroll": 420
+        },
+        "tableOverflow": [
+          {
+            "w": 453,
+            "s": 451
+          },
+          {
+            "w": 453,
+            "s": 451
+          },
+          {
+            "w": 453,
+            "s": 451
+          },
+          {
+            "w": 453,
+            "s": 451
+          }
+        ],
+        "iconFilter": "none"
+      },
+      {
+        "w": 768,
+        "scroll": 753,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 751,
+          "h": 751,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 420,
+          "scroll": 420
+        },
+        "tableOverflow": [
+          {
+            "w": 753,
+            "s": 751
+          },
+          {
+            "w": 753,
+            "s": 751
+          },
+          {
+            "w": 753,
+            "s": 751
+          },
+          {
+            "w": 753,
+            "s": 751
+          }
+        ],
+        "iconFilter": "none"
+      },
+      {
+        "w": 1100,
+        "scroll": 1085,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 535.5,
+          "h": 535.5,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 420,
+          "scroll": 420
+        },
+        "tableOverflow": [
+          {
+            "w": 1085,
+            "s": 1083
+          },
+          {
+            "w": 1085,
+            "s": 1083
+          },
+          {
+            "w": 1085,
+            "s": 1083
+          },
+          {
+            "w": 1085,
+            "s": 1083
+          }
+        ],
+        "iconFilter": "none"
+      },
+      {
+        "w": 1440,
+        "scroll": 1425,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 543,
+          "h": 543,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 420,
+          "scroll": 420
+        },
+        "tableOverflow": [
+          {
+            "w": 1100,
+            "s": 1098
+          },
+          {
+            "w": 1100,
+            "s": 1098
+          },
+          {
+            "w": 1100,
+            "s": 1098
+          },
+          {
+            "w": 1100,
+            "s": 1098
+          }
+        ],
+        "iconFilter": "none"
+      },
+      {
+        "w": 390,
+        "scroll": 375,
+        "color": "rgb(227, 18, 126)",
+        "theme": "#e3127e",
+        "photo": {
+          "src": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "w": 321,
+          "h": 321,
+          "fit": "contain",
+          "loaded": 2000
+        },
+        "broken": [],
+        "short": {
+          "w": 375,
+          "scroll": 375
+        },
+        "tableOverflow": [
+          {
+            "w": 323,
+            "s": 321
+          },
+          {
+            "w": 323,
+            "s": 321
+          },
+          {
+            "w": 323,
+            "s": 321
+          },
+          {
+            "w": 323,
+            "s": 321
+          }
+        ],
+        "iconFilter": "none"
+      }
+    ],
+    "modals": [
+      {
+        "width": 390,
+        "target": "#lm-garcinia",
+        "open_close": true
+      },
+      {
+        "width": 390,
+        "target": "#lm-hyaluron",
+        "open_close": true
+      },
+      {
+        "width": 390,
+        "target": "#lm-mineraly",
+        "open_close": true
+      },
+      {
+        "width": 390,
+        "target": "#lm-bkomplex",
+        "open_close": true
+      },
+      {
+        "width": 390,
+        "target": "#lm-vitace",
+        "open_close": true
+      },
+      {
+        "width": 390,
+        "target": "#lm-zelenycaj",
+        "open_close": true
+      },
+      {
+        "width": 1440,
+        "target": "#lm-garcinia",
+        "open_close": true
+      },
+      {
+        "width": 1440,
+        "target": "#lm-hyaluron",
+        "open_close": true
+      },
+      {
+        "width": 1440,
+        "target": "#lm-mineraly",
+        "open_close": true
+      },
+      {
+        "width": 1440,
+        "target": "#lm-bkomplex",
+        "open_close": true
+      },
+      {
+        "width": 1440,
+        "target": "#lm-vitace",
+        "open_close": true
+      },
+      {
+        "width": 1440,
+        "target": "#lm-zelenycaj",
+        "open_close": true
+      }
+    ],
+    "errors": [],
+    "image_failures": [],
+    "scripts_byte_identical": true,
+    "scope": "long and short descriptions, same-SKU theme only",
+    "new_theme_status": 404,
+    "narrow_short": [
+      {
+        "width": 260,
+        "scroll": 260,
+        "iconWidths": [
+          [
+            47,
+            47
+          ],
+          [
+            47,
+            47
+          ],
+          [
+            47,
+            47
+          ],
+          [
+            47,
+            47
+          ],
+          [
+            47,
+            47
+          ]
+        ]
+      },
+      {
+        "width": 300,
+        "scroll": 300,
+        "iconWidths": [
+          [
+            55,
+            55
+          ],
+          [
+            55,
+            55
+          ],
+          [
+            55,
+            55
+          ],
+          [
+            55,
+            55
+          ],
+          [
+            55,
+            55
+          ]
+        ]
+      },
+      {
+        "width": 360,
+        "scroll": 360,
+        "iconWidths": [
+          [
+            67,
+            67
+          ],
+          [
+            67,
+            67
+          ],
+          [
+            67,
+            67
+          ],
+          [
+            67,
+            67
+          ],
+          [
+            67,
+            67
+          ]
+        ]
+      },
+      {
+        "width": 420,
+        "scroll": 420,
+        "iconWidths": [
+          [
+            79,
+            79
+          ],
+          [
+            79,
+            79
+          ],
+          [
+            79,
+            79
+          ],
+          [
+            79,
+            79
+          ],
+          [
+            79,
+            79
+          ]
+        ]
+      }
+    ],
+    "passed": true
+  },
+  "native": {
+    "saved_to_cms": false,
+    "native_host": [
+      {
+        "viewport": 390,
+        "pageWidth": 390,
+        "scroll": 375,
+        "short": [
+          355,
+          355
+        ],
+        "long": [
+          375,
+          375
+        ],
+        "theme": "#e3127e",
+        "photo": 2000,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+        "price": "1 350 Kč"
+      },
+      {
+        "viewport": 1440,
+        "pageWidth": 1440,
+        "scroll": 1425,
+        "short": [
+          460,
+          460
+        ],
+        "long": [
+          1425,
+          1425
+        ],
+        "theme": "#e3127e",
+        "photo": 2000,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+        "price": "1 350 Kč"
+      }
+    ],
+    "passed": true
+  }
+}
