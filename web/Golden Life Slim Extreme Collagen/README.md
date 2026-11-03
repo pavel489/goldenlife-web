@@ -1,28 +1,34 @@
-# Slim Extreme Collagen – migrace na globální styly
+# Slim Extreme Collagen – jeden společný přehledový blok
 
-## Změna
-Dlouhý i krátký popis mají jeden malý style blok se dvěma importy: `golden-life-produkt.css` a vlastní `golden-life-barvy-slim-extreme-collagen.css`. Rozvržení používá již existující layout `woman-hormonal-balance` / `woman-hormonal-balance-short`; jde jen o název sdílené šablony, produkt zůstává Slim Extreme Collagen, productId 168. Samostatné téma zachovává růžovou #e3127e. Původní vložené CSS krátkého popisu a barvy v inline stylech byly převedeny do sdíleného frameworku / produktového tématu. Společný framework se nemění.
+## Aktuální úprava
+Dvě původní karty „Jak funguje“ a „Účinky“ jsou nahrazeny jediným blokem. Vlevo je přesná dodaná fotografie `/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg`, vpravo jeden nadpis a dva krátké odstavce shrnující oba původní texty. Na mobilu do 767 px je nejdřív fotografie a pod ní celý text. Žádné rozbalování, žádné zkrácení přes CSS. Fotografie je celá čtvercová bez ořezu obličeje a dózy.
 
-V kartě **Účinky** je přesná dodaná fotografie `/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg`, načtená v původním rozlišení 2000 × 2000. Fotografie zůstává celá čtvercová, bez ořezu obličeje a dózy. Ostatní fotografie nebyly nahrazeny. Původní texty, dávkování, upozornění, tabulky a synchronizační skripty zůstaly zachovány. Na tabulkách je již existující opt-in marker proti přetečení dlouhých slov.
+### Text bloku
+**Jak funguje Slim Extreme Collagen**
+
+Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu.
+
+Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.
+
+Shrnutí ponechává dvě linie původního sdělení (redukční režim / kolagenová kosmetická linie), složení i podloženou formulaci o únavě. Nepřebírá nepodložené sliby termogeneze, rychlejšího metabolismu, odvodnění, sytosti nebo kloubních účinků. Přesné oddělení obsahových výhrad je v [poznámkách](../../docs/slim-extreme-collagen-obsahove-vyhrady.md).
 
 ## Soubory
 - [Dlouhý popis](Golden%20Life%20Slim%20Extreme%20Collagen.html)
-- [Krátký popis](maly/Golden%20Life%20Slim%20Extreme%20Collagen%20maly.html)
-- [Vlastní téma](../../user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css)
-- [Obrázkový náhled](../../nahledy/slim-extreme-collagen-ucinky.png)
-- [HTML náhled](../../nahledy/slim-extreme-collagen.html) – stáhnout a otevřít v prohlížeči, fotografie/fonty vyžadují internet. Nákupní formulář není součástí náhledu.
-- [Testy](../../docs/slim-extreme-collagen-global-testy.json)
-- [Obsahové výhrady](../../docs/slim-extreme-collagen-obsahove-vyhrady.md)
+- [Krátký popis – v této opravě nezměněný](maly/Golden%20Life%20Slim%20Extreme%20Collagen%20maly.html)
+- [Barevné téma](../../user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css)
+- [Desktopový náhled](../../nahledy/slim-extreme-collagen-ucinky.png)
+- [Mobilní náhled](../../nahledy/slim-extreme-collagen-prehled-mobil.png)
+- [HTML náhled](../../nahledy/slim-extreme-collagen.html) – stáhnout a otevřít v prohlížeči, fotografie/fonty vyžadují internet. Bez nákupního formuláře.
+- [Testy aktuální opravy](../../docs/slim-extreme-collagen-prehled-testy.json)
 
-## Nasazení do Shoptetu – ještě neprovedeno
-1. Nahraj nové barevné CSS do `/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css`. Při kontrole URL vracela HTTP 404.
-2. Nahraď starý dlouhý i krátký popis celými novými HTML. Nepřipojuj je za původní vlastní styly.
-3. Ověř veřejný produkt po uložení. Společný `golden-life-produkt.css` už na webu odpovídá aktuální Git verzi po normalizaci CRLF/LF a není potřeba ho kvůli této změně přepisovat.
-
-Git aktualizace není uložení do administrace Shoptetu. Tento úkol nezasahuje do objednávek, nastavení, cen ani ostatních produktů. Případní importéři v boxech mohou mít vlastní allowlist názvů CSS; jejich změna není součástí zadání a nebyla ověřována.
+## Rozsah a globální styly
+Zůstává jeden malý style blok se dvěma importy: společný `golden-life-produkt.css` a vlastní `golden-life-barvy-slim-extreme-collagen.css`. Nová sekce používá existující sdílený `story-block`; produktové téma obsahuje jen omezené korekce rozvržení, rozestupů a celého čtvercového obrázku. Společné CSS, krátký popis, tabulky složení, původní synchronizační skripty a všechny ostatní části dlouhého popisu jsou beze změny. Reverzní záměna nového bloku za staré dva obnoví přesné původní bajty dlouhého HTML.
 
 ## Ověření
-Chromium, skutečné shop styly a skutečné obrázky: 320, 360, 390, 520, 768, 1100, 1440 px a návrat na 390. Bez horizontálního přetečení a nefunkčních obrázků, celé čtvercové foto, správná růžová, bez dvojího přebarvení piktogramů. Všech šest detailů aktivních látek bylo otevřeno a zavřeno na mobilu i desktopu. Krátký popis navíc v hostech 260/300/360/420 px. V dočasně přepsané odpovědi skutečné produktové stránky ověřeny oba fragmenty, hlavní fotografie hero/CTA a synchronizace veřejné ceny při 390 a 1440 px. Tyto testy neukládaly CMS ani nic do košíku. Vizuálně prohlédnut desktop i mobil. Texty, tabulky a původní skripty jsou ověřeny programovým porovnáním.
+Chromium 320/360/390/600/767/768/1024/1440 px a návrat na 390: správné pořadí, jeden nadpis, celý text i obrázek 2000 × 2000, bez přetečení, všechny fotografie načtené, žádné JS chyby v izolované stránce. Všech šest původních detailů látek se otevírá a zavírá na mobilu i desktopu. Na dočasně přepsané skutečné produktové stránce ověřeno rozvržení při 390 a 1440 px, hlavní fotografie hero/CTA a synchronizace veřejné ceny. Při plné shop stránce zaznamenány dvě zprávy „Failed to fetch“, původ nebyl určen; geometrické/funkční testy komponenty prošly. Vizuálně prohlédnut desktop i mobil. Nejde o uložení do CMS.
+
+## Nasazení
+Na e-shopu nebylo nic uloženo. Nahraj aktualizované barevné CSS a nahraď dlouhý popis celým aktuálním HTML. Pokud ještě není nasazená předchozí migrace, nahraj i její krátký popis. Společné CSS se kvůli této opravě nemění. Po uložení ověř veřejný produkt. Git aktualizace není nasazení do Shoptetu.
 
 ## Zdroje a výroba
-Aktuální main c0cb239d25b1caa83d277d58afd87e88587eb8dc, veřejný produkt https://www.golden-life.cz/extreme-slim-collagen/, veřejné CSS v dodané cestě, dodaná fotografie, `brand/RULES.md`, `brand/product/extreme-slim-collagen/info.md`. Model GPT-6.1-sol; Python/BeautifulSoup, Chromium/Playwright. Žádná placená obrazová generace, bez nového generování fotografie; cenu běhu jazykového modelu nemám k dispozici.
+Aktuální Git main 9bffda8d442d7bf81962734028f05b6d4e3826ed, oba původní odstavce stejného SKU 168, fotografie dodaná v tomto vlákně, veřejné shop styly, `brand/RULES.md` a produktový soubor `brand/product/extreme-slim-collagen/info.md`. Model GPT-6.1-sol; Python/BeautifulSoup a Chromium/Playwright. Bez nové obrazové generace a poplatků za ni; cenu běhu jazykového modelu nemám k dispozici.

@@ -943,9 +943,17 @@
   --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
 }
 
-/* Exact same-SKU photo: preserve the full square, face and jar on every viewport. */
-#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .latky-grid-2 .gl-collagen-effects-photo{height:auto;aspect-ratio:1 / 1;object-fit:contain}
-#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .latky-grid-2 .gl-collagen-effects::after{display:none}
+/* Merged overview: existing shared story layout, scoped same-SKU adjustments. */
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview{grid-template-columns:repeat(2,minmax(0,1fr));gap:0;margin-top:24px;background:var(--gl-color-bg-light);border:1px solid var(--gl-color-bg-light);border-radius:var(--gl-radius-lg);overflow:hidden}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview>div{min-width:0}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-image{align-self:center}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-image img{width:100%;height:auto;min-height:0;aspect-ratio:1 / 1;object-fit:contain;border-radius:0;display:block}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-text{padding:clamp(24px,3vw,44px);justify-content:center;text-align:left;box-sizing:border-box}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview h3{font-size:clamp(25px,2.5vw,32px);line-height:1.2;text-align:left;margin:0 0 20px;overflow-wrap:break-word}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview p{font-size:16px;line-height:1.65;text-align:left;margin:0 0 16px}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview p:last-child{margin-bottom:0}
+@media(max-width:767px){#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview{grid-template-columns:minmax(0,1fr)}#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-text{padding:24px}#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview h3{font-size:26px;margin-bottom:16px}}
+
 /* Existing scoop notice, with its inline palette moved into this theme. */
 :where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-scoop-note{background:var(--gl-color-bg-light);border-radius:10px;padding:15px 18px;margin-top:15px}
 :where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-scoop-row{margin-top:12px}
@@ -959,7 +967,7 @@
 :where([data-gl-theme="slim-extreme-collagen"]) .maly-ikony>div{overflow-wrap:anywhere;line-height:1.3}
 :where([data-gl-theme="slim-extreme-collagen"]) .maly-ikony .p-card-img{max-width:100%;object-fit:contain}
 @media(max-width:600px){:where([data-gl-theme="slim-extreme-collagen"]) .maly-ikony>div{font-size:10px}:where([data-gl-theme="slim-extreme-collagen"]) .maly-ikony .p-card-img{width:36px;height:36px}}
-</style></head><body><main style="max-width:1100px;margin:0 auto"><p> </p>
+</style></head><body><main style="max-width:1100px;margin:auto"><p> </p>
 <meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="Slim Extreme Collagen je výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. Podpora hubnutí, redukce celulitidy, zpevnění pokožky a zdraví kloubů. Vyrobeno v ČR." name="description"/><meta content="Slim Extreme Collagen | Spalovač Tuků s Kolageny" property="og:title"/><meta content="Výjimečný spalovač tuků s 6000 mg kolagenních peptidů. Podpora hubnutí, zpevnění pokožky, redukce vrásek a celulitidy. Vyrobeno v ČR." property="og:description"/><meta content="/user/documents/upload/mockup/Slim extreme Collagen.png" property="og:image"/><meta content="product" property="og:type"/>
 <script type="application/ld+json">{
   "@context": "https://schema.org/",
@@ -1014,16 +1022,14 @@
 </div>
 </div>
 </div>
-<div class="latky-grid latky-grid-2">
-<div class="odstavec2 has-img"><img alt="Jak funguje" class="obrazek-odstavec" src="https://www.golden-life.cz/user/documents/upload/produktove_stranky/extreme-slim-collagen-jak-funguje-1.jpg"/>
-<h4 class="barvaruzova">Jak funguje</h4>
-<p class="p-mobil">Slim Extreme Collagen pracuje ve dvou liniích současně. 6000 mg hydrolyzovaných kolagenních peptidů Verisol® a Peptiplus® pomáhá s tvorbou kolagenu, pevností pokožky a regenerací tkání, zatímco metabolicky aktivní komplex (HCA z garcinie, zelený čaj, synefrin, enzymy) podporuje termogenezi, kontrolu chuti k jídlu a lepší využití tuků jako zdroje energie. Kyselina hyaluronová udržuje hydrataci tkání a B-komplex s minerály zajišťuje, aby se živiny efektivně vstřebaly a tělo mělo energii i při redukčním režimu.</p>
+<section aria-labelledby="gl-collagen-overview-title" class="story-block gl-collagen-overview">
+<div class="story-block-image"><img alt="Žena drží dózu Slim Extreme Collagen" height="2000" src="https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg" width="2000"/></div>
+<div class="story-block-text">
+<h3 class="barvaruzova" id="gl-collagen-overview-title">Jak funguje Slim Extreme Collagen</h3>
+<p>Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu.</p>
+<p>Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.</p>
 </div>
-<div class="odstavec2 has-img gl-collagen-effects"><img alt="Žena drží dózu Slim Extreme Collagen" class="obrazek-odstavec gl-collagen-effects-photo" height="2000" src="https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg" width="2000"/>
-<h4 class="barvaruzova">Účinky</h4>
-<p class="p-mobil">Slim Extreme Collagen podporuje hubnutí, spalování i pocit sytosti, a zároveň dodává benefity pro pleť, vlasy, nehty a klouby díky vysokému obsahu bioaktivních kolagenů a hyaluronové kyseliny. Zelený čaj, synefrin a enzymy pomáhají s trávením, odvodněním a rychlejším metabolismem, B-komplex s minerály snižuje únavu a udržuje stabilní energii během dne.</p>
-</div>
-</div>
+</section>
 </div>
 <div class="product-container">
 <h3 class="barvaruzova text-center">Co vám přinese</h3>
@@ -1383,38 +1389,4 @@
     if (syncHeroImg()) mo.disconnect();
   });
   mo.observe(document.documentElement, { childList: true, subtree: true });
-})();</script></main><aside class="short-host" style="max-width:420px;margin:40px auto">
-<div data-gl-layout="woman-hormonal-balance-short" data-gl-product="" data-gl-product-id="168" data-gl-theme="slim-extreme-collagen">
-<p class="maly-popis"><meta charset="utf-8"/><strong>Slim Extreme Collagen je silný a účinný spalovač tuků</strong> v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo. Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem. Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.</p>
-<div class="maly-ikony">
-<div><img alt="Podpora hubnutí" class="p-card-img ikona" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png"/>
-<div>Podpora hubnutí</div>
-</div>
-<div><img alt="Spalování tuků" class="p-card-img ikona" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png"/>
-<div>Spalování tuků</div>
-</div>
-<div><img alt="Redukce celulitidy" class="p-card-img ikona" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png"/>
-<div>Redukce celulitidy</div>
-</div>
-<div><img alt="Redukce vrásek" class="p-card-img ikona" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png"/>
-<div>Redukce vrásek</div>
-</div>
-<div><img alt="Vyrobeno v ČR" class="p-card-img ikona" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png"/>
-<div>Vyrobeno v ČR</div>
-</div>
-</div>
-<hr class="maly-hr"/>
-<div class="maly-produkty">
-<div class="maly-produkt">
-<div class="maly-produkt-nazev">Slim Extreme Collagen</div>
-<div class="maly-produkt-info"><!-- Hmotnost --> <span class="maly-hmotnost"> <img alt="hmotnost" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png"/> 240 g </span> <!-- Dávkování -->
-<div class="maly-davkovani"><span class="maly-radek"> <img alt="dávkování" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png"/> 8 g/2 odměrky rozmíchat do 300–400 ml vody, nebo do 1 l podle chuti </span> <!-- Výdrž balení --> <span class="maly-vydrz"> <img alt="čas" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png"/> jedno balení vydrží 30 dní </span>
-<div class="gl-collagen-scoop-note"><strong>Pozor!</strong> Produkt <strong>Slim Extreme Collagen v dóze</strong> je nyní v prodeji i s větší odměrkou. Prosíme, řiďte se následujícími pokyny:
-<div class="gl-collagen-scoop-row"><span class="maly-odmerka"> <img alt="Malá odměrka" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png"/> <strong>Malá odměrka</strong> </span> <br/> Standardní balení: doporučená denní dávka je <strong>2 odměrky (8 g)</strong>.</div>
-<div class="gl-collagen-scoop-row"><span class="maly-odmerka"> <img alt="Velká odměrka" src="https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png"/> <strong>Velká odměrka</strong> </span> <br/> U <strong>šarže L245382, EXP/LOT: 072028</strong> (větší odměrka) je doporučená denní dávka <strong>8 g (1 odměrka)</strong>.</div>
-</div>
-</div>
-</div>
-</div>
-</div></div>
-</aside></body></html>
+})();</script></main></body></html>

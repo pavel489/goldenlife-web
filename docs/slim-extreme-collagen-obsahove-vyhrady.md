@@ -1,5 +1,10 @@
 # Obsahové výhrady – interní návrh, ne schválení k publikaci
 
+## Aktuální sloučený blok
+
+Dva původní odstavce „Jak funguje“ a „Účinky“ jsou nahrazeny jedním kratším přehledem. Původní sliby „podporuje termogenezi, kontrolu chuti k jídlu“, „odvodnění“ a „rychlejší metabolismus“ se do nového shrnutí nepřenášejí. Pro tyto účinky konkrétních látek není v produktovém souboru ověřená alternativa. Zachovaná zdravotní věta nového bloku přesně odpovídá produktovému souboru: **„Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.“** Věta jmenuje konkrétní vitaminy. Formulace „Je navržený jako součást redukčního režimu a každodenní péče o krásu“ vyjadřuje zaměření, nikoli garantované hubnutí nebo léčbu. Ostatní historické výhrady níže zůstávají pro nezměněné části produktového popisu. Seznam původních odstavců níže je auditní historie, nikoli aktuální text nového bloku.
+
+
 Toto je technická migrace vzhledu, nikoli nový schválený text. Původní text byl zachován beze změn. Nadpis „Schválené zdravotní claims (EFSA)“ ve strojově převzatém produktovém podkladu sám o sobě není právní ověření. Soubor `brand/NOT-ALLOWED.md` nebyl v dostupném brand adresáři nalezen.
 
 ## Konkrétní výhrady

@@ -84,9 +84,17 @@
   --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
 }
 
-/* Exact same-SKU photo: preserve the full square, face and jar on every viewport. */
-#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .latky-grid-2 .gl-collagen-effects-photo{height:auto;aspect-ratio:1 / 1;object-fit:contain}
-#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .latky-grid-2 .gl-collagen-effects::after{display:none}
+/* Merged overview: existing shared story layout, scoped same-SKU adjustments. */
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview{grid-template-columns:repeat(2,minmax(0,1fr));gap:0;margin-top:24px;background:var(--gl-color-bg-light);border:1px solid var(--gl-color-bg-light);border-radius:var(--gl-radius-lg);overflow:hidden}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview>div{min-width:0}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-image{align-self:center}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-image img{width:100%;height:auto;min-height:0;aspect-ratio:1 / 1;object-fit:contain;border-radius:0;display:block}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-text{padding:clamp(24px,3vw,44px);justify-content:center;text-align:left;box-sizing:border-box}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview h3{font-size:clamp(25px,2.5vw,32px);line-height:1.2;text-align:left;margin:0 0 20px;overflow-wrap:break-word}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview p{font-size:16px;line-height:1.65;text-align:left;margin:0 0 16px}
+#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview p:last-child{margin-bottom:0}
+@media(max-width:767px){#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview{grid-template-columns:minmax(0,1fr)}#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview .story-block-text{padding:24px}#special-popis:where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-overview h3{font-size:26px;margin-bottom:16px}}
+
 /* Existing scoop notice, with its inline palette moved into this theme. */
 :where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-scoop-note{background:var(--gl-color-bg-light);border-radius:10px;padding:15px 18px;margin-top:15px}
 :where([data-gl-theme="slim-extreme-collagen"]) .gl-collagen-scoop-row{margin-top:12px}

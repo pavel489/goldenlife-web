@@ -1,0 +1,443 @@
+{
+  "build": {
+    "base": "9bffda8d442d7bf81962734028f05b6d4e3826ed",
+    "long": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+    "short": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+    "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css",
+    "shared_css": "user/documents/upload/css/golden-life-produkt.css",
+    "shared_css_unchanged": true,
+    "short_description_unchanged": true,
+    "tables_and_scripts_preserved": true,
+    "outside_target_block_byte_identical": true,
+    "heading": "Jak funguje Slim Extreme Collagen",
+    "summary": "Jak funguje Slim Extreme Collagen Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu. Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+    "photo": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+    "shop_saved": false
+  },
+  "browser": {
+    "widths": [
+      {
+        "width": 320,
+        "scroll": 305,
+        "block": [
+          251,
+          251
+        ],
+        "image": [
+          251,
+          251,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 27,
+          "y": 1379.65625,
+          "right": 278,
+          "bottom": 1630.65625
+        },
+        "text": {
+          "x": 27,
+          "y": 1630.65625,
+          "right": 278,
+          "bottom": 2147.296875
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 360,
+        "scroll": 345,
+        "block": [
+          291,
+          291
+        ],
+        "image": [
+          291,
+          291,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 27,
+          "y": 1289.875,
+          "right": 318,
+          "bottom": 1580.875
+        },
+        "text": {
+          "x": 27,
+          "y": 1580.875,
+          "right": 318,
+          "bottom": 2039.9375
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 390,
+        "scroll": 375,
+        "block": [
+          321,
+          321
+        ],
+        "image": [
+          321,
+          321,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 27,
+          "y": 1263.484375,
+          "right": 348,
+          "bottom": 1584.484375
+        },
+        "text": {
+          "x": 27,
+          "y": 1584.484375,
+          "right": 348,
+          "bottom": 1990.765625
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 600,
+        "scroll": 585,
+        "block": [
+          531,
+          531
+        ],
+        "image": [
+          531,
+          531,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 27,
+          "y": 115.984375,
+          "right": 558,
+          "bottom": 646.984375
+        },
+        "text": {
+          "x": 27,
+          "y": 646.984375,
+          "right": 558,
+          "bottom": 916.515625
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 767,
+        "scroll": 752,
+        "block": [
+          698,
+          698
+        ],
+        "image": [
+          698,
+          698,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 27,
+          "y": 199.234375,
+          "right": 725,
+          "bottom": 897.234375
+        },
+        "text": {
+          "x": 27,
+          "y": 897.234375,
+          "right": 725,
+          "bottom": 1140.375
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 768,
+        "scroll": 753,
+        "block": [
+          751,
+          751
+        ],
+        "image": [
+          376,
+          376,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 1,
+          "y": 244.453125,
+          "right": 376.5,
+          "bottom": 619.953125
+        },
+        "text": {
+          "x": 376.5,
+          "y": 241.453125,
+          "right": 752,
+          "bottom": 622.96875
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 1024,
+        "scroll": 1009,
+        "block": [
+          1007,
+          1007
+        ],
+        "image": [
+          504,
+          504,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 1,
+          "y": -183.453125,
+          "right": 504.5,
+          "bottom": 320.046875
+        },
+        "text": {
+          "x": 504.5,
+          "y": -183.453125,
+          "right": 1008,
+          "bottom": 320.046875
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 1440,
+        "scroll": 1425,
+        "block": [
+          1098,
+          1098
+        ],
+        "image": [
+          549,
+          549,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 163.5,
+          "y": -182.84375,
+          "right": 712.5,
+          "bottom": 366.15625
+        },
+        "text": {
+          "x": 712.5,
+          "y": -182.84375,
+          "right": 1261.5,
+          "bottom": 366.15625
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      },
+      {
+        "width": 390,
+        "scroll": 375,
+        "block": [
+          321,
+          321
+        ],
+        "image": [
+          321,
+          321,
+          2000,
+          2000
+        ],
+        "fit": "contain",
+        "pic": {
+          "x": 27,
+          "y": 440.484375,
+          "right": 348,
+          "bottom": 761.484375
+        },
+        "text": {
+          "x": 27,
+          "y": 761.484375,
+          "right": 348,
+          "bottom": 1167.765625
+        },
+        "headings": 1,
+        "paragraphs": 2,
+        "broken": [],
+        "color": "rgb(227, 18, 126)"
+      }
+    ],
+    "native": [
+      {
+        "layout": {
+          "width": 390,
+          "scroll": 375,
+          "block": [
+            321,
+            321
+          ],
+          "image": [
+            321,
+            321,
+            2000,
+            2000
+          ],
+          "fit": "contain",
+          "pic": {
+            "x": 27,
+            "y": 5246.703125,
+            "right": 348,
+            "bottom": 5567.703125
+          },
+          "text": {
+            "x": 27,
+            "y": 5567.703125,
+            "right": 348,
+            "bottom": 5973.984375
+          },
+          "headings": 1,
+          "paragraphs": 2,
+          "broken": [
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=67d2baa0&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-4_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3935&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-2_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3914&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-3_ooooooo.png?ff=1&x=100&y=100&q=85&ts=69fa3926&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-8_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3961&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-6_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3952&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-9_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa398e&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-7_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa395a&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-5_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3944&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-1_freepik-use-the-product-from-img1-2825093742.png?ff=1&x=100&y=100&q=85&ts=69e87fa6&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_871683551_18117224285330765_5844929219215549421_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_879283136_18117008390330765_463943871767091823_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_870906284_18116931035330765_2098153862452869207_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_871252738_18116812475330765_8282090839571603629_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_863182106_18116384474330765_5023078982930878694_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_859780092_18115842566330765_8447298592153578722_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_857731218_18115583048330765_4202649330026266071_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_849773102_18115312703330765_2342639180494346370_n.jpg",
+            "https://www.golden-life.cz/user/icons/zasilkovna-1.svg",
+            "https://www.golden-life.cz/user/icons/ppl-10.svg",
+            "https://www.golden-life.cz/user/icons/gls-2-1.svg",
+            "https://www.golden-life.cz/user/icons/visa.svg",
+            "https://www.golden-life.cz/user/icons/master-3.svg",
+            "https://www.golden-life.cz/user/icons/gp.svg",
+            "https://www.golden-life.cz/user/icons/apple_pay_logo-3.svg",
+            "https://cdn.myshoptet.com/prj/dist/master/cms/img/common/logo/shoptetLogo.svg",
+            "https://bat.bing.net/action/0?ti=97189470&tm=gtm002&Ver=2&mid=f69576ac-0479-4def-a196-7f8d58715943&bo=2&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1440&sh=1000&sc=24&nwd=1&tl=Slim%20Extreme%20Collagen%20-%20Golden-life.cz&p=https%3A%2F%2Fwww.golden-life.cz%2Fextreme-slim-collagen%2F&r=&lt=1733&evt=pageLoad&sv=2&asc=D&cdb=AQAQ&rn=342944"
+          ],
+          "color": "rgb(227, 18, 126)"
+        },
+        "sync": {
+          "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+          "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+          "price": "1 350 Kč"
+        }
+      },
+      {
+        "layout": {
+          "width": 1440,
+          "scroll": 1425,
+          "block": [
+            1098,
+            1098
+          ],
+          "image": [
+            549,
+            549,
+            2000,
+            2000
+          ],
+          "fit": "contain",
+          "pic": {
+            "x": 163.5,
+            "y": 3130.5,
+            "right": 712.5,
+            "bottom": 3679.5
+          },
+          "text": {
+            "x": 712.5,
+            "y": 3130.5,
+            "right": 1261.5,
+            "bottom": 3679.5
+          },
+          "headings": 1,
+          "paragraphs": 2,
+          "broken": [
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=67d2baa0&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-4_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3935&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-2_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3914&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-3_ooooooo.png?ff=1&x=100&y=100&q=85&ts=69fa3926&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-8_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3961&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-6_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3952&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-9_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa398e&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-7_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa395a&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-5_slim-extreme-collagen.png?ff=1&x=100&y=100&q=85&ts=69fa3944&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/related/168-1_freepik-use-the-product-from-img1-2825093742.png?ff=1&x=100&y=100&q=85&ts=69e87fa6&sg=8dda0505",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_871683551_18117224285330765_5844929219215549421_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_879283136_18117008390330765_463943871767091823_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_870906284_18116931035330765_2098153862452869207_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_871252738_18116812475330765_8282090839571603629_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_863182106_18116384474330765_5023078982930878694_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_859780092_18115842566330765_8447298592153578722_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_857731218_18115583048330765_4202649330026266071_n.jpg",
+            "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/system/instagram/658_849773102_18115312703330765_2342639180494346370_n.jpg",
+            "https://www.golden-life.cz/user/icons/zasilkovna-1.svg",
+            "https://www.golden-life.cz/user/icons/ppl-10.svg",
+            "https://www.golden-life.cz/user/icons/gls-2-1.svg",
+            "https://www.golden-life.cz/user/icons/visa.svg",
+            "https://www.golden-life.cz/user/icons/master-3.svg",
+            "https://www.golden-life.cz/user/icons/gp.svg",
+            "https://www.golden-life.cz/user/icons/apple_pay_logo-3.svg",
+            "https://cdn.myshoptet.com/prj/dist/master/cms/img/common/logo/shoptetLogo.svg",
+            "https://bat.bing.net/action/0?ti=97189470&tm=gtm002&Ver=2&mid=f69576ac-0479-4def-a196-7f8d58715943&bo=2&gtm_tag_source=1&pi=918639831&lg=en-US&sw=1440&sh=1000&sc=24&nwd=1&tl=Slim%20Extreme%20Collagen%20-%20Golden-life.cz&p=https%3A%2F%2Fwww.golden-life.cz%2Fextreme-slim-collagen%2F&r=&lt=1733&evt=pageLoad&sv=2&asc=D&cdb=AQAQ&rn=342944"
+          ],
+          "color": "rgb(227, 18, 126)"
+        },
+        "sync": {
+          "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+          "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/168_slim-extreme-collagen.png?ff=1&x=1024&y=1024&q=85&ts=67d2baa0&sg=38cb01fe",
+          "price": "1 350 Kč"
+        }
+      }
+    ],
+    "shop_saved": false,
+    "test_method": "Temporary local response overrides with real shop CSS/images; full delivered HTML scripts execute normally. No CMS write.",
+    "standalone_errors": [],
+    "dialog_open_close_mobile_desktop": true,
+    "native_page_errors": [
+      "Failed to fetch",
+      "Failed to fetch"
+    ],
+    "passed": true
+  }
+}
