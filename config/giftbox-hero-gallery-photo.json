@@ -1,0 +1,38 @@
+{
+  "source": "Native gallery of the matching gift box",
+  "photo_index": 6,
+  "order": "DOM order of unique native thumbnail href photographs; cloned slides and duplicate image sizes ignored",
+  "does_not_follow_selected_slide": true,
+  "cta_photo": "unchanged native main photo",
+  "packaging_photo": "unchanged second gallery photo",
+  "standalone_fallback": "Verified sixth-photo snapshot of the same gift box",
+  "missing_sixth_or_wrong_native_product": "Hide intro image; never substitute main image or another product",
+  "products": {
+    "beauty": {
+      "id": "656",
+      "url": "https://www.golden-life.cz/darkovy-box-collagen-beauty/",
+      "verified_sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/656-1_collagen-beauty-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ad9bfc5&sg=38cb01fe"
+    },
+    "hormonal": {
+      "id": "668",
+      "url": "https://www.golden-life.cz/golden-life-darkovy-box-hormonal-balance/",
+      "verified_sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/668-6_hormonal-balance-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ada33fe&sg=38cb01fe"
+    },
+    "longevity": {
+      "id": "662",
+      "url": "https://www.golden-life.cz/golden-life-darkovy-box-longevity/",
+      "verified_sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/662-8_darkovy-box-longevity.png?ff=1&x=1024&y=1024&q=85&ts=6ae9d355&sg=38cb01fe"
+    },
+    "slim": {
+      "id": "659",
+      "url": "https://www.golden-life.cz/golden-life-darkovy-box-collagen-slim/",
+      "verified_sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/659-3_collagen-slim-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ad74f14&sg=38cb01fe"
+    },
+    "ufirst": {
+      "id": "665",
+      "url": "https://www.golden-life.cz/ufirst-darkovy-box/",
+      "verified_sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/665-6_ufirst-gift-box.png?ff=1&x=1024&y=1024&q=85&ts=6ad0d128&sg=38cb01fe"
+    }
+  },
+  "live_shop_deployed": false
+}

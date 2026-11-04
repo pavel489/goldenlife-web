@@ -1,4 +1,4 @@
-/* Mirror this box's rendered intro image, never an unrelated product. */
+/* CTA retains the matching native main image; the intro independently uses photo six. */
 (()=>{
   'use strict';
   const root=document.querySelector('#special-popis.gl-box-refined');
@@ -15,7 +15,9 @@
   }
   function sync(){
     queued=false;
-    const next=root.querySelector('.heroimg');
+    const form=document.getElementById('product-detail-form');
+    const identity=form&&form.querySelector('input[name="productId"]');
+    const next=form&&identity&&identity.value===(root.querySelector('.heroimg').dataset.glGalleryProductId||root.dataset.glProductId)?form.querySelector('#main-slider-slide01 img, .p-main-image img, .p-image img'):null;
     if(next!==hero){
       if(hero){hero.removeEventListener('load',schedule);hero.removeEventListener('error',hide);}
       hero=next;
@@ -31,12 +33,12 @@
       image.hidden=false;
     });
   }
-  function schedule(){if(!queued){queued=true;requestAnimationFrame(sync);}}
+  function schedule(){if(!queued){queued=true;queueMicrotask(sync);}}
   targets.forEach(image=>{image.dataset.glCtaImage='';image.addEventListener('error',()=>{image.hidden=true;});});
   const observer=new MutationObserver(records=>{
-    if(records.some(record=>record.type==='childList'?[...record.addedNodes,...record.removedNodes].some(node=>node.nodeType===1&&(node.matches('.heroimg')||node.querySelector('.heroimg'))):record.target===hero||record.target.matches('.heroimg')))schedule();
+    if(records.some(record=>!root.contains(record.target)))schedule();
   });
-  observer.observe(root,{subtree:true,childList:true,attributes:true,attributeFilter:['src','srcset','sizes','data-src','data-srcset']});
+  observer.observe(document.body,{subtree:true,childList:true,attributes:true,attributeFilter:['src','srcset','sizes','data-src','data-srcset','value']});
   window.addEventListener('resize',schedule,{passive:true});
   schedule();
   window.addEventListener('pagehide',()=>{observer.disconnect();window.removeEventListener('resize',schedule);if(hero){hero.removeEventListener('load',schedule);hero.removeEventListener('error',hide);}},{once:true});

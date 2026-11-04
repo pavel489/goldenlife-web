@@ -1,0 +1,261 @@
+{
+  "source_head": "726f53522fc46501d409a785ad5e1a89d604ac88",
+  "html_files": 10,
+  "boxes": 5,
+  "viewport_cases": 15,
+  "preservation": [
+    {
+      "path": "shoptet/beauty.html",
+      "box": "beauty",
+      "product_id": "656",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/656-1_collagen-beauty-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ad9bfc5&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "shoptet/hormonal.html",
+      "box": "hormonal",
+      "product_id": "668",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/668-6_hormonal-balance-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ada33fe&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "shoptet/longevity.html",
+      "box": "longevity",
+      "product_id": "662",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/662-8_darkovy-box-longevity.png?ff=1&x=1024&y=1024&q=85&ts=6ae9d355&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "shoptet/slim.html",
+      "box": "slim",
+      "product_id": "659",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/659-3_collagen-slim-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ad74f14&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "shoptet/ufirst.html",
+      "box": "ufirst",
+      "product_id": "665",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/665-6_ufirst-gift-box.png?ff=1&x=1024&y=1024&q=85&ts=6ad0d128&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html",
+      "box": "beauty",
+      "product_id": "656",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/656-1_collagen-beauty-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ad9bfc5&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "box": "hormonal",
+      "product_id": "668",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/668-6_hormonal-balance-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ada33fe&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html",
+      "box": "longevity",
+      "product_id": "662",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/662-8_darkovy-box-longevity.png?ff=1&x=1024&y=1024&q=85&ts=6ae9d355&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html",
+      "box": "slim",
+      "product_id": "659",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/659-3_collagen-slim-gift-box-by-golden-life.png?ff=1&x=1024&y=1024&q=85&ts=6ad74f14&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html",
+      "box": "ufirst",
+      "product_id": "665",
+      "sixth_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/665-6_ufirst-gift-box.png?ff=1&x=1024&y=1024&q=85&ts=6ad0d128&sg=38cb01fe",
+      "changes": 3,
+      "outside_target_ranges_byte_identical": true,
+      "original_benefits_packaging_and_reader_identical": true
+    }
+  ],
+  "chromium_results": [
+    {
+      "box": "beauty",
+      "width": 1440,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "beauty",
+      "width": 390,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "beauty",
+      "selected_photo_does_not_change_slot": true,
+      "duplicate_thumbnail_ignored": true,
+      "missing_sixth_hides_instead_of_first": true,
+      "wrong_product_rejected": true,
+      "page_errors": []
+    },
+    {
+      "box": "hormonal",
+      "width": 1440,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "hormonal",
+      "width": 390,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "hormonal",
+      "width": 320,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "hormonal",
+      "selected_photo_does_not_change_slot": true,
+      "duplicate_thumbnail_ignored": true,
+      "missing_sixth_hides_instead_of_first": true,
+      "wrong_product_rejected": true,
+      "page_errors": []
+    },
+    {
+      "box": "longevity",
+      "width": 1440,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "longevity",
+      "width": 390,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "longevity",
+      "width": 320,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "longevity",
+      "selected_photo_does_not_change_slot": true,
+      "duplicate_thumbnail_ignored": true,
+      "missing_sixth_hides_instead_of_first": true,
+      "wrong_product_rejected": true,
+      "page_errors": []
+    },
+    {
+      "box": "slim",
+      "width": 1440,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "slim",
+      "width": 390,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "slim",
+      "width": 320,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "slim",
+      "selected_photo_does_not_change_slot": true,
+      "duplicate_thumbnail_ignored": true,
+      "missing_sixth_hides_instead_of_first": true,
+      "wrong_product_rejected": true,
+      "page_errors": []
+    },
+    {
+      "box": "ufirst",
+      "width": 1440,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "ufirst",
+      "width": 390,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "sixth_loaded": true,
+      "six_pictograms": true,
+      "cta_main_preserved": true,
+      "packaging_second_preserved": true
+    },
+    {
+      "box": "ufirst",
+      "selected_photo_does_not_change_slot": true,
+      "duplicate_thumbnail_ignored": true,
+      "missing_sixth_hides_instead_of_first": true,
+      "wrong_product_rejected": true,
+      "page_errors": []
+    }
+  ],
+  "shop_deployed": false
+}
