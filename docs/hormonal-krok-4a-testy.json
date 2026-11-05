@@ -1,0 +1,776 @@
+{
+  "source_git_commit": "136b4626cd7aa14f78a87492a246e29c5601b74a",
+  "checked_at": "2026-11-05T15:53:59.067731+00:00",
+  "scope": "4A: first complete standalone Hormonal family, not completion of all phase 4",
+  "product_count": 3,
+  "HTML_fields": 6,
+  "products": [
+    {
+      "id": "644",
+      "title": "Woman Hormonal balance",
+      "long": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "short": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-woman-hormonal-balance.css",
+      "ingredient_dialogs": 6,
+      "tables": 1,
+      "table_cells": 33,
+      "source_substantive_p_li": 55,
+      "full_source_dialog_HTML_preserved": true,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe",
+      "current_photo_bytes_available": false,
+      "live_verified": false,
+      "common_framework_unchanged": true,
+      "source_provenance": {
+        "mode": "verified-public-archive-after-live-403",
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/644-woman-hormonal-balance.html",
+        "sha256": "3025d52aff5fe1026a14eb27e292ec3a1df970f62f431938fdb19a42bb56adb9",
+        "live_verified": false
+      },
+      "hashes": {
+        "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html": "2d66919c31f1cd910037d907f879bcd580353d4ce5b48abdd9d70d48dd5e8c5e",
+        "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html": "ab5fe96aa32f23c5d472f6b41f55bfc5574165be3c4858c84fbbd745e48c75bf",
+        "user/documents/upload/css/golden-life-barvy-woman-hormonal-balance.css": "f6e9d2384f49775ac24eaaaefea52e795d716263638254d30dc235956202c37e"
+      }
+    },
+    {
+      "id": "635",
+      "title": "Hormonal Balance noční GLP-1 drink",
+      "long": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "short": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+      "ingredient_dialogs": 9,
+      "tables": 2,
+      "table_cells": 66,
+      "source_substantive_p_li": 64,
+      "full_source_dialog_HTML_preserved": true,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_box-komplet-peptides.png?ff=1&x=1024&y=1024&q=85&ts=6ace0dbd&sg=38cb01fe",
+      "current_photo_bytes_available": false,
+      "live_verified": false,
+      "common_framework_unchanged": true,
+      "source_provenance": {
+        "mode": "verified-public-archive-after-live-403",
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/635-hormonal-balance-nocni-glp-1-drink.html",
+        "sha256": "a1b1a950217e74b63506c988ac83ba349b4fa5fda42db5a8e33486af89e1390d",
+        "live_verified": false
+      },
+      "hashes": {
+        "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html": "efc170319ac1d15caec4329c460d8f7e99ec5a23f21ab152f1a36369b669d142",
+        "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html": "9388e83cd4462cd649d74c8c6bbdc14ec0a63d1dae71b919135e2f0e683e5ffa",
+        "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css": "07e45ad1a5e0aff7a8d0434f4bbfef4fa97892a3ab631d19f3a1739cfd32707e"
+      }
+    },
+    {
+      "id": "641",
+      "title": "Hormonal Balance noční GLP-1 drink sáček",
+      "long": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "short": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+      "ingredient_dialogs": 9,
+      "tables": 2,
+      "table_cells": 66,
+      "source_substantive_p_li": 65,
+      "full_source_dialog_HTML_preserved": true,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/641-1_sacek-web-peptides-glp-1.png?ff=1&x=1024&y=1024&q=85&ts=6acdf044&sg=38cb01fe",
+      "current_photo_bytes_available": false,
+      "live_verified": false,
+      "common_framework_unchanged": true,
+      "source_provenance": {
+        "mode": "verified-public-archive-after-live-403",
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/641-hormonal-balance-nocni-glp-1-drink-sacek.html",
+        "sha256": "51ea3c4e7c3d276594b67dbd8d3793dab105c3ab3a47e6d6f2013303a49989a3",
+        "live_verified": false
+      },
+      "hashes": {
+        "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html": "efe73e349fe784ed8c0fdb5ce42a3306ac2b9aefb96a5abc0020cff3bf220730",
+        "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html": "10800465b4b2497cb97d6684a1dba85a5aedb72836ff7b3b9c4dc1bf96a94567",
+        "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css": "5de6c1b6a4bc9cecd35d66c743b50a266b7fc1e7b9de5dbab6390429d6e3b2bc"
+      }
+    }
+  ],
+  "common_framework_unchanged": true,
+  "tables_total": 5,
+  "table_cells_total": 165,
+  "unique_ingredient_dialogs": 24,
+  "substantive_p_li_total": 184,
+  "component_scenarios": 12,
+  "pointer_dialog_open_close_cases": 90,
+  "component_tests": {
+    "pass": true,
+    "scenarios": [
+      {
+        "id": "644",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -6091,
+              "w": 83.1875
+            },
+            {
+              "y": -6091,
+              "w": 83.203125
+            },
+            {
+              "y": -6091,
+              "w": 83.203125
+            },
+            {
+              "y": -6091,
+              "w": 83.203125
+            },
+            {
+              "y": -6091,
+              "w": 83.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 12,
+          "primary": "#761232",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "644",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -10216.5,
+              "w": 67.1875
+            },
+            {
+              "y": -10216.5,
+              "w": 67.203125
+            },
+            {
+              "y": -10216.5,
+              "w": 67.203125
+            },
+            {
+              "y": -10216.5,
+              "w": 67.203125
+            },
+            {
+              "y": -10216.5,
+              "w": 67.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 12,
+          "primary": "#761232",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "644",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -11724.5,
+              "w": 53.1875
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 12,
+          "primary": "#761232",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "635",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -6735,
+              "w": 81.59375
+            },
+            {
+              "y": -6735,
+              "w": 81.59375
+            },
+            {
+              "y": -6735,
+              "w": 81.609375
+            },
+            {
+              "y": -6735,
+              "w": 81.59375
+            },
+            {
+              "y": -6735,
+              "w": 81.59375
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 30,
+          "primary": "#761232",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "635",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -10540.5,
+              "w": 68
+            },
+            {
+              "y": -10540.5,
+              "w": 68
+            },
+            {
+              "y": -10540.5,
+              "w": 68
+            },
+            {
+              "y": -10540.5,
+              "w": 68
+            },
+            {
+              "y": -10540.5,
+              "w": 68
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 30,
+          "primary": "#761232",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "635",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -12363.5,
+              "w": 54
+            },
+            {
+              "y": -12363.5,
+              "w": 54
+            },
+            {
+              "y": -12363.5,
+              "w": 54
+            },
+            {
+              "y": -12363.5,
+              "w": 54
+            },
+            {
+              "y": -12363.5,
+              "w": 54
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 30,
+          "primary": "#761232",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "641",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -6791,
+              "w": 81.59375
+            },
+            {
+              "y": -6791,
+              "w": 81.59375
+            },
+            {
+              "y": -6791,
+              "w": 81.609375
+            },
+            {
+              "y": -6791,
+              "w": 81.59375
+            },
+            {
+              "y": -6791,
+              "w": 81.59375
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 30,
+          "primary": "#761232",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "641",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -10588.5,
+              "w": 68
+            },
+            {
+              "y": -10588.5,
+              "w": 68
+            },
+            {
+              "y": -10588.5,
+              "w": 68
+            },
+            {
+              "y": -10588.5,
+              "w": 68
+            },
+            {
+              "y": -10588.5,
+              "w": 68
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 30,
+          "primary": "#761232",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "641",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -12424.5,
+              "w": 54
+            },
+            {
+              "y": -12424.5,
+              "w": 54
+            },
+            {
+              "y": -12424.5,
+              "w": 54
+            },
+            {
+              "y": -12424.5,
+              "w": 54
+            },
+            {
+              "y": -12424.5,
+              "w": 54
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 30,
+          "primary": "#761232",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "644",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -6091,
+              "w": 83.1875
+            },
+            {
+              "y": -6091,
+              "w": 83.203125
+            },
+            {
+              "y": -6091,
+              "w": 83.203125
+            },
+            {
+              "y": -6091,
+              "w": 83.203125
+            },
+            {
+              "y": -6091,
+              "w": 83.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 12,
+          "primary": "#761232",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "644",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -10216.5,
+              "w": 67.1875
+            },
+            {
+              "y": -10216.5,
+              "w": 67.203125
+            },
+            {
+              "y": -10216.5,
+              "w": 67.203125
+            },
+            {
+              "y": -10216.5,
+              "w": 67.203125
+            },
+            {
+              "y": -10216.5,
+              "w": 67.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 12,
+          "primary": "#761232",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "644",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -11724.5,
+              "w": 53.1875
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            },
+            {
+              "y": -11724.5,
+              "w": 53.203125
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 12,
+          "primary": "#761232",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      }
+    ],
+    "javascript_errors": [],
+    "external_requests": [],
+    "repeated_variant_switching": true,
+    "gallery_pixel_tests": "Not performed; current native gallery/photo fetches blocked 403.",
+    "live_shop_test": "Not performed; current public page blocked 403."
+  },
+  "css_validation": {
+    "pass": true,
+    "parser": "tinycss2 1.5.1",
+    "errors": []
+  },
+  "child_tests_rerun_by_parent": {
+    "capsule_cases": 4,
+    "drink_cases": 8,
+    "includes_three_actual_no_javascript_cases": true
+  },
+  "preview_report": {
+    "file": "/root/workspace/research/css-audit-1793883385/step4a-hormonal/qa/hormonal-pracovni-nahled.html",
+    "bytes": 4787925,
+    "products": [
+      {
+        "id": "644",
+        "unavailable_image_occurrences": 19,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cukr-fialova_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/Faktanefraze.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/Jak funguje.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/ashvaganda uvod.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/shatavari.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/woman-hormonal-beach-yoga_web_896x1200.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe"
+        ]
+      },
+      {
+        "id": "635",
+        "unavailable_image_occurrences": 37,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/Jakfunguje.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Glukomannan.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Kontryhel.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-L-glycin.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Myo-inositol.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Nextida.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Schizandra.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-alfa-ketoglutarova.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-chrom.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-visen.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/peptidens-grapchic.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/stanekageisnumcer.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/ucinky.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cukr-fialova_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_box-komplet-peptides.png?ff=1&x=1024&y=1024&q=85&ts=6ace0dbd&sg=38cb01fe"
+        ]
+      },
+      {
+        "id": "641",
+        "unavailable_image_occurrences": 37,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/Jakfunguje.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Glukomannan.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Kontryhel.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-L-glycin.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Myo-inositol.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Nextida.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Schizandra.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-alfa-ketoglutarova.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-chrom.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-visen.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/peptidens-grapchic.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/stanekageisnumcer.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/ucinky.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cukr-fialova_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/641-1_sacek-web-peptides-glp-1.png?ff=1&x=1024&y=1024&q=85&ts=6acdf044&sg=38cb01fe"
+        ]
+      }
+    ],
+    "unique_unavailable_dependencies": [
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/Jakfunguje.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Glukomannan.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Kontryhel.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-L-glycin.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Myo-inositol.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Nextida.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-Schizandra.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-alfa-ketoglutarova.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-chrom.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/aktivnilatky/aktivnilatky-visen.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/peptidens-grapchic.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/stanekageisnumcer.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/peptidesglp1womanbalancedarkcherry/ucinky.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-fialova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cukr-fialova_1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-fialova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-fialova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-fialova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-fialova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/Faktanefraze.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/Jak funguje.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/ashvaganda uvod.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/shatavari.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/woman-hormonal-beach-yoga_web_896x1200.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_box-komplet-peptides.png?ff=1&x=1024&y=1024&q=85&ts=6ace0dbd&sg=38cb01fe",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/641-1_sacek-web-peptides-glp-1.png?ff=1&x=1024&y=1024&q=85&ts=6acdf044&sg=38cb01fe",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/644-1_womanbalance1.png?ff=1&x=1024&y=1024&q=85&ts=6abfc83e&sg=38cb01fe"
+    ],
+    "unavailable_assets_are_not_fake_successes": true,
+    "shop_live_verified": false,
+    "preview_only_differences": [
+      "No native gallery or purchase host; photo synchronizer removed from preview only.",
+      "Only real available cached/Git assets embedded. Missing images explicitly marked and not substituted.",
+      "Standalone narrow short-description host, not a verified current shop-sidebar rendering.",
+      "All network and purchase operations disabled."
+    ]
+  },
+  "screenshot_verification": [
+    {
+      "id": "644",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 3198,
+      "file": "/root/workspace/research/css-audit-1793883385/step4a-hormonal/qa/644-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "644",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1222,
+      "file": "/root/workspace/research/css-audit-1793883385/step4a-hormonal/qa/644-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "635",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 2348,
+      "file": "/root/workspace/research/css-audit-1793883385/step4a-hormonal/qa/635-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "635",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1351,
+      "file": "/root/workspace/research/css-audit-1793883385/step4a-hormonal/qa/635-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "641",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 2339,
+      "file": "/root/workspace/research/css-audit-1793883385/step4a-hormonal/qa/641-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "641",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1330,
+      "file": "/root/workspace/research/css-audit-1793883385/step4a-hormonal/qa/641-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    }
+  ],
+  "complete_visual_QA": false,
+  "full_shop_runtime_verified": false,
+  "current_native_gallery_pixel_tests_verified": false,
+  "last_public_recheck": "HTTP403 Access temporarily blocked after child completion, also confirmed before work with requests and actual browser",
+  "shop_saved": false,
+  "public_CSS_uploaded": false,
+  "claims_approved": false,
+  "phase_4_complete": false,
+  "syntax_validation": {
+    "css": {
+      "pass": true,
+      "parser": "tinycss2 1.5.1",
+      "errors": []
+    },
+    "js": {
+      "pass": true,
+      "validator": "Node vm.Script",
+      "script_count": 6
+    }
+  }
+}

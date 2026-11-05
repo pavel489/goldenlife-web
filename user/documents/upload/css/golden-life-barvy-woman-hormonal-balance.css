@@ -84,3 +84,29 @@
   --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
   --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
 }
+
+/* ID644 only: complete inherited story and safe table/short hosts. Original theme prefix unchanged. */
+/* Authentic previously cached Google Material Symbols source; family namespace prevents other-product overrides. */
+@font-face{font-family:"GL Woman Hormonal644 Symbols";font-style:normal;font-weight:400;src:url("https://fonts.gstatic.com/s/materialsymbolsoutlined/v383/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf") format("truetype");font-display:block}
+#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .material-symbols-outlined{font-family:"GL Woman Hormonal644 Symbols"!important;font-feature-settings:"liga"}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .product-container.text-justify>h2{text-align:left}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"]{--gl-644-note-bg:#fff7e5;--gl-644-note-text:#543d15;--gl-644-story-bg:var(--gl-color-bg-light)}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .gl-644-draft-notice{background:var(--gl-644-note-bg);color:var(--gl-644-note-text);border:1px solid currentColor;border-radius:12px;margin:16px auto;padding:12px 16px}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .gl-644-table-scroll{overflow-x:auto;max-width:100%;min-width:0}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] table.tabulka{display:table;width:100%;table-layout:fixed}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] table.tabulka th,[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] table.tabulka td{overflow-wrap:anywhere;white-space:normal}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;align-items:start}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .maly-ikony>div{min-width:0;overflow-wrap:anywhere;line-height:1.35}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .maly-ikony .p-card-img{max-width:100%;object-fit:contain}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .maly-produkt-info span{min-width:0;max-width:100%;white-space:normal;overflow-wrap:anywhere}
+@media(max-width:767px){
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .maly-popis{text-align:left}
+#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .story-block{display:grid;grid-template-columns:minmax(0,1fr);gap:0}
+#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .story-block-image,#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .story-block-text{grid-area:auto;min-width:0}
+#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .story-block-text{background:var(--gl-644-story-bg);color:var(--gl-color-text-muted);padding:20px;border-radius:0 0 24px 24px}
+#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .story-block-text h3{color:var(--gl-color-primary)}
+#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .story-block-text>p{display:block}
+#special-popis[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .cta-text>.cta-meta{display:block;grid-row:auto;padding:8px 14px;margin:0;color:var(--gl-color-text-muted)}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .maly-ikony>div{font-size:10px}
+[data-gl-theme="woman-hormonal-balance"][data-gl-product-id="644"] .maly-ikony .p-card-img{width:36px;height:36px}
+}
