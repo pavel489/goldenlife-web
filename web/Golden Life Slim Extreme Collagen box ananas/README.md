@@ -1,27 +1,32 @@
-# Slim Extreme Collagen box s příchutí ananasu – aktuální sdílené CSS
+# Slim Extreme Collagen box ananas – aktuální šablona Activator
 
-Pracovní návrh pro původní produkt **383**, 30 sáčků / 240 g. Nejde o dózu (168), mango variantu ani dárkový box s více produkty.
+Pracovní návrh pro přesné SKU **383**, box s 30 sáčky / 240 g, ne dóza 168 ani dárkový set. Referencí této opravy je uživatelem výslovně dodaná aktuální veřejná stránka https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/ a její skutečné HTML, ne pouze sdílený CSS soubor.
 
-## Soubory
+## Co je nově podle reference
+- Úvodní produktový banner s fakty o ananasovém boxu, denní dávkou a otevíracím blokem „Co je uvnitř“.
+- Dvě původní vysvětlující karty; na mobilu úvod i každá z karet mají funkční „Zobrazit více / méně“ se stavem ARIA, na desktopu plný text.
+- Šest karet aktivních látek se stručným úvodem a samostatnými otevíracími detaily. Plné původní texty všech šesti látek byly zachovány v detailech, ne nahrazeny dávkováním.
+- Blok častých otázek s údaji o tomto konkrétním balení.
+- CTA se stejnou strukturou jako reference a odkazem na skutečný nákupní formulář nahoře. Starý mockup nahrazen skutečnou hlavní fotografií z galerie produktu; hero i CTA se synchronizují s nativní galerií pouze při productId 383. Ověřená fotka téhož SKU slouží jako fallback, žádná fotografie Activatoru se nepřenáší.
+- Stejně jako aktuální reference neobsahuje CTA pevně zapsanou cenu a „Skladem“, ale odkazuje na aktuální nákupní blok. Změna se netýká cenových dat e-shopu ani nákupní logiky.
+- Odstraněna cizí/stará metadata Mango/LactoSpore/Aquamin a nedoložené vložené JSON-LD hodnocení ze starého popisu. Systémová SEO pole ani veřejný e-shop se neměnily.
+
+## Co zůstalo
+Původní věcné odstavce, význam sdělení, dvě vysvětlující karty, vlastní piktogramy a všechny tabulky složení ananasového boxu. Každý původní obsahový odstavec mimo nahrazenou CTA byl programově dohledán v novém HTML; tabulky jsou bajtově totožné. Krátký popis se v této opravě neměnil. Tvrzení o účincích tím nejsou právně schválena; předchozí oddělené obsahové výhrady zůstávají relevantní kromě již odstraněných metadat.
+
+Společný golden-life-produkt.css zůstává beze změny. Vlastní barevný model zůstává růžový; odstraněna pouze stará výjimka s ananasovým pozadím CTA, aby CTA odpovídalo aktuální referenci. Jediný malý STYLE blok a přesně dva importy. Žádné berberinové složení, fialová paleta nebo údaje o tobolkách v ananasové stránce.
+
+## Soubory a nasazení
 - Dlouhý popis: `Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html`.
-- Krátký popis: `maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html`.
-- Barevné CSS: `../../user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css`.
-- Společné existující CSS: `/user/documents/upload/css/golden-life-produkt.css` – beze změny.
-- Testy: `../../docs/slim-extreme-collagen-box-ananas-css-testy.json`.
-- Obsahové výhrady: `../../docs/slim-extreme-collagen-box-ananas-obsahove-vyhrady.md`.
+- Krátký popis: `maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html`, v této opravě nezměněný.
+- Aktualizované téma: `../../user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css`.
+- Kontroly: `../../docs/slim-extreme-collagen-box-ananas-css-testy.json`.
+- Náhled: `../../nahledy/slim-extreme-collagen-box-ananas-desktop.jpg`, mobilní CTA: `../../nahledy/slim-extreme-collagen-box-ananas-cta-mobil.png`.
 
-Každý popis obsahuje jediný malý STYLE blok a přesně dva importy: společné rozložení a vlastní barevné téma. Původní vložené rozvrhové CSS bylo odstraněno, nikoli překryto dalším importem. Využívá připravené rozložení Woman Hormonal Balance, ale samostatný identifikátor produktu a barevné téma. Barvy se nedeklarují na globálním :root. Zachován původní ananasový obrázek pozadí CTA s ověřenou absolutní URL. Třísloupcová tabulka používá existující opt-in marker.
+**Toto je Git dodávka, ne živé uložení do Shoptetu.** Pro nasazení této verze aktualizuj vlastní barevné CSS a nahraď celý dlouhý popis. Společné CSS ani krátký popis kvůli této opravě není třeba měnit. Po importu ověř veřejnou stránku; dočasný testovací přepis odpovědi není nasazení.
 
-## Zachování obsahu
-Zdroj tvoří aktuální veřejný dlouhý a krátký popis konkrétního SKU. Veškeré vlastní textové uzly, tabulkové buňky, atributy obrázků a oba původní skripty jsou zachovány. Vynechán jen vnější nadpis Shoptet šablony „Detailní popis produktu“. Žádné převzetí složení ani textů z dózy. Obsahové nesrovnalosti nejsou vydávány za schválený copywriting.
+## Provedené testy
+Chromium s kompletní skutečnou stránkou e-shopu a dočasným same-origin přepisem dlouhého popisu/tématu; původní shop skripty i nové bootstrapy se provedly při HTML načtení. Šířky 320/390/768/1024/1440 px a návraty desktop–mobil. Bez přetékání a oříznutých tabulkových textů, všechny obrázky načteny. Otevření/zavření všech šesti ingrediencí a bannerového detailu skutečným klikem na desktopu a mobilu. Tři mobilní více/méně přepínače ověřeny v obou stavech. Galerie synchronizována se dvěma skutečnými načtenými snímky téhož produktu; záměna nativního ID za jiný produkt vede na vlastní fallback; odebrání a opožděné vrácení nativních obrázků ověřeno. Nákupní odkaz otestován bez odeslání košíku. Žádné JavaScriptové chyby při finálním průchodu. Prezentanční widgety skryty pouze v testovací záložce.
 
-## Skutečné testování
-Chromium s reálnou kompletní stránkou e-shopu a dočasně přepsanou odpovědí pouze pro daný produkt; CSS pochází ze současného veřejného společného souboru a připraveného nového tématu. Šířky 320, 390, 768, 1024 a 1440 px, včetně návratu desktop–mobil. Bez vodorovného přetečení, bez textu oříznutého buňkami tabulky, všech 30 obrázků načteno. Zachováno všech 96 buněk; nativní a CTA cena se shodují. Samostatně dekódováno ananasové pozadí. Původní skripty se provedly při skutečném HTML načtení, ne dodatečnou simulací.
-
-Globální skript e-shopu přesouvá úvodní `.maly-popis` na konec `.p-short-description`; celý odstavec zůstává viditelný. Náhled krátkého popisu proto zachycuje celý skutečný host, ne pouze obal s ikonami. Cookie, chat a plovoucí recenzní záložky skryty pouze v testovací záložce. Neproběhl nákup ani odeslání formuláře. Zobrazení mobilu i desktopu vizuálně zkontrolováno.
-
-## Nasazení
-Toto je Git dodávka, **ne uložení do živého Shoptetu**. Společný CSS soubor je na webu již dostupný a po normalizaci konců řádků odpovídá aktuálnímu Git souboru. Nové barevné CSS na veřejné cílové URL zatím chybí: nejdřív je nutné nahrát `golden-life-barvy-slim-extreme-collagen-box-ananas.css` do `/user/documents/upload/css/`, poté importovat oba celé popisy. Nestačí vložit pouze HTML bez nového tématu. Před živým nasazením vyřešit oddělené obsahové výhrady; po importu nezávisle zkontrolovat veřejný produkt.
-
-## Zdroje a výroba
-Veřejná stránka https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/, aktuální Git main, veřejný společný CSS, tokeny připraveného tématu stejné řady, `brand/RULES.md`, `brand/golden-life/visual-identity.md` a `brand/product/slim-extreme-collagen-box-s-prichuti-ananasu/info.md`. Soubor brand/NOT-ALLOWED.md nebyl dostupný; nepředstíráme jeho kontrolu. Model GPT-6.1-sol; Python/BeautifulSoup, Chromium/Playwright. Žádná placená obrazová generace; cena provozu jazykového modelu není dostupná.
+## Výroba
+Zdroje: výslovně dodaná veřejná referenční stránka Activator, současná veřejná stránka cílového SKU, aktuální Git main, vlastní tabulky a produktový soubor ananasového boxu a brand/RULES.md. Model GPT-6.1-sol; Python/BeautifulSoup a Chromium/Playwright. Bez placené obrazové generace; cenu provozu jazykového modelu nemám k dispozici. Náhledy jsou skutečné snímky renderu, nikoli generované produktové fotografie.

@@ -1,257 +1,172 @@
 {
   "build": {
-    "long": {
-      "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
-      "all_text_nodes_unchanged": true,
-      "script_bytes_unchanged": true,
-      "all_table_cells_unchanged": true,
-      "image_attributes_unchanged": true,
-      "own_imports": 2
-    },
-    "short": {
-      "path": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
-      "all_text_nodes_unchanged": true,
-      "script_bytes_unchanged": true,
-      "all_table_cells_unchanged": true,
-      "image_attributes_unchanged": true,
-      "own_imports": 2
-    },
-    "product_id": "383",
-    "public_url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+    "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
     "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+    "main_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+    "second_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-3_slim-extreme-collagen-box-s-prichuti-ananasu.png?ff=1&x=1024&y=1024&q=85&ts=69fa3b73&sg=38cb01fe",
+    "ingredients": [
+      {
+        "title": "Garcinia cambogia",
+        "full": "Je tropická rostlina pocházející z Asie, která se po staletí používá ke kontrole hmotnosti a hladu. Klíčovou aktivní látkou je kyselina hydroxycitronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje spalování tuků.",
+        "id": "collagen-box-lm-0"
+      },
+      {
+        "title": "Kyselina hyaluronová",
+        "full": "Látka, která se přirozeně nachází v lidském těle. Hydratuje měkké tkáně, vyživuje pokožku a podporuje její pružnost. Pomáhá regeneraci a omlazení pokožky i pohyblivosti kloubů.",
+        "id": "collagen-box-lm-1"
+      },
+      {
+        "title": "Minerály a enzymy",
+        "full": "Bromelain a papain jsou enzymy z ananasu a papaji. Pozitivně ovlivňují trávení a rozklad bílkovin. Obsažený zinek podporuje buněčné dělení a normální metabolismus živin.",
+        "id": "collagen-box-lm-2"
+      },
+      {
+        "title": "Komplex vitamínů B",
+        "full": "Vitamíny B jsou důležité pro energetický metabolismus a nervový systém. Pomáhají snižovat únavu, podporují stav pokožky a podílejí se na tvorbě DNA a buněčném dělení.",
+        "id": "collagen-box-lm-3"
+      },
+      {
+        "title": "Vitamíny C a E",
+        "full": "Vitamín C podporuje tvorbu nového kolagenu a imunitní systém. Vitamín E je silný antioxidant, který chrání buňky před volnými radikály.",
+        "id": "collagen-box-lm-4"
+      },
+      {
+        "title": "Zelený čaj",
+        "full": "Obsahuje antioxidanty, podporuje metabolismus a spalování kalorií. Přispívá k vitalitě a denní produktivitě.",
+        "id": "collagen-box-lm-5"
+      }
+    ],
+    "all_original_substantive_paragraphs_retained": true,
+    "tables_byte_identical": true,
+    "style_imports": 2,
+    "reference_url": "https://www.golden-life.cz/slim-glp-1-activator-s-berberinem/",
     "shared_css_unchanged": true,
-    "live_shared_css_matches_prepared_after_newline_normalization": true,
-    "public_theme_status_before": 404,
+    "short_description_unchanged": true,
+    "new_template_banner_dialogs_faq_mobile_controls": true,
+    "old_metadata_and_stale_fixed_cta_price_removed": true,
     "shop_deployed": false
   },
   "browser": {
-    "tests": [
+    "viewports": [
       {
         "width": 1440,
+        "overflow": false,
         "docOverflow": false,
-        "root": {
-          "x": 0,
-          "y": 2051,
-          "w": 1425,
-          "h": 5398.125,
-          "scroll": 1425,
-          "client": 1425
-        },
-        "short": {
-          "x": 816.5,
-          "y": 729.78125,
-          "w": 460,
-          "h": 274.671875,
-          "scroll": 460,
-          "client": 460
-        },
-        "palette": "#e3127e",
-        "heroGrid": "503px 503px",
-        "shortGrid": "87.1875px 87.2031px 87.2031px 87.2031px 87.1875px",
-        "tableClipping": [],
-        "unloaded": [],
-        "imageCount": 30,
-        "tableCells": 96,
-        "cta": "1 500 Kč",
-        "nativePrice": "1 500 Kč",
-        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
-        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
-      },
-      {
-        "width": 1024,
-        "docOverflow": false,
-        "root": {
-          "x": 0,
-          "y": 1684.125,
-          "w": 1009,
-          "h": 5431.46875,
-          "scroll": 1009,
-          "client": 1009
-        },
-        "short": {
-          "x": 662.5,
-          "y": 433.171875,
-          "w": 272,
-          "h": 327.953125,
-          "scroll": 272,
-          "client": 272
-        },
-        "palette": "#e3127e",
-        "heroGrid": "457.5px 457.5px",
-        "shortGrid": "49.5938px 49.5938px 49.6094px 49.5938px 49.5938px",
-        "tableClipping": [],
-        "unloaded": [],
-        "imageCount": 30,
-        "tableCells": 96,
-        "cta": "1 500 Kč",
-        "nativePrice": "1 500 Kč",
-        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
-        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
-      },
-      {
-        "width": 768,
-        "docOverflow": false,
-        "root": {
-          "x": 0,
-          "y": 3005.640625,
-          "w": 753,
-          "h": 6840.890625,
-          "scroll": 753,
-          "client": 753
-        },
-        "short": {
-          "x": 56.5,
-          "y": 1466.28125,
-          "w": 640,
-          "h": 238.28125,
-          "scroll": 640,
-          "client": 640
-        },
-        "palette": "#e3127e",
-        "heroGrid": "721px",
-        "shortGrid": "123.188px 123.203px 123.203px 123.203px 123.188px",
-        "tableClipping": [],
-        "unloaded": [],
-        "imageCount": 30,
-        "tableCells": 96,
-        "cta": "1 500 Kč",
-        "nativePrice": "1 500 Kč",
-        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
-        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
+        "mobile": false,
+        "toggles": 0,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "broken": [],
+        "clipped": [],
+        "dialogs_pointer_tested": [
+          "Garcinia cambogia",
+          "Kyselina hyaluronová",
+          "Minerály a enzymy",
+          "Komplex vitamínů B",
+          "Vitamíny C a E",
+          "Zelený čaj"
+        ]
       },
       {
         "width": 390,
+        "overflow": false,
         "docOverflow": false,
-        "root": {
-          "x": 0,
-          "y": 2627.703125,
-          "w": 375,
-          "h": 9506.78125,
-          "scroll": 375,
-          "client": 375
-        },
-        "short": {
-          "x": 10,
-          "y": 1046.125,
-          "w": 355,
-          "h": 249,
-          "scroll": 355,
-          "client": 355
-        },
-        "palette": "#e3127e",
-        "heroGrid": "291px",
-        "shortGrid": "66.1875px 66.2031px 66.2031px 66.2031px 66.1875px",
-        "tableClipping": [],
-        "unloaded": [],
-        "imageCount": 30,
-        "tableCells": 96,
-        "cta": "1 500 Kč",
-        "nativePrice": "1 500 Kč",
-        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
-        "background": "linear-gradient(135deg, rgb(253, 240, 247) 0%, rgb(255, 247, 251) 100%)"
+        "mobile": true,
+        "toggles": 3,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "broken": [],
+        "clipped": [],
+        "dialogs_pointer_tested": [
+          "Garcinia cambogia",
+          "Kyselina hyaluronová",
+          "Minerály a enzymy",
+          "Komplex vitamínů B",
+          "Vitamíny C a E",
+          "Zelený čaj"
+        ]
       },
       {
         "width": 320,
+        "overflow": false,
         "docOverflow": false,
-        "root": {
-          "x": 0,
-          "y": 1921.140625,
-          "w": 305,
-          "h": 10467.296875,
-          "scroll": 305,
-          "client": 305
-        },
-        "short": {
-          "x": 10,
-          "y": 288.46875,
-          "w": 285,
-          "h": 249,
-          "scroll": 285,
-          "client": 285
-        },
-        "palette": "#e3127e",
-        "heroGrid": "221px",
-        "shortGrid": "52.1875px 52.2031px 52.2031px 52.2031px 52.2031px",
-        "tableClipping": [],
-        "unloaded": [],
-        "imageCount": 30,
-        "tableCells": 96,
-        "cta": "1 500 Kč",
-        "nativePrice": "1 500 Kč",
-        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
-        "background": "linear-gradient(135deg, rgb(253, 240, 247) 0%, rgb(255, 247, 251) 100%)"
+        "mobile": true,
+        "toggles": 3,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "broken": [],
+        "clipped": [],
+        "dialogs_pointer_tested": []
+      },
+      {
+        "width": 768,
+        "overflow": false,
+        "docOverflow": false,
+        "mobile": false,
+        "toggles": 0,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "broken": [],
+        "clipped": [],
+        "dialogs_pointer_tested": []
+      },
+      {
+        "width": 1024,
+        "overflow": false,
+        "docOverflow": false,
+        "mobile": false,
+        "toggles": 0,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "broken": [],
+        "clipped": [],
+        "dialogs_pointer_tested": []
       },
       {
         "width": 1440,
+        "overflow": false,
         "docOverflow": false,
-        "root": {
-          "x": 0,
-          "y": 964,
-          "w": 1425,
-          "h": 5398.125,
-          "scroll": 1425,
-          "client": 1425
-        },
-        "short": {
-          "x": 816.5,
-          "y": -357.21875,
-          "w": 460,
-          "h": 274.671875,
-          "scroll": 460,
-          "client": 460
-        },
-        "palette": "#e3127e",
-        "heroGrid": "503px 503px",
-        "shortGrid": "87.1875px 87.2031px 87.2031px 87.2031px 87.1875px",
-        "tableClipping": [],
-        "unloaded": [],
-        "imageCount": 30,
-        "tableCells": 96,
-        "cta": "1 500 Kč",
-        "nativePrice": "1 500 Kč",
-        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
-        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
+        "mobile": false,
+        "toggles": 0,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "broken": [],
+        "clipped": [],
+        "dialogs_pointer_tested": [
+          "Garcinia cambogia",
+          "Kyselina hyaluronová",
+          "Minerály a enzymy",
+          "Komplex vitamínů B",
+          "Vitamíny C a E",
+          "Zelený čaj"
+        ]
       },
       {
         "width": 390,
+        "overflow": false,
         "docOverflow": false,
-        "root": {
-          "x": 0,
-          "y": 2963.703125,
-          "w": 375,
-          "h": 9506.78125,
-          "scroll": 375,
-          "client": 375
-        },
-        "short": {
-          "x": 10,
-          "y": 1382.125,
-          "w": 355,
-          "h": 249,
-          "scroll": 355,
-          "client": 355
-        },
-        "palette": "#e3127e",
-        "heroGrid": "291px",
-        "shortGrid": "66.1875px 66.2031px 66.2031px 66.2031px 66.1875px",
-        "tableClipping": [],
-        "unloaded": [],
-        "imageCount": 30,
-        "tableCells": 96,
-        "cta": "1 500 Kč",
-        "nativePrice": "1 500 Kč",
-        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
-        "background": "linear-gradient(135deg, rgb(253, 240, 247) 0%, rgb(255, 247, 251) 100%)"
+        "mobile": true,
+        "toggles": 3,
+        "hero": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "cta": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+        "broken": [],
+        "clipped": [],
+        "dialogs_pointer_tested": [
+          "Garcinia cambogia",
+          "Kyselina hyaluronová",
+          "Minerály a enzymy",
+          "Komplex vitamínů B",
+          "Vitamíny C a E",
+          "Zelený čaj"
+        ]
       }
     ],
-    "background": {
-      "loaded": true,
-      "w": 2156,
-      "h": 768
-    },
-    "page_errors": [],
-    "same_origin_full_response_override": true,
-    "original_bootstrap_executed_from_html": true,
-    "shop_deployed": false
+    "main_photo_dynamic_update": true,
+    "wrong_sku_rejected": true,
+    "late_gallery_reinsertion": true,
+    "purchase_anchor_pointer_tested_without_submitting": true,
+    "errors": [],
+    "full_same_origin_response_override": true,
+    "live_shop_changed": false
   }
 }
