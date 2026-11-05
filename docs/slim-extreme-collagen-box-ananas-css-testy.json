@@ -1,0 +1,257 @@
+{
+  "build": {
+    "long": {
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "all_text_nodes_unchanged": true,
+      "script_bytes_unchanged": true,
+      "all_table_cells_unchanged": true,
+      "image_attributes_unchanged": true,
+      "own_imports": 2
+    },
+    "short": {
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "all_text_nodes_unchanged": true,
+      "script_bytes_unchanged": true,
+      "all_table_cells_unchanged": true,
+      "image_attributes_unchanged": true,
+      "own_imports": 2
+    },
+    "product_id": "383",
+    "public_url": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/",
+    "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+    "shared_css_unchanged": true,
+    "live_shared_css_matches_prepared_after_newline_normalization": true,
+    "public_theme_status_before": 404,
+    "shop_deployed": false
+  },
+  "browser": {
+    "tests": [
+      {
+        "width": 1440,
+        "docOverflow": false,
+        "root": {
+          "x": 0,
+          "y": 2051,
+          "w": 1425,
+          "h": 5398.125,
+          "scroll": 1425,
+          "client": 1425
+        },
+        "short": {
+          "x": 816.5,
+          "y": 729.78125,
+          "w": 460,
+          "h": 274.671875,
+          "scroll": 460,
+          "client": 460
+        },
+        "palette": "#e3127e",
+        "heroGrid": "503px 503px",
+        "shortGrid": "87.1875px 87.2031px 87.2031px 87.2031px 87.1875px",
+        "tableClipping": [],
+        "unloaded": [],
+        "imageCount": 30,
+        "tableCells": 96,
+        "cta": "1 500 Kč",
+        "nativePrice": "1 500 Kč",
+        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
+        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
+      },
+      {
+        "width": 1024,
+        "docOverflow": false,
+        "root": {
+          "x": 0,
+          "y": 1684.125,
+          "w": 1009,
+          "h": 5431.46875,
+          "scroll": 1009,
+          "client": 1009
+        },
+        "short": {
+          "x": 662.5,
+          "y": 433.171875,
+          "w": 272,
+          "h": 327.953125,
+          "scroll": 272,
+          "client": 272
+        },
+        "palette": "#e3127e",
+        "heroGrid": "457.5px 457.5px",
+        "shortGrid": "49.5938px 49.5938px 49.6094px 49.5938px 49.5938px",
+        "tableClipping": [],
+        "unloaded": [],
+        "imageCount": 30,
+        "tableCells": 96,
+        "cta": "1 500 Kč",
+        "nativePrice": "1 500 Kč",
+        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
+        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
+      },
+      {
+        "width": 768,
+        "docOverflow": false,
+        "root": {
+          "x": 0,
+          "y": 3005.640625,
+          "w": 753,
+          "h": 6840.890625,
+          "scroll": 753,
+          "client": 753
+        },
+        "short": {
+          "x": 56.5,
+          "y": 1466.28125,
+          "w": 640,
+          "h": 238.28125,
+          "scroll": 640,
+          "client": 640
+        },
+        "palette": "#e3127e",
+        "heroGrid": "721px",
+        "shortGrid": "123.188px 123.203px 123.203px 123.203px 123.188px",
+        "tableClipping": [],
+        "unloaded": [],
+        "imageCount": 30,
+        "tableCells": 96,
+        "cta": "1 500 Kč",
+        "nativePrice": "1 500 Kč",
+        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
+        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
+      },
+      {
+        "width": 390,
+        "docOverflow": false,
+        "root": {
+          "x": 0,
+          "y": 2627.703125,
+          "w": 375,
+          "h": 9506.78125,
+          "scroll": 375,
+          "client": 375
+        },
+        "short": {
+          "x": 10,
+          "y": 1046.125,
+          "w": 355,
+          "h": 249,
+          "scroll": 355,
+          "client": 355
+        },
+        "palette": "#e3127e",
+        "heroGrid": "291px",
+        "shortGrid": "66.1875px 66.2031px 66.2031px 66.2031px 66.1875px",
+        "tableClipping": [],
+        "unloaded": [],
+        "imageCount": 30,
+        "tableCells": 96,
+        "cta": "1 500 Kč",
+        "nativePrice": "1 500 Kč",
+        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
+        "background": "linear-gradient(135deg, rgb(253, 240, 247) 0%, rgb(255, 247, 251) 100%)"
+      },
+      {
+        "width": 320,
+        "docOverflow": false,
+        "root": {
+          "x": 0,
+          "y": 1921.140625,
+          "w": 305,
+          "h": 10467.296875,
+          "scroll": 305,
+          "client": 305
+        },
+        "short": {
+          "x": 10,
+          "y": 288.46875,
+          "w": 285,
+          "h": 249,
+          "scroll": 285,
+          "client": 285
+        },
+        "palette": "#e3127e",
+        "heroGrid": "221px",
+        "shortGrid": "52.1875px 52.2031px 52.2031px 52.2031px 52.2031px",
+        "tableClipping": [],
+        "unloaded": [],
+        "imageCount": 30,
+        "tableCells": 96,
+        "cta": "1 500 Kč",
+        "nativePrice": "1 500 Kč",
+        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
+        "background": "linear-gradient(135deg, rgb(253, 240, 247) 0%, rgb(255, 247, 251) 100%)"
+      },
+      {
+        "width": 1440,
+        "docOverflow": false,
+        "root": {
+          "x": 0,
+          "y": 964,
+          "w": 1425,
+          "h": 5398.125,
+          "scroll": 1425,
+          "client": 1425
+        },
+        "short": {
+          "x": 816.5,
+          "y": -357.21875,
+          "w": 460,
+          "h": 274.671875,
+          "scroll": 460,
+          "client": 460
+        },
+        "palette": "#e3127e",
+        "heroGrid": "503px 503px",
+        "shortGrid": "87.1875px 87.2031px 87.2031px 87.2031px 87.1875px",
+        "tableClipping": [],
+        "unloaded": [],
+        "imageCount": 30,
+        "tableCells": 96,
+        "cta": "1 500 Kč",
+        "nativePrice": "1 500 Kč",
+        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
+        "background": "linear-gradient(to right, rgb(253, 240, 247) 0%, rgb(253, 240, 247) 45%, rgba(253, 240, 247, 0.85) 65%, rgba(253, 240, 247, 0.15) 100%), url(\"https://www.golden-life.cz/user/documents/upload/produktove_stranky/ananas-pozadi.png\")"
+      },
+      {
+        "width": 390,
+        "docOverflow": false,
+        "root": {
+          "x": 0,
+          "y": 2963.703125,
+          "w": 375,
+          "h": 9506.78125,
+          "scroll": 375,
+          "client": 375
+        },
+        "short": {
+          "x": 10,
+          "y": 1382.125,
+          "w": 355,
+          "h": 249,
+          "scroll": 355,
+          "client": 355
+        },
+        "palette": "#e3127e",
+        "heroGrid": "291px",
+        "shortGrid": "66.1875px 66.2031px 66.2031px 66.2031px 66.1875px",
+        "tableClipping": [],
+        "unloaded": [],
+        "imageCount": 30,
+        "tableCells": 96,
+        "cta": "1 500 Kč",
+        "nativePrice": "1 500 Kč",
+        "ctaHref": "https://www.golden-life.cz/slim-extreme-collagen-box-s-prichuti-ananasu/#content",
+        "background": "linear-gradient(135deg, rgb(253, 240, 247) 0%, rgb(255, 247, 251) 100%)"
+      }
+    ],
+    "background": {
+      "loaded": true,
+      "w": 2156,
+      "h": 768
+    },
+    "page_errors": [],
+    "same_origin_full_response_override": true,
+    "original_bootstrap_executed_from_html": true,
+    "shop_deployed": false
+  }
+}
