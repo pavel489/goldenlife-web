@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-11-05T13:57:18.837567+00:00",
+  "source_git_commit": "1d15127789fb899be3ad599fe1db0ec28ee9f7ef",
+  "css_files_parsed": 21,
+  "css_parse_errors": 0,
+  "unscoped_target_rules": 0,
+  "current_consumers_tested": 19,
+  "viewports": [
+    1440,
+    390
+  ],
+  "scenarios": "Archived public HTML, real shop scripts and assets; four candidate CSS responses substituted locally only.",
+  "page_modes": 38,
+  "viewport_snapshots": 76,
+  "public_framework_unchanged": true,
+  "consumer_identity_and_text_unchanged": true,
+  "root_hero_cta_table_and_short_geometry_colors_unchanged": true,
+  "expected_differences": "Only removal of double icon colour filters on GLP-1, Double GLP-1 and SOS Burner.",
+  "unexpected_differences": [],
+  "representative_modal_open_close_tests": 6,
+  "modal_tests_passed": 6,
+  "pineapple_legacy_CTA_background_preserved": true,
+  "pineapple_prepared_template_unchanged": true,
+  "files": [
+    {
+      "name": "golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "status": 200,
+      "matches_git_normalized": false,
+      "prepared_sha256": "6cc95dc3055c69e091f608ea42045544326e218e57964b639183ff01b6cf6496",
+      "public_sha256": "f694b1c612175ec1adb8c377cd6f2b70790bad89364eccf0f79f701b9356f311",
+      "final_prepared_sha256": "c47a20dd2b441e183d0bde88c222528abd3da8a9de3b5a551390b1ee79efda54",
+      "final_prepared_bytes": 6320,
+      "compatibility_addition": true
+    },
+    {
+      "name": "golden-life-barvy-slim-extreme-collagen.css",
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css",
+      "status": 404,
+      "matches_git_normalized": false,
+      "prepared_sha256": "7274e89de7e437a82b8634cbca53369ddfd8d3794acd55ffa250585020f02f36",
+      "public_sha256": "ee1a27178227546d3dcc49e611a6d72e4f1c30080ee4493ae4085b58a49e28e6",
+      "final_prepared_sha256": "7274e89de7e437a82b8634cbca53369ddfd8d3794acd55ffa250585020f02f36",
+      "final_prepared_bytes": 8449,
+      "compatibility_addition": false
+    },
+    {
+      "name": "golden-life-barvy-slim-glp-1-activator.css",
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css",
+      "status": 200,
+      "matches_git_normalized": false,
+      "prepared_sha256": "1008c93cf33b059bcc5130a3cb3587e6f8794c6f2aecd2f4eecfe9112f25911a",
+      "public_sha256": "b77b980d3479650b86a7b505e519380f507bb7710d79cacaaa7f4c171a3775d0",
+      "final_prepared_sha256": "1008c93cf33b059bcc5130a3cb3587e6f8794c6f2aecd2f4eecfe9112f25911a",
+      "final_prepared_bytes": 5729,
+      "compatibility_addition": false
+    },
+    {
+      "name": "golden-life-barvy-slim-sos-fat-burner.css",
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+      "status": 200,
+      "matches_git_normalized": false,
+      "prepared_sha256": "7d29d4af58c9a23c6b53367885290ba94500bba4b3a2cbae35f747bee7602f6c",
+      "public_sha256": "b176b5808e1e9003e828e92b30e5222b6ffff8246c2ebbf61ff555688b9317af",
+      "final_prepared_sha256": "7d29d4af58c9a23c6b53367885290ba94500bba4b3a2cbae35f747bee7602f6c",
+      "final_prepared_bytes": 5138,
+      "compatibility_addition": false
+    }
+  ],
+  "production_writes": false,
+  "product_HTML_migrations": false,
+  "limits": [
+    "No complete all-sibling gift-box reader regression audit in this step.",
+    "No full visual, accessibility, claims or purchase audit.",
+    "CSS-only prepared-template fixture omits scripts; it does not certify the pilot product."
+  ]
+}
