@@ -1,0 +1,162 @@
+{
+  "checkedAtUTC": "2026-11-05T14:56:26.691355+00:00",
+  "sourceParent": "6bca09f6f6afe310d4572910766502a9de97d023",
+  "static": {
+    "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 56,
+      "sha256": "41544baae26fb68f395919c2b8dd4215803d359be4746cce9f0e003f951ebb3f"
+    },
+    "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 7,
+      "sha256": "79f34de8af7701e0689fb6b8a181a869687c5977f1a89635e857c0518769af81"
+    },
+    "shoptet/ufirst.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 56,
+      "sha256": "8fec877a51710194fbe98ee60a45c7e048910e83c25bcaa1868c082dabbe7eee"
+    },
+    "shoptet/ufirst-kratky.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 7,
+      "sha256": "daa881abde90bbdb43bc723ce197d46b55ced6784db78541293ec62501e0d176"
+    }
+  },
+  "browser": {
+    "scope": "Temporary same-origin full-shop response override. No live CMS save.",
+    "viewports": {
+      "1440": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "UFIRST Brain & Focus",
+          "UFIRST All-in-One",
+          "UFIRST Care Free",
+          "Láhev UFIRST",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 6,
+        "hero": 1024,
+        "shortText": "Pět produktů, jeden hotový vánoční dárek. All-in-One, Brain & Focus, Care Free, láhev a USB míchátko čekají společně v dárkové krabici. Za 3 290 Kč máš vybráno i zabaleno a oproti ceně 3 780 Kč ušetříš 490 Kč. Zákazníci box hodnotí 5,0 z 5.",
+        "readers": [
+          {
+            "id": "582",
+            "length": 73314,
+            "scripts": 0,
+            "title": "Podrobně: UFIRST Brain & Focus"
+          },
+          {
+            "id": "576",
+            "length": 96053,
+            "scripts": 0,
+            "title": "Podrobně: UFIRST All-in-One"
+          },
+          {
+            "id": "585",
+            "length": 72568,
+            "scripts": 0,
+            "title": "Podrobně: UFIRST Care Free"
+          },
+          {
+            "id": "638",
+            "length": 6154,
+            "scripts": 0,
+            "title": "Podrobně: Lahev UFIRST"
+          },
+          {
+            "id": "653",
+            "length": 29922,
+            "scripts": 0,
+            "title": "Podrobně: USB Míchátko"
+          }
+        ]
+      },
+      "390": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "UFIRST Brain & Focus",
+          "UFIRST All-in-One",
+          "UFIRST Care Free",
+          "Láhev UFIRST",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 6,
+        "hero": 1024,
+        "shortText": "Pět produktů, jeden hotový vánoční dárek. All-in-One, Brain & Focus, Care Free, láhev a USB míchátko čekají společně v dárkové krabici. Za 3 290 Kč máš vybráno i zabaleno a oproti ceně 3 780 Kč ušetříš 490 Kč. Zákazníci box hodnotí 5,0 z 5.",
+        "readers": [
+          {
+            "id": "582",
+            "length": 73314,
+            "scripts": 0,
+            "title": "Podrobně: UFIRST Brain & Focus"
+          },
+          {
+            "id": "576",
+            "length": 96053,
+            "scripts": 0,
+            "title": "Podrobně: UFIRST All-in-One"
+          },
+          {
+            "id": "585",
+            "length": 72568,
+            "scripts": 0,
+            "title": "Podrobně: UFIRST Care Free"
+          },
+          {
+            "id": "638",
+            "length": 6154,
+            "scripts": 0,
+            "title": "Podrobně: Lahev UFIRST"
+          },
+          {
+            "id": "653",
+            "length": 29922,
+            "scripts": 0,
+            "title": "Podrobně: USB Míchátko"
+          }
+        ]
+      }
+    },
+    "errors": []
+  }
+}
