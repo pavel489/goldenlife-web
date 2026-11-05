@@ -1,0 +1,209 @@
+{
+  "checkedAtUTC": "2026-11-05T15:16:20.450201+00:00",
+  "sourceParent": "ab74fc9ba3bc17c8ab3dfb85a819933f668e894d",
+  "static": {
+    "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_cz.html": {
+      "onlyRequestedIconUrisAndIntroChanged": true,
+      "scriptsAndStylesByteIdentical": true,
+      "captionsUnchanged": true,
+      "newIntroExactlyBelowHeading": true,
+      "sha256": "b596119f0d25dba8dd9dda04bbc836d99cd66dcc21f432433742aacace5d5da1"
+    },
+    "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-cz.html": {
+      "onlyRequestedIconUrisAndIntroChanged": true,
+      "scriptsAndStylesByteIdentical": true,
+      "captionsUnchanged": true,
+      "newIntroExactlyBelowHeading": false,
+      "sha256": "5bde7d0cc2b672383e95c7ef1c78625e145f0bdb5013c256cd25ff249d4723f8"
+    },
+    "shoptet/ufirst.html": {
+      "onlyRequestedIconUrisAndIntroChanged": true,
+      "scriptsAndStylesByteIdentical": true,
+      "captionsUnchanged": true,
+      "newIntroExactlyBelowHeading": true,
+      "sha256": "908fa117d4254b93dd7b8a04bd129179e4f4fc13c8c3f5f5cc6f1877782ec95d"
+    },
+    "shoptet/ufirst-kratky.html": {
+      "onlyRequestedIconUrisAndIntroChanged": true,
+      "scriptsAndStylesByteIdentical": true,
+      "captionsUnchanged": true,
+      "newIntroExactlyBelowHeading": false,
+      "sha256": "ab049fcbffaf27c100a362435f95fb06eaf6ef34053def652834a84c658f2262"
+    }
+  },
+  "browser": {
+    "scope": "Temporary same-origin full-shop response override. No live CMS save.",
+    "viewports": {
+      "1440": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "UFIRST Brain & Focus",
+          "UFIRST All-in-One",
+          "UFIRST Care Free",
+          "Láhev UFIRST",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 6,
+        "hero": 0,
+        "shortText": "Pět produktů, jeden hotový vánoční dárek. All-in-One, Brain & Focus, Care Free, láhev a USB míchátko čekají společně v dárkové krabici. Za 3 290 Kč máš vybráno i zabaleno a oproti ceně 3 780 Kč ušetříš 490 Kč. Zákazníci box hodnotí 5,0 z 5.",
+        "readers": [
+          {
+            "id": "582",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "576",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "585",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "638",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "653",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          }
+        ],
+        "readerNetworkVerification": "blocked: current public origin returned HTTP 403; unchanged reader script not certified live",
+        "testPageSource": "Authentic saved public HTML from prior task, with only requested draft fragments overridden"
+      },
+      "390": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "UFIRST Brain & Focus",
+          "UFIRST All-in-One",
+          "UFIRST Care Free",
+          "Láhev UFIRST",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 6,
+        "hero": 0,
+        "shortText": "Pět produktů, jeden hotový vánoční dárek. All-in-One, Brain & Focus, Care Free, láhev a USB míchátko čekají společně v dárkové krabici. Za 3 290 Kč máš vybráno i zabaleno a oproti ceně 3 780 Kč ušetříš 490 Kč. Zákazníci box hodnotí 5,0 z 5.",
+        "readers": [
+          {
+            "id": "582",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "576",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "585",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "638",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          },
+          {
+            "id": "653",
+            "failed": "Page.wait_for_function: Timeout 5000ms exceeded.",
+            "status": "Podrobný popis se teď nepodařilo načíst. Můžeš to zkusit znovu, stránku boxu neopouštíš."
+          }
+        ],
+        "readerNetworkVerification": "blocked: current public origin returned HTTP 403; unchanged reader script not certified live",
+        "testPageSource": "Authentic saved public HTML from prior task, with only requested draft fragments overridden"
+      }
+    },
+    "errors": [
+      "Cannot read properties of undefined (reading 'onAccept')",
+      "$ is not defined",
+      "$ is not defined",
+      "Cannot read properties of undefined (reading 'create')",
+      "Cannot read properties of undefined (reading 'processTrackingContainer')",
+      "Cannot read properties of undefined (reading 'onAccept')",
+      "getShoptetDataLayer is not defined",
+      "Cannot read properties of undefined (reading 'onAccept')",
+      "Cannot read properties of undefined (reading 'throttle')",
+      "Cannot read properties of undefined (reading 'onAccept')",
+      "Cannot read properties of undefined (reading 'onAccept')"
+    ]
+  },
+  "isolated": {
+    "previewType": "Isolated delivered markup with actual Git framework CSS and exact original pinned box CSS. No live-page success claim.",
+    "frameworkSha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+    "themeSha256": "b11479f9acb368f5839581948adb50e9eaec0cab0199a3270f18110fcfe8d0e6",
+    "viewports": {
+      "1280": {
+        "overflow": false,
+        "icons": 6,
+        "decoded": true,
+        "gridDisplay": "grid",
+        "captions": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "intro": "Dárek, který potěší každého, kdo chce mít více energie, lépe se soustředit a zvládat každý den naplno! Tento nádherný vánoční box spojuje 5 produktů pro podporu energie, výkonu, hydratace a psychické pohody. UFIRST All-in-One obsahuje více než 85 složek v jediném lahodném sáčku, včetně vitaminů, minerálů, elektrolytů, peptidů a enzymů. Brain & Focus je zaměřený na soustředění a mentální výkon, zatímco Care Free na psychickou pohodu a zvládání stresu. Součástí boxu je také stylová láhev a praktické USB míchátko. Ideální vánoční dárek pro každého, kdo chce pečovat o své tělo i mysl a dát konečně sám sebe na první místo!"
+      },
+      "390": {
+        "overflow": false,
+        "icons": 6,
+        "decoded": true,
+        "gridDisplay": "grid",
+        "captions": [
+          "85+ složek",
+          "30 sáčků",
+          "3 příchutě",
+          "Rostlinné kapsle",
+          "Láhev UFIRST",
+          "USB-C míchátko"
+        ],
+        "intro": "Dárek, který potěší každého, kdo chce mít více energie, lépe se soustředit a zvládat každý den naplno! Tento nádherný vánoční box spojuje 5 produktů pro podporu energie, výkonu, hydratace a psychické pohody. UFIRST All-in-One obsahuje více než 85 složek v jediném lahodném sáčku, včetně vitaminů, minerálů, elektrolytů, peptidů a enzymů. Brain & Focus je zaměřený na soustředění a mentální výkon, zatímco Care Free na psychickou pohodu a zvládání stresu. Součástí boxu je také stylová láhev a praktické USB míchátko. Ideální vánoční dárek pro každého, kdo chce pečovat o své tělo i mysl a dát konečně sám sebe na první místo!"
+      }
+    }
+  }
+}
