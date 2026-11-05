@@ -1,0 +1,541 @@
+{
+  "source_git_commit": "185814751d5e96b74a38df27e6fa0d1207e09ab8",
+  "checked_at": "2026-11-05T16:33:15.472705+00:00",
+  "scope": "4B: next standalone Longevity batch550/600, not all phase4",
+  "product_count": 2,
+  "HTML_fields": 4,
+  "products": [
+    {
+      "id": "550",
+      "title": "Anti-Age longevity NAD+",
+      "long": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "short": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css",
+      "root_id": "nad-popis",
+      "ingredient_dialogs": 9,
+      "tables": 1,
+      "table_cells": 22,
+      "source_substantive_p_li": 40,
+      "original_full_dialog_HTML_preserved": true,
+      "fallback_photo": "https://raw.githubusercontent.com/pavel489/goldenlife-web/6d5e610d7748124562ce4f7133cdc2c1bbd3e7f8/assets/nad-main-product.png",
+      "current_native_photo_verified": false,
+      "source_provenance": {
+        "mode": "byte-verified-public-archive-known-live-block",
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/550-anti-age-longevity-nad-.html",
+        "sha256": "00e38f3658115944525e3872c8e88a540a5822f31675de109e053648d160ffac",
+        "live_verified": false
+      },
+      "new_pair": false,
+      "story_present": false,
+      "faq_present": false,
+      "hashes": {
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html": "5c379cffe7996ae2310e7428ff60aa213e762d045ce21e09e37037303ec80f6c",
+        "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html": "83d63b6b7c092184c1169f5305128269b724878c9b8418ddc419921b0fbc98c8",
+        "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css": "0a9e0c2dc57e4fb964735622581cfdba544ea2c659336cc465183e08072bbca7"
+      }
+    },
+    {
+      "id": "600",
+      "title": "Beauty Longevity NAD+ sáček",
+      "long": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "short": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css",
+      "root_id": "special-popis",
+      "ingredient_dialogs": 6,
+      "tables": 3,
+      "table_cells": 78,
+      "source_substantive_p_li": 46,
+      "original_full_dialog_HTML_preserved": true,
+      "fallback_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/600_sacek-web-beauty-nad.png?ff=1&x=1024&y=1024&q=85&ts=6acdf022&sg=38cb01fe",
+      "current_native_photo_verified": false,
+      "source_provenance": {
+        "mode": "byte-verified-public-archive-known-live-block",
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/600-beauty-longevity-nad-sacek.html",
+        "sha256": "865d50c09d5628b11856ab71a142ed45a2d4c6e401784e301d881fa21546037e",
+        "live_verified": false
+      },
+      "new_pair": true,
+      "story_present": true,
+      "faq_present": false,
+      "hashes": {
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html": "06fe0d64a3da76fc505514489dc4a04d7d6e7bae34ba5457b9e2bfa8b0a7f5b6",
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html": "8e8f82ead7ffea01afb11aa84b478ababe487ab9741d6dae66dc3fa889fc66b0",
+        "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css": "5543d9078bf74fe6024e8689dfea933ca05a36e4397f85e32a8f030a7df15325"
+      }
+    }
+  ],
+  "common_framework_unchanged": true,
+  "tables_total": 4,
+  "table_cells_total": 100,
+  "unique_ingredient_dialogs": 15,
+  "substantive_p_li_total": 86,
+  "component_scenarios": 9,
+  "pointer_dialog_cases": 72,
+  "component_tests": {
+    "pass": true,
+    "scenarios": [
+      {
+        "id": "550",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -4738,
+              "w": 83.1875
+            },
+            {
+              "y": -4738,
+              "w": 83.203125
+            },
+            {
+              "y": -4738,
+              "w": 83.203125
+            },
+            {
+              "y": -4738,
+              "w": 83.203125
+            },
+            {
+              "y": -4738,
+              "w": 83.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 5,
+          "primary": "#b81e1e",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "550",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -7617,
+              "w": 67.1875
+            },
+            {
+              "y": -7617,
+              "w": 67.203125
+            },
+            {
+              "y": -7617,
+              "w": 67.203125
+            },
+            {
+              "y": -7617,
+              "w": 67.203125
+            },
+            {
+              "y": -7617,
+              "w": 67.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 5,
+          "primary": "#b81e1e",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "550",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -8816,
+              "w": 53.1875
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 5,
+          "primary": "#b81e1e",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "600",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -5928,
+              "w": 84
+            },
+            {
+              "y": -5928,
+              "w": 84
+            },
+            {
+              "y": -5928,
+              "w": 84
+            },
+            {
+              "y": -5928,
+              "w": 84
+            },
+            {
+              "y": -5928,
+              "w": 84
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 2,
+          "primary": "#bf1818",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "600",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -10346,
+              "w": 68
+            },
+            {
+              "y": -10346,
+              "w": 68
+            },
+            {
+              "y": -10346,
+              "w": 68
+            },
+            {
+              "y": -10346,
+              "w": 68
+            },
+            {
+              "y": -10346,
+              "w": 68
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 2,
+          "primary": "#bf1818",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "600",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -12317,
+              "w": 54
+            },
+            {
+              "y": -12317,
+              "w": 54
+            },
+            {
+              "y": -12317,
+              "w": 54
+            },
+            {
+              "y": -12317,
+              "w": 54
+            },
+            {
+              "y": -12317,
+              "w": 54
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 2,
+          "primary": "#bf1818",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "550",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -4738,
+              "w": 83.1875
+            },
+            {
+              "y": -4738,
+              "w": 83.203125
+            },
+            {
+              "y": -4738,
+              "w": 83.203125
+            },
+            {
+              "y": -4738,
+              "w": 83.203125
+            },
+            {
+              "y": -4738,
+              "w": 83.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 5,
+          "primary": "#b81e1e",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "550",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -7617,
+              "w": 67.1875
+            },
+            {
+              "y": -7617,
+              "w": 67.203125
+            },
+            {
+              "y": -7617,
+              "w": 67.203125
+            },
+            {
+              "y": -7617,
+              "w": 67.203125
+            },
+            {
+              "y": -7617,
+              "w": 67.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 5,
+          "primary": "#b81e1e",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "550",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 9,
+        "mobile_toggles": 4,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -8816,
+              "w": 53.1875
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            },
+            {
+              "y": -8816,
+              "w": 53.203125
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 5,
+          "primary": "#b81e1e",
+          "dialogs": 9
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      }
+    ],
+    "javascript_errors": [],
+    "external_requests": [],
+    "repeated_variant_switching": true,
+    "gallery_pixel_tests": "Not performed; current native gallery not requested after the previously verified 403 block.",
+    "live_shop_test": "Not performed; current public page not requested after the previously verified 403 block."
+  },
+  "css_validation": {
+    "pass": true,
+    "parser": "tinycss2 1.5.1",
+    "errors": []
+  },
+  "child_tests_rerun_by_parent": {
+    "550": 4,
+    "600": 4,
+    "includes_no_JS_390_for_each": true
+  },
+  "preview_report": {
+    "file": "/root/workspace/research/css-audit-1793883385/step4b-longevity/qa/longevity-pracovni-nahled.html",
+    "bytes": 4608193,
+    "products": [
+      {
+        "id": "550",
+        "unavailable_image_occurrences": 7,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/sytost-fialova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKY.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKYa.png"
+        ]
+      },
+      {
+        "id": "600",
+        "unavailable_image_occurrences": 2,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/600_sacek-web-beauty-nad.png?ff=1&x=1024&y=1024&q=85&ts=6acdf022&sg=38cb01fe"
+        ]
+      }
+    ],
+    "unique_unavailable_dependencies": [
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/sytost-fialova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKY.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKYa.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/600_sacek-web-beauty-nad.png?ff=1&x=1024&y=1024&q=85&ts=6acdf022&sg=38cb01fe",
+      "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    ],
+    "unavailable_assets_are_not_fake_successes": true,
+    "shop_live_verified": false,
+    "preview_only_differences": [
+      "No native gallery or purchase host; photo synchronizer removed from preview only.",
+      "Only real available cached/Git assets embedded. Missing images explicitly marked and not substituted.",
+      "Standalone narrow short-description host, not a verified current shop-sidebar rendering.",
+      "All network and purchase operations disabled."
+    ]
+  },
+  "screenshot_verification": [
+    {
+      "id": "550",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 4746,
+      "file": "/root/workspace/research/css-audit-1793883385/step4b-longevity/qa/550-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "550",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1569,
+      "file": "/root/workspace/research/css-audit-1793883385/step4b-longevity/qa/550-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "600",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 4080,
+      "file": "/root/workspace/research/css-audit-1793883385/step4b-longevity/qa/600-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "600",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1469,
+      "file": "/root/workspace/research/css-audit-1793883385/step4b-longevity/qa/600-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    }
+  ],
+  "complete_visual_QA": false,
+  "full_shop_runtime_verified": false,
+  "current_native_gallery_pixel_tests_verified": false,
+  "shop_requests_this_job": 0,
+  "shop_saved": false,
+  "public_CSS_uploaded": false,
+  "claims_approved": false,
+  "phase4_complete": false,
+  "pilot544_changed": false,
+  "syntax_validation": {
+    "css": {
+      "pass": true,
+      "parser": "tinycss2 1.5.1",
+      "errors": []
+    },
+    "js": {
+      "pass": true,
+      "validator": "Node vm.Script",
+      "script_count": 6
+    }
+  }
+}

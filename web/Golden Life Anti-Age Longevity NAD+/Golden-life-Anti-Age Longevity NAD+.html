@@ -1,198 +1,36 @@
-<style>#nad-popis{--gl-color-primary: #b81e1e; --gl-color-primary-hover: #971818; --gl-color-primary-rgb: 184, 30, 30; --gl-color-bg-light: #fdf1f1; --gl-color-bg-light-rgb: 253, 241, 241; --gl-color-bg-grey: #f0f0f0; --gl-color-table-border: var(--gl-color-primary-hover); --gl-color-table-bg: #f4dddd; --gl-color-table-row-alt: #faeeee; --gl-color-text-muted: #555; --gl-color-text-subtle: #999; --gl-color-success: #27ae60; --gl-radius-sm: 6px; --gl-radius-md: 12px; --gl-radius-lg: 24px; --gl-radius-xl: 16px; --gl-radius-pill: 50px;}
-#nad-popis,#nad-popis *{font-family: Metropolis, Arial, Helvetica, sans-serif !important;}
-#nad-popis h1,#nad-popis h2,#nad-popis h3,#nad-popis h4{color: var(--gl-color-primary); font-weight: bold;}
-#nad-popis h2,#nad-popis h3,#nad-popis h4{font-family: Metropolis, Arial, Helvetica, sans-serif;}
-#nad-popis h2{font-size: 32px; margin: 20px 0px 10px;}
-#nad-popis h3{font-size: 28px; margin: 15px 0px 8px;}
-#nad-popis h4{font-size: 1.8rem; margin: 10px 0px 5px;}
-#nad-popis h1::after,#nad-popis h2::after,#nad-popis h3::after,#nad-popis h4::after{content: none !important; display: none !important;}
-#nad-popis .barvaruzova{color: var(--gl-color-primary);}
-#nad-popis .p-mobil{padding: 0px 5px;}
-#nad-popis .text-justify{text-align: justify;}
-#nad-popis .text-center{text-align: center;}
-#nad-popis .dobloku{text-align: justify;}
-#nad-popis p{font-size: 16px; line-height: 1.65; margin: 0px 0px 10px;}
-#nad-popis .product-container{max-width: 1100px; margin: 0px auto; padding: 10px 16px 20px;}
-@media (min-width: 768px){#nad-popis .product-container{padding-left: 0px; padding-right: 0px;}
-@media (max-width: 768px){#nad-popis .latky-grid .odstavec2{padding: 0px;}}}
-#nad-popis .custom-grid{display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; text-align: center; justify-items: center; margin-bottom: 20px;}
-@media (min-width: 1024px){#nad-popis .custom-grid{grid-template-columns: repeat(5, 1fr);}}
-@media (max-width: 768px){#nad-popis .custom-grid{grid-template-columns: repeat(5, 1fr); gap: 6px;}
-#nad-popis .custom-grid > div{min-width: 0px;}
-#nad-popis .custom-grid img{width: 100%; height: auto; max-width: 42px !important;}
-#nad-popis .custom-grid .p-card-p{font-size: 10px; line-height: 1.25; overflow-wrap: break-word; word-break: break-word;}}
-#nad-popis .custom-grid img{max-width: 80px; height: auto; margin-bottom: 0.5rem; filter: brightness(0) saturate(100%) invert(15%) sepia(94%) saturate(2883%) hue-rotate(349deg) brightness(92%) contrast(95%);}
-#nad-popis .obrazek-odstavec{width: 100%; height: 220px; object-fit: cover; display: block; border-radius: var(--gl-radius-lg) var(--gl-radius-lg) 0 0;}
-#nad-popis .odstavec2{border: 1px solid var(--gl-color-bg-grey); border-radius: var(--gl-radius-lg); padding: 0px 10px 0px 0px; margin: 10px 0px; background-color: var(--gl-color-bg-light); overflow: hidden;}
-#nad-popis .latky{background-color: var(--gl-color-bg-grey); border-radius: var(--gl-radius-lg); padding: 18px 25px 22px;}
-#nad-popis .story-block{display: grid; grid-template-columns: minmax(280px, 380px) 1fr; gap: 24px; align-items: stretch;}
-#nad-popis .story-block-image img{width: 100%; height: 100%; min-height: 320px; object-fit: cover; display: block; border-radius: var(--gl-radius-lg);}
-#nad-popis .story-block-text{display: flex; flex-direction: column; justify-content: center;}
-#nad-popis .latky-grid{display: grid; grid-template-columns: 1fr; gap: 10px; align-items: stretch;}
-#nad-popis .latky-grid-4{grid-template-columns: repeat(4, 1fr);}
-@media (max-width: 599px){#nad-popis .latky-grid-4{grid-template-columns: 1fr;}
-#nad-popis .story-block{grid-template-columns: 1fr;}
-#nad-popis .story-block-image img{min-height: 220px;}}
-@media (min-width: 600px){#nad-popis .latky-grid{grid-template-columns: repeat(3, 1fr); align-items: stretch;}}
-#nad-popis .latky-grid .odstavec2{display: flex; flex-direction: column; overflow: hidden; padding: 0px; margin: 0px; position: relative;}
-#nad-popis .latky-grid .odstavec2 h4{position: static; display: block; color: var(--gl-color-primary); background: none; box-shadow: none; padding: 10px 12px 2px; margin: 0px; white-space: normal; font-size: 18px; font-weight: bold; text-align: center;}
-#nad-popis .latky-grid .odstavec2 p{display: block; position: static; padding: 2px 25px 0px; margin: 0px 0px 10px; width: auto; font-size: 16px; line-height: 1.65;}
-@media (max-width: 768px){#nad-popis .odstavec2{padding: 10px; margin: 10px; border-radius: var(--gl-radius-lg);}
-#nad-popis .latky{border-radius: 0px;}
-#nad-popis .odstavec2 h4{text-align: left; background: none; padding: 0px; border-radius: 0px; display: block; text-shadow: none;}
-#nad-popis .latky-grid .odstavec2{border-radius: var(--gl-radius-md); margin: 0px; padding: 14px 0px 0px;}
-#nad-popis .ucinky-grid{grid-template-columns: repeat(2, 1fr);}
-#nad-popis .latky-grid-4{grid-template-columns: repeat(2, 1fr);}}
-@media (max-width: 599px){#nad-popis .latky-grid-4{grid-template-columns: 1fr;}}
-@media (max-width: 768px){#nad-popis .latky-grid-4.latky-swipe{display: flex; grid-template-columns: none; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: var(--gl-color-primary) rgba(184, 30, 30, 0.12); padding-bottom: 12px;}
-#nad-popis .latky-grid-4.latky-swipe::-webkit-scrollbar{height: 8px;}
-#nad-popis .latky-grid-4.latky-swipe::-webkit-scrollbar-track{background: rgba(184, 30, 30, 0.12); border-radius: 50px;}
-#nad-popis .latky-grid-4.latky-swipe::-webkit-scrollbar-thumb{background: var(--gl-color-primary); border-radius: 50px;}
-#nad-popis .latky-grid-4.latky-swipe > .odstavec2{flex: 0 0 82%; scroll-snap-align: center; padding: 0px;}}
-#nad-popis .latky-grid .odstavec2 .latky-teaser{text-align: center; color: var(--gl-color-text-muted); font-size: 14px; padding: 0px 16px; margin: 4px 0px 12px;}
-#nad-popis .latky-plus{position: absolute; top: 12px; left: 12px; z-index: 2; display: flex; align-items: center; justify-content: center; width: 38px; height: 38px; background: var(--gl-color-primary); color: rgb(255, 255, 255); border-radius: 50%; font-size: 24px; line-height: 1; text-decoration: none; box-shadow: 0 4px 12px rgba(var(--gl-color-primary-rgb), 0.3); transition: transform 0.2s, background 0.2s;}
-#nad-popis .latky-plus:hover{transform: scale(1.1); background: var(--gl-color-primary-hover);}
-#nad-popis .latky-modal{position: fixed; inset: 0px; z-index: 99999; display: none; align-items: center; justify-content: center; padding: 20px;}
-#nad-popis .latky-modal:target{display: flex;}
-#nad-popis .latky-modal-backdrop{position: absolute; inset: 0px; background: rgba(0, 0, 0, 0.6);}
-#nad-popis .latky-modal-box{position: relative; z-index: 1; background: rgb(255, 255, 255); border-radius: var(--gl-radius-lg); max-width: 560px; width: 100%; max-height: 88vh; overflow-y: auto; padding-bottom: 24px; box-shadow: rgba(0, 0, 0, 0.35) 0px 20px 60px;}
-#nad-popis .latky-modal-img{width: 100%; height: 220px; object-fit: cover; display: block; border-radius: var(--gl-radius-lg) var(--gl-radius-lg) 0 0;}
-#nad-popis .latky-modal-box h4{padding: 16px 24px 6px; text-align: center;}
-#nad-popis .latky-modal-box p{padding: 0px 24px; margin: 0px 0px 10px;}
-#nad-popis .latky-modal-close{position: absolute; top: 12px; right: 14px; z-index: 2; width: 38px; height: 38px; display: flex; align-items: center; justify-content: center; background: rgba(255, 255, 255, 0.92); border-radius: 50%; font-size: 26px; line-height: 1; color: var(--gl-color-primary); text-decoration: none; box-shadow: rgba(0, 0, 0, 0.25) 0px 2px 8px;}
-#nad-popis .cta-box{background: linear-gradient(135deg, var(--gl-color-bg-light) 0%, #fff6f8 100%); border: 2px solid var(--gl-color-primary); border-radius: var(--gl-radius-lg); padding: 20px; margin: 20px 0px; box-shadow: 0 4px 12px rgba(var(--gl-color-primary-rgb), 0.1);}
-#nad-popis .cta-content{display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center;}
-#nad-popis .cta-content > * + *{margin-top: 16px;}
-#nad-popis .cta-text{flex: 1 1 0%; text-align: center;}
-@media (min-width: 600px){#nad-popis .cta-content{flex-direction: row; text-align: left; gap: 24px; justify-content: center;}
-#nad-popis .cta-text{text-align: left;}}
-#nad-popis .cta-price{font-size: 2.2rem; color: var(--gl-color-primary); font-weight: bold; margin: 12px 0px 4px; line-height: 1.1;}
-#nad-popis .cta-price-label{font-size: 0.85rem; color: var(--gl-color-text-subtle); font-weight: normal; vertical-align: middle;}
-#nad-popis .cta-meta{font-size: 0.95rem; color: var(--gl-color-text-muted); margin: 0px 0px 10px;}
-#nad-popis .cta-button{background-color: var(--gl-color-primary); color: white; font-size: 1rem; font-weight: bold; padding: 14px 35px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: var(--gl-radius-pill); cursor: pointer; margin-top: 15px; transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s; text-transform: uppercase; letter-spacing: 1px; display: inline-block; text-decoration: none; touch-action: manipulation; -webkit-tap-highlight-color: transparent;}
-#nad-popis .cta-button:hover{background-color: var(--gl-color-primary-hover); transform: translateY(-2px); box-shadow: 0 6px 20px rgba(var(--gl-color-primary-rgb), 0.3); color: white !important;}
-#nad-popis .cta-availability{color: var(--gl-color-success); font-weight: bold; font-size: 0.9rem; margin-top: 8px;}
-#nad-popis .cta-product-img{max-width: 220px; height: auto; margin: 0px auto 15px; display: block; filter: drop-shadow(0 10px 24px rgba(var(--gl-color-primary-rgb), 0.3));}
-@media (min-width: 768px){#nad-popis .cta-product-img{max-width: 260px;}}
-#nad-popis .ruzovatabulka.tabulka{border-radius: var(--gl-radius-md); overflow: hidden; border-collapse: separate; border-spacing: 0px; border: 1px solid var(--gl-color-table-border); background-color: var(--gl-color-table-bg); margin-bottom: 15px; width: 100%; table-layout: fixed;}
-#nad-popis .ruzovatabulka.tabulka th:first-child,#nad-popis .ruzovatabulka.tabulka td:first-child{width: 55%;}
-#nad-popis .ruzovatabulka.tabulka th:nth-child(2),#nad-popis .ruzovatabulka.tabulka td:nth-child(2),#nad-popis .ruzovatabulka.tabulka th:nth-child(3),#nad-popis .ruzovatabulka.tabulka td:nth-child(3){width: 22.5%; text-align: right;}
-#nad-popis .ruzovatabulka.tabulka td,#nad-popis .ruzovatabulka.tabulka th{padding: 10px 12px;}
-#nad-popis .ruzovatabulka.tabulka td{border-right-color: ; border-right-style: ; border-right-width: ; border-bottom-color: ; border-bottom-style: ; border-bottom-width: ; border-image-source: ; border-image-slice: ; border-image-width: ; border-image-outset: ; border-image-repeat: ; border-left-width: medium; border-left-style: none; border-left-color: currentcolor; border-top-width: medium; border-top-style: none; border-top-color: currentcolor;}
-#nad-popis .ruzovatabulka.tabulka th{border-width: medium; border-style: none; border-color: currentcolor; border-image: none; padding-top: 9px;}
-#nad-popis .ruzovatabulka.tabulka tr:nth-child(2n) td{background-color: var(--gl-color-table-row-alt);}
-#nad-popis .ruzovatabulka.tabulka tr:first-child th{background-color: var(--gl-color-primary); color: white;}
-#nad-popis .ruzovatabulka.tabulka th:first-child{border-top-left-radius: var(--gl-radius-md);}
-#nad-popis .ruzovatabulka.tabulka th:last-child{border-top-right-radius: var(--gl-radius-md);}
-#nad-popis .ruzovatabulka.tabulka tr:last-child td:first-child,#nad-popis .ruzovatabulka.tabulka tr:last-child th:first-child{border-bottom-left-radius: var(--gl-radius-md);}
-#nad-popis .ruzovatabulka.tabulka tr:last-child td:last-child,#nad-popis .ruzovatabulka.tabulka tr:last-child th:last-child{border-bottom-right-radius: var(--gl-radius-md);}
-#nad-popis .hero-img{background: linear-gradient(145deg, var(--gl-color-bg-light) 0%, #fff6f8 50%, var(--gl-color-bg-light) 100%); border-radius: var(--gl-radius-lg); padding: 32px; margin: 0px 0px 20px; display: grid; grid-template-columns: repeat(2, 1fr); align-items: stretch; gap: 30px;}
-@media (max-width: 768px){#nad-popis .hero-img{grid-template-columns: 1fr; padding: 24px 16px; gap: 20px;}
-#nad-popis .hero-icons-grid{grid-template-columns: repeat(3, 1fr);}}
-@media (max-width: 600px){#nad-popis .hero-img{grid-template-columns: 1fr; padding: 24px 16px; border-radius: var(--gl-radius-xl); margin: 0px 0px 24px; gap: 20px;}
-#nad-popis .hero-row{margin-bottom: 0px !important;}
-#nad-popis .hero-icons-grid{gap: 8px;}
-#nad-popis .p-icon-card{padding: 12px 6px 10px; border-radius: var(--gl-radius-md);}
-#nad-popis .p-card-img{width: 64px; height: 64px;}}
-@media (max-width: 768px){#nad-popis .hero-icons-grid{gap: 8px; height: auto; display: grid !important; grid-template-columns: repeat(3, 1fr) !important;}
-#nad-popis .hero-icons-grid .p-icon-card{min-width: 0px; height: auto; padding: 12px 5px 10px;}
-#nad-popis .hero-icons-grid .p-card-img{height: auto; margin-bottom: 6px; width: 52px !important;}
-#nad-popis .hero-icons-grid .p-card-p{font-size: 11px; line-height: 1.25; overflow-wrap: break-word; word-break: break-word;}}
-#nad-popis .hero-icons-grid{display: grid; grid-template-columns: repeat(2, 1fr); grid-auto-rows: 1fr; gap: 12px; height: 100%;}
-#nad-popis .p-icon-card{display: flex; flex-direction: column; align-items: center; justify-content: center; background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md); padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box; transition: transform 0.25s, box-shadow 0.25s; border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06); box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);}
-#nad-popis .p-icon-card:hover{transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1);}
-#nad-popis .p-card-img{width: 80px; height: 80px; object-fit: contain; margin-bottom: 8px; filter: brightness(0) saturate(100%) invert(15%) sepia(94%) saturate(2883%) hue-rotate(349deg) brightness(92%) contrast(95%);}
-#nad-popis .p-card-p{font-size: 12px; font-weight: 700; color: var(--gl-color-primary); margin: 0px; text-align: center; line-height: 1.35;}
-#nad-popis .hero-row{display: flex; justify-content: center; align-items: center; min-height: 320px;}
-#nad-popis .hero-row .heroimg{max-width: 100%; width: 100%; height: auto; object-fit: contain; filter: drop-shadow(0 16px 20px rgba(var(--gl-color-primary-rgb), 0.18)); border-radius: var(--gl-radius-md);}
-@media (min-width: 1094px){#nad-popis .heroimg{max-width: 380px;}}
-#nad-popis .latky-grid-2{grid-template-columns: repeat(2, 1fr);}
-#nad-popis .latky-grid-2 .odstavec2 img{height: 420px;}
-#nad-popis .latky-grid-2 .odstavec2.has-img::after,#nad-popis .latky-grid-2 .odstavec2:has(img)::after{content: ""; position: absolute; left: 0px; right: 0px; top: 370px; height: 50px; background: linear-gradient(to bottom, transparent, var(--gl-color-bg-light)); pointer-events: none;}
-@media (max-width: 768px){#nad-popis .latky-grid-2{grid-template-columns: 1fr;}
-#nad-popis .latky-grid-2 .odstavec2{padding: 0px;}
-#nad-popis .latky-grid-2 .odstavec2 img{height: 260px;}
-#nad-popis .latky-grid-2 .odstavec2.has-img::after,#nad-popis .latky-grid-2 .odstavec2:has(img)::after{top: 210px;}}
-#nad-popis .ucinky-grid{display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 10px 0px 20px;}
-#nad-popis .ucinky-item{background: var(--gl-color-bg-light); border-radius: var(--gl-radius-lg); padding: 16px 18px; font-size: 14.5px; line-height: 1.5; display: flex; align-items: flex-start; gap: 10px; border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06); transition: transform 0.2s, box-shadow 0.2s;}
-#nad-popis .ucinky-item:hover{transform: translateY(-2px); box-shadow: 0 6px 16px rgba(var(--gl-color-primary-rgb), 0.08);}
-#nad-popis .ucinky-icon{color: var(--gl-color-primary); font-weight: bold; font-size: 16px; flex-shrink: 0; line-height: 1.4;}
-@media (max-width: 599px){#nad-popis .ucinky-grid{grid-template-columns: 1fr;}}
-#nad-popis .material-symbols-outlined{font-weight: normal; font-style: normal; line-height: 1; letter-spacing: normal; text-transform: none; white-space: nowrap; -webkit-font-smoothing: antialiased; font-size: 24px; font-family: "Material Symbols Outlined" !important;}
-#nad-popis .nad-banner{position: relative; overflow: hidden; margin: 30px 0px; border-radius: var(--gl-radius-lg); background-image: linear-gradient(135deg, rgb(253, 241, 241) 0%, rgb(255, 246, 248) 55%, rgb(251, 233, 233) 100%); background-size: cover; background-position: center center; background-repeat: no-repeat; background-color: rgb(253, 241, 241); color: rgb(47, 35, 35); border: 1px solid rgba(var(--gl-color-primary-rgb), .15); box-shadow: 0 6px 20px rgba(var(--gl-color-primary-rgb), .07); display: grid; grid-template-columns: 1fr auto; grid-template-areas: "content dose" "features dose" "btn dose"; gap: 0px 30px; align-items: start; padding: 50px 46px; min-height: 360px;}
-#nad-popis .nad-banner::after{content: none;}
-#nad-popis .nad-content,#nad-popis .nad-dose{position: relative; z-index: 2;}
-#nad-popis .nad-content{max-width: 640px; grid-area: content; align-self: center;}
-#nad-popis .nad-mol{display: block; position: absolute; top: 24px; right: 24px; width: 36%; max-width: 400px; height: auto; z-index: 1; pointer-events: none;}
-#nad-popis .nad-eyebrow{font-size: 15px; letter-spacing: 4px; text-transform: uppercase; color: var(--gl-color-primary); font-weight: 700; margin: 0px 0px 8px;}
-#nad-popis .nad-title{font-size: clamp(56px, 8.5vw, 104px); line-height: 0.9; font-weight: 800; color: var(--gl-color-primary); margin: 0px; letter-spacing: 1px; text-align: left; font-family: Metropolis, Arial, Helvetica, sans-serif !important;}
-#nad-popis .nad-sub{font-size: 26px; letter-spacing: 2px; text-transform: uppercase; color: var(--gl-color-primary-hover); font-weight: 600; margin: 6px 0px 0px;}
-#nad-popis .nad-divider{width: 92px; height: 3px; background: var(--gl-color-primary); border-radius: 3px; margin: 22px 0px;}
-#nad-popis .nad-tagline{font-size: 22px; line-height: 1.4; text-transform: uppercase; letter-spacing: 1px; color: rgb(58, 42, 42); font-weight: 600; margin: 0px 0px 26px; max-width: 580px;}
-#nad-popis .nad-tagline .nad-hl{color: var(--gl-color-primary); font-weight: 800;}
-#nad-popis .nad-features{display: flex; flex-wrap: nowrap; gap: 0px 18px; grid-area: features; margin-top: 22px;}
-#nad-popis .nad-feature{display: flex; align-items: center; gap: 11px; font-size: 14px; line-height: 1.3; color: rgb(58, 42, 42); flex: 1 1 0px; min-width: 0px;}
-#nad-popis .nad-ico{flex-shrink: 0; width: 48px; height: 48px; border-radius: 50%; border: 1.5px solid var(--gl-color-primary); display: flex; align-items: center; justify-content: center; color: var(--gl-color-primary); background: rgba(255, 255, 255, 0.55);}
-#nad-popis .nad-dose{text-align: right; align-self: end; grid-area: dose;}
-#nad-popis .nad-dose-num{display: block; font-size: 58px; font-weight: 800; color: var(--gl-color-primary); line-height: 1; white-space: nowrap;}
-#nad-popis .nad-dose-label{display: block; font-size: 17px; color: rgb(47, 35, 35); margin-top: 8px;}
-#nad-popis .nad-dose-sub{display: block; font-size: 15px; color: rgb(138, 106, 106); margin-top: 4px;}
-#nad-popis .nad-btn{grid-area: btn; justify-self: start; display: inline-flex; align-items: center; gap: 8px; margin-top: 24px; padding: 12px 28px; border-radius: 50px; text-decoration: none; background: var(--gl-color-primary); font-weight: 700; font-size: 14px; letter-spacing: 0.5px; text-transform: uppercase; box-shadow: 0 4px 14px rgba(var(--gl-color-primary-rgb), .25); transition: background 0.2s, transform 0.2s; color: rgb(255, 255, 255) !important;}
-#nad-popis .btn-s{display: inline-flex; align-items: center; gap: 8px; padding: 12px 28px; border-radius: 100px; text-decoration: none; background: var(--gl-color-primary); color: rgb(255, 255, 255); font-weight: 700; font-size: 14px; letter-spacing: 0.5px; text-transform: uppercase; box-shadow: 0 4px 14px rgba(var(--gl-color-primary-rgb), .25); transition: background 0.2s, transform 0.2s;}
-#nad-popis .nad-btn-stud{background: var(--gl-color-bg-grey);}
-#nad-popis .btn-group{grid-area: btn; display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 24px;}
-#nad-popis .btn-s::after{content: "↓"; font-size: 15px;}
-#nad-popis .btn-s:hover{background: var(--gl-color-primary-hover); transform: translateY(-1px);}
-#nad-popis .nad-info{display: none; position: relative; margin: 14px 0px 0px; padding: 26px 30px; border-radius: var(--gl-radius-lg); background: var(--gl-color-bg-light); border: 1px solid rgba(var(--gl-color-primary-rgb), .18);}
-#nad-popis .nad-info:target{display: block;}
-#nad-popis .nad-info h4{color: var(--gl-color-primary); margin: 0px 0px 12px; font-size: 20px; font-weight: bold;}
-#nad-popis .nad-info p{margin: 0px 0px 10px; font-size: 16px; line-height: 1.65; color: rgb(51, 51, 51); text-align: justify;}
-#nad-popis .nad-info-close{position: absolute; top: 14px; right: 18px; z-index: 2; color: var(--gl-color-primary); font-weight: 700; font-size: 13px; text-decoration: none; text-transform: uppercase; letter-spacing: 0.5px;}
-#nad-popis .nad-info-grid{display: flex; gap: 26px; align-items: center;}
-#nad-popis .nad-info-text{flex: 1 1 0%; min-width: 0px;}
-#nad-popis .nad-info-img{flex-shrink: 0; width: 320px; max-width: 40%; height: auto; border-radius: var(--gl-radius-lg); object-fit: cover; display: block;}
-@media (max-width: 768px){#nad-popis .nad-info-grid{flex-direction: column; gap: 18px;}
-#nad-popis .nad-info-img{width: 100%; max-width: none;}}
-@media (max-width: 768px){#nad-popis .nad-banner{grid-template-columns: 1fr; grid-template-areas: "content" "mol" "dose" "features" "btn"; gap: 0px; padding: 34px 22px; min-height: 0px; text-align: center; background-image: linear-gradient(135deg, rgb(253, 241, 241) 0%, rgb(255, 246, 248) 55%, rgb(251, 233, 233) 100%);}
-#nad-popis .nad-content{max-width: none; align-self: auto;}
-#nad-popis .nad-eyebrow{display: inline-block; border: 1.5px solid var(--gl-color-primary); border-radius: 50px; padding: 7px 20px; margin: 0px 0px 14px;}
-#nad-popis .nad-title{font-size: 66px; text-align: center;}
-#nad-popis .nad-sub{font-size: 19px;}
-#nad-popis .nad-divider{margin: 18px auto;}
-#nad-popis .nad-tagline{font-size: 17px; margin: 0px auto; max-width: none;}
-#nad-popis .nad-mol{display: block; position: static; transform: none; top: auto; right: auto; width: 50%; max-width: 340px; height: auto; margin: 18px auto 8px;}
-#nad-popis .nad-dose{text-align: center; align-self: auto; margin-top: 6px;}
-#nad-popis .nad-dose-num{font-size: 44px;}
-#nad-popis .nad-features{margin-top: 24px; gap: 0px; justify-content: center;}
-#nad-popis .nad-feature{flex: 1 1 0px; min-width: 0px; flex-direction: column; align-items: center; text-align: center; gap: 6px; font-size: 11.5px; padding: 0px 6px;}
-#nad-popis .nad-feature + .nad-feature{border-left: 1px solid rgba(var(--gl-color-primary-rgb), .28);}
-#nad-popis .nad-ico{width: 42px; height: 42px;}
-#nad-popis .nad-ico .material-symbols-outlined{font-size: 21px;}
-#nad-popis .nad-btn{justify-self: center; margin: 24px auto 0px;}}
-#nad-popis .reg-banner{position: relative; overflow: hidden; margin: 30px 0px; border-radius: var(--gl-radius-lg); background: linear-gradient(135deg, rgb(253, 241, 241) 0%, rgb(255, 246, 248) 60%, rgb(251, 233, 233) 100%); color: rgb(47, 35, 35); padding: 40px 48px 30px; border: 1px solid rgba(var(--gl-color-primary-rgb), .15); box-shadow: 0 6px 20px rgba(var(--gl-color-primary-rgb), .07);}
-#nad-popis .reg-title{font-size: 38px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: rgb(47, 35, 35); text-align: center; margin: 0px 0px 30px; font-family: Metropolis, Arial, Helvetica, sans-serif !important;}
-#nad-popis .reg-gold{color: var(--gl-color-primary);}
-#nad-popis .reg-chart{display: flex; gap: 12px;}
-#nad-popis .reg-yaxis{writing-mode: vertical-rl; transform: rotate(180deg); display: flex; align-items: center; justify-content: center; flex-shrink: 0; color: rgb(122, 58, 58); font-size: 14px; letter-spacing: 2px; text-transform: uppercase; font-weight: 700;}
-#nad-popis .reg-col{flex: 1 1 0%; display: flex; flex-direction: column; min-width: 0px;}
-#nad-popis .reg-area{position: relative; min-height: 340px; border-left: 2px solid var(--gl-color-primary); border-bottom: 2px solid var(--gl-color-primary); background-image: url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20400'%20preserveAspectRatio='none'%3E%3Cpath%20d='M0,398%20C140,150%20270,72%20440,60%20C630,46%20810,43%201000,42'%20fill='none'%20stroke='%23e06a6a'%20stroke-width='16'%20opacity='0.22'%20stroke-linecap='round'/%3E%3Cpath%20d='M0,398%20C140,150%20270,72%20440,60%20C630,46%20810,43%201000,42'%20fill='none'%20stroke='%23bf1818'%20stroke-width='5'%20stroke-linecap='round'/%3E%3Cg%20fill='%23bf1818'%20stroke='%23ffffff'%20stroke-width='3'%3E%3Ccircle%20cx='270'%20cy='105'%20r='10'/%3E%3Ccircle%20cx='480'%20cy='62'%20r='10'/%3E%3Ccircle%20cx='700'%20cy='48'%20r='10'/%3E%3Ccircle%20cx='905'%20cy='43'%20r='10'/%3E%3C/g%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: left bottom; background-size: 100% 100%;}
-#nad-popis .reg-area::before{content: ""; position: absolute; top: -9px; left: -8px; border-left: 7px solid transparent; border-right: 7px solid transparent; border-bottom: 11px solid var(--gl-color-primary);}
-#nad-popis .reg-area::after{content: ""; position: absolute; right: -11px; bottom: -8px; border-top: 7px solid transparent; border-bottom: 7px solid transparent; border-left: 11px solid var(--gl-color-primary);}
-#nad-popis .reg-caxis{position: absolute; right: 8px; bottom: 12px; color: var(--gl-color-primary); font-size: 14px; letter-spacing: 2px; text-transform: uppercase; font-weight: 700;}
-#nad-popis .reg-xticks{display: flex; justify-content: space-between; margin-top: 10px; color: rgb(122, 58, 58); font-size: 15px;}
-#nad-popis .reg-note{position: absolute; left: 41%; top: 47%; max-width: 300px; z-index: 3;}
-#nad-popis .reg-note p{margin: 0px; font-size: 18px; line-height: 1.5; color: rgb(58, 42, 42); text-align: left;}
-#nad-popis .reg-note .reg-gold{font-weight: 800;}
-#nad-popis .reg-footnote{text-align: center; color: rgb(154, 122, 122); font-size: 13px; margin: 24px 0px 0px;}
-@media (max-width: 768px){#nad-popis .reg-banner{padding: 28px 16px 22px;}
-#nad-popis .reg-title{font-size: 23px; margin-bottom: 22px;}
-#nad-popis .reg-area{min-height: 220px;}
-#nad-popis .reg-yaxis{font-size: 12px;}
-#nad-popis .reg-caxis{font-size: 12px; right: 6px; bottom: 10px;}
-#nad-popis .reg-xticks{font-size: 11.5px;}
-#nad-popis .reg-note{position: static; left: auto; top: auto; max-width: none; margin: 18px 0px 0px;}
-#nad-popis .reg-note p{font-size: 15px; text-align: center;}}
-#nad-popis,#nad-popis *{box-sizing:border-box}#nad-popis{color:#2f2323}#nad-popis [hidden]{display:none!important}#nad-popis img{max-width:100%}#nad-popis .hero-row .heroimg{width:auto;max-width:100%;height:380px;object-fit:contain}#nad-popis .cta-product-img{width:auto;max-width:220px;height:280px;object-fit:contain}#nad-popis .nad-dose-label{max-width:240px}#nad-popis .nad-features{gap:18px}#nad-popis .nad-feature{font-weight:600}#nad-popis .nad-info-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr)}#nad-popis .nad-info-img{max-width:100%}#nad-popis .custom-grid{grid-template-columns:repeat(5,minmax(0,1fr))}#nad-popis .custom-grid>div{min-width:0}#nad-popis .custom-grid img{max-width:100%;width:64px}#nad-popis .custom-grid .p-card-p{overflow-wrap:anywhere}#nad-popis .ruzovatabulka td,#nad-popis .ruzovatabulka th{overflow-wrap:anywhere}#nad-popis :focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:3px}@media(max-width:768px){#nad-popis .hero-row .heroimg{height:280px}#nad-popis .nad-info-grid{grid-template-columns:1fr}#nad-popis .custom-grid img{width:42px}}@media(min-width:600px){#nad-popis .cta-box{background:linear-gradient(to right,var(--gl-color-bg-light) 0%,var(--gl-color-bg-light) 45%,rgba(var(--gl-color-bg-light-rgb),0.85) 65%,rgba(var(--gl-color-bg-light-rgb),0.15) 100%),url("https://www.golden-life.cz/user/documents/upload/produktove_stranky/Anti-Age-Longevity-NAD.png") right center / cover no-repeat}}#nad-popis .nad-banner>.btn-group{grid-area:btn}@media(min-width:769px){#nad-popis .nad-banner{grid-template-columns:minmax(0,1fr) 260px;grid-template-areas:"content mol" "features dose" "btn dose"}#nad-popis .nad-mol{position:static;grid-area:mol;align-self:center;width:100%;max-width:260px;height:260px;object-fit:contain;margin:0}#nad-popis .nad-dose{align-self:center}}@media(max-width:768px){#nad-popis .nad-mol{grid-area:mol;width:65%;max-width:260px;object-fit:contain}}</style><div id="nad-popis"><div class="product-container"><div class="nad-banner" id="nad-banner"><div class="nad-content"><div class="nad-eyebrow">Anti-Age Longevity</div><h2 class="nad-title">NAD+</h2><div class="nad-sub">Nikotinamid ribosid</div><div class="nad-divider"></div><p class="nad-tagline">Nikotinamid ribosid, spermidin a resveratrol v jedné receptuře.</p></div><img class="nad-mol" src="/user/documents/upload/NAD/nadmolekula.png" alt="" aria-hidden="true" decoding="async"><div class="nad-dose"><span class="nad-dose-num">300 mg</span><span class="nad-dose-label">nikotinamid ribosid chloridu</span><span class="nad-dose-sub">v denní dávce (2 kapsle)</span></div><div class="nad-features"><div class="nad-feature">60 tobolek v balení</div><div class="nad-feature">2 kapsle denně</div><div class="nad-feature">30 denních dávek</div></div><div class="btn-group"><a class="btn-s" href="#nad-info">Více o nikotinamid ribosidu</a></div></div><div class="nad-info" id="nad-info"><a aria-label="Zavřít" class="nad-info-close" href="#nad-banner">Zavřít ×</a><div class="nad-info-grid"><div class="nad-info-text"><h4>Nikotinamid ribosid (NR)</h4><p>Nikotinamid ribosid chlorid (NR) je forma vitamínu B3, která v těle slouží jako přímý prekurzor NAD+, koenzymu zapojeného do mnoha biochemických procesů včetně buněčné energie. Každá denní dávka (2 kapsle) obsahuje 300 mg nikotinamid ribosid chloridu.</p></div><img alt="Nikotinamid ribosid" class="nad-info-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/01_nr_longevity_v1.png"/></div></div></div><!-- ============================================================ --> <!-- SEKCE 1: ÚVOD + HERO                                         --> <!-- ============================================================ -->
+<style>
+@import url("/user/documents/upload/css/golden-life-produkt.css");
+@import url("/user/documents/upload/css/golden-life-barvy-anti-age-longevity.css");
+</style>
+<div data-gl-copy-status="historical-working-draft-not-claims-approved" data-gl-layout="anti-age-longevity" data-gl-product="" data-gl-product-id="550" data-gl-theme="anti-age-longevity" id="nad-popis"><div class="product-container gl-550-draft-notice" role="note"><p>PRACOVNÍ KOPIE · Historický text, nikoli schválení zdravotních tvrzení. Před publikací je nutná kontrola tvrzení a rozporů v předávacím protokolu.</p></div>
+<div class="product-container">
+<div class="nad-banner" id="nad-banner">
+<div class="nad-content">
+<div class="nad-eyebrow">Anti-Age Longevity</div>
+<h2 class="nad-title">NAD+</h2>
+<div class="nad-sub">Nikotinamid ribosid</div>
+<div class="nad-divider"> </div>
+<p class="nad-tagline">Nikotinamid ribosid, spermidin a resveratrol v jedné receptuře.</p>
+</div>
+<img alt="" aria-hidden="true" class="nad-mol" decoding="async" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/NAD/nadmolekula.png"/>
+<div class="nad-dose"><span class="nad-dose-num">300 mg</span><span class="nad-dose-label">nikotinamid ribosid chloridu</span><span class="nad-dose-sub">v denní dávce (2 kapsle)</span></div>
+<div class="nad-features">
+<div class="nad-feature">60 tobolek v balení</div>
+<div class="nad-feature">2 kapsle denně</div>
+<div class="nad-feature">30 denních dávek</div>
+</div>
+<div class="btn-group"><a class="btn-s" href="#nad-info">Více o nikotinamid ribosidu</a></div>
+</div>
+<div class="nad-info" id="nad-info"><a aria-label="Zavřít" class="nad-info-close" href="#nad-banner">Zavřít ×</a>
+<div class="nad-info-grid">
+<div class="nad-info-text">
+<h4>Nikotinamid ribosid (NR)</h4>
+<p>Nikotinamid ribosid chlorid (NR) je forma vitamínu B3, která v těle slouží jako přímý prekurzor NAD+, koenzymu zapojeného do mnoha biochemických procesů včetně buněčné energie. Každá denní dávka (2 kapsle) obsahuje 300 mg nikotinamid ribosid chloridu.</p>
+</div>
+<img alt="Nikotinamid ribosid" class="nad-info-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/01_nr_longevity_v1.png"/></div>
+</div>
+</div>
+<!-- ============================================================ --> <!-- SEKCE 1: ÚVOD + HERO                                         --> <!-- ============================================================ -->
 <div class="product-container text-justify">
 <h1 class="barvaruzova text-center">Longevity tablety pro vitalitu a zdravé stárnutí</h1>
 <p class="text-justify">Na trhu existuje mnoho produktů zaměřených pouze na jeden konkrétní cíl. Anti-Age Longevity NAD+ tablety vycházejí z jiného přístupu. Vitalita, zdravé stárnutí, svěží vzhled pokožky a ochrana buněk spolu úzce souvisí, a proto dává smysl podpořit je společně prostřednictvím složek, které se vzájemně doplňují. Výsledkem je funkční komplex navržený pro každodenní podporu organismu v jednom produktu.</p>
@@ -201,33 +39,33 @@
 <div class="hero-img">
 <div class="hero-row"><img alt="Anti-Age Longevity NAD+" class="heroimg" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/6d5e610d7748124562ce4f7133cdc2c1bbd3e7f8/assets/nad-main-product.png"/></div>
 <div class="hero-icons-grid"><!-- PLACEHOLDER: 6 ikon – opakuj p-icon-card pro každou -->
-<div class="p-icon-card"><img alt="Podpora vitality" class="p-card-img" src="/user/documents/upload/piktogramy/piktogramy-bez/sytost-fialova.png"/>
+<div class="p-icon-card"><img alt="Podpora vitality" class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/sytost-fialova.png"/>
 <p class="p-card-p">Podpora vitality</p>
 </div>
-<div class="p-icon-card"><img alt="Buněčná energie a NAD+ prekurzor" class="p-card-img" src="/user/documents/upload/piktogramy/piktogramy-bez/snizeni-unavy-zelena.png"/>
+<div class="p-icon-card"><img alt="Buněčná energie a NAD+ prekurzor" class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/snizeni-unavy-zelena.png"/>
 <p class="p-card-p">Buněčná energie a NAD+ prekurzor</p>
 </div>
-<div class="p-icon-card"><img alt="Podpora zdravého stárnutí" class="p-card-img" src="/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png"/>
+<div class="p-icon-card"><img alt="Podpora zdravého stárnutí" class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png"/>
 <p class="p-card-p">Podpora zdravého stárnutí</p>
 </div>
-<div class="p-icon-card"><img alt="Péče o pleť zevnitř" class="p-card-img" src="/user/documents/upload/piktogramy/piktogramy-bez/zpevneni-pleti-zelena.png"/>
+<div class="p-icon-card"><img alt="Péče o pleť zevnitř" class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/zpevneni-pleti-zelena.png"/>
 <p class="p-card-p">Péče o pleť zevnitř</p>
 </div>
-<div class="p-icon-card"><img alt="Antioxidační ochrana" class="p-card-img" src="/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png"/>
+<div class="p-icon-card"><img alt="Antioxidační ochrana" class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png"/>
 <p class="p-card-p">Antioxidační ochrana</p>
 </div>
-<div class="p-icon-card"><img alt="Vhodné pro vegetariány a vegany" class="p-card-img" src="/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png"/>
+<div class="p-icon-card"><img alt="Vhodné pro vegetariány a vegany" class="p-card-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png"/>
 <p class="p-card-p">Vhodné pro vegetariány a vegany</p>
 </div>
 </div>
 </div>
 <!-- Jak funguje / Účinky — 2 velké karty s obrázkem -->
 <div class="latky-grid latky-grid-2">
-<div class="odstavec2 has-img"><img alt="Jak funguje" class="obrazek-odstavec" src="/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKY.png"/>
+<div class="odstavec2 has-img"><img alt="Jak funguje" class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKY.png"/>
 <h4 class="barvaruzova">Jak funguje</h4>
 <p class="p-mobil">Anti-Age Longevity NAD+ tablety pracují na několika úrovních současně. Nikotinamid ribosid chlorid (NR) slouží jako NAD+ prekurzor a podílí se na buněčných energetických procesech organismu. Spermidin z extraktu pšeničných klíčků a resveratrol z extraktu rdesna japonského doplňují recepturu o moderní longevity složky spojované s buněčnou regenerací a zdravým stárnutím. Silná antioxidační kombinace astaxanthinu, quercetinu ze Sophory japonské a kyseliny alfa-lipoové pomáhá chránit buňky před oxidačním stresem a každodenní zátěží. Apigenin z heřmánkového extraktu doplňuje recepturu o další rostlinný flavonoid.</p>
 </div>
-<div class="odstavec2 has-img"><img alt="Účinky" class="obrazek-odstavec" src="/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKYa.png"/>
+<div class="odstavec2 has-img"><img alt="Účinky" class="obrazek-odstavec" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/ANTI-AGE-LONGEVITA-NAD-TABLETKYa.png"/>
 <h4 class="barvaruzova">Účinky</h4>
 <p class="p-mobil">Anti-Age Longevity NAD+ tablety jsou navrženy pro ženy i muže, kteří chtějí podpořit energii, vitalitu a svěží vzhled pokožky a hledají moderní longevity přístup k péči o organismus zevnitř. Pravidelné užívání podporuje každodenní vitalitu, hydrataci pokožky, ochranu buněk před oxidačním stresem i celkovou regeneraci organismu. Jednotlivé složky byly vybrány tak, aby se vzájemně doplňovaly a tvořily funkční longevity komplex pro náročný životní styl a dlouhodobou péči o tělo.</p>
 </div>
@@ -286,7 +124,61 @@
 <h4 class="barvaruzova">Kyselina alfa-lipoová</h4>
 <p class="latky-teaser">100 mg kyseliny alfa-lipoové v denní dávce.</p>
 <a aria-label="Více o látce Kyselina alfa-lipoová" class="latky-plus" href="#lm-nad-alpha-lipoic-acid">+</a></div>
-</div><div class="latky-modal" id="lm-nad-nr"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Nikotinamid ribosid (NAD+ prekurzor)" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/01_nr_longevity_v1.png"/><h4 class="barvaruzova">Nikotinamid ribosid (NAD+ prekurzor)</h4><p class="p-mobil">Nikotinamid ribosid chlorid (NR) je forma vitamínu B3, která v těle slouží jako přímý prekurzor NAD+, koenzymu zapojeného do mnoha biochemických procesů včetně buněčné energie. Každá denní dávka (2 kapsle) obsahuje 300 mg nikotinamid ribosid chloridu.</p></div></div><div class="latky-modal" id="lm-nad-spermidine"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Spermidin" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/02_spermidine_longevity_v1.png"/><h4 class="barvaruzova">Spermidin</h4><p class="p-mobil">Spermidin je přirozeně se vyskytující polyamin obsažený v extraktu pšeničných klíčků (Triticum vulgare). Patří mezi moderní longevity složky studované v oblasti buněčné regenerace a zdravého stárnutí. Denní dávka (2 kapsle) obsahuje 250 mg extraktu.</p></div></div><div class="latky-modal" id="lm-nad-resveratrol"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Resveratrol" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/03_resveratrol_longevity_v1.png"/><h4 class="barvaruzova">Resveratrol</h4><p class="p-mobil">Resveratrol z extraktu rdesna japonského (Polygonum cuspidatum) patří mezi známé antioxidanty spojované s ochranou buněk před oxidačním stresem a podporou zdravého stárnutí. Denní dávka (2 kapsle) obsahuje 300 mg extraktu, tedy 150 mg čistého resveratrolu.</p></div></div><div class="latky-modal" id="lm-nad-hyaluronic-acid"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Kyselina hyaluronová" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/04_hyaluronic-acid_longevity_v1.png"/><h4 class="barvaruzova">Kyselina hyaluronová</h4><p class="p-mobil">Kyselina hyaluronová se přirozeně nachází v kůži a pojivových tkáních, kde pomáhá vázat vodu a podporuje hydrataci. S věkem její přirozená produkce klesá, a proto patří mezi oblíbené složky beauty doplňků stravy. Denní dávka (2 kapsle) obsahuje 300 mg kyseliny hyaluronové.</p></div></div><div class="latky-modal" id="lm-nad-phytoceramides"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Fytoceramidy" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/05_phytoceramides_longevity_v1.png"/><h4 class="barvaruzova">Fytoceramidy</h4><p class="p-mobil">Fytoceramidy z extraktu pšeničných klíčků jsou rostlinné analogy ceramidů, které tvoří přirozenou součást kožní bariéry. Ve spojení s kyselinou hyaluronovou podporují hydrataci a komfort pokožky. Denní dávka (2 kapsle) obsahuje 80 mg fytoceramidů.</p></div></div><div class="latky-modal" id="lm-nad-astaxanthin"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Astaxanthin" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/06_astaxanthin_longevity_v1.png"/><h4 class="barvaruzova">Astaxanthin</h4><p class="p-mobil">Astaxanthin je přírodní karotenoid produkovaný mikrořasami a patří mezi silné přírodní antioxidanty. Denní dávka (2 kapsle) obsahuje 20 mg astaxanthinu.</p></div></div><div class="latky-modal" id="lm-nad-quercetin"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Quercetin (Sophora japonica)" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/07_quercetin_longevity_v1.png"/><h4 class="barvaruzova">Quercetin (Sophora japonica)</h4><p class="p-mobil">Quercetin je flavonoid přirozeně se vyskytující v mnoha rostlinách. V produktu pochází z extraktu Sophory japonské s vysokým obsahem quercetinu. Denní dávka (2 kapsle) obsahuje 150 mg extraktu.</p></div></div><div class="latky-modal" id="lm-nad-apigenin"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Apigenin" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/08_apigenin_longevity_v1.png"/><h4 class="barvaruzova">Apigenin</h4><p class="p-mobil">Apigenin je přírodní flavonoid získaný z heřmánkového extraktu a využívá se v moderních longevity formulích zaměřených na celkovou rovnováhu organismu. Denní dávka (2 kapsle) obsahuje 150 mg heřmánkového extraktu.</p></div></div><div class="latky-modal" id="lm-nad-alpha-lipoic-acid"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a><div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Kyselina alfa-lipoová" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/09_alpha-lipoic-acid_longevity_v1.png"/><h4 class="barvaruzova">Kyselina alfa-lipoová</h4><p class="p-mobil">Kyselina alfa-lipoová je antioxidant, který působí ve vodném i tukovém prostředí a přirozeně se podílí na energetickém metabolismu. Denní dávka (2 kapsle) obsahuje 100 mg kyseliny alfa-lipoové.</p></div></div>
+</div>
+<div class="latky-modal" id="lm-nad-nr"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Nikotinamid ribosid (NAD+ prekurzor)" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/01_nr_longevity_v1.png"/>
+<h4 class="barvaruzova">Nikotinamid ribosid (NAD+ prekurzor)</h4>
+<p class="p-mobil">Nikotinamid ribosid chlorid (NR) je forma vitamínu B3, která v těle slouží jako přímý prekurzor NAD+, koenzymu zapojeného do mnoha biochemických procesů včetně buněčné energie. Každá denní dávka (2 kapsle) obsahuje 300 mg nikotinamid ribosid chloridu.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-spermidine"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Spermidin" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/02_spermidine_longevity_v1.png"/>
+<h4 class="barvaruzova">Spermidin</h4>
+<p class="p-mobil">Spermidin je přirozeně se vyskytující polyamin obsažený v extraktu pšeničných klíčků (Triticum vulgare). Patří mezi moderní longevity složky studované v oblasti buněčné regenerace a zdravého stárnutí. Denní dávka (2 kapsle) obsahuje 250 mg extraktu.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-resveratrol"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Resveratrol" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/03_resveratrol_longevity_v1.png"/>
+<h4 class="barvaruzova">Resveratrol</h4>
+<p class="p-mobil">Resveratrol z extraktu rdesna japonského (Polygonum cuspidatum) patří mezi známé antioxidanty spojované s ochranou buněk před oxidačním stresem a podporou zdravého stárnutí. Denní dávka (2 kapsle) obsahuje 300 mg extraktu, tedy 150 mg čistého resveratrolu.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-hyaluronic-acid"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Kyselina hyaluronová" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/04_hyaluronic-acid_longevity_v1.png"/>
+<h4 class="barvaruzova">Kyselina hyaluronová</h4>
+<p class="p-mobil">Kyselina hyaluronová se přirozeně nachází v kůži a pojivových tkáních, kde pomáhá vázat vodu a podporuje hydrataci. S věkem její přirozená produkce klesá, a proto patří mezi oblíbené složky beauty doplňků stravy. Denní dávka (2 kapsle) obsahuje 300 mg kyseliny hyaluronové.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-phytoceramides"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Fytoceramidy" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/05_phytoceramides_longevity_v1.png"/>
+<h4 class="barvaruzova">Fytoceramidy</h4>
+<p class="p-mobil">Fytoceramidy z extraktu pšeničných klíčků jsou rostlinné analogy ceramidů, které tvoří přirozenou součást kožní bariéry. Ve spojení s kyselinou hyaluronovou podporují hydrataci a komfort pokožky. Denní dávka (2 kapsle) obsahuje 80 mg fytoceramidů.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-astaxanthin"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Astaxanthin" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/06_astaxanthin_longevity_v1.png"/>
+<h4 class="barvaruzova">Astaxanthin</h4>
+<p class="p-mobil">Astaxanthin je přírodní karotenoid produkovaný mikrořasami a patří mezi silné přírodní antioxidanty. Denní dávka (2 kapsle) obsahuje 20 mg astaxanthinu.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-quercetin"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Quercetin (Sophora japonica)" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/07_quercetin_longevity_v1.png"/>
+<h4 class="barvaruzova">Quercetin (Sophora japonica)</h4>
+<p class="p-mobil">Quercetin je flavonoid přirozeně se vyskytující v mnoha rostlinách. V produktu pochází z extraktu Sophory japonské s vysokým obsahem quercetinu. Denní dávka (2 kapsle) obsahuje 150 mg extraktu.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-apigenin"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Apigenin" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/08_apigenin_longevity_v1.png"/>
+<h4 class="barvaruzova">Apigenin</h4>
+<p class="p-mobil">Apigenin je přírodní flavonoid získaný z heřmánkového extraktu a využívá se v moderních longevity formulích zaměřených na celkovou rovnováhu organismu. Denní dávka (2 kapsle) obsahuje 150 mg heřmánkového extraktu.</p>
+</div>
+</div>
+<div class="latky-modal" id="lm-nad-alpha-lipoic-acid"><a aria-label="Zavřít" class="latky-modal-backdrop" href="#latky"></a>
+<div class="latky-modal-box"><a aria-label="Zavřít" class="latky-modal-close" href="#latky">×</a><img alt="Kyselina alfa-lipoová" class="latky-modal-img" src="https://raw.githubusercontent.com/pavel489/goldenlife-web/dfda1914f9399bb5e7626939dcf278be32963604/assets/nad-ingredients/09_alpha-lipoic-acid_longevity_v1.png"/>
+<h4 class="barvaruzova">Kyselina alfa-lipoová</h4>
+<p class="p-mobil">Kyselina alfa-lipoová je antioxidant, který působí ve vodném i tukovém prostředí a přirozeně se podílí na energetickém metabolismu. Denní dávka (2 kapsle) obsahuje 100 mg kyseliny alfa-lipoové.</p>
+</div>
+</div>
 </div>
 <!-- ============================================================ --> <!-- SEKCE 4: CTA — OBJEDNAT                                      --> <!-- ============================================================ -->
 <div class="product-container">
@@ -295,30 +187,30 @@
 <div class="cta-text">
 <h3 class="barvaruzova">Anti-Age Longevity NAD+</h3>
 <p class="cta-meta"><strong>Balení:</strong> 60 tobolek  ·  <strong>Stačí na:</strong> 30 denních dávek</p>
-<div class="cta-price cta-price-value" hidden=""></div>
-<p class="cta-availability" hidden=""></p>
-<a class="cta-button" href="https://www.golden-life.cz/anti-age-longevity-nad-/#product-detail-form">Objednat nyní</a></div>
+
+
+<a class="cta-button" href="#product-detail-form">Přejít k výběru produktu</a></div>
 </div>
 </div>
 </div>
 <!-- ============================================================ --> <!-- SEKCE 5: JAK UŽÍVAT                                          --> <!-- ============================================================ -->
-<div class="product-container">
+<div class="product-container" data-gl-550-usage="">
 <h3 class="barvaruzova text-center">Jak užívat</h3>
 <!-- Free claims ikony (3 na mobilu, 5 na desktopu) -->
 <div class="custom-grid"><!-- PLACEHOLDER: 5 ikon "bez..." -->
-<div><img alt="Bez lepku" src="/user/documents/upload/piktogramy/neobsahuje/gluten free.png"/>
+<div><img alt="Bez lepku" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png"/>
 <p class="p-card-p">Bez lepku</p>
 </div>
-<div><img alt="Bez GMO" src="/user/documents/upload/piktogramy/neobsahuje/GMO free.png"/>
+<div><img alt="Bez GMO" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png"/>
 <p class="p-card-p">Bez GMO</p>
 </div>
-<div><img alt="Bez přídatných látek" src="/user/documents/upload/piktogramy/neobsahuje/additives free.png"/>
+<div><img alt="Bez přídatných látek" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png"/>
 <p class="p-card-p">Bez přídatných látek</p>
 </div>
-<div><img alt="Bez laktózy" src="/user/documents/upload/piktogramy/neobsahuje/lactose free.png"/>
+<div><img alt="Bez laktózy" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png"/>
 <p class="p-card-p">Bez laktózy</p>
 </div>
-<div><img alt="Bez cukru" src="/user/documents/upload/piktogramy/neobsahuje/sugar free.png"/>
+<div><img alt="Bez cukru" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png"/>
 <p class="p-card-p">Bez cukru</p>
 </div>
 </div>
@@ -349,7 +241,7 @@
 <!-- ============================================================ --> <!-- SEKCE 7: TABULKY — SOUHRNNÝ OBSAH                           --> <!-- Opakuj tabulku pro každý komplex (Beauty, Slimming, B-komp.)--> <!-- ============================================================ -->
 <div class="product-container">
 <h3 class="barvaruzova text-center">Aktivní látky v denní dávce</h3>
-<table class="ruzovatabulka tabulka">
+<div aria-label="Aktivní látky v denní dávce" class="gl-550-table-scroll" role="region" tabindex="0"><table class="ruzovatabulka tabulka">
 <tbody>
 <tr>
 <th>Aktivní látka</th>
@@ -396,6 +288,35 @@
 <td>100 mg</td>
 </tr>
 </tbody>
-</table>
+</table></div>
 </div>
-</div><script>(function(){'use strict';var root=document.getElementById('nad-popis');if(!root)return;var queued=false,failed=new Set();var targets=root.querySelectorAll('.heroimg,.cta-product-img');var defaults=Array.prototype.map.call(targets,function(x){return x.getAttribute('src')});function set(img,url){if(!url||img.getAttribute('src')===url)return;['srcset','sizes','data-src','data-srcset'].forEach(function(k){img.removeAttribute(k)});img.src=url}function sync(){queued=false;if(!root.isConnected){observer.disconnect();return}var f=document.getElementById('product-detail-form'),id=f&&f.querySelector('input[name="productId"]');if(!id||id.value!=='550'){Array.prototype.forEach.call(targets,function(img,i){set(img,defaults[i])});root.querySelectorAll('.cta-price-value,.cta-availability').forEach(function(x){x.hidden=true;if(x.textContent)x.textContent=''});return}var price=document.querySelector('.price-final-holder'),avail=document.querySelector('.availability-value');[[price,root.querySelector('.cta-price-value')],[avail,root.querySelector('.cta-availability')]].forEach(function(pair){var text=pair[0]&&pair[0].textContent.trim();if(text&&pair[1].textContent!==text)pair[1].textContent=text;if(pair[1].hidden===!!text)pair[1].hidden=!text});var image=document.querySelector('#main-slider-slide01 img'),url=image&&(image.currentSrc||image.getAttribute('src'));var ok=image&&!root.contains(image)&&image.complete&&image.naturalWidth>1&&url&&!failed.has(url)&&!/missing_images|missing-image|no-image/i.test(url);Array.prototype.forEach.call(targets,function(img,i){set(img,ok&&url.indexOf('550_sliim-extremecollagen-box-mango-sleep-glp.png')<0?url:defaults[i])})}function schedule(){if(!queued){queued=true;requestAnimationFrame(sync)}}Array.prototype.forEach.call(targets,function(img,i){img.addEventListener('error',function(){var url=img.getAttribute('src');if(url!==defaults[i]){failed.add(url);set(img,defaults[i])}})});root.querySelector('.cta-button').addEventListener('click',function(e){var form=document.getElementById('product-detail-form'),id=form&&form.querySelector('input[name="productId"]');if(!id||id.value!=='550')return;e.preventDefault();form.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'start'});var button=form.querySelector('button[type="submit"],input[type="submit"]');if(button)button.focus({preventScroll:true})});var observer=new MutationObserver(schedule);observer.observe(document.documentElement,{childList:true,subtree:true,characterData:true,attributes:true,attributeFilter:['src','srcset','value','id']});document.addEventListener('load',function(e){if(!root.contains(e.target))schedule()},true);if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',schedule,{once:true});window.addEventListener('pagehide',function(){observer.disconnect()},{once:true});schedule()})();</script>
+<div class="product-container"><p class="dobloku">Doplněk stravy. Není náhradou pestré a vyvážené stravy. Nepřekračujte doporučenou denní dávku. Uchovávejte mimo dosah dětí.</p></div></div>
+<script id="gl-550-mobile-bootstrap">(function(){'use strict';var root=document.querySelector('#nad-popis[data-gl-product-id="550"]');if(!root||root.dataset.glMobileReady)return;root.dataset.glMobileReady='true';var media=window.matchMedia('(max-width: 767px)');var cleanups=[];function readMore(paragraphs,id,intro){if(!paragraphs.length)return;var box=document.createElement('div');box.className='gl-mobile-copy'+(intro?' gl-mobile-intro':'');box.id=id;paragraphs[0].before(box);paragraphs.forEach(function(p){box.appendChild(p);});var button=document.createElement('button');button.type='button';button.className='gl-mobile-toggle';button.textContent='Zobrazit více';button.setAttribute('aria-controls',id);button.setAttribute('aria-expanded','false');button.setAttribute('aria-label','Zobrazit více: '+(intro?'Anti-Age Longevity NAD+':box.parentElement.querySelector('h4,h3').textContent));box.after(button);button.addEventListener('click',function(){var expanded=box.classList.toggle('is-expanded');button.textContent=expanded?'Zobrazit méně':'Zobrazit více';button.setAttribute('aria-expanded',String(expanded));button.setAttribute('aria-label',(expanded?'Zobrazit méně: ':'Zobrazit více: ')+(intro?'Anti-Age Longevity NAD+':box.parentElement.querySelector('h4,h3').textContent));if(!expanded&&box.getBoundingClientRect().bottom<0)box.scrollIntoView({block:'start'});});cleanups.push(function(){button.remove();while(box.firstChild)box.before(box.firstChild);box.remove();});}
+function mobile(){if(cleanups.length)return;root.setAttribute('data-gl-mobile-active','');var heading=root.querySelector('h1');if(heading){var paragraphs=[],sibling=heading.nextElementSibling;while(sibling&&sibling.tagName==='P'){paragraphs.push(sibling);sibling=sibling.nextElementSibling;}
+readMore(paragraphs,'gl-550-mobile-intro',true);}
+Array.prototype.forEach.call(root.querySelectorAll('.latky-grid-2 > .odstavec2'),function(card,i){var title=card.querySelector('h4');if(title&&/Jak funguje|Účinky/.test(title.textContent))readMore(Array.prototype.slice.call(card.querySelectorAll(':scope > p')),'gl-550-mobile-detail-'+i,false);});var usage=root.querySelector('[data-gl-550-usage]');if(usage)readMore(Array.prototype.slice.call(usage.querySelectorAll(':scope > p')),'gl-550-mobile-usage',false);
+var cta=root.querySelector('.cta-text');if(cta){var meta=document.createElement('p');meta.className='gl-mobile-cta-summary';meta.textContent='60 tobolek · 30 denních dávek · 2 kapsle denně';cta.appendChild(meta);cleanups.push(function(){meta.remove();});}}
+function update(){if(media.matches)mobile();else{cleanups.forEach(function(fn){fn();});cleanups=[];root.removeAttribute('data-gl-mobile-active');}}
+if(media.addEventListener)media.addEventListener('change',update);else media.addListener(update);update();})();</script>
+<script id="gl-550-main-photo-sync">(function(){'use strict';
+var root=document.querySelector('#nad-popis[data-gl-product-id="550"]');
+if(!root||root.dataset.glMainPhotoReady)return;root.dataset.glMainPhotoReady='true';
+var fallback="https://raw.githubusercontent.com/pavel489/goldenlife-web/6d5e610d7748124562ce4f7133cdc2c1bbd3e7f8/assets/nad-main-product.png",failed=new Set(),pending=false;
+function targets(){return Array.prototype.slice.call(root.querySelectorAll('.hero-row .heroimg,.cta-content .cta-product-img'));}
+function set(img,url){if(!url||img.getAttribute('src')===url)return;['srcset','sizes','data-src','data-srcset','data-lazy','loading'].forEach(function(a){img.removeAttribute(a);});img.src=url;}
+function sync(){pending=false;if(!root.isConnected){observer.disconnect();return;}
+var form=document.querySelector('form#product-detail-form'),id=form&&form.querySelector('input[name="productId"]');
+var image=document.querySelector('#main-slider-slide01 img')||document.querySelector('.p-image[data-testid="mainImage"] img,.p-image img');
+var url=image&&(image.currentSrc||image.getAttribute('src'));
+var valid=id&&id.value==='550'&&image&&!root.contains(image)&&image.complete&&image.naturalWidth>1&&url&&!failed.has(url)&&!/missing_images|missing-image|no-image/i.test(url);
+targets().forEach(function(img){if(!img.dataset.glMainPhotoErrorReady){img.dataset.glMainPhotoErrorReady='true';img.addEventListener('error',function(){var bad=img.getAttribute('src');if(bad&&bad!==fallback){failed.add(bad);set(img,fallback);schedule();}});}set(img,valid?url:fallback);});}
+function schedule(){if(!pending){pending=true;queueMicrotask(sync);}}
+var observer=new MutationObserver(schedule);observer.observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['src','srcset','sizes','data-src','value','id']});
+document.addEventListener('load',function(e){if(!root.contains(e.target))schedule();},true);
+document.addEventListener('error',function(e){if(!root.contains(e.target))schedule();},true);
+document.addEventListener('change',schedule,true);document.addEventListener('input',schedule,true);
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',schedule,{once:true});
+window.addEventListener('pagehide',function(){observer.disconnect();},{once:true});schedule();
+})();
+</script>
+<script id="gl-550-dialog-accessibility">(function(){'use strict';var root=document.querySelector('#nad-popis[data-gl-product-id="550"]');if(!root||root.dataset.glDialogsReady)return;root.dataset.glDialogsReady='true';var active=null,returnTo=null;var links=Array.prototype.slice.call(root.querySelectorAll('.latky-plus'));var panels=Array.prototype.slice.call(root.querySelectorAll('.latky-modal'));panels.forEach(function(p,i){p.setAttribute('role','dialog');p.setAttribute('aria-modal','true');var h=p.querySelector('h4');if(h){h.id='gl-550-dialog-heading-'+i;p.setAttribute('aria-labelledby',h.id);}});links.forEach(function(a){a.setAttribute('aria-haspopup','dialog');a.setAttribute('aria-controls',a.hash.slice(1));a.addEventListener('click',function(){returnTo=a;});});function update(){var next=panels.find(function(p){return '#'+p.id===location.hash;})||null;panels.forEach(function(p){p.setAttribute('aria-hidden',String(p!==next));});links.forEach(function(a){a.setAttribute('aria-expanded',String(next&&a.hash==='#'+next.id||false));});if(next!==active){var was=active;active=next;if(active){active.querySelector('.latky-modal-close').focus({preventScroll:true});}else if(was&&returnTo){returnTo.focus({preventScroll:true});}}}root.addEventListener('keydown',function(e){if(!active)return;if(e.key==='Escape'){e.preventDefault();location.hash='latky';return;}if(e.key==='Tab'){var xs=Array.prototype.slice.call(active.querySelectorAll('a[href],button,[tabindex="0"]')).filter(function(x){return x.checkVisibility();});var first=xs[0],last=xs[xs.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});window.addEventListener('hashchange',update);update();})();</script>

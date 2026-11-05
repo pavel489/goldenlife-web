@@ -77,3 +77,34 @@
   --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
   --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
 }
+
+/* ID550 component adaptation. Original theme bytes above remain unchanged. */
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"]{--gl-550-note-bg:#fff7e5;--gl-550-note-text:#543d15;--gl-550-toggle-bg:var(--gl-color-primary);--gl-550-toggle-text:#fff}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-550-draft-notice{background:var(--gl-550-note-bg);color:var(--gl-550-note-text);border:1px solid currentColor;border-radius:12px;margin:16px auto;padding:12px 16px;font-size:13px;line-height:1.5;text-align:left}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-550-table-scroll{overflow-x:auto;max-width:100%;min-width:0}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] table.tabulka{display:table;width:100%;table-layout:fixed}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] table.tabulka th,#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] table.tabulka td{overflow-wrap:anywhere;white-space:normal}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;align-items:start;flex-wrap:nowrap}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-ikony>div{min-width:0;max-width:100%;overflow-wrap:anywhere;line-height:1.35}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-ikony .p-card-img{display:block;margin:0 auto 6px;max-width:100%;object-fit:contain}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-produkt-info span{min-width:0;max-width:100%;white-space:normal;overflow-wrap:anywhere}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-produkt-info .maly-davkovani,[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-produkt-info .maly-vydrz{flex-basis:100%}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .product-container.text-justify>h2{text-align:left}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .cta-text>.cta-meta{display:block}
+@media(max-width:767px){
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-mobile-copy:not(.is-expanded){max-height:8.25em;overflow:hidden;position:relative}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-mobile-copy{line-height:1.65}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-mobile-copy:not(.is-expanded)::after{content:"";position:absolute;inset:auto 0 0;height:22px;background:linear-gradient(transparent,var(--gl-color-bg-light));pointer-events:none}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-mobile-copy p{display:block;text-align:left}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-mobile-toggle{display:block;min-height:44px;margin:8px 12px 14px;padding:10px 16px;border:0;border-radius:24px;background:var(--gl-550-toggle-bg);color:var(--gl-550-toggle-text);font-size:14px;font-weight:700;cursor:pointer}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .gl-mobile-cta-summary{font-size:13px;text-align:center;color:var(--gl-color-text-muted)}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .cta-text>.cta-meta{display:block}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .latky-grid-2>.odstavec2{min-width:0}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .nad-banner{min-width:0;padding-left:16px;padding-right:16px}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .nad-content,#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .nad-dose{min-width:0;max-width:100%}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .nad-title{font-size:clamp(36px,13vw,64px);overflow-wrap:anywhere}
+#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .nad-eyebrow,#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .nad-sub,#nad-popis[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] .nad-dose-label{overflow-wrap:anywhere;max-width:100%}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-popis{text-align:left}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-ikony>div{font-size:10px}
+[data-gl-theme="anti-age-longevity"][data-gl-product-id="550"] #nad-short .maly-ikony .p-card-img{width:36px;height:36px}
+}
