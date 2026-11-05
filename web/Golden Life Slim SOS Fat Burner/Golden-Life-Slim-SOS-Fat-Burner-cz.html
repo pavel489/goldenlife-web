@@ -45,7 +45,7 @@
 </div>
 </div><p>Doplněk stravy. Není náhradou pestré a vyvážené stravy. Nepřekračujte doporučenou denní dávku. Uchovávejte mimo dosah dětí.</p></div><div class="product-container"><div class="latky"><h3 class="barvaruzova text-center">Složení</h3><p class="dobloku">Obsahuje: Chitosan, extrakt z bílých fazolí, červená řepa, jablečný ocet a chrom.</p><p class="dobloku"><strong>Alergen: korýši (chitosan).</strong></p></div></div><div class="product-container"><h3 class="barvaruzova text-center">Množství látek v denní dávce</h3><table class="ruzovatabulka tabulka" data-gl-table="three-columns">
 <tbody>
-<tr style="background-color: var(--gl-color-primary); color: white;">
+<tr class="gl-slim-table-heading">
 <th>Ingredience</th>
 <th>v 1 tobolce</th>
 <th>ve 2 tobolkách (denní dávka)</th>
@@ -103,3 +103,4 @@ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',
 window.addEventListener('pagehide',function(){observer.disconnect();},{once:true});schedule();
 })();
 </script>
+<script id="gl-slim473-dialog-a11y">(function(){'use strict';var root=document.querySelector('#special-popis[data-gl-product-id="473"]');if(!root||root.dataset.glDialogReady)return;root.dataset.glDialogReady="true";var previous=null,active=null;function update(){var id=location.hash.slice(1);var next=Array.prototype.find.call(root.querySelectorAll(".latky-modal,.nad-info"),function(e){return e.id===id;});if(active&&active!==next){active.removeAttribute("aria-modal");if(previous&&previous.isConnected)previous.focus({preventScroll:true});}active=next||null;if(active){active.setAttribute("role","dialog");active.setAttribute("aria-modal","true");var title=active.querySelector("h4,h3");if(title){if(!title.id)title.id=active.id+"-title";active.setAttribute("aria-labelledby",title.id);}var close=active.querySelector(".latky-modal-close,.nad-info-close");if(close)close.focus({preventScroll:true});}}root.addEventListener("click",function(e){var a=e.target.closest("a[href]");if(a&&(a.matches(".latky-plus")||a.getAttribute("href")==="#nad-info"))previous=a;});window.addEventListener("hashchange",update);document.addEventListener("keydown",function(e){if(!active)return;if(e.key==="Escape"){e.preventDefault();var a=active.querySelector(".latky-modal-close,.nad-info-close");if(a)a.click();}else if(e.key==="Tab"){var links=Array.prototype.filter.call(active.querySelectorAll("a[href],button,[tabindex]"),function(x){return !x.classList.contains("latky-modal-backdrop");});if(!links.length)return;var first=links[0],last=links[links.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});update();})();</script>

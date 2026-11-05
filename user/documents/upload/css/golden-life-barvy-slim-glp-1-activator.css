@@ -91,3 +91,8 @@
 [data-gl-theme="slim-glp-1-activator"] .maly-ikony>div{min-width:0;overflow-wrap:anywhere;line-height:1.3}
 [data-gl-theme="slim-glp-1-activator"] .maly-ikony .p-card-img{max-width:100%;object-fit:contain}
 @media(max-width:600px){[data-gl-theme="slim-glp-1-activator"] .maly-ikony{gap:4px}[data-gl-theme="slim-glp-1-activator"] .maly-ikony>div{font-size:10px}[data-gl-theme="slim-glp-1-activator"] .maly-ikony .p-card-img{width:36px;height:36px}}
+
+/* 4C: local additions only for native SKU 476; original theme prefix retained byte-for-byte. */
+#special-popis[data-gl-product-id="476"][data-gl-theme="slim-glp-1-activator"] .gl-slim-nextida-art{background-image: url('https://www.golden-life.cz/user/documents/upload/GLPBLESKY.png'); background-size: cover; background-position: center; padding: 40px 20px; border-radius: var(--gl-radius-lg); text-align: center; margin: 20px 0;}
+#special-popis[data-gl-product-id="476"][data-gl-theme="slim-glp-1-activator"] .gl-slim-nextida-title{color: #fff; font-size: 2.2rem; margin-bottom: 16px;}
+#special-popis[data-gl-product-id="476"][data-gl-theme="slim-glp-1-activator"] .gl-slim-nextida-copy{color: #fff; max-width: 900px; margin: 0 auto; line-height: 1.6;}

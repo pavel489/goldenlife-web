@@ -86,3 +86,8 @@
 
 /* Exact row-colour icons already carry #E40E7E RGB; never filter ingredient photographs. */
 [data-gl-theme="slim-sos-fat-burner"] img[data-gl-row-icon="slim-pink"]{filter:none!important}
+
+/* 4C: local additions only for native SKU 473; original theme prefix retained byte-for-byte. */
+[data-gl-product-id="473"][data-gl-theme="slim-sos-fat-burner"] .gl-slim-table-heading{background-color:var(--gl-color-primary);color:white}
+[data-gl-product-id="473"][data-gl-theme="slim-sos-fat-burner"] .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;align-items:start}[data-gl-product-id="473"][data-gl-theme="slim-sos-fat-burner"] .maly-ikony>div{min-width:0;overflow-wrap:anywhere;line-height:1.3}[data-gl-product-id="473"][data-gl-theme="slim-sos-fat-burner"] .maly-ikony .p-card-img{max-width:100%;object-fit:contain}
+@media(max-width:600px){[data-gl-product-id="473"][data-gl-theme="slim-sos-fat-burner"] .maly-ikony>div{font-size:10px}[data-gl-product-id="473"][data-gl-theme="slim-sos-fat-burner"] .maly-ikony .p-card-img{width:36px;height:36px}}

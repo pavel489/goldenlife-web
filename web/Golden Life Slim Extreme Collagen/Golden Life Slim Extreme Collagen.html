@@ -393,34 +393,28 @@
   if (holder) { obs.observe(holder, { childList: true, subtree: true, characterData: true }); }
 })();
 
-/* Natažení produktového obrázku z hlavního slideru */
-(function() {
-  function syncHeroImg() {
-    var slide = document.getElementById('main-slider-slide01');
-    if (!slide) return false;
-    var slideImg = slide.querySelector('a > img');
-    if (!slideImg || !slideImg.src) return false;
-    var done = false;
-    var heroImg = document.querySelector('.hero-row .heroimg');
-    if (heroImg) { heroImg.src = slideImg.src; done = true; }
-    var ctaImg = document.querySelector('.cta-product-img');
-    if (ctaImg) { ctaImg.src = slideImg.src; done = true; }
-    return done;
-  }
-  /* Zkusit hned */
-  if (syncHeroImg()) return;
-  /* Zkusit po DOMContentLoaded */
-  document.addEventListener('DOMContentLoaded', function() {
-    if (syncHeroImg()) return;
-    /* Opakovat každých 500ms, max 20x (10s) */
-    var attempts = 0;
-    var iv = setInterval(function() {
-      if (syncHeroImg() || ++attempts >= 20) clearInterval(iv);
-    }, 500);
-  });
-  /* Sledovat změny v DOM pro případ pozdního renderování */
-  var mo = new MutationObserver(function() {
-    if (syncHeroImg()) mo.disconnect();
-  });
-  mo.observe(document.documentElement, { childList: true, subtree: true });
-})();</script>
+/* ID168 guarded gallery synchronization; original price bridge above is unchanged. */
+(function(){'use strict';
+var root=document.querySelector('#special-popis[data-gl-product-id="168"]');
+if(!root||root.dataset.glMainPhotoReady)return;root.dataset.glMainPhotoReady='true';
+var fallback="https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",failed=new Set(),pending=false;
+function targets(){return Array.prototype.slice.call(root.querySelectorAll('.hero-row .heroimg,.cta-content .cta-product-img'));}
+function set(img,url){if(!url||img.getAttribute('src')===url)return;['srcset','sizes','data-src','data-srcset','data-lazy','loading'].forEach(function(a){img.removeAttribute(a);});img.src=url;}
+function sync(){pending=false;if(!root.isConnected){observer.disconnect();return;}
+var form=document.querySelector('form#product-detail-form'),id=form&&form.querySelector('input[name="productId"]');
+var image=document.querySelector('#main-slider-slide01 img')||document.querySelector('.p-image[data-testid="mainImage"] img,.p-image img');
+var url=image&&(image.currentSrc||image.getAttribute('src'));
+var valid=id&&id.value==='168'&&image&&!root.contains(image)&&image.complete&&image.naturalWidth>1&&url&&!failed.has(url)&&!/missing_images|missing-image|no-image/i.test(url);
+targets().forEach(function(img){if(!img.dataset.glMainPhotoErrorReady){img.dataset.glMainPhotoErrorReady='true';img.addEventListener('error',function(){var bad=img.getAttribute('src');if(bad&&bad!==fallback){failed.add(bad);set(img,fallback);schedule();}});}set(img,valid?url:fallback);});}
+function schedule(){if(!pending){pending=true;queueMicrotask(sync);}}
+var observer=new MutationObserver(schedule);observer.observe(document.documentElement,{childList:true,subtree:true,attributes:true,attributeFilter:['src','srcset','sizes','data-src','value','id']});
+document.addEventListener('load',function(e){if(!root.contains(e.target))schedule();},true);
+document.addEventListener('error',function(e){if(!root.contains(e.target))schedule();},true);
+document.addEventListener('change',schedule,true);document.addEventListener('input',schedule,true);
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',schedule,{once:true});
+window.addEventListener('pagehide',function(){observer.disconnect();},{once:true});schedule();
+})();
+</script>
+<script id="gl-slim168-mobile">(function(){'use strict';var root=document.querySelector('#special-popis[data-gl-product-id="168"]');if(!root||root.dataset.glMobileReady)return;root.dataset.glMobileReady="true";var media=matchMedia("(max-width:767px)"),box,button;function update(){if(media.matches&&!box){var h=root.querySelector("h1"),p=h&&h.nextElementSibling;if(!p||p.tagName!=="P")return;box=document.createElement("div");box.className="gl-mobile-copy gl-mobile-intro";box.id="gl-slim168-intro";p.before(box);box.appendChild(p);button=document.createElement("button");button.type="button";button.className="gl-mobile-toggle";button.textContent="Zobrazit více";button.setAttribute("aria-controls",box.id);button.setAttribute("aria-expanded","false");button.setAttribute("aria-label","Zobrazit více: Slim Extreme Collagen");box.after(button);root.setAttribute("data-gl-slim168-mobile-active","");button.addEventListener("click",function(){var on=box.classList.toggle("is-expanded");button.textContent=on?"Zobrazit méně":"Zobrazit více";button.setAttribute("aria-expanded",String(on));button.setAttribute("aria-label",(on?"Zobrazit méně: ":"Zobrazit více: ")+"Slim Extreme Collagen");});}else if(!media.matches&&box){while(box.firstChild)box.before(box.firstChild);box.remove();button.remove();box=null;button=null;root.removeAttribute("data-gl-slim168-mobile-active");}}if(media.addEventListener)media.addEventListener("change",update);else media.addListener(update);update();})();</script>
+
+<script id="gl-slim168-dialog-a11y">(function(){'use strict';var root=document.querySelector('#special-popis[data-gl-product-id="168"]');if(!root||root.dataset.glDialogReady)return;root.dataset.glDialogReady="true";var previous=null,active=null;function update(){var id=location.hash.slice(1);var next=Array.prototype.find.call(root.querySelectorAll(".latky-modal,.nad-info"),function(e){return e.id===id;});if(active&&active!==next){active.removeAttribute("aria-modal");if(previous&&previous.isConnected)previous.focus({preventScroll:true});}active=next||null;if(active){active.setAttribute("role","dialog");active.setAttribute("aria-modal","true");var title=active.querySelector("h4,h3");if(title){if(!title.id)title.id=active.id+"-title";active.setAttribute("aria-labelledby",title.id);}var close=active.querySelector(".latky-modal-close,.nad-info-close");if(close)close.focus({preventScroll:true});}}root.addEventListener("click",function(e){var a=e.target.closest("a[href]");if(a&&(a.matches(".latky-plus")||a.getAttribute("href")==="#nad-info"))previous=a;});window.addEventListener("hashchange",update);document.addEventListener("keydown",function(e){if(!active)return;if(e.key==="Escape"){e.preventDefault();var a=active.querySelector(".latky-modal-close,.nad-info-close");if(a)a.click();}else if(e.key==="Tab"){var links=Array.prototype.filter.call(active.querySelectorAll("a[href],button,[tabindex]"),function(x){return !x.classList.contains("latky-modal-backdrop");});if(!links.length)return;var first=links[0],last=links[links.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});update();})();</script>
