@@ -1,0 +1,1017 @@
+{
+  "source_git_commit": "c4e862ff8504f7c9d8283e95a2d1f8f97efd33aa",
+  "checked_at": "2026-11-05T18:58:41.996245+00:00",
+  "product_count": 3,
+  "HTML_fields": 6,
+  "products": [
+    {
+      "id": "416",
+      "title": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "long": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css",
+      "source_provenance": {
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/416-slim-extreme-collagen-sacek.html",
+        "sha256": "b70e7816e72c7b750a10f9ed6cece0fe10f8e9d6bdf23e2479e020bc35219801",
+        "mode": "byte-verified-public-archive-own-native-ID",
+        "live_verified": false
+      },
+      "own_product_formula_only": true,
+      "source_substantive_p_li_preserved": 33,
+      "original_full_dialog_raw_bytes_preserved": 6,
+      "ingredient_dialogs": 6,
+      "extra_banner_info_panels": 1,
+      "tables": 2,
+      "table_cells": 105,
+      "raw_cell_innerHTML_equal": true,
+      "DOM_cell_innerHTML_equal": true,
+      "mandatory_disclaimer_exact": true,
+      "static_inline_style_count": 0,
+      "main_photo_URL": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/416-2_sacek-web-slim-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6acdf086&sg=38cb01fe",
+      "actual_main_photo_pixels_verified": false,
+      "CTA": "#product-detail-form",
+      "hashes": {
+        "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html": "9e5e1c1d3415af711b95a41e09230932cfb75b78349c9cb9ce34f1bbb3d8d689",
+        "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html": "d490cb895a31e55291b42c0b521099cdd0a942526e1a1af7851045ff2cb8a701",
+        "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css": "49bd888441c0447974b9b3994d550e482c0d773695a0dbf5ab64238d1db9b1c1"
+      }
+    },
+    {
+      "id": "464",
+      "title": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "long": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css",
+      "source_provenance": {
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/464-slim-extreme-collagen-box-ananas-mango.html",
+        "sha256": "bfb5df6c5f9bb9eef710d343f1a8189edc3fefb08a3d1ac4f8f8ddc84a1e4ed9",
+        "mode": "byte-verified-public-archive-own-native-ID",
+        "live_verified": false
+      },
+      "own_product_formula_only": true,
+      "source_substantive_p_li_preserved": 31,
+      "original_full_dialog_raw_bytes_preserved": 6,
+      "ingredient_dialogs": 6,
+      "extra_banner_info_panels": 1,
+      "tables": 2,
+      "table_cells": 105,
+      "raw_cell_innerHTML_equal": true,
+      "DOM_cell_innerHTML_equal": true,
+      "mandatory_disclaimer_exact": true,
+      "static_inline_style_count": 0,
+      "main_photo_URL": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+      "actual_main_photo_pixels_verified": false,
+      "CTA": "#product-detail-form",
+      "hashes": {
+        "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html": "d5a4c11934cc349d96a7e6e6fd85bc49fc0c8e2151a585b27d06cb4b70470aae",
+        "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html": "ebf4c2f0c89fdbf00de9072f7ccea4e67cdbf8bce5e776b6cbbf3232c834ae7a",
+        "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css": "be7d503f56d6ef71e9c2da74b0976bac970bb66018379c046fa5baac7e934b96"
+      }
+    },
+    {
+      "id": "467",
+      "title": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "long": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css",
+      "source_provenance": {
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/467-slim-extreme-collagen-sacek-s-prichuti-ananas-mango.html",
+        "sha256": "8051dae215dd28250d3690a6834c0aa7a6431389fcc55c7a77d058c4666e90c4",
+        "mode": "byte-verified-public-archive-own-native-ID",
+        "live_verified": false
+      },
+      "own_product_formula_only": true,
+      "source_substantive_p_li_preserved": 31,
+      "original_full_dialog_raw_bytes_preserved": 6,
+      "ingredient_dialogs": 6,
+      "extra_banner_info_panels": 1,
+      "tables": 2,
+      "table_cells": 105,
+      "raw_cell_innerHTML_equal": true,
+      "DOM_cell_innerHTML_equal": true,
+      "mandatory_disclaimer_exact": true,
+      "static_inline_style_count": 0,
+      "main_photo_URL": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+      "actual_main_photo_pixels_verified": false,
+      "CTA": "#product-detail-form",
+      "hashes": {
+        "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html": "7bd03594c8e5720f384f1e78709ddb066429aa7bf07b0e60de67f183ed095c30",
+        "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html": "ab040763689e40c15837c01fc57914e33ff08a5b4b1e81cc32a2a69c84526518",
+        "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css": "ba52e04aa93c84a1a709814fc75d57b370728109991e6bd6ef87fca246824101"
+      }
+    }
+  ],
+  "common_framework_unchanged": true,
+  "reference_source_hashes_unchanged": true,
+  "tables_total": 6,
+  "table_cells_total": 315,
+  "unique_ingredient_dialogs": 18,
+  "extra_banner_info_panels": 3,
+  "downloadable_preview_tests": {
+    "pass": true,
+    "scenarios": [
+      {
+        "id": "416",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "416",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "416",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "464",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -5411,
+              "w": 83.1875
+            },
+            {
+              "y": -5411,
+              "w": 83.203125
+            },
+            {
+              "y": -5411,
+              "w": 83.203125
+            },
+            {
+              "y": -5411,
+              "w": 83.203125
+            },
+            {
+              "y": -5411,
+              "w": 83.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "464",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -8346.5,
+              "w": 67.1875
+            },
+            {
+              "y": -8346.5,
+              "w": 67.203125
+            },
+            {
+              "y": -8346.5,
+              "w": 67.203125
+            },
+            {
+              "y": -8346.5,
+              "w": 67.203125
+            },
+            {
+              "y": -8346.5,
+              "w": 67.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "464",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -9538.5,
+              "w": 53.1875
+            },
+            {
+              "y": -9538.5,
+              "w": 53.203125
+            },
+            {
+              "y": -9538.5,
+              "w": 53.203125
+            },
+            {
+              "y": -9538.5,
+              "w": 53.203125
+            },
+            {
+              "y": -9538.5,
+              "w": 53.203125
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "467",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -5419,
+              "w": 83.1875
+            },
+            {
+              "y": -5419,
+              "w": 83.203125
+            },
+            {
+              "y": -5419,
+              "w": 83.203125
+            },
+            {
+              "y": -5419,
+              "w": 83.203125
+            },
+            {
+              "y": -5419,
+              "w": 83.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "467",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -8324.5,
+              "w": 67.1875
+            },
+            {
+              "y": -8324.5,
+              "w": 67.203125
+            },
+            {
+              "y": -8324.5,
+              "w": 67.203125
+            },
+            {
+              "y": -8324.5,
+              "w": 67.203125
+            },
+            {
+              "y": -8324.5,
+              "w": 67.1875
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "467",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -9527.5,
+              "w": 53.1875
+            },
+            {
+              "y": -9527.5,
+              "w": 53.203125
+            },
+            {
+              "y": -9527.5,
+              "w": 53.203125
+            },
+            {
+              "y": -9527.5,
+              "w": 53.203125
+            },
+            {
+              "y": -9527.5,
+              "w": 53.203125
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "416",
+        "width": 1440,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 0,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            },
+            {
+              "y": -5694,
+              "w": 84
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "416",
+        "width": 390,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            },
+            {
+              "y": -9064.5,
+              "w": 68
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      },
+      {
+        "id": "416",
+        "width": 320,
+        "pass": true,
+        "pointer_dialogs": 6,
+        "mobile_toggles": 3,
+        "metrics": {
+          "longOverflow": 0,
+          "shortOverflow": 0,
+          "icons": [
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            },
+            {
+              "y": -10534.5,
+              "w": 54
+            }
+          ],
+          "badTableText": [],
+          "realEmbeddedImageErrors": [],
+          "missingImageSlots": 18,
+          "primary": "#e3127e",
+          "dialogs": 6
+        },
+        "evidence_level": "Exact downloadable isolated file, cached original assets and explicit unavailable image slots. Not current full-shop runtime."
+      }
+    ],
+    "javascript_errors": [],
+    "external_requests": [],
+    "repeated_variant_switching": true,
+    "gallery_pixel_tests": "Not performed; current native gallery not requested after the previously verified 403 block.",
+    "live_shop_test": "Not performed; current public page not requested after the previously verified 403 block."
+  },
+  "416_functional_tests": {
+    "pass": true,
+    "scenarios": [
+      {
+        "id": "416",
+        "width": 1440,
+        "javascript": true,
+        "pass": true,
+        "ingredient_dialogs": 6,
+        "banner_info_dialog": 1,
+        "mobile_toggles": 0,
+        "metrics": {
+          "overflow": 0,
+          "fullText": true,
+          "badImgs": 0
+        },
+        "scope": "Actual delivered416 UI scripts in exact direct offline document; no live native gallery or shop."
+      },
+      {
+        "id": "416",
+        "width": 390,
+        "javascript": true,
+        "pass": true,
+        "ingredient_dialogs": 6,
+        "banner_info_dialog": 1,
+        "mobile_toggles": 3,
+        "metrics": {
+          "overflow": 0,
+          "fullText": true,
+          "badImgs": 0
+        },
+        "scope": "Actual delivered416 UI scripts in exact direct offline document; no live native gallery or shop."
+      },
+      {
+        "id": "416",
+        "width": 320,
+        "javascript": true,
+        "pass": true,
+        "ingredient_dialogs": 6,
+        "banner_info_dialog": 1,
+        "mobile_toggles": 3,
+        "metrics": {
+          "overflow": 0,
+          "fullText": true,
+          "badImgs": 0
+        },
+        "scope": "Actual delivered416 UI scripts in exact direct offline document; no live native gallery or shop."
+      },
+      {
+        "id": "416",
+        "width": 390,
+        "javascript": false,
+        "pass": true,
+        "ingredient_dialogs": 6,
+        "banner_info_dialog": 1,
+        "mobile_toggles": 0,
+        "metrics": {
+          "overflow": 0,
+          "fullText": true,
+          "badImgs": 0
+        },
+        "scope": "Actual delivered416 UI scripts in exact direct offline document; no live native gallery or shop."
+      }
+    ],
+    "narrow_short_host240": {
+      "overflow": 0,
+      "items": [
+        {
+          "y": 376,
+          "w": 44,
+          "overflow": 0
+        },
+        {
+          "y": 376,
+          "w": 44,
+          "overflow": 0
+        },
+        {
+          "y": 376,
+          "w": 44,
+          "overflow": 0
+        },
+        {
+          "y": 376,
+          "w": 44,
+          "overflow": 0
+        },
+        {
+          "y": 376,
+          "w": 44,
+          "overflow": 0
+        }
+      ]
+    },
+    "keyboard_focus_escape_actual": true,
+    "zero_JS_errors": true,
+    "gallery_logic_fixture": {
+      "pass": true,
+      "microtask_with_rAF_disabled": true,
+      "wrong_native_ID_rejected": true,
+      "matching_mock_ID_and_source_replacement_exercised": true,
+      "fixture_pixels": "Two real cached pictogram images, explicitly synthetic native DOM. They are NOT own product photographs and are never in delivered photos.",
+      "actual_native_gallery_verified": false,
+      "CSP_or_route_blocked_request_events": 4,
+      "completed_external_fetches": []
+    },
+    "live_shop_verified": false
+  },
+  "mango_test_summary": {
+    "assertions": 372,
+    "passed": 372,
+    "screenshots": 14,
+    "external_request_events": 346,
+    "external_failed": 346,
+    "external_finished": 0,
+    "external_route_denied": 0
+  },
+  "mango_test_output_root": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/out",
+  "mango_CSP_event_counts": {
+    "events": 346,
+    "failed": 346,
+    "completed": 0
+  },
+  "parent_finish": [
+    {
+      "id": "464",
+      "static_attributes_externalized": [
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        }
+      ],
+      "banner_flavour_black": true,
+      "short_label_size_px": 10,
+      "source_child_output_unchanged": true,
+      "production_theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css"
+    },
+    {
+      "id": "467",
+      "static_attributes_externalized": [
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "long_path",
+          "tag": "tr",
+          "style": "background-color: var(--gl-color-primary); color: white;",
+          "new_class": "gl-4d-inline-4f32e09da2"
+        },
+        {
+          "field": "short_path",
+          "tag": "hr",
+          "style": "border: 2px solid #ebebeb; border-radius: 5px;",
+          "new_class": "gl-4d-inline-c8d6287b9c"
+        },
+        {
+          "field": "short_path",
+          "tag": "img",
+          "style": "height: 20px;",
+          "new_class": "gl-4d-inline-0e8d6167b2"
+        },
+        {
+          "field": "short_path",
+          "tag": "div",
+          "style": "flex-basis: 50%; text-align: left; margin-right: 10px; margin: 5px 0px 5px 0px;",
+          "new_class": "gl-4d-inline-2f99771c4e"
+        },
+        {
+          "field": "short_path",
+          "tag": "div",
+          "style": "display: flex;",
+          "new_class": "gl-4d-inline-9a3532edd1"
+        },
+        {
+          "field": "short_path",
+          "tag": "img",
+          "style": "height: 20px;",
+          "new_class": "gl-4d-inline-0e8d6167b2"
+        },
+        {
+          "field": "short_path",
+          "tag": "div",
+          "style": "flex-basis: 70%; text-align: left; margin-right: 10px; margin: 5px 0px 5px 0px;",
+          "new_class": "gl-4d-inline-3b01833b51"
+        },
+        {
+          "field": "short_path",
+          "tag": "div",
+          "style": "display: flex;",
+          "new_class": "gl-4d-inline-9a3532edd1"
+        },
+        {
+          "field": "short_path",
+          "tag": "hr",
+          "style": "border: 2px solid #ebebeb; border-radius: 5px;",
+          "new_class": "gl-4d-inline-c8d6287b9c"
+        },
+        {
+          "field": "short_path",
+          "tag": "p",
+          "style": "text-align: justify;",
+          "new_class": "gl-4d-inline-46295e8b65"
+        },
+        {
+          "field": "short_path",
+          "tag": "p",
+          "style": "text-align: justify;",
+          "new_class": "gl-4d-inline-46295e8b65"
+        }
+      ],
+      "banner_flavour_black": true,
+      "short_label_size_px": 10,
+      "source_child_output_unchanged": true,
+      "production_theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css"
+    }
+  ],
+  "syntax_validation": {
+    "css": {
+      "pass": true,
+      "parser": "tinycss2",
+      "errors": []
+    },
+    "js": {
+      "pass": true,
+      "validator": "Node vm.Script",
+      "script_count": 9
+    }
+  },
+  "preview_report": {
+    "file": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/qa/collagen-varianty-pracovni-nahled.html",
+    "bytes": 1355608,
+    "products": [
+      {
+        "id": "416",
+        "unavailable_image_occurrences": 18,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/slim_sacek_drzeni_svetle-pozadi_v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/slim_sacek_trhani_svetle-pozadi_v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/416-2_sacek-web-slim-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6acdf086&sg=38cb01fe"
+        ]
+      },
+      {
+        "id": "464",
+        "unavailable_image_occurrences": 19,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/Alice_mango_A.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/Alice_mango_B.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_01_garcinia-cambogia.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_02_kyselina-hyaluronova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_03_mineraly-a-enzymy.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_04_b-komplex.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_05_vitaminy-c-a-e.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_06_zeleny-caj.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe"
+        ]
+      },
+      {
+        "id": "467",
+        "unavailable_image_occurrences": 21,
+        "unavailable_image_urls": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/Alice_mango_A.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/Alice_mango_B.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_01_garcinia-cambogia.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_02_kyselina-hyaluronova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_03_mineraly-a-enzymy.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_04_b-komplex.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_05_vitaminy-c-a-e.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_06_zeleny-caj.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20ruzova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe"
+        ]
+      }
+    ],
+    "unique_unavailable_dependencies": [
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/Alice_mango_A.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/Alice_mango_B.jpg",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_01_garcinia-cambogia.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_02_kyselina-hyaluronova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_03_mineraly-a-enzymy.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_04_b-komplex.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_05_vitaminy-c-a-e.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/slim-ananas-mango_06_zeleny-caj.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20ruzova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/slim_sacek_drzeni_svetle-pozadi_v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/slim_sacek_trhani_svetle-pozadi_v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/416-2_sacek-web-slim-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6acdf086&sg=38cb01fe",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+      "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    ],
+    "unavailable_assets_are_not_fake_successes": true,
+    "shop_live_verified": false,
+    "preview_only_differences": [
+      "No native gallery or purchase host; photo synchronizer removed from preview only.",
+      "Only real available cached/Git assets embedded. Missing images explicitly marked and not substituted.",
+      "Standalone narrow short-description host, not a verified current shop-sidebar rendering.",
+      "All network and purchase operations disabled."
+    ]
+  },
+  "screenshot_verification": [
+    {
+      "id": "416",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 2705,
+      "file": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/qa/416-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "416",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1468,
+      "file": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/qa/416-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "464",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 3068,
+      "file": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/qa/464-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "464",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1622,
+      "file": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/qa/464-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "467",
+      "width": 1440,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 3038,
+      "file": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/qa/467-desktop.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    },
+    {
+      "id": "467",
+      "width": 390,
+      "visibility_with_ancestor_opacity": true,
+      "sample_unique_colors": 1554,
+      "file": "/root/workspace/research/css-audit-1793883385/step4d-collagen-variants/qa/467-mobile.jpg",
+      "capture": "Unframed actual isolated document; not clipped iframe element."
+    }
+  ],
+  "asset_complete": false,
+  "live_shop_verified": false,
+  "actual_current_native_gallery_verified": false,
+  "shop_requests_this_job": 0,
+  "shop_saved": false,
+  "public_CSS_uploaded": false,
+  "claims_approved": false,
+  "phase4_complete": false,
+  "claims_ledger_rows": 189
+}

@@ -1,0 +1,126 @@
+/* Barevný model: slim-extreme-collagen-sacek-ananas-mango. Použij po golden-life-produkt.css. */
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) {
+  --gl-color-bg-grey: #f0f0f0;
+  --gl-color-bg-light: #fdf0f7;
+  --gl-color-bg-light-rgb: 253,240,247;
+  --gl-color-primary: #e3127e;
+  --gl-color-primary-hover: #c30f6a;
+  --gl-color-primary-rgb: 227,18,126;
+  --gl-color-success: #27ae60;
+  --gl-color-table-bg: #f2dae9;
+  --gl-color-table-border: var(--gl-color-primary-hover);
+  --gl-color-table-row-alt: #f7ebf3;
+  --gl-color-text-muted: #555;
+  --gl-color-text-subtle: #999;
+  --gl-icon-filter: none;
+  --gl-tone-btn-s-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
+  --gl-tone-btn-s-color-1: #fff;
+  --gl-tone-cta-box-background-1: #fff7fb;
+  --gl-tone-cta-box-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+  --gl-tone-cta-button-color-1: white;
+  --gl-tone-cta-button-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-cta-button-hover-color-1: white;
+  --gl-tone-cta-product-img-filter-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-data-gl-mobile-active-cta-product-img-background-1: #f5f5f5;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-background-1: rgba(245,245,245,.96);
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-color-1: #3b2430;
+  --gl-tone-data-gl-mobile-active-cta-text-h3-background-1: #f5f5f5;
+  --gl-tone-data-gl-mobile-active-gl-mobile-intro-not-is-expanded-after-background-1: #fff;
+  --gl-tone-data-gl-mobile-active-gl-mobile-toggle-background-1: #fff;
+  --gl-tone-data-gl-mobile-active-story-block-text-background-1: rgba(24,12,18,.91);
+  --gl-tone-data-gl-mobile-active-story-block-text-background-2: rgba(24,12,18,.72);
+  --gl-tone-data-gl-mobile-active-story-block-text-gl-mobile-story-summary-color-1: #fff;
+  --gl-tone-data-gl-mobile-active-story-block-text-h3-color-1: #fff;
+  --gl-tone-hero-img-background-1: #fff7fb;
+  --gl-tone-hero-row-heroimg-filter-1: rgba(var(--gl-color-primary-rgb),0.18);
+  --gl-tone-latky-grid-4-latky-swipe-scrollbar-color-1: rgba(var(--gl-color-primary-rgb),0.12);
+  --gl-tone-latky-grid-4-latky-swipe-webkit-scrollbar-track-background-1: rgba(var(--gl-color-primary-rgb),0.12);
+  --gl-tone-latky-modal-backdrop-background-1: rgba(0,0,0,0.6);
+  --gl-tone-latky-modal-box-background-1: #fff;
+  --gl-tone-latky-modal-box-box-shadow-1: rgba(0,0,0,0.35);
+  --gl-tone-latky-modal-close-background-1: rgba(255,255,255,0.92);
+  --gl-tone-latky-modal-close-box-shadow-1: rgba(0,0,0,0.25);
+  --gl-tone-latky-plus-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-latky-plus-color-1: #fff;
+  --gl-tone-maly-hr-background-1: var(--gl-color-primary);
+  --gl-tone-maly-ikony-div-color-1: var(--gl-color-primary);
+  --gl-tone-maly-produkt-background-1: var(--gl-color-bg-light);
+  --gl-tone-maly-produkt-info-color-1: #333;
+  --gl-tone-maly-produkt-nazev-color-1: var(--gl-color-primary);
+  --gl-tone-nad-banner-background-color-1: var(--gl-color-bg-light);
+  --gl-tone-nad-banner-background-image-1: var(--gl-color-bg-light);
+  --gl-tone-nad-banner-background-image-2: #fff7fb;
+  --gl-tone-nad-banner-background-image-3: #fbe9e9;
+  --gl-tone-nad-banner-border-1: rgba(var(--gl-color-primary-rgb),.15);
+  --gl-tone-nad-banner-box-shadow-1: rgba(var(--gl-color-primary-rgb),.07);
+  --gl-tone-nad-banner-color-1: #2f2323;
+  --gl-tone-nad-btn-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
+  --gl-tone-nad-btn-color-1: #fff;
+  --gl-tone-nad-dose-label-color-1: #2f2323;
+  --gl-tone-nad-dose-sub-color-1: #8a6a6a;
+  --gl-tone-nad-feature-color-1: #3a2a2a;
+  --gl-tone-nad-feature-nad-feature-border-left-1: rgba(var(--gl-color-primary-rgb),.28);
+  --gl-tone-nad-ico-background-1: rgba(255,255,255,.55);
+  --gl-tone-nad-info-border-1: rgba(var(--gl-color-primary-rgb),.18);
+  --gl-tone-nad-info-p-color-1: #333;
+  --gl-tone-nad-tagline-color-1: #3a2a2a;
+  --gl-tone-p-icon-card-background-1: rgba(255,255,255,0.92);
+  --gl-tone-p-icon-card-border-1: rgba(var(--gl-color-primary-rgb),0.06);
+  --gl-tone-p-icon-card-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.04);
+  --gl-tone-p-icon-card-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+  --gl-tone-reg-banner-background-1: var(--gl-color-bg-light);
+  --gl-tone-reg-banner-background-2: #fff7fb;
+  --gl-tone-reg-banner-background-3: #fbe9e9;
+  --gl-tone-reg-banner-border-1: rgba(var(--gl-color-primary-rgb),.15);
+  --gl-tone-reg-banner-box-shadow-1: rgba(var(--gl-color-primary-rgb),.07);
+  --gl-tone-reg-banner-color-1: #2f2323;
+  --gl-tone-reg-footnote-color-1: #9a7a7a;
+  --gl-tone-reg-note-p-color-1: #3a2a2a;
+  --gl-tone-reg-title-color-1: #2f2323;
+  --gl-tone-reg-xticks-color-1: #7a3a3a;
+  --gl-tone-reg-yaxis-color-1: #7a3a3a;
+  --gl-tone-ruzovatabulka-tabulka-tr-first-child-th-color-1: white;
+  --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
+  --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
+}
+
+/* Vlastní ananas–mango značka; sdílený layout se nekopíruje. */
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px;align-items:start}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-ikony>div{min-width:0;overflow-wrap:anywhere;line-height:1.3}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-produkt-info .maly-davkovani{white-space:normal;min-width:0;align-items:flex-start}
+@media(max-width:600px){:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-ikony>div{font-size:10px}:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-ikony .p-card-img{width:36px;height:36px;max-width:100%;object-fit:contain}}
+
+
+/* Lokální obsahové adaptéry: tabulka má stále nativní table layout, buňky bez ořezu. */
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka th:first-child,:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka td:first-child{width:40%}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka th:nth-child(2),:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka td:nth-child(2),:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka th:nth-child(3),:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka td:nth-child(3){width:30%}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka th,:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka td{overflow-wrap:anywhere;word-break:normal;white-space:normal;box-sizing:border-box}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .gl-draft-notice{border:2px solid #8c4300;background:#fff5de;color:#542700;padding:12px;margin:12px 0;font:14px/1.5 Arial,sans-serif;text-align:left;overflow-wrap:anywhere}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .gl-history{border:1px solid #ad7b41;border-radius:8px;padding:10px;margin:12px 0;background:#fff8ed;text-align:left;overflow-wrap:anywhere}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .gl-history summary{cursor:pointer;font-weight:700}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .gl-sales-unit{font-weight:600;text-align:left}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-popis{ text-align:left }
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"])[data-gl-layout="woman-hormonal-balance-short"] p[style]{text-align:left!important}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .latky-modal-box::before{content:"Interní draft – neověřená účinková tvrzení, nepublikovat";display:block;padding:12px 54px 12px 14px;background:#fff5de;color:#542700;font:13px/1.5 Arial,sans-serif}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-ikony>div{font-size:10px;line-height:1.35;margin:0;min-width:0;overflow-wrap:anywhere}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-ikony .p-card-img{width:36px;height:36px;max-width:100%;object-fit:contain;filter:none}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-produkt{padding:12px}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .maly-produkt-info span{white-space:normal;min-width:0;overflow-wrap:anywhere}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .nad-title{overflow-wrap:anywhere}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .latky-modal-box{overscroll-behavior:contain}
+#special-popis[data-gl-mobile-active]:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .cta-text .gl-history .cta-meta{display:block}
+@media(max-width:767px){:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka td,:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .ruzovatabulka.tabulka th{padding:8px 5px;font-size:11px;line-height:1.45}:where([data-gl-theme="slim-extreme-collagen-sacek-ananas-mango"]) .latky-modal{padding:12px;box-sizing:border-box}}
+
+/* Parent4D finish: externalize only existing static declarations; product copy and modal bytes untouched. */
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .gl-4d-inline-0e8d6167b2{height: 20px;}
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .gl-4d-inline-2f99771c4e{flex-basis: 50%; text-align: left; margin-right: 10px; margin: 5px 0px 5px 0px;}
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .gl-4d-inline-3b01833b51{flex-basis: 70%; text-align: left; margin-right: 10px; margin: 5px 0px 5px 0px;}
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .gl-4d-inline-46295e8b65{text-align: justify;}
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .gl-4d-inline-4f32e09da2{background-color: var(--gl-color-primary); color: white;}
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .gl-4d-inline-9a3532edd1{display: flex;}
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .gl-4d-inline-c8d6287b9c{border: 2px solid #ebebeb; border-radius: 5px;}
+
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .nad-title{color:#171717;}
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"] .maly-ikony>div>div{font-size:10px;line-height:1.25;}
+
+:is(#special-popis,#gl-short-467)[data-gl-product-id="467"][data-gl-layout="woman-hormonal-balance-short"] p.gl-4d-inline-46295e8b65{text-align:left!important;}
