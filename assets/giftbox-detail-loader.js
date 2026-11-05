@@ -48,7 +48,7 @@ function a(e,t){return n(e)||r(e,t)||o(e,t)||i()}function o(e,n){if(e){if(typeof
     if (u.protocol !== 'https:' || u.username || u.password) throw new Error('source-css-url');
     if (allowedOrigins.has(u.origin) && u.pathname.startsWith('/user/documents/upload/UFIRST/') && brandCSS.has(u.pathname.slice('/user/documents/upload/UFIRST/'.length))) return u.href;
     // Golden Life core descriptions use this exact, verified canonical dependency.
-    if (allowedOrigins.has(u.origin) && u.pathname === '/user/documents/upload/css/golden-life-produkt.css' && !u.search) return u.href;
+    if (allowedOrigins.has(u.origin) && ['/user/documents/upload/css/golden-life-produkt.css','/user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css'].includes(u.pathname) && !u.search) return u.href;
     if (u.origin === 'https://fonts.googleapis.com' && u.pathname === '/css2' && u.searchParams.getAll('family').every(f => /^(Inter|Material Symbols Outlined)(:|$)/.test(f)) && u.searchParams.has('family')) return u.href;
     throw new Error('source-css-url');
   }
@@ -214,7 +214,13 @@ function a(e,t){return n(e)||r(e,t)||o(e,t)||i()}function o(e,n){if(e){if(typeof
     if (!copy.querySelector('#special-popis,.ufirst-detail') && !copy.matches('#special-popis,.ufirst-detail')) copy.id='special-popis';
     const clean = purifier.sanitize(copy.outerHTML, {RETURN_DOM_FRAGMENT:true,ADD_ATTR:['target'],USE_PROFILES:{html:true,svg:true},FORBID_TAGS:['script','style','iframe','object','embed','form','base','meta','link','foreignObject'],FORBID_ATTR:['srcdoc','formaction','autofocus']});
     const wrap=document.createElement('div');wrap.append(clean);
-    wrap.querySelectorAll('table').forEach(table => { table.classList.add('gl-reader-table');table.tabIndex=0;table.setAttribute('aria-label','Tabulka produktu – lze posouvat'); });
+    // Scroll the wrapper, not the table: display:block on TABLE shrinks its row grid.
+    wrap.querySelectorAll('table').forEach(table => {
+      const scroll = document.createElement('div');
+      scroll.className = 'gl-reader-table';scroll.tabIndex = 0;
+      scroll.setAttribute('role','region');scroll.setAttribute('aria-label','Tabulka produktu – lze posouvat');
+      table.before(scroll);scroll.append(table);
+    });
     wrap.querySelectorAll('.material-symbols-outlined').forEach(n=>n.style.setProperty('font-family','Material Symbols Outlined','important'));
     return {html:wrap.innerHTML,css:styles.join('\n'),fonts,icons:!!wrap.querySelector('.material-symbols-outlined')};
   }
