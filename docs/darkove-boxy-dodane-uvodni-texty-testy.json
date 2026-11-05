@@ -1,0 +1,98 @@
+[
+  {
+    "box": "longevity",
+    "field": "long",
+    "viewport": 1440,
+    "exact_text": true,
+    "width": 1100,
+    "overflow": 0,
+    "pictograms": 6,
+    "title": "Golden Life Dárkový box – Longevity",
+    "textBeforeBenefits": true
+  },
+  {
+    "box": "longevity",
+    "field": "long",
+    "viewport": 390,
+    "exact_text": true,
+    "width": 355,
+    "overflow": 0,
+    "pictograms": 6,
+    "title": "Golden Life Dárkový box – Longevity",
+    "textBeforeBenefits": true
+  },
+  {
+    "box": "longevity",
+    "field": "long",
+    "viewport": 320,
+    "exact_text": true,
+    "width": 285,
+    "overflow": 0,
+    "pictograms": 6,
+    "title": "Golden Life Dárkový box – Longevity",
+    "textBeforeBenefits": true
+  },
+  {
+    "box": "slim",
+    "field": "long",
+    "viewport": 1440,
+    "exact_text": true,
+    "width": 1100,
+    "overflow": 0,
+    "pictograms": 6,
+    "title": "Golden Life Dárkový box – Collagen Slim",
+    "textBeforeBenefits": true
+  },
+  {
+    "box": "slim",
+    "field": "short",
+    "viewport": 1440,
+    "exact_text": true,
+    "toggle": true,
+    "width": 460,
+    "overflow": 0,
+    "pictograms": 6
+  },
+  {
+    "box": "slim",
+    "field": "long",
+    "viewport": 390,
+    "exact_text": true,
+    "width": 355,
+    "overflow": 0,
+    "pictograms": 6,
+    "title": "Golden Life Dárkový box – Collagen Slim",
+    "textBeforeBenefits": true
+  },
+  {
+    "box": "slim",
+    "field": "short",
+    "viewport": 390,
+    "exact_text": true,
+    "toggle": true,
+    "width": 355,
+    "overflow": 0,
+    "pictograms": 6
+  },
+  {
+    "box": "slim",
+    "field": "long",
+    "viewport": 320,
+    "exact_text": true,
+    "width": 285,
+    "overflow": 0,
+    "pictograms": 6,
+    "title": "Golden Life Dárkový box – Collagen Slim",
+    "textBeforeBenefits": true
+  },
+  {
+    "box": "slim",
+    "field": "short",
+    "viewport": 320,
+    "exact_text": true,
+    "toggle": true,
+    "width": 285,
+    "overflow": 0,
+    "pictograms": 6
+  }
+]
