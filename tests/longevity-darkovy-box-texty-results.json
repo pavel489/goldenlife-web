@@ -1,0 +1,162 @@
+{
+  "checkedAtUTC": "2026-11-05T15:06:38.679875+00:00",
+  "sourceParent": "93d6f9a187641cde2a4e2fb9537e4515db96a806",
+  "static": {
+    "shoptet/longevity.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 56,
+      "sha256": "05bb7985b3fcd6d44bdbc153c026f82bc17e25f72ef85bb87fcb779cfdce2f55"
+    },
+    "shoptet/longevity-kratky.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 7,
+      "sha256": "fb09eea0547ba86dc4e185d5bf11c9e25941863e9539ccc0e5c10daf779445a2"
+    },
+    "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 56,
+      "sha256": "5fca58f4da062290722db15fec8636f62519966c0afdae3330b94d4bae11359a"
+    },
+    "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 7,
+      "sha256": "7249fb8698e47d7211c9693e56dbb4ca4e41bf72bb3e897216747caa19b28430"
+    }
+  },
+  "browser": {
+    "scope": "Temporary same-origin full-shop response override. No live CMS save.",
+    "viewports": {
+      "1440": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "6 000 mg kolagenu Peptan®",
+          "30 sáčků s příchutí maliny",
+          "Nikotinamid ribosid (NR)",
+          "Veganské kapsle",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "6 000 mg kolagenu Peptan®",
+          "30 sáčků s příchutí maliny",
+          "Nikotinamid ribosid (NR)",
+          "Veganské kapsle",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "Beauty & Longevity NAD+",
+          "Anti-Age Longevity NAD+",
+          "Good Sleep & Night Burn",
+          "Láhev Golden Life",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 6,
+        "hero": 1024,
+        "shortText": "Celý rok myslí na ostatní, tak jí letos daruj péči jen pro ni. V elegantní krabici najde nápoj Beauty & Longevity NAD+ s 6 000 mg mořského kolagenu Peptan®, kapsle Anti-Age Longevity NAD+, večerní Good Sleep & Night Burn, láhev a dobíjecí míchátko. Za 3 990 Kč místo 4 690 Kč. Ušetříš 700 Kč.",
+        "readers": [
+          {
+            "id": "544",
+            "length": 35755,
+            "scripts": 0,
+            "title": "Podrobně: Beauty & Longevity NAD+"
+          },
+          {
+            "id": "550",
+            "length": 35875,
+            "scripts": 0,
+            "title": "Podrobně: Anti-Age Longevity NAD+"
+          },
+          {
+            "id": "57",
+            "length": 271641,
+            "scripts": 0,
+            "title": "Podrobně: Good Sleep & Night Burn"
+          },
+          {
+            "id": "597",
+            "length": 5810,
+            "scripts": 0,
+            "title": "Podrobně: Láhev Golden Life"
+          },
+          {
+            "id": "653",
+            "length": 29922,
+            "scripts": 0,
+            "title": "Podrobně: USB Míchátko"
+          }
+        ]
+      },
+      "390": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "6 000 mg kolagenu Peptan®",
+          "30 sáčků s příchutí maliny",
+          "Nikotinamid ribosid (NR)",
+          "Veganské kapsle",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "6 000 mg kolagenu Peptan®",
+          "30 sáčků s příchutí maliny",
+          "Nikotinamid ribosid (NR)",
+          "Veganské kapsle",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "Beauty & Longevity NAD+",
+          "Anti-Age Longevity NAD+",
+          "Good Sleep & Night Burn",
+          "Láhev Golden Life",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 6,
+        "hero": 1024,
+        "shortText": "Celý rok myslí na ostatní, tak jí letos daruj péči jen pro ni. V elegantní krabici najde nápoj Beauty & Longevity NAD+ s 6 000 mg mořského kolagenu Peptan®, kapsle Anti-Age Longevity NAD+, večerní Good Sleep & Night Burn, láhev a dobíjecí míchátko. Za 3 990 Kč místo 4 690 Kč. Ušetříš 700 Kč.",
+        "readers": [
+          {
+            "id": "544",
+            "length": 35755,
+            "scripts": 0,
+            "title": "Podrobně: Beauty & Longevity NAD+"
+          },
+          {
+            "id": "550",
+            "length": 35875,
+            "scripts": 0,
+            "title": "Podrobně: Anti-Age Longevity NAD+"
+          },
+          {
+            "id": "57",
+            "length": 271641,
+            "scripts": 0,
+            "title": "Podrobně: Good Sleep & Night Burn"
+          },
+          {
+            "id": "597",
+            "length": 5810,
+            "scripts": 0,
+            "title": "Podrobně: Láhev Golden Life"
+          },
+          {
+            "id": "653",
+            "length": 29922,
+            "scripts": 0,
+            "title": "Podrobně: USB Míchátko"
+          }
+        ]
+      }
+    },
+    "errors": []
+  }
+}
