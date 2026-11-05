@@ -1,0 +1,489 @@
+{
+  "static": {
+    "shoptet/hormonal-kratky.html": {
+      "scriptsByteIdentical": true,
+      "stylesByteIdentical": true,
+      "exactSuppliedTextCount": 7,
+      "photoCartReaderBindingUnchanged": true,
+      "sixPngIcons": true,
+      "sha256": "4aa12e48e7451cf564fb748940c485dce1f8c7d665978109c0d652e6dc19afdd"
+    },
+    "shoptet/hormonal.html": {
+      "scriptsByteIdentical": true,
+      "stylesByteIdentical": true,
+      "exactSuppliedTextCount": 58,
+      "photoCartReaderBindingUnchanged": true,
+      "sixPngIcons": true,
+      "sha256": "c89983c5e7a171ff414e4a96edf5154cdc042bde9c8714d503d21d5c66e05b88"
+    },
+    "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html": {
+      "scriptsByteIdentical": true,
+      "stylesByteIdentical": true,
+      "exactSuppliedTextCount": 58,
+      "photoCartReaderBindingUnchanged": true,
+      "sixPngIcons": true,
+      "sha256": "d176b92d4876d74067e3a88248bf86409d2ebbb324d7ea7408b0382613a4d096"
+    },
+    "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html": {
+      "scriptsByteIdentical": true,
+      "stylesByteIdentical": true,
+      "exactSuppliedTextCount": 7,
+      "photoCartReaderBindingUnchanged": true,
+      "sixPngIcons": true,
+      "sha256": "d44f6dd7646330d58b85f14b500335c4c47ff1c371b6449cf7968a1e74dd4fe4"
+    }
+  },
+  "browser": {
+    "scope": "Isolated offline shop fixture from real saved public HTML; five child descriptions and exact CSS/JS/font dependencies served from cache. Six pinned PNGs loaded over real HTTPS from GitHub, including cross-origin masks. Shop/CDN requests blocked after actual shop HTTP403; no live photo, gallery, availability or native-shop certification.",
+    "sourcePublicSnapshot": "Exact previously saved public product 668 and child products 635,644,550,597,653, same authorized design work.",
+    "viewports": {
+      "1440": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "Večerní višňový nápoj",
+          "30 sáčků",
+          "Vitamin D3 a K2",
+          "8 rostlinných extraktů",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "Večerní višňový nápoj",
+          "30 sáčků",
+          "Vitamin D3 a K2",
+          "8 rostlinných extraktů",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "Peptides GLP-1 Woman Balance Dark Cherry",
+          "Woman Hormonal Balance se shatavari",
+          "Anti-Age Longevity NAD+",
+          "Láhev Golden Life",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 7,
+        "shortText": "Darujte krásu, pohodu a chvíli jen pro sebe! Tento nádherný vánoční box je ideálním dárkem pro ženy 40+, které chtějí pečovat o pleť, vlasy i kosti, dopřát si každý večer klidný rituál a cítit se skvěle v každém věku.",
+        "rootId": "",
+        "maskColours": [
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)"
+        ],
+        "iconDecode": [
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          }
+        ],
+        "cartDisabled": false,
+        "readers": [
+          {
+            "id": "635",
+            "length": 34730,
+            "scripts": 0,
+            "title": "Podrobně: Peptides GLP-1 Woman Balance Dark Cherry"
+          },
+          {
+            "id": "644",
+            "length": 38477,
+            "scripts": 0,
+            "title": "Podrobně: Woman Hormonal Balance se Shatavari"
+          },
+          {
+            "id": "550",
+            "length": 35875,
+            "scripts": 0,
+            "title": "Podrobně: Anti-Age Longevity NAD+"
+          },
+          {
+            "id": "597",
+            "length": 5810,
+            "scripts": 0,
+            "title": "Podrobně: Láhev Golden Life"
+          },
+          {
+            "id": "653",
+            "length": 29858,
+            "scripts": 0,
+            "title": "Podrobně: USB Míchátko"
+          }
+        ],
+        "allFaqPointerOpenClose": true,
+        "shortPointerOpenClose": true
+      },
+      "390": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "Večerní višňový nápoj",
+          "30 sáčků",
+          "Vitamin D3 a K2",
+          "8 rostlinných extraktů",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "Večerní višňový nápoj",
+          "30 sáčků",
+          "Vitamin D3 a K2",
+          "8 rostlinných extraktů",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "Peptides GLP-1 Woman Balance Dark Cherry",
+          "Woman Hormonal Balance se shatavari",
+          "Anti-Age Longevity NAD+",
+          "Láhev Golden Life",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 7,
+        "shortText": "Darujte krásu, pohodu a chvíli jen pro sebe! Tento nádherný vánoční box je ideálním dárkem pro ženy 40+, které chtějí pečovat o pleť, vlasy i kosti, dopřát si každý večer klidný rituál a cítit se skvěle v každém věku.",
+        "rootId": "",
+        "maskColours": [
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)"
+        ],
+        "iconDecode": [
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          }
+        ],
+        "cartDisabled": false,
+        "readers": [
+          {
+            "id": "635",
+            "length": 34730,
+            "scripts": 0,
+            "title": "Podrobně: Peptides GLP-1 Woman Balance Dark Cherry"
+          },
+          {
+            "id": "644",
+            "length": 38477,
+            "scripts": 0,
+            "title": "Podrobně: Woman Hormonal Balance se Shatavari"
+          },
+          {
+            "id": "550",
+            "length": 35875,
+            "scripts": 0,
+            "title": "Podrobně: Anti-Age Longevity NAD+"
+          },
+          {
+            "id": "597",
+            "length": 5810,
+            "scripts": 0,
+            "title": "Podrobně: Láhev Golden Life"
+          },
+          {
+            "id": "653",
+            "length": 29858,
+            "scripts": 0,
+            "title": "Podrobně: USB Míchátko"
+          }
+        ],
+        "allFaqPointerOpenClose": true,
+        "shortPointerOpenClose": true
+      },
+      "360": {
+        "longOverflow": false,
+        "shortOverflow": false,
+        "icons": [
+          "Večerní višňový nápoj",
+          "30 sáčků",
+          "Vitamin D3 a K2",
+          "8 rostlinných extraktů",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "shortIcons": [
+          "Večerní višňový nápoj",
+          "30 sáčků",
+          "Vitamin D3 a K2",
+          "8 rostlinných extraktů",
+          "Láhev Golden Life",
+          "USB-C míchátko"
+        ],
+        "cards": [
+          "Peptides GLP-1 Woman Balance Dark Cherry",
+          "Woman Hormonal Balance se shatavari",
+          "Anti-Age Longevity NAD+",
+          "Láhev Golden Life",
+          "USB míchátko",
+          "Dárkové balení"
+        ],
+        "faq": 7,
+        "shortText": "Darujte krásu, pohodu a chvíli jen pro sebe! Tento nádherný vánoční box je ideálním dárkem pro ženy 40+, které chtějí pečovat o pleť, vlasy i kosti, dopřát si každý večer klidný rituál a cítit se skvěle v každém věku.",
+        "rootId": "",
+        "maskColours": [
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)",
+          "rgb(217, 8, 23)"
+        ],
+        "iconDecode": [
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          },
+          {
+            "loaded": true,
+            "width": 512
+          }
+        ],
+        "cartDisabled": false,
+        "readers": [
+          {
+            "id": "635",
+            "length": 34730,
+            "scripts": 0,
+            "title": "Podrobně: Peptides GLP-1 Woman Balance Dark Cherry"
+          },
+          {
+            "id": "644",
+            "length": 38477,
+            "scripts": 0,
+            "title": "Podrobně: Woman Hormonal Balance se Shatavari"
+          },
+          {
+            "id": "550",
+            "length": 35875,
+            "scripts": 0,
+            "title": "Podrobně: Anti-Age Longevity NAD+"
+          },
+          {
+            "id": "597",
+            "length": 5810,
+            "scripts": 0,
+            "title": "Podrobně: Láhev Golden Life"
+          },
+          {
+            "id": "653",
+            "length": 29858,
+            "scripts": 0,
+            "title": "Podrobně: USB Míchátko"
+          }
+        ],
+        "allFaqPointerOpenClose": true,
+        "shortPointerOpenClose": true
+      }
+    },
+    "errors": [],
+    "keyboardFaqEnter": true,
+    "blockedResourceCount": 175,
+    "photoDecodingVerified": false,
+    "liveShopVerified": false
+  },
+  "publicPng": [
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cb68ddc0a43aaddbfc328ba419eb9dd6023da27d/assets/hormonal-giftbox-content-icons/01-vecerni-visnovy-napoj.png",
+      "status": 200,
+      "contentType": "image/png",
+      "cors": "*",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "fd7b6305aa61989bcca58a88b01b14249922d0bd9d9f5c5815cfff34526da6d5"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cb68ddc0a43aaddbfc328ba419eb9dd6023da27d/assets/hormonal-giftbox-content-icons/02-tricet-sacku.png",
+      "status": 200,
+      "contentType": "image/png",
+      "cors": "*",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "b292efef7106e4fa551ed10f8f7e65aa6c873dbfd33973cdfb69097d8a6b3fbb"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cb68ddc0a43aaddbfc328ba419eb9dd6023da27d/assets/hormonal-giftbox-content-icons/03-vitamin-d3-k2.png",
+      "status": 200,
+      "contentType": "image/png",
+      "cors": "*",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "120ec15688a86f8b0bd8dd37a6fae4291026a3e85137cfc7e9c2e59432d96fd9"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cb68ddc0a43aaddbfc328ba419eb9dd6023da27d/assets/hormonal-giftbox-content-icons/04-rostlinne-extrakty.png",
+      "status": 200,
+      "contentType": "image/png",
+      "cors": "*",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "522158b19ee7ac7328bd5869f50e95fb45786f1f13aa375897d74bec8ffeb061"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cb68ddc0a43aaddbfc328ba419eb9dd6023da27d/assets/hormonal-giftbox-content-icons/05-lahev.png",
+      "status": 200,
+      "contentType": "image/png",
+      "cors": "*",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "2018db16ff75ccef7b83afda8cd610367a10d5807df053efc0b3750c186bb0b1"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cb68ddc0a43aaddbfc328ba419eb9dd6023da27d/assets/hormonal-giftbox-content-icons/06-usb-michatko.png",
+      "status": 200,
+      "contentType": "image/png",
+      "cors": "*",
+      "size": [
+        512,
+        512
+      ],
+      "sha256": "05e8737696781730518517fbb6f4e2ca4c8b6e12bb072a89e9009cd6fc5c283f"
+    }
+  ],
+  "liveShoptetChanged": false,
+  "liveResponseStatus": 403
+}
