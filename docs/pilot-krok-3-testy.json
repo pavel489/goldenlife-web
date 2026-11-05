@@ -1,0 +1,161 @@
+{
+  "source_commit": "6bca09f6f6afe310d4572910766502a9de97d023",
+  "checked_at": "2026-11-05T15:04:57.977451+00:00",
+  "products": [
+    {
+      "id": "351",
+      "title": "Beauty Star",
+      "long": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "short": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-beauty-star.css",
+      "ingredient_dialogs": 5,
+      "tables": 1,
+      "table_cells": 28,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/351-2_beauty-star.png?ff=1&x=1024&y=1024&q=85&ts=6a17ff58&sg=38cb01fe",
+      "both_imports_per_field": true,
+      "main_photo_sync_full_shop_tested": true,
+      "native_CTA_tested": true,
+      "mobile_pointer_toggles": 3
+    },
+    {
+      "id": "383",
+      "title": "Slim Extreme Collagen box s příchutí ananasu",
+      "long": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "ingredient_dialogs": 6,
+      "tables": 2,
+      "table_cells": 96,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/383-7_box-komplet-ananas.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d89&sg=38cb01fe",
+      "both_imports_per_field": true,
+      "main_photo_sync_full_shop_tested": true,
+      "native_CTA_tested": true,
+      "mobile_pointer_toggles": 3
+    },
+    {
+      "id": "544",
+      "title": "Beauty Longevity NAD+",
+      "long": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "short": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-beauty-longevity.css",
+      "ingredient_dialogs": 6,
+      "tables": 3,
+      "table_cells": 78,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/544-1_box-komplet-beauty.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d22&sg=38cb01fe",
+      "both_imports_per_field": true,
+      "main_photo_sync_full_shop_tested": true,
+      "native_CTA_tested": true,
+      "mobile_pointer_toggles": 4
+    }
+  ],
+  "product_count": 3,
+  "HTML_fields": 6,
+  "common_framework_unchanged": true,
+  "public_substantive_copy_preserved_with_documented_exceptions": true,
+  "all_table_cell_HTML_unchanged": true,
+  "tables_total": 6,
+  "table_cells_total": 202,
+  "all_dialogs_pointer_tests_desktop_mobile": 34,
+  "mobile_pointer_toggles": 10,
+  "photo_sync_and_wrong_identity_tests": 3,
+  "no_broken_images_in_shop_fixture": true,
+  "CTA_links_no_cart_write": true,
+  "host_script_errors": "Two Seznam tracking fetch errors in each full-shop scenario because all non-GET requests were blocked; actual stacks archived locally. No component-script error was observed.",
+  "offline_preview": {
+    "pass": true,
+    "javascript_errors": [],
+    "external_requests": [],
+    "repeated_switching_tested": true,
+    "source": "Exact final downloadable HTML file, opened through file://, not a stub server."
+  },
+  "hashes": {
+    "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html": "00f3dd40d7ad36e26aec0705066e7c4be7a5800a40021361b4193cc766fd0f47",
+    "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html": "c008ba5924d7121204b4523e1c05d6e5a0bf05610ce27efe342d9659ffec24ea",
+    "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html": "9da4a29a12421764331546f97b1da03e9b5ece7fd4f2b369a22a6654c58b2795",
+    "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html": "c5a57bc4db9f71cc7dbf0787b4a81992a047e11644d9fa09e6fee25eeed0dd71",
+    "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html": "7513aac475c4d50243ba58a58c75bfd72b9024a46ef6809c4fdf446de2b7bc40",
+    "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html": "763d85aaa40517331a6013dd7902128aa1d0182dd2d05b287a07fcd103e48c2d"
+  },
+  "shop_saved": false,
+  "public_CSS_replaced": false,
+  "legal_claims_approved": false,
+  "limits": [
+    "Tests use full public shop snapshots and actual origin via local response overrides, not saved editor fields.",
+    "No purchase, payment, tracking setting, price, customer or order operations.",
+    "Child 544 also independently tested at 320 px, but shared parent certification is 390/1440 px.",
+    "No complete accessibility or medical/regulatory clearance is implied."
+  ],
+  "syntax_validation": {
+    "js": {
+      "pass": true,
+      "script_count": 6,
+      "validator": "Node vm.Script"
+    },
+    "css": {
+      "pass": true,
+      "files": [
+        "golden-life-barvy-beauty-longevity.css",
+        "golden-life-produkt.css",
+        "golden-life-barvy-beauty-star.css",
+        "golden-life-barvy-slim-extreme-collagen-box-ananas.css"
+      ],
+      "errors": [],
+      "parser": "tinycss2 1.5.1"
+    }
+  },
+  "paragraph_multiset_and_dialog_HTML": [
+    {
+      "id": "351",
+      "source_substantive_paragraphs_listitems": 31,
+      "missing_multiplicity": [],
+      "original_ingredient_cards": 5,
+      "dialog_exact_paragraph_innerHTML": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "exceptions": [
+        "Replaced stale native purchase CTA snapshots.",
+        "Removed orphan SEO title paragraph only; complete originals retained in public snapshots."
+      ]
+    },
+    {
+      "id": "383",
+      "source_substantive_paragraphs_listitems": 25,
+      "missing_multiplicity": [],
+      "original_ingredient_cards": 6,
+      "dialog_exact_paragraph_innerHTML": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "exceptions": [
+        "Replaced stale native purchase CTA snapshots.",
+        "Removed orphan SEO title paragraph only; complete originals retained in public snapshots."
+      ]
+    },
+    {
+      "id": "544",
+      "source_substantive_paragraphs_listitems": 54,
+      "missing_multiplicity": [],
+      "original_ingredient_cards": 6,
+      "dialog_exact_paragraph_innerHTML": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "exceptions": [
+        "Replaced stale native purchase CTA snapshots.",
+        "Removed orphan SEO title paragraph only; complete originals retained in public snapshots."
+      ]
+    }
+  ]
+}

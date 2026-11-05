@@ -79,3 +79,24 @@
   --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
   --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
 }
+
+/* Pilot 544: zachovaná barva původního studijního odkazu, přesunutá z inline stylu. */
+#special-popis[data-gl-theme="beauty-longevity"][data-gl-product-id="544"] .nad-btn-stud{color:#000}
+
+/* Pilot 544: lokální hodnoty pro aktuální mobilní a krátké komponenty. */
+:where([data-gl-theme="beauty-longevity"][data-gl-product-id="544"]) {
+  --gl-tone-data-gl-mobile-active-cta-product-img-background-1: var(--gl-color-bg-light);
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-background-1: rgba(255,255,255,.94);
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-color-1: #2f2323;
+  --gl-tone-data-gl-mobile-active-cta-text-h3-background-1: rgba(255,255,255,.94);
+  --gl-tone-data-gl-mobile-active-gl-mobile-intro-not-is-expanded-after-background-1: #fff;
+  --gl-tone-data-gl-mobile-active-gl-mobile-toggle-background-1: #fff;
+  --gl-tone-maly-hr-background-1: #f6dede;
+  --gl-tone-maly-ikony-div-color-1: var(--gl-color-primary);
+  --gl-tone-maly-produkt-background-1: var(--gl-color-bg-light);
+  --gl-tone-maly-produkt-info-color-1: #333;
+  --gl-tone-maly-produkt-nazev-color-1: var(--gl-color-primary);
+}
+:where([data-gl-theme="beauty-longevity"][data-gl-product-id="544"][data-gl-layout="woman-hormonal-balance-short"]) .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:5px}
+:where([data-gl-theme="beauty-longevity"][data-gl-product-id="544"][data-gl-layout="woman-hormonal-balance-short"]) .maly-ikony>div{overflow-wrap:anywhere;font-size:11px;line-height:1.3}
+:where([data-gl-theme="beauty-longevity"][data-gl-product-id="544"][data-gl-layout="woman-hormonal-balance-short"]) .maly-produkt-info>span{white-space:normal;min-width:0;flex-wrap:wrap}
