@@ -1,0 +1,588 @@
+{
+  "sourceHead": "88656688faab99cb317eb9354c761371f97a5100",
+  "static": {
+    "shoptet/slim-kratky.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 7,
+      "sha256": "337f39309f8d6fd95684968de6867caba1320f1f886d49835c1f0c2468852732",
+      "httpsPngIcons": 6
+    },
+    "shoptet/slim.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 59,
+      "sha256": "3b70f3b587a687c2552d2b218a5521a2aaa9db518f15448b511af001000e58df",
+      "httpsPngIcons": 6
+    },
+    "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 59,
+      "sha256": "a8159299d82ba49bfafdcf2ae3817c1c851ad0c1ca51b2822c1e53638d4e7d70",
+      "httpsPngIcons": 6
+    },
+    "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html": {
+      "scripts_byte_identical": true,
+      "css_byte_identical": true,
+      "source_texts_verified": 7,
+      "sha256": "6cba4fe3d2e57e7b7478ba4ddad9a547f50bc265976deff7587364df2de74da3",
+      "httpsPngIcons": 6
+    },
+    "shoptet/beauty-kratky.html": {
+      "formalTextNodesChanged": 0,
+      "allOriginalScriptsStylesPreserved": true,
+      "allImageSourcesPreserved": true
+    },
+    "shoptet/beauty.html": {
+      "formalTextNodesChanged": 14,
+      "allOriginalScriptsStylesPreserved": true,
+      "allImageSourcesPreserved": true
+    },
+    "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html": {
+      "formalTextNodesChanged": 14,
+      "allOriginalScriptsStylesPreserved": true,
+      "allImageSourcesPreserved": true
+    },
+    "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html": {
+      "formalTextNodesChanged": 0,
+      "allOriginalScriptsStylesPreserved": true,
+      "allImageSourcesPreserved": true
+    }
+  },
+  "formalTextScan": {
+    "web/Golden Life Darkovy box Slim/Golden_Life_Darkovy_box_Mango_cz.html": true,
+    "web/Golden Life Darkovy box Slim/maly/Golden-Life-Darkovy-box-Mango-maly-cz.html": true,
+    "web/Golden Life Darkovy box Beauty/Golden_Life_Darkovy_box_cz.html": true,
+    "web/Golden Life Darkovy box Beauty/maly/Golden-Life-Darkovy-box-maly-cz.html": true,
+    "shoptet/beauty.html": true,
+    "shoptet/slim-kratky.html": true,
+    "shoptet/beauty-kratky.html": true,
+    "shoptet/slim.html": true
+  },
+  "browser": {
+    "slim": {
+      "scope": "Offline isolated same-origin fixture. Exact delivered scripts execute; cached public child HTML and immutable Git dependencies served locally. All network blocked; no live shop, native theme, photo decoding or current availability certification.",
+      "sourcePublicSnapshot": "Authorized saved public same-SKU/component snapshots; no new shop requests during the active block.",
+      "viewports": {
+        "1440": {
+          "longOverflow": false,
+          "shortOverflow": false,
+          "icons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu a manga",
+            "Berberin a chrom",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "shortIcons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu a manga",
+            "Berberin a chrom",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "cards": [
+            "Slim Extreme Collagen – ananas & mango",
+            "Slim GLP-1 Activator s berberinem",
+            "Slim & Detox Power",
+            "Láhev Golden Life",
+            "USB míchátko",
+            "Dárkové balení"
+          ],
+          "faq": 7,
+          "shortText": "Darujte odhodlání, krásu a nový začátek! Tento nádherný vánoční box je ideálním dárkem pro ženy, které si hlídají jídelníček, rády se hýbou, chtějí mít krásnou pleť, vlasy a nehty a vstoupit do nového roku s chutí do sebe.",
+          "rootId": "",
+          "maskColours": [
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)"
+          ],
+          "iconDecode": [
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 512
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 512
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            }
+          ],
+          "cartDisabled": false,
+          "readers": [
+            {
+              "id": "464",
+              "length": 273626,
+              "scripts": 0,
+              "title": "Podrobně: Slim Extreme Collagen – mango"
+            },
+            {
+              "id": "476",
+              "length": 277452,
+              "scripts": 0,
+              "title": "Podrobně: Slim GLP-1 Activator s berberinem"
+            },
+            {
+              "id": "174",
+              "length": 273342,
+              "scripts": 0,
+              "title": "Podrobně: Slim & Detox Power"
+            },
+            {
+              "id": "597",
+              "length": 5810,
+              "scripts": 0,
+              "title": "Podrobně: Láhev Golden Life"
+            },
+            {
+              "id": "653",
+              "length": 29858,
+              "scripts": 0,
+              "title": "Podrobně: USB Míchátko"
+            }
+          ],
+          "allFaqPointerOpenClose": true,
+          "shortPointerOpenClose": true
+        },
+        "390": {
+          "longOverflow": false,
+          "shortOverflow": false,
+          "icons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu a manga",
+            "Berberin a chrom",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "shortIcons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu a manga",
+            "Berberin a chrom",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "cards": [
+            "Slim Extreme Collagen – ananas & mango",
+            "Slim GLP-1 Activator s berberinem",
+            "Slim & Detox Power",
+            "Láhev Golden Life",
+            "USB míchátko",
+            "Dárkové balení"
+          ],
+          "faq": 7,
+          "shortText": "Darujte odhodlání, krásu a nový začátek! Tento nádherný vánoční box je ideálním dárkem pro ženy, které si hlídají jídelníček, rády se hýbou, chtějí mít krásnou pleť, vlasy a nehty a vstoupit do nového roku s chutí do sebe.",
+          "rootId": "",
+          "maskColours": [
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)"
+          ],
+          "iconDecode": [
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 512
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 512
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            }
+          ],
+          "cartDisabled": false,
+          "readers": [
+            {
+              "id": "464",
+              "length": 273626,
+              "scripts": 0,
+              "title": "Podrobně: Slim Extreme Collagen – mango"
+            },
+            {
+              "id": "476",
+              "length": 277452,
+              "scripts": 0,
+              "title": "Podrobně: Slim GLP-1 Activator s berberinem"
+            },
+            {
+              "id": "174",
+              "length": 273342,
+              "scripts": 0,
+              "title": "Podrobně: Slim & Detox Power"
+            },
+            {
+              "id": "597",
+              "length": 5810,
+              "scripts": 0,
+              "title": "Podrobně: Láhev Golden Life"
+            },
+            {
+              "id": "653",
+              "length": 29858,
+              "scripts": 0,
+              "title": "Podrobně: USB Míchátko"
+            }
+          ],
+          "allFaqPointerOpenClose": true,
+          "shortPointerOpenClose": true
+        }
+      },
+      "errors": [],
+      "formalReaderSuccessAndErrorVerified": true,
+      "keyboardFaqEnter": true,
+      "blockedResourceCount": 151,
+      "photoDecodingVerified": false,
+      "liveShopVerified": false
+    },
+    "beauty": {
+      "scope": "Offline isolated same-origin fixture. Exact delivered scripts execute; cached public child HTML and immutable Git dependencies served locally. All network blocked; no live shop, native theme, photo decoding or current availability certification.",
+      "sourcePublicSnapshot": "Authorized saved public same-SKU/component snapshots; no new shop requests during the active block.",
+      "viewports": {
+        "1440": {
+          "longOverflow": false,
+          "shortOverflow": false,
+          "icons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu",
+            "Vitamin C a zinek",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "shortIcons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu",
+            "Vitamin C a zinek",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "cards": [
+            "Slim Extreme Collagen – ananas",
+            "Slim & Detox Power",
+            "Good Sleep & Night Burn",
+            "Láhev Golden Life",
+            "USB míchátko",
+            "Dárkové balení"
+          ],
+          "faq": 7,
+          "shortText": "Darujte krásu, sebevědomí a radost z vlastního těla! Tento nádherný vánoční box je ideálním dárkem pro ženy, které na sobě pracují, chtějí mít krásnou pleť, vlasy a nehty, dopřávají si každé ráno chvíli pro sebe a cítí se skvěle ve své kůži.",
+          "rootId": "656",
+          "maskColours": [
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)"
+          ],
+          "iconDecode": [
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            }
+          ],
+          "cartDisabled": false,
+          "readers": [
+            {
+              "id": "383",
+              "length": 15295,
+              "scripts": 0,
+              "title": "Podrobně: Slim Extreme Collagen – ananas"
+            },
+            {
+              "id": "174",
+              "length": 273342,
+              "scripts": 0,
+              "title": "Podrobně: Slim & Detox Power"
+            },
+            {
+              "id": "57",
+              "length": 271577,
+              "scripts": 0,
+              "title": "Podrobně: Good Sleep & Night Burn"
+            },
+            {
+              "id": "597",
+              "length": 5810,
+              "scripts": 0,
+              "title": "Podrobně: Láhev Golden Life"
+            },
+            {
+              "id": "653",
+              "length": 29858,
+              "scripts": 0,
+              "title": "Podrobně: USB Míchátko"
+            }
+          ],
+          "allFaqPointerOpenClose": true,
+          "shortPointerOpenClose": true
+        },
+        "390": {
+          "longOverflow": false,
+          "shortOverflow": false,
+          "icons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu",
+            "Vitamin C a zinek",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "shortIcons": [
+            "6 g kolagenových peptidů",
+            "30 sáčků s příchutí ananasu",
+            "Vitamin C a zinek",
+            "Rostlinné kapsle",
+            "Láhev Golden Life",
+            "USB-C míchátko"
+          ],
+          "cards": [
+            "Slim Extreme Collagen – ananas",
+            "Slim & Detox Power",
+            "Good Sleep & Night Burn",
+            "Láhev Golden Life",
+            "USB míchátko",
+            "Dárkové balení"
+          ],
+          "faq": 7,
+          "shortText": "Darujte krásu, sebevědomí a radost z vlastního těla! Tento nádherný vánoční box je ideálním dárkem pro ženy, které na sobě pracují, chtějí mít krásnou pleť, vlasy a nehty, dopřávají si každé ráno chvíli pro sebe a cítí se skvěle ve své kůži.",
+          "rootId": "656",
+          "maskColours": [
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)",
+            "rgb(217, 8, 23)"
+          ],
+          "iconDecode": [
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            },
+            {
+              "loaded": true,
+              "width": 256
+            }
+          ],
+          "cartDisabled": false,
+          "readers": [
+            {
+              "id": "383",
+              "length": 15295,
+              "scripts": 0,
+              "title": "Podrobně: Slim Extreme Collagen – ananas"
+            },
+            {
+              "id": "174",
+              "length": 273342,
+              "scripts": 0,
+              "title": "Podrobně: Slim & Detox Power"
+            },
+            {
+              "id": "57",
+              "length": 271577,
+              "scripts": 0,
+              "title": "Podrobně: Good Sleep & Night Burn"
+            },
+            {
+              "id": "597",
+              "length": 5810,
+              "scripts": 0,
+              "title": "Podrobně: Láhev Golden Life"
+            },
+            {
+              "id": "653",
+              "length": 29858,
+              "scripts": 0,
+              "title": "Podrobně: USB Míchátko"
+            }
+          ],
+          "allFaqPointerOpenClose": true,
+          "shortPointerOpenClose": true
+        }
+      },
+      "errors": [],
+      "formalReaderSuccessAndErrorVerified": true,
+      "keyboardFaqEnter": true,
+      "blockedResourceCount": 169,
+      "photoDecodingVerified": false,
+      "liveShopVerified": false
+    }
+  },
+  "liveShopChanged": false,
+  "originalHealthClaimsChanged": false,
+  "differenceCZK": 610
+}

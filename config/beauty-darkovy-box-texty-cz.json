@@ -6,5 +6,6 @@
   "metaDescription": "Vánoční dárek pro maminku, sestru či kamarádku. Kolagenový nápoj s ananasem, kapsle a příslušenství v boxu za 3 790 Kč místo 4 400 Kč.",
   "shortDescriptionText": "Darujte krásu, sebevědomí a radost z vlastního těla! Tento nádherný vánoční box je ideálním dárkem pro ženy, které na sobě pracují, chtějí mít krásnou pleť, vlasy a nehty, dopřávají si každé ráno chvíli pro sebe a cítí se skvěle ve své kůži.",
   "status": "Git handoff only; not saved in live Shoptet",
-  "deliveryCutoff": "[DOPLŇ DATUM]"
+  "deliveryCutoff": "[DOPLŇ DATUM]",
+  "addressing": "formal Czech"
 }

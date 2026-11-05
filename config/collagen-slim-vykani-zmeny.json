@@ -1,0 +1,67 @@
+[
+  {
+    "field": "introStory",
+    "before": "Už teď ví, co si na leden předsevzala: víc pohybu, lepší jídelníček a víc času na sebe. Letos jí můžeš to odhodlání podpořit dřív, než přijde Silvestr. Box Collagen Slim spojuje kolagenový nápoj s příchutí ananasu a manga, dvě kapslové receptury z řady Slim a příslušenství, aby mohla začít hned ráno po Štědrém dni.",
+    "after": "Už teď ví, co si na leden předsevzala: víc pohybu, lepší jídelníček a víc času na sebe. Letos můžete její odhodlání podpořit dřív, než přijde Silvestr. Box Collagen Slim spojuje kolagenový nápoj s příchutí ananasu a manga, dvě kapslové receptury z řady Slim a příslušenství, aby mohla začít hned ráno po Štědrém dni."
+  },
+  {
+    "field": "why[0]",
+    "before": "Za 3 890 Kč místo 4 500 Kč dostaneš pět produktů v jedné dárkové krabici a ušetříš 610 Kč. Box je sestavený na každý den: kolagenový nápoj ráno, Slim & Detox Power dopoledne a Slim GLP-1 Activator k obědu. Nápoj a GLP-1 Activator vystačí na 30 dní, Slim & Detox Power na 45 dní.",
+    "after": "Za 3 890 Kč místo 4 500 Kč dostanete pět produktů v jedné dárkové krabici a ušetříte 610 Kč. Box je sestavený na každý den: kolagenový nápoj ráno, Slim & Detox Power dopoledne a Slim GLP-1 Activator k obědu. Nápoj a GLP-1 Activator vystačí na 30 dní, Slim & Detox Power na 45 dní."
+  },
+  {
+    "field": "storyIntro",
+    "before": "Nejlepší dárek navazuje na to, co si sama přeje. Jestli o novém začátku mluví už teď, tenhle box jí ukáže, že ji posloucháš a fandíš jí.",
+    "after": "Nejlepší dárek navazuje na to, co si sama přeje. Jestli o novém začátku mluví už teď, tenhle box jí ukáže, že ji posloucháte a fandíte jí."
+  },
+  {
+    "field": "stories[0].text",
+    "before": "Spolu jste řešily předsevzetí, nové cvičení i to, že od pondělí začnete. Letos jí daruj podporu dřív, než leden vůbec začne. Box Collagen Slim jí dá každodenní rituál a od tebe jasný vzkaz: držím ti palce.",
+    "after": "Spolu jste řešily předsevzetí, nové cvičení i to, že od pondělí začnete. Letos jí darujte podporu dřív, než leden vůbec začne. Box Collagen Slim jí dá každodenní rituál a od vás jasný vzkaz: držím vám palce."
+  },
+  {
+    "field": "stories[1].text",
+    "before": "Ví přesně, co chce, a na dárky je náročná? Sestře, která chodí cvičit a hlídá si jídelníček, dej něco, co opravdu použije. Láhev s míchátkem jí pojede do posilovny i do práce a kolagenový nápoj si připraví za pár vteřin.",
+    "after": "Ví přesně, co chce, a na dárky je náročná? Sestře, která chodí cvičit a hlídá si jídelníček, darujte něco, co opravdu použije. Láhev s míchátkem jí pojede do posilovny i do práce a kolagenový nápoj si připraví za pár vteřin."
+  },
+  {
+    "field": "stories[2].text",
+    "before": "Říká, že by se po svátcích chtěla cítit líp, a ty bys jí v tom ráda pomohla? Box Collagen Slim je dárek, ze kterého si udělá ranní rituál. Právě pro maminku ho vybírají i další zákaznice a podle recenzí je to „top dárek”.",
+    "after": "Říká, že by se po svátcích chtěla cítit líp, a ráda byste jí v tom pomohla? Box Collagen Slim je dárek, ze kterého si udělá ranní rituál. Právě pro maminku ho vybírají i další zákaznice a podle recenzí je to „top dárek”."
+  },
+  {
+    "field": "stories[3].text",
+    "before": "Přeje si produkty řady Slim, nebo je už má ráda? Navaž na to a nemusíš riskovat špatnou velikost svetru ani další parfém. Celý box je vybraný a zabalený, ty už jen připíšeš pár slov na přání.",
+    "after": "Přeje si produkty řady Slim, nebo je už má ráda? Navažte na to a nemusíte riskovat špatnou velikost svetru ani další parfém. Celý box je vybraný a zabalený, už jen připíšete pár slov na přání."
+  },
+  {
+    "field": "cards[5].text",
+    "before": "Na Štědrý den otevře krabici a uvidí celý dárek najednou. Pět produktů je vybraných a zabalených společně, ty už jen přidáš přání. Zákaznice ho popisují jako úžasně zabalený dárek.",
+    "after": "Na Štědrý den otevře krabici a uvidí celý dárek najednou. Pět produktů je vybraných a zabalených společně, už jen přidáte přání. Zákaznice ho popisují jako úžasně zabalený dárek."
+  },
+  {
+    "field": "faq[2].a",
+    "before": "Slim & Detox Power obsahuje kofein a forskolin, proto není vhodný pro ženy s onemocněním štítné žlázy, srdce a cév, s poruchami srážlivosti krve, astmatem nebo žaludečními vředy. Kofein obsahuje i kolagenový nápoj, proto ho není vhodné pít odpoledne a večer. Pokud obdarovaná užívá léky, zejména na cukrovku, měla by se před užíváním Slim GLP-1 Activator poradit s lékařem. Nápoj obsahuje hovězí a mořský kolagen. Když si nejsi jistá, zeptej se jí nenápadně, jaké doplňky už užívá.",
+    "after": "Slim & Detox Power obsahuje kofein a forskolin, proto není vhodný pro ženy s onemocněním štítné žlázy, srdce a cév, s poruchami srážlivosti krve, astmatem nebo žaludečními vředy. Kofein obsahuje i kolagenový nápoj, proto ho není vhodné pít odpoledne a večer. Pokud obdarovaná užívá léky, zejména na cukrovku, měla by se před užíváním Slim GLP-1 Activator poradit s lékařem. Nápoj obsahuje hovězí a mořský kolagen. Pokud si nejste jistá, zeptejte se jí nenápadně, jaké doplňky už užívá."
+  },
+  {
+    "field": "faq[5].a",
+    "before": "Složení, dávkování a upozornění najdeš pod tlačítkem Podrobně o produktu a na etiketách. Každý doplněk má vlastní návod. Společné balení neznamená společné dávkování.",
+    "after": "Složení, dávkování a upozornění najdete pod tlačítkem Podrobně o produktu a na etiketách. Každý doplněk má vlastní návod. Společné balení neznamená společné dávkování."
+  },
+  {
+    "field": "faq[6].a",
+    "before": "Chceš ho položit pod stromeček? Pro doručení před Štědrým dnem objednej nejpozději do [DOPLŇ DATUM]. Aktuální dostupnost a možnosti dopravy najdeš u produktu a v košíku.",
+    "after": "Chcete ho položit pod stromeček? Pro doručení před Štědrým dnem objednejte nejpozději do [DOPLŇ DATUM]. Aktuální dostupnost a možnosti dopravy najdete u produktu a v košíku."
+  },
+  {
+    "field": "ctaTitle",
+    "before": "Letos jí daruj nový začátek",
+    "after": "Letos jí darujte nový začátek"
+  },
+  {
+    "field": "cta",
+    "before": "Podpoř kamarádku, sestru nebo maminku v jejím předsevzetí dárkem, který si na Štědrý den rozbalí a hned další ráno vyzkouší. Celý box teď za 3 890 Kč místo 4 500 Kč. Ušetříš 610 Kč a máš vybráno i zabaleno.",
+    "after": "Podpořte kamarádku, sestru nebo maminku v jejím předsevzetí dárkem, který si na Štědrý den rozbalí a hned další ráno vyzkouší. Celý box teď za 3 890 Kč místo 4 500 Kč. Ušetříte 610 Kč a máte vybráno i zabaleno."
+  }
+]
