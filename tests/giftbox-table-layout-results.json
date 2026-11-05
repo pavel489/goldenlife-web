@@ -1,0 +1,1619 @@
+{
+  "test_mode": "Full public parent response override with exact delivered long-description bytes and SHA384-pinned loader; public child products and styles fetched live. No shop write. Analytics/chat/consent hidden or blocked only in test.",
+  "box_count": 5,
+  "box_detail_cases": 75,
+  "table_render_checks": 78,
+  "widths": [
+    320,
+    390,
+    1440
+  ],
+  "unchanged_source_table_cells": true,
+  "open_close_switch_reopen_escape": "PASS",
+  "new_horizontal_overflow": false,
+  "loader_pin": "45c603ef2f6582495668bbb0c02d81a761bf2344",
+  "loader_sri": "sha384-rYz8YJu1CWSuV4Cfmxu1YxvJpdkRTXrVyaCQ/nmD4S4x5rX3lKA2xKXWlmb05R1p",
+  "cases": [
+    {
+      "box": "slim",
+      "width": 1440,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "slim",
+      "width": 1440,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 1440,
+      "id": "464",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        },
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 1440,
+      "id": "174",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 1440,
+      "id": "476",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 390,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "slim",
+      "width": 390,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 390,
+      "id": "464",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 390,
+      "id": "174",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 390,
+      "id": "476",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 320,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "slim",
+      "width": 320,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 320,
+      "id": "464",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 320,
+      "id": "174",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "slim",
+      "width": 320,
+      "id": "476",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 1440,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "beauty",
+      "width": 1440,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 1440,
+      "id": "383",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        },
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 1440,
+      "id": "174",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 1440,
+      "id": "57",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 390,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "beauty",
+      "width": 390,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 390,
+      "id": "383",
+      "overflow": 155,
+      "previousOverflow": 155,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 390,
+      "id": "174",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 390,
+      "id": "57",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "id": "383",
+      "overflow": 225,
+      "previousOverflow": 225,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "id": "174",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "id": "57",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 1440,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "hormonal",
+      "width": 1440,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 1440,
+      "id": "644",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 1440,
+      "id": "635",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        },
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 1440,
+      "id": "550",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 390,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "hormonal",
+      "width": 390,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 390,
+      "id": "644",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 390,
+      "id": "635",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 390,
+      "id": "550",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 320,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "hormonal",
+      "width": 320,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 320,
+      "id": "644",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 320,
+      "id": "635",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "hormonal",
+      "width": 320,
+      "id": "550",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 1440,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "longevity",
+      "width": 1440,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 1440,
+      "id": "57",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 1440,
+      "id": "544",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        },
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        },
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 1440,
+      "id": "550",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 390,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "longevity",
+      "width": 390,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 390,
+      "id": "57",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 390,
+      "id": "544",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 390,
+      "id": "550",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 320,
+      "id": "597",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "longevity",
+      "width": 320,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 320,
+      "id": "57",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 320,
+      "id": "544",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        },
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "longevity",
+      "width": 320,
+      "id": "550",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 1440,
+      "id": "638",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "ufirst",
+      "width": 1440,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 1058,
+          "body": 1056,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 1058,
+          "clientWidth": 1058,
+          "outOfHost": 0
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 1440,
+      "id": "576",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 494,
+          "body": 494,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 494,
+          "clientWidth": 494,
+          "outOfHost": -78
+        },
+        {
+          "display": "table",
+          "width": 902,
+          "body": 902,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 902,
+          "clientWidth": 902,
+          "outOfHost": -78
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 1440,
+      "id": "582",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 920,
+          "body": 920,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 920,
+          "clientWidth": 920,
+          "outOfHost": -69
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 1440,
+      "id": "585",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 920,
+          "body": 920,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 920,
+          "clientWidth": 920,
+          "outOfHost": -69
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 390,
+      "id": "638",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "ufirst",
+      "width": 390,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 277,
+          "body": 275,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 277,
+          "clientWidth": 277,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 390,
+      "id": "576",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 347.359375,
+          "body": 347.359375,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 347,
+          "clientWidth": 257,
+          "outOfHost": -20
+        },
+        {
+          "display": "table",
+          "width": 425,
+          "body": 425,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 425,
+          "clientWidth": 257,
+          "outOfHost": -20
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 390,
+      "id": "582",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 257,
+          "body": 257,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 257,
+          "clientWidth": 257,
+          "outOfHost": -20
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 390,
+      "id": "585",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 330,
+          "body": 330,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 330,
+          "clientWidth": 257,
+          "outOfHost": -20
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "id": "638",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": []
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "id": "653",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 207,
+          "body": 205,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 207,
+          "clientWidth": 207,
+          "outOfHost": -10
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "id": "576",
+      "overflow": 41,
+      "previousOverflow": 41,
+      "tables": [
+        {
+          "display": "table",
+          "width": 347.359375,
+          "body": 347.359375,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 347,
+          "clientWidth": 187,
+          "outOfHost": -20
+        },
+        {
+          "display": "table",
+          "width": 425,
+          "body": 425,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 425,
+          "clientWidth": 187,
+          "outOfHost": -20
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "id": "582",
+      "overflow": 15,
+      "previousOverflow": 15,
+      "tables": [
+        {
+          "display": "table",
+          "width": 238,
+          "body": 238,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 238,
+          "clientWidth": 187,
+          "outOfHost": -20
+        }
+      ]
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "id": "585",
+      "overflow": 0,
+      "previousOverflow": 0,
+      "tables": [
+        {
+          "display": "table",
+          "width": 330,
+          "body": 330,
+          "wrap": "gl-reader-table",
+          "scrollWidth": 330,
+          "clientWidth": 187,
+          "outOfHost": -20
+        }
+      ]
+    }
+  ],
+  "preexisting_non_table_overflow": [
+    {
+      "box": "beauty",
+      "width": 390,
+      "id": "383",
+      "overflow": 155,
+      "previousOverflow": 155
+    },
+    {
+      "box": "beauty",
+      "width": 320,
+      "id": "383",
+      "overflow": 225,
+      "previousOverflow": 225
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "id": "576",
+      "overflow": 41,
+      "previousOverflow": 41
+    },
+    {
+      "box": "ufirst",
+      "width": 320,
+      "id": "582",
+      "overflow": 15,
+      "previousOverflow": 15
+    }
+  ],
+  "other_live_sets": [
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 1100,
+          "body": 1098
+        }
+      ],
+      "text": 43893,
+      "slug": "hormonal-duo",
+      "width": 1440,
+      "key": "more-info-1"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 1100,
+          "body": 1098
+        },
+        {
+          "display": "table",
+          "width": 1100,
+          "body": 1098
+        }
+      ],
+      "text": 44945,
+      "slug": "hormonal-duo",
+      "width": 1440,
+      "key": "more-info-2"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 271,
+          "body": 269
+        }
+      ],
+      "text": 43893,
+      "slug": "hormonal-duo",
+      "width": 390,
+      "key": "more-info-1"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 271,
+          "body": 269
+        },
+        {
+          "display": "table",
+          "width": 271,
+          "body": 269
+        }
+      ],
+      "text": 44945,
+      "slug": "hormonal-duo",
+      "width": 390,
+      "key": "more-info-2"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 201,
+          "body": 199
+        }
+      ],
+      "text": 43893,
+      "slug": "hormonal-duo",
+      "width": 320,
+      "key": "more-info-1"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 201,
+          "body": 199
+        },
+        {
+          "display": "table",
+          "width": 201,
+          "body": 199
+        }
+      ],
+      "text": 44945,
+      "slug": "hormonal-duo",
+      "width": 320,
+      "key": "more-info-2"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 1100,
+          "body": 1098
+        }
+      ],
+      "text": 43893,
+      "slug": "hormonal-trio",
+      "width": 1440,
+      "key": "more-info-1"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 1100,
+          "body": 1098
+        },
+        {
+          "display": "table",
+          "width": 1100,
+          "body": 1098
+        }
+      ],
+      "text": 44945,
+      "slug": "hormonal-trio",
+      "width": 1440,
+      "key": "more-info-2"
+    },
+    {
+      "slug": "hormonal-trio",
+      "width": 1440,
+      "key": "more-info-3",
+      "failure": "",
+      "shadowText": "Popis nenalezen."
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 271,
+          "body": 269
+        }
+      ],
+      "text": 43893,
+      "slug": "hormonal-trio",
+      "width": 390,
+      "key": "more-info-1"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 271,
+          "body": 269
+        },
+        {
+          "display": "table",
+          "width": 271,
+          "body": 269
+        }
+      ],
+      "text": 44945,
+      "slug": "hormonal-trio",
+      "width": 390,
+      "key": "more-info-2"
+    },
+    {
+      "slug": "hormonal-trio",
+      "width": 390,
+      "key": "more-info-3",
+      "failure": "",
+      "shadowText": "Popis nenalezen."
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 201,
+          "body": 199
+        }
+      ],
+      "text": 43893,
+      "slug": "hormonal-trio",
+      "width": 320,
+      "key": "more-info-1"
+    },
+    {
+      "tables": [
+        {
+          "display": "table",
+          "width": 201,
+          "body": 199
+        },
+        {
+          "display": "table",
+          "width": 201,
+          "body": 199
+        }
+      ],
+      "text": 44945,
+      "slug": "hormonal-trio",
+      "width": 320,
+      "key": "more-info-2"
+    },
+    {
+      "slug": "hormonal-trio",
+      "width": 320,
+      "key": "more-info-3",
+      "failure": "",
+      "shadowText": "Popis nenalezen."
+    }
+  ]
+}

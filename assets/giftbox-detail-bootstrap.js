@@ -23,13 +23,13 @@
     if(ready()||loading)return;
     loading=true;
     const script=document.createElement('script');
-    script.src='https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@a71372aa77f2a8ab3b439d8fef834cace401cccc/assets/giftbox-detail-loader.js';
-    script.integrity='sha384-Bps/lJBbNyCFGEd9Flb+LRZ2rDKRO8it3XjcImktY+OjuV5f+vdD/IP9O9Ra5IlK';
+    script.src='https://cdn.jsdelivr.net/gh/pavel489/goldenlife-web@45c603ef2f6582495668bbb0c02d81a761bf2344/assets/giftbox-detail-loader.js';
+    script.integrity='sha384-rYz8YJu1CWSuV4Cfmxu1YxvJpdkRTXrVyaCQ/nmD4S4x5rX3lKA2xKXWlmb05R1p';
     script.crossOrigin='anonymous';
     script.async=true;
     let settled=false;
-    const pin='a71372aa77f2a8ab3b439d8fef834cace401cccc';
-    const sri='sha384-Bps/lJBbNyCFGEd9Flb+LRZ2rDKRO8it3XjcImktY+OjuV5f+vdD/IP9O9Ra5IlK';
+    const pin='45c603ef2f6582495668bbb0c02d81a761bf2344';
+    const sri='sha384-rYz8YJu1CWSuV4Cfmxu1YxvJpdkRTXrVyaCQ/nmD4S4x5rX3lKA2xKXWlmb05R1p';
     const timeout=setTimeout(fallback,15000);
     script.onload=()=>{if(settled)return;settled=true;clearTimeout(timeout);if(!ready())failed();};
     script.onerror=fallback;
