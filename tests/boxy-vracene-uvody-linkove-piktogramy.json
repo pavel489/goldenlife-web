@@ -1,0 +1,669 @@
+{
+  "checkedAtUTC": "2026-11-05T15:30:01.420997+00:00",
+  "sourceParent": "136b4626cd7aa14f78a87492a246e29c5601b74a",
+  "static": {
+    "shoptet/longevity.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "6 000 mg kolagenu Peptan®",
+        "30 sáčků s příchutí maliny",
+        "Nikotinamid ribosid (NR)",
+        "Veganské kapsle",
+        "Láhev Golden Life",
+        "USB-C míchátko"
+      ],
+      "sha256": "8f1b9ad663a26b442b52f0f0ce4f7acb29aeeb6e106d89e6747f211434c52983",
+      "introChanged": true
+    },
+    "shoptet/longevity-kratky.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "6 000 mg kolagenu Peptan®",
+        "30 sáčků s příchutí maliny",
+        "Nikotinamid ribosid (NR)",
+        "Veganské kapsle",
+        "Láhev Golden Life",
+        "USB-C míchátko"
+      ],
+      "sha256": "4b036e7b83ab07afd21bc683d0045b4aec6d4e524bbe57a39cc4d099f065ec4f",
+      "introChanged": false
+    },
+    "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "6 000 mg kolagenu Peptan®",
+        "30 sáčků s příchutí maliny",
+        "Nikotinamid ribosid (NR)",
+        "Veganské kapsle",
+        "Láhev Golden Life",
+        "USB-C míchátko"
+      ],
+      "sha256": "a6b1b16600a45cab20d793efdf6988caaabf2a3a2f2304c4d5c3c424338f28cc",
+      "introChanged": true
+    },
+    "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "6 000 mg kolagenu Peptan®",
+        "30 sáčků s příchutí maliny",
+        "Nikotinamid ribosid (NR)",
+        "Veganské kapsle",
+        "Láhev Golden Life",
+        "USB-C míchátko"
+      ],
+      "sha256": "08fc74045c01336578fc1851d6fc2769f7d19911a71506a42b5f29c91a464861",
+      "introChanged": false
+    },
+    "shoptet/hormonal.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu",
+        "Metabolická rovnováha"
+      ],
+      "sha256": "a18bcb1eb71e49832924fce62564d24109eca3e0c3c853e57c46254471238847",
+      "introChanged": false
+    },
+    "shoptet/hormonal-kratky.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu",
+        "Metabolická rovnováha"
+      ],
+      "sha256": "7928950099f194930e7bb6e99637293fef1920d7736a7fe3f0a2af701731f8f2",
+      "introChanged": true
+    },
+    "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu",
+        "Metabolická rovnováha"
+      ],
+      "sha256": "0515560a03a1a219e846553856ec1e021ea663225643d9c67822ec4b0821cd24",
+      "introChanged": false
+    },
+    "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html": {
+      "reversibleByteExact": true,
+      "scriptsUnchanged": true,
+      "stylesUnchanged": true,
+      "labels": [
+        "Hormonální rovnováha",
+        "Vnitřní pohoda",
+        "Péče o pleť zevnitř",
+        "Antioxidační ochrana",
+        "Kontrola chuti k jídlu",
+        "Metabolická rovnováha"
+      ],
+      "sha256": "452b84a8d527c315f23ceb5b1659a9ece454e949ae78513e26ab1bb7c653c23b",
+      "introChanged": true
+    }
+  },
+  "browser": {
+    "scope": "Isolated offline Chromium fragments using current Git framework, not live Shoptet. No shop requests or writes.",
+    "files": {
+      "shoptet/longevity.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      },
+      "shoptet/longevity-kratky.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      },
+      "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_cz.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      },
+      "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-cz.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      },
+      "shoptet/hormonal.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      },
+      "shoptet/hormonal-kratky.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      },
+      "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      },
+      "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html": {
+        "viewports": [
+          {
+            "width": 1280,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          },
+          {
+            "width": 390,
+            "icons": [
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              },
+              {
+                "ok": true,
+                "width": 150
+              }
+            ],
+            "overflow": false,
+            "captionOverflow": false
+          }
+        ],
+        "svgMasterEquality": true
+      }
+    },
+    "referenceCommit": "136b4626cd7aa14f78a87492a246e29c5601b74a",
+    "errors": []
+  }
+}
