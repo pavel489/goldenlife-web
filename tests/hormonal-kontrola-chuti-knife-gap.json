@@ -1,0 +1,67 @@
+{
+  "checkedAtUTC": "2026-11-05T15:37:11.167538+00:00",
+  "sourceParent": "62ee76dbe7407f4230b5610de096207783d56dfa",
+  "static": {
+    "shoptet/hormonal.html": {
+      "onlyTargetImageUriChanged": true,
+      "reversibleByteExact": true,
+      "sha256": "2983ee16f84be412c56a9294c2728f9ab33bfacb1c0ca65be7d232e352bb3b88"
+    },
+    "shoptet/hormonal-kratky.html": {
+      "onlyTargetImageUriChanged": true,
+      "reversibleByteExact": true,
+      "sha256": "db18ae139567f1b42f5da2ca4bb39d766045031c65b7aec284dfc5b2b4d95f5d"
+    },
+    "web/Golden Life Darkovy box Hormonal/Golden_Life_Darkovy_box_Hormonal_cz.html": {
+      "onlyTargetImageUriChanged": true,
+      "reversibleByteExact": true,
+      "sha256": "a3de0991d6f4c48bc205bb65506f0e427e3dd32cec377a41bd6da71bc7df6375"
+    },
+    "web/Golden Life Darkovy box Hormonal/maly/Golden-Life-Darkovy-box-Hormonal-maly-cz.html": {
+      "onlyTargetImageUriChanged": true,
+      "reversibleByteExact": true,
+      "sha256": "a0c09f3b6155e6262c0642927bd163bd4bdf14d3d209ebef7f554de36d5745f6"
+    },
+    "assets/hormonal-giftbox-line-icons/05-kontrola-chuti.svg": {
+      "shapeChanged": "Knife and fork separated from a complete two-ring plate",
+      "stroke": "2.6",
+      "capsAndJoins": "round"
+    }
+  },
+  "browser": {
+    "scope": "Offline Chromium SVG preview; not live shop.",
+    "decodedImages": 8,
+    "testedNativeSizes": [
+      64,
+      48,
+      40
+    ],
+    "paintedStrokeGapAt64px": {
+      "knifeToPlate": 3.4,
+      "forkToPlate": 2.4
+    },
+    "geometry": {
+      "plate": {
+        "x": 17,
+        "y": 17,
+        "width": 30,
+        "height": 30
+      },
+      "fork": {
+        "x": 6,
+        "y": 9,
+        "width": 6,
+        "height": 46
+      },
+      "knife": {
+        "x": 53,
+        "y": 9,
+        "width": 4,
+        "height": 46
+      }
+    },
+    "errors": [],
+    "unchangedOtherHtmlBytes": true,
+    "sourceParent": "62ee76dbe7407f4230b5610de096207783d56dfa"
+  }
+}
