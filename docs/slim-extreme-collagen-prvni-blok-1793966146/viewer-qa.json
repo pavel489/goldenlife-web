@@ -1,0 +1,24 @@
+{
+  "pass_count": 3,
+  "dialog_cycles": 21,
+  "errors": [],
+  "external_requests": [],
+  "preview_images": "Preview-only uncropped WebP derivatives max620px quality70 from cached authentic product assets; production image URLs unchanged.",
+  "rows": [
+    {
+      "width": 390,
+      "dialogs": 7,
+      "pass": true
+    },
+    {
+      "width": 820,
+      "dialogs": 7,
+      "pass": true
+    },
+    {
+      "width": 1280,
+      "dialogs": 7,
+      "pass": true
+    }
+  ]
+}

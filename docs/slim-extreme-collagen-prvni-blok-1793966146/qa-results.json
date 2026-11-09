@@ -1,0 +1,912 @@
+{
+  "expected": 32,
+  "pass": 32,
+  "dialog_open_close_cycles": 224,
+  "no_JS_banner_dialog_languages": [
+    "cs",
+    "sk",
+    "en",
+    "de"
+  ],
+  "page_errors": [],
+  "external_requests": [],
+  "scope": "Chromium on Linux, offline exact delivered scripts and embedded authentic assets; not physical Opera/macOS or live installation.",
+  "rows": [
+    {
+      "lang": "cs",
+      "width": 390,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "cs",
+      "width": 390,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "cs",
+      "width": 768,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "cs",
+      "width": 768,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "cs",
+      "width": 820,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "cs",
+      "width": 820,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "cs",
+      "width": 1280,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "cs",
+      "width": 1280,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denních dávek",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkování odměrkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 390,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 390,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 768,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 768,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 820,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 820,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 1280,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "width": 1280,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g v dóze",
+            "overflow": 0
+          },
+          {
+            "text": "30 denných dávok",
+            "overflow": 0
+          },
+          {
+            "text": "Dávkovanie odmerkou",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 820,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 820,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 1280,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "width": 1280,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g per jar",
+            "overflow": 0
+          },
+          {
+            "text": "30 daily servings",
+            "overflow": 0
+          },
+          {
+            "text": "Measure with a scoop",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 390,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 390,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 334,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 768,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 768,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 744,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 820,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 820,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 796,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 1280,
+      "host": "light",
+      "system_preference": "dark",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "width": 1280,
+      "host": "dark",
+      "system_preference": "light",
+      "geometry": {
+        "docOverflow": 0,
+        "bannerOverflow": 0,
+        "width": 1100,
+        "features": [
+          {
+            "text": "240 g pro Dose",
+            "overflow": 0
+          },
+          {
+            "text": "30 Tagesportionen",
+            "overflow": 0
+          },
+          {
+            "text": "Dosierung mit Messlöffel",
+            "overflow": 0
+          }
+        ],
+        "images": 0,
+        "first": true
+      },
+      "pass": true
+    }
+  ]
+}

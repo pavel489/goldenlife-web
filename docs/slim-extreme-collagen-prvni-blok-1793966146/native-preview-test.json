@@ -1,0 +1,5 @@
+{
+  "visible": true,
+  "ariaModal": "true",
+  "scope": "DOM-only temporary browser test, not shop deployment"
+}
