@@ -109,9 +109,10 @@
 :where([data-gl-product-id="416"][data-gl-layout="woman-hormonal-balance-short"]) .maly-produkt-info span{white-space:normal;min-width:0;}
 @media(max-width:340px){#special-popis[data-gl-product-id="416"] .nad-title{font-size:clamp(28px,9vw,36px);}#special-popis[data-gl-product-id="416"] .nad-content{min-width:0;}#special-popis[data-gl-product-id="416"] .nad-dose-num{font-size:40px;}}
 
-/* GOLDIE SYSTEM DARK START — proposed UI tints; original light palette preserved. */
-@media (prefers-color-scheme:dark){
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]){
+/* GOLDIE HOST DARK START — match the surrounding page, not browser preference. */
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]){color-scheme:light;background-color:#fff;color:#000;}
+
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]){
   color-scheme:dark;
   color:#f4eff4;
   background-color:#19171d;
@@ -204,24 +205,24 @@
   --gl-tone-ucinky-item-border-1:#9d8e9e;
   --gl-tone-ucinky-item-hover-box-shadow-1:rgba(0,0,0,.25);
 }
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.product-container,.nad-content,.latky-modal-box,.latky,.story-block-text,.cta-text,.gl-faq,.faq-section,.maly-popis){color:var(--gl-dark-text);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){color:var(--gl-dark-on-accent)!important;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.latky-modal-close,.gl-mobile-toggle){border:1px solid var(--gl-dark-border);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(a,button,summary,[tabindex]):focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:3px;box-shadow:0 0 0 3px var(--gl-dark-bg),0 0 0 6px var(--gl-color-primary);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.cta-availability,.cta-status,.gl-cart-message){color:var(--gl-dark-muted);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.gl-error,.is-error,[role="alert"]){color:#ffc2c6;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.cta-product-img,.nad-mol){background-color:#f5f1f4;border-radius:12px;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.gl-draft-note,.doza-safety){color:var(--gl-dark-text);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) .nad-banner{background-image:linear-gradient(135deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;color:var(--gl-dark-text);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) .hero-img{background:linear-gradient(145deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) .p-icon-card{background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) .cta-box{background:var(--gl-dark-surface)!important;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) .nad-title{color:var(--gl-color-primary)!important;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.nad-dose-sub,.nad-dose-label,.nad-feature,.nad-tagline,.nad-info p){color:var(--gl-dark-text)!important;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(th){background-color:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){background:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) .gl-history{background:#332a21!important;color:var(--gl-dark-text);}
-:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"]) .gl-history :is(p,span,div,summary){color:var(--gl-dark-text)!important;}
-:is(#special-popis,#nad-popis)[data-gl-theme="slim-extreme-collagen-sacek-ananas"] .gl-mobile-toggle{background:var(--gl-dark-surface)!important;color:var(--gl-color-primary)!important;border-color:var(--gl-dark-border)!important;}
-}
-/* GOLDIE SYSTEM DARK END */
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.product-container,.nad-content,.latky-modal-box,.latky,.story-block-text,.cta-text,.gl-faq,.faq-section,.maly-popis){color:var(--gl-dark-text);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.latky-modal-close,.gl-mobile-toggle){border:1px solid var(--gl-dark-border);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(a,button,summary,[tabindex]):focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:3px;box-shadow:0 0 0 3px var(--gl-dark-bg),0 0 0 6px var(--gl-color-primary);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.cta-availability,.cta-status,.gl-cart-message){color:var(--gl-dark-muted);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.gl-error,.is-error,[role="alert"]){color:#ffc2c6;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.cta-product-img,.nad-mol){background-color:#f5f1f4;border-radius:12px;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.gl-draft-note,.doza-safety){color:var(--gl-dark-text);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) .nad-banner{background-image:linear-gradient(135deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) .hero-img{background:linear-gradient(145deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) .p-icon-card{background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) .cta-box{background:var(--gl-dark-surface)!important;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) .nad-title{color:var(--gl-color-primary)!important;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.nad-dose-sub,.nad-dose-label,.nad-feature,.nad-tagline,.nad-info p){color:var(--gl-dark-text)!important;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(th){background-color:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){background:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) .gl-history{background:#332a21!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"]) .gl-history :is(p,span,div,summary){color:var(--gl-dark-text)!important;}
+:is(#special-popis,#nad-popis)[data-gl-theme="slim-extreme-collagen-sacek-ananas"][data-gl-site-scheme="dark"] .gl-mobile-toggle{background:var(--gl-dark-surface)!important;color:var(--gl-color-primary)!important;border-color:var(--gl-dark-border)!important;}
+
+/* GOLDIE HOST DARK END */

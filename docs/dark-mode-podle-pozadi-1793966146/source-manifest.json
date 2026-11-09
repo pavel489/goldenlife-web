@@ -1,0 +1,380 @@
+{
+  "source_commit": "978e8c038401aa5a33217465170d7ad4be645a66",
+  "source_tree": "f74aa0404847fd621af5769d628f21ab0e46a997",
+  "products": [
+    {
+      "id": "351",
+      "title": "Beauty Star",
+      "long": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "short": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-beauty-star.css",
+      "batch": "step3"
+    },
+    {
+      "id": "383",
+      "title": "Slim Extreme Collagen box s příchutí ananasu",
+      "long": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "batch": "step3"
+    },
+    {
+      "id": "544",
+      "title": "Beauty Longevity NAD+",
+      "long": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "short": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-beauty-longevity.css",
+      "batch": "step3"
+    },
+    {
+      "id": "644",
+      "title": "Woman Hormonal balance",
+      "long": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "short": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-woman-hormonal-balance.css",
+      "batch": "step4a-hormonal"
+    },
+    {
+      "id": "635",
+      "title": "Hormonal Balance noční GLP-1 drink",
+      "long": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "short": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+      "batch": "step4a-hormonal"
+    },
+    {
+      "id": "641",
+      "title": "Hormonal Balance noční GLP-1 drink sáček",
+      "long": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "short": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+      "batch": "step4a-hormonal"
+    },
+    {
+      "id": "550",
+      "title": "Anti-Age longevity NAD+",
+      "long": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "short": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css",
+      "batch": "step4b-longevity"
+    },
+    {
+      "id": "600",
+      "title": "Beauty Longevity NAD+ sáček",
+      "long": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "short": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css",
+      "batch": "step4b-longevity"
+    },
+    {
+      "id": "168",
+      "title": "Slim Extreme Collagen",
+      "long": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "short": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css",
+      "batch": "step4c-slim"
+    },
+    {
+      "id": "473",
+      "title": "Slim SOS Burner",
+      "long": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "short": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+      "batch": "step4c-slim"
+    },
+    {
+      "id": "476",
+      "title": "Slim GLP-1 Activator s Berberinem",
+      "long": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-cz.html",
+      "short": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css",
+      "batch": "step4c-slim"
+    },
+    {
+      "id": "416",
+      "title": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "long": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css",
+      "batch": "step4d-collagen-variants"
+    },
+    {
+      "id": "464",
+      "title": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "long": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css",
+      "batch": "step4d-collagen-variants"
+    },
+    {
+      "id": "467",
+      "title": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "long": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+      "short": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css",
+      "batch": "step4d-collagen-variants"
+    }
+  ],
+  "files": [
+    {
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "blob_sha": "3431f5316df0053da6f0e9c951247738455afc02",
+      "sha256": "00f3dd40d7ad36e26aec0705066e7c4be7a5800a40021361b4193cc766fd0f47",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "blob_sha": "de6d0b19d1728b4d9f5b1f89132d792f0871dde8",
+      "sha256": "c008ba5924d7121204b4523e1c05d6e5a0bf05610ce27efe342d9659ffec24ea",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-star.css",
+      "blob_sha": "be8ecd68a453ca49ee55083d0c60cf8a91230e4f",
+      "sha256": "54e35befa93aa8d33339d96983c2927eddd180caf95f94205a302b8d3e066d04",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "blob_sha": "b0256bf72f027c211ffe1c5e628d90dcacd8b4b4",
+      "sha256": "9da4a29a12421764331546f97b1da03e9b5ece7fd4f2b369a22a6654c58b2795",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "blob_sha": "48a7458490a9047bcb539c2e7d1f1194c19d5c6a",
+      "sha256": "c5a57bc4db9f71cc7dbf0787b4a81992a047e11644d9fa09e6fee25eeed0dd71",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "blob_sha": "326a733690f2d22384f850a0b456ee2efccc7d4f",
+      "sha256": "f5d8b8dd76b498e6f7162aeadba282ef48c2decf9fb8deef1d7cb07c8d84cf44",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "blob_sha": "32f70fe66820e91a22ab6ec3e14513869260f1bc",
+      "sha256": "7513aac475c4d50243ba58a58c75bfd72b9024a46ef6809c4fdf446de2b7bc40",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "blob_sha": "0fceb31fa1348f6407da0ece672faf0e467ecc08",
+      "sha256": "763d85aaa40517331a6013dd7902128aa1d0182dd2d05b287a07fcd103e48c2d",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity.css",
+      "blob_sha": "8bb55c5b126d131141ad611ce78a200c904da32d",
+      "sha256": "83fd1a34b4b91752f7383044de411e64e4e170f420f7f7231a6e3b677992779e",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "blob_sha": "653c54c041f2609bb9e167b396cee3d0f2207b73",
+      "sha256": "2d66919c31f1cd910037d907f879bcd580353d4ce5b48abdd9d70d48dd5e8c5e",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html",
+      "blob_sha": "d48f101e4c0329508c8c984ae01f791936748264",
+      "sha256": "ab5fe96aa32f23c5d472f6b41f55bfc5574165be3c4858c84fbbd745e48c75bf",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-woman-hormonal-balance.css",
+      "blob_sha": "d1fee9ab3fab8155db4433f67ce5df93c6b5b1e9",
+      "sha256": "fdb87d8f860ae7f3909d38a0871b6c0693739f3d997679c1b7de7464c287dac1",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "blob_sha": "84839a6ad2a3d2d6b48e9c21c9581f5e118f7542",
+      "sha256": "efc170319ac1d15caec4329c460d8f7e99ec5a23f21ab152f1a36369b669d142",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "blob_sha": "d58247f02d85629df5928026f1a0cb45ba6d82aa",
+      "sha256": "9388e83cd4462cd649d74c8c6bbdc14ec0a63d1dae71b919135e2f0e683e5ffa",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+      "blob_sha": "38a9a8e30021db098b961f9e23e3948ea4391571",
+      "sha256": "1c8cec8848be1a3b31efdecdd98e2358d98baae7f277c7ef904982794239f64c",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "blob_sha": "1bf058f55216b59e417276775bba1bf7364a9ef3",
+      "sha256": "efe73e349fe784ed8c0fdb5ce42a3306ac2b9aefb96a5abc0020cff3bf220730",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "blob_sha": "f0d4575bd9b16d8e27378b5f24343fb9b24dc613",
+      "sha256": "10800465b4b2497cb97d6684a1dba85a5aedb72836ff7b3b9c4dc1bf96a94567",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+      "blob_sha": "c838d68bb888f6d5cf9a27eb2b153e34476322c8",
+      "sha256": "a4b850678d8168c9abe9f8b2b78fda4350b04b68db03f0dd2c176659eacada6b",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "blob_sha": "aad9c2f0af7b309c68908b555bb0b9c4871640dd",
+      "sha256": "5c379cffe7996ae2310e7428ff60aa213e762d045ce21e09e37037303ec80f6c",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "blob_sha": "ca90452ff17e2143684463dae50a23a9d8bd4583",
+      "sha256": "83d63b6b7c092184c1169f5305128269b724878c9b8418ddc419921b0fbc98c8",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css",
+      "blob_sha": "b318a95b168a82ccaf7461020e9ae8206acf31a6",
+      "sha256": "c55544343c29b20eb17f9881f2e0fd9403a7e807ed34dd90838d35f6fda8e9f9",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "blob_sha": "48612bb8fbecf34353aaa56e20f1f4676ca20b74",
+      "sha256": "06fe0d64a3da76fc505514489dc4a04d7d6e7bae34ba5457b9e2bfa8b0a7f5b6",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "blob_sha": "8a3c0a3200cc54a67f2fe02a5fa4034434a16fcd",
+      "sha256": "8e8f82ead7ffea01afb11aa84b478ababe487ab9741d6dae66dc3fa889fc66b0",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css",
+      "blob_sha": "6f927a27e9bf7dbec5af1ca2bc080c009be91d16",
+      "sha256": "6a9dcc31ad720c2bc139cf4e03f42e70b1f33f83748d17160c7321e1bba6eef2",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "blob_sha": "236ba32b4e3a70252574a2974f50ad7481ad889d",
+      "sha256": "8ff14c7da03a5ab245a5ee75f8530c3bb7d68648ae1d38d6b513b0740a54ef61",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "blob_sha": "0395086af53a9a67b03de6a8a3035e074f5b23ba",
+      "sha256": "0b9058aa0c39d357269c09d9410ae4528c9b8f38082800cbdc18359860730e2a",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css",
+      "blob_sha": "749d0621a961aad7f499c62a561578a911920644",
+      "sha256": "06557ba4524e584e79308bd222f4f3177ee4e0e61d297696c48de338638d8467",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "blob_sha": "bc2c5634971236d7bfc5071329198b90d8b599d8",
+      "sha256": "52641180923a4a0505366b39a901cf6889b00afa27f689fa52ac863e6ba162d3",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "blob_sha": "f22607d8e6d8f07121bfc94d7b04667917d0928c",
+      "sha256": "1baf1c746d5abf05087a83a1944d0911c1b89ee74d602c98447deedf037f3715",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+      "blob_sha": "04c73f12779e9e0aab1e3556af8ebbb1a311d48f",
+      "sha256": "aa418da53f9c686ad68a98b8d6624e19829d79ed89833310609780e3a59c97c7",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-cz.html",
+      "blob_sha": "f931b7c825ed36fd1f8df523c6b5102b9efadf9d",
+      "sha256": "448eb629419a2bb138042f5a8c60f48f37a8e679be7ce53e6c3604e57be8a05f",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-cz.html",
+      "blob_sha": "85c2d4e3cd5c9395a24092e730e44c0c5148de39",
+      "sha256": "23032e0105f8343b394779ab99d8484d171ba35393974512763fb8cffa2d98fb",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css",
+      "blob_sha": "1d9c9ddebb3519de8ec91385119c3802698a4b54",
+      "sha256": "71f68c95a22c53ccc2898fccc715bf3b1e6f044df022f0c59fcf005bfb02489b",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+      "blob_sha": "30c93c8c6b479a31e5509f90d33ce68430b6b884",
+      "sha256": "9e5e1c1d3415af711b95a41e09230932cfb75b78349c9cb9ce34f1bbb3d8d689",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html",
+      "blob_sha": "92637262abd1b57cf825836bb6f1eae28b157e1e",
+      "sha256": "d490cb895a31e55291b42c0b521099cdd0a942526e1a1af7851045ff2cb8a701",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css",
+      "blob_sha": "baf4817b1747e98adf5b44f759e14303591b7a6c",
+      "sha256": "928e71d1efa777907349c610b8640c7a57954cf92d49ca8febfd567b38b951d7",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+      "blob_sha": "9e7c0c7ab35025bafe4d31a82b498a9d5dcb2aec",
+      "sha256": "d5a4c11934cc349d96a7e6e6fd85bc49fc0c8e2151a585b27d06cb4b70470aae",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+      "blob_sha": "eb9d3291435df4666516ce225a2a8f3ea8c4bb15",
+      "sha256": "ebf4c2f0c89fdbf00de9072f7ccea4e67cdbf8bce5e776b6cbbf3232c834ae7a",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css",
+      "blob_sha": "929c3726ecef7eaaf6a7d2d1e064fbf186ad8a83",
+      "sha256": "1883ecbe8ead7b18063294eb5226602224c6d764d4589ee34f30494267057b05",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+      "blob_sha": "c188b60c9c300501f62dbe31bfd3c31ed9c65003",
+      "sha256": "7bd03594c8e5720f384f1e78709ddb066429aa7bf07b0e60de67f183ed095c30",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "blob_sha": "65dc130aef586b1c3e66e1fd2378cd281678f20a",
+      "sha256": "ab040763689e40c15837c01fc57914e33ff08a5b4b1e81cc32a2a69c84526518",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css",
+      "blob_sha": "6f1ab2828ec5bf4fda7069b6600012b3d8e5903a",
+      "sha256": "52e67a843822402de20a97bfd2ec965d0cf7055a3dd88476d23ac756a67708a3",
+      "matches_last_tested_snapshot": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "blob_sha": "a52832d0e9da2ddce65dd0154ee26ca13e3eef03",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+      "matches_last_tested_snapshot": true
+    }
+  ],
+  "identity": "goldie-golden-life",
+  "scope": "14 themes, minimal loaders/cache-version imports in corresponding 28 prepared HTML files, new shared UI-only script; Git handoff, not shop deployment"
+}

@@ -1,0 +1,34 @@
+{
+  "stav": "PASS",
+  "cas_UTC": "2026-11-09T11:54:52.351651+00:00",
+  "chromium": "156.0.8078.4",
+  "vysledky": "/root/workspace/research/host-scheme-1793966146-20261109T113746Z/analysis/results.json",
+  "souhrn": {
+    "celkem": 54,
+    "proslo": 54,
+    "selhalo": 0,
+    "externi_pokusy": 0,
+    "dokoncene_externi_pozadavky": 0
+  },
+  "presny_seznam_id_theme_proti_povolenemu_zdroji": true,
+  "pocet_podporovanych_temat": 14,
+  "synteticke_varianty": 112,
+  "soubory": {
+    "javascript": {
+      "cesta": "/root/workspace/research/host-scheme-1793966146-20261109T113746Z/out/user/documents/upload/js/golden-life-product-scheme.js",
+      "bajty": 12053,
+      "sha256": "6e6905ff3144c01e8e30312d723f24d6a9368936b2f602232a393190f58e7d07"
+    },
+    "test": {
+      "cesta": "/root/workspace/research/host-scheme-1793966146-20261109T113746Z/analysis/test_host_scheme.py",
+      "bajty": 27902,
+      "sha256": "991abeb87755b05d7d9f8f7cde8ce3a9aabf4931b0004f368b0feedc3151ff4c"
+    },
+    "inventory": {
+      "cesta": "/root/workspace/research/host-scheme-1793966146-20261109T113746Z/analysis/supported-themes.json",
+      "bajty": 716,
+      "sha256": "c67325529b836de86802f7728af1ef8c4ca558cd938c1711e7790a6df099faa1"
+    }
+  },
+  "publikovano": false
+}

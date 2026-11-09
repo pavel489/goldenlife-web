@@ -1,0 +1,23 @@
+[
+  {
+    "alt": "Spalování tuků",
+    "source_URL": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+    "HTTP": 200,
+    "MIME": "image/png",
+    "sha256": "72f15f59ea0cfe1831891d1b69a4dbf3d724556a4abb32c81846fcf234666ef5"
+  },
+  {
+    "alt": "Malá odměrka",
+    "source_URL": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20mala_pink_1.png",
+    "HTTP": 200,
+    "MIME": "image/png",
+    "sha256": "deb15fe37f4014553b57befb21682a791986a0660eee72ff4d85fb5b3c5cc639"
+  },
+  {
+    "alt": "Velká odměrka",
+    "source_URL": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20velka_pink_1.png",
+    "HTTP": 200,
+    "MIME": "image/png",
+    "sha256": "e212265f7f9ac00e725e668cb79115509a742a9e1b23e846b7f85a14662a029f"
+  }
+]

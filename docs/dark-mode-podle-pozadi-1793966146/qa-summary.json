@@ -1,0 +1,17 @@
+{
+  "products": 14,
+  "scenario_count": 336,
+  "pass_count": 336,
+  "expected_scenarios": 336,
+  "pixel_checks": 28,
+  "light_pixels_unchanged": true,
+  "roundtrip_count": 28,
+  "roundtrips_pass": true,
+  "pointer_dialog_cycles": 364,
+  "toggle_cycles": 92,
+  "no_JS_products": 14,
+  "JS_errors": [],
+  "external_requests": [],
+  "failures": [],
+  "scope": "Real prepared product fragments/CSS pinned to current remote Git snapshot and original authentic cached assets; host backgrounds are explicitly synthetic test states. Not live deployment or physical Safari."
+}

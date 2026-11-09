@@ -1,0 +1,1268 @@
+{
+  "popis": "Skutečné spuštění Playwright; výhradně syntetické lokální DOM/CSS fixtures, nikoli živý Shoptet.",
+  "cas_UTC": "2026-11-09T11:51:41.701759+00:00",
+  "javascript": "/root/workspace/research/host-scheme-1793966146-20261109T113746Z/out/user/documents/upload/js/golden-life-product-scheme.js",
+  "javascript_sha256": "6e6905ff3144c01e8e30312d723f24d6a9368936b2f602232a393190f58e7d07",
+  "test_sha256": "991abeb87755b05d7d9f8f7cde8ce3a9aabf4931b0004f368b0feedc3151ff4c",
+  "inventory_sha256": "c67325529b836de86802f7728af1ef8c4ca558cd938c1711e7790a6df099faa1",
+  "pocet_podporovanych_temat": 14,
+  "sitova_politika": "Každý HTTP(S) požadavek je přerušen; žádné falešné odpovědi.",
+  "testy": [
+    {
+      "nazev": "Světlý host + tmavý systém",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.11,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Tmavý host + světlý systém",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          17,
+          17,
+          17,
+          1
+        ],
+        "luminance": 0.005605391624202723,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.116,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Transparentní obaly",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "luminance": 0,
+        "reason": "ancestor-background",
+        "sampledAncestors": 4,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.097,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Zděděné background-color:inherit",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          17,
+          17,
+          17,
+          1
+        ],
+        "luminance": 0.005605391624202723,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.105,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Více alfa vrstev nejbližší → vzdálenější",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          127.5,
+          63.75,
+          63.75,
+          1
+        ],
+        "luminance": 0.08556497829280645,
+        "reason": "ancestor-background",
+        "sampledAncestors": 3,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.082,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Alfa černá přes bílý canvas",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          102,
+          102,
+          102,
+          1
+        ],
+        "luminance": 0.13286832155381795,
+        "reason": "ua-canvas",
+        "sampledAncestors": 3,
+        "usedCanvas": true,
+        "threshold": 0.179
+      },
+      "sekundy": 0.132,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Nejbližší bílý panel nad tmavým body",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.132,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Neprůhledný panel zakrývá vzdálenější gradient",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.127,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Neověřený data-theme=dark nic nepřepíná",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.126,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Skutečné CSS reagující na marker přepíná",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.315,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Přepnutí oběma směry bez vlastní bg zpětné vazby",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "prechody": [
+          {
+            "scheme": "light",
+            "rgba": [
+              255,
+              255,
+              255,
+              1
+            ],
+            "luminance": 1,
+            "reason": "ancestor-background",
+            "sampledAncestors": 1,
+            "usedCanvas": false,
+            "threshold": 0.179
+          },
+          {
+            "scheme": "dark",
+            "rgba": [
+              17,
+              17,
+              17,
+              1
+            ],
+            "luminance": 0.005605391624202723,
+            "reason": "ancestor-background",
+            "sampledAncestors": 1,
+            "usedCanvas": false,
+            "threshold": 0.179
+          },
+          {
+            "scheme": "light",
+            "rgba": [
+              255,
+              255,
+              255,
+              1
+            ],
+            "luminance": 1,
+            "reason": "ancestor-background",
+            "sampledAncestors": 1,
+            "usedCanvas": false,
+            "threshold": 0.179
+          },
+          {
+            "scheme": "dark",
+            "rgba": [
+              17,
+              17,
+              17,
+              1
+            ],
+            "luminance": 0.005605391624202723,
+            "reason": "ancestor-background",
+            "sampledAncestors": 1,
+            "usedCanvas": false,
+            "threshold": 0.179
+          }
+        ],
+        "ustaleny_stav": {
+          "scheme": "light",
+          "rgba": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "luminance": 1,
+          "reason": "ancestor-background",
+          "sampledAncestors": 1,
+          "usedCanvas": false,
+          "threshold": 0.179
+        }
+      },
+      "sekundy": 4.183,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Pozdě vložený kořen",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          17,
+          17,
+          17,
+          1
+        ],
+        "luminance": 0.005605391624202723,
+        "reason": "ancestor-background",
+        "sampledAncestors": 2,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.199,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Existující otevřený Shadow DOM + změny rodiče",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "pred": {
+          "scheme": "dark",
+          "rgba": [
+            17,
+            17,
+            17,
+            1
+          ],
+          "luminance": 0.005605391624202723,
+          "reason": "ancestor-background",
+          "sampledAncestors": 2,
+          "usedCanvas": false,
+          "threshold": 0.179
+        },
+        "po": {
+          "scheme": "dark",
+          "rgba": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "luminance": 0,
+          "reason": "ancestor-background",
+          "sampledAncestors": 2,
+          "usedCanvas": false,
+          "threshold": 0.179
+        }
+      },
+      "sekundy": 0.312,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Pozdní attachShadow na existujícím hostiteli",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "objeveni_sekundy": 1.3172481060028076,
+        "po": {
+          "scheme": "light",
+          "rgba": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "luminance": 1,
+          "reason": "ancestor-background",
+          "sampledAncestors": 1,
+          "usedCanvas": false,
+          "threshold": 0.179
+        }
+      },
+      "sekundy": 1.678,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Vnořený otevřený Shadow DOM + alfa hostitel",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          204,
+          204,
+          204,
+          1
+        ],
+        "luminance": 0.6038273388553377,
+        "reason": "ancestor-background",
+        "sampledAncestors": 3,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.092,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Composed tree přes assignedSlot",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 2,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.086,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Uzavřený Shadow DOM — deklarované omezení",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "ocekavane_omezeni": "uzavřený Shadow DOM není objevován; zůstává světlý fallback"
+      },
+      "sekundy": 1.732,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Odpojení a opětovné připojení Shadow hostitele",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 2,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.413,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Pět vložení stejného skriptu, jeden observer a poll",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "same": true,
+        "observers": 1,
+        "polls": 1,
+        "version": "host-bg-1",
+        "frozen": true,
+        "playwright_harness_observers": 1
+      },
+      "sekundy": 0.516,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Nepodporované a neoznačené kořeny beze změny",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "podporovane_koreny": 1,
+        "nepodporovane_beze_zmeny": 2
+      },
+      "sekundy": 0.155,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "UA Canvas color-scheme:dark + světlý systém",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          18,
+          18,
+          18,
+          1
+        ],
+        "luminance": 0.006048833022857054,
+        "reason": "ua-canvas",
+        "sampledAncestors": 2,
+        "usedCanvas": true,
+        "threshold": 0.179
+      },
+      "sekundy": 0.112,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "UA Canvas color-scheme:light + tmavý systém",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ua-canvas",
+        "sampledAncestors": 2,
+        "usedCanvas": true,
+        "threshold": 0.179
+      },
+      "sekundy": 0.086,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Lokální color-scheme obalu nepřebarví canvas dokumentu",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ua-canvas",
+        "sampledAncestors": 3,
+        "usedCanvas": true,
+        "threshold": 0.179
+      },
+      "sekundy": 0.114,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Systémová změna pouze invaliduje, nerozhoduje",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "luminance": 0,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.623,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Canvas light dark při systémové změně",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "pred": {
+          "scheme": "light",
+          "rgba": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "luminance": 1,
+          "reason": "ua-canvas",
+          "sampledAncestors": 2,
+          "usedCanvas": true,
+          "threshold": 0.179
+        },
+        "po": {
+          "scheme": "dark",
+          "rgba": [
+            18,
+            18,
+            18,
+            1
+          ],
+          "luminance": 0.006048833022857054,
+          "reason": "ua-canvas",
+          "sampledAncestors": 2,
+          "usedCanvas": true,
+          "threshold": 0.179
+        },
+        "zdroj": "UA Canvas, nikoli přímá volba podle media query"
+      },
+      "sekundy": 0.284,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "UA Canvas: diagnostika odpovídá reálnému tmavému pixelu",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "diagnostika": {
+          "scheme": "dark",
+          "rgba": [
+            18,
+            18,
+            18,
+            1
+          ],
+          "luminance": 0.006048833022857054,
+          "reason": "ua-canvas",
+          "sampledAncestors": 2,
+          "usedCanvas": true,
+          "threshold": 0.179
+        },
+        "skutecny_canvas_pixel_RGB": [
+          18,
+          18,
+          18
+        ],
+        "meta_color_scheme_dark": false
+      },
+      "sekundy": 0.363,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "UA Canvas: diagnostika odpovídá reálnému světlému pixelu",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "diagnostika": {
+          "scheme": "light",
+          "rgba": [
+            255,
+            255,
+            255,
+            1
+          ],
+          "luminance": 1,
+          "reason": "ua-canvas",
+          "sampledAncestors": 2,
+          "usedCanvas": true,
+          "threshold": 0.179
+        },
+        "skutecny_canvas_pixel_RGB": [
+          255,
+          255,
+          255
+        ],
+        "meta_color_scheme_dark": false
+      },
+      "sekundy": 0.332,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "UA Canvas: meta color-scheme dark při CSS normal",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "diagnostika": {
+          "scheme": "dark",
+          "rgba": [
+            18,
+            18,
+            18,
+            1
+          ],
+          "luminance": 0.006048833022857054,
+          "reason": "ua-canvas",
+          "sampledAncestors": 2,
+          "usedCanvas": true,
+          "threshold": 0.179
+        },
+        "skutecny_canvas_pixel_RGB": [
+          18,
+          18,
+          18
+        ],
+        "meta_color_scheme_dark": true
+      },
+      "sekundy": 0.351,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Neznámý background-image → konzervativní světlá",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": null,
+        "luminance": null,
+        "reason": "unknown-background-image",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.114,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Neznámá skupinová opacity → světlá",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": null,
+        "luminance": null,
+        "reason": "unknown-compositing-effect",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.117,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Moderní CSS Color 4",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          13,
+          13,
+          13,
+          1
+        ],
+        "luminance": 0.004024717018496307,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.08,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Luminance pod prahem #757575",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          117,
+          117,
+          117,
+          1
+        ],
+        "luminance": 0.17788841598362912,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.121,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Luminance nad prahem #767676",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          118,
+          118,
+          118,
+          1
+        ],
+        "luminance": 0.18116424424986022,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.088,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Asynchronní lokální Blob stylesheet",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "luminance": 0,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.163,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "CSSOM insertRule bez DOM mutace",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "luminance": 0,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 1.592,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Změna textu STYLE",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "dark",
+        "rgba": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "luminance": 0,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.193,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Responzivní změny oběma směry",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "scheme": "light",
+        "rgba": [
+          255,
+          255,
+          255,
+          1
+        ],
+        "luminance": 1,
+        "reason": "ancestor-background",
+        "sampledAncestors": 1,
+        "usedCanvas": false,
+        "threshold": 0.179
+      },
+      "sekundy": 0.297,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Visibility API simulace: hidden bez pollingu, visible obnoví",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "simulace_Page_Visibility_API": true,
+        "skryto": {
+          "scheme": "light",
+          "timers": []
+        },
+        "obnoveno": {
+          "scheme": "dark",
+          "rgba": [
+            0,
+            0,
+            0,
+            1
+          ],
+          "luminance": 0,
+          "reason": "ancestor-background",
+          "sampledAncestors": 1,
+          "usedCanvas": false,
+          "threshold": 0.179
+        }
+      },
+      "sekundy": 2.108,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Fotografie beze změny a bez inverze",
+      "systemova_preference": "light",
+      "stav": "PASS",
+      "detail": {
+        "foto_HTML_beze_zmeny": true,
+        "filter": "none"
+      },
+      "sekundy": 0.176,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 351 / beauty-star / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "beauty-star",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.307,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 383 / slim-extreme-collagen-box-ananas / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "slim-extreme-collagen-box-ananas",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.31,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 544 / beauty-longevity / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "beauty-longevity",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.327,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 644 / woman-hormonal-balance / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "woman-hormonal-balance",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.325,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 635 / glp1-woman-balance / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "glp1-woman-balance",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.324,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 641 / glp1-woman-balance-sacek / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "glp1-woman-balance-sacek",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.327,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 550 / anti-age-longevity / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "anti-age-longevity",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.292,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 600 / beauty-longevity-sacek / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "beauty-longevity-sacek",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.343,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 168 / slim-extreme-collagen / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "slim-extreme-collagen",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.343,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 473 / slim-sos-fat-burner / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "slim-sos-fat-burner",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.311,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 476 / slim-glp-1-activator / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "slim-glp-1-activator",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.325,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 416 / slim-extreme-collagen-sacek-ananas / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "slim-extreme-collagen-sacek-ananas",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.31,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 464 / slim-extreme-collagen-box-ananas-mango / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "slim-extreme-collagen-box-ananas-mango",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.31,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Téma 467 / slim-extreme-collagen-sacek-ananas-mango / 2 délky × 4 jazyky",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "theme": "slim-extreme-collagen-sacek-ananas-mango",
+        "varianty": 8,
+        "host_sekvence": [
+          "light",
+          "dark",
+          "light"
+        ]
+      },
+      "sekundy": 0.326,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    },
+    {
+      "nazev": "Bez JavaScriptu: skutečný světlý pixel fallbacku",
+      "systemova_preference": "dark",
+      "stav": "PASS",
+      "detail": {
+        "atribut": null,
+        "pixel_RGB": [
+          255,
+          255,
+          255
+        ],
+        "screenshot": "/root/workspace/research/host-scheme-1793966146-20261109T113746Z/analysis/no-js-fallback.png",
+        "externi_pozadavky": 0
+      },
+      "sekundy": 0.192,
+      "externi_pokusy": 0,
+      "dokoncene_externi_pozadavky": 0,
+      "chyby_JS": []
+    }
+  ],
+  "chromium": "156.0.8078.4",
+  "souhrn": {
+    "celkem": 54,
+    "proslo": 54,
+    "selhalo": 0,
+    "externi_pokusy": 0,
+    "dokoncene_externi_pozadavky": 0
+  }
+}

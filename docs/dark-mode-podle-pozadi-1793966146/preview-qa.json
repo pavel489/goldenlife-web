@@ -1,0 +1,11 @@
+{
+  "images": {
+    "count": 20,
+    "decoded": true
+  },
+  "swap_roundtrip": true,
+  "same_dark_system_both_hosts": true,
+  "external_requests": [],
+  "JS_errors": [],
+  "scope": "Self-contained preview of actual prepared SKU168 fragments; labelled test hosts, not live deployment"
+}

@@ -1,0 +1,18 @@
+{
+  "source_commit": "978e8c038401aa5a33217465170d7ad4be645a66",
+  "implementation_JS_sha256": "6e6905ff3144c01e8e30312d723f24d6a9368936b2f602232a393190f58e7d07",
+  "CSS_count": 14,
+  "prepared_HTML_count": 28,
+  "new_JS_count": 1,
+  "common_framework_changed": false,
+  "model": "GPT-6.1-Sol",
+  "paid_image_or_video_generation": false,
+  "model_run_cost": "not_metered_in_this_task",
+  "native_SK_common_CSS_probe": {
+    "URL": "https://www.golden-life.cz/user/documents/upload/css/golden-life-produkt.css",
+    "HTTP": 404,
+    "meaning": "Missing public dependency observed during QA; full live-layout acceptance not claimed."
+  },
+  "live_shop_written": false,
+  "generated_at_UTC": "2026-11-09T12:12:20.872977+00:00"
+}

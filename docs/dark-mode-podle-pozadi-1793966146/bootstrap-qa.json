@@ -1,0 +1,148 @@
+{
+  "products": 14,
+  "pass_count": 14,
+  "script_sha256": "6e6905ff3144c01e8e30312d723f24d6a9368936b2f602232a393190f58e7d07",
+  "scope": "Exact delivered bootstrap, duplicate long/short insertion, actual final JS bytes fulfilled locally. This is not verification that the public script URL has been uploaded.",
+  "tests": [
+    {
+      "id": "351",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "383",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "544",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "644",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "635",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "641",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "550",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "600",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "168",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "473",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "476",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "416",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "464",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    },
+    {
+      "id": "467",
+      "two_exact_delivered_loaders": true,
+      "one_script_request": true,
+      "light_host_despite_dark_system": true,
+      "requests_locally_intercepted_NOT_live": [
+        "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1"
+      ],
+      "JS_errors": []
+    }
+  ]
+}
