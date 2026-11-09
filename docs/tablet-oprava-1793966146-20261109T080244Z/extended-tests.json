@@ -1,0 +1,1092 @@
+{
+  "scenarios": [
+    {
+      "id": "635",
+      "viewport": [
+        390,
+        844
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        767,
+        1024
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        768,
+        1024
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        769,
+        1024
+      ],
+      "before": {
+        "overflow": 57,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        780,
+        1024
+      ],
+      "before": {
+        "overflow": 46,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        800,
+        1180
+      ],
+      "before": {
+        "overflow": 26,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        820,
+        1180
+      ],
+      "before": {
+        "overflow": 6,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        900,
+        1180
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        1023,
+        768
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        1024,
+        768
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "635",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        390,
+        844
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        767,
+        1024
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "anywhere"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        768,
+        1024
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        769,
+        1024
+      ],
+      "before": {
+        "overflow": 57,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        780,
+        1024
+      ],
+      "before": {
+        "overflow": 46,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        800,
+        1180
+      ],
+      "before": {
+        "overflow": 26,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        820,
+        1180
+      ],
+      "before": {
+        "overflow": 6,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 12,
+            "badText": [
+              "Podporuje metabolickou rovnováhu"
+            ],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        900,
+        1180
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        1023,
+        768
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "break-word"
+          }
+        ]
+      },
+      "pass": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        1024,
+        768
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    },
+    {
+      "id": "641",
+      "viewport": [
+        1440,
+        1000
+      ],
+      "before": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "after": {
+        "overflow": 0,
+        "features": [
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          },
+          {
+            "overflow": 0,
+            "badText": [],
+            "wrap": "normal"
+          }
+        ]
+      },
+      "pass": true,
+      "pixels_unchanged": true
+    }
+  ],
+  "scenario_count": 22,
+  "pass_count": 22,
+  "unchanged_outside_tablet_pixel_cases": 10,
+  "JS_errors": [],
+  "external_requests": [],
+  "scope": "Exact original offline docs + exact CSS additions from output themes. Source current-main verified byte-identical before patch. Not live shop/Safari."
+}

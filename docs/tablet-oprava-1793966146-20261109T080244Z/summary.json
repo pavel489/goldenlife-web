@@ -1,0 +1,30 @@
+{
+  "products": 14,
+  "ids": [
+    "168",
+    "351",
+    "383",
+    "416",
+    "464",
+    "467",
+    "473",
+    "476",
+    "544",
+    "550",
+    "600",
+    "635",
+    "641",
+    "644"
+  ],
+  "light_scenarios": 56,
+  "light_pass": 56,
+  "dark_scenarios": 14,
+  "dark_palette_changed": 0,
+  "roundtrip_products": 14,
+  "roundtrip_pass": 14,
+  "pointer_dialogs": 364,
+  "pointer_dialog_pass": 364,
+  "js_errors": 0,
+  "external_request_events": 0,
+  "failed": []
+}

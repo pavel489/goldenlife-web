@@ -1,0 +1,105 @@
+{
+  "source_commit": "3cf7fcb3544f8c46a28feb86a948ed4eaf915379",
+  "source_tree": "e113bb8c124b7a1fe1fa17dc1ade75c3a2bfe198",
+  "identity": "goldie-golden-life",
+  "products": [
+    {
+      "id": "635",
+      "title": "Hormonal Balance noční GLP-1 drink",
+      "long": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "short": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+      "ingredient_dialogs": 9,
+      "tables": 2,
+      "table_cells": 66,
+      "source_substantive_p_li": 64,
+      "full_source_dialog_HTML_preserved": true,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/635-1_box-komplet-peptides.png?ff=1&x=1024&y=1024&q=85&ts=6ace0dbd&sg=38cb01fe",
+      "current_photo_bytes_available": false,
+      "live_verified": false,
+      "common_framework_unchanged": true,
+      "source_provenance": {
+        "mode": "verified-public-archive-after-live-403",
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/635-hormonal-balance-nocni-glp-1-drink.html",
+        "sha256": "a1b1a950217e74b63506c988ac83ba349b4fa5fda42db5a8e33486af89e1390d",
+        "live_verified": false
+      },
+      "hashes": {
+        "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html": "efc170319ac1d15caec4329c460d8f7e99ec5a23f21ab152f1a36369b669d142",
+        "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html": "9388e83cd4462cd649d74c8c6bbdc14ec0a63d1dae71b919135e2f0e683e5ffa",
+        "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css": "07e45ad1a5e0aff7a8d0434f4bbfef4fa97892a3ab631d19f3a1739cfd32707e"
+      }
+    },
+    {
+      "id": "641",
+      "title": "Hormonal Balance noční GLP-1 drink sáček",
+      "long": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "short": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "theme": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+      "ingredient_dialogs": 9,
+      "tables": 2,
+      "table_cells": 66,
+      "source_substantive_p_li": 65,
+      "full_source_dialog_HTML_preserved": true,
+      "main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/641-1_sacek-web-peptides-glp-1.png?ff=1&x=1024&y=1024&q=85&ts=6acdf044&sg=38cb01fe",
+      "current_photo_bytes_available": false,
+      "live_verified": false,
+      "common_framework_unchanged": true,
+      "source_provenance": {
+        "mode": "verified-public-archive-after-live-403",
+        "path": "/root/workspace/research/css-audit-1793883385/step1/backup/pages/641-hormonal-balance-nocni-glp-1-drink-sacek.html",
+        "sha256": "51ea3c4e7c3d276594b67dbd8d3793dab105c3ab3a47e6d6f2013303a49989a3",
+        "live_verified": false
+      },
+      "hashes": {
+        "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html": "efe73e349fe784ed8c0fdb5ce42a3306ac2b9aefb96a5abc0020cff3bf220730",
+        "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html": "10800465b4b2497cb97d6684a1dba85a5aedb72836ff7b3b9c4dc1bf96a94567",
+        "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css": "5de6c1b6a4bc9cecd35d66c743b50a266b7fc1e7b9de5dbab6390429d6e3b2bc"
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "blob_sha": "84839a6ad2a3d2d6b48e9c21c9581f5e118f7542",
+      "sha256": "efc170319ac1d15caec4329c460d8f7e99ec5a23f21ab152f1a36369b669d142",
+      "same_as_previous_prepared_bytes": true
+    },
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "blob_sha": "d58247f02d85629df5928026f1a0cb45ba6d82aa",
+      "sha256": "9388e83cd4462cd649d74c8c6bbdc14ec0a63d1dae71b919135e2f0e683e5ffa",
+      "same_as_previous_prepared_bytes": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+      "blob_sha": "b001813b10ce2f526bce57173ee9949645e547d5",
+      "sha256": "07e45ad1a5e0aff7a8d0434f4bbfef4fa97892a3ab631d19f3a1739cfd32707e",
+      "same_as_previous_prepared_bytes": true
+    },
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "blob_sha": "1bf058f55216b59e417276775bba1bf7364a9ef3",
+      "sha256": "efe73e349fe784ed8c0fdb5ce42a3306ac2b9aefb96a5abc0020cff3bf220730",
+      "same_as_previous_prepared_bytes": true
+    },
+    {
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "blob_sha": "f0d4575bd9b16d8e27378b5f24343fb9b24dc613",
+      "sha256": "10800465b4b2497cb97d6684a1dba85a5aedb72836ff7b3b9c4dc1bf96a94567",
+      "same_as_previous_prepared_bytes": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+      "blob_sha": "ab40c44d7d6c7c1725468ff8695ae0c7c7a3cc22",
+      "sha256": "5de6c1b6a4bc9cecd35d66c743b50a266b7fc1e7b9de5dbab6390429d6e3b2bc",
+      "same_as_previous_prepared_bytes": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "blob_sha": "a52832d0e9da2ddce65dd0154ee26ca13e3eef03",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+      "same_as_previous_prepared_bytes": true
+    }
+  ]
+}

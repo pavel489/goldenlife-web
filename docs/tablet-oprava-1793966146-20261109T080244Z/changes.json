@@ -1,0 +1,18 @@
+[
+  {
+    "id": "635",
+    "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+    "added_css": "\n/* Tablet 769–1023 px: stack benefit icons above readable full-width captions. */\n@media (min-width:769px) and (max-width:1023px){\n#special-popis:where([data-gl-theme=\"glp1-woman-balance\"]) .nad-feature{flex-direction:column;align-items:center;text-align:center;gap:6px;overflow-wrap:break-word;}\n}\n",
+    "original_sha256": "07e45ad1a5e0aff7a8d0434f4bbfef4fa97892a3ab631d19f3a1739cfd32707e",
+    "after_sha256": "59ce3b62812e1fc2bdfa3f1d85467a79456fb537976dddca7e4c098f0946efcf",
+    "original_bytes_preserved": true
+  },
+  {
+    "id": "641",
+    "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+    "added_css": "\n/* Tablet 769–1023 px: stack benefit icons above readable full-width captions. */\n@media (min-width:769px) and (max-width:1023px){\n#special-popis:where([data-gl-theme=\"glp1-woman-balance-sacek\"]) .nad-feature{flex-direction:column;align-items:center;text-align:center;gap:6px;overflow-wrap:break-word;}\n}\n",
+    "original_sha256": "5de6c1b6a4bc9cecd35d66c743b50a266b7fc1e7b9de5dbab6390429d6e3b2bc",
+    "after_sha256": "314f660a825582553065afb04d3777b974f855d329951efa6886632755634bc7",
+    "original_bytes_preserved": true
+  }
+]
