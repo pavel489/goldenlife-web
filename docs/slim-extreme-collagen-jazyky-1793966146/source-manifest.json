@@ -1,0 +1,53 @@
+{
+  "commit": "6e471030bd01d04aed7b5c251b07933b09fc9e6f",
+  "source_tree": "43198465c176f945683235df8caded2092b603af",
+  "files": [
+    {
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "blob_sha": "ef93b1cd8611407e42c832a474ef93420cde5d8a",
+      "sha256": "06143af146c3c24d08270ee6500cadf007537a3941bd616e427312d0778f1008"
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "blob_sha": "f650b2ecbf5aa49416dfc3f02a582613e665ef61",
+      "sha256": "452a8d54882fe2ea62fbd3ee4b6258cc23dd15fa3b3e75b4d7ef51a3c9f4cb81"
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "blob_sha": "a52832d0e9da2ddce65dd0154ee26ca13e3eef03",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f"
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css",
+      "blob_sha": "770e3abfe48eda55409c21106dba693ea55763e2",
+      "sha256": "5250c4efadc28f8dd118a7daf7ab22bcc65b4c5bc30d911a370e4bd38e46c96c"
+    },
+    {
+      "path": "user/documents/upload/js/golden-life-product-scheme.js",
+      "blob_sha": "6eac9ffea86c06e52b1a85608951e6f9c59f1168",
+      "sha256": "6e6905ff3144c01e8e30312d723f24d6a9368936b2f602232a393190f58e7d07"
+    }
+  ],
+  "existing_product_files": [
+    {
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "blob_sha": "ef93b1cd8611407e42c832a474ef93420cde5d8a"
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen/README.md",
+      "blob_sha": "4f603b7bf7eefb685d5c41bf2aa46592902a6206"
+    },
+    {
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "blob_sha": "f650b2ecbf5aa49416dfc3f02a582613e665ef61"
+    }
+  ],
+  "languages": [
+    "sk",
+    "en",
+    "de"
+  ],
+  "language_scope_evidence": "Exact native SKU168 hreflang at public Czech URL, observed in this task",
+  "source_long": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+  "source_short": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html"
+}

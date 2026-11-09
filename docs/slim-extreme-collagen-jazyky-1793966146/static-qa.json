@@ -1,0 +1,156 @@
+{
+  "summary": {
+    "files": 6,
+    "pass_count": 6,
+    "failures": []
+  },
+  "files": [
+    {
+      "lang": "sk",
+      "kind": "long",
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-sk.html",
+      "pass": true,
+      "images_preserved": 26,
+      "table_cells": 96,
+      "dialog_count": 6,
+      "runtime_strings_changed": [
+        {
+          "before": "Zobrazit více",
+          "after": "Zobraziť viac"
+        },
+        {
+          "before": "Zobrazit více: Slim Extreme Collagen",
+          "after": "Zobraziť viac: Slim Extreme Collagen"
+        },
+        {
+          "before": "Zobrazit méně",
+          "after": "Zobraziť menej"
+        },
+        {
+          "before": "Zobrazit více",
+          "after": "Zobraziť viac"
+        },
+        {
+          "before": "Zobrazit méně: ",
+          "after": "Zobraziť menej: "
+        },
+        {
+          "before": "Zobrazit více: ",
+          "after": "Zobraziť viac: "
+        }
+      ],
+      "same_nonstring_JS_AST": true,
+      "sha256": "c124e962ae9cd560556bb7ccbb80bb4431d34d46626d7dcbb19775831475006b"
+    },
+    {
+      "lang": "sk",
+      "kind": "short",
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-sk.html",
+      "pass": true,
+      "images_preserved": 10,
+      "table_cells": 0,
+      "dialog_count": 0,
+      "runtime_strings_changed": [],
+      "same_nonstring_JS_AST": true,
+      "sha256": "8c055f8f028c6a1451afd017d749d56469035485464cdd7a104319baba7ea315"
+    },
+    {
+      "lang": "en",
+      "kind": "long",
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "pass": true,
+      "images_preserved": 26,
+      "table_cells": 96,
+      "dialog_count": 6,
+      "runtime_strings_changed": [
+        {
+          "before": "Zobrazit více",
+          "after": "Show more"
+        },
+        {
+          "before": "Zobrazit více: Slim Extreme Collagen",
+          "after": "Show more: Slim Extreme Collagen"
+        },
+        {
+          "before": "Zobrazit méně",
+          "after": "Show less"
+        },
+        {
+          "before": "Zobrazit více",
+          "after": "Show more"
+        },
+        {
+          "before": "Zobrazit méně: ",
+          "after": "Show less: "
+        },
+        {
+          "before": "Zobrazit více: ",
+          "after": "Show more: "
+        }
+      ],
+      "same_nonstring_JS_AST": true,
+      "sha256": "ad53a253ba70a41ab6b6fdea7dce429d5eaa6ea4eda1f7b12e8481fa1d9677ce"
+    },
+    {
+      "lang": "en",
+      "kind": "short",
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "pass": true,
+      "images_preserved": 10,
+      "table_cells": 0,
+      "dialog_count": 0,
+      "runtime_strings_changed": [],
+      "same_nonstring_JS_AST": true,
+      "sha256": "d824365a5a4ae6e8b9ebc7779003c99640d99f1c75c2755fb444bc9ffec05adf"
+    },
+    {
+      "lang": "de",
+      "kind": "long",
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "pass": true,
+      "images_preserved": 26,
+      "table_cells": 96,
+      "dialog_count": 6,
+      "runtime_strings_changed": [
+        {
+          "before": "Zobrazit více",
+          "after": "Mehr anzeigen"
+        },
+        {
+          "before": "Zobrazit více: Slim Extreme Collagen",
+          "after": "Mehr anzeigen: Slim Extreme Collagen"
+        },
+        {
+          "before": "Zobrazit méně",
+          "after": "Weniger anzeigen"
+        },
+        {
+          "before": "Zobrazit více",
+          "after": "Mehr anzeigen"
+        },
+        {
+          "before": "Zobrazit méně: ",
+          "after": "Weniger anzeigen: "
+        },
+        {
+          "before": "Zobrazit více: ",
+          "after": "Mehr anzeigen: "
+        }
+      ],
+      "same_nonstring_JS_AST": true,
+      "sha256": "5b8b4c94cfcd358642af49c5e73580a8c5e7f5d93746d14bfb9b7705822d36df"
+    },
+    {
+      "lang": "de",
+      "kind": "short",
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "pass": true,
+      "images_preserved": 10,
+      "table_cells": 0,
+      "dialog_count": 0,
+      "runtime_strings_changed": [],
+      "same_nonstring_JS_AST": true,
+      "sha256": "942d9bef26887ef7d20069228d6437130bfc775545b761ea2854e2427e8725aa"
+    }
+  ]
+}

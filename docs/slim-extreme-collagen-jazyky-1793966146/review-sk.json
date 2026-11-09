@@ -1,0 +1,1926 @@
+{
+  "status": "internal_draft_not_for_publication",
+  "source_commit_supplied": "6e471030bd01d04aed7b5c251b07933b09fc9e6f",
+  "source_commit_locally_verified": false,
+  "language": "sk",
+  "product_id": "168",
+  "files": [
+    {
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-sk.html",
+      "source_sha256": "06143af146c3c24d08270ee6500cadf007537a3941bd616e427312d0778f1008",
+      "output_sha256": "f21f1d93a00dadd8b29938cbb3e800c4358fe63cd83251e33cb06a219c83643b",
+      "coverage": [
+        {
+          "kind": "attribute",
+          "attribute": "content",
+          "cs": "Slim Extreme Collagen je výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. Podpora hubnutí, redukce celulitidy, zpevnění pokožky a zdraví kloubů. Vyrobeno v ČR.",
+          "sk": "Slim Extreme Collagen je výnimočný spaľovač tukov s patentovanými kolagénmi Verisol® a Peptiplus®. Podpora chudnutia, redukcia celulitídy, spevnenie pokožky a zdravie kĺbov. Vyrobené v ČR."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "content",
+          "cs": "Slim Extreme Collagen | Spalovač Tuků s Kolageny",
+          "sk": "Slim Extreme Collagen | Spaľovač tukov s kolagénmi"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "content",
+          "cs": "Výjimečný spalovač tuků s 6000 mg kolagenních peptidů. Podpora hubnutí, zpevnění pokožky, redukce vrásek a celulitidy. Vyrobeno v ČR.",
+          "sk": "Výnimočný spaľovač tukov so 6000 mg kolagénových peptidov. Podpora chudnutia, spevnenie pokožky, redukcia vrások a celulitídy. Vyrobené v ČR."
+        },
+        {
+          "kind": "text",
+          "cs": "Slim Extreme Collagen",
+          "sk": "Slim Extreme Collagen"
+        },
+        {
+          "kind": "text",
+          "cs": "Slim Extreme Collagen je",
+          "sk": "Slim Extreme Collagen je"
+        },
+        {
+          "kind": "text",
+          "cs": "výjimečný spalovač tuků",
+          "sk": "výnimočný spaľovač tukov"
+        },
+        {
+          "kind": "text",
+          "cs": ", který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a",
+          "sk": ", ktorý spája inovatívnu silu kolagénových peptidov s cielenou podporou chudnutia a"
+        },
+        {
+          "kind": "text",
+          "cs": "zpevňování svalů",
+          "sk": "spevňovaním svalov"
+        },
+        {
+          "kind": "text",
+          "cs": ". Díky kombinaci",
+          "sk": ". Vďaka kombinácii"
+        },
+        {
+          "kind": "text",
+          "cs": "patentovaných kolagenů Verisol® a Peptiplus®",
+          "sk": "patentovaných kolagénov Verisol® a Peptiplus®"
+        },
+        {
+          "kind": "text",
+          "cs": "nabízí nejen pomoc při tvarování postavy, ale i",
+          "sk": "ponúka nielen pomoc pri tvarovaní postavy, ale aj"
+        },
+        {
+          "kind": "text",
+          "cs": "zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů",
+          "sk": "zlepšenie elasticity pokožky, kvality vlasov a zdravia kĺbov"
+        },
+        {
+          "kind": "text",
+          "cs": ". Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+          "sk": ". Je navrhnutý tak, aby pomohol na ceste k zdravšiemu telu a prinášal výsledky aj v dňoch bez fyzickej aktivity."
+        },
+        {
+          "kind": "text",
+          "cs": "Hlavní účinky Slim Extreme Collagen",
+          "sk": "Hlavné účinky Slim Extreme Collagen"
+        },
+        {
+          "kind": "text",
+          "cs": "Podpora hubnutí",
+          "sk": "Podpora chudnutia"
+        },
+        {
+          "kind": "text",
+          "cs": "Extrémní spalování tuků",
+          "sk": "Extrémne spaľovanie tukov"
+        },
+        {
+          "kind": "text",
+          "cs": "Redukce celulitidy",
+          "sk": "Redukcia celulitídy"
+        },
+        {
+          "kind": "text",
+          "cs": "Redukce vrásek",
+          "sk": "Redukcia vrások"
+        },
+        {
+          "kind": "text",
+          "cs": "Pevné nehty",
+          "sk": "Pevné nechty"
+        },
+        {
+          "kind": "text",
+          "cs": "Vyrobeno v ČR",
+          "sk": "Vyrobené v ČR"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Žena drží dózu Slim Extreme Collagen",
+          "sk": "Žena drží dózu Slim Extreme Collagen"
+        },
+        {
+          "kind": "text",
+          "cs": "Jak funguje Slim Extreme Collagen",
+          "sk": "Ako funguje Slim Extreme Collagen"
+        },
+        {
+          "kind": "text",
+          "cs": "Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+          "sk": "Slim Extreme Collagen spája kolagénové peptidy Verisol® a Peptiplus® a kyselinu hyalurónovú s komplexom garcínie, zeleného čaju, synefrínu a enzýmov. Je navrhnutý ako súčasť redukčného režimu a každodennej starostlivosti o krásu."
+        },
+        {
+          "kind": "text",
+          "cs": "Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+          "sk": "Zloženie dopĺňajú vitamíny a minerály. Vitamíny B2, B3 a B5 prispievajú k zníženiu únavy a vyčerpania."
+        },
+        {
+          "kind": "text",
+          "cs": "Co vám přinese",
+          "sk": "Čo vám prinesie"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Kontrola hmotnosti",
+          "sk": "Kontrola hmotnosti"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Novotvorba kolagenu a udržení normálního stavu pokožky, vlasů, nehtů a pojivových tkání",
+          "sk": "Novotvorba kolagénu a udržanie normálneho stavu pokožky, vlasov, nechtov a spojivových tkanív"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Regenerace organismu, zlepšení jeho funkcí",
+          "sk": "Regenerácia organizmu, zlepšenie jeho funkcií"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Podpora hubnutí i bez cvičení",
+          "sk": "Podpora chudnutia aj bez cvičenia"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Efektivní spalování tuků",
+          "sk": "Efektívne spaľovanie tukov"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Redukce celulitidy",
+          "sk": "Redukcia celulitídy"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Pevné nehty",
+          "sk": "Pevné nechty"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Snížení únavy",
+          "sk": "Zníženie únavy"
+        },
+        {
+          "kind": "text",
+          "cs": "✓",
+          "sk": "✓"
+        },
+        {
+          "kind": "text",
+          "cs": "Celková regenerace",
+          "sk": "Celková regenerácia"
+        },
+        {
+          "kind": "text",
+          "cs": "Aktivní látky",
+          "sk": "Aktívne látky"
+        },
+        {
+          "kind": "text",
+          "cs": "Garcinia cambogia",
+          "sk": "Garcinia cambogia"
+        },
+        {
+          "kind": "text",
+          "cs": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+          "sk": "Znižuje chuť do jedla a podporuje spaľovanie (HCA)."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Více o Garcinia cambogia",
+          "sk": "Viac o Garcinia cambogia"
+        },
+        {
+          "kind": "text",
+          "cs": "+",
+          "sk": "+"
+        },
+        {
+          "kind": "text",
+          "cs": "Kyselina hyaluronová",
+          "sk": "Kyselina hyalurónová"
+        },
+        {
+          "kind": "text",
+          "cs": "Hydratace, pružnost pleti a podpora kloubů.",
+          "sk": "Hydratácia, pružnosť pleti a podpora kĺbov."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Více o Kyselina hyaluronová",
+          "sk": "Viac o kyseline hyalurónovej"
+        },
+        {
+          "kind": "text",
+          "cs": "+",
+          "sk": "+"
+        },
+        {
+          "kind": "text",
+          "cs": "Minerály a enzymy",
+          "sk": "Minerály a enzýmy"
+        },
+        {
+          "kind": "text",
+          "cs": "Enzymy bromelain, papain a zinek pro trávení.",
+          "sk": "Enzýmy bromelaín, papaín a zinok na trávenie."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Více o Minerály a enzymy",
+          "sk": "Viac o mineráloch a enzýmoch"
+        },
+        {
+          "kind": "text",
+          "cs": "+",
+          "sk": "+"
+        },
+        {
+          "kind": "text",
+          "cs": "B komplex",
+          "sk": "B komplex"
+        },
+        {
+          "kind": "text",
+          "cs": "Energie a správný metabolismus.",
+          "sk": "Energia a správny metabolizmus."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Více o B komplex",
+          "sk": "Viac o B komplexe"
+        },
+        {
+          "kind": "text",
+          "cs": "+",
+          "sk": "+"
+        },
+        {
+          "kind": "text",
+          "cs": "Vitamín C a E",
+          "sk": "Vitamín C a E"
+        },
+        {
+          "kind": "text",
+          "cs": "Tvorba kolagenu a antioxidační ochrana.",
+          "sk": "Tvorba kolagénu a antioxidačná ochrana."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Více o Vitamín C a E",
+          "sk": "Viac o vitamíne C a E"
+        },
+        {
+          "kind": "text",
+          "cs": "+",
+          "sk": "+"
+        },
+        {
+          "kind": "text",
+          "cs": "Zelený čaj",
+          "sk": "Zelený čaj"
+        },
+        {
+          "kind": "text",
+          "cs": "Antioxidanty a podpora spalování.",
+          "sk": "Antioxidanty a podpora spaľovania."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Více o Zelený čaj",
+          "sk": "Viac o zelenom čaji"
+        },
+        {
+          "kind": "text",
+          "cs": "+",
+          "sk": "+"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "text",
+          "cs": "×",
+          "sk": "×"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Garcinia cambogia",
+          "sk": "Garcinia cambogia"
+        },
+        {
+          "kind": "text",
+          "cs": "Garcinia cambogia",
+          "sk": "Garcinia cambogia"
+        },
+        {
+          "kind": "text",
+          "cs": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti. Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+          "sk": "Je to tropická rastlina pochádzajúca z Ázie a po stáročia sa používa na navodenie pocitu sýtosti. Kľúčovou účinnou látkou v nej obsiahnutou je kyselina hydroxy-citrónová (HCA), ktorá zlepšuje trávenie, znižuje chuť do jedla a podporuje aj spaľovanie tukov."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "text",
+          "cs": "×",
+          "sk": "×"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Kyselina hyaluronová",
+          "sk": "Kyselina hyalurónová"
+        },
+        {
+          "kind": "text",
+          "cs": "Kyselina hyaluronová",
+          "sk": "Kyselina hyalurónová"
+        },
+        {
+          "kind": "text",
+          "cs": "Látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+          "sk": "Látka, ktorá sa prirodzene nachádza a vytvára v našom tele. Jej hlavnou funkciou je zadržiavať vodu, teda hydratovať tkanivá, a udržiavať v nich dostatočnú vlhkosť. Pomáha vyživovať pokožku, ktorá je potom zdravšia a pružnejšia. Obmedzuje tak tvorbu vrások a napomáha regenerácii a celkovému omladeniu pleti. Účinne pomáha pri hojení rán a bolesti kĺbov, zlepšuje ich pohyblivosť."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "text",
+          "cs": "×",
+          "sk": "×"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Minerály a enzymy",
+          "sk": "Minerály a enzýmy"
+        },
+        {
+          "kind": "text",
+          "cs": "Minerály a enzymy",
+          "sk": "Minerály a enzýmy"
+        },
+        {
+          "kind": "text",
+          "cs": "Bromelain s papainem je unikátní kombinací dvou enzymů, které se nachází v ananasu a papáje. Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci. Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+          "sk": "Bromelaín s papaínom je unikátnou kombináciou dvoch enzýmov, ktoré sa nachádzajú v ananáse a papáji. Oba pôsobia pozitívne na trávenie a ovplyvňujú rozklad bielkovín, čo ocenia najmä športovci. Obsiahnutý zinok sa podieľa na delení buniek, prispieva k normálnemu metabolizmu a chráni bunky pred voľnými radikálmi."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "text",
+          "cs": "×",
+          "sk": "×"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "B komplex",
+          "sk": "B komplex"
+        },
+        {
+          "kind": "text",
+          "cs": "B komplex",
+          "sk": "B komplex"
+        },
+        {
+          "kind": "text",
+          "cs": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému. Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+          "sk": "Vitamíny B sú nevyhnutné pre správne fungovanie metabolizmu a nervového systému. Zároveň umožňujú vstrebávanie látok a napomáhajú ich lepšiemu využitiu. Vitamíny B2, B3 a B5 prispievajú k zníženiu únavy a vyčerpania, vitamíny B2 a B3 udržiavajú normálny stav pokožky a slizníc."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "text",
+          "cs": "×",
+          "sk": "×"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Vitamín C a E",
+          "sk": "Vitamín C a E"
+        },
+        {
+          "kind": "text",
+          "cs": "Vitamín C a E",
+          "sk": "Vitamín C a E"
+        },
+        {
+          "kind": "text",
+          "cs": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy. Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+          "sk": "Vitamín C je dôležitý pre tvorbu nového kolagénu, má pozitívny vplyv na imunitný systém, prispieva k ochrane a tvorbe nových buniek, lepšej regenerácii a zníženiu únavy. Vitamín E je veľmi silný antioxidant, má význam pre rad oxidačno-redukčných pochodov a stabilizuje niektoré hormóny."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "cs": "Zavřít",
+          "sk": "Zavrieť"
+        },
+        {
+          "kind": "text",
+          "cs": "×",
+          "sk": "×"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Zelený čaj",
+          "sk": "Zelený čaj"
+        },
+        {
+          "kind": "text",
+          "cs": "Zelený čaj",
+          "sk": "Zelený čaj"
+        },
+        {
+          "kind": "text",
+          "cs": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům. Podporuje zdravý zrak a snižuje riziko srdečních onemocnění. Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+          "sk": "Obsahuje antioxidanty a pomáha bojovať proti voľným radikálom. Podporuje zdravý zrak a znižuje riziko srdcových ochorení. Účinky zeleného čaju umožňujú spaľovanie kalórií, podieľajú sa na tvorbe dopamínu a podporujú produktivitu."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Slim Extreme Collagen",
+          "sk": "Slim Extreme Collagen"
+        },
+        {
+          "kind": "text",
+          "cs": "Objednejte nyní",
+          "sk": "Objednajte si teraz"
+        },
+        {
+          "kind": "text",
+          "cs": "Balení:",
+          "sk": "Balenie:"
+        },
+        {
+          "kind": "text",
+          "cs": "240 g prášku  ·",
+          "sk": "240 g prášku  ·"
+        },
+        {
+          "kind": "text",
+          "cs": "Stačí na:",
+          "sk": "Vystačí na:"
+        },
+        {
+          "kind": "text",
+          "cs": "cca 30 dávek",
+          "sk": "cca 30 dávok"
+        },
+        {
+          "kind": "text",
+          "cs": "1 350 Kč",
+          "sk": "—"
+        },
+        {
+          "kind": "text",
+          "cs": "s DPH",
+          "sk": "s DPH"
+        },
+        {
+          "kind": "text",
+          "cs": "✓ Skladem – expedice do 24 hodin",
+          "sk": "Aktuálna dostupnosť je uvedená pri nákupnom tlačidle."
+        },
+        {
+          "kind": "text",
+          "cs": "Objednat nyní",
+          "sk": "Objednať teraz"
+        },
+        {
+          "kind": "text",
+          "cs": "Jak užívat",
+          "sk": "Ako užívať"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Bez lepku",
+          "sk": "Bez lepku"
+        },
+        {
+          "kind": "text",
+          "cs": "Bez lepku",
+          "sk": "Bez lepku"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Bez GMO",
+          "sk": "Bez GMO"
+        },
+        {
+          "kind": "text",
+          "cs": "Bez GMO",
+          "sk": "Bez GMO"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Bez přídatných látek",
+          "sk": "Bez prídavných látok"
+        },
+        {
+          "kind": "text",
+          "cs": "Bez přídatných látek",
+          "sk": "Bez prídavných látok"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Bez laktózy",
+          "sk": "Bez laktózy"
+        },
+        {
+          "kind": "text",
+          "cs": "Bez laktózy",
+          "sk": "Bez laktózy"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Bez cukru",
+          "sk": "Bez cukru"
+        },
+        {
+          "kind": "text",
+          "cs": "Bez cukru",
+          "sk": "Bez cukru"
+        },
+        {
+          "kind": "text",
+          "cs": "Návod k použití:",
+          "sk": "Návod na použitie:"
+        },
+        {
+          "kind": "text",
+          "cs": "1 odměrku (8 g) rozmíchejte v 200–300 ml vody. Užívejte 1× denně, nejlépe ráno nebo dopoledne. Doporučená denní dávka se nesmí překročit.",
+          "sk": "1 odmerku (8 g) rozmiešajte v 200–300 ml vody. Užívajte 1× denne, najlepšie ráno alebo dopoludnia. Odporúčaná denná dávka sa nesmie prekročiť."
+        },
+        {
+          "kind": "text",
+          "cs": "Skladování:",
+          "sk": "Skladovanie:"
+        },
+        {
+          "kind": "text",
+          "cs": "Skladujte na suchém a chladném místě, mimo dosah přímého slunečního záření, při teplotě do 25 °C. Uchovávejte mimo dosah dětí.",
+          "sk": "Skladujte na suchom a chladnom mieste, mimo dosahu priameho slnečného žiarenia, pri teplote do 25 °C. Uchovávajte mimo dosahu detí."
+        },
+        {
+          "kind": "text",
+          "cs": "Upozornění:",
+          "sk": "Upozornenie:"
+        },
+        {
+          "kind": "text",
+          "cs": "Nevhodné pro těhotné a kojící ženy a osoby s alergií na některou ze složek. Nenahrazuje pestrou a vyváženou stravu. Přípravek obsahuje kofein – nedoporučuje se užívat odpoledne a večer.",
+          "sk": "Nevhodné pre tehotné a dojčiace ženy a osoby s alergiou na niektorú zo zložiek. Nenahrádza pestrú a vyváženú stravu. Prípravok obsahuje kofeín – neodporúča sa užívať popoludní a večer."
+        },
+        {
+          "kind": "text",
+          "cs": "Složení",
+          "sk": "Zloženie"
+        },
+        {
+          "kind": "text",
+          "cs": "hovězí kolagenní peptidy (3500 daltonů), rybí kolagenní peptidy (2000 daltonů), aroma, regulátor kyselosti: kyselina citronová, garcinia cambogia extrakt (60% kyseliny hydroxycitronové), bromelain, ananasový prášek lyofilizovaný, mango extrakt (10:1), zelený čaj extrakt (50 % polyfenolů), kyselina askorbová, papain, pantothenát vápenatý, bisglycinát zinečnatý, sladidla: sukralóza, steviosid, dl-alfa-tokoferol-acetát, citrus aurantium extrakt (95% synefrinu), hyaluronát sodný, niacinamid, pyridoxin hydrochlorid, riboflavin, thiamin, kyselina listová, kyanokobalamin, biotin, chlorid chromitý.",
+          "sk": "hovädzie kolagénové peptidy (3500 daltonov), rybie kolagénové peptidy (2000 daltonov), aróma, regulátor kyslosti: kyselina citrónová, garcinia cambogia extrakt (60% kyseliny hydroxycitrónovej), bromelaín, ananásový prášok lyofilizovaný, mango extrakt (10:1), zelený čaj extrakt (50 % polyfenolov), kyselina askorbová, papaín, pantotenát vápenatý, bisglycinát zinočnatý, sladidlá: sukralóza, steviozid, dl-alfa-tokoferol-acetát, citrus aurantium extrakt (95% synefrínu), hyaluronát sodný, niacínamid, pyridoxín hydrochlorid, riboflavín, tiamín, kyselina listová, kyanokobalamín, biotín, chlorid chromitý."
+        },
+        {
+          "kind": "text",
+          "cs": "Souhrnný obsah",
+          "sk": "Súhrnný obsah"
+        },
+        {
+          "kind": "text",
+          "cs": "Beauty komplex",
+          "sk": "Beauty komplex"
+        },
+        {
+          "kind": "text",
+          "cs": "100 g",
+          "sk": "100 g"
+        },
+        {
+          "kind": "text",
+          "cs": "8 g (denní dávka)",
+          "sk": "8 g (denná dávka)"
+        },
+        {
+          "kind": "text",
+          "cs": "Rybí kolagenní peptidy",
+          "sk": "Rybie kolagénové peptidy"
+        },
+        {
+          "kind": "text",
+          "cs": "60,3 g",
+          "sk": "60,3 g"
+        },
+        {
+          "kind": "text",
+          "cs": "5,13 g",
+          "sk": "5,13 g"
+        },
+        {
+          "kind": "text",
+          "cs": "Hovězí kolagenní peptidy",
+          "sk": "Hovädzie kolagénové peptidy"
+        },
+        {
+          "kind": "text",
+          "cs": "10,6 g",
+          "sk": "10,6 g"
+        },
+        {
+          "kind": "text",
+          "cs": "0,89 g",
+          "sk": "0,89 g"
+        },
+        {
+          "kind": "text",
+          "cs": "Vitamín C",
+          "sk": "Vitamín C"
+        },
+        {
+          "kind": "text",
+          "cs": "1176 mg",
+          "sk": "1176 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "100 mg",
+          "sk": "100 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Vitamín E",
+          "sk": "Vitamín E"
+        },
+        {
+          "kind": "text",
+          "cs": "141,2 mg",
+          "sk": "141,2 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "12 mg",
+          "sk": "12 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Zinek",
+          "sk": "Zinok"
+        },
+        {
+          "kind": "text",
+          "cs": "117 mg",
+          "sk": "117 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "10 mg",
+          "sk": "10 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Kyselina hyaluronová",
+          "sk": "Kyselina hyalurónová"
+        },
+        {
+          "kind": "text",
+          "cs": "117 mg",
+          "sk": "117 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "10 mg",
+          "sk": "10 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Slimming komplex",
+          "sk": "Slimming komplex"
+        },
+        {
+          "kind": "text",
+          "cs": "100 g",
+          "sk": "100 g"
+        },
+        {
+          "kind": "text",
+          "cs": "8 g (denní dávka)",
+          "sk": "8 g (denná dávka)"
+        },
+        {
+          "kind": "text",
+          "cs": "Garcinia cambogia",
+          "sk": "Garcinia cambogia"
+        },
+        {
+          "kind": "text",
+          "cs": "8400 mg",
+          "sk": "8400 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "715 mg",
+          "sk": "715 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Z toho HCA",
+          "sk": "Z toho HCA"
+        },
+        {
+          "kind": "text",
+          "cs": "5882 mg",
+          "sk": "5882 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "500 mg",
+          "sk": "500 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Zelený čaj",
+          "sk": "Zelený čaj"
+        },
+        {
+          "kind": "text",
+          "cs": "2338 mg",
+          "sk": "2338 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "200 mg",
+          "sk": "200 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Bromelain",
+          "sk": "Bromelaín"
+        },
+        {
+          "kind": "text",
+          "cs": "2338 mg",
+          "sk": "2338 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "200 mg",
+          "sk": "200 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Mango",
+          "sk": "Mango"
+        },
+        {
+          "kind": "text",
+          "cs": "1870 mg",
+          "sk": "1870 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "160 mg",
+          "sk": "160 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Papain",
+          "sk": "Papaín"
+        },
+        {
+          "kind": "text",
+          "cs": "1117 mg",
+          "sk": "1117 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "100 mg",
+          "sk": "100 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Synefrin",
+          "sk": "Synefrín"
+        },
+        {
+          "kind": "text",
+          "cs": "117 mg",
+          "sk": "117 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "10 mg",
+          "sk": "10 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Chróm",
+          "sk": "Chróm"
+        },
+        {
+          "kind": "text",
+          "cs": "235 mcg",
+          "sk": "235 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "20 mcg",
+          "sk": "20 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "Vitamíny řady B",
+          "sk": "Vitamíny skupiny B"
+        },
+        {
+          "kind": "text",
+          "cs": "100 g",
+          "sk": "100 g"
+        },
+        {
+          "kind": "text",
+          "cs": "8 g (denní dávka)",
+          "sk": "8 g (denná dávka)"
+        },
+        {
+          "kind": "text",
+          "cs": "B5",
+          "sk": "B5"
+        },
+        {
+          "kind": "text",
+          "cs": "388,2 mg",
+          "sk": "388,2 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "33 mg",
+          "sk": "33 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "B3",
+          "sk": "B3"
+        },
+        {
+          "kind": "text",
+          "cs": "94,1 mg",
+          "sk": "94,1 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "8 mg",
+          "sk": "8 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "B2",
+          "sk": "B2"
+        },
+        {
+          "kind": "text",
+          "cs": "6,47 mg",
+          "sk": "6,47 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "0,55 mg",
+          "sk": "0,55 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "B6",
+          "sk": "B6"
+        },
+        {
+          "kind": "text",
+          "cs": "823,5 mg",
+          "sk": "823,5 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "0,7 mg",
+          "sk": "0,7 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "B1",
+          "sk": "B1"
+        },
+        {
+          "kind": "text",
+          "cs": "6,47 mg",
+          "sk": "6,47 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "0,55 mg",
+          "sk": "0,55 mg"
+        },
+        {
+          "kind": "text",
+          "cs": "Kyselina listová",
+          "sk": "Kyselina listová"
+        },
+        {
+          "kind": "text",
+          "cs": "1176,5 mcg",
+          "sk": "1176,5 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "100 mcg",
+          "sk": "100 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "Biotin",
+          "sk": "Biotín"
+        },
+        {
+          "kind": "text",
+          "cs": "294 mcg",
+          "sk": "294 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "25 mcg",
+          "sk": "25 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "B12",
+          "sk": "B12"
+        },
+        {
+          "kind": "text",
+          "cs": "14,7 mcg",
+          "sk": "14,7 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "1,25 mcg",
+          "sk": "1,25 mcg"
+        },
+        {
+          "kind": "text",
+          "cs": "*Referenční hodnota příjmu není stanovena. Slazeno sukralózou (nízkokalorické sladidlo).",
+          "sk": "*Referenčná výživová hodnota nie je stanovená. Sladené sukralózou (nízkokalorické sladidlo)."
+        },
+        {
+          "kind": "text",
+          "cs": "Nutriční hodnoty na 100 g/8 g (denní dávka)",
+          "sk": "Nutričné hodnoty na 100 g/8 g (denná dávka)"
+        },
+        {
+          "kind": "text",
+          "cs": "Energetická hodnota",
+          "sk": "Energetická hodnota"
+        },
+        {
+          "kind": "text",
+          "cs": "1284 kj (306kcal)",
+          "sk": "1284 kj (306kcal)"
+        },
+        {
+          "kind": "text",
+          "cs": "103 kj (25kcal)",
+          "sk": "103 kj (25kcal)"
+        },
+        {
+          "kind": "text",
+          "cs": "Bílkoviny",
+          "sk": "Bielkoviny"
+        },
+        {
+          "kind": "text",
+          "cs": "67 g",
+          "sk": "67 g"
+        },
+        {
+          "kind": "text",
+          "cs": "5,4 g",
+          "sk": "5,4 g"
+        },
+        {
+          "kind": "text",
+          "cs": "Sacharidy",
+          "sk": "Sacharidy"
+        },
+        {
+          "kind": "text",
+          "cs": "5,3 g",
+          "sk": "5,3 g"
+        },
+        {
+          "kind": "text",
+          "cs": "0,42 g",
+          "sk": "0,42 g"
+        },
+        {
+          "kind": "text",
+          "cs": "Z toho cukry",
+          "sk": "Z toho cukry"
+        },
+        {
+          "kind": "text",
+          "cs": "2,9 g",
+          "sk": "2,9 g"
+        },
+        {
+          "kind": "text",
+          "cs": "0,23 g",
+          "sk": "0,23 g"
+        },
+        {
+          "kind": "text",
+          "cs": "Tuky",
+          "sk": "Tuky"
+        },
+        {
+          "kind": "text",
+          "cs": "0 g",
+          "sk": "0 g"
+        },
+        {
+          "kind": "text",
+          "cs": "0 g",
+          "sk": "0 g"
+        },
+        {
+          "kind": "text",
+          "cs": "Z toho nasycené mastné kyseliny",
+          "sk": "Z toho nasýtené mastné kyseliny"
+        },
+        {
+          "kind": "text",
+          "cs": "0 g",
+          "sk": "0 g"
+        },
+        {
+          "kind": "text",
+          "cs": "0 g",
+          "sk": "0 g"
+        },
+        {
+          "kind": "text",
+          "cs": "Organické kyseliny",
+          "sk": "Organické kyseliny"
+        },
+        {
+          "kind": "text",
+          "cs": "4,2 g",
+          "sk": "4,2 g"
+        },
+        {
+          "kind": "text",
+          "cs": "0,33 g",
+          "sk": "0,33 g"
+        },
+        {
+          "kind": "text",
+          "cs": "U šarže L245382, EXP/LOT: 072028, je doporučená denní dávka 8 g (jedna odměrka).",
+          "sk": "Pri šarži L245382, EXP/LOT: 072028, je odporúčaná denná dávka 8 g (jedna odmerka)."
+        }
+      ],
+      "edits": 108
+    },
+    {
+      "source": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-sk.html",
+      "source_sha256": "452a8d54882fe2ea62fbd3ee4b6258cc23dd15fa3b3e75b4d7ef51a3c9f4cb81",
+      "output_sha256": "33b5890cab712f7d3b05f43b7691f1d0db1aaadf9a823788a72ccda1829eefc9",
+      "coverage": [
+        {
+          "kind": "text",
+          "cs": "Slim Extreme Collagen je silný a účinný spalovač tuků",
+          "sk": "Slim Extreme Collagen je silný a účinný spaľovač tukov"
+        },
+        {
+          "kind": "text",
+          "cs": "v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo. Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem. Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+          "sk": "v podobe osviežujúceho nápoja na chudnutie, ktorý zároveň využíva pozitívne účinky prvotriednych kolagénových peptidov na vaše telo. Vyvinutý pre každého, kto hľadá podporu na ceste za zdravším telom. Objavte kombináciu špičkových, patentovaných kolagénových peptidov Verisol® a Peptiplus®, ktoré spolu so silou ananásu na chudnutie, prírodných enzýmov a ďalších unikátnych zložiek podporujú rýchle a efektívne spaľovanie tukov."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Podpora hubnutí",
+          "sk": "Podpora chudnutia"
+        },
+        {
+          "kind": "text",
+          "cs": "Podpora hubnutí",
+          "sk": "Podpora chudnutia"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Spalování tuků",
+          "sk": "Spaľovanie tukov"
+        },
+        {
+          "kind": "text",
+          "cs": "Spalování tuků",
+          "sk": "Spaľovanie tukov"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Redukce celulitidy",
+          "sk": "Redukcia celulitídy"
+        },
+        {
+          "kind": "text",
+          "cs": "Redukce celulitidy",
+          "sk": "Redukcia celulitídy"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Redukce vrásek",
+          "sk": "Redukcia vrások"
+        },
+        {
+          "kind": "text",
+          "cs": "Redukce vrásek",
+          "sk": "Redukcia vrások"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Vyrobeno v ČR",
+          "sk": "Vyrobené v ČR"
+        },
+        {
+          "kind": "text",
+          "cs": "Vyrobeno v ČR",
+          "sk": "Vyrobené v ČR"
+        },
+        {
+          "kind": "text",
+          "cs": "Slim Extreme Collagen",
+          "sk": "Slim Extreme Collagen"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "hmotnost",
+          "sk": "hmotnosť"
+        },
+        {
+          "kind": "text",
+          "cs": "240 g",
+          "sk": "240 g"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "dávkování",
+          "sk": "dávkovanie"
+        },
+        {
+          "kind": "text",
+          "cs": "8 g/2 odměrky rozmíchat do 300–400 ml vody, nebo do 1 l podle chuti",
+          "sk": "8 g/2 odmerky rozmiešať v 300–400 ml vody alebo v 1 l podľa chuti"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "čas",
+          "sk": "čas"
+        },
+        {
+          "kind": "text",
+          "cs": "jedno balení vydrží 30 dní",
+          "sk": "jedno balenie vydrží 30 dní"
+        },
+        {
+          "kind": "text",
+          "cs": "Pozor!",
+          "sk": "Pozor!"
+        },
+        {
+          "kind": "text",
+          "cs": "Produkt",
+          "sk": "Produkt"
+        },
+        {
+          "kind": "text",
+          "cs": "Slim Extreme Collagen v dóze",
+          "sk": "Slim Extreme Collagen v dóze"
+        },
+        {
+          "kind": "text",
+          "cs": "je nyní v prodeji i s větší odměrkou. Prosíme, řiďte se následujícími pokyny:",
+          "sk": "je teraz v predaji aj s väčšou odmerkou. Prosíme, riaďte sa nasledujúcimi pokynmi:"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Malá odměrka",
+          "sk": "Malá odmerka"
+        },
+        {
+          "kind": "text",
+          "cs": "Malá odměrka",
+          "sk": "Malá odmerka"
+        },
+        {
+          "kind": "text",
+          "cs": "Standardní balení: doporučená denní dávka je",
+          "sk": "Štandardné balenie: odporúčaná denná dávka je"
+        },
+        {
+          "kind": "text",
+          "cs": "2 odměrky (8 g)",
+          "sk": "2 odmerky (8 g)"
+        },
+        {
+          "kind": "text",
+          "cs": ".",
+          "sk": "."
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "cs": "Velká odměrka",
+          "sk": "Veľká odmerka"
+        },
+        {
+          "kind": "text",
+          "cs": "Velká odměrka",
+          "sk": "Veľká odmerka"
+        },
+        {
+          "kind": "text",
+          "cs": "U",
+          "sk": "Pri"
+        },
+        {
+          "kind": "text",
+          "cs": "šarže L245382, EXP/LOT: 072028",
+          "sk": "šarži L245382, EXP/LOT: 072028"
+        },
+        {
+          "kind": "text",
+          "cs": "(větší odměrka) je doporučená denní dávka",
+          "sk": "(väčšia odmerka) je odporúčaná denná dávka"
+        },
+        {
+          "kind": "text",
+          "cs": "8 g (1 odměrka)",
+          "sk": "8 g (1 odmerka)"
+        },
+        {
+          "kind": "text",
+          "cs": ".",
+          "sk": "."
+        }
+      ],
+      "edits": 28
+    }
+  ],
+  "claims": [
+    {
+      "surface": "JSON-LD.description",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. 6000 mg kolagenních peptidů pro podporu hubnutí, zpevnění pokožky, redukci vrásek a celulitidy.",
+      "sk": "Výnimočný spaľovač tukov s patentovanými kolagénmi Verisol® a Peptiplus®. 6000 mg kolagénových peptidov na podporu chudnutia, spevnenie pokožky, redukciu vrások a celulitídy.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "metadata",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Slim Extreme Collagen je výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®.",
+      "sk": "Slim Extreme Collagen je výnimočný spaľovač tukov s patentovanými kolagénmi Verisol® a Peptiplus®.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "metadata",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Podpora hubnutí, redukce celulitidy, zpevnění pokožky a zdraví kloubů.",
+      "sk": "Podpora chudnutia, redukcia celulitídy, spevnenie pokožky a zdravie kĺbov.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "metadata",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Slim Extreme Collagen | Spalovač Tuků s Kolageny",
+      "sk": "Slim Extreme Collagen | Spaľovač tukov s kolagénmi",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "metadata",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Výjimečný spalovač tuků s 6000 mg kolagenních peptidů.",
+      "sk": "Výnimočný spaľovač tukov so 6000 mg kolagénových peptidov.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "metadata",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Podpora hubnutí, zpevnění pokožky, redukce vrásek a celulitidy.",
+      "sk": "Podpora chudnutia, spevnenie pokožky, redukcia vrások a celulitídy.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Slim Extreme Collagen je výjimečný spalovač tuků, který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a zpevňování svalů.",
+      "sk": "Slim Extreme Collagen je výnimočný spaľovač tukov, ktorý spája inovatívnu silu kolagénových peptidov s cielenou podporou chudnutia a spevňovaním svalov.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Díky kombinaci patentovaných kolagenů Verisol® a Peptiplus® nabízí nejen pomoc při tvarování postavy, ale i zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů.",
+      "sk": "Vďaka kombinácii patentovaných kolagénov Verisol® a Peptiplus® ponúka nielen pomoc pri tvarovaní postavy, ale aj zlepšenie elasticity pokožky, kvality vlasov a zdravia kĺbov.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+      "sk": "Je navrhnutý tak, aby pomohol na ceste k zdravšiemu telu a prinášal výsledky aj v dňoch bez fyzickej aktivity.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "short_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Podpora hubnutí",
+      "sk": "Podpora chudnutia",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Extrémní spalování tuků",
+      "sk": "Extrémne spaľovanie tukov",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "short_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Redukce celulitidy",
+      "sk": "Redukcia celulitídy",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "short_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Redukce vrásek",
+      "sk": "Redukcia vrások",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Pevné nehty",
+      "sk": "Pevné nechty",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+      "sk": "Je navrhnutý ako súčasť redukčného režimu a každodennej starostlivosti o krásu.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+      "sk": "Vitamíny B2, B3 a B5 prispievajú k zníženiu únavy a vyčerpania.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Kontrola hmotnosti",
+      "sk": "✓Kontrola hmotnosti",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Novotvorba kolagenu a udržení normálního stavu pokožky, vlasů, nehtů a pojivových tkání",
+      "sk": "✓Novotvorba kolagénu a udržanie normálneho stavu pokožky, vlasov, nechtov a spojivových tkanív",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Regenerace organismu, zlepšení jeho funkcí",
+      "sk": "✓Regenerácia organizmu, zlepšenie jeho funkcií",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Podpora hubnutí i bez cvičení",
+      "sk": "✓Podpora chudnutia aj bez cvičenia",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Efektivní spalování tuků",
+      "sk": "✓Efektívne spaľovanie tukov",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Redukce celulitidy",
+      "sk": "✓Redukcia celulitídy",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Pevné nehty",
+      "sk": "✓Pevné nechty",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Snížení únavy",
+      "sk": "✓Zníženie únavy",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "✓Celková regenerace",
+      "sk": "✓Celková regenerácia",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+      "sk": "Znižuje chuť do jedla a podporuje spaľovanie (HCA).",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Hydratace, pružnost pleti a podpora kloubů.",
+      "sk": "Hydratácia, pružnosť pleti a podpora kĺbov.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Enzymy bromelain, papain a zinek pro trávení.",
+      "sk": "Enzýmy bromelaín, papaín a zinok na trávenie.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Energie a správný metabolismus.",
+      "sk": "Energia a správny metabolizmus.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Tvorba kolagenu a antioxidační ochrana.",
+      "sk": "Tvorba kolagénu a antioxidačná ochrana.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Antioxidanty a podpora spalování.",
+      "sk": "Antioxidanty a podpora spaľovania.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti.",
+      "sk": "Je to tropická rastlina pochádzajúca z Ázie a po stáročia sa používa na navodenie pocitu sýtosti.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+      "sk": "Kľúčovou účinnou látkou v nej obsiahnutou je kyselina hydroxy-citrónová (HCA), ktorá zlepšuje trávenie, znižuje chuť do jedla a podporuje aj spaľovanie tukov.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost.",
+      "sk": "Jej hlavnou funkciou je zadržiavať vodu, teda hydratovať tkanivá, a udržiavať v nich dostatočnú vlhkosť.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Pomáhá vyživovat pokožku, která je poté zdravější a pružnější.",
+      "sk": "Pomáha vyživovať pokožku, ktorá je potom zdravšia a pružnejšia.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti.",
+      "sk": "Obmedzuje tak tvorbu vrások a napomáha regenerácii a celkovému omladeniu pleti.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+      "sk": "Účinne pomáha pri hojení rán a bolesti kĺbov, zlepšuje ich pohyblivosť.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci.",
+      "sk": "Oba pôsobia pozitívne na trávenie a ovplyvňujú rozklad bielkovín, čo ocenia najmä športovci.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+      "sk": "Obsiahnutý zinok sa podieľa na delení buniek, prispieva k normálnemu metabolizmu a chráni bunky pred voľnými radikálmi.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému.",
+      "sk": "Vitamíny B sú nevyhnutné pre správne fungovanie metabolizmu a nervového systému.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití.",
+      "sk": "Zároveň umožňujú vstrebávanie látok a napomáhajú ich lepšiemu využitiu.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+      "sk": "Vitamíny B2, B3 a B5 prispievajú k zníženiu únavy a vyčerpania, vitamíny B2 a B3 udržiavajú normálny stav pokožky a slizníc.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy.",
+      "sk": "Vitamín C je dôležitý pre tvorbu nového kolagénu, má pozitívny vplyv na imunitný systém, prispieva k ochrane a tvorbe nových buniek, lepšej regenerácii a zníženiu únavy.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+      "sk": "Vitamín E je veľmi silný antioxidant, má význam pre rad oxidačno-redukčných pochodov a stabilizuje niektoré hormóny.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům.",
+      "sk": "Obsahuje antioxidanty a pomáha bojovať proti voľným radikálom.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Podporuje zdravý zrak a snižuje riziko srdečních onemocnění.",
+      "sk": "Podporuje zdravý zrak a znižuje riziko srdcových ochorení.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "cs": "Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+      "sk": "Účinky zeleného čaju umožňujú spaľovanie kalórií, podieľajú sa na tvorbe dopamínu a podporujú produktivitu.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "cs": "Slim Extreme Collagen je silný a účinný spalovač tuků v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo.",
+      "sk": "Slim Extreme Collagen je silný a účinný spaľovač tukov v podobe osviežujúceho nápoja na chudnutie, ktorý zároveň využíva pozitívne účinky prvotriednych kolagénových peptidov na vaše telo.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "cs": "Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem.",
+      "sk": "Vyvinutý pre každého, kto hľadá podporu na ceste za zdravším telom.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "paragraph_or_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "cs": "Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+      "sk": "Objavte kombináciu špičkových, patentovaných kolagénových peptidov Verisol® a Peptiplus®, ktoré spolu so silou ananásu na chudnutie, prírodných enzýmov a ďalších unikátnych zložiek podporujú rýchle a efektívne spaľovanie tukov.",
+      "needs_claim_review": true
+    },
+    {
+      "surface": "short_benefit",
+      "source": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "cs": "Spalování tuků",
+      "sk": "Spaľovanie tukov",
+      "needs_claim_review": true
+    }
+  ],
+  "claim_policy": "Věrný překlad zděděných tvrzení pouze pro interní pracovní verzi. needs_claim_review=true není schválení ani právní ověření. Rizika zahrnují zejména hubnutí/spalování tuků i bez cvičení, hojení ran, bolest kloubů, snižování rizika srdečních onemocnění, hormony a další obecná účinková tvrzení. Žádné tvrzení nebylo tiše nahrazeno dávkováním.",
+  "recorded_product_source_alternative": {
+    "source": "/root/workspace/brand/product/extreme-slim-collagen/info.md",
+    "source_line": 15,
+    "cs": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+    "sk": "Vitamíny B2, B3 a B5 prispievajú k zníženiu únavy a vyčerpania.",
+    "status": "skutečně zaznamenané znění v produktovém souboru, nikoli nezávislé právní ověření všech tvrzení",
+    "needs_claim_review": true
+  },
+  "explicit_exceptions": [
+    {
+      "target": "JSON-LD.offers",
+      "before": {
+        "price": "1350",
+        "priceCurrency": "CZK",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.golden-life.cz/extreme-slim-collagen/"
+      },
+      "after": "removed",
+      "reason": "Neověřený český obchodní snapshot; žádná náhradní cena/měna/dostupnost."
+    },
+    {
+      "target": "JSON-LD.aggregateRating",
+      "before": {
+        "ratingValue": "4.9",
+        "reviewCount": "127"
+      },
+      "after": "removed",
+      "reason": "Neověřené staré hodnocení; žádné vymyšlené recenze."
+    },
+    {
+      "target": ".cta-price-value",
+      "before": "1 350 Kč",
+      "after": "—",
+      "reason": "Výslovně autorizované odstranění neověřeného fallbacku; původní synchronizační JS je beze změny."
+    },
+    {
+      "target": ".cta-availability",
+      "before": "✓ Skladem – expedice do 24 hodin",
+      "after": "Aktuálna dostupnosť je uvedená pri nákupnom tlačidle.",
+      "reason": "Neutrální odkaz na skutečný nákupní blok místo neověřeného skladového/expedičního slibu."
+    }
+  ],
+  "runtime_text_translations": [
+    {
+      "cs": "Zobrazit více",
+      "sk": "Zobraziť viac"
+    },
+    {
+      "cs": "Zobrazit méně",
+      "sk": "Zobraziť menej"
+    },
+    {
+      "cs": "Zobrazit více: Slim Extreme Collagen",
+      "sk": "Zobraziť viac: Slim Extreme Collagen"
+    },
+    {
+      "cs": "Zobrazit méně: ",
+      "sk": "Zobraziť menej: "
+    },
+    {
+      "cs": "Zobrazit více: ",
+      "sk": "Zobraziť viac: "
+    }
+  ],
+  "verification": {
+    "totals": {
+      "js_syntax_checks": 5,
+      "covered_text_nodes": 224,
+      "covered_attributes": 44,
+      "table_cells": 96,
+      "ingredient_dialogs": 6
+    },
+    "files": [
+      {
+        "output": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-sk.html",
+        "html_structure_and_technical_attributes": "passed",
+        "source_unchanged_sha256": "passed",
+        "css_exact": "passed",
+        "assets_and_internal_fragment_urls_exact": "passed",
+        "numeric_text_and_table_cell_values": "passed_except_two_authorized_commercial_fallbacks",
+        "all_paragraphs_and_dialogs_retained": "passed",
+        "jsonld": "parsed_and_valid",
+        "script_checks": [
+          {
+            "index": 1,
+            "id": null,
+            "syntax": "passed",
+            "logic_unchanged_except_exact_ui_literals": true
+          },
+          {
+            "index": 2,
+            "id": null,
+            "syntax": "passed",
+            "logic_unchanged_except_exact_ui_literals": true
+          },
+          {
+            "index": 3,
+            "id": "gl-slim168-mobile",
+            "syntax": "passed",
+            "logic_unchanged_except_exact_ui_literals": true
+          },
+          {
+            "index": 4,
+            "id": "gl-slim168-dialog-a11y",
+            "syntax": "passed",
+            "logic_unchanged_except_exact_ui_literals": true
+          }
+        ],
+        "faq_count": 0
+      },
+      {
+        "output": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-sk.html",
+        "html_structure_and_technical_attributes": "passed",
+        "source_unchanged_sha256": "passed",
+        "css_exact": "passed",
+        "assets_and_internal_fragment_urls_exact": "passed",
+        "numeric_text_and_table_cell_values": "passed_except_two_authorized_commercial_fallbacks",
+        "all_paragraphs_and_dialogs_retained": "passed",
+        "jsonld": "absent_in_source",
+        "script_checks": [
+          {
+            "index": 0,
+            "id": null,
+            "syntax": "passed",
+            "logic_unchanged_except_exact_ui_literals": true
+          }
+        ],
+        "faq_count": 0
+      }
+    ],
+    "source_files_modified": false,
+    "network_used": false,
+    "published": false,
+    "runtime_visual_tests": "not_run_here_parent_continues",
+    "source_commit_note": "Dodané HTML jsou místní exporty bez .git; commit převzat z autorizovaného zadání, samostatně nezávisle neověřen. SHA-256 obou skutečně přeložených souborů je zaznamenán."
+  },
+  "open_issues": [
+    "Zděděná účinková tvrzení vyžadují samostatnou kontrolu; není povolena publikace.",
+    "České dlouhé a krátké dávkování se liší: dlouhý návod uvádí 1 odměrku/8 g a 200–300 ml, krátký uvádí 2 malé odměrky/8 g a 300–400 ml nebo 1 l a má poznámku k větší odměrce šarže L245382. Čísla ani význam nebyly sjednoceny.",
+    "Podezřelé původní tabulkové hodnoty/jednotky (např. B6 823,5 mg proti 0,7 mg) zůstaly doslova beze změny.",
+    "Tyto přesné zdroje neobsahují FAQ; žádné FAQ nebylo vytvořeno ani vypuštěno.",
+    "Vizuální a prohlížečové runtime testy provádí následně rodičovský agent."
+  ],
+  "claim_text_whitespace": "Čtenářské texty jsou pro přehled normalizovány na běžné mezery; úplné znění včetně HTML formátování zůstává v dodaných HTML.",
+  "jsonld_localized_fields": {
+    "description": {
+      "cs": "Výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. 6000 mg kolagenních peptidů pro podporu hubnutí, zpevnění pokožky, redukci vrásek a celulitidy.",
+      "sk": "Výnimočný spaľovač tukov s patentovanými kolagénmi Verisol® a Peptiplus®. 6000 mg kolagénových peptidov na podporu chudnutia, spevnenie pokožky, redukciu vrások a celulitídy."
+    },
+    "category": {
+      "cs": "Doplňky stravy",
+      "sk": "Výživové doplnky"
+    },
+    "url": "https://www.golden-life.cz/sk/extreme-slim-collagen/"
+  }
+}

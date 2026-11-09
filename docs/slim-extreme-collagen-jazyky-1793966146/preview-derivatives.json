@@ -1,0 +1,245 @@
+{
+  "scope": "Preview-only uncropped downsizing/WebP conversion with EXIF display orientation normalized; production HTML asset URLs unchanged.",
+  "assets": [
+    {
+      "source_URL": "/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+      "source_SHA256": "73eda25495f64f9b420e18f40dfe820e4413bb81ad79341ae0f3ee37007bccc8",
+      "preview_SHA256": "05497e37373dd5573959b44fd2d4c9ce540337fc4bcd1bf1b45b4ed1e2cb5c7f",
+      "original_dimensions": [
+        155,
+        155
+      ],
+      "preview_dimensions": [
+        155,
+        155
+      ],
+      "uncropped": true,
+      "bytes_before": 3176,
+      "bytes_after": 3074
+    },
+    {
+      "source_URL": "/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+      "source_SHA256": "dd629ecd6b8e33ea6ecc7ae3efce9e366ef0f42a8bbaac02928bc16838a549be",
+      "preview_SHA256": "458a74065a7d079058f14e3527adb265b9d5db3942619a20000f24233e66ee3d",
+      "original_dimensions": [
+        143,
+        143
+      ],
+      "preview_dimensions": [
+        143,
+        143
+      ],
+      "uncropped": true,
+      "bytes_before": 3578,
+      "bytes_after": 3526
+    },
+    {
+      "source_URL": "/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+      "source_SHA256": "d4084bf1487c428d6f29868022de2f8a7b9167621fced5f9123d4dd6b474ad56",
+      "preview_SHA256": "2e724913c8f5380795646da7b076c3aef58704aeda5792e77690714aaa49c7f1",
+      "original_dimensions": [
+        142,
+        142
+      ],
+      "preview_dimensions": [
+        142,
+        142
+      ],
+      "uncropped": true,
+      "bytes_before": 3098,
+      "bytes_after": 3076
+    },
+    {
+      "source_URL": "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+      "source_SHA256": "72f15f59ea0cfe1831891d1b69a4dbf3d724556a4abb32c81846fcf234666ef5",
+      "preview_SHA256": "6a5a675d977ed744dbdd9e6f7f750b18963428f7c4c56d5b5bd75f87aa0d1d3b",
+      "original_dimensions": [
+        140,
+        140
+      ],
+      "preview_dimensions": [
+        140,
+        140
+      ],
+      "uncropped": true,
+      "bytes_before": 2990,
+      "bytes_after": 2600
+    },
+    {
+      "source_URL": "/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png",
+      "source_SHA256": "deb15fe37f4014553b57befb21682a791986a0660eee72ff4d85fb5b3c5cc639",
+      "preview_SHA256": "a0cc189ceefe3bcde79ea99b4044b002fed625811adaee3c9a51620f3c640112",
+      "original_dimensions": [
+        155,
+        154
+      ],
+      "preview_dimensions": [
+        155,
+        154
+      ],
+      "uncropped": true,
+      "bytes_before": 1290,
+      "bytes_after": 912
+    },
+    {
+      "source_URL": "/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png",
+      "source_SHA256": "e212265f7f9ac00e725e668cb79115509a742a9e1b23e846b7f85a14662a029f",
+      "preview_SHA256": "b144985ceb88f5032556161acc966165bb3882b0e51417cbe752f9da59fdf338",
+      "original_dimensions": [
+        155,
+        154
+      ],
+      "preview_dimensions": [
+        155,
+        154
+      ],
+      "uncropped": true,
+      "bytes_before": 1192,
+      "bytes_after": 858
+    },
+    {
+      "source_URL": "/user/documents/upload/mockup/Slim extreme Collagen.png",
+      "source_SHA256": "1d66e33eaab65fcc2c7220f73ae19dabd6614fb6338ec787d83760a3219f0f19",
+      "preview_SHA256": "7643aeb30b6424d2422cad4fa61c60cf0f9ee16798d4af8991a8cacc9363e1e3",
+      "original_dimensions": [
+        1858,
+        1480
+      ],
+      "preview_dimensions": [
+        1200,
+        956
+      ],
+      "uncropped": true,
+      "bytes_before": 1605481,
+      "bytes_after": 93692
+    },
+    {
+      "source_URL": "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+      "source_SHA256": "be3659539cc6a16e4da0b75b0d67f9a8dd414663f2115cd0bf5b8667ab713457",
+      "preview_SHA256": "8197f7bfa8c7c024f1f3b77c350d63847a724be00df2b42b3deb89fa7d0d4efc",
+      "original_dimensions": [
+        2000,
+        2000
+      ],
+      "preview_dimensions": [
+        1200,
+        1200
+      ],
+      "uncropped": true,
+      "bytes_before": 994576,
+      "bytes_after": 116786
+    },
+    {
+      "source_URL": "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+      "source_SHA256": "8b3ae0db4344759e8813a9fb8750e1c1500424398a00f3071bff3a3ae5f9a403",
+      "preview_SHA256": "e1073a2b5dec65f0026caa4a6df06f812793435ff975a3e87a0bb987c86801f2",
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "preview_dimensions": [
+        1200,
+        900
+      ],
+      "uncropped": true,
+      "bytes_before": 2132993,
+      "bytes_after": 181950
+    },
+    {
+      "source_URL": "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+      "source_SHA256": "bc78a4e8b27e5997977a75d3a6a4a23c3c5bb52d55cef32691d74432a10d6257",
+      "preview_SHA256": "7a75dcdf32f3388e757865304cd8bfd7eec1ea861581f6835a60636aabf66a44",
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "preview_dimensions": [
+        1200,
+        900
+      ],
+      "uncropped": true,
+      "bytes_before": 1938902,
+      "bytes_after": 149994
+    },
+    {
+      "source_URL": "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+      "source_SHA256": "3ce29118e4462dd48d612c0af8c024fb2d90693c846baebb9e1f0b63699a9ead",
+      "preview_SHA256": "be9b1ff166fc547f148e103b616b3c27eb177c4d5501acd33d887691cf8d3e08",
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "preview_dimensions": [
+        1200,
+        900
+      ],
+      "uncropped": true,
+      "bytes_before": 2240957,
+      "bytes_after": 212774
+    },
+    {
+      "source_URL": "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+      "source_SHA256": "ae8265e2ca860e41914097041a764db5b812f1ef8ef51e43c820b200d4034a11",
+      "preview_SHA256": "b1d8e62ba85ceab878c5fbcf87ee8824e2083ae9b37b9e2b3adabd8e47b9fc35",
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "preview_dimensions": [
+        1200,
+        900
+      ],
+      "uncropped": true,
+      "bytes_before": 2068509,
+      "bytes_after": 177678
+    },
+    {
+      "source_URL": "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+      "source_SHA256": "0dc3cbe6f470176aa1b0231ee11d325b53525c26a0f005c0379b58956adf7d93",
+      "preview_SHA256": "c4cc236c1f361e7c257206e39aa7b006e4cd4df05f9c5d178a7f7f2900a2705e",
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "preview_dimensions": [
+        1200,
+        900
+      ],
+      "uncropped": true,
+      "bytes_before": 2038408,
+      "bytes_after": 165352
+    },
+    {
+      "source_URL": "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+      "source_SHA256": "7f564055c3a0b8d9a7714aa894f04bb108bdfadecc5d988caa29e617833ee143",
+      "preview_SHA256": "8e64e2957fe31869997b59dcc465593bb277a01d79e62c1a39bf20f54859cb75",
+      "original_dimensions": [
+        1448,
+        1086
+      ],
+      "preview_dimensions": [
+        1200,
+        900
+      ],
+      "uncropped": true,
+      "bytes_before": 2009613,
+      "bytes_after": 167652
+    },
+    {
+      "source_URL": "/user/documents/upload/produktove_stranky/colagen DOZA.png",
+      "source_SHA256": "c8b8e80bf03a583aaf408cc20c78c4f0bd8a5c257a8c92e0f2deee3071e2ea70",
+      "preview_SHA256": "fa6c399703abc3264c5bea719ec8d72b6fb7a0f5e038978695b916525e8435d4",
+      "original_dimensions": [
+        1026,
+        1030
+      ],
+      "preview_dimensions": [
+        1026,
+        1030
+      ],
+      "uncropped": true,
+      "bytes_before": 1190451,
+      "bytes_after": 132590
+    }
+  ]
+}

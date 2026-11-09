@@ -1,0 +1,56 @@
+{
+  "unique_source_IMG_URLs": 25,
+  "new_asset_fetches": [
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/Slim%20extreme%20Collagen.png",
+      "HTTP": 200,
+      "sha256": "1d66e33eaab65fcc2c7220f73ae19dabd6614fb6338ec787d83760a3219f0f19"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+      "HTTP": 200,
+      "sha256": "af201591671d3d70bc24a620042ff13f68e598866843032d33fd82bc1ef3ceae"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+      "HTTP": 200,
+      "sha256": "be3659539cc6a16e4da0b75b0d67f9a8dd414663f2115cd0bf5b8667ab713457"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/01_garcinia-cambogia.png",
+      "HTTP": 200,
+      "sha256": "8b3ae0db4344759e8813a9fb8750e1c1500424398a00f3071bff3a3ae5f9a403"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/02_kyselina-hyaluronova.png",
+      "HTTP": 200,
+      "sha256": "bc78a4e8b27e5997977a75d3a6a4a23c3c5bb52d55cef32691d74432a10d6257"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/03_mineraly-a-enzymy.png",
+      "HTTP": 200,
+      "sha256": "3ce29118e4462dd48d612c0af8c024fb2d90693c846baebb9e1f0b63699a9ead"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/04_b-komplex.png",
+      "HTTP": 200,
+      "sha256": "ae8265e2ca860e41914097041a764db5b812f1ef8ef51e43c820b200d4034a11"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/05_vitaminy-c-a-e.png",
+      "HTTP": 200,
+      "sha256": "0dc3cbe6f470176aa1b0231ee11d325b53525c26a0f005c0379b58956adf7d93"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/06_zeleny-caj.png",
+      "HTTP": 200,
+      "sha256": "7f564055c3a0b8d9a7714aa894f04bb108bdfadecc5d988caa29e617833ee143"
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/colagen%20DOZA.png",
+      "HTTP": 200,
+      "sha256": "c8b8e80bf03a583aaf408cc20c78c4f0bd8a5c257a8c92e0f2deee3071e2ea70"
+    }
+  ],
+  "missing": []
+}

@@ -1,0 +1,3201 @@
+{
+  "language": "de",
+  "product": "Slim Extreme Collagen",
+  "sku": "168",
+  "pack": "240 g",
+  "status": "INTERNAL_GIT_WORKING_TRANSLATION_NOT_FOR_PUBLICATION_NOT_LEGAL_APPROVAL",
+  "source_git_commit": "6e471030bd01d04aed7b5c251b07933b09fc9e6f",
+  "source_commit_note": "Immutable commit supplied in the delegated task; no network/Git publication or independent remote lookup performed.",
+  "source_files_and_hashes": [
+    {
+      "source": "/root/workspace/research/translations-168-1793966146-20261109T123714Z/source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "source_sha256": "06143af146c3c24d08270ee6500cadf007537a3941bd616e427312d0778f1008",
+      "output": "/root/workspace/research/translations-168-1793966146-20261109T123714Z/out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "output_sha256": "acc457f164380241e6f129bf759999e0751489a5dcda9bd57d6830557b6fe545"
+    },
+    {
+      "source": "/root/workspace/research/translations-168-1793966146-20261109T123714Z/source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "source_sha256": "452a8d54882fe2ea62fbd3ee4b6258cc23dd15fa3b3e75b4d7ef51a3c9f4cb81",
+      "output": "/root/workspace/research/translations-168-1793966146-20261109T123714Z/out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "output_sha256": "cc87db5c47124735456d2764e990030eaa63d7aeb15c909e0ed9bbeb76d90756"
+    }
+  ],
+  "permitted_reference_files": [
+    "/root/workspace/brand/product/extreme-slim-collagen/info.md",
+    "/root/workspace/brand/RULES.md"
+  ],
+  "target_url": "https://www.golden-life.cz/de/slim-extreme-collagen/",
+  "translation_policy": [
+    "Complete source copy translated without shortening or replacing benefit passages with dosage facts. Formal Sie addressing. Brand/product names, filenames and resource URLs retained.",
+    "lang=de added to both data-gl-theme roots.",
+    "Purchase link localized to the supplied verified German URL, retaining #content. Every local modal hash unchanged.",
+    "No purchase/cart/tracking logic changed. Only five explicit known mobile UI string values localized; loader bytes unchanged.",
+    "Every dose, composition number and quantity preserved in visible copy. Explicit exceptions: unverified static price and stock/24-hour promise removed as instructed. Original daltonů unit spelling retained literally under the exact-unit instruction; this is an intentional Czech unit exception, not an untranslated paragraph."
+  ],
+  "metadata_corrections": [
+    {
+      "target": "long Product JSON-LD",
+      "removed": {
+        "offers": {
+          "@type": "Offer",
+          "price": "1350",
+          "priceCurrency": "CZK",
+          "availability": "https://schema.org/InStock",
+          "url": "https://www.golden-life.cz/extreme-slim-collagen/"
+        },
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.9",
+          "reviewCount": "127"
+        }
+      },
+      "reason": "Remove stale fixed commercial/review metadata in the new translation only; no invented German price, currency, stock or reviews.",
+      "retained": "Product identity, brand, image; description/category translated."
+    }
+  ],
+  "needs_claim_review": true,
+  "recorded_alternative": {
+    "cs": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+    "de": "Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei.",
+    "evidence": "Exact wording recorded in permitted product info.md line 15; also present in source overview.",
+    "status": "Recorded product-source alternative, not a new independent legal approval of this HTML or other claims.",
+    "needs_claim_review": true
+  },
+  "claim_review_findings": [
+    {
+      "severity": "publication_blocker",
+      "issue": "Fat burning, weight loss without exercise, collagen, muscle firmness, cellulite/wrinkle reduction, hair/nail/joint and regeneration effects are source claims carried into this internal translation. No approval inferred."
+    },
+    {
+      "severity": "publication_blocker",
+      "issue": "Hyaluronic-acid dialog mentions wound healing and joint pain; green-tea dialog claims reduced heart-disease risk. These are especially sensitive disease/health claims; not cleared for publication."
+    },
+    {
+      "severity": "review_required",
+      "issue": "Broad vitamin/mineral/enzyme statements, hormone stabilization and individual unspecific fatigue claims require nutrient-specific legal/substantiation review. Product-file heading claiming EFSA approval is not independent proof."
+    },
+    {
+      "severity": "review_required",
+      "issue": "Original free-from claims retained, including sugar-free and additive-free; ingredients list sweeteners/additional ingredients and table states sugars 2,9 g/0,23 g. Do not infer compliance."
+    }
+  ],
+  "source_discrepancies_not_corrected": [
+    {
+      "issue": "Different scoop/water instructions",
+      "long": "1 scoop (8 g), 200–300 ml, 1× daily",
+      "short": "8 g/2 scoops in 300–400 ml, or 1 l to taste; standard small scoop 2 scoops (8 g); large scoop batch L245382 EXP/LOT: 072028 is 8 g (1 scoop).",
+      "action": "All variants and batch note translated exactly in their original locations; no harmonization."
+    },
+    {
+      "issue": "B6 table suspect",
+      "source": "823,5 mg per 100 g / 0,7 mg per 8 g",
+      "action": "Preserved literally; confirm with responsible product owner."
+    },
+    {
+      "issue": "Per-100-g/per-8-g columns and collagen/6000 mg metadata may not reconcile",
+      "action": "All source numbers, doses and units retained, no recomputation or formulation repair."
+    },
+    {
+      "issue": "Static CTA snapshot removed by explicit follow-up instruction",
+      "source": "1 350 Kč and ✓ Skladem – expedice do 24 hodin",
+      "de_price_fallback": "—",
+      "de_availability_fallback": "Die aktuelle Verfügbarkeit finden Sie beim Kaufbutton.",
+      "action": "Unverified CZ price/stock/24-hour fallback not carried into German working version. Native price synchronization retained byte-identically, no currency conversion, cart or shop price changes. Exception limited to these two visible static nodes and removed JSON-LD offers/aggregateRating."
+    },
+    {
+      "issue": "Required supplement designation",
+      "action": "Long visible Czech source does not explicitly say Doplněk stravy outside JSON-LD category. Faithful translation does not add a new visible sentence; review mandatory labeling before any live use."
+    },
+    {
+      "issue": "No FAQ in current source pair",
+      "action": "No FAQ invented. All six ingredient dialogs and all existing tables/warnings/scoop notes included."
+    }
+  ],
+  "claims": [
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text-justify",
+      "cs": "Slim Extreme Collagen je výjimečný spalovač tuků, který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a zpevňování svalů.",
+      "de": "Slim Extreme Collagen ist ein außergewöhnlicher Fatburner, der die innovative Kraft von Kollagenpeptiden mit gezielter Unterstützung beim Abnehmen und der Festigung der Muskulatur verbindet.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text-justify",
+      "cs": "Díky kombinaci patentovaných kolagenů Verisol® a Peptiplus® nabízí nejen pomoc při tvarování postavy, ale i zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů.",
+      "de": "Dank der Kombination der patentierten Kollagene Verisol® und Peptiplus® unterstützt er nicht nur die Körperformung, sondern auch die Verbesserung der Hautelastizität, der Haarqualität und der Gelenkgesundheit.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text-justify",
+      "cs": "Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+      "de": "Er wurde entwickelt, um Sie auf dem Weg zu einem gesünderen Körper zu unterstützen und auch an Tagen ohne körperliche Aktivität Ergebnisse zu erzielen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p-card-p",
+      "cs": "Podpora hubnutí",
+      "de": "Unterstützung beim Abnehmen",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p-card-p",
+      "cs": "Extrémní spalování tuků",
+      "de": "Extreme Fettverbrennung",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p-card-p",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p-card-p",
+      "cs": "Redukce vrásek",
+      "de": "Reduzierung von Falten",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p-card-p",
+      "cs": "Pevné nehty",
+      "de": "Feste Nägel",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů.",
+      "de": "Slim Extreme Collagen kombiniert die Kollagenpeptide Verisol® und Peptiplus® sowie Hyaluronsäure mit einem Komplex aus Garcinia, grünem Tee, Synephrin und Enzymen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+      "de": "Es wurde als Bestandteil eines Programms zur Gewichtsreduktion und der täglichen Schönheitspflege entwickelt.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Složení doplňují vitaminy a minerály.",
+      "de": "Vitamine und Mineralstoffe ergänzen die Zusammensetzung.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+      "de": "Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Kontrola hmotnosti",
+      "de": "✓Gewichtskontrolle",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Novotvorba kolagenu a udržení normálního stavu pokožky, vlasů, nehtů a pojivových tkání",
+      "de": "✓Neubildung von Kollagen und Erhaltung des normalen Zustands von Haut, Haaren, Nägeln und Bindegewebe",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Regenerace organismu, zlepšení jeho funkcí",
+      "de": "✓Regeneration des Körpers und Verbesserung seiner Funktionen",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Podpora hubnutí i bez cvičení",
+      "de": "✓Unterstützung beim Abnehmen auch ohne Sport",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Efektivní spalování tuků",
+      "de": "✓Effektive Fettverbrennung",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Redukce celulitidy",
+      "de": "✓Reduzierung von Cellulite",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Pevné nehty",
+      "de": "✓Feste Nägel",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Snížení únavy",
+      "de": "✓Verringerung von Müdigkeit",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "ucinky-item",
+      "cs": "✓Celková regenerace",
+      "de": "✓Ganzheitliche Regeneration",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "latky-teaser",
+      "cs": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+      "de": "Verringert den Appetit und unterstützt die Fettverbrennung (HCA).",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "latky-teaser",
+      "cs": "Hydratace, pružnost pleti a podpora kloubů.",
+      "de": "Feuchtigkeitsversorgung, Hautelastizität und Unterstützung der Gelenke.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "latky-teaser",
+      "cs": "Enzymy bromelain, papain a zinek pro trávení.",
+      "de": "Die Enzyme Bromelain und Papain sowie Zink für die Verdauung.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "latky-teaser",
+      "cs": "Energie a správný metabolismus.",
+      "de": "Energie und ein normal funktionierender Stoffwechsel.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "latky-teaser",
+      "cs": "Tvorba kolagenu a antioxidační ochrana.",
+      "de": "Kollagenbildung und antioxidativer Schutz.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "latky-teaser",
+      "cs": "Antioxidanty a podpora spalování.",
+      "de": "Antioxidantien und Unterstützung der Fettverbrennung.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti.",
+      "de": "Diese tropische Pflanze stammt aus Asien und wird seit Jahrhunderten verwendet, um ein Sättigungsgefühl hervorzurufen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+      "de": "Ihr zentraler Wirkstoff ist Hydroxycitronensäure (HCA), die die Verdauung verbessert, den Appetit verringert und auch die Fettverbrennung unterstützt.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Látka, která se přirozeně nachází a vytváří v našem těle.",
+      "de": "Eine Substanz, die in unserem Körper natürlich vorkommt und gebildet wird.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost.",
+      "de": "Ihre Hauptfunktion besteht darin, Wasser zu binden, also das Gewebe mit Feuchtigkeit zu versorgen und dort ausreichend Feuchtigkeit zu bewahren.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Pomáhá vyživovat pokožku, která je poté zdravější a pružnější.",
+      "de": "Sie hilft, die Haut zu nähren, sodass diese gesünder und elastischer wird.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti.",
+      "de": "Dadurch verringert sie die Faltenbildung und unterstützt die Regeneration sowie die allgemeine Verjüngung der Haut.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+      "de": "Sie hilft wirksam bei der Wundheilung und bei Gelenkschmerzen und verbessert die Beweglichkeit der Gelenke.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Bromelain s papainem je unikátní kombinací dvou enzymů, které se nachází v ananasu a papáje.",
+      "de": "Bromelain und Papain bilden eine einzigartige Kombination zweier Enzyme, die in Ananas und Papaya vorkommen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci.",
+      "de": "Beide wirken sich positiv auf die Verdauung aus und beeinflussen den Abbau von Proteinen, was besonders Sportler zu schätzen wissen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+      "de": "Das enthaltene Zink ist an der Zellteilung beteiligt, trägt zu einem normalen Stoffwechsel bei und schützt die Zellen vor freien Radikalen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému.",
+      "de": "B-Vitamine sind für die normale Funktion des Stoffwechsels und des Nervensystems unerlässlich.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití.",
+      "de": "Zugleich ermöglichen sie die Aufnahme von Stoffen und unterstützen deren bessere Verwertung.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+      "de": "Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei, die Vitamine B2 und B3 erhalten den normalen Zustand von Haut und Schleimhäuten.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy.",
+      "de": "Vitamin C ist wichtig für die Neubildung von Kollagen, wirkt sich positiv auf das Immunsystem aus und trägt zum Schutz und zur Bildung neuer Zellen, zu einer besseren Regeneration und zur Verringerung von Müdigkeit bei.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+      "de": "Vitamin E ist ein sehr starkes Antioxidans, ist für zahlreiche Redoxprozesse von Bedeutung und stabilisiert bestimmte Hormone.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům.",
+      "de": "Er enthält Antioxidantien und hilft, freie Radikale zu bekämpfen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Podporuje zdravý zrak a snižuje riziko srdečních onemocnění.",
+      "de": "Er unterstützt eine gesunde Sehkraft und verringert das Risiko von Herzerkrankungen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "p",
+      "cs": "Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+      "de": "Die Wirkungen von grünem Tee ermöglichen die Verbrennung von Kalorien, tragen zur Bildung von Dopamin bei und fördern die Produktivität.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "attribute:content",
+      "cs": "Slim Extreme Collagen je výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. Podpora hubnutí, redukce celulitidy, zpevnění pokožky a zdraví kloubů. Vyrobeno v ČR.",
+      "de": "Slim Extreme Collagen ist ein außergewöhnlicher Fatburner mit den patentierten Kollagenen Verisol® und Peptiplus®. Unterstützung beim Abnehmen, Reduzierung von Cellulite, Hautstraffung und Gelenkgesundheit. Hergestellt in Tschechien.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "attribute:content",
+      "cs": "Slim Extreme Collagen | Spalovač Tuků s Kolageny",
+      "de": "Slim Extreme Collagen | Fatburner mit Kollagenen",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "attribute:content",
+      "cs": "Výjimečný spalovač tuků s 6000 mg kolagenních peptidů. Podpora hubnutí, zpevnění pokožky, redukce vrásek a celulitidy. Vyrobeno v ČR.",
+      "de": "Außergewöhnlicher Fatburner mit 6000 mg Kollagenpeptiden. Unterstützung beim Abnehmen, Hautstraffung sowie Reduzierung von Falten und Cellulite. Hergestellt in Tschechien.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "jsonld:description",
+      "cs": "Výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. 6000 mg kolagenních peptidů pro podporu hubnutí, zpevnění pokožky, redukci vrásek a celulitidy.",
+      "de": "Außergewöhnlicher Fatburner mit den patentierten Kollagenen Verisol® und Peptiplus®. 6000 mg Kollagenpeptide zur Unterstützung beim Abnehmen, zur Hautstraffung sowie zur Reduzierung von Falten und Cellulite.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "výjimečný spalovač tuků",
+      "de": "außergewöhnlicher Fatburner",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": ", který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a ",
+      "de": ", der die innovative Kraft von Kollagenpeptiden mit gezielter Unterstützung beim Abnehmen und der ",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "zpevňování svalů",
+      "de": "Festigung der Muskulatur",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů",
+      "de": "Verbesserung der Hautelastizität, der Haarqualität und der Gelenkgesundheit",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Podpora hubnutí",
+      "de": "Unterstützung beim Abnehmen",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Extrémní spalování tuků",
+      "de": "Extreme Fettverbrennung",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Redukce vrásek",
+      "de": "Reduzierung von Falten",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Pevné nehty",
+      "de": "Feste Nägel",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+      "de": "Vitamine und Mineralstoffe ergänzen die Zusammensetzung. Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Kontrola hmotnosti",
+      "de": "Gewichtskontrolle",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Novotvorba kolagenu a udržení normálního stavu pokožky, vlasů, nehtů a pojivových tkání",
+      "de": "Neubildung von Kollagen und Erhaltung des normalen Zustands von Haut, Haaren, Nägeln und Bindegewebe",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Regenerace organismu, zlepšení jeho funkcí",
+      "de": "Regeneration des Körpers und Verbesserung seiner Funktionen",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Podpora hubnutí i bez cvičení",
+      "de": "Unterstützung beim Abnehmen auch ohne Sport",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Efektivní spalování tuků",
+      "de": "Effektive Fettverbrennung",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Pevné nehty",
+      "de": "Feste Nägel",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Snížení únavy",
+      "de": "Verringerung von Müdigkeit",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Celková regenerace",
+      "de": "Ganzheitliche Regeneration",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+      "de": "Verringert den Appetit und unterstützt die Fettverbrennung (HCA).",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Hydratace, pružnost pleti a podpora kloubů.",
+      "de": "Feuchtigkeitsversorgung, Hautelastizität und Unterstützung der Gelenke.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Enzymy bromelain, papain a zinek pro trávení.",
+      "de": "Die Enzyme Bromelain und Papain sowie Zink für die Verdauung.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Energie a správný metabolismus.",
+      "de": "Energie und ein normal funktionierender Stoffwechsel.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Tvorba kolagenu a antioxidační ochrana.",
+      "de": "Kollagenbildung und antioxidativer Schutz.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Antioxidanty a podpora spalování.",
+      "de": "Antioxidantien und Unterstützung der Fettverbrennung.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti. Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+      "de": "Diese tropische Pflanze stammt aus Asien und wird seit Jahrhunderten verwendet, um ein Sättigungsgefühl hervorzurufen. Ihr zentraler Wirkstoff ist Hydroxycitronensäure (HCA), die die Verdauung verbessert, den Appetit verringert und auch die Fettverbrennung unterstützt.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+      "de": "Eine Substanz, die in unserem Körper natürlich vorkommt und gebildet wird. Ihre Hauptfunktion besteht darin, Wasser zu binden, also das Gewebe mit Feuchtigkeit zu versorgen und dort ausreichend Feuchtigkeit zu bewahren. Sie hilft, die Haut zu nähren, sodass diese gesünder und elastischer wird. Dadurch verringert sie die Faltenbildung und unterstützt die Regeneration sowie die allgemeine Verjüngung der Haut. Sie hilft wirksam bei der Wundheilung und bei Gelenkschmerzen und verbessert die Beweglichkeit der Gelenke.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému. Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+      "de": "B-Vitamine sind für die normale Funktion des Stoffwechsels und des Nervensystems unerlässlich. Zugleich ermöglichen sie die Aufnahme von Stoffen und unterstützen deren bessere Verwertung. Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei, die Vitamine B2 und B3 erhalten den normalen Zustand von Haut und Schleimhäuten.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy. Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+      "de": "Vitamin C ist wichtig für die Neubildung von Kollagen, wirkt sich positiv auf das Immunsystem aus und trägt zum Schutz und zur Bildung neuer Zellen, zu einer besseren Regeneration und zur Verringerung von Müdigkeit bei. Vitamin E ist ein sehr starkes Antioxidans, ist für zahlreiche Redoxprozesse von Bedeutung und stabilisiert bestimmte Hormone.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "context": "text",
+      "cs": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům. Podporuje zdravý zrak a snižuje riziko srdečních onemocnění. Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+      "de": "Er enthält Antioxidantien und hilft, freie Radikale zu bekämpfen. Er unterstützt eine gesunde Sehkraft und verringert das Risiko von Herzerkrankungen. Die Wirkungen von grünem Tee ermöglichen die Verbrennung von Kalorien, tragen zur Bildung von Dopamin bei und fördern die Produktivität.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "maly-popis",
+      "cs": "Slim Extreme Collagen je silný a účinný spalovač tuků v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo.",
+      "de": "Slim Extreme Collagen ist ein starker und wirksamer Fatburner in Form eines erfrischenden Getränks zum Abnehmen, das zugleich die positiven Wirkungen erstklassiger Kollagenpeptide auf Ihren Körper nutzt.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "maly-popis",
+      "cs": "Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem.",
+      "de": "Entwickelt für alle, die auf dem Weg zu einem gesünderen Körper Unterstützung suchen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "maly-popis",
+      "cs": "Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+      "de": "Entdecken Sie die Kombination hochwertiger, patentierter Kollagenpeptide Verisol® und Peptiplus®, die gemeinsam mit der Kraft der Ananas zum Abnehmen, natürlichen Enzymen und weiteren einzigartigen Inhaltsstoffen eine schnelle und effektive Fettverbrennung unterstützen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "text",
+      "cs": "Slim Extreme Collagen je silný a účinný spalovač tuků",
+      "de": "Slim Extreme Collagen ist ein starker und wirksamer Fatburner",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "text",
+      "cs": " v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo. Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem. Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+      "de": " in Form eines erfrischenden Getränks zum Abnehmen, das zugleich die positiven Wirkungen erstklassiger Kollagenpeptide auf Ihren Körper nutzt. Entwickelt für alle, die auf dem Weg zu einem gesünderen Körper Unterstützung suchen. Entdecken Sie die Kombination hochwertiger, patentierter Kollagenpeptide Verisol® und Peptiplus®, die gemeinsam mit der Kraft der Ananas zum Abnehmen, natürlichen Enzymen und weiteren einzigartigen Inhaltsstoffen eine schnelle und effektive Fettverbrennung unterstützen.",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "attribute:alt",
+      "cs": "Podpora hubnutí",
+      "de": "Unterstützung beim Abnehmen",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "text",
+      "cs": "Podpora hubnutí",
+      "de": "Unterstützung beim Abnehmen",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "attribute:alt",
+      "cs": "Spalování tuků",
+      "de": "Fettverbrennung",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "text",
+      "cs": "Spalování tuků",
+      "de": "Fettverbrennung",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "attribute:alt",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "text",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "attribute:alt",
+      "cs": "Redukce vrásek",
+      "de": "Reduzierung von Falten",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "target_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "context": "text",
+      "cs": "Redukce vrásek",
+      "de": "Reduzierung von Falten",
+      "needs_claim_review": true,
+      "status": "faithful_internal_working_translation_not_legal_approval"
+    }
+  ],
+  "translation_inventory": [
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:content",
+      "cs": "Slim Extreme Collagen je výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. Podpora hubnutí, redukce celulitidy, zpevnění pokožky a zdraví kloubů. Vyrobeno v ČR.",
+      "de": "Slim Extreme Collagen ist ein außergewöhnlicher Fatburner mit den patentierten Kollagenen Verisol® und Peptiplus®. Unterstützung beim Abnehmen, Reduzierung von Cellulite, Hautstraffung und Gelenkgesundheit. Hergestellt in Tschechien.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:content",
+      "cs": "Slim Extreme Collagen | Spalovač Tuků s Kolageny",
+      "de": "Slim Extreme Collagen | Fatburner mit Kollagenen",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:content",
+      "cs": "Výjimečný spalovač tuků s 6000 mg kolagenních peptidů. Podpora hubnutí, zpevnění pokožky, redukce vrásek a celulitidy. Vyrobeno v ČR.",
+      "de": "Außergewöhnlicher Fatburner mit 6000 mg Kollagenpeptiden. Unterstützung beim Abnehmen, Hautstraffung sowie Reduzierung von Falten und Cellulite. Hergestellt in Tschechien.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "jsonld:description",
+      "cs": "Výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®. 6000 mg kolagenních peptidů pro podporu hubnutí, zpevnění pokožky, redukci vrásek a celulitidy.",
+      "de": "Außergewöhnlicher Fatburner mit den patentierten Kollagenen Verisol® und Peptiplus®. 6000 mg Kollagenpeptide zur Unterstützung beim Abnehmen, zur Hautstraffung sowie zur Reduzierung von Falten und Cellulite.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "jsonld:category",
+      "cs": "Doplňky stravy",
+      "de": "Nahrungsergänzungsmittel",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Slim Extreme Collagen",
+      "de": "Slim Extreme Collagen",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Slim Extreme Collagen je ",
+      "de": "Slim Extreme Collagen ist ein ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "výjimečný spalovač tuků",
+      "de": "außergewöhnlicher Fatburner",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": ", který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a ",
+      "de": ", der die innovative Kraft von Kollagenpeptiden mit gezielter Unterstützung beim Abnehmen und der ",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "zpevňování svalů",
+      "de": "Festigung der Muskulatur",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": ". Díky kombinaci ",
+      "de": " verbindet. Dank der Kombination der ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "patentovaných kolagenů Verisol® a Peptiplus®",
+      "de": "patentierten Kollagene Verisol® und Peptiplus®",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": " nabízí nejen pomoc při tvarování postavy, ale i ",
+      "de": " unterstützt er nicht nur die Körperformung, sondern auch die ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů",
+      "de": "Verbesserung der Hautelastizität, der Haarqualität und der Gelenkgesundheit",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": ". Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+      "de": ". Er wurde entwickelt, um Sie auf dem Weg zu einem gesünderen Körper zu unterstützen und auch an Tagen ohne körperliche Aktivität Ergebnisse zu erzielen.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Hlavní účinky Slim Extreme Collagen",
+      "de": "Die wichtigsten Wirkungen von Slim Extreme Collagen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Podpora hubnutí",
+      "de": "Unterstützung beim Abnehmen",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Extrémní spalování tuků",
+      "de": "Extreme Fettverbrennung",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Redukce vrásek",
+      "de": "Reduzierung von Falten",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Pevné nehty",
+      "de": "Feste Nägel",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vyrobeno v ČR",
+      "de": "Hergestellt in Tschechien",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Žena drží dózu Slim Extreme Collagen",
+      "de": "Eine Frau hält eine Dose Slim Extreme Collagen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Jak funguje Slim Extreme Collagen",
+      "de": "So wirkt Slim Extreme Collagen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+      "de": "Slim Extreme Collagen kombiniert die Kollagenpeptide Verisol® und Peptiplus® sowie Hyaluronsäure mit einem Komplex aus Garcinia, grünem Tee, Synephrin und Enzymen. Es wurde als Bestandteil eines Programms zur Gewichtsreduktion und der täglichen Schönheitspflege entwickelt.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+      "de": "Vitamine und Mineralstoffe ergänzen die Zusammensetzung. Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Co vám přinese",
+      "de": "Ihre Vorteile",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Kontrola hmotnosti",
+      "de": "Gewichtskontrolle",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Novotvorba kolagenu a udržení normálního stavu pokožky, vlasů, nehtů a pojivových tkání",
+      "de": "Neubildung von Kollagen und Erhaltung des normalen Zustands von Haut, Haaren, Nägeln und Bindegewebe",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Regenerace organismu, zlepšení jeho funkcí",
+      "de": "Regeneration des Körpers und Verbesserung seiner Funktionen",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Podpora hubnutí i bez cvičení",
+      "de": "Unterstützung beim Abnehmen auch ohne Sport",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Efektivní spalování tuků",
+      "de": "Effektive Fettverbrennung",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Pevné nehty",
+      "de": "Feste Nägel",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Snížení únavy",
+      "de": "Verringerung von Müdigkeit",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓",
+      "de": "✓",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Celková regenerace",
+      "de": "Ganzheitliche Regeneration",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Aktivní látky",
+      "de": "Wirkstoffe",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Garcinia cambogia",
+      "de": "Garcinia cambogia",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+      "de": "Verringert den Appetit und unterstützt die Fettverbrennung (HCA).",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Více o Garcinia cambogia",
+      "de": "Mehr über Garcinia cambogia",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "+",
+      "de": "+",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Kyselina hyaluronová",
+      "de": "Hyaluronsäure",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Hydratace, pružnost pleti a podpora kloubů.",
+      "de": "Feuchtigkeitsversorgung, Hautelastizität und Unterstützung der Gelenke.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Více o Kyselina hyaluronová",
+      "de": "Mehr über Hyaluronsäure",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "+",
+      "de": "+",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Minerály a enzymy",
+      "de": "Mineralstoffe und Enzyme",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Enzymy bromelain, papain a zinek pro trávení.",
+      "de": "Die Enzyme Bromelain und Papain sowie Zink für die Verdauung.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Více o Minerály a enzymy",
+      "de": "Mehr über Mineralstoffe und Enzyme",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "+",
+      "de": "+",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B komplex",
+      "de": "B-Komplex",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Energie a správný metabolismus.",
+      "de": "Energie und ein normal funktionierender Stoffwechsel.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Více o B komplex",
+      "de": "Mehr über den B-Komplex",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "+",
+      "de": "+",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vitamín C a E",
+      "de": "Vitamin C und E",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Tvorba kolagenu a antioxidační ochrana.",
+      "de": "Kollagenbildung und antioxidativer Schutz.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Více o Vitamín C a E",
+      "de": "Mehr über Vitamin C und E",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "+",
+      "de": "+",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Zelený čaj",
+      "de": "Grüner Tee",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Antioxidanty a podpora spalování.",
+      "de": "Antioxidantien und Unterstützung der Fettverbrennung.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Více o Zelený čaj",
+      "de": "Mehr über grünen Tee",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "+",
+      "de": "+",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "×",
+      "de": "×",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Garcinia cambogia",
+      "de": "Garcinia cambogia",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Garcinia cambogia",
+      "de": "Garcinia cambogia",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti. Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+      "de": "Diese tropische Pflanze stammt aus Asien und wird seit Jahrhunderten verwendet, um ein Sättigungsgefühl hervorzurufen. Ihr zentraler Wirkstoff ist Hydroxycitronensäure (HCA), die die Verdauung verbessert, den Appetit verringert und auch die Fettverbrennung unterstützt.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "×",
+      "de": "×",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Kyselina hyaluronová",
+      "de": "Hyaluronsäure",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Kyselina hyaluronová",
+      "de": "Hyaluronsäure",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+      "de": "Eine Substanz, die in unserem Körper natürlich vorkommt und gebildet wird. Ihre Hauptfunktion besteht darin, Wasser zu binden, also das Gewebe mit Feuchtigkeit zu versorgen und dort ausreichend Feuchtigkeit zu bewahren. Sie hilft, die Haut zu nähren, sodass diese gesünder und elastischer wird. Dadurch verringert sie die Faltenbildung und unterstützt die Regeneration sowie die allgemeine Verjüngung der Haut. Sie hilft wirksam bei der Wundheilung und bei Gelenkschmerzen und verbessert die Beweglichkeit der Gelenke.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "×",
+      "de": "×",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Minerály a enzymy",
+      "de": "Mineralstoffe und Enzyme",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Minerály a enzymy",
+      "de": "Mineralstoffe und Enzyme",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bromelain s papainem je unikátní kombinací dvou enzymů, které se nachází v ananasu a papáje. Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci. Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+      "de": "Bromelain und Papain bilden eine einzigartige Kombination zweier Enzyme, die in Ananas und Papaya vorkommen. Beide wirken sich positiv auf die Verdauung aus und beeinflussen den Abbau von Proteinen, was besonders Sportler zu schätzen wissen. Das enthaltene Zink ist an der Zellteilung beteiligt, trägt zu einem normalen Stoffwechsel bei und schützt die Zellen vor freien Radikalen.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "×",
+      "de": "×",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "B komplex",
+      "de": "B-Komplex",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B komplex",
+      "de": "B-Komplex",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému. Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+      "de": "B-Vitamine sind für die normale Funktion des Stoffwechsels und des Nervensystems unerlässlich. Zugleich ermöglichen sie die Aufnahme von Stoffen und unterstützen deren bessere Verwertung. Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei, die Vitamine B2 und B3 erhalten den normalen Zustand von Haut und Schleimhäuten.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "×",
+      "de": "×",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Vitamín C a E",
+      "de": "Vitamin C und E",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vitamín C a E",
+      "de": "Vitamin C und E",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy. Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+      "de": "Vitamin C ist wichtig für die Neubildung von Kollagen, wirkt sich positiv auf das Immunsystem aus und trägt zum Schutz und zur Bildung neuer Zellen, zu einer besseren Regeneration und zur Verringerung von Müdigkeit bei. Vitamin E ist ein sehr starkes Antioxidans, ist für zahlreiche Redoxprozesse von Bedeutung und stabilisiert bestimmte Hormone.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:aria-label",
+      "cs": "Zavřít",
+      "de": "Schließen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "×",
+      "de": "×",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Zelený čaj",
+      "de": "Grüner Tee",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Zelený čaj",
+      "de": "Grüner Tee",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům. Podporuje zdravý zrak a snižuje riziko srdečních onemocnění. Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+      "de": "Er enthält Antioxidantien und hilft, freie Radikale zu bekämpfen. Er unterstützt eine gesunde Sehkraft und verringert das Risiko von Herzerkrankungen. Die Wirkungen von grünem Tee ermöglichen die Verbrennung von Kalorien, tragen zur Bildung von Dopamin bei und fördern die Produktivität.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Slim Extreme Collagen",
+      "de": "Slim Extreme Collagen",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Objednejte nyní",
+      "de": "Bestellen Sie jetzt",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Balení:",
+      "de": "Packungsinhalt:",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": " 240 g prášku  ·  ",
+      "de": " 240 g Pulver ·  ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Stačí na:",
+      "de": "Reicht für:",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": " cca 30 dávek",
+      "de": " ca. 30 Portionen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1 350 Kč",
+      "de": "—",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "s DPH",
+      "de": "inkl. MwSt.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "✓ Skladem – expedice do 24 hodin",
+      "de": "Die aktuelle Verfügbarkeit finden Sie beim Kaufbutton.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:href",
+      "cs": "/extreme-slim-collagen/#content",
+      "de": "https://www.golden-life.cz/de/slim-extreme-collagen/#content",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Objednat nyní",
+      "de": "Jetzt bestellen",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Jak užívat",
+      "de": "Verzehrempfehlung",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Bez lepku",
+      "de": "Glutenfrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bez lepku",
+      "de": "Glutenfrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Bez GMO",
+      "de": "Gentechnikfrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bez GMO",
+      "de": "Gentechnikfrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Bez přídatných látek",
+      "de": "Ohne Zusatzstoffe",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bez přídatných látek",
+      "de": "Ohne Zusatzstoffe",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Bez laktózy",
+      "de": "Laktosefrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bez laktózy",
+      "de": "Laktosefrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "attribute:alt",
+      "cs": "Bez cukru",
+      "de": "Zuckerfrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bez cukru",
+      "de": "Zuckerfrei",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Návod k použití:",
+      "de": "Anwendung:",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1 odměrku (8 g) rozmíchejte v 200–300 ml vody. Užívejte 1× denně, nejlépe ráno nebo dopoledne. Doporučená denní dávka se nesmí překročit.",
+      "de": "Rühren Sie 1 Messlöffel (8 g) in 200–300 ml Wasser ein. Nehmen Sie das Produkt 1× täglich ein, vorzugsweise morgens oder vormittags. Die empfohlene tägliche Verzehrmenge darf nicht überschritten werden.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Skladování:",
+      "de": "Aufbewahrung:",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Skladujte na suchém a chladném místě, mimo dosah přímého slunečního záření, při teplotě do 25 °C. Uchovávejte mimo dosah dětí.",
+      "de": "Lagern Sie das Produkt trocken und kühl, vor direkter Sonneneinstrahlung geschützt und bei einer Temperatur bis 25 °C. Bewahren Sie es außerhalb der Reichweite von Kindern auf.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Upozornění:",
+      "de": "Hinweise:",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Nevhodné pro těhotné a kojící ženy a osoby s alergií na některou ze složek. Nenahrazuje pestrou a vyváženou stravu. Přípravek obsahuje kofein – nedoporučuje se užívat odpoledne a večer.",
+      "de": "Nicht geeignet für Schwangere und Stillende sowie für Personen mit einer Allergie gegen einen der Inhaltsstoffe. Kein Ersatz für eine abwechslungsreiche und ausgewogene Ernährung. Das Produkt enthält Koffein – die Einnahme am Nachmittag und Abend wird nicht empfohlen.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Složení",
+      "de": "Zutaten",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "hovězí kolagenní peptidy (3500 daltonů), rybí kolagenní peptidy (2000 daltonů), aroma, regulátor kyselosti: kyselina citronová, garcinia cambogia extrakt (60% kyseliny hydroxycitronové), bromelain, ananasový prášek lyofilizovaný, mango extrakt (10:1), zelený čaj extrakt (50 % polyfenolů), kyselina askorbová, papain, pantothenát vápenatý, bisglycinát zinečnatý, sladidla: sukralóza, steviosid, dl-alfa-tokoferol-acetát, citrus aurantium extrakt (95% synefrinu), hyaluronát sodný, niacinamid, pyridoxin hydrochlorid, riboflavin, thiamin, kyselina listová, kyanokobalamin, biotin, chlorid chromitý.",
+      "de": "Rinderkollagenpeptide (3500 daltonů), Fischkollagenpeptide (2000 daltonů), Aroma, Säureregulator: Citronensäure, Garcinia-cambogia-Extrakt (60% Hydroxycitronensäure), Bromelain, gefriergetrocknetes Ananaspulver, Mangoextrakt (10:1), Grünteeextrakt (50 % Polyphenole), Ascorbinsäure, Papain, Calciumpantothenat, Zinkbisglycinat, Süßungsmittel: Sucralose, Steviosid, DL-alpha-Tocopherylacetat, Citrus-aurantium-Extrakt (95% Synephrin), Natriumhyaluronat, Niacinamid, Pyridoxinhydrochlorid, Riboflavin, Thiamin, Folsäure, Cyanocobalamin, Biotin, Chrom(III)-chlorid.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Souhrnný obsah",
+      "de": "Inhaltsstoffe im Überblick",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Beauty komplex",
+      "de": "Beauty-Komplex",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "100 g",
+      "de": "100 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "8 g (denní dávka)",
+      "de": "8 g (Tagesportion)",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Rybí kolagenní peptidy",
+      "de": "Fischkollagenpeptide",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "60,3 g",
+      "de": "60,3 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "5,13 g",
+      "de": "5,13 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Hovězí kolagenní peptidy",
+      "de": "Rinderkollagenpeptide",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "10,6 g",
+      "de": "10,6 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0,89 g",
+      "de": "0,89 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vitamín C",
+      "de": "Vitamin C",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1176 mg",
+      "de": "1176 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "100 mg",
+      "de": "100 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vitamín E",
+      "de": "Vitamin E",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "141,2 mg",
+      "de": "141,2 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "12 mg",
+      "de": "12 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Zinek",
+      "de": "Zink",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "117 mg",
+      "de": "117 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "10 mg",
+      "de": "10 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Kyselina hyaluronová",
+      "de": "Hyaluronsäure",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "117 mg",
+      "de": "117 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "10 mg",
+      "de": "10 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Slimming komplex",
+      "de": "Slimming-Komplex",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "100 g",
+      "de": "100 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "8 g (denní dávka)",
+      "de": "8 g (Tagesportion)",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Garcinia cambogia",
+      "de": "Garcinia cambogia",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "8400 mg",
+      "de": "8400 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "715 mg",
+      "de": "715 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Z toho HCA",
+      "de": "Davon HCA",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "5882 mg",
+      "de": "5882 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "500 mg",
+      "de": "500 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Zelený čaj",
+      "de": "Grüner Tee",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "2338 mg",
+      "de": "2338 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "200 mg",
+      "de": "200 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bromelain",
+      "de": "Bromelain",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "2338 mg",
+      "de": "2338 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "200 mg",
+      "de": "200 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Mango",
+      "de": "Mango",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1870 mg",
+      "de": "1870 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "160 mg",
+      "de": "160 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Papain",
+      "de": "Papain",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1117 mg",
+      "de": "1117 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "100 mg",
+      "de": "100 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Synefrin",
+      "de": "Synephrin",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "117 mg",
+      "de": "117 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "10 mg",
+      "de": "10 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Chróm",
+      "de": "Chrom",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "235 mcg",
+      "de": "235 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "20 mcg",
+      "de": "20 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Vitamíny řady B",
+      "de": "B-Vitamine",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "100 g",
+      "de": "100 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "8 g (denní dávka)",
+      "de": "8 g (Tagesportion)",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B5",
+      "de": "B5",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "388,2 mg",
+      "de": "388,2 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "33 mg",
+      "de": "33 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B3",
+      "de": "B3",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "94,1 mg",
+      "de": "94,1 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "8 mg",
+      "de": "8 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B2",
+      "de": "B2",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "6,47 mg",
+      "de": "6,47 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0,55 mg",
+      "de": "0,55 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B6",
+      "de": "B6",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "823,5 mg",
+      "de": "823,5 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0,7 mg",
+      "de": "0,7 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B1",
+      "de": "B1",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "6,47 mg",
+      "de": "6,47 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0,55 mg",
+      "de": "0,55 mg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Kyselina listová",
+      "de": "Folsäure",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1176,5 mcg",
+      "de": "1176,5 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "100 mcg",
+      "de": "100 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Biotin",
+      "de": "Biotin",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "294 mcg",
+      "de": "294 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "25 mcg",
+      "de": "25 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "B12",
+      "de": "B12",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "14,7 mcg",
+      "de": "14,7 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1,25 mcg",
+      "de": "1,25 mcg",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "*Referenční hodnota příjmu není stanovena. Slazeno sukralózou (nízkokalorické sladidlo).",
+      "de": "*Es ist kein Nährstoffbezugswert festgelegt. Mit Sucralose (kalorienarmes Süßungsmittel) gesüßt.",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Nutriční hodnoty na 100 g/8 g (denní dávka)",
+      "de": "Nährwerte pro 100 g/8 g (Tagesportion)",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Energetická hodnota",
+      "de": "Brennwert",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "1284 kj (306kcal)",
+      "de": "1284 kj (306kcal)",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "103 kj (25kcal)",
+      "de": "103 kj (25kcal)",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Bílkoviny",
+      "de": "Eiweiß",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "67 g",
+      "de": "67 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "5,4 g",
+      "de": "5,4 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Sacharidy",
+      "de": "Kohlenhydrate",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "5,3 g",
+      "de": "5,3 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0,42 g",
+      "de": "0,42 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Z toho cukry",
+      "de": "Davon Zucker",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "2,9 g",
+      "de": "2,9 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0,23 g",
+      "de": "0,23 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Tuky",
+      "de": "Fett",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0 g",
+      "de": "0 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0 g",
+      "de": "0 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Z toho nasycené mastné kyseliny",
+      "de": "Davon gesättigte Fettsäuren",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0 g",
+      "de": "0 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0 g",
+      "de": "0 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "Organické kyseliny",
+      "de": "Organische Säuren",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "4,2 g",
+      "de": "4,2 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "0,33 g",
+      "de": "0,33 g",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "text",
+      "cs": "U šarže L245382, EXP/LOT: 072028, je doporučená denní dávka 8 g (jedna odměrka).",
+      "de": "Bei Charge L245382, EXP/LOT: 072028, beträgt die empfohlene tägliche Verzehrmenge 8 g (ein Messlöffel).",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "js-runtime",
+      "cs": "Zobrazit více",
+      "de": "Mehr anzeigen",
+      "occurrences": 2,
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "js-runtime",
+      "cs": "Zobrazit méně",
+      "de": "Weniger anzeigen",
+      "occurrences": 1,
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "js-runtime",
+      "cs": "Zobrazit více: Slim Extreme Collagen",
+      "de": "Mehr anzeigen: Slim Extreme Collagen",
+      "occurrences": 1,
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "js-runtime",
+      "cs": "Zobrazit méně: ",
+      "de": "Weniger anzeigen: ",
+      "occurrences": 1,
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "Golden Life Slim Extreme Collagen-de.html",
+      "kind": "js-runtime",
+      "cs": "Zobrazit více: ",
+      "de": "Mehr anzeigen: ",
+      "occurrences": 1,
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Slim Extreme Collagen je silný a účinný spalovač tuků",
+      "de": "Slim Extreme Collagen ist ein starker und wirksamer Fatburner",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo. Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem. Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+      "de": " in Form eines erfrischenden Getränks zum Abnehmen, das zugleich die positiven Wirkungen erstklassiger Kollagenpeptide auf Ihren Körper nutzt. Entwickelt für alle, die auf dem Weg zu einem gesünderen Körper Unterstützung suchen. Entdecken Sie die Kombination hochwertiger, patentierter Kollagenpeptide Verisol® und Peptiplus®, die gemeinsam mit der Kraft der Ananas zum Abnehmen, natürlichen Enzymen und weiteren einzigartigen Inhaltsstoffen eine schnelle und effektive Fettverbrennung unterstützen.",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "Podpora hubnutí",
+      "de": "Unterstützung beim Abnehmen",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Podpora hubnutí",
+      "de": "Unterstützung beim Abnehmen",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "Spalování tuků",
+      "de": "Fettverbrennung",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Spalování tuků",
+      "de": "Fettverbrennung",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Redukce celulitidy",
+      "de": "Reduzierung von Cellulite",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "Redukce vrásek",
+      "de": "Reduzierung von Falten",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Redukce vrásek",
+      "de": "Reduzierung von Falten",
+      "changed": true,
+      "needs_claim_review": true
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "Vyrobeno v ČR",
+      "de": "Hergestellt in Tschechien",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Vyrobeno v ČR",
+      "de": "Hergestellt in Tschechien",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Slim Extreme Collagen",
+      "de": "Slim Extreme Collagen",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "hmotnost",
+      "de": "Gewicht",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " 240 g ",
+      "de": " 240 g ",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "dávkování",
+      "de": "Dosierung",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " 8 g/2 odměrky rozmíchat do 300–400 ml vody, nebo do 1 l podle chuti ",
+      "de": " 8 g/2 Messlöffel in 300–400 ml Wasser oder je nach Geschmack in bis zu 1 l einrühren ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "čas",
+      "de": "Dauer",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " jedno balení vydrží 30 dní ",
+      "de": " eine Packung reicht für 30 Tage ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Pozor!",
+      "de": "Achtung!",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " Produkt ",
+      "de": " Das Produkt ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Slim Extreme Collagen v dóze",
+      "de": "Slim Extreme Collagen in der Dose",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " je nyní v prodeji i s větší odměrkou. Prosíme, řiďte se následujícími pokyny:\n",
+      "de": " ist jetzt auch mit einem größeren Messlöffel erhältlich. Bitte beachten Sie die folgenden Hinweise:\n",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "Malá odměrka",
+      "de": "Kleiner Messlöffel",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Malá odměrka",
+      "de": "Kleiner Messlöffel",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " Standardní balení: doporučená denní dávka je ",
+      "de": " Standardpackung: Die empfohlene tägliche Verzehrmenge beträgt ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "2 odměrky (8 g)",
+      "de": "2 Messlöffel (8 g)",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": ".",
+      "de": ".",
+      "changed": false,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "attribute:alt",
+      "cs": "Velká odměrka",
+      "de": "Großer Messlöffel",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "Velká odměrka",
+      "de": "Großer Messlöffel",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " U ",
+      "de": " Bei ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "šarže L245382, EXP/LOT: 072028",
+      "de": "Charge L245382, EXP/LOT: 072028",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": " (větší odměrka) je doporučená denní dávka ",
+      "de": " (größerer Messlöffel) beträgt die empfohlene tägliche Verzehrmenge ",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": "8 g (1 odměrka)",
+      "de": "8 g (1 Messlöffel)",
+      "changed": true,
+      "needs_claim_review": false
+    },
+    {
+      "file": "maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "kind": "text",
+      "cs": ".",
+      "de": ".",
+      "changed": false,
+      "needs_claim_review": false
+    }
+  ],
+  "validation": [
+    {
+      "file": "/root/workspace/research/translations-168-1793966146-20261109T123714Z/out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "all_readable_text_nodes_mapped": true,
+      "html_tag_sequence_preserved": true,
+      "protected_attributes_preserved": true,
+      "css_byte_identical": true,
+      "javascript_identical_except_explicit_ui_literals": true,
+      "all_executable_scripts_node_check_passed": true,
+      "table_cells_count": 96,
+      "table_numbers_and_quantity_cells_unchanged": true,
+      "ingredient_dialogs": 6,
+      "theme_roots_lang_de": true,
+      "browser_runtime_test": "delegated_to_parent_not_performed_here"
+    },
+    {
+      "file": "/root/workspace/research/translations-168-1793966146-20261109T123714Z/out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "all_readable_text_nodes_mapped": true,
+      "html_tag_sequence_preserved": true,
+      "protected_attributes_preserved": true,
+      "css_byte_identical": true,
+      "javascript_identical_except_explicit_ui_literals": true,
+      "all_executable_scripts_node_check_passed": true,
+      "table_cells_count": 0,
+      "table_numbers_and_quantity_cells_unchanged": true,
+      "ingredient_dialogs": 0,
+      "theme_roots_lang_de": true,
+      "browser_runtime_test": "delegated_to_parent_not_performed_here"
+    }
+  ],
+  "scope_limits": [
+    "No publication, remote requests, credentials, live-shop writes, Git commits/pushes or other-language edits.",
+    "Browser, visual and runtime interaction QA left to parent agent; node syntax and structural/byte-preservation checks completed locally.",
+    "Source Czech files are read-only; only new German output and analysis artifacts written."
+  ],
+  "coverage_counts": {
+    "translation_inventory_entries": 276,
+    "claim_review_entries": 92,
+    "output_html_files": 2,
+    "total_ingredient_dialogs": 6,
+    "total_table_cells": 96
+  }
+}

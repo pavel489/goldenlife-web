@@ -1,0 +1,769 @@
+{
+  "language": "en",
+  "product": "Slim Extreme Collagen",
+  "product_id": "168",
+  "sales_form": "jar240g",
+  "status": "INTERNAL WORKING TRANSLATION — NOT APPROVED FOR PUBLICATION OR CLAIMS",
+  "source_git_commit_supplied_by_parent": "6e471030bd01d04aed7b5c251b07933b09fc9e6f",
+  "provenance_limit": "Task-provided fresh Git export; source directory is not itself a Git checkout. Source byte hashes recorded; no network/Git remote verification performed by this subagent.",
+  "verified_target_url_supplied_by_parent": "https://www.golden-life.cz/en/slim-extreme-collagen/",
+  "sources": [
+    {
+      "file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "sha256": "06143af146c3c24d08270ee6500cadf007537a3941bd616e427312d0778f1008"
+    },
+    {
+      "file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "sha256": "452a8d54882fe2ea62fbd3ee4b6258cc23dd15fa3b3e75b4d7ef51a3c9f4cb81"
+    }
+  ],
+  "outputs": [
+    {
+      "file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "sha256": "2a094be0a54b2f1ccfe919eb6d327e76f02ee40dbffcb53d52d22e1b1c5cbc0e"
+    },
+    {
+      "file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "sha256": "efdea7b7fc755754c097a88993804d549fe34ddf23b2dc362856d01f676e282d"
+    }
+  ],
+  "coverage": [
+    {
+      "file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "structural_nodes": 335,
+      "translated_units": 136,
+      "css_byte_identical": true,
+      "ambient_loader_byte_identical": true,
+      "nonlocalization_js_unchanged": true,
+      "scripts_node_check": [
+        {
+          "script_id": "host-bg-1",
+          "result": "pass"
+        },
+        {
+          "script_id": "inline-price-gallery",
+          "result": "pass"
+        },
+        {
+          "script_id": "gl-slim168-mobile",
+          "result": "pass"
+        },
+        {
+          "script_id": "gl-slim168-dialog-a11y",
+          "result": "pass"
+        }
+      ],
+      "table_numeric_unit_cells_preserved": 67,
+      "ingredient_dialogs": 6,
+      "faq_count": 0,
+      "visible_numbers_preserved_except_authorized_price_availability": true
+    },
+    {
+      "file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "structural_nodes": 50,
+      "translated_units": 31,
+      "css_byte_identical": true,
+      "ambient_loader_byte_identical": true,
+      "nonlocalization_js_unchanged": true,
+      "scripts_node_check": [
+        {
+          "script_id": "host-bg-1",
+          "result": "pass"
+        }
+      ],
+      "table_numeric_unit_cells_preserved": 0,
+      "ingredient_dialogs": 0,
+      "faq_count": 0,
+      "visible_numbers_preserved_except_authorized_price_availability": true
+    }
+  ],
+  "explicit_narrow_corrections": [
+    {
+      "scope": "New English long HTML / JSON-LD only",
+      "change": "Removed inherited offers object with price 1350, priceCurrency CZK, InStock and old Czech URL. Added Product.url with exact supplied English target.",
+      "reason": "No verified foreign offer, price, currency or stock; no replacement offer invented."
+    },
+    {
+      "scope": "New English long HTML / JSON-LD only",
+      "change": "Removed inherited aggregateRating 4.9 / reviewCount 127.",
+      "reason": "No verified reviews/rating for this translated presentation; no replacement invented."
+    },
+    {
+      "scope": "New English long HTML / .cta-price-value only",
+      "source": "1 350 Kč",
+      "english": "—",
+      "reason": "Explicit request: do not carry unverified Czech price fallback. Native existing syncPrice JS remains byte-identical and can overwrite with native shop text."
+    },
+    {
+      "scope": "New English long HTML / .cta-availability only",
+      "source": "✓ Skladem – expedice do 24 hodin",
+      "english": "Current availability is shown beside the purchase button.",
+      "reason": "Explicit request: neutral availability instead of an unverified stock/24h dispatch promise."
+    }
+  ],
+  "preserved": [
+    "All CSS bytes and source comments",
+    "Ambient-background host-bg-1 loader byte-for-byte in both files",
+    "All exact image/CSS/JS resource URLs",
+    "Product168 identities, layout/theme names, selector/attribute identifiers and local fragments",
+    "All numeric dosage/composition/table tokens and original unit strings, including decimal commas, mcg, kj and kcal formatting",
+    "Full introduction, six distinct ingredient teasers and full dialogs, benefits, warnings, storage, composition and four tables",
+    "Distinct standard small-scoop and L245382 EXP/LOT: 072028 large-scoop instructions",
+    "Existing price/gallery/dialog/cart logic; mobile script differs only in visible English strings"
+  ],
+  "known_source_issues_for_human_review": [
+    {
+      "issue": "Unverified or potentially prohibited inherited claims",
+      "detail": "Includes fat burning, weight loss without exercise, collagen/skin/hair/nail/joint effects, cellulite and wrinkles, hyaluronic acid wound healing/joint pain, green tea heart-disease-risk reduction/vision/dopamine/productivity, enzyme digestion effects, and vitamin E hormone stabilisation. Faithfully translated for internal comparison only; these are not approved."
+    },
+    {
+      "issue": "Approved-source wording is not a blanket approval",
+      "detail": "Product info includes broader Vitamin C wording, but this report does not certify it or collagen/fat-burning statements. Each inherited sentence remains flagged unless it is the exact B2/B3/B5 alternative below."
+    },
+    {
+      "issue": "Inconsistent instructions retained",
+      "detail": "Long HTML: 1 scoop (8 g), 200–300 ml, 1× daily. Short HTML standard: 8 g/2 scoops into 300–400 ml or 1 l; standard daily dose 2 scoops (8 g). Large scoop batch L245382 EXP/LOT: 072028: 8 g (1 scoop). These were not reconciled or silently corrected."
+    },
+    {
+      "issue": "Questionable formulation values retained",
+      "detail": "E.g. B6 823,5 mg per 100 g / 0,7 mg per 8 g and other per-100 g/per-dose inconsistencies, fish/bovine quantities and 6000 mg metadata remain literal source values. Verify the approved formulation before release; no conversions performed."
+    },
+    {
+      "issue": "Free-from and ingredient consistency",
+      "detail": "Inherited additive-free/sugar-free labels coexist with sweeteners, flavouring and table sugar values. Preserved for translation fidelity, not certified."
+    },
+    {
+      "issue": "Supplement status warning coverage",
+      "detail": "Source JSON-LD category identifies food supplements, but source visible warnings do not explicitly say Food supplement. Existing warning text was translated without adding new copy. Review mandatory labelling before publication."
+    },
+    {
+      "issue": "No FAQ in exact source",
+      "detail": "Neither provided source contains a FAQ section. No FAQ content was invented or dropped."
+    }
+  ],
+  "approved_product_source_alternative": {
+    "source_file": "/root/workspace/brand/product/extreme-slim-collagen/info.md",
+    "source": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+    "english": "Vitamins B2, B3 and B5 contribute to the reduction of tiredness and fatigue.",
+    "usage": "Already translated in the overview; offered beside concerns as the actual product-file wording. Does not approve any other claims."
+  },
+  "source_effect_sentences": [
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "description",
+      "source_effect_sentence": "Slim Extreme Collagen je výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®.",
+      "exact_english_translation": "Slim Extreme Collagen is an exceptional fat burner with patented collagens Verisol® and Peptiplus®.",
+      "needs_claim_review": true,
+      "review_note": "Inherited SEO/OG effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "description",
+      "source_effect_sentence": "Podpora hubnutí, redukce celulitidy, zpevnění pokožky a zdraví kloubů.",
+      "exact_english_translation": "Weight loss support, cellulite reduction, skin firming and joint health.",
+      "needs_claim_review": true,
+      "review_note": "Inherited SEO/OG effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "description",
+      "source_effect_sentence": "Vyrobeno v ČR.",
+      "exact_english_translation": "Made in the Czech Republic.",
+      "needs_claim_review": true,
+      "review_note": "Inherited SEO/OG effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "og:title",
+      "source_effect_sentence": "Slim Extreme Collagen | Spalovač Tuků s Kolageny",
+      "exact_english_translation": "Slim Extreme Collagen | Fat Burner with Collagens",
+      "needs_claim_review": true,
+      "review_note": "Inherited SEO/OG effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "og:description",
+      "source_effect_sentence": "Výjimečný spalovač tuků s 6000 mg kolagenních peptidů.",
+      "exact_english_translation": "An exceptional fat burner with 6000 mg of collagen peptides.",
+      "needs_claim_review": true,
+      "review_note": "Inherited SEO/OG effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "og:description",
+      "source_effect_sentence": "Podpora hubnutí, zpevnění pokožky, redukce vrásek a celulitidy.",
+      "exact_english_translation": "Weight loss support, skin firming, wrinkle and cellulite reduction.",
+      "needs_claim_review": true,
+      "review_note": "Inherited SEO/OG effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "og:description",
+      "source_effect_sentence": "Vyrobeno v ČR.",
+      "exact_english_translation": "Made in the Czech Republic.",
+      "needs_claim_review": true,
+      "review_note": "Inherited SEO/OG effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "JSON-LD description",
+      "source_effect_sentence": "Výjimečný spalovač tuků s patentovanými kolageny Verisol® a Peptiplus®.",
+      "exact_english_translation": "An exceptional fat burner with patented collagens Verisol® and Peptiplus®.",
+      "needs_claim_review": true,
+      "review_note": "Inherited structured-data effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "JSON-LD description",
+      "source_effect_sentence": "6000 mg kolagenních peptidů pro podporu hubnutí, zpevnění pokožky, redukci vrásek a celulitidy.",
+      "exact_english_translation": "6000 mg of collagen peptides for weight loss support, skin firming, wrinkle and cellulite reduction.",
+      "needs_claim_review": true,
+      "review_note": "Inherited structured-data effect wording; not approved."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "text-justify",
+      "source_effect_sentence": "Slim Extreme Collagen je výjimečný spalovač tuků, který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a zpevňování svalů.",
+      "exact_english_translation": "Slim Extreme Collagen is an exceptional fat burner, combining the innovative power of collagen peptides with targeted support for weight loss and muscle toning.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "text-justify",
+      "source_effect_sentence": "Díky kombinaci patentovaných kolagenů Verisol® a Peptiplus® nabízí nejen pomoc při tvarování postavy, ale i zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů.",
+      "exact_english_translation": "With its combination of patented collagens Verisol® and Peptiplus® it not only helps shape the body, but also offers improved skin elasticity, hair quality and joint health.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "text-justify",
+      "source_effect_sentence": "Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+      "exact_english_translation": "It is designed to support the journey towards a healthier body and deliver results even on days without physical activity.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Podpora hubnutí",
+      "exact_english_translation": "Weight loss support",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Extrémní spalování tuků",
+      "exact_english_translation": "Extreme fat burning",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Redukce celulitidy",
+      "exact_english_translation": "Cellulite reduction",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Redukce vrásek",
+      "exact_english_translation": "Wrinkle reduction",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Pevné nehty",
+      "exact_english_translation": "Strong nails",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Vyrobeno v ČR",
+      "exact_english_translation": "Made in the Czech Republic",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů.",
+      "exact_english_translation": "Slim Extreme Collagen combines Verisol® and Peptiplus® collagen peptides and hyaluronic acid with a complex of garcinia, green tea, synephrine and enzymes.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+      "exact_english_translation": "It is designed as part of a weight loss programme and everyday beauty care.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Složení doplňují vitaminy a minerály.",
+      "exact_english_translation": "The formula is complemented by vitamins and minerals.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+      "exact_english_translation": "Vitamins B2, B3 and B5 contribute to the reduction of tiredness and fatigue.",
+      "needs_claim_review": false,
+      "review_note": "Product-source wording reproduced exactly; nutrient amounts/conditions and intended use still require prepublication checks."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Kontrola hmotnosti",
+      "exact_english_translation": "✓Weight management",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Novotvorba kolagenu a udržení normálního stavu pokožky, vlasů, nehtů a pojivových tkání",
+      "exact_english_translation": "✓New collagen formation and maintenance of normal skin, hair, nails and connective tissues",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Regenerace organismu, zlepšení jeho funkcí",
+      "exact_english_translation": "✓Recovery of the body and improvement of its functions",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Podpora hubnutí i bez cvičení",
+      "exact_english_translation": "✓Weight loss support even without exercise",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Efektivní spalování tuků",
+      "exact_english_translation": "✓Effective fat burning",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Redukce celulitidy",
+      "exact_english_translation": "✓Cellulite reduction",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Pevné nehty",
+      "exact_english_translation": "✓Strong nails",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Snížení únavy",
+      "exact_english_translation": "✓Reduced tiredness",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "ucinky-item",
+      "source_effect_sentence": "✓Celková regenerace",
+      "exact_english_translation": "✓Overall recovery",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "latky-teaser",
+      "source_effect_sentence": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+      "exact_english_translation": "Reduces appetite and supports fat burning (HCA).",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "latky-teaser",
+      "source_effect_sentence": "Hydratace, pružnost pleti a podpora kloubů.",
+      "exact_english_translation": "Hydration, skin elasticity and joint support.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "latky-teaser",
+      "source_effect_sentence": "Enzymy bromelain, papain a zinek pro trávení.",
+      "exact_english_translation": "The enzymes bromelain and papain, and zinc for digestion.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "latky-teaser",
+      "source_effect_sentence": "Energie a správný metabolismus.",
+      "exact_english_translation": "Energy and normal metabolism.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "latky-teaser",
+      "source_effect_sentence": "Tvorba kolagenu a antioxidační ochrana.",
+      "exact_english_translation": "Collagen formation and antioxidant protection.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "latky-teaser",
+      "source_effect_sentence": "Antioxidanty a podpora spalování.",
+      "exact_english_translation": "Antioxidants and fat burning support.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti.",
+      "exact_english_translation": "A tropical plant native to Asia that has been used for centuries to promote a feeling of fullness.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+      "exact_english_translation": "Its key active ingredient is hydroxycitric acid (HCA), which improves digestion, reduces appetite and also supports fat burning.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Látka, která se přirozeně nachází a vytváří v našem těle.",
+      "exact_english_translation": "A substance that occurs naturally and is produced in our bodies.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost.",
+      "exact_english_translation": "Its main function is to retain water, hydrating tissues and maintaining sufficient moisture within them.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Pomáhá vyživovat pokožku, která je poté zdravější a pružnější.",
+      "exact_english_translation": "It helps nourish the skin, making it healthier and more elastic.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti.",
+      "exact_english_translation": "In this way, it limits wrinkle formation and helps the skin regenerate and rejuvenate overall.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+      "exact_english_translation": "It effectively helps with wound healing and joint pain, improving joint mobility.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Bromelain s papainem je unikátní kombinací dvou enzymů, které se nachází v ananasu a papáje.",
+      "exact_english_translation": "Bromelain and papain are a unique combination of two enzymes found in pineapple and papaya.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci.",
+      "exact_english_translation": "Both have a positive effect on digestion and influence protein breakdown, which is particularly appreciated by athletes.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+      "exact_english_translation": "The zinc in the formula plays a role in cell division, contributes to normal metabolism and protects cells from free radicals.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému.",
+      "exact_english_translation": "B vitamins are essential for normal metabolism and nervous system function.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití.",
+      "exact_english_translation": "They also enable the absorption of substances and help the body make better use of them.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+      "exact_english_translation": "Vitamins B2, B3 and B5 contribute to the reduction of tiredness and fatigue, while vitamins B2 and B3 maintain normal skin and mucous membranes.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy.",
+      "exact_english_translation": "Vitamin C is important for the formation of new collagen, has a positive effect on the immune system, and contributes to the protection and formation of new cells, better recovery and reduced tiredness.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+      "exact_english_translation": "Vitamin E is a very powerful antioxidant, is important for a number of oxidation-reduction processes and stabilises certain hormones.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům.",
+      "exact_english_translation": "It contains antioxidants and helps fight free radicals.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Podporuje zdravý zrak a snižuje riziko srdečních onemocnění.",
+      "exact_english_translation": "It supports healthy vision and reduces the risk of heart disease.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p",
+      "source_effect_sentence": "Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+      "exact_english_translation": "The effects of green tea enable calorie burning, contribute to dopamine production and support productivity.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Bez lepku",
+      "exact_english_translation": "Gluten-free",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Bez GMO",
+      "exact_english_translation": "GMO-free",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Bez přídatných látek",
+      "exact_english_translation": "Additive-free",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Bez laktózy",
+      "exact_english_translation": "Lactose-free",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "location": "p-card-p",
+      "source_effect_sentence": "Bez cukru",
+      "exact_english_translation": "Sugar-free",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "maly-popis",
+      "source_effect_sentence": "Slim Extreme Collagen je silný a účinný spalovač tuků v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo.",
+      "exact_english_translation": "Slim Extreme Collagen is a powerful and effective fat burner in the form of a refreshing weight loss drink that also harnesses the positive effects of premium collagen peptides on your body.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "maly-popis",
+      "source_effect_sentence": "Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem.",
+      "exact_english_translation": "Developed for anyone seeking support on the journey towards a healthier body.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "maly-popis",
+      "source_effect_sentence": "Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+      "exact_english_translation": "Discover a combination of premium, patented collagen peptides Verisol® and Peptiplus® that, together with the weight loss power of pineapple, natural enzymes and other unique ingredients, support fast and effective fat burning.",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "div",
+      "source_effect_sentence": "Podpora hubnutí",
+      "exact_english_translation": "Weight loss support",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "div",
+      "source_effect_sentence": "Spalování tuků",
+      "exact_english_translation": "Fat burning",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "div",
+      "source_effect_sentence": "Redukce celulitidy",
+      "exact_english_translation": "Cellulite reduction",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "div",
+      "source_effect_sentence": "Redukce vrásek",
+      "exact_english_translation": "Wrinkle reduction",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    },
+    {
+      "source_file": "source/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly.html",
+      "output_file": "out/web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "location": "div",
+      "source_effect_sentence": "Vyrobeno v ČR",
+      "exact_english_translation": "Made in the Czech Republic",
+      "needs_claim_review": true,
+      "review_note": "Inherited working copy only; no legal or health-claim approval asserted. Includes contextual/benefit fragments for comprehensive review."
+    }
+  ],
+  "limits": [
+    "No live publication, commit, push, network, credentials or external writes. Czech and all other languages untouched.",
+    "Static structure/resource/logic/numeric checks and node --check only. Parent must perform browser/runtime/layout/dialog/ambient-background verification and any legal approval.",
+    "No independent product-formulation or health-claim register validation; inherited content is not legally cleared."
+  ]
+}

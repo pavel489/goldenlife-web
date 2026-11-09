@@ -1,0 +1,12 @@
+{
+  "languages": 3,
+  "scenario_count": 72,
+  "pass_count": 72,
+  "expected": 72,
+  "pointer_dialog_cycles": 72,
+  "mobile_toggle_cycles": 6,
+  "JS_errors": [],
+  "external_requests": [],
+  "failures": [],
+  "scope": "Actual delivered localized product scripts/CSS with authentic embedded assets; gallery initialization marked ready and native price hidden only in offline harness. No live CMS save or cart transaction."
+}
