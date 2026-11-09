@@ -1,0 +1,17 @@
+{
+  "products": 14,
+  "scenario_count": 168,
+  "pass_count": 168,
+  "dark_contrast_scenarios": 84,
+  "geometry_pass_count": 168,
+  "pointer_dialogs": 364,
+  "toggle_cycles": 92,
+  "native_detail_cycles": 32,
+  "light_pixel_and_palette_checks": 42,
+  "light_unchanged": true,
+  "no_JS_products": 14,
+  "no_JS_pass": true,
+  "JS_errors": [],
+  "external_requests": [],
+  "failures": []
+}

@@ -100,3 +100,127 @@
 :where([data-gl-theme="beauty-longevity"][data-gl-product-id="544"][data-gl-layout="woman-hormonal-balance-short"]) .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:5px}
 :where([data-gl-theme="beauty-longevity"][data-gl-product-id="544"][data-gl-layout="woman-hormonal-balance-short"]) .maly-ikony>div{overflow-wrap:anywhere;font-size:11px;line-height:1.3}
 :where([data-gl-theme="beauty-longevity"][data-gl-product-id="544"][data-gl-layout="woman-hormonal-balance-short"]) .maly-produkt-info>span{white-space:normal;min-width:0;flex-wrap:wrap}
+
+/* GOLDIE SYSTEM DARK START — proposed UI tints; original light palette preserved. */
+@media (prefers-color-scheme:dark){
+:where([data-gl-theme="beauty-longevity"]){
+  color-scheme:dark;
+  color:#f4eff4;
+  background-color:#19171d;
+  --gl-dark-source-primary:#bf1818;
+  --gl-dark-bg:#19171d;
+  --gl-dark-surface:#25212b;
+  --gl-dark-raised:#302a36;
+  --gl-dark-text:#f4eff4;
+  --gl-dark-muted:#d3c6d1;
+  --gl-dark-border:#9d8e9e;
+  --gl-dark-on-accent:#1b151d;
+  --gl-color-bg-grey:#302a36;
+  --gl-color-bg-light:#25212b;
+  --gl-color-bg-light-rgb:37,33,43;
+  --gl-color-primary:#e7a7a7;
+  --gl-color-primary-hover:#edbebe;
+  --gl-color-primary-rgb:231,167,167;
+  --gl-color-success:#93e1b6;
+  --gl-color-table-bg:#25212b;
+  --gl-color-table-border:#9d8e9e;
+  --gl-color-table-row-alt:#302a36;
+  --gl-color-text-muted:#d3c6d1;
+  --gl-color-text-subtle:#d3c6d1;
+  --gl-icon-filter:brightness(0) invert(1);
+  --gl-tone-beauty-nad-doza-short-maly-hr-border-1:#9d8e9e;
+  --gl-tone-beauty-nad-doza-short-maly-popis-color-1:#f4eff4;
+  --gl-tone-beauty-nad-doza-short-maly-produkt-background-1:#25212b;
+  --gl-tone-beauty-nad-doza-short-maly-produkt-info-color-1:#f4eff4;
+  --gl-tone-beauty-nad-doza-short-maly-produkt-nazev-color-1:var(--gl-color-primary);
+  --gl-tone-btn-s-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-btn-s-color-1:#1b151d;
+  --gl-tone-cta-box-background-1:#25212b;
+  --gl-tone-cta-box-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-cta-button-color-1:#1b151d;
+  --gl-tone-cta-button-hover-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-cta-button-hover-color-1:#1b151d;
+  --gl-tone-doza-photo-pending-background-1:#25212b;
+  --gl-tone-doza-photo-pending-border-1:#9d8e9e;
+  --gl-tone-doza-photo-pending-color-1:#f4eff4;
+  --gl-tone-doza-safety-background-1:#25212b;
+  --gl-tone-hero-img-background-1:#25212b;
+  --gl-tone-inline-btn-s-nad-btn-stud-1-color-1:#1b151d;
+  --gl-tone-latky-grid-4-latky-swipe-scrollbar-color-1:var(--gl-color-primary);
+  --gl-tone-latky-grid-4-latky-swipe-webkit-scrollbar-track-background-1:#25212b;
+  --gl-tone-latky-modal-backdrop-background-1:rgba(0,0,0,.78);
+  --gl-tone-latky-modal-box-background-1:#25212b;
+  --gl-tone-latky-modal-box-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-modal-close-background-1:#25212b;
+  --gl-tone-latky-modal-close-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-plus-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-plus-color-1:#1b151d;
+  --gl-tone-nad-banner-background-color-1:#25212b;
+  --gl-tone-nad-banner-background-image-1:#25212b;
+  --gl-tone-nad-banner-background-image-2:#302a36;
+  --gl-tone-nad-banner-background-image-3:#25212b;
+  --gl-tone-nad-banner-border-1:#9d8e9e;
+  --gl-tone-nad-banner-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-nad-banner-color-1:#f4eff4;
+  --gl-tone-nad-btn-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-nad-btn-color-1:#1b151d;
+  --gl-tone-nad-dose-label-color-1:#f4eff4;
+  --gl-tone-nad-dose-sub-color-1:#f4eff4;
+  --gl-tone-nad-feature-color-1:#f4eff4;
+  --gl-tone-nad-feature-nad-feature-border-left-1:#9d8e9e;
+  --gl-tone-nad-ico-background-1:#25212b;
+  --gl-tone-nad-info-border-1:#9d8e9e;
+  --gl-tone-nad-info-p-color-1:#f4eff4;
+  --gl-tone-nad-tagline-color-1:#f4eff4;
+  --gl-tone-p-icon-card-background-1:#25212b;
+  --gl-tone-p-icon-card-border-1:#9d8e9e;
+  --gl-tone-p-icon-card-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-p-icon-card-hover-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-reg-area-background-image-1:url("data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20400'%20preserveAspectRatio='none'%3E%3Cpath%20d='M0,398%20C140,150%20270,72%20440,60%20C630,46%20810,43%201000,42'%20fill='none'%20stroke='%23e7a7a7'%20stroke-width='16'%20opacity='0.22'%20stroke-linecap='round'/%3E%3Cpath%20d='M0,398%20C140,150%20270,72%20440,60%20C630,46%20810,43%201000,42'%20fill='none'%20stroke='%23e7a7a7'%20stroke-width='5'%20stroke-linecap='round'/%3E%3Cg%20fill='%23e7a7a7'%20stroke='%23ffffff'%20stroke-width='3'%3E%3Ccircle%20cx='270'%20cy='105'%20r='10'/%3E%3Ccircle%20cx='480'%20cy='62'%20r='10'/%3E%3Ccircle%20cx='700'%20cy='48'%20r='10'/%3E%3Ccircle%20cx='905'%20cy='43'%20r='10'/%3E%3C/g%3E%3C/svg%3E");
+  --gl-tone-reg-banner-background-1:#25212b;
+  --gl-tone-reg-banner-background-2:#302a36;
+  --gl-tone-reg-banner-background-3:#25212b;
+  --gl-tone-reg-banner-border-1:#9d8e9e;
+  --gl-tone-reg-banner-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-reg-banner-color-1:#f4eff4;
+  --gl-tone-reg-footnote-color-1:#f4eff4;
+  --gl-tone-reg-note-p-color-1:#f4eff4;
+  --gl-tone-reg-title-color-1:#f4eff4;
+  --gl-tone-reg-xticks-color-1:#f4eff4;
+  --gl-tone-reg-yaxis-color-1:#f4eff4;
+  --gl-tone-ruzovatabulka-tabulka-tr-first-child-th-color-1:#1b151d;
+  --gl-tone-ucinky-item-border-1:#9d8e9e;
+  --gl-tone-ucinky-item-hover-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-data-gl-mobile-active-cta-product-img-background-1:#f5f1f4;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-color-1:#f4eff4;
+  --gl-tone-data-gl-mobile-active-cta-text-h3-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-gl-mobile-intro-not-is-expanded-after-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-gl-mobile-toggle-background-1:#25212b;
+  --gl-tone-maly-hr-background-1:#25212b;
+  --gl-tone-maly-ikony-div-color-1:var(--gl-color-primary);
+  --gl-tone-maly-produkt-background-1:#25212b;
+  --gl-tone-maly-produkt-info-color-1:#f4eff4;
+  --gl-tone-maly-produkt-nazev-color-1:var(--gl-color-primary);
+}
+:where([data-gl-theme="beauty-longevity"]) :is(.product-container,.nad-content,.latky-modal-box,.latky,.story-block-text,.cta-text,.gl-faq,.faq-section,.maly-popis){color:var(--gl-dark-text);}
+:where([data-gl-theme="beauty-longevity"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="beauty-longevity"]) :is(.latky-modal-close,.gl-mobile-toggle){border:1px solid var(--gl-dark-border);}
+:where([data-gl-theme="beauty-longevity"]) :is(a,button,summary,[tabindex]):focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:3px;box-shadow:0 0 0 3px var(--gl-dark-bg),0 0 0 6px var(--gl-color-primary);}
+:where([data-gl-theme="beauty-longevity"]) :is(.cta-availability,.cta-status,.gl-cart-message){color:var(--gl-dark-muted);}
+:where([data-gl-theme="beauty-longevity"]) :is(.gl-error,.is-error,[role="alert"]){color:#ffc2c6;}
+:where([data-gl-theme="beauty-longevity"]) :is(.cta-product-img,.nad-mol){background-color:#f5f1f4;border-radius:12px;}
+:where([data-gl-theme="beauty-longevity"]) :is(.gl-draft-note,.doza-safety){color:var(--gl-dark-text);}
+:where([data-gl-theme="beauty-longevity"]) .nad-banner{background-image:linear-gradient(135deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="beauty-longevity"]) .hero-img{background:linear-gradient(145deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;}
+:where([data-gl-theme="beauty-longevity"]) .p-icon-card{background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);}
+:where([data-gl-theme="beauty-longevity"]) .cta-box{background:var(--gl-dark-surface)!important;}
+:where([data-gl-theme="beauty-longevity"]) .nad-title{color:var(--gl-color-primary)!important;}
+:where([data-gl-theme="beauty-longevity"]) :is(.nad-dose-sub,.nad-dose-label,.nad-feature,.nad-tagline,.nad-info p){color:var(--gl-dark-text)!important;}
+:where([data-gl-theme="beauty-longevity"]) :is(th){background-color:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="beauty-longevity"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){background:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="beauty-longevity"]) .gl-history{background:#332a21!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="beauty-longevity"]) .gl-history :is(p,span,div,summary){color:var(--gl-dark-text)!important;}
+:is(#special-popis,#nad-popis)[data-gl-theme="beauty-longevity"] .gl-mobile-toggle{background:var(--gl-dark-surface)!important;color:var(--gl-color-primary)!important;border-color:var(--gl-dark-border)!important;}
+}
+/* GOLDIE SYSTEM DARK END */

@@ -1,0 +1,136 @@
+{
+  "syntax": [
+    {
+      "id": "351",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-star.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "79748d48d03d1ee7bb9e2d135997401bb09197058c5383da12ef58071b122124",
+      "output_SHA256": "54e35befa93aa8d33339d96983c2927eddd180caf95f94205a302b8d3e066d04"
+    },
+    {
+      "id": "383",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "c47a20dd2b441e183d0bde88c222528abd3da8a9de3b5a551390b1ee79efda54",
+      "output_SHA256": "f5d8b8dd76b498e6f7162aeadba282ef48c2decf9fb8deef1d7cb07c8d84cf44"
+    },
+    {
+      "id": "544",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "d04b28bf6b5615140d3e51bd821efd1249c553839ab4728df6ff6c8b8ac8f5b4",
+      "output_SHA256": "83fd1a34b4b91752f7383044de411e64e4e170f420f7f7231a6e3b677992779e"
+    },
+    {
+      "id": "644",
+      "path": "user/documents/upload/css/golden-life-barvy-woman-hormonal-balance.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "f6e9d2384f49775ac24eaaaefea52e795d716263638254d30dc235956202c37e",
+      "output_SHA256": "fdb87d8f860ae7f3909d38a0871b6c0693739f3d997679c1b7de7464c287dac1"
+    },
+    {
+      "id": "635",
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "59ce3b62812e1fc2bdfa3f1d85467a79456fb537976dddca7e4c098f0946efcf",
+      "output_SHA256": "1c8cec8848be1a3b31efdecdd98e2358d98baae7f277c7ef904982794239f64c"
+    },
+    {
+      "id": "641",
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "314f660a825582553065afb04d3777b974f855d329951efa6886632755634bc7",
+      "output_SHA256": "a4b850678d8168c9abe9f8b2b78fda4350b04b68db03f0dd2c176659eacada6b"
+    },
+    {
+      "id": "550",
+      "path": "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "0a9e0c2dc57e4fb964735622581cfdba544ea2c659336cc465183e08072bbca7",
+      "output_SHA256": "c55544343c29b20eb17f9881f2e0fd9403a7e807ed34dd90838d35f6fda8e9f9"
+    },
+    {
+      "id": "600",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "5543d9078bf74fe6024e8689dfea933ca05a36e4397f85e32a8f030a7df15325",
+      "output_SHA256": "6a9dcc31ad720c2bc139cf4e03f42e70b1f33f83748d17160c7321e1bba6eef2"
+    },
+    {
+      "id": "168",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "a5e62e4a55d8df662268c00a2e368c110209a0fc6bc7f6594644eb5e4883d4d6",
+      "output_SHA256": "06557ba4524e584e79308bd222f4f3177ee4e0e61d297696c48de338638d8467"
+    },
+    {
+      "id": "473",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "910e6360ecf5c18f49d751ab873022fc1595c6cdc62d199c08b3becc2151247f",
+      "output_SHA256": "aa418da53f9c686ad68a98b8d6624e19829d79ed89833310609780e3a59c97c7"
+    },
+    {
+      "id": "476",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "aba39412dbb4f7ade325f123806b474e1d227581300a7dc66911801c47890f70",
+      "output_SHA256": "71f68c95a22c53ccc2898fccc715bf3b1e6f044df022f0c59fcf005bfb02489b"
+    },
+    {
+      "id": "416",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "49bd888441c0447974b9b3994d550e482c0d773695a0dbf5ab64238d1db9b1c1",
+      "output_SHA256": "928e71d1efa777907349c610b8640c7a57954cf92d49ca8febfd567b38b951d7"
+    },
+    {
+      "id": "464",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "be7d503f56d6ef71e9c2da74b0976bac970bb66018379c046fa5baac7e934b96",
+      "output_SHA256": "1883ecbe8ead7b18063294eb5226602224c6d764d4589ee34f30494267057b05"
+    },
+    {
+      "id": "467",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css",
+      "append_only": true,
+      "only_system_dark_media": true,
+      "source_SHA256": "ba52e04aa93c84a1a709814fc75d57b370728109991e6bd6ef87fca246824101",
+      "output_SHA256": "52e67a843822402de20a97bfd2ec965d0cf7055a3dd88476d23ac756a67708a3"
+    }
+  ],
+  "syntax_errors": [],
+  "original_theme_prefixes_preserved": 14,
+  "shared_framework_changed": false,
+  "production_HTML_changed": 0,
+  "source_commit": "72b07636ac837563428b7673ec82b628f6c3a59c",
+  "tested_dark_contrast_states": 342,
+  "dark_text_node_evaluations": 31123,
+  "image_backed_text_evaluations_not_photographically_certified": 44,
+  "dark_contrast_failures": 0,
+  "photo_sources_and_no_inversion_cases": 84,
+  "actual_light_pixel_checks": 28,
+  "light_palette_roundtrips": 14,
+  "all_light_checks_unchanged": true,
+  "no_global_leak_to_other_brand": {
+    "color": "rgb(0, 0, 0)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "bodyBg": "rgba(0, 0, 0, 0)",
+    "bodyScheme": "normal"
+  },
+  "scope": "CSS contrast screening with alpha/gradient samples; image-backed text, current shop/Safari and complete WCAG certification remain unverified."
+}
