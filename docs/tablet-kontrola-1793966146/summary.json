@@ -1,0 +1,427 @@
+{
+  "products": 14,
+  "ids": [
+    "168",
+    "351",
+    "383",
+    "416",
+    "464",
+    "467",
+    "473",
+    "476",
+    "544",
+    "550",
+    "600",
+    "635",
+    "641",
+    "644"
+  ],
+  "light_scenarios": 56,
+  "light_pass": 54,
+  "dark_scenarios": 14,
+  "dark_palette_changed": 0,
+  "roundtrip_products": 14,
+  "roundtrip_pass": 12,
+  "pointer_dialogs": 364,
+  "pointer_dialog_pass": 364,
+  "js_errors": 0,
+  "external_request_events": 0,
+  "failed": [
+    {
+      "id": "635",
+      "scheme": "light",
+      "viewport": [
+        820,
+        1180
+      ],
+      "error": null,
+      "metrics": {
+        "viewport": [
+          820,
+          1180
+        ],
+        "systemDark": false,
+        "rootOverflow": 0,
+        "shortOverflow": 0,
+        "shortWidth": 440,
+        "tableTextOverflow": [],
+        "banners": [
+          {
+            "width": 790,
+            "overflow": 6
+          }
+        ],
+        "shortLabelOverflow": [],
+        "palette": [
+          {
+            "bg": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgb(251, 238, 241)",
+            "color": "rgb(47, 35, 35)",
+            "image": "linear-gradient(135deg, rgb(251, 238, 241) 0%, rgb(255, 246, 248) 55%, rgb(251, 233, 233) 100%)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(85, 85, 85)",
+            "image": "none"
+          }
+        ],
+        "brokenImages": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "mobileToggles": []
+      }
+    },
+    {
+      "id": "635",
+      "scheme": "dark",
+      "viewport": [
+        820,
+        1180
+      ],
+      "error": null,
+      "metrics": {
+        "viewport": [
+          820,
+          1180
+        ],
+        "systemDark": true,
+        "rootOverflow": 0,
+        "shortOverflow": 0,
+        "shortWidth": 440,
+        "tableTextOverflow": [],
+        "banners": [
+          {
+            "width": 790,
+            "overflow": 6
+          }
+        ],
+        "shortLabelOverflow": [],
+        "palette": [
+          {
+            "bg": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgb(251, 238, 241)",
+            "color": "rgb(47, 35, 35)",
+            "image": "linear-gradient(135deg, rgb(251, 238, 241) 0%, rgb(255, 246, 248) 55%, rgb(251, 233, 233) 100%)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(85, 85, 85)",
+            "image": "none"
+          }
+        ],
+        "brokenImages": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "mobileToggles": []
+      }
+    },
+    {
+      "id": "641",
+      "scheme": "light",
+      "viewport": [
+        820,
+        1180
+      ],
+      "error": null,
+      "metrics": {
+        "viewport": [
+          820,
+          1180
+        ],
+        "systemDark": false,
+        "rootOverflow": 0,
+        "shortOverflow": 0,
+        "shortWidth": 440,
+        "tableTextOverflow": [],
+        "banners": [
+          {
+            "width": 790,
+            "overflow": 6
+          }
+        ],
+        "shortLabelOverflow": [],
+        "palette": [
+          {
+            "bg": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgb(251, 238, 241)",
+            "color": "rgb(47, 35, 35)",
+            "image": "linear-gradient(135deg, rgb(251, 238, 241) 0%, rgb(255, 246, 248) 55%, rgb(251, 233, 233) 100%)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(85, 85, 85)",
+            "image": "none"
+          }
+        ],
+        "brokenImages": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "mobileToggles": []
+      }
+    },
+    {
+      "id": "641",
+      "scheme": "dark",
+      "viewport": [
+        820,
+        1180
+      ],
+      "error": null,
+      "metrics": {
+        "viewport": [
+          820,
+          1180
+        ],
+        "systemDark": true,
+        "rootOverflow": 0,
+        "shortOverflow": 0,
+        "shortWidth": 440,
+        "tableTextOverflow": [],
+        "banners": [
+          {
+            "width": 790,
+            "overflow": 6
+          }
+        ],
+        "shortLabelOverflow": [],
+        "palette": [
+          {
+            "bg": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgb(251, 238, 241)",
+            "color": "rgb(47, 35, 35)",
+            "image": "linear-gradient(135deg, rgb(251, 238, 241) 0%, rgb(255, 246, 248) 55%, rgb(251, 233, 233) 100%)"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "image": "none"
+          },
+          {
+            "bg": "rgba(0, 0, 0, 0)",
+            "color": "rgb(85, 85, 85)",
+            "image": "none"
+          }
+        ],
+        "brokenImages": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "mobileToggles": []
+      }
+    }
+  ]
+}
