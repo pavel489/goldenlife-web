@@ -1,0 +1,3589 @@
+{
+  "language": "sk",
+  "status": "INTERNAL FAITHFUL TRANSLATION — NOT PUBLICATION APPROVAL",
+  "source_commit": "95f3ff9e3ce421f4918c241a7e43fe4a8541c4d7",
+  "product_source": "/root/workspace/brand/product/slim-sos-fat-burner/info.md",
+  "source_approved_efsa_wording": null,
+  "not_allowed_file": "/root/workspace/brand/NOT-ALLOWED.md not present; do not infer legal approval",
+  "effect_claim_entries": 129,
+  "review_method": "Effect-by-effect decomposition of each source sentence and paired SK sentence/fragment, with all inventory occurrence references. Repetition across captions/alt/teasers/body is retained. Alternatives are proposals only and are not inserted into the faithful draft. Nutrient quantities in alternatives inherit the source and require verification.",
+  "numeric_conflict": "Git: 0,55 mcg and 1,11 mcg for chromium; historical brand source: 0,55 mg and 1,11 mg. Git values/units preserved exactly, NO conversion or factual resolution performed. No chromium claim is treated as approved.",
+  "source_warning_conflict": "Git dose instruction: ideally before or after a fattier meal. Brand snapshot: ideally before/with meal. Faithful Git instruction preserved, needs owner/product review.",
+  "mandatory_copy": "Complete Slovak supplement disclaimer retained in long files and added as a separately inventoried paragraph in short files; allergen and pregnancy/child/nursing warnings translated, not omitted.",
+  "addressing": "Slovak vykání for source runtime/CTA/FAQ singular imperatives; no product effect replaced.",
+  "pack_scope": "473: 60 capsules/30 days; 573: 2 × 60 capsules/60 days; daily dose remains 2 capsules in both. Double is not a doubled daily dose.",
+  "rows": [
+    {
+      "id": "SK-001",
+      "source_text_index": 3,
+      "sentence_index": 0,
+      "source_sentence_cz": "Chitosan, bílé fazole, červená řepa, jablečný ocet a chrom pro podporu trávení a kontrolu hmotnosti.",
+      "translated_sentence_sk": "Chitosan, biela fazuľa, červená repa, jablčný ocot a chróm na podporu trávenia a kontrolu hmotnosti.",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1287
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 850
+        }
+      ]
+    },
+    {
+      "id": "SK-002",
+      "source_text_index": 3,
+      "sentence_index": 0,
+      "source_sentence_cz": "Chitosan, bílé fazole, červená řepa, jablečný ocet a chrom pro podporu trávení a kontrolu hmotnosti.",
+      "translated_sentence_sk": "Chitosan, biela fazuľa, červená repa, jablčný ocot a chróm na podporu trávenia a kontrolu hmotnosti.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1287
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 850
+        }
+      ]
+    },
+    {
+      "id": "SK-003",
+      "source_text_index": 13,
+      "sentence_index": 0,
+      "source_sentence_cz": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\".",
+      "translated_sentence_sk": "Chitosan je prírodná vláknina získaná z kôrovcov, ktorá pôsobí ako účinný „lapač tukov“.",
+      "individual_effect_cz": "Lapač / vazba tuků",
+      "individual_effect_sk": "Lapač / viazanie tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chitosan je zložka získavaná z kôrovcov.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-004",
+      "source_text_index": 13,
+      "sentence_index": 1,
+      "source_sentence_cz": "Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání.",
+      "translated_sentence_sk": "Viaže na seba tuky a cholesterolové látky v tráviacom trakte a bráni ich vstrebávaniu.",
+      "individual_effect_cz": "Lapač / vazba tuků",
+      "individual_effect_sk": "Lapač / viazanie tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chitosan je zložka získavaná z kôrovcov.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-005",
+      "source_text_index": 13,
+      "sentence_index": 1,
+      "source_sentence_cz": "Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání.",
+      "translated_sentence_sk": "Viaže na seba tuky a cholesterolové látky v tráviacom trakte a bráni ich vstrebávaniu.",
+      "individual_effect_cz": "Vazba cholesterolových látek",
+      "individual_effect_sk": "Viazanie cholesterolových látok",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Obsahuje chitosan z kôrovcov; nejde o výrobok pre osoby alergické na kôrovce.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-006",
+      "source_text_index": 13,
+      "sentence_index": 1,
+      "source_sentence_cz": "Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání.",
+      "translated_sentence_sk": "Viaže na seba tuky a cholesterolové látky v tráviacom trakte a bráni ich vstrebávaniu.",
+      "individual_effect_cz": "Blokování vstřebávání tuků",
+      "individual_effect_sk": "Blokovanie vstrebávania tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 600 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-007",
+      "source_text_index": 13,
+      "sentence_index": 1,
+      "source_sentence_cz": "Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání.",
+      "translated_sentence_sk": "Viaže na seba tuky a cholesterolové látky v tráviacom trakte a bráni ich vstrebávaniu.",
+      "individual_effect_cz": "Bránění vstřebávání cholesterolových látek",
+      "individual_effect_sk": "Bránenie vstrebávaniu cholesterolových látok",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chitosan je uvedený v tabuľke zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-008",
+      "source_text_index": 13,
+      "sentence_index": 2,
+      "source_sentence_cz": "Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu.",
+      "translated_sentence_sk": "Pomáha tak znížiť príjem kalórií, podporiť redukciu hmotnosti a udržať zdravú hladinu cholesterolu.",
+      "individual_effect_cz": "Nižší příjem / vstřebání kalorií",
+      "individual_effect_sk": "Nižší príjem / vstrebávanie kalórií",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Zloženie kapsúl je uvedené v tabuľke.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-009",
+      "source_text_index": 13,
+      "sentence_index": 2,
+      "source_sentence_cz": "Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu.",
+      "translated_sentence_sk": "Pomáha tak znížiť príjem kalórií, podporiť redukciu hmotnosti a udržať zdravú hladinu cholesterolu.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-010",
+      "source_text_index": 13,
+      "sentence_index": 2,
+      "source_sentence_cz": "Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu.",
+      "translated_sentence_sk": "Pomáha tak znížiť príjem kalórií, podporiť redukciu hmotnosti a udržať zdravú hladinu cholesterolu.",
+      "individual_effect_cz": "Zdravá hladina cholesterolu",
+      "individual_effect_sk": "Zdravá hladina cholesterolu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje chitosan.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-011",
+      "source_text_index": 13,
+      "sentence_index": 3,
+      "source_sentence_cz": "Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+      "translated_sentence_sk": "Vďaka svojej jedinečnej schopnosti tvoriť gél v žalúdku navyše predlžuje pocit sýtosti a zlepšuje kontrolu nad jedálnym lístkom.",
+      "individual_effect_cz": "Tvorba gelu v žaludku jako mechanismus účinku",
+      "individual_effect_sk": "Tvorba gélu v žalúdku ako mechanizmus účinku",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chitosan je zložkou prípravku.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-012",
+      "source_text_index": 13,
+      "sentence_index": 3,
+      "source_sentence_cz": "Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+      "translated_sentence_sk": "Vďaka svojej jedinečnej schopnosti tvoriť gél v žalúdku navyše predlžuje pocit sýtosti a zlepšuje kontrolu nad jedálnym lístkom.",
+      "individual_effect_cz": "Prodloužení pocitu sytosti",
+      "individual_effect_sk": "Predĺženie pocitu sýtosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jedna kapsula obsahuje 300 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-013",
+      "source_text_index": 13,
+      "sentence_index": 3,
+      "source_sentence_cz": "Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+      "translated_sentence_sk": "Vďaka svojej jedinečnej schopnosti tvoriť gél v žalúdku navyše predlžuje pocit sýtosti a zlepšuje kontrolu nad jedálnym lístkom.",
+      "individual_effect_cz": "Kontrola jídelníčku",
+      "individual_effect_sk": "Kontrola jedálneho lístka",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok nenahrádza pestrú a vyváženú stravu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1991
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10873
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1558
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 10722
+        }
+      ]
+    },
+    {
+      "id": "SK-014",
+      "source_text_index": 18,
+      "sentence_index": 0,
+      "source_sentence_cz": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus.",
+      "translated_sentence_sk": "Slim SOS Fat Burner je ideálnym pomocníkom pri redukcii hmotnosti aj v bežnom životnom štýle, keď chcete podporiť trávenie a metabolizmus.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2614
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2437
+        }
+      ]
+    },
+    {
+      "id": "SK-015",
+      "source_text_index": 18,
+      "sentence_index": 0,
+      "source_sentence_cz": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus.",
+      "translated_sentence_sk": "Slim SOS Fat Burner je ideálnym pomocníkom pri redukcii hmotnosti aj v bežnom životnom štýle, keď chcete podporiť trávenie a metabolizmus.",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2614
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2437
+        }
+      ]
+    },
+    {
+      "id": "SK-016",
+      "source_text_index": 18,
+      "sentence_index": 0,
+      "source_sentence_cz": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus.",
+      "translated_sentence_sk": "Slim SOS Fat Burner je ideálnym pomocníkom pri redukcii hmotnosti aj v bežnom životnom štýle, keď chcete podporiť trávenie a metabolizmus.",
+      "individual_effect_cz": "Podpora / rovnováha metabolismu",
+      "individual_effect_sk": "Podpora / rovnováha metabolizmu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm je súčasťou zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2614
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2437
+        }
+      ]
+    },
+    {
+      "id": "SK-017",
+      "source_text_index": 18,
+      "sentence_index": 1,
+      "source_sentence_cz": "Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+      "translated_sentence_sk": "Kombinácia chitosanu, extraktu z bielej fazule, červenej repy, jablčného octu a chrómu prináša komplexnú podporu – od blokovania tukov a sacharidov až po zvýšenie vitality a udržanie stabilnej hladiny cukru v krvi.",
+      "individual_effect_cz": "Blokování vstřebávání tuků",
+      "individual_effect_sk": "Blokovanie vstrebávania tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 600 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2614
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2437
+        }
+      ]
+    },
+    {
+      "id": "SK-018",
+      "source_text_index": 18,
+      "sentence_index": 1,
+      "source_sentence_cz": "Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+      "translated_sentence_sk": "Kombinácia chitosanu, extraktu z bielej fazule, červenej repy, jablčného octu a chrómu prináša komplexnú podporu – od blokovania tukov a sacharidov až po zvýšenie vitality a udržanie stabilnej hladiny cukru v krvi.",
+      "individual_effect_cz": "Blokace sacharidů",
+      "individual_effect_sk": "Blokovanie sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje extrakt z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2614
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2437
+        }
+      ]
+    },
+    {
+      "id": "SK-019",
+      "source_text_index": 18,
+      "sentence_index": 1,
+      "source_sentence_cz": "Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+      "translated_sentence_sk": "Kombinácia chitosanu, extraktu z bielej fazule, červenej repy, jablčného octu a chrómu prináša komplexnú podporu – od blokovania tukov a sacharidov až po zvýšenie vitality a udržanie stabilnej hladiny cukru v krvi.",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2614
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2437
+        }
+      ]
+    },
+    {
+      "id": "SK-020",
+      "source_text_index": 18,
+      "sentence_index": 1,
+      "source_sentence_cz": "Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+      "translated_sentence_sk": "Kombinácia chitosanu, extraktu z bielej fazule, červenej repy, jablčného octu a chrómu prináša komplexnú podporu – od blokovania tukov a sacharidov až po zvýšenie vitality a udržanie stabilnej hladiny cukru v krvi.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2614
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 2437
+        }
+      ]
+    },
+    {
+      "id": "SK-021",
+      "source_text_index": 23,
+      "sentence_index": 0,
+      "source_sentence_cz": "Hlavní účinky Slim SOS Fat Burner",
+      "translated_sentence_sk": "Hlavné účinky Slim SOS Fat Burner",
+      "individual_effect_cz": "Nadpis / rámování očekávaných účinků produktu",
+      "individual_effect_sk": "Nadpis / rámcovanie očakávaných účinkov produktu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prehľad zložiek prípravku.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "h2",
+          "source_start": 3139
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "h2",
+          "source_start": 2966
+        }
+      ]
+    },
+    {
+      "id": "SK-022",
+      "source_text_index": 24,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokuje tuky a sacharidy",
+      "translated_sentence_sk": "Blokuje tuky a sacharidy",
+      "individual_effect_cz": "Blokování vstřebávání tuků",
+      "individual_effect_sk": "Blokovanie vstrebávania tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 600 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 3769
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 3611
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1377
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1116
+        }
+      ]
+    },
+    {
+      "id": "SK-023",
+      "source_text_index": 24,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokuje tuky a sacharidy",
+      "translated_sentence_sk": "Blokuje tuky a sacharidy",
+      "individual_effect_cz": "Blokace sacharidů",
+      "individual_effect_sk": "Blokovanie sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje extrakt z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 3769
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 3611
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1377
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1116
+        }
+      ]
+    },
+    {
+      "id": "SK-024",
+      "source_text_index": 25,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podporuje trávení",
+      "translated_sentence_sk": "Podporuje trávenie",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4060
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 3902
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1674
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 1909
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1413
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 1648
+        }
+      ]
+    },
+    {
+      "id": "SK-025",
+      "source_text_index": 26,
+      "sentence_index": 0,
+      "source_sentence_cz": "Dodává vitalitu a energii",
+      "translated_sentence_sk": "Dodáva vitalitu a energiu",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4342
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4184
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 2243
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1982
+        }
+      ]
+    },
+    {
+      "id": "SK-026",
+      "source_text_index": 26,
+      "sentence_index": 0,
+      "source_sentence_cz": "Dodává vitalitu a energii",
+      "translated_sentence_sk": "Dodáva vitalitu a energiu",
+      "individual_effect_cz": "Dodání / podpora energie",
+      "individual_effect_sk": "Dodanie / podpora energie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok kombinuje chitosan, extrakt z bielej fazule, červenú repu, jablčný ocot a chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4342
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4184
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 2243
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1982
+        }
+      ]
+    },
+    {
+      "id": "SK-027",
+      "source_text_index": 27,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora imunity",
+      "translated_sentence_sk": "Podpora imunity",
+      "individual_effect_cz": "Podpora imunity",
+      "individual_effect_sk": "Podpora imunity",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje červenú repu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4634
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4476
+        }
+      ]
+    },
+    {
+      "id": "SK-028",
+      "source_text_index": 28,
+      "sentence_index": 0,
+      "source_sentence_cz": "Rovnováha metabolismu",
+      "translated_sentence_sk": "Rovnováha metabolizmu",
+      "individual_effect_cz": "Podpora / rovnováha metabolismu",
+      "individual_effect_sk": "Podpora / rovnováha metabolizmu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm je súčasťou zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4917
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 4759
+        }
+      ]
+    },
+    {
+      "id": "SK-029",
+      "source_text_index": 31,
+      "sentence_index": 0,
+      "source_sentence_cz": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí.",
+      "translated_sentence_sk": "Slim SOS Fat Burner využíva synergiu piatich účinných zložiek na efektívnu podporu chudnutia.",
+      "individual_effect_cz": "Synergie pěti účinných složek pro efektivní hubnutí",
+      "individual_effect_sk": "Synergia piatich účinných zložiek na efektívne chudnutie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje päť zložiek uvedených v tabuľke.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-030",
+      "source_text_index": 31,
+      "sentence_index": 0,
+      "source_sentence_cz": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí.",
+      "translated_sentence_sk": "Slim SOS Fat Burner využíva synergiu piatich účinných zložiek na efektívnu podporu chudnutia.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-031",
+      "source_text_index": 31,
+      "sentence_index": 1,
+      "source_sentence_cz": "Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem.",
+      "translated_sentence_sk": "Základom je chitosan – prírodná vláknina, ktorá viaže tuky v tráviacom trakte a bráni ich vstrebávaniu, čím pomáha znížiť kalorický príjem.",
+      "individual_effect_cz": "Lapač / vazba tuků",
+      "individual_effect_sk": "Lapač / viazanie tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chitosan je zložka získavaná z kôrovcov.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-032",
+      "source_text_index": 31,
+      "sentence_index": 1,
+      "source_sentence_cz": "Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem.",
+      "translated_sentence_sk": "Základom je chitosan – prírodná vláknina, ktorá viaže tuky v tráviacom trakte a bráni ich vstrebávaniu, čím pomáha znížiť kalorický príjem.",
+      "individual_effect_cz": "Blokování vstřebávání tuků",
+      "individual_effect_sk": "Blokovanie vstrebávania tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 600 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-033",
+      "source_text_index": 31,
+      "sentence_index": 1,
+      "source_sentence_cz": "Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem.",
+      "translated_sentence_sk": "Základom je chitosan – prírodná vláknina, ktorá viaže tuky v tráviacom trakte a bráni ich vstrebávaniu, čím pomáha znížiť kalorický príjem.",
+      "individual_effect_cz": "Nižší příjem / vstřebání kalorií",
+      "individual_effect_sk": "Nižší príjem / vstrebávanie kalórií",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Zloženie kapsúl je uvedené v tabuľke.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-034",
+      "source_text_index": 31,
+      "sentence_index": 2,
+      "source_sentence_cz": "Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké.",
+      "translated_sentence_sk": "Extrakt z bielej fazule spomaľuje štiepenie sacharidov a udržiava stabilnú hladinu cukru v krvi, čo obmedzuje prudké výkyvy energie a chuť na sladké.",
+      "individual_effect_cz": "Zpomalení štěpení sacharidů",
+      "individual_effect_sk": "Spomalenie štiepenia sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 400 mg extraktu z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-035",
+      "source_text_index": 31,
+      "sentence_index": 2,
+      "source_sentence_cz": "Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké.",
+      "translated_sentence_sk": "Extrakt z bielej fazule spomaľuje štiepenie sacharidov a udržiava stabilnú hladinu cukru v krvi, čo obmedzuje prudké výkyvy energie a chuť na sladké.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-036",
+      "source_text_index": 31,
+      "sentence_index": 2,
+      "source_sentence_cz": "Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké.",
+      "translated_sentence_sk": "Extrakt z bielej fazule spomaľuje štiepenie sacharidov a udržiava stabilnú hladinu cukru v krvi, čo obmedzuje prudké výkyvy energie a chuť na sladké.",
+      "individual_effect_cz": "Omezení výkyvů energie",
+      "individual_effect_sk": "Obmedzenie výkyvov energie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jedna kapsula obsahuje 200 mg extraktu z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-037",
+      "source_text_index": 31,
+      "sentence_index": 2,
+      "source_sentence_cz": "Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké.",
+      "translated_sentence_sk": "Extrakt z bielej fazule spomaľuje štiepenie sacharidov a udržiava stabilnú hladinu cukru v krvi, čo obmedzuje prudké výkyvy energie a chuť na sladké.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-038",
+      "source_text_index": 31,
+      "sentence_index": 3,
+      "source_sentence_cz": "Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu.",
+      "translated_sentence_sk": "Červená repa bohatá na antioxidanty podporuje vitalitu, okysličenie tkanív a detoxikáciu organizmu.",
+      "individual_effect_cz": "Antioxidanty pro účinek / bohatost na antioxidanty",
+      "individual_effect_sk": "Antioxidanty na účinok / bohatosť na antioxidanty",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Obsahuje červenú repu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-039",
+      "source_text_index": 31,
+      "sentence_index": 3,
+      "source_sentence_cz": "Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu.",
+      "translated_sentence_sk": "Červená repa bohatá na antioxidanty podporuje vitalitu, okysličenie tkanív a detoxikáciu organizmu.",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-040",
+      "source_text_index": 31,
+      "sentence_index": 3,
+      "source_sentence_cz": "Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu.",
+      "translated_sentence_sk": "Červená repa bohatá na antioxidanty podporuje vitalitu, okysličenie tkanív a detoxikáciu organizmu.",
+      "individual_effect_cz": "Okysličení tkání",
+      "individual_effect_sk": "Okysličenie tkanív",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 200 mg červenej repy.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-041",
+      "source_text_index": 31,
+      "sentence_index": 3,
+      "source_sentence_cz": "Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu.",
+      "translated_sentence_sk": "Červená repa bohatá na antioxidanty podporuje vitalitu, okysličenie tkanív a detoxikáciu organizmu.",
+      "individual_effect_cz": "Detoxikace organismu",
+      "individual_effect_sk": "Detoxikácia organizmu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je súčasťou zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-042",
+      "source_text_index": 31,
+      "sentence_index": 4,
+      "source_sentence_cz": "Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké.",
+      "translated_sentence_sk": "Jablčný ocot prirodzene podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov, zatiaľ čo chróm ako kľúčový stopový prvok stabilizuje hladinu glukózy v krvi a znižuje chuť na sladké.",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-043",
+      "source_text_index": 31,
+      "sentence_index": 4,
+      "source_sentence_cz": "Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké.",
+      "translated_sentence_sk": "Jablčný ocot prirodzene podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov, zatiaľ čo chróm ako kľúčový stopový prvok stabilizuje hladinu glukózy v krvi a znižuje chuť na sladké.",
+      "individual_effect_cz": "Podpora tvorby trávicích šťáv",
+      "individual_effect_sk": "Podpora tvorby tráviacich štiav",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 100 mg jablčného octu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-044",
+      "source_text_index": 31,
+      "sentence_index": 4,
+      "source_sentence_cz": "Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké.",
+      "translated_sentence_sk": "Jablčný ocot prirodzene podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov, zatiaľ čo chróm ako kľúčový stopový prvok stabilizuje hladinu glukózy v krvi a znižuje chuť na sladké.",
+      "individual_effect_cz": "Podpora metabolismu tuků",
+      "individual_effect_sk": "Podpora metabolizmu tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jedna kapsula obsahuje 50 mg jablčného octu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-045",
+      "source_text_index": 31,
+      "sentence_index": 4,
+      "source_sentence_cz": "Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké.",
+      "translated_sentence_sk": "Jablčný ocot prirodzene podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov, zatiaľ čo chróm ako kľúčový stopový prvok stabilizuje hladinu glukózy v krvi a znižuje chuť na sladké.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-046",
+      "source_text_index": 31,
+      "sentence_index": 4,
+      "source_sentence_cz": "Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké.",
+      "translated_sentence_sk": "Jablčný ocot prirodzene podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov, zatiaľ čo chróm ako kľúčový stopový prvok stabilizuje hladinu glukózy v krvi a znižuje chuť na sladké.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-047",
+      "source_text_index": 31,
+      "sentence_index": 5,
+      "source_sentence_cz": "Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+      "translated_sentence_sk": "Vďaka tejto komplexnej kombinácii prípravok pôsobí na viacerých úrovniach – blokuje vstrebávanie nadbytočných kalórií, podporuje zdravé trávenie, dodáva energiu a pomáha udržať kontrolu nad telesnou hmotnosťou bez drastických diét.",
+      "individual_effect_cz": "Nižší příjem / vstřebání kalorií",
+      "individual_effect_sk": "Nižší príjem / vstrebávanie kalórií",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Zloženie kapsúl je uvedené v tabuľke.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-048",
+      "source_text_index": 31,
+      "sentence_index": 5,
+      "source_sentence_cz": "Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+      "translated_sentence_sk": "Vďaka tejto komplexnej kombinácii prípravok pôsobí na viacerých úrovniach – blokuje vstrebávanie nadbytočných kalórií, podporuje zdravé trávenie, dodáva energiu a pomáha udržať kontrolu nad telesnou hmotnosťou bez drastických diét.",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-049",
+      "source_text_index": 31,
+      "sentence_index": 5,
+      "source_sentence_cz": "Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+      "translated_sentence_sk": "Vďaka tejto komplexnej kombinácii prípravok pôsobí na viacerých úrovniach – blokuje vstrebávanie nadbytočných kalórií, podporuje zdravé trávenie, dodáva energiu a pomáha udržať kontrolu nad telesnou hmotnosťou bez drastických diét.",
+      "individual_effect_cz": "Dodání / podpora energie",
+      "individual_effect_sk": "Dodanie / podpora energie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok kombinuje chitosan, extrakt z bielej fazule, červenú repu, jablčný ocot a chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-050",
+      "source_text_index": 31,
+      "sentence_index": 5,
+      "source_sentence_cz": "Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+      "translated_sentence_sk": "Vďaka tejto komplexnej kombinácii prípravok pôsobí na viacerých úrovniach – blokuje vstrebávanie nadbytočných kalórií, podporuje zdravé trávenie, dodáva energiu a pomáha udržať kontrolu nad telesnou hmotnosťou bez drastických diét.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5361
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 5203
+        }
+      ]
+    },
+    {
+      "id": "SK-051",
+      "source_text_index": 32,
+      "sentence_index": 0,
+      "source_sentence_cz": "Účinky",
+      "translated_sentence_sk": "Účinky",
+      "individual_effect_cz": "Nadpis / rámování očekávaných účinků produktu",
+      "individual_effect_sk": "Nadpis / rámcovanie očakávaných účinkov produktu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prehľad zložiek prípravku.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "h4",
+          "source_start": 6297
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "h4",
+          "source_start": 6139
+        }
+      ]
+    },
+    {
+      "id": "SK-052",
+      "source_text_index": 33,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokace části tuků a sacharidů ze stravy.",
+      "translated_sentence_sk": "Blokovanie časti tukov a sacharidov zo stravy.",
+      "individual_effect_cz": "Blokování vstřebávání tuků",
+      "individual_effect_sk": "Blokovanie vstrebávania tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 600 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-053",
+      "source_text_index": 33,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokace části tuků a sacharidů ze stravy.",
+      "translated_sentence_sk": "Blokovanie časti tukov a sacharidov zo stravy.",
+      "individual_effect_cz": "Blokace sacharidů",
+      "individual_effect_sk": "Blokovanie sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje extrakt z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-054",
+      "source_text_index": 33,
+      "sentence_index": 1,
+      "source_sentence_cz": "Přirozená kontrola tělesné hmotnosti.",
+      "translated_sentence_sk": "Prirodzená kontrola telesnej hmotnosti.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-055",
+      "source_text_index": 33,
+      "sentence_index": 2,
+      "source_sentence_cz": "Lehčí trávení po tučnějším jídle.",
+      "translated_sentence_sk": "Ľahšie trávenie po mastnejšom jedle.",
+      "individual_effect_cz": "Lehčí trávení / lehkost po jídle",
+      "individual_effect_sk": "Ľahšie trávenie / ľahkosť po jedle",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Odporúčané užívanie je uvedené v návode na použitie.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-056",
+      "source_text_index": 33,
+      "sentence_index": 3,
+      "source_sentence_cz": "Podpora vitality, energie a imunity.",
+      "translated_sentence_sk": "Podpora vitality, energie a imunity.",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-057",
+      "source_text_index": 33,
+      "sentence_index": 3,
+      "source_sentence_cz": "Podpora vitality, energie a imunity.",
+      "translated_sentence_sk": "Podpora vitality, energie a imunity.",
+      "individual_effect_cz": "Dodání / podpora energie",
+      "individual_effect_sk": "Dodanie / podpora energie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok kombinuje chitosan, extrakt z bielej fazule, červenú repu, jablčný ocot a chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-058",
+      "source_text_index": 33,
+      "sentence_index": 3,
+      "source_sentence_cz": "Podpora vitality, energie a imunity.",
+      "translated_sentence_sk": "Podpora vitality, energie a imunity.",
+      "individual_effect_cz": "Podpora imunity",
+      "individual_effect_sk": "Podpora imunity",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje červenú repu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-059",
+      "source_text_index": 33,
+      "sentence_index": 4,
+      "source_sentence_cz": "Vyrovnaný metabolismus cukrů a tuků.",
+      "translated_sentence_sk": "Vyrovnaný metabolizmus cukrov a tukov.",
+      "individual_effect_cz": "Vyrovnaný metabolismus cukrů a tuků",
+      "individual_effect_sk": "Vyrovnaný metabolizmus cukrov a tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-060",
+      "source_text_index": 33,
+      "sentence_index": 5,
+      "source_sentence_cz": "Stabilní hladina glukózy v krvi a snížené chutě na sladké.",
+      "translated_sentence_sk": "Stabilná hladina glukózy v krvi a znížená chuť na sladké.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-061",
+      "source_text_index": 33,
+      "sentence_index": 5,
+      "source_sentence_cz": "Stabilní hladina glukózy v krvi a snížené chutě na sladké.",
+      "translated_sentence_sk": "Stabilná hladina glukózy v krvi a znížená chuť na sladké.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-062",
+      "source_text_index": 33,
+      "sentence_index": 6,
+      "source_sentence_cz": "Podpora detoxikace jater a okysličení tkání.",
+      "translated_sentence_sk": "Podpora detoxikácie pečene a okysličenia tkanív.",
+      "individual_effect_cz": "Detoxikace jater",
+      "individual_effect_sk": "Detoxikácia pečene",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je uvedená v tabuľke zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-063",
+      "source_text_index": 33,
+      "sentence_index": 6,
+      "source_sentence_cz": "Podpora detoxikace jater a okysličení tkání.",
+      "translated_sentence_sk": "Podpora detoxikácie pečene a okysličenia tkanív.",
+      "individual_effect_cz": "Okysličení tkání",
+      "individual_effect_sk": "Okysličenie tkanív",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 200 mg červenej repy.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6327
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 6169
+        }
+      ]
+    },
+    {
+      "id": "SK-064",
+      "source_text_index": 34,
+      "sentence_index": 0,
+      "source_sentence_cz": "Co vám přinese",
+      "translated_sentence_sk": "Čo vám prinesie",
+      "individual_effect_cz": "Nadpis / rámování očekávaných účinků produktu",
+      "individual_effect_sk": "Nadpis / rámcovanie očakávaných účinkov produktu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prehľad zložiek prípravku.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "h3",
+          "source_start": 6707
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "h3",
+          "source_start": 6549
+        }
+      ]
+    },
+    {
+      "id": "SK-065",
+      "source_text_index": 36,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokace části tuků a sacharidů ze stravy.",
+      "translated_sentence_sk": "Blokovanie časti tukov a sacharidov zo stravy.",
+      "individual_effect_cz": "Blokování vstřebávání tuků",
+      "individual_effect_sk": "Blokovanie vstrebávania tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 600 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6811
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6653
+        }
+      ]
+    },
+    {
+      "id": "SK-066",
+      "source_text_index": 36,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokace části tuků a sacharidů ze stravy.",
+      "translated_sentence_sk": "Blokovanie časti tukov a sacharidov zo stravy.",
+      "individual_effect_cz": "Blokace sacharidů",
+      "individual_effect_sk": "Blokovanie sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje extrakt z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6811
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6653
+        }
+      ]
+    },
+    {
+      "id": "SK-067",
+      "source_text_index": 37,
+      "sentence_index": 0,
+      "source_sentence_cz": "Přirozená kontrola tělesné hmotnosti.",
+      "translated_sentence_sk": "Prirodzená kontrola telesnej hmotnosti.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6918
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6760
+        }
+      ]
+    },
+    {
+      "id": "SK-068",
+      "source_text_index": 38,
+      "sentence_index": 0,
+      "source_sentence_cz": "Lehčí trávení po tučnějším jídle.",
+      "translated_sentence_sk": "Ľahšie trávenie po mastnejšom jedle.",
+      "individual_effect_cz": "Lehčí trávení / lehkost po jídle",
+      "individual_effect_sk": "Ľahšie trávenie / ľahkosť po jedle",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Odporúčané užívanie je uvedené v návode na použitie.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7021
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6863
+        }
+      ]
+    },
+    {
+      "id": "SK-069",
+      "source_text_index": 39,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora vitality, energie a imunity.",
+      "translated_sentence_sk": "Podpora vitality, energie a imunity.",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7120
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6962
+        }
+      ]
+    },
+    {
+      "id": "SK-070",
+      "source_text_index": 39,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora vitality, energie a imunity.",
+      "translated_sentence_sk": "Podpora vitality, energie a imunity.",
+      "individual_effect_cz": "Dodání / podpora energie",
+      "individual_effect_sk": "Dodanie / podpora energie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok kombinuje chitosan, extrakt z bielej fazule, červenú repu, jablčný ocot a chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7120
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6962
+        }
+      ]
+    },
+    {
+      "id": "SK-071",
+      "source_text_index": 39,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora vitality, energie a imunity.",
+      "translated_sentence_sk": "Podpora vitality, energie a imunity.",
+      "individual_effect_cz": "Podpora imunity",
+      "individual_effect_sk": "Podpora imunity",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje červenú repu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7120
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 6962
+        }
+      ]
+    },
+    {
+      "id": "SK-072",
+      "source_text_index": 40,
+      "sentence_index": 0,
+      "source_sentence_cz": "Vyrovnaný metabolismus cukrů a tuků.",
+      "translated_sentence_sk": "Vyrovnaný metabolizmus cukrov a tukov.",
+      "individual_effect_cz": "Vyrovnaný metabolismus cukrů a tuků",
+      "individual_effect_sk": "Vyrovnaný metabolizmus cukrov a tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7222
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7064
+        }
+      ]
+    },
+    {
+      "id": "SK-073",
+      "source_text_index": 41,
+      "sentence_index": 0,
+      "source_sentence_cz": "Stabilní hladina glukózy v krvi a snížené chutě na sladké.",
+      "translated_sentence_sk": "Stabilná hladina glukózy v krvi a znížená chuť na sladké.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7324
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7166
+        }
+      ]
+    },
+    {
+      "id": "SK-074",
+      "source_text_index": 41,
+      "sentence_index": 0,
+      "source_sentence_cz": "Stabilní hladina glukózy v krvi a snížené chutě na sladké.",
+      "translated_sentence_sk": "Stabilná hladina glukózy v krvi a znížená chuť na sladké.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7324
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7166
+        }
+      ]
+    },
+    {
+      "id": "SK-075",
+      "source_text_index": 42,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora detoxikace jater a okysličení tkání.",
+      "translated_sentence_sk": "Podpora detoxikácie pečene a okysličenia tkanív.",
+      "individual_effect_cz": "Detoxikace jater",
+      "individual_effect_sk": "Detoxikácia pečene",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je uvedená v tabuľke zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7448
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7290
+        }
+      ]
+    },
+    {
+      "id": "SK-076",
+      "source_text_index": 42,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora detoxikace jater a okysličení tkání.",
+      "translated_sentence_sk": "Podpora detoxikácie pečene a okysličenia tkanív.",
+      "individual_effect_cz": "Okysličení tkání",
+      "individual_effect_sk": "Okysličenie tkanív",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 200 mg červenej repy.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7448
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 7290
+        }
+      ]
+    },
+    {
+      "id": "SK-077",
+      "source_text_index": 44,
+      "sentence_index": 0,
+      "source_sentence_cz": "Přírodní „lapač tuků\" pro nižší kalorický příjem.",
+      "translated_sentence_sk": "Prírodný „lapač tukov“ na nižší kalorický príjem.",
+      "individual_effect_cz": "Lapač / vazba tuků",
+      "individual_effect_sk": "Lapač / viazanie tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chitosan je zložka získavaná z kôrovcov.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 7968
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 7810
+        }
+      ]
+    },
+    {
+      "id": "SK-078",
+      "source_text_index": 44,
+      "sentence_index": 0,
+      "source_sentence_cz": "Přírodní „lapač tuků\" pro nižší kalorický příjem.",
+      "translated_sentence_sk": "Prírodný „lapač tukov“ na nižší kalorický príjem.",
+      "individual_effect_cz": "Nižší příjem / vstřebání kalorií",
+      "individual_effect_sk": "Nižší príjem / vstrebávanie kalórií",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Zloženie kapsúl je uvedené v tabuľke.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 7968
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 7810
+        }
+      ]
+    },
+    {
+      "id": "SK-079",
+      "source_text_index": 47,
+      "sentence_index": 0,
+      "source_sentence_cz": "Zpomaluje štěpení sacharidů a snižuje chuť na sladké.",
+      "translated_sentence_sk": "Spomaľuje štiepenie sacharidov a znižuje chuť na sladké.",
+      "individual_effect_cz": "Zpomalení štěpení sacharidů",
+      "individual_effect_sk": "Spomalenie štiepenia sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 400 mg extraktu z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8444
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8286
+        }
+      ]
+    },
+    {
+      "id": "SK-080",
+      "source_text_index": 47,
+      "sentence_index": 0,
+      "source_sentence_cz": "Zpomaluje štěpení sacharidů a snižuje chuť na sladké.",
+      "translated_sentence_sk": "Spomaľuje štiepenie sacharidov a znižuje chuť na sladké.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8444
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8286
+        }
+      ]
+    },
+    {
+      "id": "SK-081",
+      "source_text_index": 49,
+      "sentence_index": 0,
+      "source_sentence_cz": "Antioxidanty pro vitalitu, okysličení a detoxikaci.",
+      "translated_sentence_sk": "Antioxidanty pre vitalitu, okysličenie a detoxikáciu.",
+      "individual_effect_cz": "Antioxidanty pro účinek / bohatost na antioxidanty",
+      "individual_effect_sk": "Antioxidanty na účinok / bohatosť na antioxidanty",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Obsahuje červenú repu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8918
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8760
+        }
+      ]
+    },
+    {
+      "id": "SK-082",
+      "source_text_index": 49,
+      "sentence_index": 0,
+      "source_sentence_cz": "Antioxidanty pro vitalitu, okysličení a detoxikaci.",
+      "translated_sentence_sk": "Antioxidanty pre vitalitu, okysličenie a detoxikáciu.",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8918
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8760
+        }
+      ]
+    },
+    {
+      "id": "SK-083",
+      "source_text_index": 49,
+      "sentence_index": 0,
+      "source_sentence_cz": "Antioxidanty pro vitalitu, okysličení a detoxikaci.",
+      "translated_sentence_sk": "Antioxidanty pre vitalitu, okysličenie a detoxikáciu.",
+      "individual_effect_cz": "Okysličení tkání",
+      "individual_effect_sk": "Okysličenie tkanív",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 200 mg červenej repy.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8918
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8760
+        }
+      ]
+    },
+    {
+      "id": "SK-084",
+      "source_text_index": 49,
+      "sentence_index": 0,
+      "source_sentence_cz": "Antioxidanty pro vitalitu, okysličení a detoxikaci.",
+      "translated_sentence_sk": "Antioxidanty pre vitalitu, okysličenie a detoxikáciu.",
+      "individual_effect_cz": "Detoxikace organismu",
+      "individual_effect_sk": "Detoxikácia organizmu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je súčasťou zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8918
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 8760
+        }
+      ]
+    },
+    {
+      "id": "SK-085",
+      "source_text_index": 51,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora trávení, metabolismu tuků a lehkosti po jídle.",
+      "translated_sentence_sk": "Podpora trávenia, metabolizmu tukov a ľahkosti po jedle.",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9382
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9224
+        }
+      ]
+    },
+    {
+      "id": "SK-086",
+      "source_text_index": 51,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora trávení, metabolismu tuků a lehkosti po jídle.",
+      "translated_sentence_sk": "Podpora trávenia, metabolizmu tukov a ľahkosti po jedle.",
+      "individual_effect_cz": "Podpora metabolismu tuků",
+      "individual_effect_sk": "Podpora metabolizmu tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jedna kapsula obsahuje 50 mg jablčného octu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9382
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9224
+        }
+      ]
+    },
+    {
+      "id": "SK-087",
+      "source_text_index": 51,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podpora trávení, metabolismu tuků a lehkosti po jídle.",
+      "translated_sentence_sk": "Podpora trávenia, metabolizmu tukov a ľahkosti po jedle.",
+      "individual_effect_cz": "Lehčí trávení / lehkost po jídle",
+      "individual_effect_sk": "Ľahšie trávenie / ľahkosť po jedle",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Odporúčané užívanie je uvedené v návode na použitie.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9382
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9224
+        }
+      ]
+    },
+    {
+      "id": "SK-088",
+      "source_text_index": 53,
+      "sentence_index": 0,
+      "source_sentence_cz": "Stabilizuje hladinu cukru a snižuje chutě na sladké.",
+      "translated_sentence_sk": "Stabilizuje hladinu cukru a znižuje chuť na sladké.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9826
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9668
+        }
+      ]
+    },
+    {
+      "id": "SK-089",
+      "source_text_index": 53,
+      "sentence_index": 0,
+      "source_sentence_cz": "Stabilizuje hladinu cukru a snižuje chutě na sladké.",
+      "translated_sentence_sk": "Stabilizuje hladinu cukru a znižuje chuť na sladké.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9826
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 9668
+        }
+      ]
+    },
+    {
+      "id": "SK-090",
+      "source_text_index": 61,
+      "sentence_index": 0,
+      "source_sentence_cz": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi.",
+      "translated_sentence_sk": "Spomaľuje štiepenie a vstrebávanie sacharidov, čím obmedzuje prudké výkyvy hladiny cukru v krvi.",
+      "individual_effect_cz": "Zpomalení štěpení sacharidů",
+      "individual_effect_sk": "Spomalenie štiepenia sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 400 mg extraktu z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11774
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11623
+        }
+      ]
+    },
+    {
+      "id": "SK-091",
+      "source_text_index": 61,
+      "sentence_index": 0,
+      "source_sentence_cz": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi.",
+      "translated_sentence_sk": "Spomaľuje štiepenie a vstrebávanie sacharidov, čím obmedzuje prudké výkyvy hladiny cukru v krvi.",
+      "individual_effect_cz": "Zpomalení vstřebávání sacharidů",
+      "individual_effect_sk": "Spomalenie vstrebávania sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Obsahuje extrakt z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11774
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11623
+        }
+      ]
+    },
+    {
+      "id": "SK-092",
+      "source_text_index": 61,
+      "sentence_index": 0,
+      "source_sentence_cz": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi.",
+      "translated_sentence_sk": "Spomaľuje štiepenie a vstrebávanie sacharidov, čím obmedzuje prudké výkyvy hladiny cukru v krvi.",
+      "individual_effect_cz": "Omezení prudkých výkyvů cukru v krvi",
+      "individual_effect_sk": "Obmedzenie prudkých výkyvov cukru v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Extrakt z bielej fazule je uvedený v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11774
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11623
+        }
+      ]
+    },
+    {
+      "id": "SK-093",
+      "source_text_index": 61,
+      "sentence_index": 1,
+      "source_sentence_cz": "Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti.",
+      "translated_sentence_sk": "Udržiava dlhší pocit sýtosti, znižuje chuť na sladké a podporuje kontrolu hmotnosti.",
+      "individual_effect_cz": "Prodloužení pocitu sytosti",
+      "individual_effect_sk": "Predĺženie pocitu sýtosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jedna kapsula obsahuje 300 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11774
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11623
+        }
+      ]
+    },
+    {
+      "id": "SK-094",
+      "source_text_index": 61,
+      "sentence_index": 1,
+      "source_sentence_cz": "Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti.",
+      "translated_sentence_sk": "Udržiava dlhší pocit sýtosti, znižuje chuť na sladké a podporuje kontrolu hmotnosti.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11774
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11623
+        }
+      ]
+    },
+    {
+      "id": "SK-095",
+      "source_text_index": 61,
+      "sentence_index": 1,
+      "source_sentence_cz": "Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti.",
+      "translated_sentence_sk": "Udržiava dlhší pocit sýtosti, znižuje chuť na sladké a podporuje kontrolu hmotnosti.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11774
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11623
+        }
+      ]
+    },
+    {
+      "id": "SK-096",
+      "source_text_index": 61,
+      "sentence_index": 2,
+      "source_sentence_cz": "Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+      "translated_sentence_sk": "Obsahuje prírodné blokátory alfa-amylázy, enzýmu zodpovedného za rozklad škrobov.",
+      "individual_effect_cz": "Přírodní blokátory alfa-amylázy",
+      "individual_effect_sk": "Prírodné blokátory alfa-amylázy",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje extrakt z bielej fazule; jeho množstvo uvádza tabuľka.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11774
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 11623
+        }
+      ]
+    },
+    {
+      "id": "SK-097",
+      "source_text_index": 62,
+      "sentence_index": 0,
+      "source_sentence_cz": "Bohatá na antioxidanty, vitaminy a minerály.",
+      "translated_sentence_sk": "Bohatá na antioxidanty, vitamíny a minerály.",
+      "individual_effect_cz": "Antioxidanty pro účinek / bohatost na antioxidanty",
+      "individual_effect_sk": "Antioxidanty na účinok / bohatosť na antioxidanty",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Obsahuje červenú repu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-098",
+      "source_text_index": 62,
+      "sentence_index": 0,
+      "source_sentence_cz": "Bohatá na antioxidanty, vitaminy a minerály.",
+      "translated_sentence_sk": "Bohatá na antioxidanty, vitamíny a minerály.",
+      "individual_effect_cz": "Bohatost na vitaminy",
+      "individual_effect_sk": "Bohatosť na vitamíny",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje červenú repu; obsah vitamínov tu nie je vyčíslený.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-099",
+      "source_text_index": 62,
+      "sentence_index": 0,
+      "source_sentence_cz": "Bohatá na antioxidanty, vitaminy a minerály.",
+      "translated_sentence_sk": "Bohatá na antioxidanty, vitamíny a minerály.",
+      "individual_effect_cz": "Bohatost na minerály",
+      "individual_effect_sk": "Bohatosť na minerály",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje červenú repu; obsah jej minerálov tu nie je vyčíslený.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-100",
+      "source_text_index": 62,
+      "sentence_index": 1,
+      "source_sentence_cz": "Podporuje vitalitu, okysličení tkání i sportovní výkon.",
+      "translated_sentence_sk": "Podporuje vitalitu, okysličenie tkanív aj športový výkon.",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-101",
+      "source_text_index": 62,
+      "sentence_index": 1,
+      "source_sentence_cz": "Podporuje vitalitu, okysličení tkání i sportovní výkon.",
+      "translated_sentence_sk": "Podporuje vitalitu, okysličenie tkanív aj športový výkon.",
+      "individual_effect_cz": "Okysličení tkání",
+      "individual_effect_sk": "Okysličenie tkanív",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 200 mg červenej repy.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-102",
+      "source_text_index": 62,
+      "sentence_index": 1,
+      "source_sentence_cz": "Podporuje vitalitu, okysličení tkání i sportovní výkon.",
+      "translated_sentence_sk": "Podporuje vitalitu, okysličenie tkanív aj športový výkon.",
+      "individual_effect_cz": "Podpora sportovního výkonu",
+      "individual_effect_sk": "Podpora športového výkonu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jednou zo zložiek je červená repa.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-103",
+      "source_text_index": 62,
+      "sentence_index": 2,
+      "source_sentence_cz": "Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater.",
+      "translated_sentence_sk": "Vďaka betaínu chráni bunky pred oxidačným stresom a podporuje detoxikáciu pečene.",
+      "individual_effect_cz": "Ochrana buněk před oxidačním stresem díky betainu",
+      "individual_effect_sk": "Ochrana buniek pred oxidačným stresom vďaka betaínu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je súčasťou prípravku; množstvo betaínu nie je uvedené.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-104",
+      "source_text_index": 62,
+      "sentence_index": 2,
+      "source_sentence_cz": "Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater.",
+      "translated_sentence_sk": "Vďaka betaínu chráni bunky pred oxidačným stresom a podporuje detoxikáciu pečene.",
+      "individual_effect_cz": "Detoxikace jater",
+      "individual_effect_sk": "Detoxikácia pečene",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je uvedená v tabuľke zloženia.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-105",
+      "source_text_index": 62,
+      "sentence_index": 3,
+      "source_sentence_cz": "Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+      "translated_sentence_sk": "Obsahuje aj dusičnany, ktoré prirodzene zlepšujú prekrvenie a výkonnosť.",
+      "individual_effect_cz": "Zlepšení prokrvení díky dusičnanům",
+      "individual_effect_sk": "Zlepšenie prekrvenia vďaka dusičnanom",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je súčasťou prípravku; množstvo dusičnanov nie je uvedené.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-106",
+      "source_text_index": 62,
+      "sentence_index": 3,
+      "source_sentence_cz": "Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+      "translated_sentence_sk": "Obsahuje aj dusičnany, ktoré prirodzene zlepšujú prekrvenie a výkonnosť.",
+      "individual_effect_cz": "Zlepšení výkonnosti díky dusičnanům",
+      "individual_effect_sk": "Zlepšenie výkonnosti vďaka dusičnanom",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je uvedená v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12522
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 12371
+        }
+      ]
+    },
+    {
+      "id": "SK-107",
+      "source_text_index": 63,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků.",
+      "translated_sentence_sk": "Podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov.",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13270
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13119
+        }
+      ]
+    },
+    {
+      "id": "SK-108",
+      "source_text_index": 63,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků.",
+      "translated_sentence_sk": "Podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov.",
+      "individual_effect_cz": "Podpora tvorby trávicích šťáv",
+      "individual_effect_sk": "Podpora tvorby tráviacich štiav",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 100 mg jablčného octu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13270
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13119
+        }
+      ]
+    },
+    {
+      "id": "SK-109",
+      "source_text_index": 63,
+      "sentence_index": 0,
+      "source_sentence_cz": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků.",
+      "translated_sentence_sk": "Podporuje trávenie, tvorbu tráviacich štiav a metabolizmus tukov.",
+      "individual_effect_cz": "Podpora metabolismu tuků",
+      "individual_effect_sk": "Podpora metabolizmu tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jedna kapsula obsahuje 50 mg jablčného octu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13270
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13119
+        }
+      ]
+    },
+    {
+      "id": "SK-110",
+      "source_text_index": 63,
+      "sentence_index": 1,
+      "source_sentence_cz": "Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu.",
+      "translated_sentence_sk": "Pomáha udržať pocit ľahkosti po jedle a prirodzenú kontrolu chuti do jedla.",
+      "individual_effect_cz": "Lehčí trávení / lehkost po jídle",
+      "individual_effect_sk": "Ľahšie trávenie / ľahkosť po jedle",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Odporúčané užívanie je uvedené v návode na použitie.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13270
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13119
+        }
+      ]
+    },
+    {
+      "id": "SK-111",
+      "source_text_index": 63,
+      "sentence_index": 1,
+      "source_sentence_cz": "Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu.",
+      "translated_sentence_sk": "Pomáha udržať pocit ľahkosti po jedle a prirodzenú kontrolu chuti do jedla.",
+      "individual_effect_cz": "Kontrola chuti k jídlu",
+      "individual_effect_sk": "Kontrola chuti do jedla",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok je vo forme kapsúl.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13270
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13119
+        }
+      ]
+    },
+    {
+      "id": "SK-112",
+      "source_text_index": 63,
+      "sentence_index": 2,
+      "source_sentence_cz": "Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+      "translated_sentence_sk": "Kyselina octová v ňom obsiahnutá zlepšuje vstrebávanie živín a podporuje zdravú črevnú mikroflóru.",
+      "individual_effect_cz": "Lepší vstřebávání živin díky kyselině octové",
+      "individual_effect_sk": "Lepšie vstrebávanie živín vďaka kyseline octovej",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot; obsah kyseliny octovej tu nie je vyčíslený.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13270
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13119
+        }
+      ]
+    },
+    {
+      "id": "SK-113",
+      "source_text_index": 63,
+      "sentence_index": 2,
+      "source_sentence_cz": "Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+      "translated_sentence_sk": "Kyselina octová v ňom obsiahnutá zlepšuje vstrebávanie živín a podporuje zdravú črevnú mikroflóru.",
+      "individual_effect_cz": "Zdravá střevní mikroflóra",
+      "individual_effect_sk": "Zdravá črevná mikroflóra",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Jablčný ocot je súčasťou prípravku.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13270
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13119
+        }
+      ]
+    },
+    {
+      "id": "SK-114",
+      "source_text_index": 64,
+      "sentence_index": 0,
+      "source_sentence_cz": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin.",
+      "translated_sentence_sk": "Stopový prvok dôležitý pre metabolizmus cukrov, tukov a bielkovín.",
+      "individual_effect_cz": "Důležitost chromu pro metabolismus cukrů, tuků a bílkovin",
+      "individual_effect_sk": "Dôležitosť chrómu pre metabolizmus cukrov, tukov a bielkovín",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm je uvedený v zložení a v tabuľke.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13976
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13825
+        }
+      ]
+    },
+    {
+      "id": "SK-115",
+      "source_text_index": 64,
+      "sentence_index": 1,
+      "source_sentence_cz": "Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne.",
+      "translated_sentence_sk": "Stabilizuje hladinu cukru v krvi, znižuje chuť na sladké a podporuje energiu počas dňa.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13976
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13825
+        }
+      ]
+    },
+    {
+      "id": "SK-116",
+      "source_text_index": 64,
+      "sentence_index": 1,
+      "source_sentence_cz": "Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne.",
+      "translated_sentence_sk": "Stabilizuje hladinu cukru v krvi, znižuje chuť na sladké a podporuje energiu počas dňa.",
+      "individual_effect_cz": "Snížení chuti na sladké",
+      "individual_effect_sk": "Zníženie chuti na sladké",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Chróm aj extrakt z bielej fazule sú uvedené v zložení.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13976
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13825
+        }
+      ]
+    },
+    {
+      "id": "SK-117",
+      "source_text_index": 64,
+      "sentence_index": 1,
+      "source_sentence_cz": "Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne.",
+      "translated_sentence_sk": "Stabilizuje hladinu cukru v krvi, znižuje chuť na sladké a podporuje energiu počas dňa.",
+      "individual_effect_cz": "Dodání / podpora energie",
+      "individual_effect_sk": "Dodanie / podpora energie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok kombinuje chitosan, extrakt z bielej fazule, červenú repu, jablčný ocot a chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13976
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13825
+        }
+      ]
+    },
+    {
+      "id": "SK-118",
+      "source_text_index": 64,
+      "sentence_index": 2,
+      "source_sentence_cz": "Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+      "translated_sentence_sk": "Chróm je nevyhnutný pre správnu funkciu inzulínu a pomáha udržať stabilnú telesnú hmotnosť.",
+      "individual_effect_cz": "Správná funkce inzulínu",
+      "individual_effect_sk": "Správna funkcia inzulínu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje chróm; jeho množstvo uvádza tabuľka.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13976
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13825
+        }
+      ]
+    },
+    {
+      "id": "SK-119",
+      "source_text_index": 64,
+      "sentence_index": 2,
+      "source_sentence_cz": "Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+      "translated_sentence_sk": "Chróm je nevyhnutný pre správnu funkciu inzulínu a pomáha udržať stabilnú telesnú hmotnosť.",
+      "individual_effect_cz": "Kontrola / redukce tělesné hmotnosti",
+      "individual_effect_sk": "Kontrola / redukcia telesnej hmotnosti",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s piatimi zložkami v kapsulách.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13976
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 13825
+        }
+      ]
+    },
+    {
+      "id": "SK-120",
+      "source_text_index": 117,
+      "sentence_index": 0,
+      "source_sentence_cz": "je první pomoc pro trávení i štíhlou linii.",
+      "translated_sentence_sk": "je prvou pomocou pre trávenie aj štíhlu líniu.",
+      "individual_effect_cz": "Podpora trávení",
+      "individual_effect_sk": "Podpora trávenia",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje jablčný ocot.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1053
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 792
+        }
+      ]
+    },
+    {
+      "id": "SK-121",
+      "source_text_index": 117,
+      "sentence_index": 0,
+      "source_sentence_cz": "je první pomoc pro trávení i štíhlou linii.",
+      "translated_sentence_sk": "je prvou pomocou pre trávenie aj štíhlu líniu.",
+      "individual_effect_cz": "Pomoc pro štíhlou linii",
+      "individual_effect_sk": "Pomoc pre štíhlu líniu",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok s chitosanom, rastlinnými zložkami a chrómom.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1053
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 792
+        }
+      ]
+    },
+    {
+      "id": "SK-122",
+      "source_text_index": 118,
+      "sentence_index": 0,
+      "source_sentence_cz": ", extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi.",
+      "translated_sentence_sk": ", extraktu z bielej fazule, červenej repy a jablčného octu s chrómom pre vyrovnanú hladinu cukru v krvi.",
+      "individual_effect_cz": "Stabilizace / vyrovnání hladiny cukru či glukózy v krvi",
+      "individual_effect_sk": "Stabilizácia / vyrovnanie hladiny cukru či glukózy v krvi",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Hodnoty chrómu sú uvedené v tabuľke v mcg.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1150
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 889
+        }
+      ]
+    },
+    {
+      "id": "SK-123",
+      "source_text_index": 118,
+      "sentence_index": 1,
+      "source_sentence_cz": "Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+      "translated_sentence_sk": "Praktické kapsuly, ktoré pomôžu, keď jedálny lístok práve nie je úplne vyvážený.",
+      "individual_effect_cz": "Pomoc při nevyváženém jídelníčku",
+      "individual_effect_sk": "Pomoc pri nevyváženom jedálnom lístku",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Výživový doplnok nenahrádza pestrú a vyváženú stravu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 1150
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "p",
+          "source_start": 889
+        }
+      ]
+    },
+    {
+      "id": "SK-124",
+      "source_text_index": 119,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokuje tuky a sacharidy",
+      "translated_sentence_sk": "Blokuje tuky a sacharidy",
+      "individual_effect_cz": "Blokování vstřebávání tuků",
+      "individual_effect_sk": "Blokovanie vstrebávania tukov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Denná dávka obsahuje 600 mg chitosanu.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 1621
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 1360
+        }
+      ]
+    },
+    {
+      "id": "SK-125",
+      "source_text_index": 119,
+      "sentence_index": 0,
+      "source_sentence_cz": "Blokuje tuky a sacharidy",
+      "translated_sentence_sk": "Blokuje tuky a sacharidy",
+      "individual_effect_cz": "Blokace sacharidů",
+      "individual_effect_sk": "Blokovanie sacharidov",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok obsahuje extrakt z bielej fazule.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 1621
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 1360
+        }
+      ]
+    },
+    {
+      "id": "SK-126",
+      "source_text_index": 120,
+      "sentence_index": 0,
+      "source_sentence_cz": "Kontrola chuti k jídlu",
+      "translated_sentence_sk": "Kontrola chuti do jedla",
+      "individual_effect_cz": "Kontrola chuti k jídlu",
+      "individual_effect_sk": "Kontrola chuti do jedla",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok je vo forme kapsúl.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 2192
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 1931
+        }
+      ]
+    },
+    {
+      "id": "SK-127",
+      "source_text_index": 121,
+      "sentence_index": 0,
+      "source_sentence_cz": "Vitalita a energie",
+      "translated_sentence_sk": "Vitalita a energia",
+      "individual_effect_cz": "Podpora vitality",
+      "individual_effect_sk": "Podpora vitality",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Červená repa je jednou z piatich zložiek.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 2484
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 2223
+        }
+      ]
+    },
+    {
+      "id": "SK-128",
+      "source_text_index": 121,
+      "sentence_index": 0,
+      "source_sentence_cz": "Vitalita a energie",
+      "translated_sentence_sk": "Vitalita a energia",
+      "individual_effect_cz": "Dodání / podpora energie",
+      "individual_effect_sk": "Dodanie / podpora energie",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok kombinuje chitosan, extrakt z bielej fazule, červenú repu, jablčný ocot a chróm.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 2484
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "text",
+          "tag": "div",
+          "source_start": 2223
+        }
+      ]
+    },
+    {
+      "id": "SK-129",
+      "source_text_index": 126,
+      "sentence_index": 0,
+      "source_sentence_cz": "Kontrola chuti k jídlu",
+      "translated_sentence_sk": "Kontrola chuti do jedla",
+      "individual_effect_cz": "Kontrola chuti k jídlu",
+      "individual_effect_sk": "Kontrola chuti do jedla",
+      "status": "UNVERIFIED — internal faithful draft only, not approved for publication",
+      "neutral_alternative_sk": "Prípravok je vo forme kapsúl.",
+      "alternative_applied": false,
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1955
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+          "kind": "attribute",
+          "tag": "img",
+          "source_start": 1694
+        }
+      ]
+    }
+  ],
+  "assembled_short_paragraphs": [
+    {
+      "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+      "source": "Slim SOS Fat Burner je první pomoc pro trávení i štíhlou linii. Spojuje účinky přírodního chitosanu, extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi. Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+      "target": "Slim SOS Fat Burner je prvou pomocou pre trávenie aj štíhlu líniu. Spája účinky prírodného chitosanu, extraktu z bielej fazule, červenej repy a jablčného octu s chrómom pre vyrovnanú hladinu cukru v krvi. Praktické kapsuly, ktoré pomôžu, keď jedálny lístok práve nie je úplne vyvážený.",
+      "joined_inline_grammar_review": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+      "source": "Slim SOS Fat Burner je první pomoc pro trávení i štíhlou linii. Spojuje účinky přírodního chitosanu, extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi. Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+      "target": "Slim SOS Fat Burner je prvou pomocou pre trávenie aj štíhlu líniu. Spája účinky prírodného chitosanu, extraktu z bielej fazule, červenej repy a jablčného octu s chrómom pre vyrovnanú hladinu cukru v krvi. Praktické kapsuly, ktoré pomôžu, keď jedálny lístok práve nie je úplne vyvážený.",
+      "joined_inline_grammar_review": true
+    }
+  ]
+}

@@ -1,0 +1,1062 @@
+{
+  "source_commit": "95f3ff9e3ce421f4918c241a7e43fe4a8541c4d7",
+  "files": [
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "lang": "en",
+      "bytes": 25673,
+      "sha256": "0e4e71ddda8143b3bf314cb3028012280e594a7f8a18e637437927ca23a030b9",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "lang": "en",
+      "bytes": 3469,
+      "sha256": "3610dc22cb7da57667efcc0838aaa94c99dcfc3854358495f9e9a9f52b43f369",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "lang": "de",
+      "bytes": 27074,
+      "sha256": "2538232f8d0562e0dbc3470995facfe1c235ae6c3168377d3abf132b2b8387c3",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-de.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "lang": "de",
+      "bytes": 3771,
+      "sha256": "0db5cdbece7b2bf5500564cbef1ce501640e9a6cf12c62362c0eebc7198b164b",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "lang": "sk",
+      "bytes": 25996,
+      "sha256": "2e1cd3bfc4a31dafa66547e77a5a5a79b73508133ecc1f35896909059c198641",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "lang": "sk",
+      "bytes": 3689,
+      "sha256": "ddd0e0ef65781bcbd2a0dfac64740c2fcece5abd381620e8b23afff118e619c6",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "source": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "lang": "en",
+      "bytes": 24181,
+      "sha256": "c3d2f7fdf52c8c9c54e13a50d824ce18bcf14072d75496a833f17eb4d6328f30",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+      "source": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-cz.html",
+      "lang": "en",
+      "bytes": 3233,
+      "sha256": "5674d98b01d92c6f2ac6d35954cc0966ec05ec149a91340889c4676187e53bda",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "source": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "lang": "de",
+      "bytes": 25600,
+      "sha256": "56dff472c7f6679eafcaedcea2d143c41b5d226ee334134ac6d1a96a0e7fb1f1",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-de.html",
+      "source": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-cz.html",
+      "lang": "de",
+      "bytes": 3539,
+      "sha256": "33484dee355812fd91765c3152d25007e9f551ce6c456ea69d13b6f8af3f546d",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "source": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "lang": "sk",
+      "bytes": 24486,
+      "sha256": "e130c977c60abf0774005f377ae15102e7aa46c491559c5fd23bc20bca6d2b9d",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+      "source": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-cz.html",
+      "lang": "sk",
+      "bytes": 3442,
+      "sha256": "06a6f1d75109dfdd057de2fcb7e43d4a238784a664b38034bff4769e1ff4ba8b",
+      "protected_attributes_equal": true,
+      "table_numbers_equal": true
+    }
+  ],
+  "browser_scenarios": [
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "en",
+      "width": 375,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 3,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "en",
+      "width": 768,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "en",
+      "width": 820,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "en",
+      "width": 1440,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "de",
+      "width": 375,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 3,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "de",
+      "width": 768,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "de",
+      "width": 820,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "de",
+      "width": 1440,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "sk",
+      "width": 375,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 3,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "sk",
+      "width": 768,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "sk",
+      "width": 820,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "slim-sos-fat-burner",
+      "lang": "sk",
+      "width": 1440,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "en",
+      "width": 375,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 3,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "en",
+      "width": 768,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "en",
+      "width": 820,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "en",
+      "width": 1440,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "de",
+      "width": 375,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 3,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "de",
+      "width": 768,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "de",
+      "width": 820,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "de",
+      "width": 1440,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "sk",
+      "width": 375,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 3,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "sk",
+      "width": 768,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "sk",
+      "width": 820,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    },
+    {
+      "theme": "double-slim-sos-burner",
+      "lang": "sk",
+      "width": 1440,
+      "dialogs": 5,
+      "cta": true,
+      "images": 23,
+      "mobile_toggles": 0,
+      "overflow": false,
+      "js_errors": [],
+      "completed_external_requests": 0
+    }
+  ],
+  "script_ast": [
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": [
+        {
+          "script": 1,
+          "source": "Zobrazit více",
+          "target": "Show more"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více: ",
+          "target": "Show more: "
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit méně",
+          "target": "Show less"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více",
+          "target": "Show more"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit méně: ",
+          "target": "Show less: "
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více: ",
+          "target": "Show more: "
+        },
+        {
+          "script": 1,
+          "source": "Pět složek v tobolkách. Denní dávka jsou dvě tobolky.",
+          "target": "Five ingredients in capsules. The daily dose is two capsules."
+        },
+        {
+          "script": 1,
+          "source": "60 tobolek · 30 denních dávek · 2 tobolky denně",
+          "target": "60 capsules · 30 daily doses · 2 capsules daily"
+        }
+      ]
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": []
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": [
+        {
+          "script": 1,
+          "source": "Zobrazit více",
+          "target": "Mehr anzeigen"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více: ",
+          "target": "Mehr anzeigen: "
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit méně",
+          "target": "Weniger anzeigen"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více",
+          "target": "Mehr anzeigen"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit méně: ",
+          "target": "Weniger anzeigen: "
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více: ",
+          "target": "Mehr anzeigen: "
+        },
+        {
+          "script": 1,
+          "source": "Pět složek v tobolkách. Denní dávka jsou dvě tobolky.",
+          "target": "Fünf Inhaltsstoffe in Kapseln. Die Tagesdosis beträgt zwei Kapseln."
+        },
+        {
+          "script": 1,
+          "source": "60 tobolek · 30 denních dávek · 2 tobolky denně",
+          "target": "60 Kapseln · 30 Tagesdosen · 2 Kapseln täglich"
+        }
+      ]
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-de.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": []
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": [
+        {
+          "script": 1,
+          "source": "Zobrazit více",
+          "target": "Zobraziť viac"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více: ",
+          "target": "Zobraziť viac: "
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit méně",
+          "target": "Zobraziť menej"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více",
+          "target": "Zobraziť viac"
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit méně: ",
+          "target": "Zobraziť menej: "
+        },
+        {
+          "script": 1,
+          "source": "Zobrazit více: ",
+          "target": "Zobraziť viac: "
+        },
+        {
+          "script": 1,
+          "source": "Pět složek v tobolkách. Denní dávka jsou dvě tobolky.",
+          "target": "Päť zložiek v kapsulách. Denná dávka sú dve kapsuly."
+        },
+        {
+          "script": 1,
+          "source": "60 tobolek · 30 denních dávek · 2 tobolky denně",
+          "target": "60 kapsúl · 30 denných dávok · 2 kapsuly denne"
+        }
+      ]
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": []
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": [
+        {
+          "script": 0,
+          "source": "Zobrazit více",
+          "target": "Show more"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více: ",
+          "target": "Show more: "
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit méně",
+          "target": "Show less"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více",
+          "target": "Show more"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit méně: ",
+          "target": "Show less: "
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více: ",
+          "target": "Show more: "
+        },
+        {
+          "script": 0,
+          "source": "Dvě dózy stejného produktu. Denní dávka zůstává dvě tobolky.",
+          "target": "Two jars of the same product. The daily dose remains two capsules."
+        },
+        {
+          "script": 0,
+          "source": "2 × 60 tobolek · 60 denních dávek · 2 tobolky denně",
+          "target": "2 × 60 capsules · 60 daily doses · 2 capsules daily"
+        }
+      ]
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": []
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": [
+        {
+          "script": 0,
+          "source": "Zobrazit více",
+          "target": "Mehr anzeigen"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více: ",
+          "target": "Mehr anzeigen: "
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit méně",
+          "target": "Weniger anzeigen"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více",
+          "target": "Mehr anzeigen"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit méně: ",
+          "target": "Weniger anzeigen: "
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více: ",
+          "target": "Mehr anzeigen: "
+        },
+        {
+          "script": 0,
+          "source": "Dvě dózy stejného produktu. Denní dávka zůstává dvě tobolky.",
+          "target": "Zwei Dosen desselben Produkts. Die Tagesdosis bleibt bei zwei Kapseln."
+        },
+        {
+          "script": 0,
+          "source": "2 × 60 tobolek · 60 denních dávek · 2 tobolky denně",
+          "target": "2 × 60 Kapseln · 60 Tagesdosen · 2 Kapseln täglich"
+        }
+      ]
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-de.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": []
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": [
+        {
+          "script": 0,
+          "source": "Zobrazit více",
+          "target": "Zobraziť viac"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více: ",
+          "target": "Zobraziť viac: "
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit méně",
+          "target": "Zobraziť menej"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více",
+          "target": "Zobraziť viac"
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit méně: ",
+          "target": "Zobraziť menej: "
+        },
+        {
+          "script": 0,
+          "source": "Zobrazit více: ",
+          "target": "Zobraziť viac: "
+        },
+        {
+          "script": 0,
+          "source": "Dvě dózy stejného produktu. Denní dávka zůstává dvě tobolky.",
+          "target": "Dve dózy rovnakého produktu. Denná dávka zostáva dve kapsuly."
+        },
+        {
+          "script": 0,
+          "source": "2 × 60 tobolek · 60 denních dávek · 2 tobolky denně",
+          "target": "2 × 60 kapsúl · 60 denných dávok · 2 kapsuly denne"
+        }
+      ]
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+      "syntax_passed": true,
+      "nonliteral_ast_equal": true,
+      "localized_literals": []
+    }
+  ],
+  "reversibility": [
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "source": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+      "source": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "source": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-de.html",
+      "source": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-de.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "source": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+      "source": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    },
+    {
+      "path": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+      "source": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-cz.html",
+      "reverse_byte_identical": true,
+      "source_matches_pinned_git": true
+    }
+  ],
+  "offline_viewer": {
+    "selections": [
+      {
+        "index": 0,
+        "lang": "en",
+        "pid": "473",
+        "five_dialogs": true,
+        "cta_in_frame": true,
+        "narrow_short_host": true,
+        "resize_roundtrip": true
+      },
+      {
+        "index": 1,
+        "lang": "de",
+        "pid": "473",
+        "five_dialogs": true,
+        "cta_in_frame": true,
+        "narrow_short_host": true,
+        "resize_roundtrip": true
+      },
+      {
+        "index": 2,
+        "lang": "sk",
+        "pid": "473",
+        "five_dialogs": true,
+        "cta_in_frame": true,
+        "narrow_short_host": true,
+        "resize_roundtrip": true
+      },
+      {
+        "index": 3,
+        "lang": "en",
+        "pid": "573",
+        "five_dialogs": true,
+        "cta_in_frame": true,
+        "narrow_short_host": true,
+        "resize_roundtrip": true
+      },
+      {
+        "index": 4,
+        "lang": "de",
+        "pid": "573",
+        "five_dialogs": true,
+        "cta_in_frame": true,
+        "narrow_short_host": true,
+        "resize_roundtrip": true
+      },
+      {
+        "index": 5,
+        "lang": "sk",
+        "pid": "573",
+        "five_dialogs": true,
+        "cta_in_frame": true,
+        "narrow_short_host": true,
+        "resize_roundtrip": true
+      },
+      {
+        "index": 0,
+        "lang": "en",
+        "pid": "473",
+        "five_dialogs": true,
+        "cta_in_frame": true,
+        "narrow_short_host": true,
+        "resize_roundtrip": true
+      }
+    ],
+    "js_errors": [],
+    "external_completed_requests": []
+  },
+  "public_language_targets": [
+    {
+      "pid": "473",
+      "lang": "de",
+      "url": "https://www.golden-life.cz/de/slim-sos-fat-burner/",
+      "final": "https://www.golden-life.cz/de/slim-sos-fat-burner/",
+      "status": 200,
+      "page_language": "de",
+      "native_ids": [
+        "473"
+      ]
+    },
+    {
+      "pid": "473",
+      "lang": "en",
+      "url": "https://www.golden-life.cz/en/sos-fat--burner/",
+      "final": "https://www.golden-life.cz/en/sos-fat--burner/",
+      "status": 200,
+      "page_language": "en",
+      "native_ids": [
+        "473"
+      ]
+    },
+    {
+      "pid": "473",
+      "lang": "sk",
+      "url": "https://www.golden-life.cz/sk/slim-sos-fat-burner/",
+      "final": "https://www.golden-life.cz/sk/slim-sos-fat-burner/",
+      "status": 200,
+      "page_language": "sk",
+      "native_ids": [
+        "473"
+      ]
+    },
+    {
+      "pid": "573",
+      "lang": "de",
+      "url": "https://www.golden-life.cz/de/double-slim-sos-burner/",
+      "final": "https://www.golden-life.cz/de/double-slim-sos-burner/",
+      "status": 200,
+      "page_language": "de",
+      "native_ids": [
+        "573"
+      ]
+    },
+    {
+      "pid": "573",
+      "lang": "en",
+      "url": "https://www.golden-life.cz/en/double-slim-sos-burner/",
+      "final": "https://www.golden-life.cz/en/double-slim-sos-burner/",
+      "status": 200,
+      "page_language": "en",
+      "native_ids": [
+        "573"
+      ]
+    },
+    {
+      "pid": "573",
+      "lang": "sk",
+      "url": "https://www.golden-life.cz/sk/double-slim-sos-burner/",
+      "final": "https://www.golden-life.cz/sk/double-slim-sos-burner/",
+      "status": 200,
+      "page_language": "sk",
+      "native_ids": [
+        "573"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/473-1_sos-web.png?ff=1&x=1024&y=1024&q=85&ts=6adf0f19&sg=38cb01fe",
+      "status": 200,
+      "sha256": "18d4ecec840f85fcb25ca065ab759d313b8172e06178c4ed9dabacf173ddf410",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/573_double-sos-burner.jpg?ff=1&x=1024&y=1024&q=85&ts=6a59d20f&sg=38cb01fe",
+      "status": 200,
+      "sha256": "19cb08c9e96271c1f2f50d11fa6b1d9322033633cdfd4549b43cbf0a47e7c1dc",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/blesk.png",
+      "status": 200,
+      "sha256": "2f3ff8bfe4887e589172e8dad1abea2d51810a96928b44c309b03a7d5457b84a",
+      "size": [
+        140,
+        140
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/cukr.png",
+      "status": 200,
+      "sha256": "351be7b0f421ab5136d05709c5b83df50f2a88d69875a804230a24f1527204ff",
+      "size": [
+        557,
+        557
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ikonaCZ.png",
+      "status": 200,
+      "sha256": "9818f3059ed097dc461bdc410cfa6b39e5254227292b29e5edade137a5a7cd71",
+      "size": [
+        279,
+        279
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/imunita.png",
+      "status": 200,
+      "sha256": "d3de152c94209c30c2ece0287d3c2cd701524f1443871bbed6876e15282b9693",
+      "size": [
+        145,
+        145
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/ronovaha.png",
+      "status": 200,
+      "sha256": "ce0f476f8ddc592f1168aca066450d951477edba7d9ae2b90f039e3416b12091",
+      "size": [
+        418,
+        418
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/spalovani.png",
+      "status": 200,
+      "sha256": "b2c5e07d2624d0a6bc7de9ad5a2f19570c9143968427047ed7a20c442e7f34a8",
+      "size": [
+        145,
+        145
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/e9d60dfc5bc00c41753a1eb4746ebbc1fe171ec4/assets/slim-sos-fat-burner/icons-pink/traveni.png",
+      "status": 200,
+      "sha256": "2eedfe266c829adc2eec24f7ae23c08319a3482343245145f4ce313f63f02bcf",
+      "size": [
+        145,
+        145
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/01_chitosan_sos-burner_v1.png",
+      "status": 200,
+      "sha256": "870cf047ff1991d2573a3ee68aee90c5fc3bf6d4bed09d45f9c25713d5c25478",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/02_bile-fazole_sos-burner_v1.png",
+      "status": 200,
+      "sha256": "126623cbc24e05e7f73453752cc1e32f4c16939de5dc3fe450fc1add714e3bce",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/03_cervena-repa_sos-burner_v1.png",
+      "status": 200,
+      "sha256": "4e5825e7b36acba2b547ea0c98fd26ed7afc9dae533dd17a0ea7d77a7bd4cfe7",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/04_jablecny-ocet_sos-burner_v1.png",
+      "status": 200,
+      "sha256": "58702c9488fcdb2a2616173057ad00afdd0ff0679c723d8545cdba25b911ce5b",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/f8aadb35e6e7fdd3a3f0c56b3c27e7f1d589808b/assets/slim-sos-fat-burner/ingredients/05_chrom_sos-burner_v1.png",
+      "status": 200,
+      "sha256": "5bd45345c039c7dadcc6017b57d3bd6c93a9cd0ce9069d28484c444a7fc25f95",
+      "size": [
+        1448,
+        1086
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1617 @@
+{
+  "language": "en",
+  "products": [
+    "473",
+    "573"
+  ],
+  "source_product_file": "/root/workspace/brand/product/slim-sos-fat-burner/info.md",
+  "approved_efsa_wording_in_product_source": false,
+  "review_level": "sentence or source text fragment, deduplicated; all repeated locations recorded",
+  "claim_entries": [
+    {
+      "id": "EN-C001",
+      "source_cs": "Chitosan, bílé fazole, červená řepa, jablečný ocet a chrom pro podporu trávení a kontrolu hmotnosti.",
+      "faithful_en": "Chitosan, white beans, beetroot, apple cider vinegar and chromium to support digestion and weight management.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "A capsule formula containing chitosan, white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan, bílé fazole, červená řepa, jablečný ocet a chrom pro podporu trávení a kontrolu hmotnosti.",
+          "en_context": "Chitosan, white beans, beetroot, apple cider vinegar and chromium to support digestion and weight management."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan, bílé fazole, červená řepa, jablečný ocet a chrom pro podporu trávení a kontrolu hmotnosti.",
+          "en_context": "Chitosan, white beans, beetroot, apple cider vinegar and chromium to support digestion and weight management."
+        }
+      ]
+    },
+    {
+      "id": "EN-C002",
+      "source_cs": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\".",
+      "faithful_en": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chitosan from crustaceans.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        }
+      ]
+    },
+    {
+      "id": "EN-C003",
+      "source_cs": "Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání.",
+      "faithful_en": "It binds fats and cholesterol compounds in the digestive tract and prevents their absorption.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chitosan from crustaceans.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        }
+      ]
+    },
+    {
+      "id": "EN-C004",
+      "source_cs": "Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu.",
+      "faithful_en": "This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chitosan from crustaceans.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        }
+      ]
+    },
+    {
+      "id": "EN-C005",
+      "source_cs": "Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+      "faithful_en": "Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chitosan from crustaceans.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Chitosan je přírodní vláknina získaná z korýšů, která působí jako účinný „lapač tuků\". Váže na sebe tuky a cholesterolové látky v trávicím traktu a brání jejich vstřebávání. Pomáhá tak snížít příjem kalorií, podpořit redukci váhy a udržet zdravou hladinu cholesterolu. Díky své jedinečné schopnosti tvořit gel v žaludku navíc prodlužuje pocit sytosti a zlepšuje kontrolu nad jídelníčkem.",
+          "en_context": "Chitosan is a natural fibre obtained from crustaceans that acts as an effective ‘fat trap’. It binds fats and cholesterol compounds in the digestive tract and prevents their absorption. This helps reduce calorie intake, support weight loss and maintain healthy cholesterol levels. Its unique ability to form a gel in the stomach also prolongs the feeling of fullness and improves control over your diet."
+        }
+      ]
+    },
+    {
+      "id": "EN-C006",
+      "source_cs": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus.",
+      "faithful_en": "Slim SOS Fat Burner is an ideal companion for weight loss and for everyday life when you want to support digestion and metabolism.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Slim SOS Fat Burner is a food supplement in capsules with five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus. Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+          "en_context": "Slim SOS Fat Burner is an ideal companion for weight loss and for everyday life when you want to support digestion and metabolism. The combination of chitosan, white bean extract, beetroot, apple cider vinegar and chromium provides comprehensive support – from blocking fats and carbohydrates to increasing vitality and maintaining stable blood sugar levels."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus. Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+          "en_context": "Slim SOS Fat Burner is an ideal companion for weight loss and for everyday life when you want to support digestion and metabolism. The combination of chitosan, white bean extract, beetroot, apple cider vinegar and chromium provides comprehensive support – from blocking fats and carbohydrates to increasing vitality and maintaining stable blood sugar levels."
+        }
+      ]
+    },
+    {
+      "id": "EN-C007",
+      "source_cs": "Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+      "faithful_en": "The combination of chitosan, white bean extract, beetroot, apple cider vinegar and chromium provides comprehensive support – from blocking fats and carbohydrates to increasing vitality and maintaining stable blood sugar levels.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Slim SOS Fat Burner is a food supplement in capsules with five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus. Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+          "en_context": "Slim SOS Fat Burner is an ideal companion for weight loss and for everyday life when you want to support digestion and metabolism. The combination of chitosan, white bean extract, beetroot, apple cider vinegar and chromium provides comprehensive support – from blocking fats and carbohydrates to increasing vitality and maintaining stable blood sugar levels."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner je ideálním pomocníkem při redukci váhy i v běžném životním stylu, kdy chcete podpořit trávení a metabolismus. Kombinace chitosanu, extraktu z bílých fazolí, červené řepy, jablečného octa a chromu přináší komplexní podporu – od blokace tuků a sacharidů až po zvýšení vitality a udržení stabilní hladiny cukru v krvi.",
+          "en_context": "Slim SOS Fat Burner is an ideal companion for weight loss and for everyday life when you want to support digestion and metabolism. The combination of chitosan, white bean extract, beetroot, apple cider vinegar and chromium provides comprehensive support – from blocking fats and carbohydrates to increasing vitality and maintaining stable blood sugar levels."
+        }
+      ]
+    },
+    {
+      "id": "EN-C008",
+      "source_cs": "Hlavní účinky Slim SOS Fat Burner",
+      "faithful_en": "Main effects of Slim SOS Fat Burner",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Effect-framing heading: review together with its underlying claims; neutral framing suggested separately.",
+      "neutral_alternative_en": "About Slim SOS Fat Burner",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Hlavní účinky Slim SOS Fat Burner",
+          "en_context": "Main effects of Slim SOS Fat Burner"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Hlavní účinky Slim SOS Fat Burner",
+          "en_context": "Main effects of Slim SOS Fat Burner"
+        }
+      ]
+    },
+    {
+      "id": "EN-C009",
+      "source_cs": "Blokuje tuky a sacharidy",
+      "faithful_en": "Blocks fats and carbohydrates",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chitosan and white bean extract.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        }
+      ]
+    },
+    {
+      "id": "EN-C010",
+      "source_cs": "Podporuje trávení",
+      "faithful_en": "Supports digestion",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Capsule formula with five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení",
+          "en_context": "Supports digestion"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Podporuje trávení",
+          "en_context": "Supports digestion"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení",
+          "en_context": "Supports digestion"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení",
+          "en_context": "Supports digestion"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Podporuje trávení",
+          "en_context": "Supports digestion"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení",
+          "en_context": "Supports digestion"
+        }
+      ]
+    },
+    {
+      "id": "EN-C011",
+      "source_cs": "Dodává vitalitu a energii",
+      "faithful_en": "Provides vitality and energy",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains beetroot.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Dodává vitalitu a energii",
+          "en_context": "Provides vitality and energy"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Dodává vitalitu a energii",
+          "en_context": "Provides vitality and energy"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Dodává vitalitu a energii",
+          "en_context": "Provides vitality and energy"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Dodává vitalitu a energii",
+          "en_context": "Provides vitality and energy"
+        }
+      ]
+    },
+    {
+      "id": "EN-C012",
+      "source_cs": "Podpora imunity",
+      "faithful_en": "Immune support",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "About the formula",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora imunity",
+          "en_context": "Immune support"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora imunity",
+          "en_context": "Immune support"
+        }
+      ]
+    },
+    {
+      "id": "EN-C013",
+      "source_cs": "Rovnováha metabolismu",
+      "faithful_en": "Metabolic balance",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Rovnováha metabolismu",
+          "en_context": "Metabolic balance"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Rovnováha metabolismu",
+          "en_context": "Metabolic balance"
+        }
+      ]
+    },
+    {
+      "id": "EN-C014",
+      "source_cs": "Jak funguje",
+      "faithful_en": "How it works",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Effect-framing heading: review together with its underlying claims; neutral framing suggested separately.",
+      "neutral_alternative_en": "About the ingredients",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Jak funguje",
+          "en_context": "How it works"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "heading-regexp",
+          "attribute": null,
+          "source_context": "/Jak funguje|Účinky/",
+          "en_context": "/How it works|Effects/"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Jak funguje",
+          "en_context": "How it works"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "heading-regexp",
+          "attribute": null,
+          "source_context": "/Jak funguje|Účinky/",
+          "en_context": "/How it works|Effects/"
+        }
+      ]
+    },
+    {
+      "id": "EN-C015",
+      "source_cs": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí.",
+      "faithful_en": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "The formula combines chitosan, white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C016",
+      "source_cs": "Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem.",
+      "faithful_en": "Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "The formula combines chitosan, white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C017",
+      "source_cs": "Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké.",
+      "faithful_en": "White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "The formula combines chitosan, white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C018",
+      "source_cs": "Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu.",
+      "faithful_en": "Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "The formula combines chitosan, white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C019",
+      "source_cs": "Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké.",
+      "faithful_en": "Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "The formula combines chitosan, white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C020",
+      "source_cs": "Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+      "faithful_en": "Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "The formula combines chitosan, white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Slim SOS Fat Burner využívá synergii pěti účinných složek pro efektivní podporu hubnutí. Základem je chitosan – přírodní vláknina, která váže tuky v trávicím traktu a brání jejich vstřebávání, čímž pomáhá snížit kalorický příjem. Extrakt z bílých fazolí zpomaluje štěpení sacharidů a udržuje stabilní hladinu cukru v krvi, což omezuje prudké výkyvy energie a chuť na sladké. Červená řepa bohatá na antioxidanty podporuje vitalitu, okysličení tkání a detoxikaci organismu. Jablečný ocet přirozeně podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků, zatímco chrom jako klíčový stopový prvek stabilizuje hladinu glukózy v krvi a snižuje chutě na sladké. Díky této komplexní kombinaci přípravek působí na více úrovních – blokuje vstřebávání přebytečných kalorií, podporuje zdravé trávení, dodává energii a pomáhá udržet kontrolu nad tělesnou hmotností bez drastických diet.",
+          "en_context": "Slim SOS Fat Burner uses the synergy of five active ingredients to support weight loss effectively. Its foundation is chitosan – a natural fibre that binds fats in the digestive tract and prevents their absorption, helping to reduce calorie intake. White bean extract slows the breakdown of carbohydrates and maintains stable blood sugar levels, limiting sharp energy fluctuations and cravings for sweets. Beetroot, rich in antioxidants, supports vitality, tissue oxygenation and detoxification of the body. Apple cider vinegar naturally supports digestion, the production of digestive juices and fat metabolism, while chromium, a key trace element, stabilises blood glucose levels and reduces cravings for sweets. Thanks to this comprehensive combination, the product acts on several levels – blocking the absorption of excess calories, supporting healthy digestion, providing energy and helping to maintain control over body weight without drastic diets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C021",
+      "source_cs": "Účinky",
+      "faithful_en": "Effects",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Effect-framing heading: review together with its underlying claims; neutral framing suggested separately.",
+      "neutral_alternative_en": "Formula overview",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Účinky",
+          "en_context": "Effects"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "heading-regexp",
+          "attribute": null,
+          "source_context": "/Jak funguje|Účinky/",
+          "en_context": "/How it works|Effects/"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Účinky",
+          "en_context": "Effects"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "heading-regexp",
+          "attribute": null,
+          "source_context": "/Jak funguje|Účinky/",
+          "en_context": "/How it works|Effects/"
+        }
+      ]
+    },
+    {
+      "id": "EN-C022",
+      "source_cs": "Blokace části tuků a sacharidů ze stravy.",
+      "faithful_en": "Blocking some dietary fats and carbohydrates.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Five listed ingredients in capsules.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy.",
+          "en_context": "Blocking some dietary fats and carbohydrates."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy.",
+          "en_context": "Blocking some dietary fats and carbohydrates."
+        }
+      ]
+    },
+    {
+      "id": "EN-C023",
+      "source_cs": "Přirozená kontrola tělesné hmotnosti.",
+      "faithful_en": "Natural body weight management.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Five listed ingredients in capsules.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Přirozená kontrola tělesné hmotnosti.",
+          "en_context": "Natural body weight management."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Přirozená kontrola tělesné hmotnosti.",
+          "en_context": "Natural body weight management."
+        }
+      ]
+    },
+    {
+      "id": "EN-C024",
+      "source_cs": "Lehčí trávení po tučnějším jídle.",
+      "faithful_en": "Easier digestion after a fatty meal.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Five listed ingredients in capsules.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Lehčí trávení po tučnějším jídle.",
+          "en_context": "Easier digestion after a fatty meal."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Lehčí trávení po tučnějším jídle.",
+          "en_context": "Easier digestion after a fatty meal."
+        }
+      ]
+    },
+    {
+      "id": "EN-C025",
+      "source_cs": "Podpora vitality, energie a imunity.",
+      "faithful_en": "Support for vitality, energy and immunity.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Five listed ingredients in capsules.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora vitality, energie a imunity.",
+          "en_context": "Support for vitality, energy and immunity."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora vitality, energie a imunity.",
+          "en_context": "Support for vitality, energy and immunity."
+        }
+      ]
+    },
+    {
+      "id": "EN-C026",
+      "source_cs": "Vyrovnaný metabolismus cukrů a tuků.",
+      "faithful_en": "Balanced carbohydrate and fat metabolism.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Five listed ingredients in capsules.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Vyrovnaný metabolismus cukrů a tuků.",
+          "en_context": "Balanced carbohydrate and fat metabolism."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Vyrovnaný metabolismus cukrů a tuků.",
+          "en_context": "Balanced carbohydrate and fat metabolism."
+        }
+      ]
+    },
+    {
+      "id": "EN-C027",
+      "source_cs": "Stabilní hladina glukózy v krvi a snížené chutě na sladké.",
+      "faithful_en": "Stable blood glucose levels and reduced cravings for sweets.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Five listed ingredients in capsules.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stabilní hladina glukózy v krvi a snížené chutě na sladké.",
+          "en_context": "Stable blood glucose levels and reduced cravings for sweets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stabilní hladina glukózy v krvi a snížené chutě na sladké.",
+          "en_context": "Stable blood glucose levels and reduced cravings for sweets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C028",
+      "source_cs": "Podpora detoxikace jater a okysličení tkání.",
+      "faithful_en": "Support for liver detoxification and tissue oxygenation.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Five listed ingredients in capsules.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokace části tuků a sacharidů ze stravy. Přirozená kontrola tělesné hmotnosti. Lehčí trávení po tučnějším jídle. Podpora vitality, energie a imunity. Vyrovnaný metabolismus cukrů a tuků. Stabilní hladina glukózy v krvi a snížené chutě na sladké. Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Blocking some dietary fats and carbohydrates. Natural body weight management. Easier digestion after a fatty meal. Support for vitality, energy and immunity. Balanced carbohydrate and fat metabolism. Stable blood glucose levels and reduced cravings for sweets. Support for liver detoxification and tissue oxygenation."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora detoxikace jater a okysličení tkání.",
+          "en_context": "Support for liver detoxification and tissue oxygenation."
+        }
+      ]
+    },
+    {
+      "id": "EN-C029",
+      "source_cs": "Co vám přinese",
+      "faithful_en": "What it offers you",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Effect-framing heading: review together with its underlying claims; neutral framing suggested separately.",
+      "neutral_alternative_en": "Product overview",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Co vám přinese",
+          "en_context": "What it offers you"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Co vám přinese",
+          "en_context": "What it offers you"
+        }
+      ]
+    },
+    {
+      "id": "EN-C030",
+      "source_cs": "Přírodní „lapač tuků\" pro nižší kalorický příjem.",
+      "faithful_en": "A natural ‘fat trap’ for lower calorie intake.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Chitosan from crustaceans.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Přírodní „lapač tuků\" pro nižší kalorický příjem.",
+          "en_context": "A natural ‘fat trap’ for lower calorie intake."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Přírodní „lapač tuků\" pro nižší kalorický příjem.",
+          "en_context": "A natural ‘fat trap’ for lower calorie intake."
+        }
+      ]
+    },
+    {
+      "id": "EN-C031",
+      "source_cs": "Zpomaluje štěpení sacharidů a snižuje chuť na sladké.",
+      "faithful_en": "Slows the breakdown of carbohydrates and reduces cravings for sweets.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains white bean extract.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení sacharidů a snižuje chuť na sladké.",
+          "en_context": "Slows the breakdown of carbohydrates and reduces cravings for sweets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení sacharidů a snižuje chuť na sladké.",
+          "en_context": "Slows the breakdown of carbohydrates and reduces cravings for sweets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C032",
+      "source_cs": "Antioxidanty pro vitalitu, okysličení a detoxikaci.",
+      "faithful_en": "Antioxidants for vitality, oxygenation and detoxification.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains beetroot.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Antioxidanty pro vitalitu, okysličení a detoxikaci.",
+          "en_context": "Antioxidants for vitality, oxygenation and detoxification."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Antioxidanty pro vitalitu, okysličení a detoxikaci.",
+          "en_context": "Antioxidants for vitality, oxygenation and detoxification."
+        }
+      ]
+    },
+    {
+      "id": "EN-C033",
+      "source_cs": "Podpora trávení, metabolismu tuků a lehkosti po jídle.",
+      "faithful_en": "Support for digestion, fat metabolism and feeling light after meals.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains apple cider vinegar.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora trávení, metabolismu tuků a lehkosti po jídle.",
+          "en_context": "Support for digestion, fat metabolism and feeling light after meals."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podpora trávení, metabolismu tuků a lehkosti po jídle.",
+          "en_context": "Support for digestion, fat metabolism and feeling light after meals."
+        }
+      ]
+    },
+    {
+      "id": "EN-C034",
+      "source_cs": "Stabilizuje hladinu cukru a snižuje chutě na sladké.",
+      "faithful_en": "Stabilises blood sugar levels and reduces cravings for sweets.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stabilizuje hladinu cukru a snižuje chutě na sladké.",
+          "en_context": "Stabilises blood sugar levels and reduces cravings for sweets."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stabilizuje hladinu cukru a snižuje chutě na sladké.",
+          "en_context": "Stabilises blood sugar levels and reduces cravings for sweets."
+        }
+      ]
+    },
+    {
+      "id": "EN-C035",
+      "source_cs": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi.",
+      "faithful_en": "Slows the breakdown and absorption of carbohydrates, limiting sharp fluctuations in blood sugar levels.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "White bean extract is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi. Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti. Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+          "en_context": "Slows the breakdown and absorption of carbohydrates, limiting sharp fluctuations in blood sugar levels. Maintains a longer-lasting feeling of fullness, reduces cravings for sweets and supports weight management. Contains natural blockers of alpha-amylase, the enzyme responsible for breaking down starches."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi. Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti. Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+          "en_context": "Slows the breakdown and absorption of carbohydrates, limiting sharp fluctuations in blood sugar levels. Maintains a longer-lasting feeling of fullness, reduces cravings for sweets and supports weight management. Contains natural blockers of alpha-amylase, the enzyme responsible for breaking down starches."
+        }
+      ]
+    },
+    {
+      "id": "EN-C036",
+      "source_cs": "Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti.",
+      "faithful_en": "Maintains a longer-lasting feeling of fullness, reduces cravings for sweets and supports weight management.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "White bean extract is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi. Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti. Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+          "en_context": "Slows the breakdown and absorption of carbohydrates, limiting sharp fluctuations in blood sugar levels. Maintains a longer-lasting feeling of fullness, reduces cravings for sweets and supports weight management. Contains natural blockers of alpha-amylase, the enzyme responsible for breaking down starches."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi. Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti. Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+          "en_context": "Slows the breakdown and absorption of carbohydrates, limiting sharp fluctuations in blood sugar levels. Maintains a longer-lasting feeling of fullness, reduces cravings for sweets and supports weight management. Contains natural blockers of alpha-amylase, the enzyme responsible for breaking down starches."
+        }
+      ]
+    },
+    {
+      "id": "EN-C037",
+      "source_cs": "Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+      "faithful_en": "Contains natural blockers of alpha-amylase, the enzyme responsible for breaking down starches.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "White bean extract is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi. Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti. Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+          "en_context": "Slows the breakdown and absorption of carbohydrates, limiting sharp fluctuations in blood sugar levels. Maintains a longer-lasting feeling of fullness, reduces cravings for sweets and supports weight management. Contains natural blockers of alpha-amylase, the enzyme responsible for breaking down starches."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Zpomaluje štěpení a vstřebávání sacharidů, čímž omezuje prudké výkyvy hladiny cukru v krvi. Udržuje delší pocit sytosti, snižuje chuť na sladké a podporuje kontrolu hmotnosti. Obsahuje přírodní blokátory alfa-amylázy, enzymu odpovědného za rozklad škrobů.",
+          "en_context": "Slows the breakdown and absorption of carbohydrates, limiting sharp fluctuations in blood sugar levels. Maintains a longer-lasting feeling of fullness, reduces cravings for sweets and supports weight management. Contains natural blockers of alpha-amylase, the enzyme responsible for breaking down starches."
+        }
+      ]
+    },
+    {
+      "id": "EN-C038",
+      "source_cs": "Bohatá na antioxidanty, vitaminy a minerály.",
+      "faithful_en": "Rich in antioxidants, vitamins and minerals.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Beetroot is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        }
+      ]
+    },
+    {
+      "id": "EN-C039",
+      "source_cs": "Podporuje vitalitu, okysličení tkání i sportovní výkon.",
+      "faithful_en": "Supports vitality, tissue oxygenation and athletic performance.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Beetroot is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        }
+      ]
+    },
+    {
+      "id": "EN-C040",
+      "source_cs": "Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater.",
+      "faithful_en": "Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Beetroot is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        }
+      ]
+    },
+    {
+      "id": "EN-C041",
+      "source_cs": "Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+      "faithful_en": "It also contains nitrates, which naturally improve blood flow and performance.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Beetroot is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Bohatá na antioxidanty, vitaminy a minerály. Podporuje vitalitu, okysličení tkání i sportovní výkon. Díky betainu chrání buňky před oxidačním stresem a podporuje detoxikaci jater. Obsahuje také dusičnany, které přirozeně zlepšují prokrvení a výkonnost.",
+          "en_context": "Rich in antioxidants, vitamins and minerals. Supports vitality, tissue oxygenation and athletic performance. Thanks to betaine, it protects cells from oxidative stress and supports liver detoxification. It also contains nitrates, which naturally improve blood flow and performance."
+        }
+      ]
+    },
+    {
+      "id": "EN-C042",
+      "source_cs": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků.",
+      "faithful_en": "Supports digestion, the production of digestive juices and fat metabolism.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Apple cider vinegar is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        }
+      ]
+    },
+    {
+      "id": "EN-C043",
+      "source_cs": "Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu.",
+      "faithful_en": "Helps maintain a feeling of lightness after meals and natural appetite control.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Apple cider vinegar is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        }
+      ]
+    },
+    {
+      "id": "EN-C044",
+      "source_cs": "Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+      "faithful_en": "The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Apple cider vinegar is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Podporuje trávení, tvorbu trávicích šťáv a metabolismus tuků. Pomáhá udržet pocit lehkosti po jídle a přirozenou kontrolu chuti k jídlu. Kyselina octová v něm obsažená zlepšuje vstřebávání živin a podporuje zdravou střevní mikroflóru.",
+          "en_context": "Supports digestion, the production of digestive juices and fat metabolism. Helps maintain a feeling of lightness after meals and natural appetite control. The acetic acid it contains improves nutrient absorption and supports healthy intestinal microflora."
+        }
+      ]
+    },
+    {
+      "id": "EN-C045",
+      "source_cs": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin.",
+      "faithful_en": "A trace element important for the metabolism of carbohydrates, fats and proteins.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Chromium is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin. Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne. Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+          "en_context": "A trace element important for the metabolism of carbohydrates, fats and proteins. Stabilises blood sugar levels, reduces cravings for sweets and supports energy throughout the day. Chromium is essential for proper insulin function and helps maintain stable body weight."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin. Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne. Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+          "en_context": "A trace element important for the metabolism of carbohydrates, fats and proteins. Stabilises blood sugar levels, reduces cravings for sweets and supports energy throughout the day. Chromium is essential for proper insulin function and helps maintain stable body weight."
+        }
+      ]
+    },
+    {
+      "id": "EN-C046",
+      "source_cs": "Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne.",
+      "faithful_en": "Stabilises blood sugar levels, reduces cravings for sweets and supports energy throughout the day.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Chromium is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin. Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne. Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+          "en_context": "A trace element important for the metabolism of carbohydrates, fats and proteins. Stabilises blood sugar levels, reduces cravings for sweets and supports energy throughout the day. Chromium is essential for proper insulin function and helps maintain stable body weight."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin. Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne. Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+          "en_context": "A trace element important for the metabolism of carbohydrates, fats and proteins. Stabilises blood sugar levels, reduces cravings for sweets and supports energy throughout the day. Chromium is essential for proper insulin function and helps maintain stable body weight."
+        }
+      ]
+    },
+    {
+      "id": "EN-C047",
+      "source_cs": "Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+      "faithful_en": "Chromium is essential for proper insulin function and helps maintain stable body weight.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Chromium is one of the five listed ingredients.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin. Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne. Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+          "en_context": "A trace element important for the metabolism of carbohydrates, fats and proteins. Stabilises blood sugar levels, reduces cravings for sweets and supports energy throughout the day. Chromium is essential for proper insulin function and helps maintain stable body weight."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Stopový prvek důležitý pro metabolismus cukrů, tuků a bílkovin. Stabilizuje hladinu cukru v krvi, snižuje chutě na sladké a podporuje energii během dne. Chrom je nezbytný pro správnou funkci inzulínu a pomáhá udržet stabilní tělesnou hmotnost.",
+          "en_context": "A trace element important for the metabolism of carbohydrates, fats and proteins. Stabilises blood sugar levels, reduces cravings for sweets and supports energy throughout the day. Chromium is essential for proper insulin function and helps maintain stable body weight."
+        }
+      ]
+    },
+    {
+      "id": "EN-C048",
+      "source_cs": "je první pomoc pro trávení i štíhlou linii.",
+      "faithful_en": "is first aid for digestion and a slim figure.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "The “first aid” wording can imply medicinal positioning; retained solely for a faithful internal draft, not approved for publication.",
+      "neutral_alternative_en": "is a food supplement in capsules. It contains",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "je první pomoc pro trávení i štíhlou linii. Spojuje účinky přírodního",
+          "en_context": "is first aid for digestion and a slim figure. It combines the effects of natural"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "je první pomoc pro trávení i štíhlou linii. Spojuje účinky přírodního",
+          "en_context": "is first aid for digestion and a slim figure. It combines the effects of natural"
+        }
+      ]
+    },
+    {
+      "id": "EN-C049",
+      "source_cs": "Spojuje účinky přírodního",
+      "faithful_en": "It combines the effects of natural",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "The “first aid” wording can imply medicinal positioning; retained solely for a faithful internal draft, not approved for publication.",
+      "neutral_alternative_en": "is a food supplement in capsules. It contains",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "je první pomoc pro trávení i štíhlou linii. Spojuje účinky přírodního",
+          "en_context": "is first aid for digestion and a slim figure. It combines the effects of natural"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "je první pomoc pro trávení i štíhlou linii. Spojuje účinky přírodního",
+          "en_context": "is first aid for digestion and a slim figure. It combines the effects of natural"
+        }
+      ]
+    },
+    {
+      "id": "EN-C050",
+      "source_cs": ", extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi.",
+      "faithful_en": ", white bean extract, beetroot and apple cider vinegar with chromium for balanced blood sugar levels.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": ", white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": ", extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi. Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+          "en_context": ", white bean extract, beetroot and apple cider vinegar with chromium for balanced blood sugar levels. Practical capsules that help when your diet is not quite balanced."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": ", extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi. Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+          "en_context": ", white bean extract, beetroot and apple cider vinegar with chromium for balanced blood sugar levels. Practical capsules that help when your diet is not quite balanced."
+        }
+      ]
+    },
+    {
+      "id": "EN-C051",
+      "source_cs": "Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+      "faithful_en": "Practical capsules that help when your diet is not quite balanced.",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": ", white bean extract, beetroot, apple cider vinegar and chromium.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": ", extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi. Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+          "en_context": ", white bean extract, beetroot and apple cider vinegar with chromium for balanced blood sugar levels. Practical capsules that help when your diet is not quite balanced."
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": ", extraktu z bílých fazolí, červené řepy a jablečného octa s chromem pro vyrovnanou hladinu cukru v krvi. Praktické tobolky, které pomohou, když jídelníček zrovna není úplně vyvážený.",
+          "en_context": ", white bean extract, beetroot and apple cider vinegar with chromium for balanced blood sugar levels. Practical capsules that help when your diet is not quite balanced."
+        }
+      ]
+    },
+    {
+      "id": "EN-C052",
+      "source_cs": "Blokuje tuky a sacharidy",
+      "faithful_en": "Blocks fats and carbohydrates",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains chitosan and white bean extract.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Blokuje tuky a sacharidy",
+          "en_context": "Blocks fats and carbohydrates"
+        }
+      ]
+    },
+    {
+      "id": "EN-C053",
+      "source_cs": "Kontrola chuti k jídlu",
+      "faithful_en": "Appetite control",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "About the formula",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Kontrola chuti k jídlu",
+          "en_context": "Appetite control"
+        },
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Kontrola chuti k jídlu",
+          "en_context": "Appetite control"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "attribute",
+          "attribute": "alt",
+          "source_context": "Kontrola chuti k jídlu",
+          "en_context": "Appetite control"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Kontrola chuti k jídlu",
+          "en_context": "Appetite control"
+        }
+      ]
+    },
+    {
+      "id": "EN-C054",
+      "source_cs": "Vitalita a energie",
+      "faithful_en": "Vitality and energy",
+      "status": "INTERNAL_FAITHFUL_DRAFT_NOT_APPROVED",
+      "concern": "Unapproved effect/physiology or nutrition wording retained from Czech for internal translation review; the product source records no approved EFSA claim. Verify legal eligibility, ingredient attribution, qualifying dose and evidence before any publication. Hedging is not approval.",
+      "neutral_alternative_en": "Contains beetroot.",
+      "occurrences": [
+        {
+          "file": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Vitalita a energie",
+          "en_context": "Vitality and energy"
+        },
+        {
+          "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+          "kind": "text",
+          "attribute": null,
+          "source_context": "Vitalita a energie",
+          "en_context": "Vitality and energy"
+        }
+      ]
+    }
+  ],
+  "note": "Neutral alternatives are suggestions for a later separately approved copy revision, not equivalent translations, not inserted into HTML and not legal approvals."
+}
