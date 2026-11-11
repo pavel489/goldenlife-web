@@ -95,3 +95,14 @@
 [data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-produkt-info{display:flex;flex-direction:column;align-items:flex-start;gap:6px;line-height:1.5}
 [data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-produkt-info>span{display:block;max-width:100%;overflow-wrap:anywhere}
 @media(max-width:600px){[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony{gap:4px}[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony>div{font-size:11px}[data-gl-layout="woman-hormonal-balance-short"][data-gl-theme="double-slim-sos-burner"] .maly-ikony .p-card-img{width:38px;height:38px}}
+
+/* Sixth grid slot is an explicit purchase CTA, never an invented ingredient. */
+@media(min-width:769px){#special-popis[data-gl-theme="double-slim-sos-burner"] #latky.latky-grid-4{grid-template-columns:repeat(3,minmax(0,1fr))}}
+#special-popis[data-gl-theme="double-slim-sos-burner"] #latky > .gl-ingredient-cta{box-sizing:border-box;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;padding:28px 22px;text-align:center;background:var(--gl-color-bg-light);border:1px solid var(--gl-color-primary);min-width:0;}
+#special-popis[data-gl-theme="double-slim-sos-burner"] .gl-ingredient-cta-label{font-size:12px;font-weight:700;letter-spacing:.06em;color:var(--gl-color-text-muted);}
+#special-popis[data-gl-theme="double-slim-sos-burner"] .gl-ingredient-cta-arrow{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:rgba(var(--gl-color-primary-rgb),.10);color:var(--gl-color-primary);font-family:Arial,sans-serif;font-size:40px;line-height:1;}
+#special-popis[data-gl-theme="double-slim-sos-burner"] #latky .gl-ingredient-cta h4{padding:0;margin:0;font-size:25px;line-height:1.2;}
+#special-popis[data-gl-theme="double-slim-sos-burner"] #latky .gl-ingredient-cta .gl-ingredient-cta-pack{padding:0;margin:0;font-size:14px;line-height:1.5;color:var(--gl-color-text-muted);}
+#special-popis[data-gl-theme="double-slim-sos-burner"] .gl-ingredient-cta-button{box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;gap:8px;max-width:100%;padding:14px 20px;border-radius:50px;background:var(--gl-color-primary-hover);color:var(--gl-tone-cta-button-color-1,#fff);font-size:14px;font-weight:700;line-height:1.3;text-decoration:none;text-align:center;}
+#special-popis[data-gl-theme="double-slim-sos-burner"] .gl-ingredient-cta-button:hover{background:var(--gl-color-primary);color:var(--gl-tone-cta-button-color-1,#fff);text-decoration:none;}
+#special-popis[data-gl-theme="double-slim-sos-burner"] .gl-ingredient-cta-button:focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:4px;box-shadow:0 0 0 3px var(--gl-color-bg-light);}

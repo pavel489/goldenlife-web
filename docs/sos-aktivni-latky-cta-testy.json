@@ -1,0 +1,162 @@
+[
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 375,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 375,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 768,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 768,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 820,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  },
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 820,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  },
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 1440,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  },
+  {
+    "theme": "slim-sos-fat-burner",
+    "width": 1440,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 375,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 375,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 768,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 768,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "preserved swipe"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 820,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 820,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 1440,
+    "dark": false,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  },
+  {
+    "theme": "double-slim-sos-burner",
+    "width": 1440,
+    "dark": true,
+    "cards": 6,
+    "ingredient_dialogs": 5,
+    "cta_target": "#product-detail-form",
+    "overflow": false,
+    "layout": "3×2"
+  }
+]
