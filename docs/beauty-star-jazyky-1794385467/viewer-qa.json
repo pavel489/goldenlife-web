@@ -1,0 +1,173 @@
+{
+  "summary": {
+    "viewer_states": 16,
+    "pass_count": 16,
+    "language_switches": 8,
+    "iframe_dialog_cycles": 16,
+    "JS_errors": [],
+    "external_requests": [],
+    "scope": "Exact single-file file:// delivery, iframe language switching, local anchors and both host surfaces; purchases/native gallery disabled only in preview."
+  },
+  "states": [
+    {
+      "width": 1280,
+      "lang": "sk",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 1280,
+      "lang": "sk",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 1280,
+      "lang": "en",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 1280,
+      "lang": "en",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 1280,
+      "lang": "de",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 1280,
+      "lang": "de",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 1280,
+      "lang": "sk",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 1280,
+      "lang": "sk",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "sk",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "sk",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "en",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "en",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "de",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "de",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "sk",
+      "host": "dark",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    },
+    {
+      "width": 390,
+      "lang": "sk",
+      "host": "light",
+      "images": {
+        "count": 33,
+        "broken": 0
+      },
+      "frame_local_modal": true
+    }
+  ]
+}

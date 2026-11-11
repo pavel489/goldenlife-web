@@ -1,0 +1,24 @@
+{
+  "needed": 29,
+  "mapped": 29,
+  "missing": [],
+  "fetches": [
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/NAD/nadmolekula.png",
+      "status": 200,
+      "mime": "image/png",
+      "sha256": "4ce6d52b7f9c039d02d4c0f4388a60996b8af585fa705fbd216cec629c1a24eb"
+    },
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/produktove_stranky/Anti-Age-Longevity-NAD.png",
+      "status": 200,
+      "mime": "image/png",
+      "sha256": "4106cebf9c3a94139013dfa1e706414185b3bd0da84dc50ed3679e76ef4f8493"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/materialsymbolsoutlined/v383/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf",
+      "status": 200,
+      "sha256": "b499b3b2d26f67c13f8e017815a5200591711946c64677ff2f5259272e0646d3"
+    }
+  ]
+}

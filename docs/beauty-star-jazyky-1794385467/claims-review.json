@@ -1,0 +1,873 @@
+{
+  "status": "UNAPPROVED INTERNAL WORKING TRANSLATIONS",
+  "claims": [
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 2,
+      "source_cz": "Denní dávka podle zveřejněné tabulky obsahuje 5 000 µg biotinu, 2,7 mg zinku a další vitamíny a minerály. Všechny uvedené hodnoty najdeš v tabulce níže.",
+      "translation": "Denná dávka podľa zverejnenej tabuľky obsahuje 5 000 µg biotínu, 2,7 mg zinku a ďalšie vitamíny a minerály. Všetky uvedené hodnoty nájdeš v tabuľke nižšie.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 4,
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "translation": "Hormóny môžu zohrávať veľkú úlohu v kvalite pleti a vlasov, či už počas puberty, tehotenstva alebo menopauzy. Beauty Star je ideálnym výživovým doplnkom pre ženy aj mužov, ktorí sa potýkajú s hormonálnou nerovnováhou spôsobujúcou akné a stratu vlasov. Tieto želé vitamíny nielen zlepšujú vzhľad pleti, ale aj posilňujú a zahusťujú vlasy. Vďaka pravidelnému užívaniu sa môžete tešiť na lesklejšie a pevnejšie vlasy a čistejšiu pleť bez akné. Navyše komplex vitamínov a minerálov podporuje celkové zdravie pokožky a vlasov, prináša vyváženosť a vitalitu.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 5,
+      "source_cz": "Zdravější vlasy a pleť",
+      "translation": "Zdravšie vlasy a pleť",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 6,
+      "source_cz": "Podpora hormonální rovnováhy",
+      "translation": "Podpora hormo­nálnej rovnováhy",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 7,
+      "source_cz": "Snižuje únavu",
+      "translation": "Znižuje únavu",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 8,
+      "source_cz": "Posiluje imunitní systém",
+      "translation": "Posilňuje imunitný systém",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 9,
+      "source_cz": "Podporuje růst vlasů",
+      "translation": "Podporuje rast vlasov",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 12,
+      "source_cz": "Podporuje zdraví vlasů: Pravidelné užívání tohoto doplňku zlepšuje hustotu a pevnost vlasů díky vysokému obsahu biotinu a kyseliny pantothenové. Pomáhá omezit lámavost vlasů a podporuje jejich růst.",
+      "translation": "Podporuje zdravie vlasov: Pravidelné užívanie tohto doplnku zlepšuje hustotu a pevnosť vlasov vďaka vysokému obsahu biotínu a kyseliny pantoténovej. Pomáha obmedziť lámavosť vlasov a podporuje ich rast.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 13,
+      "source_cz": "Zlepšuje stav pleti: Složky jako zinek, vitamín A a vitamíny skupiny B přispívají k redukci akné způsobeného hormonálními změnami, a zároveň pomáhají udržovat pleť hydratovanou a pružnou.",
+      "translation": "Zlepšuje stav pleti: Zložky ako zinok, vitamín A a vitamíny skupiny B prispievajú k redukcii akné spôsobeného hormonálnymi zmenami a zároveň pomáhajú udržiavať pleť hydratovanú a pružnú.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 14,
+      "source_cz": "Podpora hormonální rovnováhy: Kombinace vitamínů, zejména B6 a B12, pomáhá stabilizovat hormonální hladiny, což přináší úlevu od nepříznivých vlivů, jako jsou zhoršená kvalita pleti a ztráta vlasů.",
+      "translation": "Podpora hormonálnej rovnováhy: Kombinácia vitamínov, najmä B6 a B12, pomáha stabilizovať hormonálne hladiny, čo prináša úľavu od nepriaznivých vplyvov, ako sú zhoršená kvalita pleti a strata vlasov.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 15,
+      "source_cz": "Posiluje imunitní systém: Vitamín C a zinek účinně podporují imunitní funkce, čímž zvyšují odolnost těla vůči infekcím a podporují rychlejší regeneraci buněk.",
+      "translation": "Posilňuje imunitný systém: Vitamín C a zinok účinne podporujú imunitné funkcie, čím zvyšujú odolnosť tela voči infekciám a podporujú rýchlejšiu regeneráciu buniek.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 16,
+      "source_cz": "Snižuje únavu: Vitamíny B6, B12 a kyselina listová podporují tvorbu energie a snižují pocit únavy, což přispívá k lepšímu pocitu vitality během dne.",
+      "translation": "Znižuje únavu: Vitamíny B6, B12 a kyselina listová podporujú tvorbu energie a znižujú pocit únavy, čo prispieva k lepšiemu pocitu vitality počas dňa.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 18,
+      "source_cz": "Podporuje tvorbu kolagenu: Vitamín C hraje klíčovou roli při tvorbě kolagenu, který zajišťuje pružnost a pevnost pokožky, čímž zpomaluje projevy stárnutí a udržuje mladistvý vzhled pleti.",
+      "translation": "Podporuje tvorbu kolagénu: Vitamín C zohráva kľúčovú úlohu pri tvorbe kolagénu, ktorý zaisťuje pružnosť a pevnosť pokožky, čím spomaľuje prejavy starnutia a udržiava mladistvý vzhľad pleti.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 19,
+      "source_cz": "Podporuje růst vlasů: Biotin spolu s vitamíny skupiny B stimuluje vlasové kořínky, čímž zajišťuje rychlejší růst vlasů a zlepšuje jejich celkovou kondici.",
+      "translation": "Podporuje rast vlasov: Biotín spolu s vitamínmi skupiny B stimuluje vlasové korienky, čím zaisťuje rýchlejší rast vlasov a zlepšuje ich celkovú kondíciu.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 20,
+      "source_cz": "Zlepšuje zdraví nehtů a pleti: Kombinace biotinu, zinku a vitamínu C posiluje nejen vlasy, ale také nehty a celkový vzhled pleti, což vede k silnějším nehtům a zářivější pleti.",
+      "translation": "Zlepšuje zdravie nechtov a pleti: Kombinácia biotínu, zinku a vitamínu C posilňuje nielen vlasy, ale aj nechty a celkový vzhľad pleti, čo vedie k silnejším nechtom a žiarivejšej pleti.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 21,
+      "source_cz": "Podporuje hormonální zdraví: Tento doplněk pomáhá regulovat hormonální výkyvy, což je důležité pro udržení zdravé rovnováhy v těle během náročných období, jako jsou puberta nebo menopauza.",
+      "translation": "Podporuje hormonálne zdravie: Tento doplnok pomáha regulovať hormonálne výkyvy, čo je dôležité pre udržanie zdravej rovnováhy v tele počas náročných období, ako sú puberta alebo menopauza.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 22,
+      "source_cz": "Biotin (Vitamín B7) Biotin je klíčovým vitamínem pro zdraví vlasů, pleti a nehtů. Podporuje tvorbu keratinu, hlavní složky vlasů, což zvyšuje jejich hustotu a pevnost. Pomáhá také snižovat lámavost vlasů a zlepšuje pružnost pleti. Nedostatek biotinu může vést k suché kůži, lámavým vlasům a oslabeným nehtům, proto je jeho pravidelný přísun zásadní pro udržení zdravého vzhledu a vitality.",
+      "translation": "Biotín (Vitamín B7) Biotín je kľúčovým vitamínom pre zdravie vlasov, pleti a nechtov. Podporuje tvorbu keratínu, hlavnej zložky vlasov, čo zvyšuje ich hustotu a pevnosť. Pomáha tiež znižovať lámavosť vlasov a zlepšuje pružnosť pleti. Nedostatok biotínu môže viesť k suchej koži, lámavým vlasom a oslabeným nechtom, preto je jeho pravidelný prísun zásadný pre udržanie zdravého vzhľadu a vitality.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 30,
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci.",
+      "translation": "Okrem biotínu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovú, ktoré zohrávajú dôležitú úlohu pri podpore metabolických procesov a bunkovej regenerácii.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 32,
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu.",
+      "translation": "Zinok a jód sú esenciálne minerály pre zdravie pokožky, vlasov a hormonálnu rovnováhu.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 34,
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály.",
+      "translation": "Vitamíny C a E chránia bunky pred oxidačným stresom spôsobeným voľnými radikálmi.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 36,
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné.",
+      "translation": "Vitamín A zohráva dôležitú úlohu pri obnove buniek a regulácii tvorby kožného mazu, čo je dôležité pre prevenciu akné.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 38,
+      "source_cz": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci.",
+      "translation": "Inozitol a cholín bitartrát sú látky podporujúce rast buniek a ich správnu funkciu.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 40,
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci. Vitamín B5 (kyselina pantothenová) podporuje regeneraci pleti a hydrataci, zatímco vitamín B6 pomáhá regulovat hormonální rovnováhu, což snižuje výskyt hormonálně podmíněného akné. Vitamín B12 podporuje regeneraci buněk, zabraňuje předčasnému vypadávání vlasů a kyselina listová přispívá k zdravému růstu vlasů a nehtů.",
+      "translation": "Okrem biotínu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovú, ktoré zohrávajú dôležitú úlohu pri podpore metabolických procesov a bunkovej regenerácii. Vitamín B5 (kyselina pantoténová) podporuje regeneráciu pleti a hydratáciu, zatiaľ čo vitamín B6 pomáha regulovať hormonálnu rovnováhu, čo znižuje výskyt hormonálne podmieneného akné. Vitamín B12 podporuje regeneráciu buniek, zabraňuje predčasnému vypadávaniu vlasov a kyselina listová prispieva k zdravému rastu vlasov a nechtov.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 42,
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu. Zinek pomáhá s regenerací buněk a má protizánětlivé účinky, které zmírňují akné a podporují růst vlasů. Jeho schopnost regulovat tvorbu kožního mazu je zvláště důležitá při problémech s mastnou pletí. Jód podporuje zdraví štítné žlázy, která je klíčová pro hormonální rovnováhu, což přímo ovlivňuje kvalitu vlasů a pleti.",
+      "translation": "Zinok a jód sú esenciálne minerály pre zdravie pokožky, vlasov a hormonálnu rovnováhu. Zinok pomáha s regeneráciou buniek a má protizápalové účinky, ktoré zmierňujú akné a podporujú rast vlasov. Jeho schopnosť regulovať tvorbu kožného mazu je obzvlášť dôležitá pri problémoch s mastnou pleťou. Jód podporuje zdravie štítnej žľazy, ktorá je kľúčová pre hormonálnu rovnováhu, čo priamo ovplyvňuje kvalitu vlasov a pleti.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 44,
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály. Vitamín C podporuje tvorbu kolagenu, což zlepšuje elasticitu a pevnost pleti a zároveň přispívá k růstu silnějších vlasů. Vitamín E přispívá k hydrataci pokožky a regeneraci, a zároveň chrání vlasy před poškozením UV zářením a znečištěním.",
+      "translation": "Vitamíny C a E chránia bunky pred oxidačným stresom spôsobeným voľnými radikálmi. Vitamín C podporuje tvorbu kolagénu, čo zlepšuje elasticitu a pevnosť pleti a zároveň prispieva k rastu silnejších vlasov. Vitamín E prispieva k hydratácii pokožky a regenerácii a zároveň chráni vlasy pred poškodením UV žiarením a znečistením.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 46,
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné. Přispívá ke zdraví pleti a podporuje růst silných, zdravých vlasů. Nedostatek vitamínu A může vést k suché pokožce a lámavosti vlasů.",
+      "translation": "Vitamín A zohráva dôležitú úlohu pri obnove buniek a regulácii tvorby kožného mazu, čo je dôležité pre prevenciu akné. Prispieva k zdraviu pleti a podporuje rast silných, zdravých vlasov. Nedostatok vitamínu A môže viesť k suchej pokožke a lámavosti vlasov.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "long",
+      "index": 48,
+      "source_cz": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci. Inozitol pomáhá udržovat hormonální rovnováhu, což má pozitivní vliv na zdraví vlasů a pleti, a je zvláště účinný při problémech s mastnou pokožkou. Cholin zase přispívá k lepšímu fungování nervového systému a podporuje celkovou buněčnou regeneraci, což se odráží ve zdravějším vzhledu pokožky i vlasů.",
+      "translation": "Inozitol a cholín bitartrát sú látky podporujúce rast buniek a ich správnu funkciu. Inozitol pomáha udržiavať hormonálnu rovnováhu, čo má pozitívny vplyv na zdravie vlasov a pleti, a je obzvlášť účinný pri problémoch s mastnou pokožkou. Cholín zasa prispieva k lepšiemu fungovaniu nervového systému a podporuje celkovú bunkovú regeneráciu, čo sa odráža v zdravšom vzhľade pokožky aj vlasov.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "short",
+      "index": 0,
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "translation": "Hormóny môžu zohrávať veľkú úlohu v kvalite pleti a vlasov, či už počas puberty, tehotenstva alebo menopauzy. Beauty Star je ideálnym výživovým doplnkom pre ženy aj mužov, ktorí sa potýkajú s hormonálnou nerovnováhou spôsobujúcou akné a stratu vlasov. Tieto želé vitamíny nielen zlepšujú vzhľad pleti, ale aj posilňujú a zahusťujú vlasy. Vďaka pravidelnému užívaniu sa môžete tešiť na lesklejšie a pevnejšie vlasy a čistejšiu pleť bez akné. Navyše komplex vitamínov a minerálov podporuje celkové zdravie pokožky a vlasov, prináša vyváženosť a vitalitu.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "short",
+      "index": 1,
+      "source_cz": "Zdravější vlasy a pleť",
+      "translation": "Zdravšie vlasy a pleť",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "short",
+      "index": 2,
+      "source_cz": "Podpora hormonální rovnováhy",
+      "translation": "Podpora hormo­nálnej rovnováhy",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "short",
+      "index": 3,
+      "source_cz": "Snižuje únavu",
+      "translation": "Znižuje únavu",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "sk",
+      "kind": "short",
+      "index": 4,
+      "source_cz": "Podporuje růst vlasů",
+      "translation": "Podporuje rast vlasov",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 2,
+      "source_cz": "Denní dávka podle zveřejněné tabulky obsahuje 5 000 µg biotinu, 2,7 mg zinku a další vitamíny a minerály. Všechny uvedené hodnoty najdeš v tabulce níže.",
+      "translation": "According to the published table, a daily serving contains 5 000 µg of biotin, 2,7 mg of zinc and other vitamins and minerals. You can find all the listed values in the table below.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 4,
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "translation": "Hormones can play a major role in the condition of your skin and hair, whether during puberty, pregnancy or menopause. Beauty Star is an ideal food supplement for women and men dealing with hormonal imbalances that cause acne and hair loss. These vitamin gummies not only improve the appearance of your skin, but also strengthen and thicken your hair. With regular use, you can look forward to shinier, stronger hair and clearer, acne-free skin. The vitamin and mineral complex also supports the overall health of your skin and hair, bringing balance and vitality.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 5,
+      "source_cz": "Zdravější vlasy a pleť",
+      "translation": "Healthier hair and skin",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 6,
+      "source_cz": "Podpora hormonální rovnováhy",
+      "translation": "Hormonal balance support",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 7,
+      "source_cz": "Snižuje únavu",
+      "translation": "Reduces fatigue",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 8,
+      "source_cz": "Posiluje imunitní systém",
+      "translation": "Strengthens the immune system",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 9,
+      "source_cz": "Podporuje růst vlasů",
+      "translation": "Supports hair growth",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 12,
+      "source_cz": "Podporuje zdraví vlasů: Pravidelné užívání tohoto doplňku zlepšuje hustotu a pevnost vlasů díky vysokému obsahu biotinu a kyseliny pantothenové. Pomáhá omezit lámavost vlasů a podporuje jejich růst.",
+      "translation": "Supports hair health: Regular use of this supplement improves hair density and strength thanks to its high biotin and pantothenic acid content. It helps reduce hair breakage and supports hair growth.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 13,
+      "source_cz": "Zlepšuje stav pleti: Složky jako zinek, vitamín A a vitamíny skupiny B přispívají k redukci akné způsobeného hormonálními změnami, a zároveň pomáhají udržovat pleť hydratovanou a pružnou.",
+      "translation": "Improves skin condition: Ingredients such as zinc, vitamin A and B vitamins help reduce acne caused by hormonal changes, while helping to keep skin hydrated and supple.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 14,
+      "source_cz": "Podpora hormonální rovnováhy: Kombinace vitamínů, zejména B6 a B12, pomáhá stabilizovat hormonální hladiny, což přináší úlevu od nepříznivých vlivů, jako jsou zhoršená kvalita pleti a ztráta vlasů.",
+      "translation": "Hormonal balance support: The combination of vitamins, especially B6 and B12, helps stabilise hormone levels, providing relief from adverse effects such as poor skin condition and hair loss.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 15,
+      "source_cz": "Posiluje imunitní systém: Vitamín C a zinek účinně podporují imunitní funkce, čímž zvyšují odolnost těla vůči infekcím a podporují rychlejší regeneraci buněk.",
+      "translation": "Strengthens the immune system: Vitamin C and zinc effectively support immune function, increasing the body’s resistance to infections and promoting faster cell regeneration.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 16,
+      "source_cz": "Snižuje únavu: Vitamíny B6, B12 a kyselina listová podporují tvorbu energie a snižují pocit únavy, což přispívá k lepšímu pocitu vitality během dne.",
+      "translation": "Reduces fatigue: Vitamins B6, B12 and folic acid support energy production and reduce feelings of fatigue, helping you feel more vital throughout the day.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 18,
+      "source_cz": "Podporuje tvorbu kolagenu: Vitamín C hraje klíčovou roli při tvorbě kolagenu, který zajišťuje pružnost a pevnost pokožky, čímž zpomaluje projevy stárnutí a udržuje mladistvý vzhled pleti.",
+      "translation": "Supports collagen formation: Vitamin C plays a key role in the formation of collagen, which gives skin its elasticity and firmness, slowing the signs of ageing and maintaining a youthful appearance.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 19,
+      "source_cz": "Podporuje růst vlasů: Biotin spolu s vitamíny skupiny B stimuluje vlasové kořínky, čímž zajišťuje rychlejší růst vlasů a zlepšuje jejich celkovou kondici.",
+      "translation": "Supports hair growth: Biotin, together with B vitamins, stimulates hair roots, ensuring faster hair growth and improving its overall condition.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 20,
+      "source_cz": "Zlepšuje zdraví nehtů a pleti: Kombinace biotinu, zinku a vitamínu C posiluje nejen vlasy, ale také nehty a celkový vzhled pleti, což vede k silnějším nehtům a zářivější pleti.",
+      "translation": "Improves nail and skin health: The combination of biotin, zinc and vitamin C strengthens not only hair, but also nails and the overall appearance of the skin, resulting in stronger nails and more radiant skin.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 21,
+      "source_cz": "Podporuje hormonální zdraví: Tento doplněk pomáhá regulovat hormonální výkyvy, což je důležité pro udržení zdravé rovnováhy v těle během náročných období, jako jsou puberta nebo menopauza.",
+      "translation": "Supports hormonal health: This supplement helps regulate hormonal fluctuations, which is important for maintaining a healthy balance in the body during challenging periods such as puberty or menopause.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 22,
+      "source_cz": "Biotin (Vitamín B7) Biotin je klíčovým vitamínem pro zdraví vlasů, pleti a nehtů. Podporuje tvorbu keratinu, hlavní složky vlasů, což zvyšuje jejich hustotu a pevnost. Pomáhá také snižovat lámavost vlasů a zlepšuje pružnost pleti. Nedostatek biotinu může vést k suché kůži, lámavým vlasům a oslabeným nehtům, proto je jeho pravidelný přísun zásadní pro udržení zdravého vzhledu a vitality.",
+      "translation": "Biotin (Vitamin B7) Biotin is a key vitamin for healthy hair, skin and nails. It supports the formation of keratin, the main component of hair, increasing its density and strength. It also helps reduce hair breakage and improves skin elasticity. Biotin deficiency can lead to dry skin, brittle hair and weakened nails, so a regular intake is essential for maintaining a healthy appearance and vitality.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 30,
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci.",
+      "translation": "In addition to biotin, this complex contains vitamins B5, B6, B12 and folic acid, which play an important role in supporting metabolic processes and cell regeneration.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 32,
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu.",
+      "translation": "Zinc and iodine are essential minerals for healthy skin, hair and hormonal balance.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 34,
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály.",
+      "translation": "Vitamins C and E protect cells from oxidative stress caused by free radicals.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 36,
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné.",
+      "translation": "Vitamin A plays an important role in cell renewal and the regulation of sebum production, which is important for preventing acne.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 38,
+      "source_cz": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci.",
+      "translation": "Inositol and choline bitartrate are substances that support cell growth and proper cell function.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 40,
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci. Vitamín B5 (kyselina pantothenová) podporuje regeneraci pleti a hydrataci, zatímco vitamín B6 pomáhá regulovat hormonální rovnováhu, což snižuje výskyt hormonálně podmíněného akné. Vitamín B12 podporuje regeneraci buněk, zabraňuje předčasnému vypadávání vlasů a kyselina listová přispívá k zdravému růstu vlasů a nehtů.",
+      "translation": "In addition to biotin, this complex contains vitamins B5, B6, B12 and folic acid, which play an important role in supporting metabolic processes and cell regeneration. Vitamin B5 (pantothenic acid) supports skin regeneration and hydration, while vitamin B6 helps regulate hormonal balance, reducing the occurrence of hormonally induced acne. Vitamin B12 supports cell regeneration, prevents premature hair loss, and folic acid contributes to healthy hair and nail growth.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 42,
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu. Zinek pomáhá s regenerací buněk a má protizánětlivé účinky, které zmírňují akné a podporují růst vlasů. Jeho schopnost regulovat tvorbu kožního mazu je zvláště důležitá při problémech s mastnou pletí. Jód podporuje zdraví štítné žlázy, která je klíčová pro hormonální rovnováhu, což přímo ovlivňuje kvalitu vlasů a pleti.",
+      "translation": "Zinc and iodine are essential minerals for healthy skin, hair and hormonal balance. Zinc helps with cell regeneration and has anti-inflammatory effects that alleviate acne and support hair growth. Its ability to regulate sebum production is particularly important for oily skin concerns. Iodine supports thyroid health, which is key to hormonal balance and directly affects the condition of hair and skin.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 44,
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály. Vitamín C podporuje tvorbu kolagenu, což zlepšuje elasticitu a pevnost pleti a zároveň přispívá k růstu silnějších vlasů. Vitamín E přispívá k hydrataci pokožky a regeneraci, a zároveň chrání vlasy před poškozením UV zářením a znečištěním.",
+      "translation": "Vitamins C and E protect cells from oxidative stress caused by free radicals. Vitamin C supports collagen formation, improving skin elasticity and firmness while contributing to the growth of stronger hair. Vitamin E contributes to skin hydration and regeneration, while protecting hair from damage caused by UV radiation and pollution.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 46,
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné. Přispívá ke zdraví pleti a podporuje růst silných, zdravých vlasů. Nedostatek vitamínu A může vést k suché pokožce a lámavosti vlasů.",
+      "translation": "Vitamin A plays an important role in cell renewal and the regulation of sebum production, which is important for preventing acne. It contributes to healthy skin and supports the growth of strong, healthy hair. Vitamin A deficiency can lead to dry skin and hair breakage.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "index": 48,
+      "source_cz": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci. Inozitol pomáhá udržovat hormonální rovnováhu, což má pozitivní vliv na zdraví vlasů a pleti, a je zvláště účinný při problémech s mastnou pokožkou. Cholin zase přispívá k lepšímu fungování nervového systému a podporuje celkovou buněčnou regeneraci, což se odráží ve zdravějším vzhledu pokožky i vlasů.",
+      "translation": "Inositol and choline bitartrate are substances that support cell growth and proper cell function. Inositol helps maintain hormonal balance, which has a positive effect on hair and skin health, and is particularly effective for oily skin concerns. Choline, in turn, contributes to better nervous system function and supports overall cell regeneration, which is reflected in healthier-looking skin and hair.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "short",
+      "index": 0,
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "translation": "Hormones can play a major role in the condition of your skin and hair, whether during puberty, pregnancy or menopause. Beauty Star is an ideal food supplement for women and men dealing with hormonal imbalances that cause acne and hair loss. These vitamin gummies not only improve the appearance of your skin, but also strengthen and thicken your hair. With regular use, you can look forward to shinier, stronger hair and clearer, acne-free skin. The vitamin and mineral complex also supports the overall health of your skin and hair, bringing balance and vitality.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "short",
+      "index": 1,
+      "source_cz": "Zdravější vlasy a pleť",
+      "translation": "Healthier hair and skin",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "short",
+      "index": 2,
+      "source_cz": "Podpora hormonální rovnováhy",
+      "translation": "Hormonal balance support",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "short",
+      "index": 3,
+      "source_cz": "Snižuje únavu",
+      "translation": "Reduces fatigue",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "en",
+      "kind": "short",
+      "index": 4,
+      "source_cz": "Podporuje růst vlasů",
+      "translation": "Supports hair growth",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 2,
+      "source_cz": "Denní dávka podle zveřejněné tabulky obsahuje 5 000 µg biotinu, 2,7 mg zinku a další vitamíny a minerály. Všechny uvedené hodnoty najdeš v tabulce níže.",
+      "translation": "Laut der veröffentlichten Tabelle enthält die Tagesdosis 5 000 µg Biotin, 2,7 mg Zink sowie weitere Vitamine und Mineralstoffe. Alle angegebenen Werte finden Sie in der Tabelle weiter unten.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 4,
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "translation": "Hormone können eine große Rolle für den Zustand von Haut und Haaren spielen – ob in der Pubertät, während der Schwangerschaft oder in den Wechseljahren. Beauty Star ist das ideale Nahrungsergänzungsmittel für Frauen und Männer, die mit einem hormonellen Ungleichgewicht zu kämpfen haben, das Akne und Haarausfall verursacht. Diese Vitamin-Gummis verbessern nicht nur das Hautbild, sondern kräftigen auch das Haar und machen es dichter. Bei regelmäßiger Einnahme können Sie sich auf glänzenderes, kräftigeres Haar und eine reinere Haut ohne Akne freuen. Darüber hinaus unterstützt der Vitamin- und Mineralstoffkomplex die allgemeine Gesundheit von Haut und Haaren und sorgt für Ausgeglichenheit und Vitalität.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 5,
+      "source_cz": "Zdravější vlasy a pleť",
+      "translation": "Ge­sündere Haare und Haut",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 6,
+      "source_cz": "Podpora hormonální rovnováhy",
+      "translation": "Hormon­balance unter­stützen",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 7,
+      "source_cz": "Snižuje únavu",
+      "translation": "Verringert Müdigkeit",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 8,
+      "source_cz": "Posiluje imunitní systém",
+      "translation": "Stärkt das Immunsystem",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 9,
+      "source_cz": "Podporuje růst vlasů",
+      "translation": "Fördert das Haar­wachs­tum",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 12,
+      "source_cz": "Podporuje zdraví vlasů: Pravidelné užívání tohoto doplňku zlepšuje hustotu a pevnost vlasů díky vysokému obsahu biotinu a kyseliny pantothenové. Pomáhá omezit lámavost vlasů a podporuje jejich růst.",
+      "translation": "Unterstützt die Haargesundheit: Die regelmäßige Einnahme dieses Nahrungsergänzungsmittels verbessert dank des hohen Gehalts an Biotin und Pantothensäure die Haardichte und die Festigkeit der Haare. Sie hilft, Haarbruch zu verringern, und fördert das Haarwachstum.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 13,
+      "source_cz": "Zlepšuje stav pleti: Složky jako zinek, vitamín A a vitamíny skupiny B přispívají k redukci akné způsobeného hormonálními změnami, a zároveň pomáhají udržovat pleť hydratovanou a pružnou.",
+      "translation": "Verbessert das Hautbild: Inhaltsstoffe wie Zink, Vitamin A und B-Vitamine tragen dazu bei, durch hormonelle Veränderungen verursachte Akne zu reduzieren, und helfen gleichzeitig, die Haut mit Feuchtigkeit zu versorgen und elastisch zu halten.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 14,
+      "source_cz": "Podpora hormonální rovnováhy: Kombinace vitamínů, zejména B6 a B12, pomáhá stabilizovat hormonální hladiny, což přináší úlevu od nepříznivých vlivů, jako jsou zhoršená kvalita pleti a ztráta vlasů.",
+      "translation": "Unterstützung des hormonellen Gleichgewichts: Die Kombination von Vitaminen, insbesondere B6 und B12, hilft, den Hormonspiegel zu stabilisieren, und lindert dadurch negative Auswirkungen wie ein verschlechtertes Hautbild und Haarausfall.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 15,
+      "source_cz": "Posiluje imunitní systém: Vitamín C a zinek účinně podporují imunitní funkce, čímž zvyšují odolnost těla vůči infekcím a podporují rychlejší regeneraci buněk.",
+      "translation": "Stärkt das Immunsystem: Vitamin C und Zink unterstützen wirksam die Immunfunktionen, erhöhen dadurch die Widerstandsfähigkeit des Körpers gegen Infektionen und fördern eine schnellere Zellregeneration.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 16,
+      "source_cz": "Snižuje únavu: Vitamíny B6, B12 a kyselina listová podporují tvorbu energie a snižují pocit únavy, což přispívá k lepšímu pocitu vitality během dne.",
+      "translation": "Verringert Müdigkeit: Die Vitamine B6 und B12 sowie Folsäure unterstützen die Energiegewinnung und verringern das Müdigkeitsgefühl, was zu mehr Vitalität im Laufe des Tages beiträgt.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 18,
+      "source_cz": "Podporuje tvorbu kolagenu: Vitamín C hraje klíčovou roli při tvorbě kolagenu, který zajišťuje pružnost a pevnost pokožky, čímž zpomaluje projevy stárnutí a udržuje mladistvý vzhled pleti.",
+      "translation": "Fördert die Kollagenbildung: Vitamin C spielt eine Schlüsselrolle bei der Bildung von Kollagen, das der Haut Elastizität und Festigkeit verleiht, dadurch die Anzeichen der Hautalterung verlangsamt und das jugendliche Aussehen der Haut erhält.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 19,
+      "source_cz": "Podporuje růst vlasů: Biotin spolu s vitamíny skupiny B stimuluje vlasové kořínky, čímž zajišťuje rychlejší růst vlasů a zlepšuje jejich celkovou kondici.",
+      "translation": "Fördert das Haarwachstum: Biotin stimuliert zusammen mit B-Vitaminen die Haarwurzeln, sorgt dadurch für schnelleres Haarwachstum und verbessert den allgemeinen Zustand der Haare.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 20,
+      "source_cz": "Zlepšuje zdraví nehtů a pleti: Kombinace biotinu, zinku a vitamínu C posiluje nejen vlasy, ale také nehty a celkový vzhled pleti, což vede k silnějším nehtům a zářivější pleti.",
+      "translation": "Verbessert die Gesundheit von Nägeln und Haut: Die Kombination aus Biotin, Zink und Vitamin C kräftigt nicht nur das Haar, sondern stärkt auch die Nägel und verbessert das gesamte Hautbild, was zu kräftigeren Nägeln und strahlenderer Haut führt.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 21,
+      "source_cz": "Podporuje hormonální zdraví: Tento doplněk pomáhá regulovat hormonální výkyvy, což je důležité pro udržení zdravé rovnováhy v těle během náročných období, jako jsou puberta nebo menopauza.",
+      "translation": "Unterstützt die hormonelle Gesundheit: Dieses Nahrungsergänzungsmittel hilft, hormonelle Schwankungen zu regulieren, was wichtig ist, um in anspruchsvollen Lebensphasen wie der Pubertät oder den Wechseljahren ein gesundes Gleichgewicht im Körper zu erhalten.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 22,
+      "source_cz": "Biotin (Vitamín B7) Biotin je klíčovým vitamínem pro zdraví vlasů, pleti a nehtů. Podporuje tvorbu keratinu, hlavní složky vlasů, což zvyšuje jejich hustotu a pevnost. Pomáhá také snižovat lámavost vlasů a zlepšuje pružnost pleti. Nedostatek biotinu může vést k suché kůži, lámavým vlasům a oslabeným nehtům, proto je jeho pravidelný přísun zásadní pro udržení zdravého vzhledu a vitality.",
+      "translation": "Biotin (Vitamin B7) Biotin ist ein Schlüsselvitamin für die Gesundheit von Haaren, Haut und Nägeln. Es unterstützt die Bildung von Keratin, dem Hauptbestandteil der Haare, und erhöht so deren Dichte und Festigkeit. Außerdem hilft es, Haarbruch zu verringern, und verbessert die Elastizität der Haut. Ein Biotinmangel kann zu trockener Haut, brüchigem Haar und geschwächten Nägeln führen; deshalb ist eine regelmäßige Zufuhr entscheidend für ein gesundes Aussehen und Vitalität.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 30,
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci.",
+      "translation": "Neben Biotin enthält dieser Komplex die Vitamine B5, B6 und B12 sowie Folsäure, die eine wichtige Rolle bei der Unterstützung von Stoffwechselprozessen und der Zellregeneration spielen.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 32,
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu.",
+      "translation": "Zink und Jod sind essenzielle Mineralstoffe für die Gesundheit von Haut und Haaren sowie für das hormonelle Gleichgewicht.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 34,
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály.",
+      "translation": "Die Vitamine C und E schützen die Zellen vor oxidativem Stress durch freie Radikale.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 36,
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné.",
+      "translation": "Vitamin A spielt eine wichtige Rolle bei der Zellerneuerung und der Regulierung der Talgproduktion, was für die Vorbeugung von Akne wichtig ist.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 38,
+      "source_cz": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci.",
+      "translation": "Inositol und Cholinbitartrat sind Stoffe, die das Zellwachstum und die normale Funktion der Zellen unterstützen.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 40,
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci. Vitamín B5 (kyselina pantothenová) podporuje regeneraci pleti a hydrataci, zatímco vitamín B6 pomáhá regulovat hormonální rovnováhu, což snižuje výskyt hormonálně podmíněného akné. Vitamín B12 podporuje regeneraci buněk, zabraňuje předčasnému vypadávání vlasů a kyselina listová přispívá k zdravému růstu vlasů a nehtů.",
+      "translation": "Neben Biotin enthält dieser Komplex die Vitamine B5, B6 und B12 sowie Folsäure, die eine wichtige Rolle bei der Unterstützung von Stoffwechselprozessen und der Zellregeneration spielen. Vitamin B5 (Pantothensäure) unterstützt die Regeneration und die Feuchtigkeitsversorgung der Haut, während Vitamin B6 hilft, das hormonelle Gleichgewicht zu regulieren, wodurch hormonell bedingte Akne seltener auftritt. Vitamin B12 unterstützt die Zellregeneration, verhindert vorzeitigen Haarausfall, und Folsäure trägt zum gesunden Wachstum von Haaren und Nägeln bei.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 42,
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu. Zinek pomáhá s regenerací buněk a má protizánětlivé účinky, které zmírňují akné a podporují růst vlasů. Jeho schopnost regulovat tvorbu kožního mazu je zvláště důležitá při problémech s mastnou pletí. Jód podporuje zdraví štítné žlázy, která je klíčová pro hormonální rovnováhu, což přímo ovlivňuje kvalitu vlasů a pleti.",
+      "translation": "Zink und Jod sind essenzielle Mineralstoffe für die Gesundheit von Haut und Haaren sowie für das hormonelle Gleichgewicht. Zink hilft bei der Zellregeneration und hat entzündungshemmende Wirkungen, die Akne lindern und das Haarwachstum fördern. Seine Fähigkeit, die Talgproduktion zu regulieren, ist besonders bei Problemen mit fettiger Haut wichtig. Jod unterstützt die Gesundheit der Schilddrüse, die entscheidend für das hormonelle Gleichgewicht ist und damit den Zustand von Haaren und Haut direkt beeinflusst.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 44,
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály. Vitamín C podporuje tvorbu kolagenu, což zlepšuje elasticitu a pevnost pleti a zároveň přispívá k růstu silnějších vlasů. Vitamín E přispívá k hydrataci pokožky a regeneraci, a zároveň chrání vlasy před poškozením UV zářením a znečištěním.",
+      "translation": "Die Vitamine C und E schützen die Zellen vor oxidativem Stress durch freie Radikale. Vitamin C unterstützt die Kollagenbildung, was die Elastizität und Festigkeit der Haut verbessert und zugleich zum Wachstum kräftigerer Haare beiträgt. Vitamin E trägt zur Feuchtigkeitsversorgung und Regeneration der Haut bei und schützt gleichzeitig die Haare vor Schäden durch UV-Strahlung und Umweltverschmutzung.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 46,
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné. Přispívá ke zdraví pleti a podporuje růst silných, zdravých vlasů. Nedostatek vitamínu A může vést k suché pokožce a lámavosti vlasů.",
+      "translation": "Vitamin A spielt eine wichtige Rolle bei der Zellerneuerung und der Regulierung der Talgproduktion, was für die Vorbeugung von Akne wichtig ist. Es trägt zur Gesundheit der Haut bei und unterstützt das Wachstum kräftiger, gesunder Haare. Ein Mangel an Vitamin A kann zu trockener Haut und Haarbruch führen.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "index": 48,
+      "source_cz": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci. Inozitol pomáhá udržovat hormonální rovnováhu, což má pozitivní vliv na zdraví vlasů a pleti, a je zvláště účinný při problémech s mastnou pokožkou. Cholin zase přispívá k lepšímu fungování nervového systému a podporuje celkovou buněčnou regeneraci, což se odráží ve zdravějším vzhledu pokožky i vlasů.",
+      "translation": "Inositol und Cholinbitartrat sind Stoffe, die das Zellwachstum und die normale Funktion der Zellen unterstützen. Inositol hilft, das hormonelle Gleichgewicht aufrechtzuerhalten, was sich positiv auf die Gesundheit von Haaren und Haut auswirkt, und ist besonders wirksam bei Problemen mit fettiger Haut. Cholin wiederum trägt zu einer besseren Funktion des Nervensystems bei und unterstützt die allgemeine Zellregeneration, was sich in einem gesünderen Aussehen von Haut und Haaren zeigt.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "short",
+      "index": 0,
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "translation": "Hormone können eine große Rolle für den Zustand von Haut und Haaren spielen – ob in der Pubertät, während der Schwangerschaft oder in den Wechseljahren. Beauty Star ist das ideale Nahrungsergänzungsmittel für Frauen und Männer, die mit einem hormonellen Ungleichgewicht zu kämpfen haben, das Akne und Haarausfall verursacht. Diese Vitamin-Gummis verbessern nicht nur das Hautbild, sondern kräftigen auch das Haar und machen es dichter. Bei regelmäßiger Einnahme können Sie sich auf glänzenderes, kräftigeres Haar und eine reinere Haut ohne Akne freuen. Darüber hinaus unterstützt der Vitamin- und Mineralstoffkomplex die allgemeine Gesundheit von Haut und Haaren und sorgt für Ausgeglichenheit und Vitalität.",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "short",
+      "index": 1,
+      "source_cz": "Zdravější vlasy a pleť",
+      "translation": "Ge­sündere Haare und Haut",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "short",
+      "index": 2,
+      "source_cz": "Podpora hormonální rovnováhy",
+      "translation": "Hormon­balance unter­stützen",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "short",
+      "index": 3,
+      "source_cz": "Snižuje únavu",
+      "translation": "Verringert Müdigkeit",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    },
+    {
+      "language": "de",
+      "kind": "short",
+      "index": 4,
+      "source_cz": "Podporuje růst vlasů",
+      "translation": "Fördert das Haar­wachs­tum",
+      "status": "needs_claim_review",
+      "note": "Věrný pracovní překlad zděděného účinkového textu; není právně schválen. Nemoc/akné, sliby růstu vlasů a obecné hormonální účinky nelze převzít jako prokázané účinky produktu."
+    }
+  ],
+  "product_file": "brand/product/beauty-star/info.md",
+  "product_file_caution": "Automaticky vytvořená sekce EFSA obsahuje i nedoložené formulace (např. B12 zabraňuje vypadávání vlasů, E chrání před UV); název sekce neprokazuje schválení. Bez ověření registru nenabízíme její věty jako právně schválenou náhradu.",
+  "packaging_conflict": "Dlouhý zdroj uvádí 65 g, krátký zdroj a produktový podklad 30 g. Údaje zachovány, nerozhodnuty.",
+  "dose": "60 hvězdiček; 2 denně; 30 dávek; číselné hodnoty a jednotky zachovány."
+}

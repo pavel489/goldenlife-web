@@ -1,0 +1,2947 @@
+{
+  "language": "sk",
+  "status": "internal_faithful_translation_not_for_publication",
+  "legal_approval": false,
+  "scope": "Pouze lokální slovenské HTML drafty; zdroje, ostatní jazyky a vzdálené systémy beze změny.",
+  "method": "HTMLParser source-offset edits; exact approved JS UI literals and one heading regexp; no DOM reserialization.",
+  "files": [
+    {
+      "source": "/root/workspace/research/beauty-star-translations-1794385467/source/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "output": "/root/workspace/research/beauty-star-translations-1794385467/out/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "runtime_qa": {
+        "status": "passed",
+        "method": "node_vm_minimal_dom_fixture_not_visual_browser",
+        "exact_delivered_script": true,
+        "localized_heading_regexp_matches_both_cards": true,
+        "toggle_count": 3,
+        "buttons_expand_collapse_and_aria": true,
+        "idempotent": true,
+        "mobile_desktop_mobile": true,
+        "all_paragraphs_restored": true
+      },
+      "source_sha256": "1b122077bebf35604c89b4231d8344c25230c9c3b76a1a67e36d40a2eb403a60",
+      "output_sha256": "6460784a7ac976668b87aa3e7f017ceb131a28c7af812ae0802124c601650cb1",
+      "source_bytes": 25570,
+      "output_bytes": 25572,
+      "inventory": [
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 975,
+          "end": 1000,
+          "source": "Beauty Star · Golden Life",
+          "index": 1,
+          "target": "Beauty Star · Golden Life",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "h2",
+          "start": 1028,
+          "end": 1034,
+          "source": "BIOTIN",
+          "index": 2,
+          "target": "BIOTÍN",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 1060,
+          "end": 1093,
+          "source": "Vitamín B7 v gumových hvězdičkách",
+          "index": 3,
+          "target": "Vitamín B7 v gumových hviezdičkách",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 1154,
+          "end": 1178,
+          "source": "Malý každodenní rituál. ",
+          "index": 4,
+          "target": "Malý každodenný rituál. ",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 1199,
+          "end": 1218,
+          "source": "Vitamíny a minerály",
+          "index": 5,
+          "target": "Vitamíny a minerály",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 1225,
+          "end": 1240,
+          "source": " v jedné dávce.",
+          "index": 6,
+          "target": " v jednej dávke.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 1299,
+          "end": 1307,
+          "source": "5 000 µg",
+          "index": 7,
+          "target": "5 000 µg",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 1343,
+          "end": 1350,
+          "source": "biotinu",
+          "index": 8,
+          "target": "biotínu",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 1384,
+          "end": 1409,
+          "source": "v denní dávce 2 hvězdiček",
+          "index": 9,
+          "target": "v dennej dávke 2 hviezdičiek",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 1473,
+          "end": 1494,
+          "source": "60 gumových hvězdiček",
+          "index": 10,
+          "target": "60 gumových hviezdičiek",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 1525,
+          "end": 1542,
+          "source": "2 hvězdičky denně",
+          "index": 11,
+          "target": "2 hviezdičky denne",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 1573,
+          "end": 1589,
+          "source": "30 denních dávek",
+          "index": 12,
+          "target": "30 denných dávok",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 1658,
+          "end": 1670,
+          "source": "Co je uvnitř",
+          "index": 13,
+          "target": "Čo je vo vnútri",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 1737,
+          "end": 1743,
+          "source": "Zavřít",
+          "index": 14,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 1787,
+          "end": 1795,
+          "source": "Zavřít ×",
+          "index": 15,
+          "target": "Zavrieť ×",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 1857,
+          "end": 1878,
+          "source": "Biotin a další složky",
+          "index": 16,
+          "target": "Biotín a ďalšie zložky",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 1886,
+          "end": 2038,
+          "source": "Denní dávka podle zveřejněné tabulky obsahuje 5 000 µg biotinu, 2,7 mg zinku a další vitamíny a minerály. Všechny uvedené hodnoty najdeš v tabulce níže.",
+          "index": 17,
+          "target": "Denná dávka podľa zverejnenej tabuľky obsahuje 5 000 µg biotínu, 2,7 mg zinku a ďalšie vitamíny a minerály. Všetky uvedené hodnoty nájdeš v tabuľke nižšie.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 2045,
+          "end": 2087,
+          "source": "Beauty Star je doplněk stravy, nikoli lék.",
+          "index": 18,
+          "target": "Beauty Star je výživový doplnok, nie liek.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 2107,
+          "end": 2137,
+          "source": "Ilustrační fotografie vitamínů",
+          "index": 19,
+          "target": "Ilustračná fotografia vitamínov",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h1",
+          "start": 2371,
+          "end": 2382,
+          "source": "Beauty Star",
+          "index": 20,
+          "target": "Beauty Star",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 2404,
+          "end": 2931,
+          "source": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+          "index": 21,
+          "target": "Hormóny môžu zohrávať veľkú úlohu v kvalite pleti a vlasov, či už počas puberty, tehotenstva alebo menopauzy. Beauty Star je ideálnym výživovým doplnkom pre ženy aj mužov, ktorí sa potýkajú s hormonálnou nerovnováhou spôsobujúcou akné a stratu vlasov. Tieto želé vitamíny nielen zlepšujú vzhľad pleti, ale aj posilňujú a zahusťujú vlasy. Vďaka pravidelnému užívaniu sa môžete tešiť na lesklejšie a pevnejšie vlasy a čistejšiu pleť bez akné. Navyše komplex vitamínov a minerálov podporuje celkové zdravie pokožky a vlasov, prináša vyváženosť a vitalitu.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h2",
+          "start": 2959,
+          "end": 2978,
+          "source": "Beauty Star zblízka",
+          "index": 22,
+          "target": "Beauty Star zblízka",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 3037,
+          "end": 3048,
+          "source": "Beauty Star",
+          "index": 23,
+          "target": "Beauty Star",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 3430,
+          "end": 3452,
+          "source": "Zdravější vlasy a pleť",
+          "index": 24,
+          "target": "Zdravšie vlasy a pleť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 3631,
+          "end": 3659,
+          "source": "Podpora hormonální rovnováhy",
+          "index": 25,
+          "target": "Podpora hormo­nálnej rovnováhy",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 3841,
+          "end": 3854,
+          "source": "Snižuje únavu",
+          "index": 26,
+          "target": "Znižuje únavu",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 4034,
+          "end": 4058,
+          "source": "Posiluje imunitní systém",
+          "index": 27,
+          "target": "Posilňuje imunitný systém",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 4240,
+          "end": 4260,
+          "source": "Podporuje růst vlasů",
+          "index": 28,
+          "target": "Podporuje rast vlasov",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 4442,
+          "end": 4455,
+          "source": "Vyrobeno v ČR",
+          "index": 29,
+          "target": "Vyrobené v ČR",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 4562,
+          "end": 4573,
+          "source": "Jak funguje",
+          "index": 30,
+          "target": "Ako funguje",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 4625,
+          "end": 4648,
+          "source": "Podporuje zdraví vlasů:",
+          "index": 31,
+          "target": "Podporuje zdravie vlasov:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 4657,
+          "end": 4832,
+          "source": " Pravidelné užívání tohoto doplňku zlepšuje hustotu a pevnost vlasů díky vysokému obsahu biotinu a kyseliny pantothenové. Pomáhá omezit lámavost vlasů a podporuje jejich růst.",
+          "index": 32,
+          "target": " Pravidelné užívanie tohto doplnku zlepšuje hustotu a pevnosť vlasov vďaka vysokému obsahu biotínu a kyseliny pantoténovej. Pomáha obmedziť lámavosť vlasov a podporuje ich rast.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 4883,
+          "end": 4903,
+          "source": "Zlepšuje stav pleti:",
+          "index": 33,
+          "target": "Zlepšuje stav pleti:",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 4912,
+          "end": 5079,
+          "source": " Složky jako zinek, vitamín A a vitamíny skupiny B přispívají k redukci akné způsobeného hormonálními změnami, a zároveň pomáhají udržovat pleť hydratovanou a pružnou.",
+          "index": 34,
+          "target": " Zložky ako zinok, vitamín A a vitamíny skupiny B prispievajú k redukcii akné spôsobeného hormonálnymi zmenami a zároveň pomáhajú udržiavať pleť hydratovanú a pružnú.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 5130,
+          "end": 5159,
+          "source": "Podpora hormonální rovnováhy:",
+          "index": 35,
+          "target": "Podpora hormonálnej rovnováhy:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 5168,
+          "end": 5336,
+          "source": " Kombinace vitamínů, zejména B6 a B12, pomáhá stabilizovat hormonální hladiny, což přináší úlevu od nepříznivých vlivů, jako jsou zhoršená kvalita pleti a ztráta vlasů.",
+          "index": 36,
+          "target": " Kombinácia vitamínov, najmä B6 a B12, pomáha stabilizovať hormonálne hladiny, čo prináša úľavu od nepriaznivých vplyvov, ako sú zhoršená kvalita pleti a strata vlasov.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 5387,
+          "end": 5412,
+          "source": "Posiluje imunitní systém:",
+          "index": 37,
+          "target": "Posilňuje imunitný systém:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 5421,
+          "end": 5554,
+          "source": " Vitamín C a zinek účinně podporují imunitní funkce, čímž zvyšují odolnost těla vůči infekcím a podporují rychlejší regeneraci buněk.",
+          "index": 38,
+          "target": " Vitamín C a zinok účinne podporujú imunitné funkcie, čím zvyšujú odolnosť tela voči infekciám a podporujú rýchlejšiu regeneráciu buniek.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 5605,
+          "end": 5619,
+          "source": "Snižuje únavu:",
+          "index": 39,
+          "target": "Znižuje únavu:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 5628,
+          "end": 5762,
+          "source": " Vitamíny B6, B12 a kyselina listová podporují tvorbu energie a snižují pocit únavy, což přispívá k lepšímu pocitu vitality během dne.",
+          "index": 40,
+          "target": " Vitamíny B6, B12 a kyselina listová podporujú tvorbu energie a znižujú pocit únavy, čo prispieva k lepšiemu pocitu vitality počas dňa.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 5819,
+          "end": 5834,
+          "source": "Fakta, ne fráze",
+          "index": 41,
+          "target": "Fakty, nie frázy",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 5886,
+          "end": 5912,
+          "source": "Podporuje tvorbu kolagenu:",
+          "index": 42,
+          "target": "Podporuje tvorbu kolagénu:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 5921,
+          "end": 6082,
+          "source": " Vitamín C hraje klíčovou roli při tvorbě kolagenu, který zajišťuje pružnost a pevnost pokožky, čímž zpomaluje projevy stárnutí a udržuje mladistvý vzhled pleti.",
+          "index": 43,
+          "target": " Vitamín C zohráva kľúčovú úlohu pri tvorbe kolagénu, ktorý zaisťuje pružnosť a pevnosť pokožky, čím spomaľuje prejavy starnutia a udržiava mladistvý vzhľad pleti.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 6133,
+          "end": 6154,
+          "source": "Podporuje růst vlasů:",
+          "index": 44,
+          "target": "Podporuje rast vlasov:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 6163,
+          "end": 6296,
+          "source": " Biotin spolu s vitamíny skupiny B stimuluje vlasové kořínky, čímž zajišťuje rychlejší růst vlasů a zlepšuje jejich celkovou kondici.",
+          "index": 45,
+          "target": " Biotín spolu s vitamínmi skupiny B stimuluje vlasové korienky, čím zaisťuje rýchlejší rast vlasov a zlepšuje ich celkovú kondíciu.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 6347,
+          "end": 6377,
+          "source": "Zlepšuje zdraví nehtů a pleti:",
+          "index": 46,
+          "target": "Zlepšuje zdravie nechtov a pleti:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 6386,
+          "end": 6532,
+          "source": " Kombinace biotinu, zinku a vitamínu C posiluje nejen vlasy, ale také nehty a celkový vzhled pleti, což vede k silnějším nehtům a zářivější pleti.",
+          "index": 47,
+          "target": " Kombinácia biotínu, zinku a vitamínu C posilňuje nielen vlasy, ale aj nechty a celkový vzhľad pleti, čo vedie k silnejším nechtom a žiarivejšej pleti.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "strong",
+          "start": 6583,
+          "end": 6611,
+          "source": "Podporuje hormonální zdraví:",
+          "index": 48,
+          "target": "Podporuje hormonálne zdravie:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 6620,
+          "end": 6780,
+          "source": " Tento doplněk pomáhá regulovat hormonální výkyvy, což je důležité pro udržení zdravé rovnováhy v těle během náročných období, jako jsou puberta nebo menopauza.",
+          "index": 49,
+          "target": " Tento doplnok pomáha regulovať hormonálne výkyvy, čo je dôležité pre udržanie zdravej rovnováhy v tele počas náročných období, ako sú puberta alebo menopauza.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h3",
+          "start": 6869,
+          "end": 6888,
+          "source": "Jednoduše každý den",
+          "index": 50,
+          "target": "Jednoducho každý deň",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 6969,
+          "end": 6970,
+          "source": "✓",
+          "index": 51,
+          "target": "✓",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 6977,
+          "end": 6993,
+          "source": "Gumové hvězdičky",
+          "index": 52,
+          "target": "Gumové hviezdičky",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 7050,
+          "end": 7051,
+          "source": "✓",
+          "index": 53,
+          "target": "✓",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 7058,
+          "end": 7087,
+          "source": "Biotin 5 000 µg v denní dávce",
+          "index": 54,
+          "target": "Biotín 5 000 µg v dennej dávke",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 7144,
+          "end": 7145,
+          "source": "✓",
+          "index": 55,
+          "target": "✓",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 7152,
+          "end": 7178,
+          "source": "Zinek 2,7 mg v denní dávce",
+          "index": 56,
+          "target": "Zinok 2,7 mg v dennej dávke",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 7235,
+          "end": 7236,
+          "source": "✓",
+          "index": 57,
+          "target": "✓",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 7243,
+          "end": 7261,
+          "source": "Vitamíny skupiny B",
+          "index": 58,
+          "target": "Vitamíny skupiny B",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 7318,
+          "end": 7319,
+          "source": "✓",
+          "index": 59,
+          "target": "✓",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 7326,
+          "end": 7342,
+          "source": "60 kusů v balení",
+          "index": 60,
+          "target": "60 kusov v balení",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 7399,
+          "end": 7400,
+          "source": "✓",
+          "index": 61,
+          "target": "✓",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 7407,
+          "end": 7419,
+          "source": "2 kusy denně",
+          "index": 62,
+          "target": "2 kusy denne",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 7553,
+          "end": 7596,
+          "source": "Barevný motiv z původní stránky Beauty Star",
+          "index": 63,
+          "target": "Farebný motív z pôvodnej stránky Beauty Star",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h3",
+          "start": 7729,
+          "end": 7748,
+          "source": "Biotin (vitamín B7)",
+          "index": 64,
+          "target": "Biotín (vitamín B7)",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "em",
+          "start": 7784,
+          "end": 7803,
+          "source": "Biotin (Vitamín B7)",
+          "index": 65,
+          "target": "Biotín (Vitamín B7)",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 7827,
+          "end": 8196,
+          "source": "Biotin je klíčovým vitamínem pro zdraví vlasů, pleti a nehtů. Podporuje tvorbu keratinu, hlavní složky vlasů, což zvyšuje jejich hustotu a pevnost. Pomáhá také snižovat lámavost vlasů a zlepšuje pružnost pleti. Nedostatek biotinu může vést k suché kůži, lámavým vlasům a oslabeným nehtům, proto je jeho pravidelný přísun zásadní pro udržení zdravého vzhledu a vitality.",
+          "index": 66,
+          "target": "Biotín je kľúčovým vitamínom pre zdravie vlasov, pleti a nechtov. Podporuje tvorbu keratínu, hlavnej zložky vlasov, čo zvyšuje ich hustotu a pevnosť. Pomáha tiež znižovať lámavosť vlasov a zlepšuje pružnosť pleti. Nedostatok biotínu môže viesť k suchej koži, lámavým vlasom a oslabeným nechtom, preto je jeho pravidelný prísun zásadný pre udržanie zdravého vzhľadu a vitality.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h3",
+          "start": 8291,
+          "end": 8303,
+          "source": "Časté otázky",
+          "index": 67,
+          "target": "Časté otázky",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 8392,
+          "end": 8415,
+          "source": "Jak Beauty Star užívat?",
+          "index": 68,
+          "target": "Ako Beauty Star užívať?",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 8439,
+          "end": 8529,
+          "source": "Doporučuje se užívat 2 gumové hvězdičky jednou denně. Nepřekračuj doporučenou denní dávku.",
+          "index": 69,
+          "target": "Odporúča sa užívať 2 gumové hviezdičky raz denne. Neprekračuj odporúčanú dennú dávku.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 8586,
+          "end": 8615,
+          "source": "Na jak dlouho balení vystačí?",
+          "index": 70,
+          "target": "Ako dlho balenie vydrží?",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 8639,
+          "end": 8699,
+          "source": "60 hvězdiček při dávkování 2 denně znamená 30 denních dávek.",
+          "index": 71,
+          "target": "60 hviezdičiek pri dávkovaní 2 denne znamená 30 denných dávok.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 8756,
+          "end": 8778,
+          "source": "Kde najdu obsah látek?",
+          "index": 72,
+          "target": "Kde nájdem obsah látok?",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 8802,
+          "end": 8900,
+          "source": "Kompletní zveřejněná tabulka množství je pod návodem k použití. Údaje se vztahují ke 2 hvězdičkám.",
+          "index": 73,
+          "target": "Kompletná zverejnená tabuľka množstiev je pod návodom na použitie. Údaje sa vzťahujú na 2 hviezdičky.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h3",
+          "start": 8989,
+          "end": 9002,
+          "source": "Aktivní látky",
+          "index": 74,
+          "target": "Aktívne látky",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 9108,
+          "end": 9126,
+          "source": "Komplex vitamínů B",
+          "index": 75,
+          "target": "Komplex vitamínov B",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 9290,
+          "end": 9308,
+          "source": "Komplex vitamínů B",
+          "index": 76,
+          "target": "Komplex vitamínov B",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 9337,
+          "end": 9498,
+          "source": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci.",
+          "index": 77,
+          "target": "Okrem biotínu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovú, ktoré zohrávajú dôležitú úlohu pri podpore metabolických procesov a bunkovej regenerácii.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 9517,
+          "end": 9541,
+          "source": "Více: Komplex vitamínů B",
+          "index": 78,
+          "target": "Viac: Komplex vitamínov B",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 9578,
+          "end": 9579,
+          "source": "+",
+          "index": 79,
+          "target": "+",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 9630,
+          "end": 9647,
+          "source": "Minerální komplex",
+          "index": 80,
+          "target": "Minerálny komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 9808,
+          "end": 9825,
+          "source": "Minerální komplex",
+          "index": 81,
+          "target": "Minerálny komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 9854,
+          "end": 9940,
+          "source": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu.",
+          "index": 82,
+          "target": "Zinok a jód sú esenciálne minerály pre zdravie pokožky, vlasov a hormonálnu rovnováhu.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 9959,
+          "end": 9982,
+          "source": "Více: Minerální komplex",
+          "index": 83,
+          "target": "Viac: Minerálny komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 10019,
+          "end": 10020,
+          "source": "+",
+          "index": 84,
+          "target": "+",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 10071,
+          "end": 10092,
+          "source": "Antioxidantní komplex",
+          "index": 85,
+          "target": "Antioxidačný komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 10258,
+          "end": 10279,
+          "source": "Antioxidantní komplex",
+          "index": 86,
+          "target": "Antioxidačný komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 10308,
+          "end": 10387,
+          "source": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály.",
+          "index": 87,
+          "target": "Vitamíny C a E chránia bunky pred oxidačným stresom spôsobeným voľnými radikálmi.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 10406,
+          "end": 10433,
+          "source": "Více: Antioxidantní komplex",
+          "index": 88,
+          "target": "Viac: Antioxidačný komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 10470,
+          "end": 10471,
+          "source": "+",
+          "index": 89,
+          "target": "+",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 10522,
+          "end": 10531,
+          "source": "Vitamín A",
+          "index": 90,
+          "target": "Vitamín A",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 10698,
+          "end": 10707,
+          "source": "Vitamín A",
+          "index": 91,
+          "target": "Vitamín A",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 10736,
+          "end": 10850,
+          "source": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné.",
+          "index": 92,
+          "target": "Vitamín A zohráva dôležitú úlohu pri obnove buniek a regulácii tvorby kožného mazu, čo je dôležité pre prevenciu akné.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 10869,
+          "end": 10884,
+          "source": "Více: Vitamín A",
+          "index": 93,
+          "target": "Viac: Vitamín A",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 10921,
+          "end": 10922,
+          "source": "+",
+          "index": 94,
+          "target": "+",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 10973,
+          "end": 11000,
+          "source": "Inozitol a cholin bitartrát",
+          "index": 95,
+          "target": "Inozitol a cholín bitartrát",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 11182,
+          "end": 11209,
+          "source": "Inozitol a cholin bitartrát",
+          "index": 96,
+          "target": "Inozitol a cholín bitartrát",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 11238,
+          "end": 11325,
+          "source": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci.",
+          "index": 97,
+          "target": "Inozitol a cholín bitartrát sú látky podporujúce rast buniek a ich správnu funkciu.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 11344,
+          "end": 11377,
+          "source": "Více: Inozitol a cholin bitartrát",
+          "index": 98,
+          "target": "Viac: Inozitol a cholín bitartrát",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 11414,
+          "end": 11415,
+          "source": "+",
+          "index": 99,
+          "target": "+",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 11484,
+          "end": 11490,
+          "source": "Zavřít",
+          "index": 100,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 11583,
+          "end": 11589,
+          "source": "Zavřít",
+          "index": 101,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 11631,
+          "end": 11632,
+          "source": "×",
+          "index": 102,
+          "target": "×",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 11646,
+          "end": 11664,
+          "source": "Komplex vitamínů B",
+          "index": 103,
+          "target": "Komplex vitamínov B",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 11827,
+          "end": 11845,
+          "source": "Komplex vitamínů B",
+          "index": 104,
+          "target": "Komplex vitamínov B",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 11869,
+          "end": 12350,
+          "source": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci. Vitamín B5 (kyselina pantothenová) podporuje regeneraci pleti a hydrataci, zatímco vitamín B6 pomáhá regulovat hormonální rovnováhu, což snižuje výskyt hormonálně podmíněného akné. Vitamín B12 podporuje regeneraci buněk, zabraňuje předčasnému vypadávání vlasů a kyselina listová přispívá k zdravému růstu vlasů a nehtů.",
+          "index": 105,
+          "target": "Okrem biotínu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovú, ktoré zohrávajú dôležitú úlohu pri podpore metabolických procesov a bunkovej regenerácii. Vitamín B5 (kyselina pantoténová) podporuje regeneráciu pleti a hydratáciu, zatiaľ čo vitamín B6 pomáha regulovať hormonálnu rovnováhu, čo znižuje výskyt hormonálne podmieneného akné. Vitamín B12 podporuje regeneráciu buniek, zabraňuje predčasnému vypadávaniu vlasov a kyselina listová prispieva k zdravému rastu vlasov a nechtov.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 12419,
+          "end": 12425,
+          "source": "Zavřít",
+          "index": 106,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 12518,
+          "end": 12524,
+          "source": "Zavřít",
+          "index": 107,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 12566,
+          "end": 12567,
+          "source": "×",
+          "index": 108,
+          "target": "×",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 12581,
+          "end": 12598,
+          "source": "Minerální komplex",
+          "index": 109,
+          "target": "Minerálny komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 12758,
+          "end": 12775,
+          "source": "Minerální komplex",
+          "index": 110,
+          "target": "Minerálny komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 12799,
+          "end": 13207,
+          "source": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu. Zinek pomáhá s regenerací buněk a má protizánětlivé účinky, které zmírňují akné a podporují růst vlasů. Jeho schopnost regulovat tvorbu kožního mazu je zvláště důležitá při problémech s mastnou pletí. Jód podporuje zdraví štítné žlázy, která je klíčová pro hormonální rovnováhu, což přímo ovlivňuje kvalitu vlasů a pleti.",
+          "index": 111,
+          "target": "Zinok a jód sú esenciálne minerály pre zdravie pokožky, vlasov a hormonálnu rovnováhu. Zinok pomáha s regeneráciou buniek a má protizápalové účinky, ktoré zmierňujú akné a podporujú rast vlasov. Jeho schopnosť regulovať tvorbu kožného mazu je obzvlášť dôležitá pri problémoch s mastnou pleťou. Jód podporuje zdravie štítnej žľazy, ktorá je kľúčová pre hormonálnu rovnováhu, čo priamo ovplyvňuje kvalitu vlasov a pleti.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 13276,
+          "end": 13282,
+          "source": "Zavřít",
+          "index": 112,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 13375,
+          "end": 13381,
+          "source": "Zavřít",
+          "index": 113,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 13423,
+          "end": 13424,
+          "source": "×",
+          "index": 114,
+          "target": "×",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 13438,
+          "end": 13459,
+          "source": "Antioxidantní komplex",
+          "index": 115,
+          "target": "Antioxidačný komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 13624,
+          "end": 13645,
+          "source": "Antioxidantní komplex",
+          "index": 116,
+          "target": "Antioxidačný komplex",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 13669,
+          "end": 13988,
+          "source": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály. Vitamín C podporuje tvorbu kolagenu, což zlepšuje elasticitu a pevnost pleti a zároveň přispívá k růstu silnějších vlasů. Vitamín E přispívá k hydrataci pokožky a regeneraci, a zároveň chrání vlasy před poškozením UV zářením a znečištěním.",
+          "index": 117,
+          "target": "Vitamíny C a E chránia bunky pred oxidačným stresom spôsobeným voľnými radikálmi. Vitamín C podporuje tvorbu kolagénu, čo zlepšuje elasticitu a pevnosť pleti a zároveň prispieva k rastu silnejších vlasov. Vitamín E prispieva k hydratácii pokožky a regenerácii a zároveň chráni vlasy pred poškodením UV žiarením a znečistením.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 14057,
+          "end": 14063,
+          "source": "Zavřít",
+          "index": 118,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 14156,
+          "end": 14162,
+          "source": "Zavřít",
+          "index": 119,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 14204,
+          "end": 14205,
+          "source": "×",
+          "index": 120,
+          "target": "×",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 14219,
+          "end": 14228,
+          "source": "Vitamín A",
+          "index": 121,
+          "target": "Vitamín A",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 14394,
+          "end": 14403,
+          "source": "Vitamín A",
+          "index": 122,
+          "target": "Vitamín A",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 14427,
+          "end": 14675,
+          "source": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné. Přispívá ke zdraví pleti a podporuje růst silných, zdravých vlasů. Nedostatek vitamínu A může vést k suché pokožce a lámavosti vlasů.",
+          "index": 123,
+          "target": "Vitamín A zohráva dôležitú úlohu pri obnove buniek a regulácii tvorby kožného mazu, čo je dôležité pre prevenciu akné. Prispieva k zdraviu pleti a podporuje rast silných, zdravých vlasov. Nedostatok vitamínu A môže viesť k suchej pokožke a lámavosti vlasov.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 14744,
+          "end": 14750,
+          "source": "Zavřít",
+          "index": 124,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "aria-label",
+          "tag": "a",
+          "start": 14843,
+          "end": 14849,
+          "source": "Zavřít",
+          "index": 125,
+          "target": "Zavrieť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 14891,
+          "end": 14892,
+          "source": "×",
+          "index": 126,
+          "target": "×",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 14906,
+          "end": 14933,
+          "source": "Inozitol a cholin bitartrát",
+          "index": 127,
+          "target": "Inozitol a cholín bitartrát",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 15114,
+          "end": 15141,
+          "source": "Inozitol a cholin bitartrát",
+          "index": 128,
+          "target": "Inozitol a cholín bitartrát",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 15165,
+          "end": 15555,
+          "source": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci. Inozitol pomáhá udržovat hormonální rovnováhu, což má pozitivní vliv na zdraví vlasů a pleti, a je zvláště účinný při problémech s mastnou pokožkou. Cholin zase přispívá k lepšímu fungování nervového systému a podporuje celkovou buněčnou regeneraci, což se odráží ve zdravějším vzhledu pokožky i vlasů.",
+          "index": 129,
+          "target": "Inozitol a cholín bitartrát sú látky podporujúce rast buniek a ich správnu funkciu. Inozitol pomáha udržiavať hormonálnu rovnováhu, čo má pozitívny vplyv na zdravie vlasov a pleti, a je obzvlášť účinný pri problémoch s mastnou pokožkou. Cholín zasa prispieva k lepšiemu fungovaniu nervového systému a podporuje celkovú bunkovú regeneráciu, čo sa odráža v zdravšom vzhľade pokožky aj vlasov.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 15664,
+          "end": 15675,
+          "source": "Beauty Star",
+          "index": 130,
+          "target": "Beauty Star",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "h3",
+          "start": 15907,
+          "end": 15918,
+          "source": "Beauty Star",
+          "index": 131,
+          "target": "Beauty Star",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 15943,
+          "end": 15983,
+          "source": "60 gumových hvězdiček · 30 denních dávek",
+          "index": 132,
+          "target": "60 gumových hviezdičiek · 30 denných dávok",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 16007,
+          "end": 16038,
+          "source": "Denní dávka: 2 gumové hvězdičky",
+          "index": 133,
+          "target": "Denná dávka: 2 gumové hviezdičky",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 16070,
+          "end": 16120,
+          "source": "Aktuální cenu a dostupnost najdeš u nákupu nahoře.",
+          "index": 134,
+          "target": "Aktuálnu cenu a dostupnosť nájdeš pri nákupe hore.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "a",
+          "start": 16174,
+          "end": 16189,
+          "source": "Přejít k nákupu",
+          "index": 135,
+          "target": "Prejsť k nákupu",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h3",
+          "start": 16284,
+          "end": 16294,
+          "source": "Jak užívat",
+          "index": 136,
+          "target": "Ako užívať",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 16340,
+          "end": 16351,
+          "source": "Gluten free",
+          "index": 137,
+          "target": "Bez lepku",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 16496,
+          "end": 16507,
+          "source": "Gluten free",
+          "index": 138,
+          "target": "Bez lepku",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 16534,
+          "end": 16542,
+          "source": "GMO free",
+          "index": 139,
+          "target": "Bez GMO",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 16684,
+          "end": 16692,
+          "source": "GMO free",
+          "index": 140,
+          "target": "Bez GMO",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 16719,
+          "end": 16733,
+          "source": "Additives free",
+          "index": 141,
+          "target": "Bez prídavných látok",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 16881,
+          "end": 16895,
+          "source": "Additives free",
+          "index": 142,
+          "target": "Bez prídavných látok",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 16922,
+          "end": 16934,
+          "source": "Lactose free",
+          "index": 143,
+          "target": "Bez laktózy",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 17080,
+          "end": 17092,
+          "source": "Lactose free",
+          "index": 144,
+          "target": "Bez laktózy",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 17119,
+          "end": 17129,
+          "source": "Sugar free",
+          "index": 145,
+          "target": "Bez cukru",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 17273,
+          "end": 17283,
+          "source": "Sugar free",
+          "index": 146,
+          "target": "Bez cukru",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 17386,
+          "end": 17402,
+          "source": "Návod k použití:",
+          "index": 147,
+          "target": "Návod na použitie:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 17411,
+          "end": 17519,
+          "source": "Doporučuje se užívat 2 žvýkací tablety jednou denně. Jedno balení vystačí na 30 dní a jeho hmotnost je 65 g.",
+          "index": 148,
+          "target": "Odporúča sa užívať 2 žuvacie tablety raz denne. Jedno balenie vystačí na 30 dní a jeho hmotnosť je 65 g.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 17578,
+          "end": 17589,
+          "source": "Skladování:",
+          "index": 149,
+          "target": "Skladovanie:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 17598,
+          "end": 17762,
+          "source": "Skladujte na suchém místě při teplotě do 25 °C. Uchovávejte mimo dosah dětí a přímého slunečního záření. Po odebrání potřebného množství obal vždy pečlivě uzavřete.",
+          "index": 150,
+          "target": "Skladujte na suchom mieste pri teplote do 25 °C. Uchovávajte mimo dosahu detí a priameho slnečného žiarenia. Po odobratí potrebného množstva obal vždy starostlivo uzavrite.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h4",
+          "start": 17821,
+          "end": 17829,
+          "source": "Omezení:",
+          "index": 151,
+          "target": "Obmedzenia:",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 17838,
+          "end": 17876,
+          "source": "Nepřekračujte doporučenou denní dávku.",
+          "index": 152,
+          "target": "Neprekračujte odporúčanú dennú dávku.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "h3",
+          "start": 17954,
+          "end": 17979,
+          "source": "Obsah látek v denní dávce",
+          "index": 153,
+          "target": "Obsah látok v dennej dávke",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "th",
+          "start": 18039,
+          "end": 18045,
+          "source": "Složka",
+          "index": 154,
+          "target": "Zložka",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "th",
+          "start": 18055,
+          "end": 18074,
+          "source": "ve 2 želé tobolkách",
+          "index": 155,
+          "target": "v 2 želé kapsulách",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18112,
+          "end": 18118,
+          "source": "Biotin",
+          "index": 156,
+          "target": "Biotín",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18128,
+          "end": 18150,
+          "source": "5 000 µg (10 000% RHP)",
+          "index": 157,
+          "target": "5 000 µg (10 000% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18171,
+          "end": 18176,
+          "source": "Zinek",
+          "index": 158,
+          "target": "Zinok",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18186,
+          "end": 18202,
+          "source": "2,7 mg (27% RHP)",
+          "index": 159,
+          "target": "2,7 mg (27% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18223,
+          "end": 18244,
+          "source": "Kyselina pantothenová",
+          "index": 160,
+          "target": "Kyselina pantoténová",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18254,
+          "end": 18272,
+          "source": "5,2 mg (86,7% RHP)",
+          "index": 161,
+          "target": "5,2 mg (86,7% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18293,
+          "end": 18302,
+          "source": "Vitamín C",
+          "index": 162,
+          "target": "Vitamín C",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18312,
+          "end": 18327,
+          "source": "20 mg (25% RHP)",
+          "index": 163,
+          "target": "20 mg (25% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18348,
+          "end": 18357,
+          "source": "Vitamín E",
+          "index": 164,
+          "target": "Vitamín E",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18367,
+          "end": 18385,
+          "source": "7,4 mg (61,7% RHP)",
+          "index": 165,
+          "target": "7,4 mg (61,7% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18406,
+          "end": 18415,
+          "source": "Vitamín A",
+          "index": 166,
+          "target": "Vitamín A",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18425,
+          "end": 18443,
+          "source": "315 µg (39,4% RHP)",
+          "index": 167,
+          "target": "315 µg (39,4% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18464,
+          "end": 18474,
+          "source": "Vitamín B6",
+          "index": 168,
+          "target": "Vitamín B6",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18484,
+          "end": 18501,
+          "source": "2 mg (142,9% RHP)",
+          "index": 169,
+          "target": "2 mg (142,9% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18522,
+          "end": 18533,
+          "source": "Vitamín B12",
+          "index": 170,
+          "target": "Vitamín B12",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18543,
+          "end": 18558,
+          "source": "5 µg (200% RHP)",
+          "index": 171,
+          "target": "5 µg (200% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18579,
+          "end": 18589,
+          "source": "Vitamín D2",
+          "index": 172,
+          "target": "Vitamín D2",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18599,
+          "end": 18615,
+          "source": "40 µg (800% RHP)",
+          "index": 173,
+          "target": "40 µg (800% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18636,
+          "end": 18652,
+          "source": "Kyselina listová",
+          "index": 174,
+          "target": "Kyselina listová",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18662,
+          "end": 18679,
+          "source": "480 µg (240% RHP)",
+          "index": 175,
+          "target": "480 µg (240% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18700,
+          "end": 18716,
+          "source": "Cholin bitartrát",
+          "index": 176,
+          "target": "Cholín bitartrát",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18726,
+          "end": 18741,
+          "source": "260 µg (*% RHP)",
+          "index": 177,
+          "target": "260 µg (*% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18762,
+          "end": 18765,
+          "source": "Jód",
+          "index": 178,
+          "target": "Jód",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18775,
+          "end": 18792,
+          "source": "40 µg (26,6% RHP)",
+          "index": 179,
+          "target": "40 µg (26,6% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18813,
+          "end": 18821,
+          "source": "Inozitol",
+          "index": 180,
+          "target": "Inozitol",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "td",
+          "start": 18831,
+          "end": 18845,
+          "source": "42 µg (*% RHP)",
+          "index": 181,
+          "target": "42 µg (*% RHP)",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 18877,
+          "end": 19031,
+          "source": "*Referenční hodnota příjmu není stanovena. Přehled přebírá zveřejněná množství produktu; kompletní seznam surovin a produktová upozornění ověř na etiketě.",
+          "index": 182,
+          "target": "*Referenčná hodnota príjmu nie je stanovená. Prehľad preberá zverejnené množstvá produktu; kompletný zoznam surovín a produktové upozornenia over na etikete.",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 19091,
+          "end": 19214,
+          "source": "Doplněk stravy. Není náhradou pestré a vyvážené stravy. Nepřekračujte doporučenou denní dávku. Uchovávejte mimo dosah dětí.",
+          "index": 183,
+          "target": "Výživový doplnok. Nie je náhradou pestrej a vyváženej stravy. Neprekračujte odporúčanú dennú dávku. Uchovávajte mimo dosahu detí.",
+          "status": "translated"
+        }
+      ],
+      "scripts": [
+        {
+          "index": 0,
+          "source_sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "target_sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "changes": [],
+          "reverse_to_source_exact": true,
+          "node_check": "passed"
+        },
+        {
+          "index": 1,
+          "source_sha256": "48259f62c94305681c60b57693bfa41ab2aa6b5dc1f204a5592100b33b743629",
+          "target_sha256": "55a9b63eab712e3ba71c8acdff4e30cab3fba514ed5f8bdd89a0cf4c59675e2c",
+          "changes": [
+            {
+              "source_cz": "Zobrazit více",
+              "target_sk": "Zobraziť viac",
+              "occurrences": 2,
+              "type": "ui_literal"
+            },
+            {
+              "source_cz": "Zobrazit více: ",
+              "target_sk": "Zobraziť viac: ",
+              "occurrences": 2,
+              "type": "ui_literal"
+            },
+            {
+              "source_cz": "Zobrazit méně",
+              "target_sk": "Zobraziť menej",
+              "occurrences": 1,
+              "type": "ui_literal"
+            },
+            {
+              "source_cz": "Zobrazit méně: ",
+              "target_sk": "Zobraziť menej: ",
+              "occurrences": 1,
+              "type": "ui_literal"
+            },
+            {
+              "source_cz": "Biotin, zinek a další vitamíny a minerály. Dvě gumové hvězdičky denně.",
+              "target_sk": "Biotín, zinok a ďalšie vitamíny a minerály. Dve gumové hviezdičky denne.",
+              "occurrences": 1,
+              "type": "ui_literal"
+            },
+            {
+              "source_cz": "60 hvězdiček · 30 denních dávek · 2 hvězdičky denně",
+              "target_sk": "60 hviezdičiek · 30 denných dávok · 2 hviezdičky denne",
+              "occurrences": 1,
+              "type": "ui_literal"
+            },
+            {
+              "source_cz": "/Jak funguje|Fakta, ne fráze/",
+              "target_sk": "/Ako funguje|Fakty, nie frázy/",
+              "occurrences": 1,
+              "type": "heading_regexp"
+            }
+          ],
+          "reverse_to_source_exact": true,
+          "node_check": "passed"
+        },
+        {
+          "index": 2,
+          "source_sha256": "14df4582b47d5ce8ab193a4a0a9786a428f701d0b6cf0e54564b84c3546c05dc",
+          "target_sha256": "14df4582b47d5ce8ab193a4a0a9786a428f701d0b6cf0e54564b84c3546c05dc",
+          "changes": [],
+          "reverse_to_source_exact": true,
+          "node_check": "passed"
+        }
+      ],
+      "dialogs": [
+        {
+          "id": "bs-lm-0",
+          "source_paragraphs_cz": [
+            "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci. Vitamín B5 (kyselina pantothenová) podporuje regeneraci pleti a hydrataci, zatímco vitamín B6 pomáhá regulovat hormonální rovnováhu, což snižuje výskyt hormonálně podmíněného akné. Vitamín B12 podporuje regeneraci buněk, zabraňuje předčasnému vypadávání vlasů a kyselina listová přispívá k zdravému růstu vlasů a nehtů."
+          ],
+          "target_paragraphs_sk": [
+            "Okrem biotínu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovú, ktoré zohrávajú dôležitú úlohu pri podpore metabolických procesov a bunkovej regenerácii. Vitamín B5 (kyselina pantoténová) podporuje regeneráciu pleti a hydratáciu, zatiaľ čo vitamín B6 pomáha regulovať hormonálnu rovnováhu, čo znižuje výskyt hormonálne podmieneného akné. Vitamín B12 podporuje regeneráciu buniek, zabraňuje predčasnému vypadávaniu vlasov a kyselina listová prispieva k zdravému rastu vlasov a nechtov."
+          ],
+          "full_paragraph_coverage": true
+        },
+        {
+          "id": "bs-lm-1",
+          "source_paragraphs_cz": [
+            "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu. Zinek pomáhá s regenerací buněk a má protizánětlivé účinky, které zmírňují akné a podporují růst vlasů. Jeho schopnost regulovat tvorbu kožního mazu je zvláště důležitá při problémech s mastnou pletí. Jód podporuje zdraví štítné žlázy, která je klíčová pro hormonální rovnováhu, což přímo ovlivňuje kvalitu vlasů a pleti."
+          ],
+          "target_paragraphs_sk": [
+            "Zinok a jód sú esenciálne minerály pre zdravie pokožky, vlasov a hormonálnu rovnováhu. Zinok pomáha s regeneráciou buniek a má protizápalové účinky, ktoré zmierňujú akné a podporujú rast vlasov. Jeho schopnosť regulovať tvorbu kožného mazu je obzvlášť dôležitá pri problémoch s mastnou pleťou. Jód podporuje zdravie štítnej žľazy, ktorá je kľúčová pre hormonálnu rovnováhu, čo priamo ovplyvňuje kvalitu vlasov a pleti."
+          ],
+          "full_paragraph_coverage": true
+        },
+        {
+          "id": "bs-lm-2",
+          "source_paragraphs_cz": [
+            "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály. Vitamín C podporuje tvorbu kolagenu, což zlepšuje elasticitu a pevnost pleti a zároveň přispívá k růstu silnějších vlasů. Vitamín E přispívá k hydrataci pokožky a regeneraci, a zároveň chrání vlasy před poškozením UV zářením a znečištěním."
+          ],
+          "target_paragraphs_sk": [
+            "Vitamíny C a E chránia bunky pred oxidačným stresom spôsobeným voľnými radikálmi. Vitamín C podporuje tvorbu kolagénu, čo zlepšuje elasticitu a pevnosť pleti a zároveň prispieva k rastu silnejších vlasov. Vitamín E prispieva k hydratácii pokožky a regenerácii a zároveň chráni vlasy pred poškodením UV žiarením a znečistením."
+          ],
+          "full_paragraph_coverage": true
+        },
+        {
+          "id": "bs-lm-3",
+          "source_paragraphs_cz": [
+            "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné. Přispívá ke zdraví pleti a podporuje růst silných, zdravých vlasů. Nedostatek vitamínu A může vést k suché pokožce a lámavosti vlasů."
+          ],
+          "target_paragraphs_sk": [
+            "Vitamín A zohráva dôležitú úlohu pri obnove buniek a regulácii tvorby kožného mazu, čo je dôležité pre prevenciu akné. Prispieva k zdraviu pleti a podporuje rast silných, zdravých vlasov. Nedostatok vitamínu A môže viesť k suchej pokožke a lámavosti vlasov."
+          ],
+          "full_paragraph_coverage": true
+        },
+        {
+          "id": "bs-lm-4",
+          "source_paragraphs_cz": [
+            "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci. Inozitol pomáhá udržovat hormonální rovnováhu, což má pozitivní vliv na zdraví vlasů a pleti, a je zvláště účinný při problémech s mastnou pokožkou. Cholin zase přispívá k lepšímu fungování nervového systému a podporuje celkovou buněčnou regeneraci, což se odráží ve zdravějším vzhledu pokožky i vlasů."
+          ],
+          "target_paragraphs_sk": [
+            "Inozitol a cholín bitartrát sú látky podporujúce rast buniek a ich správnu funkciu. Inozitol pomáha udržiavať hormonálnu rovnováhu, čo má pozitívny vplyv na zdravie vlasov a pleti, a je obzvlášť účinný pri problémoch s mastnou pokožkou. Cholín zasa prispieva k lepšiemu fungovaniu nervového systému a podporuje celkovú bunkovú regeneráciu, čo sa odráža v zdravšom vzhľade pokožky aj vlasov."
+          ],
+          "full_paragraph_coverage": true
+        }
+      ],
+      "counts": {
+        "visible_text_nodes": 148,
+        "accessible_attributes": 35,
+        "scripts": 3,
+        "styles": 1,
+        "numeric_table_cells": 13
+      },
+      "verified": {
+        "complete_text_inventory": true,
+        "all_text_and_accessibility_translated_or_explicitly_reviewed": true,
+        "html_structure_and_protected_attributes_exact": true,
+        "css_byte_exact": true,
+        "css_import_syntax_checked": true,
+        "outside_inventory_edits_byte_exact": true,
+        "identifiers_and_anchors_exact": true,
+        "all_numeric_tokens_exact": true,
+        "numeric_table_cells_byte_exact": true,
+        "script_logic_reversal_exact": true,
+        "node_check_all_scripts": true,
+        "source_bytes_unchanged": true
+      },
+      "offer_review": {
+        "hardcoded_price": false,
+        "stock_promise": false,
+        "ratings": false,
+        "json_ld_offers": false,
+        "action": "Žádná cenová/skladová/rating výjimka nebyla nutná; neutrální zdrojový odkaz na nákup přeložen."
+      }
+    },
+    {
+      "source": "/root/workspace/research/beauty-star-translations-1794385467/source/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "output": "/root/workspace/research/beauty-star-translations-1794385467/out/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "runtime_qa": {
+        "status": "not_applicable",
+        "reason": "Krátký zdroj obsahuje pouze byte-identický theme loader; žádný mobilní UI bootstrap."
+      },
+      "source_sha256": "a5644e222e63f777b6a2de6e8ac0abc8253f882293db33b6667ec9fd6faa20ee",
+      "output_sha256": "8c6a5719ab64101aaa1daa8c25d1ade6d0126f41cccb685a2cdf4ce6a6c6c1eb",
+      "source_bytes": 3396,
+      "output_bytes": 3407,
+      "inventory": [
+        {
+          "kind": "text",
+          "tag": "p",
+          "start": 865,
+          "end": 1392,
+          "source": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+          "index": 1,
+          "target": "Hormóny môžu zohrávať veľkú úlohu v kvalite pleti a vlasov, či už počas puberty, tehotenstva alebo menopauzy. Beauty Star je ideálnym výživovým doplnkom pre ženy aj mužov, ktorí sa potýkajú s hormonálnou nerovnováhou spôsobujúcou akné a stratu vlasov. Tieto želé vitamíny nielen zlepšujú vzhľad pleti, ale aj posilňujú a zahusťujú vlasy. Vďaka pravidelnému užívaniu sa môžete tešiť na lesklejšie a pevnejšie vlasy a čistejšiu pleť bez akné. Navyše komplex vitamínov a minerálov podporuje celkové zdravie pokožky a vlasov, prináša vyváženosť a vitalitu.",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 1437,
+          "end": 1459,
+          "source": "Zdravější vlasy a pleť",
+          "index": 2,
+          "target": "Zdravšie vlasy a pleť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 1613,
+          "end": 1635,
+          "source": "Zdravější vlasy a pleť",
+          "index": 3,
+          "target": "Zdravšie vlasy a pleť",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 1664,
+          "end": 1692,
+          "source": "Podpora hormonální rovnováhy",
+          "index": 4,
+          "target": "Podpora hormo­nálnej rovnováhy",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 1855,
+          "end": 1883,
+          "source": "Podpora hormonální rovnováhy",
+          "index": 5,
+          "target": "Podpora hormo­nálnej rovnováhy",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 1912,
+          "end": 1925,
+          "source": "Snižuje únavu",
+          "index": 6,
+          "target": "Znižuje únavu",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 2087,
+          "end": 2100,
+          "source": "Snižuje únavu",
+          "index": 7,
+          "target": "Znižuje únavu",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 2129,
+          "end": 2149,
+          "source": "Podporuje růst vlasů",
+          "index": 8,
+          "target": "Podporuje rast vlasov",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 2303,
+          "end": 2323,
+          "source": "Podporuje růst vlasů",
+          "index": 9,
+          "target": "Podporuje rast vlasov",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 2352,
+          "end": 2365,
+          "source": "Vyrobeno v ČR",
+          "index": 10,
+          "target": "Vyrobené v ČR",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 2523,
+          "end": 2536,
+          "source": "Vyrobeno v ČR",
+          "index": 11,
+          "target": "Vyrobené v ČR",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "div",
+          "start": 2666,
+          "end": 2677,
+          "source": "Beauty Star",
+          "index": 12,
+          "target": "Beauty Star",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 2731,
+          "end": 2739,
+          "source": "hmotnost",
+          "index": 13,
+          "target": "hmotnosť",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 2865,
+          "end": 2870,
+          "source": " 30 g",
+          "index": 14,
+          "target": " 30 g",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 2894,
+          "end": 2899,
+          "source": "počet",
+          "index": 15,
+          "target": "počet",
+          "status": "reviewed_same_spelling_or_numeric"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 3024,
+          "end": 3046,
+          "source": " 60 gumových hvězdiček",
+          "index": 16,
+          "target": " 60 gumových hviezdičiek",
+          "status": "translated"
+        },
+        {
+          "kind": "attribute",
+          "attribute": "alt",
+          "tag": "img",
+          "start": 3093,
+          "end": 3102,
+          "source": "dávkování",
+          "index": 17,
+          "target": "dávkovanie",
+          "status": "translated"
+        },
+        {
+          "kind": "text",
+          "tag": "span",
+          "start": 3229,
+          "end": 3254,
+          "source": " 2 gumové hvězdičky denně",
+          "index": 18,
+          "target": " 2 gumové hviezdičky denne",
+          "status": "translated"
+        }
+      ],
+      "scripts": [
+        {
+          "index": 0,
+          "source_sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "target_sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "changes": [],
+          "reverse_to_source_exact": true,
+          "node_check": "passed"
+        }
+      ],
+      "dialogs": [],
+      "counts": {
+        "visible_text_nodes": 10,
+        "accessible_attributes": 8,
+        "scripts": 1,
+        "styles": 1,
+        "numeric_table_cells": 0
+      },
+      "verified": {
+        "complete_text_inventory": true,
+        "all_text_and_accessibility_translated_or_explicitly_reviewed": true,
+        "html_structure_and_protected_attributes_exact": true,
+        "css_byte_exact": true,
+        "css_import_syntax_checked": true,
+        "outside_inventory_edits_byte_exact": true,
+        "identifiers_and_anchors_exact": true,
+        "all_numeric_tokens_exact": true,
+        "numeric_table_cells_byte_exact": true,
+        "script_logic_reversal_exact": true,
+        "node_check_all_scripts": true,
+        "source_bytes_unchanged": true
+      },
+      "offer_review": {
+        "hardcoded_price": false,
+        "stock_promise": false,
+        "ratings": false,
+        "json_ld_offers": false,
+        "action": "Žádná cenová/skladová/rating výjimka nebyla nutná; neutrální zdrojový odkaz na nákup přeložen."
+      }
+    }
+  ],
+  "needs_claim_review": [
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 21,
+      "kind": "text",
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "target_sk": "Hormóny môžu zohrávať veľkú úlohu v kvalite pleti a vlasov, či už počas puberty, tehotenstva alebo menopauzy. Beauty Star je ideálnym výživovým doplnkom pre ženy aj mužov, ktorí sa potýkajú s hormonálnou nerovnováhou spôsobujúcou akné a stratu vlasov. Tieto želé vitamíny nielen zlepšujú vzhľad pleti, ale aj posilňujú a zahusťujú vlasy. Vďaka pravidelnému užívaniu sa môžete tešiť na lesklejšie a pevnejšie vlasy a čistejšiu pleť bez akné. Navyše komplex vitamínov a minerálov podporuje celkové zdravie pokožky a vlasov, prináša vyváženosť a vitalitu.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení.",
+        "Zdroj zmiňuje těhotenství/pubertu v účinkovém kontextu; vhodnost a cílení nejsou ověřeny."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 24,
+      "kind": "text",
+      "source_cz": "Zdravější vlasy a pleť",
+      "target_sk": "Zdravšie vlasy a pleť",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 25,
+      "kind": "text",
+      "source_cz": "Podpora hormonální rovnováhy",
+      "target_sk": "Podpora hormo­nálnej rovnováhy",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 26,
+      "kind": "text",
+      "source_cz": "Snižuje únavu",
+      "target_sk": "Znižuje únavu",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 27,
+      "kind": "text",
+      "source_cz": "Posiluje imunitní systém",
+      "target_sk": "Posilňuje imunitný systém",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 28,
+      "kind": "text",
+      "source_cz": "Podporuje růst vlasů",
+      "target_sk": "Podporuje rast vlasov",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 31,
+      "kind": "text",
+      "source_cz": "Podporuje zdraví vlasů:",
+      "target_sk": "Podporuje zdravie vlasov:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 32,
+      "kind": "text",
+      "source_cz": " Pravidelné užívání tohoto doplňku zlepšuje hustotu a pevnost vlasů díky vysokému obsahu biotinu a kyseliny pantothenové. Pomáhá omezit lámavost vlasů a podporuje jejich růst.",
+      "target_sk": " Pravidelné užívanie tohto doplnku zlepšuje hustotu a pevnosť vlasov vďaka vysokému obsahu biotínu a kyseliny pantoténovej. Pomáha obmedziť lámavosť vlasov a podporuje ich rast.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 33,
+      "kind": "text",
+      "source_cz": "Zlepšuje stav pleti:",
+      "target_sk": "Zlepšuje stav pleti:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 34,
+      "kind": "text",
+      "source_cz": " Složky jako zinek, vitamín A a vitamíny skupiny B přispívají k redukci akné způsobeného hormonálními změnami, a zároveň pomáhají udržovat pleť hydratovanou a pružnou.",
+      "target_sk": " Zložky ako zinok, vitamín A a vitamíny skupiny B prispievajú k redukcii akné spôsobeného hormonálnymi zmenami a zároveň pomáhajú udržiavať pleť hydratovanú a pružnú.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 35,
+      "kind": "text",
+      "source_cz": "Podpora hormonální rovnováhy:",
+      "target_sk": "Podpora hormonálnej rovnováhy:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 36,
+      "kind": "text",
+      "source_cz": " Kombinace vitamínů, zejména B6 a B12, pomáhá stabilizovat hormonální hladiny, což přináší úlevu od nepříznivých vlivů, jako jsou zhoršená kvalita pleti a ztráta vlasů.",
+      "target_sk": " Kombinácia vitamínov, najmä B6 a B12, pomáha stabilizovať hormonálne hladiny, čo prináša úľavu od nepriaznivých vplyvov, ako sú zhoršená kvalita pleti a strata vlasov.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 37,
+      "kind": "text",
+      "source_cz": "Posiluje imunitní systém:",
+      "target_sk": "Posilňuje imunitný systém:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 38,
+      "kind": "text",
+      "source_cz": " Vitamín C a zinek účinně podporují imunitní funkce, čímž zvyšují odolnost těla vůči infekcím a podporují rychlejší regeneraci buněk.",
+      "target_sk": " Vitamín C a zinok účinne podporujú imunitné funkcie, čím zvyšujú odolnosť tela voči infekciám a podporujú rýchlejšiu regeneráciu buniek.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 39,
+      "kind": "text",
+      "source_cz": "Snižuje únavu:",
+      "target_sk": "Znižuje únavu:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 40,
+      "kind": "text",
+      "source_cz": " Vitamíny B6, B12 a kyselina listová podporují tvorbu energie a snižují pocit únavy, což přispívá k lepšímu pocitu vitality během dne.",
+      "target_sk": " Vitamíny B6, B12 a kyselina listová podporujú tvorbu energie a znižujú pocit únavy, čo prispieva k lepšiemu pocitu vitality počas dňa.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 42,
+      "kind": "text",
+      "source_cz": "Podporuje tvorbu kolagenu:",
+      "target_sk": "Podporuje tvorbu kolagénu:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 43,
+      "kind": "text",
+      "source_cz": " Vitamín C hraje klíčovou roli při tvorbě kolagenu, který zajišťuje pružnost a pevnost pokožky, čímž zpomaluje projevy stárnutí a udržuje mladistvý vzhled pleti.",
+      "target_sk": " Vitamín C zohráva kľúčovú úlohu pri tvorbe kolagénu, ktorý zaisťuje pružnosť a pevnosť pokožky, čím spomaľuje prejavy starnutia a udržiava mladistvý vzhľad pleti.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 44,
+      "kind": "text",
+      "source_cz": "Podporuje růst vlasů:",
+      "target_sk": "Podporuje rast vlasov:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 45,
+      "kind": "text",
+      "source_cz": " Biotin spolu s vitamíny skupiny B stimuluje vlasové kořínky, čímž zajišťuje rychlejší růst vlasů a zlepšuje jejich celkovou kondici.",
+      "target_sk": " Biotín spolu s vitamínmi skupiny B stimuluje vlasové korienky, čím zaisťuje rýchlejší rast vlasov a zlepšuje ich celkovú kondíciu.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 46,
+      "kind": "text",
+      "source_cz": "Zlepšuje zdraví nehtů a pleti:",
+      "target_sk": "Zlepšuje zdravie nechtov a pleti:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 47,
+      "kind": "text",
+      "source_cz": " Kombinace biotinu, zinku a vitamínu C posiluje nejen vlasy, ale také nehty a celkový vzhled pleti, což vede k silnějším nehtům a zářivější pleti.",
+      "target_sk": " Kombinácia biotínu, zinku a vitamínu C posilňuje nielen vlasy, ale aj nechty a celkový vzhľad pleti, čo vedie k silnejším nechtom a žiarivejšej pleti.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 48,
+      "kind": "text",
+      "source_cz": "Podporuje hormonální zdraví:",
+      "target_sk": "Podporuje hormonálne zdravie:",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 49,
+      "kind": "text",
+      "source_cz": " Tento doplněk pomáhá regulovat hormonální výkyvy, což je důležité pro udržení zdravé rovnováhy v těle během náročných období, jako jsou puberta nebo menopauza.",
+      "target_sk": " Tento doplnok pomáha regulovať hormonálne výkyvy, čo je dôležité pre udržanie zdravej rovnováhy v tele počas náročných období, ako sú puberta alebo menopauza.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Zdroj zmiňuje těhotenství/pubertu v účinkovém kontextu; vhodnost a cílení nejsou ověřeny."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 66,
+      "kind": "text",
+      "source_cz": "Biotin je klíčovým vitamínem pro zdraví vlasů, pleti a nehtů. Podporuje tvorbu keratinu, hlavní složky vlasů, což zvyšuje jejich hustotu a pevnost. Pomáhá také snižovat lámavost vlasů a zlepšuje pružnost pleti. Nedostatek biotinu může vést k suché kůži, lámavým vlasům a oslabeným nehtům, proto je jeho pravidelný přísun zásadní pro udržení zdravého vzhledu a vitality.",
+      "target_sk": "Biotín je kľúčovým vitamínom pre zdravie vlasov, pleti a nechtov. Podporuje tvorbu keratínu, hlavnej zložky vlasov, čo zvyšuje ich hustotu a pevnosť. Pomáha tiež znižovať lámavosť vlasov a zlepšuje pružnosť pleti. Nedostatok biotínu môže viesť k suchej koži, lámavým vlasom a oslabeným nechtom, preto je jeho pravidelný prísun zásadný pre udržanie zdravého vzhľadu a vitality.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 73,
+      "kind": "text",
+      "source_cz": "Kompletní zveřejněná tabulka množství je pod návodem k použití. Údaje se vztahují ke 2 hvězdičkám.",
+      "target_sk": "Kompletná zverejnená tabuľka množstiev je pod návodom na použitie. Údaje sa vzťahujú na 2 hviezdičky.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 77,
+      "kind": "text",
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci.",
+      "target_sk": "Okrem biotínu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovú, ktoré zohrávajú dôležitú úlohu pri podpore metabolických procesov a bunkovej regenerácii.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 82,
+      "kind": "text",
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu.",
+      "target_sk": "Zinok a jód sú esenciálne minerály pre zdravie pokožky, vlasov a hormonálnu rovnováhu.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 87,
+      "kind": "text",
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály.",
+      "target_sk": "Vitamíny C a E chránia bunky pred oxidačným stresom spôsobeným voľnými radikálmi.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 92,
+      "kind": "text",
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné.",
+      "target_sk": "Vitamín A zohráva dôležitú úlohu pri obnove buniek a regulácii tvorby kožného mazu, čo je dôležité pre prevenciu akné.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 105,
+      "kind": "text",
+      "source_cz": "Kromě biotinu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovou, které hrají důležitou roli při podpoře metabolických procesů a buněčné regeneraci. Vitamín B5 (kyselina pantothenová) podporuje regeneraci pleti a hydrataci, zatímco vitamín B6 pomáhá regulovat hormonální rovnováhu, což snižuje výskyt hormonálně podmíněného akné. Vitamín B12 podporuje regeneraci buněk, zabraňuje předčasnému vypadávání vlasů a kyselina listová přispívá k zdravému růstu vlasů a nehtů.",
+      "target_sk": "Okrem biotínu obsahuje tento komplex vitamíny B5, B6, B12 a kyselinu listovú, ktoré zohrávajú dôležitú úlohu pri podpore metabolických procesov a bunkovej regenerácii. Vitamín B5 (kyselina pantoténová) podporuje regeneráciu pleti a hydratáciu, zatiaľ čo vitamín B6 pomáha regulovať hormonálnu rovnováhu, čo znižuje výskyt hormonálne podmieneného akné. Vitamín B12 podporuje regeneráciu buniek, zabraňuje predčasnému vypadávaniu vlasov a kyselina listová prispieva k zdravému rastu vlasov a nechtov.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 111,
+      "kind": "text",
+      "source_cz": "Zinek a jód jsou esenciální minerály pro zdraví pokožky, vlasů a hormonální rovnováhu. Zinek pomáhá s regenerací buněk a má protizánětlivé účinky, které zmírňují akné a podporují růst vlasů. Jeho schopnost regulovat tvorbu kožního mazu je zvláště důležitá při problémech s mastnou pletí. Jód podporuje zdraví štítné žlázy, která je klíčová pro hormonální rovnováhu, což přímo ovlivňuje kvalitu vlasů a pleti.",
+      "target_sk": "Zinok a jód sú esenciálne minerály pre zdravie pokožky, vlasov a hormonálnu rovnováhu. Zinok pomáha s regeneráciou buniek a má protizápalové účinky, ktoré zmierňujú akné a podporujú rast vlasov. Jeho schopnosť regulovať tvorbu kožného mazu je obzvlášť dôležitá pri problémoch s mastnou pleťou. Jód podporuje zdravie štítnej žľazy, ktorá je kľúčová pre hormonálnu rovnováhu, čo priamo ovplyvňuje kvalitu vlasov a pleti.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 117,
+      "kind": "text",
+      "source_cz": "Vitamíny C a E chrání buňky před oxidačním stresem způsobeným volnými radikály. Vitamín C podporuje tvorbu kolagenu, což zlepšuje elasticitu a pevnost pleti a zároveň přispívá k růstu silnějších vlasů. Vitamín E přispívá k hydrataci pokožky a regeneraci, a zároveň chrání vlasy před poškozením UV zářením a znečištěním.",
+      "target_sk": "Vitamíny C a E chránia bunky pred oxidačným stresom spôsobeným voľnými radikálmi. Vitamín C podporuje tvorbu kolagénu, čo zlepšuje elasticitu a pevnosť pleti a zároveň prispieva k rastu silnejších vlasov. Vitamín E prispieva k hydratácii pokožky a regenerácii a zároveň chráni vlasy pred poškodením UV žiarením a znečistením.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 123,
+      "kind": "text",
+      "source_cz": "Vitamín A hraje důležitou roli při obnově buněk a regulaci tvorby kožního mazu, což je důležité pro prevenci akné. Přispívá ke zdraví pleti a podporuje růst silných, zdravých vlasů. Nedostatek vitamínu A může vést k suché pokožce a lámavosti vlasů.",
+      "target_sk": "Vitamín A zohráva dôležitú úlohu pri obnove buniek a regulácii tvorby kožného mazu, čo je dôležité pre prevenciu akné. Prispieva k zdraviu pleti a podporuje rast silných, zdravých vlasov. Nedostatok vitamínu A môže viesť k suchej pokožke a lámavosti vlasov.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 129,
+      "kind": "text",
+      "source_cz": "Inozitol a cholin bitartrát jsou látky podporující růst buněk a jejich správnou funkci. Inozitol pomáhá udržovat hormonální rovnováhu, což má pozitivní vliv na zdraví vlasů a pleti, a je zvláště účinný při problémech s mastnou pokožkou. Cholin zase přispívá k lepšímu fungování nervového systému a podporuje celkovou buněčnou regeneraci, což se odráží ve zdravějším vzhledu pokožky i vlasů.",
+      "target_sk": "Inozitol a cholín bitartrát sú látky podporujúce rast buniek a ich správnu funkciu. Inozitol pomáha udržiavať hormonálnu rovnováhu, čo má pozitívny vplyv na zdravie vlasov a pleti, a je obzvlášť účinný pri problémoch s mastnou pokožkou. Cholín zasa prispieva k lepšiemu fungovaniu nervového systému a podporuje celkovú bunkovú regeneráciu, čo sa odráža v zdravšom vzhľade pokožky aj vlasov.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 137,
+      "kind": "attribute",
+      "source_cz": "Gluten free",
+      "target_sk": "Bez lepku",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 138,
+      "kind": "text",
+      "source_cz": "Gluten free",
+      "target_sk": "Bez lepku",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 139,
+      "kind": "attribute",
+      "source_cz": "GMO free",
+      "target_sk": "Bez GMO",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 140,
+      "kind": "text",
+      "source_cz": "GMO free",
+      "target_sk": "Bez GMO",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 141,
+      "kind": "attribute",
+      "source_cz": "Additives free",
+      "target_sk": "Bez prídavných látok",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 142,
+      "kind": "text",
+      "source_cz": "Additives free",
+      "target_sk": "Bez prídavných látok",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 143,
+      "kind": "attribute",
+      "source_cz": "Lactose free",
+      "target_sk": "Bez laktózy",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 144,
+      "kind": "text",
+      "source_cz": "Lactose free",
+      "target_sk": "Bez laktózy",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 145,
+      "kind": "attribute",
+      "source_cz": "Sugar free",
+      "target_sk": "Bez cukru",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 146,
+      "kind": "text",
+      "source_cz": "Sugar free",
+      "target_sk": "Bez cukru",
+      "status": "needs_claim_review",
+      "concern": [
+        "Složení a podmínky tvrzení „bez“ nejsou tímto překladem ověřeny; vyžaduje kontrolu etikety a podkladů."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "inventory_index": 182,
+      "kind": "text",
+      "source_cz": "*Referenční hodnota příjmu není stanovena. Přehled přebírá zveřejněná množství produktu; kompletní seznam surovin a produktová upozornění ověř na etiketě.",
+      "target_sk": "*Referenčná hodnota príjmu nie je stanovená. Prehľad preberá zverejnené množstvá produktu; kompletný zoznam surovín a produktové upozornenia over na etikete.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 1,
+      "kind": "text",
+      "source_cz": "Hormony mohou hrát velkou roli v kvalitě pleti a vlasů, ať už během puberty, těhotenství, nebo menopauzy. Beauty Star je ideálním doplňkem stravy pro ženy i muže, kteří se potýkají s hormonální nerovnováhou způsobující akné a ztrátu vlasů. Tyto želé vitamíny nejen zlepšují vzhled pleti, ale také posilují a zahušťují vlasy. Díky pravidelnému užívání se můžete těšit na lesklejší a pevnější vlasy a čistší pleť bez akné. Navíc komplex vitamínů a minerálů podporuje celkové zdraví pokožky a vlasů, přináší vyváženost a vitalitu.",
+      "target_sk": "Hormóny môžu zohrávať veľkú úlohu v kvalite pleti a vlasov, či už počas puberty, tehotenstva alebo menopauzy. Beauty Star je ideálnym výživovým doplnkom pre ženy aj mužov, ktorí sa potýkajú s hormonálnou nerovnováhou spôsobujúcou akné a stratu vlasov. Tieto želé vitamíny nielen zlepšujú vzhľad pleti, ale aj posilňujú a zahusťujú vlasy. Vďaka pravidelnému užívaniu sa môžete tešiť na lesklejšie a pevnejšie vlasy a čistejšiu pleť bez akné. Navyše komplex vitamínov a minerálov podporuje celkové zdravie pokožky a vlasov, prináša vyváženosť a vitalitu.",
+      "status": "needs_claim_review",
+      "concern": [
+        "Možné léčebné/preventivní nebo protizánětlivé tvrzení u doplňku stravy; nesmí být považováno za schválené.",
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek.",
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy.",
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení.",
+        "Zdroj zmiňuje těhotenství/pubertu v účinkovém kontextu; vhodnost a cílení nejsou ověřeny."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 2,
+      "kind": "attribute",
+      "source_cz": "Zdravější vlasy a pleť",
+      "target_sk": "Zdravšie vlasy a pleť",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 3,
+      "kind": "text",
+      "source_cz": "Zdravější vlasy a pleť",
+      "target_sk": "Zdravšie vlasy a pleť",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 4,
+      "kind": "attribute",
+      "source_cz": "Podpora hormonální rovnováhy",
+      "target_sk": "Podpora hormo­nálnej rovnováhy",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 5,
+      "kind": "text",
+      "source_cz": "Podpora hormonální rovnováhy",
+      "target_sk": "Podpora hormo­nálnej rovnováhy",
+      "status": "needs_claim_review",
+      "concern": [
+        "Hormonální působení a případná extrapolace účinku jódu/B6 vyžadují kontrolu přesné autorizované formulace a podmínek."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 6,
+      "kind": "attribute",
+      "source_cz": "Snižuje únavu",
+      "target_sk": "Znižuje únavu",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 7,
+      "kind": "text",
+      "source_cz": "Snižuje únavu",
+      "target_sk": "Znižuje únavu",
+      "status": "needs_claim_review",
+      "concern": [
+        "Ověřit přiřazení účinku konkrétní živině, autorizovanou formulaci a podmínky množství; zdrojový nadpis EFSA není právní schválení."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 8,
+      "kind": "attribute",
+      "source_cz": "Podporuje růst vlasů",
+      "target_sk": "Podporuje rast vlasov",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    },
+    {
+      "file": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "inventory_index": 9,
+      "kind": "text",
+      "source_cz": "Podporuje růst vlasů",
+      "target_sk": "Podporuje rast vlasov",
+      "status": "needs_claim_review",
+      "concern": [
+        "Tvrzení o růstu/hustotě vlasů, pokožce, nehtech nebo mechanismu nelze odvodit z obecného nutrientového tvrzení; ověřit autorizované znění, dávku i důkazy."
+      ]
+    }
+  ],
+  "exceptions": [],
+  "issues": [
+    {
+      "status": "needs_packaging_review",
+      "source_cz": "Jedno balení vystačí na 30 dní a jeho hmotnost je 65 g. / 30 g (krátký popis)",
+      "target_sk": "Jedno balenie vystačí na 30 dní a jeho hmotnosť je 65 g. / 30 g (krátky popis)",
+      "concern": "Rozpor 65 g versus 30 g je věrně zachován, nikoli opraven."
+    },
+    {
+      "status": "needs_packaging_review",
+      "source_cz": "gumové hvězdičky / žvýkací tablety / želé tobolky",
+      "target_sk": "gumové hviezdičky / žuvacie tablety / želé kapsuly",
+      "concern": "Nesoulad zděděného označení lékové/prodejní formy je zachován."
+    },
+    {
+      "status": "needs_label_review",
+      "concern": "Úplný seznam surovin a produktová upozornění nejsou ve zdroji; zdrojový odkaz na kontrolu etikety je přeložen. Krátký zdroj nemá samostatné povinné upozornění; nic nebylo doplněno ani zkráceno."
+    }
+  ],
+  "limitations": [
+    "Bez právního schválení a bez publikace.",
+    "Externí CSS, obrázky a fonty se nestahují; zachovány jsou přesné referenční URL a atributy, nikoli ověřené aktuální odpovědi serveru.",
+    "Žádná živá cena, sklad, rating ani vhodnost pro těhotné nejsou ověřeny.",
+    "Mobilní runtime byl prověřen přesným dodaným skriptem v minimálním DOM fixture Node VM; nejde o vizuální prohlížečový test ani test živého Shoptetu. CSS kontrola se týká skutečně přítomných importů a byte shody; externí styly se nestahují."
+  ],
+  "counts": {
+    "files": 2,
+    "inventory_entries": 201,
+    "claim_review_entries": 55
+  }
+}

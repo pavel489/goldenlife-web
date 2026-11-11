@@ -1,0 +1,42 @@
+{
+  "url": "https://www.golden-life.cz/beauty-star/",
+  "status": 200,
+  "title": "Beauty Star - Golden-life.cz",
+  "hreflang": [
+    {
+      "rel": [
+        "alternate"
+      ],
+      "hreflang": "cs",
+      "href": "https://www.golden-life.cz/beauty-star/"
+    },
+    {
+      "rel": [
+        "alternate"
+      ],
+      "hreflang": "de",
+      "href": "https://www.golden-life.cz/de/beauty-star/"
+    },
+    {
+      "rel": [
+        "alternate"
+      ],
+      "hreflang": "en",
+      "href": "https://www.golden-life.cz/en/beauty-star/"
+    },
+    {
+      "rel": [
+        "alternate"
+      ],
+      "hreflang": "sk",
+      "href": "https://www.golden-life.cz/sk/beauty-star/"
+    },
+    {
+      "rel": [
+        "alternate"
+      ],
+      "hreflang": "x-default",
+      "href": "https://www.golden-life.cz/beauty-star/"
+    }
+  ]
+}

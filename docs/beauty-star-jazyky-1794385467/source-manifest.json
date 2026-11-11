@@ -1,0 +1,41 @@
+{
+  "commit": "90a7dc7acfe0ad17c6e5f2fbc31bc32d2149e5f7",
+  "source_tree": "644947ee3b163fc62ea936523e58e34ddbe810bc",
+  "files": [
+    {
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "blob_sha": "36698a2810ca2cd4a0b44b852e2095cff5771a25",
+      "sha256": "1b122077bebf35604c89b4231d8344c25230c9c3b76a1a67e36d40a2eb403a60",
+      "bytes": 25570
+    },
+    {
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "blob_sha": "d9eece9b6270345e80ae786795e4969b6f9dc7da",
+      "sha256": "a5644e222e63f777b6a2de6e8ac0abc8253f882293db33b6667ec9fd6faa20ee",
+      "bytes": 3396
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "blob_sha": "a52832d0e9da2ddce65dd0154ee26ca13e3eef03",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+      "bytes": 265237
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-star.css",
+      "blob_sha": "40e8a764d7631e5c379815eb43eac79aee134b69",
+      "sha256": "954b58422808cc1c6a527da735a838866388e87a9aa3d8c5b83a5f4e795f679d",
+      "bytes": 12748
+    },
+    {
+      "path": "user/documents/upload/js/golden-life-product-scheme.js",
+      "blob_sha": "6eac9ffea86c06e52b1a85608951e6f9c59f1168",
+      "sha256": "6e6905ff3144c01e8e30312d723f24d6a9368936b2f602232a393190f58e7d07",
+      "bytes": 12053
+    }
+  ],
+  "languages": [
+    "sk",
+    "en",
+    "de"
+  ]
+}

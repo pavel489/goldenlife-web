@@ -1,0 +1,251 @@
+{
+  "files": [
+    {
+      "lang": "sk",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "sha256": "6460784a7ac976668b87aa3e7f017ceb131a28c7af812ae0802124c601650cb1",
+      "text_nodes": 148,
+      "table_cells": 28,
+      "scripts": [
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        },
+        {
+          "logic_equal": true,
+          "changed_literals": [
+            {
+              "source": "Zobrazit více",
+              "target": "Zobraziť viac"
+            },
+            {
+              "source": "Zobrazit více: ",
+              "target": "Zobraziť viac: "
+            },
+            {
+              "source": "Zobrazit méně",
+              "target": "Zobraziť menej"
+            },
+            {
+              "source": "Zobrazit více",
+              "target": "Zobraziť viac"
+            },
+            {
+              "source": "Zobrazit méně: ",
+              "target": "Zobraziť menej: "
+            },
+            {
+              "source": "Zobrazit více: ",
+              "target": "Zobraziť viac: "
+            },
+            {
+              "source": {
+                "regex": "Jak funguje|Fakta, ne fráze",
+                "flags": ""
+              },
+              "target": {
+                "regex": "Ako funguje|Fakty, nie frázy",
+                "flags": ""
+              }
+            },
+            {
+              "source": "Biotin, zinek a další vitamíny a minerály. Dvě gumové hvězdičky denně.",
+              "target": "Biotín, zinok a ďalšie vitamíny a minerály. Dve gumové hviezdičky denne."
+            },
+            {
+              "source": "60 hvězdiček · 30 denních dávek · 2 hvězdičky denně",
+              "target": "60 hviezdičiek · 30 denných dávok · 2 hviezdičky denne"
+            }
+          ]
+        },
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        }
+      ],
+      "pass": true
+    },
+    {
+      "lang": "sk",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "sha256": "8c6a5719ab64101aaa1daa8c25d1ade6d0126f41cccb685a2cdf4ce6a6c6c1eb",
+      "text_nodes": 10,
+      "table_cells": 0,
+      "scripts": [
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        }
+      ],
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-en.html",
+      "sha256": "fea488b0a2939bd1b9b698f5d0f605c909704f7afd0b41a2c630b73690a21f7c",
+      "text_nodes": 148,
+      "table_cells": 28,
+      "scripts": [
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        },
+        {
+          "logic_equal": true,
+          "changed_literals": [
+            {
+              "source": "Zobrazit více",
+              "target": "Show more"
+            },
+            {
+              "source": "Zobrazit více: ",
+              "target": "Show more: "
+            },
+            {
+              "source": "Zobrazit méně",
+              "target": "Show less"
+            },
+            {
+              "source": "Zobrazit více",
+              "target": "Show more"
+            },
+            {
+              "source": "Zobrazit méně: ",
+              "target": "Show less: "
+            },
+            {
+              "source": "Zobrazit více: ",
+              "target": "Show more: "
+            },
+            {
+              "source": {
+                "regex": "Jak funguje|Fakta, ne fráze",
+                "flags": ""
+              },
+              "target": {
+                "regex": "How it works|Facts, not empty words",
+                "flags": ""
+              }
+            },
+            {
+              "source": "Biotin, zinek a další vitamíny a minerály. Dvě gumové hvězdičky denně.",
+              "target": "Biotin, zinc and other vitamins and minerals. Two star-shaped gummies a day."
+            },
+            {
+              "source": "60 hvězdiček · 30 denních dávek · 2 hvězdičky denně",
+              "target": "60 stars · 30 daily servings · 2 stars a day"
+            }
+          ]
+        },
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        }
+      ],
+      "pass": true
+    },
+    {
+      "lang": "en",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-en.html",
+      "sha256": "c6e19139a3cd37b731e88efb736cf5f7e119e79f002b6b1ebbafdbc2dd9bc6de",
+      "explicit_exception": "Added mandatory supplement disclaimer absent from Czech short source",
+      "text_nodes": 10,
+      "table_cells": 0,
+      "scripts": [
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        }
+      ],
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-de.html",
+      "sha256": "aa326dfeed7da9b36412d38223905b25fcc5bb5a8bf8607b24e085597e726346",
+      "text_nodes": 148,
+      "table_cells": 28,
+      "scripts": [
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        },
+        {
+          "logic_equal": true,
+          "changed_literals": [
+            {
+              "source": "Zobrazit více",
+              "target": "Mehr anzeigen"
+            },
+            {
+              "source": "Zobrazit více: ",
+              "target": "Mehr anzeigen: "
+            },
+            {
+              "source": "Zobrazit méně",
+              "target": "Weniger anzeigen"
+            },
+            {
+              "source": "Zobrazit více",
+              "target": "Mehr anzeigen"
+            },
+            {
+              "source": "Zobrazit méně: ",
+              "target": "Weniger anzeigen: "
+            },
+            {
+              "source": "Zobrazit více: ",
+              "target": "Mehr anzeigen: "
+            },
+            {
+              "source": {
+                "regex": "Jak funguje|Fakta, ne fráze",
+                "flags": ""
+              },
+              "target": {
+                "regex": "So wirkt es|Fakten statt Floskeln",
+                "flags": ""
+              }
+            },
+            {
+              "source": "Biotin, zinek a další vitamíny a minerály. Dvě gumové hvězdičky denně.",
+              "target": "Biotin, Zink sowie weitere Vitamine und Mineralstoffe. Zwei Gummisterne täglich."
+            },
+            {
+              "source": "60 hvězdiček · 30 denních dávek · 2 hvězdičky denně",
+              "target": "60 Sterne · 30 Tagesdosen · 2 Sterne täglich"
+            }
+          ]
+        },
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        }
+      ],
+      "pass": true
+    },
+    {
+      "lang": "de",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-de.html",
+      "sha256": "10fd2eb7ef4c679b1462581e616ba91c8d8bea277f0bb8b73e9e948abceaf0a0",
+      "text_nodes": 10,
+      "table_cells": 0,
+      "scripts": [
+        {
+          "logic_equal": true,
+          "changed_literals": []
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "pass_count": 6,
+  "expected": 6,
+  "scope": "Paired full-node counts, protected attributes/CSS, all visible numeric tokens, table cell counts/numbers, script AST logic and exact loader/gallery bytes; target scripts parsed by Node"
+}
