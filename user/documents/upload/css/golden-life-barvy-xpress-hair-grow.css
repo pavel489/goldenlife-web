@@ -1,0 +1,242 @@
+/* Barevný model: xpress-hair-grow. Použij po golden-life-produkt.css. */
+:where([data-gl-theme="xpress-hair-grow"]) {
+  --gl-color-bg-grey: #f0f0f0;
+  --gl-color-bg-light: #eef8f2;
+  --gl-color-bg-light-rgb: 238,248,242;
+  --gl-color-primary: #146c45;
+  --gl-color-primary-hover: #0e5032;
+  --gl-color-primary-rgb: 20,108,69;
+  --gl-color-success: #27ae60;
+  --gl-color-table-bg: #eef8f2;
+  --gl-color-table-border: var(--gl-color-primary-hover);
+  --gl-color-table-row-alt: #eef8f2;
+  --gl-color-text-muted: #555;
+  --gl-color-text-subtle: #999;
+  --gl-icon-filter: none;
+  --gl-tone-btn-s-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
+  --gl-tone-btn-s-color-1: #fff;
+  --gl-tone-cta-box-background-1: #eef8f2;
+  --gl-tone-cta-box-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+  --gl-tone-cta-button-color-1: white;
+  --gl-tone-cta-button-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-cta-button-hover-color-1: white;
+  --gl-tone-cta-product-img-filter-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-data-gl-mobile-active-cta-product-img-background-1: #f5f5f5;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-background-1: rgba(245,245,245,.96);
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-color-1: #30223f;
+  --gl-tone-data-gl-mobile-active-cta-text-h3-background-1: #f5f5f5;
+  --gl-tone-data-gl-mobile-active-gl-mobile-intro-not-is-expanded-after-background-1: #fff;
+  --gl-tone-data-gl-mobile-active-gl-mobile-toggle-background-1: #fff;
+  --gl-tone-data-gl-mobile-active-story-block-text-background-1: rgba(28,15,40,.91);
+  --gl-tone-data-gl-mobile-active-story-block-text-background-2: rgba(28,15,40,.72);
+  --gl-tone-data-gl-mobile-active-story-block-text-gl-mobile-story-summary-color-1: #fff;
+  --gl-tone-data-gl-mobile-active-story-block-text-h3-color-1: #fff;
+  --gl-tone-hero-img-background-1: #eef8f2;
+  --gl-tone-hero-row-heroimg-filter-1: rgba(var(--gl-color-primary-rgb),0.18);
+  --gl-tone-latky-grid-4-latky-swipe-scrollbar-color-1: rgba(var(--gl-color-primary-rgb),0.12);
+  --gl-tone-latky-grid-4-latky-swipe-webkit-scrollbar-track-background-1: rgba(var(--gl-color-primary-rgb),0.12);
+  --gl-tone-latky-modal-backdrop-background-1: rgba(0,0,0,0.6);
+  --gl-tone-latky-modal-box-background-1: #fff;
+  --gl-tone-latky-modal-box-box-shadow-1: rgba(0,0,0,0.35);
+  --gl-tone-latky-modal-close-background-1: rgba(255,255,255,0.92);
+  --gl-tone-latky-modal-close-box-shadow-1: rgba(0,0,0,0.25);
+  --gl-tone-latky-plus-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-latky-plus-color-1: #fff;
+  --gl-tone-maly-hr-background-1: var(--gl-color-primary);
+  --gl-tone-maly-ikony-div-color-1: var(--gl-color-primary);
+  --gl-tone-maly-produkt-background-1: var(--gl-color-bg-light);
+  --gl-tone-maly-produkt-info-color-1: #333;
+  --gl-tone-maly-produkt-nazev-color-1: var(--gl-color-primary);
+  --gl-tone-nad-banner-background-color-1: var(--gl-color-bg-light);
+  --gl-tone-nad-banner-background-image-1: var(--gl-color-bg-light);
+  --gl-tone-nad-banner-background-image-2: #eef8f2;
+  --gl-tone-nad-banner-background-image-3: #eef8f2;
+  --gl-tone-nad-banner-border-1: rgba(var(--gl-color-primary-rgb),.15);
+  --gl-tone-nad-banner-box-shadow-1: rgba(var(--gl-color-primary-rgb),.07);
+  --gl-tone-nad-banner-color-1: #30223f;
+  --gl-tone-nad-btn-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
+  --gl-tone-nad-btn-color-1: #fff;
+  --gl-tone-nad-dose-label-color-1: #30223f;
+  --gl-tone-nad-dose-sub-color-1: #79658d;
+  --gl-tone-nad-feature-color-1: #453153;
+  --gl-tone-nad-feature-nad-feature-border-left-1: rgba(var(--gl-color-primary-rgb),.28);
+  --gl-tone-nad-ico-background-1: rgba(255,255,255,.55);
+  --gl-tone-nad-info-border-1: rgba(var(--gl-color-primary-rgb),.18);
+  --gl-tone-nad-info-p-color-1: #333;
+  --gl-tone-nad-tagline-color-1: #453153;
+  --gl-tone-p-icon-card-background-1: rgba(255,255,255,0.92);
+  --gl-tone-p-icon-card-border-1: rgba(var(--gl-color-primary-rgb),0.06);
+  --gl-tone-p-icon-card-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.04);
+  --gl-tone-p-icon-card-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+  --gl-tone-reg-banner-background-1: var(--gl-color-bg-light);
+  --gl-tone-reg-banner-background-2: #eef8f2;
+  --gl-tone-reg-banner-background-3: #eef8f2;
+  --gl-tone-reg-banner-border-1: rgba(var(--gl-color-primary-rgb),.15);
+  --gl-tone-reg-banner-box-shadow-1: rgba(var(--gl-color-primary-rgb),.07);
+  --gl-tone-reg-banner-color-1: #30223f;
+  --gl-tone-reg-footnote-color-1: #79658d;
+  --gl-tone-reg-note-p-color-1: #453153;
+  --gl-tone-reg-title-color-1: #30223f;
+  --gl-tone-reg-xticks-color-1: #705181;
+  --gl-tone-reg-yaxis-color-1: #705181;
+  --gl-tone-ruzovatabulka-tabulka-tr-first-child-th-color-1: white;
+  --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
+  --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
+}
+
+/* GOLDIE HOST DARK START — match the surrounding page, not browser preference. */
+:where([data-gl-theme="xpress-hair-grow"]){color-scheme:light;background-color:#fff;color:#000;}
+
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]){
+  color-scheme:dark;
+  color:#f4eff4;
+  background-color:#19171d;
+  --gl-dark-source-primary:#146c45;
+  --gl-dark-bg:#19171d;
+  --gl-dark-surface:#25212b;
+  --gl-dark-raised:#302a36;
+  --gl-dark-text:#f4eff4;
+  --gl-dark-muted:#d3c6d1;
+  --gl-dark-border:#9d8e9e;
+  --gl-dark-on-accent:#1b151d;
+  --gl-color-bg-grey:#302a36;
+  --gl-color-bg-light:#25212b;
+  --gl-color-bg-light-rgb:37,33,43;
+  --gl-color-primary:#a8dfc1;
+  --gl-color-primary-hover:#a8dfc1;
+  --gl-color-primary-rgb:168,223,193;
+  --gl-color-success:#93e1b6;
+  --gl-color-table-bg:#25212b;
+  --gl-color-table-border:#9d8e9e;
+  --gl-color-table-row-alt:#302a36;
+  --gl-color-text-muted:#d3c6d1;
+  --gl-color-text-subtle:#d3c6d1;
+  --gl-icon-filter:brightness(0) invert(1);
+  --gl-tone-btn-s-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-btn-s-color-1:#1b151d;
+  --gl-tone-cta-box-background-1:#25212b;
+  --gl-tone-cta-box-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-cta-button-color-1:#1b151d;
+  --gl-tone-cta-button-hover-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-cta-button-hover-color-1:#1b151d;
+  --gl-tone-data-gl-mobile-active-cta-product-img-background-1:#f5f1f4;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-color-1:#f4eff4;
+  --gl-tone-data-gl-mobile-active-cta-text-h3-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-gl-mobile-intro-not-is-expanded-after-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-gl-mobile-toggle-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-story-block-text-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-story-block-text-background-2:#302a36;
+  --gl-tone-data-gl-mobile-active-story-block-text-gl-mobile-story-summary-color-1:#f4eff4;
+  --gl-tone-data-gl-mobile-active-story-block-text-h3-color-1:#f4eff4;
+  --gl-tone-hero-img-background-1:#25212b;
+  --gl-tone-latky-grid-4-latky-swipe-scrollbar-color-1:var(--gl-color-primary);
+  --gl-tone-latky-grid-4-latky-swipe-webkit-scrollbar-track-background-1:#25212b;
+  --gl-tone-latky-modal-backdrop-background-1:rgba(0,0,0,.78);
+  --gl-tone-latky-modal-box-background-1:#25212b;
+  --gl-tone-latky-modal-box-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-modal-close-background-1:#25212b;
+  --gl-tone-latky-modal-close-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-plus-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-plus-color-1:#1b151d;
+  --gl-tone-maly-hr-background-1:#25212b;
+  --gl-tone-maly-ikony-div-color-1:var(--gl-color-primary);
+  --gl-tone-maly-produkt-background-1:#25212b;
+  --gl-tone-maly-produkt-info-color-1:#f4eff4;
+  --gl-tone-maly-produkt-nazev-color-1:var(--gl-color-primary);
+  --gl-tone-nad-banner-background-color-1:#25212b;
+  --gl-tone-nad-banner-background-image-1:#25212b;
+  --gl-tone-nad-banner-background-image-2:#302a36;
+  --gl-tone-nad-banner-background-image-3:#25212b;
+  --gl-tone-nad-banner-border-1:#9d8e9e;
+  --gl-tone-nad-banner-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-nad-banner-color-1:#f4eff4;
+  --gl-tone-nad-btn-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-nad-btn-color-1:#1b151d;
+  --gl-tone-nad-dose-label-color-1:#f4eff4;
+  --gl-tone-nad-dose-sub-color-1:#f4eff4;
+  --gl-tone-nad-feature-color-1:#f4eff4;
+  --gl-tone-nad-feature-nad-feature-border-left-1:#9d8e9e;
+  --gl-tone-nad-ico-background-1:#25212b;
+  --gl-tone-nad-info-border-1:#9d8e9e;
+  --gl-tone-nad-info-p-color-1:#f4eff4;
+  --gl-tone-nad-tagline-color-1:#f4eff4;
+  --gl-tone-p-icon-card-background-1:#25212b;
+  --gl-tone-p-icon-card-border-1:#9d8e9e;
+  --gl-tone-p-icon-card-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-p-icon-card-hover-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-reg-banner-background-1:#25212b;
+  --gl-tone-reg-banner-background-2:#302a36;
+  --gl-tone-reg-banner-background-3:#25212b;
+  --gl-tone-reg-banner-border-1:#9d8e9e;
+  --gl-tone-reg-banner-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-reg-banner-color-1:#f4eff4;
+  --gl-tone-reg-footnote-color-1:#f4eff4;
+  --gl-tone-reg-note-p-color-1:#f4eff4;
+  --gl-tone-reg-title-color-1:#f4eff4;
+  --gl-tone-reg-xticks-color-1:#f4eff4;
+  --gl-tone-reg-yaxis-color-1:#f4eff4;
+  --gl-tone-ruzovatabulka-tabulka-tr-first-child-th-color-1:#1b151d;
+  --gl-tone-ucinky-item-border-1:#9d8e9e;
+  --gl-tone-ucinky-item-hover-box-shadow-1:rgba(0,0,0,.25);
+}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.product-container,.nad-content,.latky-modal-box,.latky,.story-block-text,.cta-text,.gl-faq,.faq-section,.maly-popis){color:var(--gl-dark-text);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.latky-modal-close,.gl-mobile-toggle){border:1px solid var(--gl-dark-border);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(a,button,summary,[tabindex]):focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:3px;box-shadow:0 0 0 3px var(--gl-dark-bg),0 0 0 6px var(--gl-color-primary);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.cta-availability,.cta-status,.gl-cart-message){color:var(--gl-dark-muted);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.gl-error,.is-error,[role="alert"]){color:#ffc2c6;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.cta-product-img,.nad-mol){background-color:#f5f1f4;border-radius:12px;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.gl-draft-note,.doza-safety){color:var(--gl-dark-text);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) .nad-banner{background-image:linear-gradient(135deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) .hero-img{background:linear-gradient(145deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) .p-icon-card{background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) .cta-box{background:var(--gl-dark-surface)!important;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) .nad-title{color:var(--gl-color-primary)!important;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.nad-dose-sub,.nad-dose-label,.nad-feature,.nad-tagline,.nad-info p){color:var(--gl-dark-text)!important;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(th){background-color:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){background:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) .gl-history{background:#332a21!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"]) .gl-history :is(p,span,div,summary){color:var(--gl-dark-text)!important;}
+:is(#special-popis,#nad-popis)[data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"] .gl-mobile-toggle{background:var(--gl-dark-surface)!important;color:var(--gl-color-primary)!important;border-color:var(--gl-dark-border)!important;}
+
+/* GOLDIE HOST DARK END */
+
+/* Product-local migration additions; no global selectors or inherited legacy inline styles. */
+[data-gl-theme="xpress-hair-grow"]{font-family:Metropolis,Arial,Helvetica,sans-serif;line-height:1.6;--gl-color-text-subtle:#665a62;--gl-tone-nad-dose-sub-color-1:#665a62;}
+[data-gl-theme="xpress-hair-grow"] .gl-draft-note{border:1px solid var(--gl-color-primary);background:var(--gl-color-bg-light);border-radius:12px;padding:14px 18px;margin:12px 0;font-size:13px;line-height:1.5;}
+[data-gl-theme="xpress-hair-grow"] :is(.gl-source-note,.gl-source-conflict){border-left:3px solid var(--gl-color-primary);padding:10px 16px!important;font-size:14px!important;background:var(--gl-color-bg-light);color:inherit;}
+[data-gl-theme="xpress-hair-grow"] .gl-supplement-note{padding:14px 16px;font-size:14px;}
+[data-gl-theme="xpress-hair-grow"] :is(p,h1,h2,h3,h4,div,span){overflow-wrap:break-word;}
+#special-popis[data-gl-theme="xpress-hair-grow"] .nad-title{font-size:clamp(40px,5.6vw,80px);line-height:1.03;overflow-wrap:normal;}
+[data-gl-theme="xpress-hair-grow"] .nad-content{min-width:0;}
+[data-gl-theme="xpress-hair-grow"] .nad-info{padding-top:56px;}
+[data-gl-theme="xpress-hair-grow"] .hero-icons-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;}
+[data-gl-theme="xpress-hair-grow"] .hero-icons-grid .p-icon-card{min-width:0;height:auto;}
+[data-gl-theme="xpress-hair-grow"] .hero-row img{object-fit:contain;}
+[data-gl-theme="xpress-hair-grow"] .latky-grid-4{grid-template-columns:repeat(3,minmax(0,1fr));}
+[data-gl-theme="xpress-hair-grow"] .latky-grid-2{grid-template-columns:repeat(2,minmax(0,1fr));}
+[data-gl-theme="xpress-hair-grow"] .latky-grid-2 .odstavec2::after{display:none!important;}
+[data-gl-theme="xpress-hair-grow"] [data-gl-info-card] .obrazek-odstavec{object-fit:contain;padding:20px;background:var(--gl-color-bg-light);}
+[data-gl-theme="xpress-hair-grow"] .latky-modal-img{object-fit:contain;background:var(--gl-color-bg-light);}
+[data-gl-theme="xpress-hair-grow"] .latky-modal-box{padding-top:0;}
+[data-gl-theme="xpress-hair-grow"] .gl-table-scroll{max-width:100%;overflow-x:auto;border-radius:12px;}
+[data-gl-theme="xpress-hair-grow"] .gl-table-scroll table{display:table;min-width:580px;width:100%;}
+[data-gl-theme="xpress-hair-grow"] .gl-table-scroll :is(td,th){overflow-wrap:normal;}
+[data-gl-theme="xpress-hair-grow"] .maly-ikony{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;}
+[data-gl-theme="xpress-hair-grow"] .maly-ikony>div{min-width:0;font-size:12px;line-height:1.35;}
+[data-gl-theme="xpress-hair-grow"] .maly-ikony .p-card-img{width:44px;height:44px;max-width:100%;object-fit:contain;}
+[data-gl-theme="xpress-hair-grow"] .maly-produkt-info{display:grid;grid-template-columns:minmax(0,1fr);}
+[data-gl-theme="xpress-hair-grow"] .maly-produkt-info span{white-space:normal;}
+[data-gl-theme="xpress-hair-grow"] .maly-popis{color:inherit;}
+[data-gl-theme="xpress-hair-grow"][data-gl-layout="woman-hormonal-balance-short"]{container-type:inline-size;}
+@container (max-width:480px){[data-gl-theme="xpress-hair-grow"] .maly-ikony{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px 8px;}[data-gl-theme="xpress-hair-grow"] .maly-ikony>div{font-size:12px;}}
+[data-gl-theme="xpress-hair-grow"] :is(a,button,[tabindex]):focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:3px;box-shadow:0 0 0 3px white,0 0 0 6px var(--gl-color-primary);}
+[data-gl-theme="xpress-hair-grow"] .cta-button{display:inline-block;text-decoration:none;}
+[data-gl-theme="xpress-hair-grow"] .latky-modal-close{font-size:26px!important;}
+[data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"] :is(.gl-draft-note,.gl-source-note,.gl-source-conflict,.gl-supplement-note,.maly-popis){color:var(--gl-dark-text);}
+[data-gl-theme="xpress-hair-grow"][data-gl-site-scheme="dark"] .nad-info-close{color:var(--gl-color-primary);}
+@media(min-width:769px) and (max-width:1100px){[data-gl-theme="xpress-hair-grow"] .nad-banner{column-gap:18px;padding:30px 24px;}[data-gl-theme="xpress-hair-grow"] .nad-dose-num{font-size:40px;}}
+@media(max-width:768px){[data-gl-theme="xpress-hair-grow"] .hero-icons-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;}[data-gl-theme="xpress-hair-grow"] .p-icon-card{padding:12px 6px;}[data-gl-theme="xpress-hair-grow"] .latky-grid-2{grid-template-columns:minmax(0,1fr);}#special-popis[data-gl-theme="xpress-hair-grow"] .nad-title{font-size:clamp(36px,10vw,64px);}[data-gl-theme="xpress-hair-grow"] .nad-eyebrow{letter-spacing:1px;padding:7px 12px;max-width:100%;}[data-gl-theme="xpress-hair-grow"] .nad-dose-num{white-space:normal;}[data-gl-theme="xpress-hair-grow"] .nad-info{padding-left:18px;padding-right:18px;}}
+@media(max-width:480px){[data-gl-theme="xpress-hair-grow"] .maly-ikony{grid-template-columns:repeat(3,minmax(0,1fr));gap:12px 8px;}[data-gl-theme="xpress-hair-grow"] .custom-grid{grid-template-columns:repeat(3,minmax(0,1fr));}[data-gl-theme="xpress-hair-grow"] .maly-ikony>div{font-size:12px;}}
+@media(prefers-reduced-motion:reduce){[data-gl-theme="xpress-hair-grow"] *{transition:none!important;scroll-behavior:auto!important;}}

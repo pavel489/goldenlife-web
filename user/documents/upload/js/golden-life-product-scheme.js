@@ -20,7 +20,20 @@
     'anti-age-longevity', 'beauty-longevity-sacek', 'slim-extreme-collagen',
     'slim-sos-fat-burner', 'slim-glp-1-activator',
     'slim-extreme-collagen-sacek-ananas', 'slim-extreme-collagen-box-ananas-mango',
-    'slim-extreme-collagen-sacek-ananas-mango'
+    'slim-extreme-collagen-sacek-ananas-mango',
+    'slim-glp1-shake-cappuccino',
+    'slim-glp1-shake-kokos-bila-cokolada',
+    'slim-glp1-shake-vanilka-jahoda',
+    'slim-detox-power-plus',
+    'beauty-body-soul',
+    'bikini-body',
+    'good-sleep-night-burn',
+    'miracle-drops',
+    'xpress-hair-grow',
+    'vitamin-c',
+    'detoxikacni-caj-30-dni',
+    'detoxikacni-caj-7-dni',
+    'ph-uro-balance-caj'
   ]);
   var supported = new Set(THEMES);
   var ATTRIBUTE = 'data-gl-site-scheme';

@@ -1,0 +1,214 @@
+{
+  "base_commit": "26f6e156bd8d36b76c8abddde97912257ccb1276",
+  "status": "INTERNAL_DESIGN_DRAFT_NOT_CMS_DEPLOYED",
+  "counts": {
+    "products": 13,
+    "html": 26,
+    "css": 13,
+    "shared_js": 1,
+    "browser_scenarios": 156,
+    "tables": 10,
+    "table_cells": 396,
+    "cards": 96,
+    "all_ingredient_dialogs": 91
+  },
+  "shared_script": "user/documents/upload/js/golden-life-product-scheme.js",
+  "shared_script_sha256": "9acf927a851a7f2397e8efd1e2c6448809e8b2099634d48de134a7ef16fa2b7f",
+  "products": [
+    {
+      "id": "547",
+      "product": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "source_url": "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/",
+      "theme": "slim-glp1-shake-cappuccino",
+      "html": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html",
+      "short": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-cappuccino.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html": "49e4152a8eb35c75f2d9b283b5511a34fb017102a193d06ded2a5121f60516ca",
+        "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html": "68687c31ff8a45f742777f99976ec40ce3a60c5427dfa6f3f98effc1e7fb6822",
+        "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-cappuccino.css": "d54bea795343a583a4658329d568a03cbe1c86ed73f3bb306c821bc9022962c6"
+      }
+    },
+    {
+      "id": "470",
+      "product": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "source_url": "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-kokos-bila-cokolada/",
+      "theme": "slim-glp1-shake-kokos-bila-cokolada",
+      "html": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-cz.html",
+      "short": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-kokos-bila-cokolada.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-cz.html": "91a65c1f9e23f0c556e9efd5a58a2756da3acd85b681e4e67fe1548206540bb5",
+        "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-cz.html": "28679ab56af73edc9d91790c31a21afa8c49e0e7fbd385185fe65a3854140e1b",
+        "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-kokos-bila-cokolada.css": "34ef463e456387b19bcbec70b76ed6ddfb5c084112a6c6bc39d7e76de55b032c"
+      }
+    },
+    {
+      "id": "458",
+      "product": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "source_url": "https://www.golden-life.cz/svacinka-slim-glp-1-shake-s-prichuti-vanilka-jahoda/",
+      "theme": "slim-glp1-shake-vanilka-jahoda",
+      "html": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-cz.html",
+      "short": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-vanilka-jahoda.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/458_1350x1350-vanilka-jahoda.jpg?ff=1&x=1024&y=1024&q=85&ts=69e8f821&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-cz.html": "009063d4dbfe1b2fd5001fe68e0583c33c5fc52bfaa7846b1bfacde14ef52b74",
+        "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-cz.html": "1bf312f71ed5dc03d234a4d1f0336fabc35436c3f26d906cadbd59bcceabe725",
+        "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-vanilka-jahoda.css": "df555782091cb27d68d3cb79555748a2b07d4f1628a6bcd2f903e1e2214b8446"
+      }
+    },
+    {
+      "id": "174",
+      "product": "Slim & Detox Super energy booster Power+",
+      "source_url": "https://www.golden-life.cz/slim-detox-power-plus-booster/",
+      "theme": "slim-detox-power-plus",
+      "html": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+      "short": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/174-2_detox-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a18183b&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html": "7c61826362a21c68254779cf4406ff309fc8e77560f448abf1dc32d4ff58ad86",
+        "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html": "fbb7d0487a7572d5a39978200748f1163b90ec2f5470ef08b052d3658faae50f",
+        "user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css": "899e3f29ef5816ef81d5915c93a4782d008b0d9f572cf7727d81de4df9e29ad3"
+      }
+    },
+    {
+      "id": "51",
+      "product": "Beauty Body & Soul®",
+      "source_url": "https://www.golden-life.cz/beauty-body-a-soul-drink/",
+      "theme": "beauty-body-soul",
+      "html": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "short": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/51_57-1-good-sleep-and-burn-night-glass-javr.png?ff=1&x=1024&y=1024&q=85&ts=67d9251a&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html": "11ceb8d9008cf36a5a53c329f2e1b132966bcaa4b01b67bbb5f51033ac7354e6",
+        "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html": "4312821b3019a28ed03f322dc232808f5a1302ba75cb6221519b3263d21157c8",
+        "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css": "4ff7e799274046dc096ab10db4fd691ffdf16d800ef11dc8942fc8ae81bf439e"
+      }
+    },
+    {
+      "id": "452",
+      "product": "Bikini Body",
+      "source_url": "https://www.golden-life.cz/bikini-body/",
+      "theme": "bikini-body",
+      "html": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+      "short": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-bikini-body.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/452-2_bikiny-body-produkt-pozadi-bila.png?ff=1&x=1024&y=1024&q=85&ts=6a8bf5c9&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html": "aa584890b3cbcc5a4f8ec321342f4df770fa6a163c8b9ad11cb76157a35ddbac",
+        "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html": "bac0a4b86d5f40130c0fc188a805ef757324969bfb3b1bd1c7b03254432ac027",
+        "user/documents/upload/css/golden-life-barvy-bikini-body.css": "a902ae39d51b3f737576aa88ba1aa870aea856b6392aba18eac592a46df7a1aa"
+      }
+    },
+    {
+      "id": "57",
+      "product": "Good Sleep & Night Burn",
+      "source_url": "https://www.golden-life.cz/good-sleep-night-burn/",
+      "theme": "good-sleep-night-burn",
+      "html": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "short": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/57-1_good-sleep-and-night-burn-doza-tabletky.png?ff=1&x=1024&y=1024&q=85&ts=6ad0eda2&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html": "2774b608107c8535ac2e0deecf7209e030cde1c9b2ddbdfc62ecfd7fbc646fa8",
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html": "3d1120c3bec48e2b56daaf769ebb34e916b382b12ad494848ee0363975adba89",
+        "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css": "b2f278af2267bce44bceb2837425f134164a29f14dc424c3747dcfac6bfe0e46"
+      }
+    },
+    {
+      "id": "99",
+      "product": "Miracle Drops",
+      "source_url": "https://www.golden-life.cz/miracle-drops-2/",
+      "theme": "miracle-drops",
+      "html": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "short": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-miracle-drops.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/99-1_miracle-drops-na-web.jpg?ff=1&x=1024&y=1024&q=85&ts=67e58b0b&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html": "2b34e110d245ee0484a6b50ca23eb150ee50b81d6bcd98dfc388c067182457be",
+        "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html": "440cc42d46d5d7db529d234f139d2eaf218f7e66aa8a2e751a3b13039cade58f",
+        "user/documents/upload/css/golden-life-barvy-miracle-drops.css": "3f90e4c5129fa980d449ca3d9667bfd9f1f17f0164752ffe158911baca1a83a3"
+      }
+    },
+    {
+      "id": "357",
+      "product": "Xpress Hair Grow s biotinem",
+      "source_url": "https://www.golden-life.cz/xpress-hair-grow-s-biotinem/",
+      "theme": "xpress-hair-grow",
+      "html": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+      "short": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-xpress-hair-grow.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/357_xpress-hair-grow-s-biotinem-bez-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a180154&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html": "2fde0d29d6aa28fcdf62a5d652ee34084ec9ac23832798a4574e99f6c15b634e",
+        "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html": "e562fd7a3bcd956a2a7d366bda5eecd1e7d59e7170a8ba601d3a24b476387b72",
+        "user/documents/upload/css/golden-life-barvy-xpress-hair-grow.css": "b1b72b05de4f08fa8d55fb52f849adca31c6aa6fcf469e50dbd6f47d75a300db"
+      }
+    },
+    {
+      "id": "84",
+      "product": "Vitamín C",
+      "source_url": "https://www.golden-life.cz/vitamin-c/",
+      "theme": "vitamin-c",
+      "html": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+      "short": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-vitamin-c.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/84-1_vitamin-c.png?ff=1&x=1024&y=1024&q=85&ts=67f78434&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html": "efb43724e03e1620cf6a0bb8f605b246efc4ce0167ea1cb198983a82d76a9d3b",
+        "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html": "b76d0460209485f8764e05396edcc269f9eef11f102feafe1dfb6899d37979b9",
+        "user/documents/upload/css/golden-life-barvy-vitamin-c.css": "f1b62aae679ffe9543d77bbf3e21ddfabc5e3d06158b88243e6d3622caa9a93d"
+      }
+    },
+    {
+      "id": "261",
+      "product": "Detoxikační čaj – 7 dní",
+      "source_url": "https://www.golden-life.cz/detoxikacni-caj-7-dni/",
+      "theme": "detoxikacni-caj-7-dni",
+      "html": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+      "short": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-7-dni.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html": "1215e17b34d84d7dbbf2954ce0e64b1ef7e3ce75cc887094451e4d7771f35afd",
+        "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html": "f4622f02409f2b2439606aaa87a18a18dcfac8302c28bf87bc3ed0ebd2893a51",
+        "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-7-dni.css": "7686bbc1322be3c77e35e723ba4a711331d814a3844529a8a0c640f129e7e5c7"
+      }
+    },
+    {
+      "id": "258",
+      "product": "Detoxikační čaj – 30 dní",
+      "source_url": "https://www.golden-life.cz/detoxikacni-caj-30-dni/",
+      "theme": "detoxikacni-caj-30-dni",
+      "html": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-cz.html",
+      "short": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-30-dni.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-cz.html": "7a93580553136677a4bb5c5df818cfb1bd3db90caf1a2c815b679b095e9cc8b9",
+        "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-cz.html": "7c5c3d8a1ac8823a94c578cacbd56c13f95d211886bab432a74b609248030185",
+        "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-30-dni.css": "054885af07257d08d97c2d93ad67fcd0b2868016d1918ee605310fa87f3df81a"
+      }
+    },
+    {
+      "id": "360",
+      "product": "pH+ Uro Balance čaj – 30 dní",
+      "source_url": "https://www.golden-life.cz/ph-uro-balance-caj-30-dni/",
+      "theme": "ph-uro-balance-caj",
+      "html": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-cz.html",
+      "short": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-ph-uro-balance-caj.css",
+      "source_main_photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe",
+      "final_hashes": {
+        "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-cz.html": "491fbbc77d3c84550e641033e6d68cddec4463f64e3ad41fca8995136091d63e",
+        "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-cz.html": "fd4af202f795cc92c9e9309a0b23525d0328eee301ffc31366fbd3a1b5a6f37f",
+        "user/documents/upload/css/golden-life-barvy-ph-uro-balance-caj.css": "22234131309895dd575b6070b2ab5e10f45b948181878cff60ba3e42e0f7e602"
+      }
+    }
+  ]
+}

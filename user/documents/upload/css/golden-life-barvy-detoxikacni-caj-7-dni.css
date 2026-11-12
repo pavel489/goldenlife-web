@@ -1,0 +1,236 @@
+/* Barevný model: detoxikacni-caj-7-dni. Použij po golden-life-produkt.css. */
+:where([data-gl-theme="detoxikacni-caj-7-dni"]) {
+  --gl-color-bg-grey: #f0f0f0;
+  --gl-color-bg-light: #eff8f0;
+  --gl-color-bg-light-rgb: 239,248,240;
+  --gl-color-primary: #08733b;
+  --gl-color-primary-hover: #075c30;
+  --gl-color-primary-rgb: 8,115,59;
+  --gl-color-success: #27ae60;
+  --gl-color-table-bg: #dceee1;
+  --gl-color-table-border: var(--gl-color-primary-hover);
+  --gl-color-table-row-alt: #f5faf6;
+  --gl-color-text-muted: #555;
+  --gl-color-text-subtle: #999;
+  --gl-icon-filter: none;
+  --gl-tone-btn-s-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
+  --gl-tone-btn-s-color-1: #fff;
+  --gl-tone-cta-box-background-1: #f8fcf8;
+  --gl-tone-cta-box-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+  --gl-tone-cta-button-color-1: white;
+  --gl-tone-cta-button-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-cta-button-hover-color-1: white;
+  --gl-tone-cta-product-img-filter-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-data-gl-mobile-active-cta-product-img-background-1: #f5f5f5;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-background-1: rgba(245,245,245,.96);
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-color-1: #203e2a;
+  --gl-tone-data-gl-mobile-active-cta-text-h3-background-1: #f5f5f5;
+  --gl-tone-data-gl-mobile-active-gl-mobile-intro-not-is-expanded-after-background-1: #fff;
+  --gl-tone-data-gl-mobile-active-gl-mobile-toggle-background-1: #fff;
+  --gl-tone-data-gl-mobile-active-story-block-text-background-1: rgba(28,15,40,.91);
+  --gl-tone-data-gl-mobile-active-story-block-text-background-2: rgba(28,15,40,.72);
+  --gl-tone-data-gl-mobile-active-story-block-text-gl-mobile-story-summary-color-1: #fff;
+  --gl-tone-data-gl-mobile-active-story-block-text-h3-color-1: #fff;
+  --gl-tone-hero-img-background-1: #f8fcf8;
+  --gl-tone-hero-row-heroimg-filter-1: rgba(var(--gl-color-primary-rgb),0.18);
+  --gl-tone-latky-grid-4-latky-swipe-scrollbar-color-1: rgba(var(--gl-color-primary-rgb),0.12);
+  --gl-tone-latky-grid-4-latky-swipe-webkit-scrollbar-track-background-1: rgba(var(--gl-color-primary-rgb),0.12);
+  --gl-tone-latky-modal-backdrop-background-1: rgba(0,0,0,0.6);
+  --gl-tone-latky-modal-box-background-1: #fff;
+  --gl-tone-latky-modal-box-box-shadow-1: rgba(0,0,0,0.35);
+  --gl-tone-latky-modal-close-background-1: rgba(255,255,255,0.92);
+  --gl-tone-latky-modal-close-box-shadow-1: rgba(0,0,0,0.25);
+  --gl-tone-latky-plus-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.3);
+  --gl-tone-latky-plus-color-1: #fff;
+  --gl-tone-maly-hr-background-1: var(--gl-color-primary);
+  --gl-tone-maly-ikony-div-color-1: var(--gl-color-primary);
+  --gl-tone-maly-produkt-background-1: var(--gl-color-bg-light);
+  --gl-tone-maly-produkt-info-color-1: #333;
+  --gl-tone-maly-produkt-nazev-color-1: var(--gl-color-primary);
+  --gl-tone-nad-banner-background-color-1: var(--gl-color-bg-light);
+  --gl-tone-nad-banner-background-image-1: var(--gl-color-bg-light);
+  --gl-tone-nad-banner-background-image-2: #f8fcf8;
+  --gl-tone-nad-banner-background-image-3: #e4f2e8;
+  --gl-tone-nad-banner-border-1: rgba(var(--gl-color-primary-rgb),.15);
+  --gl-tone-nad-banner-box-shadow-1: rgba(var(--gl-color-primary-rgb),.07);
+  --gl-tone-nad-banner-color-1: #203e2a;
+  --gl-tone-nad-btn-box-shadow-1: rgba(var(--gl-color-primary-rgb),.25);
+  --gl-tone-nad-btn-color-1: #fff;
+  --gl-tone-nad-dose-label-color-1: #203e2a;
+  --gl-tone-nad-dose-sub-color-1: #4e6655;
+  --gl-tone-nad-feature-color-1: #294934;
+  --gl-tone-nad-feature-nad-feature-border-left-1: rgba(var(--gl-color-primary-rgb),.28);
+  --gl-tone-nad-ico-background-1: rgba(255,255,255,.55);
+  --gl-tone-nad-info-border-1: rgba(var(--gl-color-primary-rgb),.18);
+  --gl-tone-nad-info-p-color-1: #333;
+  --gl-tone-nad-tagline-color-1: #294934;
+  --gl-tone-p-icon-card-background-1: rgba(255,255,255,0.92);
+  --gl-tone-p-icon-card-border-1: rgba(var(--gl-color-primary-rgb),0.06);
+  --gl-tone-p-icon-card-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.04);
+  --gl-tone-p-icon-card-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.1);
+  --gl-tone-reg-banner-background-1: var(--gl-color-bg-light);
+  --gl-tone-reg-banner-background-2: #f8fcf8;
+  --gl-tone-reg-banner-background-3: #e4f2e8;
+  --gl-tone-reg-banner-border-1: rgba(var(--gl-color-primary-rgb),.15);
+  --gl-tone-reg-banner-box-shadow-1: rgba(var(--gl-color-primary-rgb),.07);
+  --gl-tone-reg-banner-color-1: #203e2a;
+  --gl-tone-reg-footnote-color-1: #4e6655;
+  --gl-tone-reg-note-p-color-1: #294934;
+  --gl-tone-reg-title-color-1: #203e2a;
+  --gl-tone-reg-xticks-color-1: #705181;
+  --gl-tone-reg-yaxis-color-1: #705181;
+  --gl-tone-ruzovatabulka-tabulka-tr-first-child-th-color-1: white;
+  --gl-tone-ucinky-item-border-1: rgba(var(--gl-color-primary-rgb),0.06);
+  --gl-tone-ucinky-item-hover-box-shadow-1: rgba(var(--gl-color-primary-rgb),0.08);
+}
+
+/* GOLDIE HOST DARK START — match the surrounding page, not browser preference. */
+:where([data-gl-theme="detoxikacni-caj-7-dni"]){color-scheme:light;background-color:#fff;color:#000;}
+
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]){
+  color-scheme:dark;
+  color:#f4eff4;
+  background-color:#19171d;
+  --gl-dark-source-primary:#08733b;
+  --gl-dark-bg:#19171d;
+  --gl-dark-surface:#25212b;
+  --gl-dark-raised:#302a36;
+  --gl-dark-text:#f4eff4;
+  --gl-dark-muted:#d3c6d1;
+  --gl-dark-border:#9d8e9e;
+  --gl-dark-on-accent:#1b151d;
+  --gl-color-bg-grey:#302a36;
+  --gl-color-bg-light:#25212b;
+  --gl-color-bg-light-rgb:37,33,43;
+  --gl-color-primary:#a4d9b5;
+  --gl-color-primary-hover:#c0e8ca;
+  --gl-color-primary-rgb:164,217,181;
+  --gl-color-success:#93e1b6;
+  --gl-color-table-bg:#25212b;
+  --gl-color-table-border:#9d8e9e;
+  --gl-color-table-row-alt:#302a36;
+  --gl-color-text-muted:#d3c6d1;
+  --gl-color-text-subtle:#d3c6d1;
+  --gl-icon-filter:brightness(0) invert(1);
+  --gl-tone-btn-s-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-btn-s-color-1:#1b151d;
+  --gl-tone-cta-box-background-1:#25212b;
+  --gl-tone-cta-box-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-cta-button-color-1:#1b151d;
+  --gl-tone-cta-button-hover-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-cta-button-hover-color-1:#1b151d;
+  --gl-tone-data-gl-mobile-active-cta-product-img-background-1:#f5f1f4;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-cta-text-gl-mobile-cta-summary-color-1:#f4eff4;
+  --gl-tone-data-gl-mobile-active-cta-text-h3-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-gl-mobile-intro-not-is-expanded-after-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-gl-mobile-toggle-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-story-block-text-background-1:#25212b;
+  --gl-tone-data-gl-mobile-active-story-block-text-background-2:#302a36;
+  --gl-tone-data-gl-mobile-active-story-block-text-gl-mobile-story-summary-color-1:#f4eff4;
+  --gl-tone-data-gl-mobile-active-story-block-text-h3-color-1:#f4eff4;
+  --gl-tone-hero-img-background-1:#25212b;
+  --gl-tone-latky-grid-4-latky-swipe-scrollbar-color-1:var(--gl-color-primary);
+  --gl-tone-latky-grid-4-latky-swipe-webkit-scrollbar-track-background-1:#25212b;
+  --gl-tone-latky-modal-backdrop-background-1:rgba(0,0,0,.78);
+  --gl-tone-latky-modal-box-background-1:#25212b;
+  --gl-tone-latky-modal-box-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-modal-close-background-1:#25212b;
+  --gl-tone-latky-modal-close-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-plus-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-latky-plus-color-1:#1b151d;
+  --gl-tone-maly-hr-background-1:#25212b;
+  --gl-tone-maly-ikony-div-color-1:var(--gl-color-primary);
+  --gl-tone-maly-produkt-background-1:#25212b;
+  --gl-tone-maly-produkt-info-color-1:#f4eff4;
+  --gl-tone-maly-produkt-nazev-color-1:var(--gl-color-primary);
+  --gl-tone-nad-banner-background-color-1:#25212b;
+  --gl-tone-nad-banner-background-image-1:#25212b;
+  --gl-tone-nad-banner-background-image-2:#302a36;
+  --gl-tone-nad-banner-background-image-3:#25212b;
+  --gl-tone-nad-banner-border-1:#9d8e9e;
+  --gl-tone-nad-banner-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-nad-banner-color-1:#f4eff4;
+  --gl-tone-nad-btn-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-nad-btn-color-1:#1b151d;
+  --gl-tone-nad-dose-label-color-1:#f4eff4;
+  --gl-tone-nad-dose-sub-color-1:#f4eff4;
+  --gl-tone-nad-feature-color-1:#f4eff4;
+  --gl-tone-nad-feature-nad-feature-border-left-1:#9d8e9e;
+  --gl-tone-nad-ico-background-1:#25212b;
+  --gl-tone-nad-info-border-1:#9d8e9e;
+  --gl-tone-nad-info-p-color-1:#f4eff4;
+  --gl-tone-nad-tagline-color-1:#f4eff4;
+  --gl-tone-p-icon-card-background-1:#25212b;
+  --gl-tone-p-icon-card-border-1:#9d8e9e;
+  --gl-tone-p-icon-card-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-p-icon-card-hover-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-reg-banner-background-1:#25212b;
+  --gl-tone-reg-banner-background-2:#302a36;
+  --gl-tone-reg-banner-background-3:#25212b;
+  --gl-tone-reg-banner-border-1:#9d8e9e;
+  --gl-tone-reg-banner-box-shadow-1:rgba(0,0,0,.25);
+  --gl-tone-reg-banner-color-1:#f4eff4;
+  --gl-tone-reg-footnote-color-1:#f4eff4;
+  --gl-tone-reg-note-p-color-1:#f4eff4;
+  --gl-tone-reg-title-color-1:#f4eff4;
+  --gl-tone-reg-xticks-color-1:#f4eff4;
+  --gl-tone-reg-yaxis-color-1:#f4eff4;
+  --gl-tone-ruzovatabulka-tabulka-tr-first-child-th-color-1:#1b151d;
+  --gl-tone-ucinky-item-border-1:#9d8e9e;
+  --gl-tone-ucinky-item-hover-box-shadow-1:rgba(0,0,0,.25);
+}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.product-container,.nad-content,.latky-modal-box,.latky,.story-block-text,.cta-text,.gl-faq,.faq-section,.maly-popis){color:var(--gl-dark-text);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.latky-modal-close,.gl-mobile-toggle){border:1px solid var(--gl-dark-border);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(a,button,summary,[tabindex]):focus-visible{outline:3px solid var(--gl-color-primary);outline-offset:3px;box-shadow:0 0 0 3px var(--gl-dark-bg),0 0 0 6px var(--gl-color-primary);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.cta-availability,.cta-status,.gl-cart-message){color:var(--gl-dark-muted);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.gl-error,.is-error,[role="alert"]){color:#ffc2c6;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.cta-product-img,.nad-mol){background-color:#f5f1f4;border-radius:12px;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.gl-draft-note,.doza-safety){color:var(--gl-dark-text);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) .nad-banner{background-image:linear-gradient(135deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) .hero-img{background:linear-gradient(145deg,var(--gl-dark-surface),var(--gl-dark-raised))!important;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) .p-icon-card{background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) .cta-box{background:var(--gl-dark-surface)!important;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) .nad-title{color:var(--gl-color-primary)!important;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.nad-dose-sub,.nad-dose-label,.nad-feature,.nad-tagline,.nad-info p){color:var(--gl-dark-text)!important;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(th){background-color:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) :is(.cta-button,.nad-btn,.btn-s,.latky-plus){background:var(--gl-color-primary)!important;color:var(--gl-dark-on-accent)!important;}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) .gl-history{background:#332a21!important;color:var(--gl-dark-text);}
+:where([data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"]) .gl-history :is(p,span,div,summary){color:var(--gl-dark-text)!important;}
+:is(#special-popis,#nad-popis)[data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"] .gl-mobile-toggle{background:var(--gl-dark-surface)!important;color:var(--gl-color-primary)!important;border-color:var(--gl-dark-border)!important;}
+
+/* GOLDIE HOST DARK END */
+
+/* Tea-only component refinements; common CSS unchanged. */
+[data-gl-theme="detoxikacni-caj-7-dni"]{display:block;min-width:0;--gl-pictogram-filter:none;}
+[data-gl-theme="detoxikacni-caj-7-dni"] *,[data-gl-theme="detoxikacni-caj-7-dni"] *::before,[data-gl-theme="detoxikacni-caj-7-dni"] *::after{box-sizing:border-box;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-draft-note{padding:12px 16px;border:1px solid currentColor;border-radius:12px;font-size:12px!important;line-height:1.5!important;margin:12px 0!important;}
+#special-popis[data-gl-theme="detoxikacni-caj-7-dni"] .nad-title{font-size:clamp(34px,5.8vw,76px);line-height:1.05;overflow-wrap:normal;word-break:normal;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .nad-content,[data-gl-theme="detoxikacni-caj-7-dni"] .nad-info-text{min-width:0;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .nad-eyebrow{letter-spacing:2px;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .nad-info{padding-top:46px;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .p-card-img{filter:none;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-herbs{grid-template-columns:repeat(3,minmax(0,1fr));}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-info-card{padding:26px 18px!important;justify-content:center;gap:12px;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-info-card .btn-s{align-self:center;white-space:normal;text-align:center;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-info-label{text-align:center;font-size:12px;color:var(--gl-color-text-muted);}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-guideline{padding:18px!important;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-guideline h4{padding:0!important;margin-bottom:14px!important;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-guideline p{padding:0!important;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .maly-popis{font-size:14px;line-height:1.65;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .maly-ikony{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px 12px;align-items:start;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .maly-ikony>div{min-width:0;font-size:12px;line-height:1.4;overflow-wrap:normal;word-break:normal;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .maly-ikony .p-card-img{width:46px;height:46px;object-fit:contain;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .maly-produkt-info span{white-space:normal;min-width:0;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .maly-produkt-info img{object-fit:contain;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-mobile-toggle{display:block;margin:10px auto 24px;min-height:44px;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-collapsible:not(.is-expanded){max-height:230px;overflow:hidden;position:relative;}
+[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-collapsible:not(.is-expanded)::after{content:"";position:absolute;left:0;bottom:0;right:0;height:65px;background:linear-gradient(transparent,#fff);pointer-events:none;}
+[data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"] .gl-tea-collapsible:not(.is-expanded)::after{background:linear-gradient(transparent,var(--gl-dark-bg));}
+[data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"] .hero-row .heroimg{background:#f5f1f4;}
+[data-gl-theme="detoxikacni-caj-7-dni"][data-gl-site-scheme="dark"] .latky-modal-close{color:var(--gl-color-primary);}
+@media(min-width:769px){[data-gl-theme="detoxikacni-caj-7-dni"] .gl-tea-herbs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));}}
+@media(max-width:768px){[data-gl-theme="detoxikacni-caj-7-dni"] .hero-icons-grid{grid-template-columns:repeat(3,minmax(0,1fr))!important;}[data-gl-theme="detoxikacni-caj-7-dni"] .p-icon-card{min-width:0;}[data-gl-theme="detoxikacni-caj-7-dni"] .nad-features{align-items:start;}}
+@media(min-width:600px) and (max-width:1024px){[data-gl-theme="detoxikacni-caj-7-dni"] .nad-banner{grid-template-columns:1fr;grid-template-areas:"content" "dose" "features" "btn";padding:32px;}[data-gl-theme="detoxikacni-caj-7-dni"] .nad-dose{text-align:left;margin-top:20px;}[data-gl-theme="detoxikacni-caj-7-dni"] .nad-feature{flex-direction:column;text-align:center;}}
+@media(max-width:360px){[data-gl-theme="detoxikacni-caj-7-dni"] .maly-ikony{grid-template-columns:repeat(2,minmax(0,1fr));}}

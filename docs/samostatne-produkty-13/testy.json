@@ -1,0 +1,2585 @@
+{
+  "counts": {
+    "products": 13,
+    "html": 26,
+    "css": 13,
+    "shared_js": 1,
+    "browser_scenarios": 156,
+    "tables": 10,
+    "table_cells": 396,
+    "cards": 96,
+    "all_ingredient_dialogs": 91
+  },
+  "browser_scenarios": [
+    {
+      "id": "547",
+      "width": 320,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 320,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 375,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 375,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 768,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 768,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 820,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 820,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 1024,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 1024,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 1440,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "547",
+      "width": 1440,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 41,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 320,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 320,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 375,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 375,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 768,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 768,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 820,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 820,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 1024,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 1024,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 1440,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "470",
+      "width": 1440,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 320,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 320,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 375,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 375,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 768,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 768,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 820,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 820,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 1024,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 1024,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 1440,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "458",
+      "width": 1440,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 320,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 320,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 375,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 375,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 768,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 768,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 820,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 820,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 1024,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 1024,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 1440,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "174",
+      "width": 1440,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 44,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 320,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 320,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 375,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 375,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 768,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 768,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 820,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 820,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 1024,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 1024,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 1440,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "51",
+      "width": 1440,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 320,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 320,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 375,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 375,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 768,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 768,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 820,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 820,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 1024,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 1024,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 1440,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "452",
+      "width": 1440,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 35,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 320,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 320,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 375,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 375,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 768,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 768,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 820,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 820,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 1024,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 1024,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 1440,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "57",
+      "width": 1440,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 8,
+      "images": 40,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 320,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 320,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 375,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 375,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 768,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 768,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 820,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 820,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 1024,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 1024,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 1440,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "99",
+      "width": 1440,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 36,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 320,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 320,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 375,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 375,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 768,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 768,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 820,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 820,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 1024,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 1024,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 1440,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "357",
+      "width": 1440,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 6,
+      "images": 29,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 320,
+      "dark": false,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 320,
+      "dark": true,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 375,
+      "dark": false,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 375,
+      "dark": true,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 768,
+      "dark": false,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 768,
+      "dark": true,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 820,
+      "dark": false,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 820,
+      "dark": true,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 1024,
+      "dark": false,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 1024,
+      "dark": true,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 1440,
+      "dark": false,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "84",
+      "width": 1440,
+      "dark": true,
+      "cards": 3,
+      "dialogs": 3,
+      "images": 20,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 320,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 320,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 375,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 375,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 768,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 768,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 820,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 820,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 1024,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 1024,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 1440,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "261",
+      "width": 1440,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 4,
+      "images": 28,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 320,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 320,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 375,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 375,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 768,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 768,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 820,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 820,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 1024,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 1024,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 1440,
+      "dark": false,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "258",
+      "width": 1440,
+      "dark": true,
+      "cards": 6,
+      "dialogs": 5,
+      "images": 30,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 320,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 320,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 375,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 375,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 768,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 768,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 820,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 820,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 1024,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 1024,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 1440,
+      "dark": false,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    },
+    {
+      "id": "360",
+      "width": 1440,
+      "dark": true,
+      "cards": 9,
+      "dialogs": 9,
+      "images": 38,
+      "overflow": false,
+      "js_errors": [],
+      "external_completed_requests": 0
+    }
+  ],
+  "source_invariants": [
+    {
+      "id": "547",
+      "title": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "tables": 2,
+      "table_cells": 90,
+      "source_paragraphs": 33,
+      "paragraphs_covered": 33,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html",
+      "short": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-cappuccino.css"
+    },
+    {
+      "id": "470",
+      "title": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "tables": 2,
+      "table_cells": 90,
+      "source_paragraphs": 34,
+      "paragraphs_covered": 34,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-cz.html",
+      "short": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-kokos-bila-cokolada.css"
+    },
+    {
+      "id": "458",
+      "title": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "tables": 2,
+      "table_cells": 90,
+      "source_paragraphs": 33,
+      "paragraphs_covered": 33,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-cz.html",
+      "short": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-vanilka-jahoda.css"
+    },
+    {
+      "id": "174",
+      "title": "Slim & Detox Super energy booster Power+",
+      "tables": 1,
+      "table_cells": 27,
+      "source_paragraphs": 22,
+      "paragraphs_covered": 21,
+      "missing_paragraphs": [
+        "Slim&Detox Super Energy Booster Power + | Extrémní Spalovač Tuků a Detox"
+      ],
+      "html": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+      "short": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css"
+    },
+    {
+      "id": "51",
+      "title": "Beauty Body & Soul®",
+      "tables": 0,
+      "table_cells": 0,
+      "source_paragraphs": 30,
+      "paragraphs_covered": 30,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "short": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css"
+    },
+    {
+      "id": "452",
+      "title": "Bikini Body",
+      "tables": 1,
+      "table_cells": 14,
+      "source_paragraphs": 16,
+      "paragraphs_covered": 16,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+      "short": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-bikini-body.css"
+    },
+    {
+      "id": "57",
+      "title": "Good Sleep & Night Burn",
+      "tables": 1,
+      "table_cells": 30,
+      "source_paragraphs": 22,
+      "paragraphs_covered": 21,
+      "missing_paragraphs": [
+        "Good Sleep & Night Burn | Lepší spánek a noční spalování"
+      ],
+      "html": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "short": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css"
+    },
+    {
+      "id": "99",
+      "title": "Miracle Drops",
+      "tables": 0,
+      "table_cells": 0,
+      "source_paragraphs": 15,
+      "paragraphs_covered": 15,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "short": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-miracle-drops.css"
+    },
+    {
+      "id": "357",
+      "title": "Xpress Hair Grow s biotinem",
+      "tables": 1,
+      "table_cells": 55,
+      "source_paragraphs": 20,
+      "paragraphs_covered": 19,
+      "missing_paragraphs": [
+        "Xpress Hair Grow | Silné a rychle rostoucí vlasy s biotinem"
+      ],
+      "html": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+      "short": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-xpress-hair-grow.css"
+    },
+    {
+      "id": "84",
+      "title": "Vitamín C",
+      "tables": 0,
+      "table_cells": 0,
+      "source_paragraphs": 8,
+      "paragraphs_covered": 8,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+      "short": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-vitamin-c.css"
+    },
+    {
+      "id": "261",
+      "title": "Detoxikační čaj – 7 dní",
+      "tables": 0,
+      "table_cells": 0,
+      "source_paragraphs": 8,
+      "paragraphs_covered": 7,
+      "missing_paragraphs": [
+        "DETOXIKAČNÍ ČAJ - 7 DNÍ BIO bylinný porcovaný čaj z 11 vynikajících bylin na 7 dní! Detoxikace Únava Spánek Imunita Pohoda Vyrobeno v ČR Účinky Očistěte své tělo od toxinů, které zatěžují váš organismus. Naše pečlivě vybrané bylinky podporují obranyschopnost, čistí trávicí systém a zvyšují vitalitu. Správná funkce orgánů a detoxikace Posílení imunity Více energie a lepší nálada Zdravé trávení a metabolismus tuků Podpora cév a prevence křečových žil Úleva od stresu a nespavosti Protizánětlivé a dezinfekční účinky Zdraví pokožky, vlasů a nehtů Aktivní látky Truskavec Protizánětlivé, podporuje psychiku i trávení. Šípek Bohatý na vitamin C, posiluje imunitu a zdraví pokožky. Meduňka Zklidňuje mysl a podporuje uvolnění stresu. Máta Zklidňuje trávicí systém a uvolňuje křeče. Gluten free GMO free Additives free Lactose free Sugar free Složení a použití Složení (11 bylin): Truskavec, řebříček, šípek, meduňka, jitrocel, máta, čekanka, yzop, dobromysl, přeslička, divizna. Návod k použití 1 čajová lžička (2 g) denně. Skladování V suchu a stínu, do 25 °C. Omezení Nevhodné pro těhotné, kojící a osoby s poruchou srážlivosti krve."
+      ],
+      "html": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+      "short": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-7-dni.css"
+    },
+    {
+      "id": "258",
+      "title": "Detoxikační čaj – 30 dní",
+      "tables": 0,
+      "table_cells": 0,
+      "source_paragraphs": 15,
+      "paragraphs_covered": 15,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-cz.html",
+      "short": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-30-dni.css"
+    },
+    {
+      "id": "360",
+      "title": "pH+ Uro Balance čaj – 30 dní",
+      "tables": 0,
+      "table_cells": 0,
+      "source_paragraphs": 19,
+      "paragraphs_covered": 19,
+      "missing_paragraphs": [],
+      "html": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-cz.html",
+      "short": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-cz.html",
+      "css": "user/documents/upload/css/golden-life-barvy-ph-uro-balance-caj.css"
+    }
+  ],
+  "scheme_integration": {
+    "themes_added": [
+      "slim-glp1-shake-cappuccino",
+      "slim-glp1-shake-kokos-bila-cokolada",
+      "slim-glp1-shake-vanilka-jahoda",
+      "slim-detox-power-plus",
+      "beauty-body-soul",
+      "bikini-body",
+      "good-sleep-night-burn",
+      "miracle-drops",
+      "xpress-hair-grow",
+      "vitamin-c",
+      "detoxikacni-caj-30-dni",
+      "detoxikacni-caj-7-dni",
+      "ph-uro-balance-caj"
+    ],
+    "shared_js_only_allowlist_changed": true,
+    "products": [
+      {
+        "path": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "49e4152a8eb35c75f2d9b283b5511a34fb017102a193d06ded2a5121f60516ca"
+      },
+      {
+        "path": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "68687c31ff8a45f742777f99976ec40ce3a60c5427dfa6f3f98effc1e7fb6822"
+      },
+      {
+        "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "91a65c1f9e23f0c556e9efd5a58a2756da3acd85b681e4e67fe1548206540bb5"
+      },
+      {
+        "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "28679ab56af73edc9d91790c31a21afa8c49e0e7fbd385185fe65a3854140e1b"
+      },
+      {
+        "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "009063d4dbfe1b2fd5001fe68e0583c33c5fc52bfaa7846b1bfacde14ef52b74"
+      },
+      {
+        "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "1bf312f71ed5dc03d234a4d1f0336fabc35436c3f26d906cadbd59bcceabe725"
+      },
+      {
+        "path": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "7c61826362a21c68254779cf4406ff309fc8e77560f448abf1dc32d4ff58ad86"
+      },
+      {
+        "path": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "fbb7d0487a7572d5a39978200748f1163b90ec2f5470ef08b052d3658faae50f"
+      },
+      {
+        "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "11ceb8d9008cf36a5a53c329f2e1b132966bcaa4b01b67bbb5f51033ac7354e6"
+      },
+      {
+        "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "4312821b3019a28ed03f322dc232808f5a1302ba75cb6221519b3263d21157c8"
+      },
+      {
+        "path": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "aa584890b3cbcc5a4f8ec321342f4df770fa6a163c8b9ad11cb76157a35ddbac"
+      },
+      {
+        "path": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "bac0a4b86d5f40130c0fc188a805ef757324969bfb3b1bd1c7b03254432ac027"
+      },
+      {
+        "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "2774b608107c8535ac2e0deecf7209e030cde1c9b2ddbdfc62ecfd7fbc646fa8"
+      },
+      {
+        "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": false,
+        "final_sha256": "3d1120c3bec48e2b56daaf769ebb34e916b382b12ad494848ee0363975adba89"
+      },
+      {
+        "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "2b34e110d245ee0484a6b50ca23eb150ee50b81d6bcd98dfc388c067182457be"
+      },
+      {
+        "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "440cc42d46d5d7db529d234f139d2eaf218f7e66aa8a2e751a3b13039cade58f"
+      },
+      {
+        "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "2fde0d29d6aa28fcdf62a5d652ee34084ec9ac23832798a4574e99f6c15b634e"
+      },
+      {
+        "path": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "e562fd7a3bcd956a2a7d366bda5eecd1e7d59e7170a8ba601d3a24b476387b72"
+      },
+      {
+        "path": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "efb43724e03e1620cf6a0bb8f605b246efc4ce0167ea1cb198983a82d76a9d3b"
+      },
+      {
+        "path": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "b76d0460209485f8764e05396edcc269f9eef11f102feafe1dfb6899d37979b9"
+      },
+      {
+        "path": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "7a93580553136677a4bb5c5df818cfb1bd3db90caf1a2c815b679b095e9cc8b9"
+      },
+      {
+        "path": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "7c5c3d8a1ac8823a94c578cacbd56c13f95d211886bab432a74b609248030185"
+      },
+      {
+        "path": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "1215e17b34d84d7dbbf2954ce0e64b1ef7e3ce75cc887094451e4d7771f35afd"
+      },
+      {
+        "path": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "f4622f02409f2b2439606aaa87a18a18dcfac8302c28bf87bc3ed0ebd2893a51"
+      },
+      {
+        "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "491fbbc77d3c84550e641033e6d68cddec4463f64e3ad41fca8995136091d63e"
+      },
+      {
+        "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-cz.html",
+        "scheme_only_replacement": true,
+        "old_local_adapter_removed": true,
+        "final_sha256": "fd4af202f795cc92c9e9309a0b23525d0328eee301ffc31366fbd3a1b5a6f37f"
+      }
+    ]
+  },
+  "syntax_and_detector": {
+    "script_count": 65,
+    "scripts": [
+      "547-html_path-0.js",
+      "547-html_path-1.js",
+      "547-html_path-2.js",
+      "547-html_path-3.js",
+      "547-short_path-0.js",
+      "470-html_path-0.js",
+      "470-html_path-1.js",
+      "470-html_path-2.js",
+      "470-html_path-3.js",
+      "470-short_path-0.js",
+      "458-html_path-0.js",
+      "458-html_path-1.js",
+      "458-html_path-2.js",
+      "458-html_path-3.js",
+      "458-short_path-0.js",
+      "174-html_path-0.js",
+      "174-html_path-1.js",
+      "174-html_path-2.js",
+      "174-html_path-3.js",
+      "174-short_path-0.js",
+      "51-html_path-0.js",
+      "51-html_path-1.js",
+      "51-html_path-2.js",
+      "51-html_path-3.js",
+      "51-short_path-0.js",
+      "452-html_path-0.js",
+      "452-html_path-1.js",
+      "452-html_path-2.js",
+      "452-html_path-3.js",
+      "452-short_path-0.js",
+      "57-html_path-0.js",
+      "57-html_path-1.js",
+      "57-html_path-2.js",
+      "57-html_path-3.js",
+      "57-short_path-0.js",
+      "99-html_path-0.js",
+      "99-html_path-1.js",
+      "99-html_path-2.js",
+      "99-html_path-3.js",
+      "99-short_path-0.js",
+      "357-html_path-0.js",
+      "357-html_path-1.js",
+      "357-html_path-2.js",
+      "357-html_path-3.js",
+      "357-short_path-0.js",
+      "84-html_path-0.js",
+      "84-html_path-1.js",
+      "84-html_path-2.js",
+      "84-html_path-3.js",
+      "84-short_path-0.js",
+      "258-html_path-0.js",
+      "258-html_path-1.js",
+      "258-html_path-2.js",
+      "258-html_path-3.js",
+      "258-short_path-0.js",
+      "261-html_path-0.js",
+      "261-html_path-1.js",
+      "261-html_path-2.js",
+      "261-html_path-3.js",
+      "261-short_path-0.js",
+      "360-html_path-0.js",
+      "360-html_path-1.js",
+      "360-html_path-2.js",
+      "360-html_path-3.js",
+      "360-short_path-0.js"
+    ],
+    "themes": [
+      "beauty-star",
+      "slim-extreme-collagen-box-ananas",
+      "beauty-longevity",
+      "woman-hormonal-balance",
+      "glp1-woman-balance",
+      "glp1-woman-balance-sacek",
+      "anti-age-longevity",
+      "beauty-longevity-sacek",
+      "slim-extreme-collagen",
+      "slim-sos-fat-burner",
+      "slim-glp-1-activator",
+      "slim-extreme-collagen-sacek-ananas",
+      "slim-extreme-collagen-box-ananas-mango",
+      "slim-extreme-collagen-sacek-ananas-mango",
+      "slim-glp1-shake-cappuccino",
+      "slim-glp1-shake-kokos-bila-cokolada",
+      "slim-glp1-shake-vanilka-jahoda",
+      "slim-detox-power-plus",
+      "beauty-body-soul",
+      "bikini-body",
+      "good-sleep-night-burn",
+      "miracle-drops",
+      "xpress-hair-grow",
+      "vitamin-c",
+      "detoxikacni-caj-30-dni",
+      "detoxikacni-caj-7-dni",
+      "ph-uro-balance-caj"
+    ],
+    "scheme_tests": [
+      {
+        "mode": "light",
+        "roots": 27
+      },
+      {
+        "mode": "dark",
+        "roots": 27
+      },
+      {
+        "mode": "light",
+        "roots": 27
+      }
+    ],
+    "algorithm_only_allowlist_changed": true
+  },
+  "narrow_short": [
+    {
+      "id": "547",
+      "bad": []
+    },
+    {
+      "id": "470",
+      "bad": []
+    },
+    {
+      "id": "458",
+      "bad": []
+    },
+    {
+      "id": "174",
+      "bad": []
+    },
+    {
+      "id": "51",
+      "bad": []
+    },
+    {
+      "id": "452",
+      "bad": []
+    },
+    {
+      "id": "57",
+      "bad": []
+    },
+    {
+      "id": "99",
+      "bad": []
+    },
+    {
+      "id": "357",
+      "bad": []
+    },
+    {
+      "id": "84",
+      "bad": []
+    },
+    {
+      "id": "261",
+      "bad": []
+    },
+    {
+      "id": "258",
+      "bad": []
+    },
+    {
+      "id": "360",
+      "bad": []
+    }
+  ],
+  "viewer_switching": {
+    "tests": [
+      {
+        "id": "547",
+        "dark": false,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "547",
+        "dark": true,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "470",
+        "dark": false,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "470",
+        "dark": true,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "458",
+        "dark": false,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "458",
+        "dark": true,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "174",
+        "dark": false,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "174",
+        "dark": true,
+        "ingredient_dialogs": 9,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "51",
+        "dark": false,
+        "ingredient_dialogs": 6,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "51",
+        "dark": true,
+        "ingredient_dialogs": 6,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "452",
+        "dark": false,
+        "ingredient_dialogs_available": 5,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "452",
+        "dark": true,
+        "ingredient_dialogs_available": 5,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "57",
+        "dark": false,
+        "ingredient_dialogs_available": 8,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "57",
+        "dark": true,
+        "ingredient_dialogs_available": 8,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "99",
+        "dark": false,
+        "ingredient_dialogs_available": 9,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "99",
+        "dark": true,
+        "ingredient_dialogs_available": 9,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "357",
+        "dark": false,
+        "ingredient_dialogs_available": 6,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "357",
+        "dark": true,
+        "ingredient_dialogs_available": 6,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "84",
+        "dark": false,
+        "ingredient_dialogs_available": 3,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "84",
+        "dark": true,
+        "ingredient_dialogs_available": 3,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "261",
+        "dark": false,
+        "ingredient_dialogs_available": 4,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": false,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "261",
+        "dark": true,
+        "ingredient_dialogs_available": 4,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": false,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "258",
+        "dark": false,
+        "ingredient_dialogs_available": 5,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": false,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "258",
+        "dark": true,
+        "ingredient_dialogs_available": 5,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": false,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "360",
+        "dark": false,
+        "ingredient_dialogs_available": 9,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": false,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "360",
+        "dark": true,
+        "ingredient_dialogs_available": 9,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": false,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "547",
+        "dark": false,
+        "ingredient_dialogs_available": 9,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      },
+      {
+        "id": "547",
+        "dark": true,
+        "ingredient_dialogs_available": 9,
+        "ingredient_dialogs_tested": 1,
+        "banner_tested": true,
+        "frame_navigation_stable": true
+      }
+    ],
+    "js_errors": [],
+    "external_completed_requests": []
+  },
+  "final_delivered_viewer": {
+    "viewer_sha256": "7a86e7de34cb39f1d136f2ce081f0cb6accf78a83ad783f8e97024ca27511ff3",
+    "viewer_bytes": 8753447,
+    "products": [
+      {
+        "id": "547",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "470",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "458",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "174",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "51",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "452",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "57",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "99",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "357",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "84",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "261",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "258",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      },
+      {
+        "id": "360",
+        "final_viewer_decoded": true,
+        "single_shared_scheme": true,
+        "images_loaded": true
+      }
+    ],
+    "js_errors": [],
+    "beauty_video_poster_decoded": true,
+    "beauty_video_playback": "disabled only in offline preview; original production source preserved and HEAD HTTP200"
+  },
+  "beauty_video_headers": [
+    {
+      "tag": "video",
+      "src": null,
+      "poster": "https://www.golden-life.cz/user/documents/upload/premiovy-popis/preview.jpg",
+      "poster_status": 200,
+      "poster_mime": "image/jpeg"
+    },
+    {
+      "tag": "source",
+      "src": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/premiovy-popis/video na web.mp4",
+      "poster": null,
+      "src_status": 200,
+      "src_mime": "video/mp4"
+    }
+  ],
+  "source_paragraph_exceptions": [
+    {
+      "id": "174",
+      "text": "Slim&Detox Super Energy Booster Power + | Extrémní Spalovač Tuků a Detox",
+      "reason": "Removed duplicate SEO/title-like preamble with old meta/JSON-LD, not a lost ingredient explanation; original exact quotation preserved here and in claims ledger."
+    },
+    {
+      "id": "57",
+      "text": "Good Sleep & Night Burn | Lepší spánek a noční spalování",
+      "reason": "Removed duplicate SEO/title-like preamble; original exact quotation retained in claims ledger."
+    },
+    {
+      "id": "357",
+      "text": "Xpress Hair Grow | Silné a rychle rostoucí vlasy s biotinem",
+      "reason": "Removed duplicate SEO/title-like preamble with old meta/JSON-LD; exact source quotation retained in claims ledger."
+    },
+    {
+      "id": "261",
+      "reason": "Old invalid outer P contains entire MAIN/page. Whole-page P is not an atomic prose paragraph; all leaf ingredient explanations, preparation and warnings are preserved in working components (child proof coverage.json)."
+    }
+  ]
+}
