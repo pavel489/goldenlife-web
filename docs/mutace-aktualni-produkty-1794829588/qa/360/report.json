@@ -1,0 +1,363 @@
+{
+  "product_id": "360",
+  "base_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "status": "complete_six_internal_translation_drafts_offline_qa_verified",
+  "sources": [
+    {
+      "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-cz.html",
+      "sha256": "1624b732fe70bfe437dd234e6260c41ffd1f1c122e9227338bbc67cc2a41df93",
+      "bytes": 30712
+    },
+    {
+      "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-cz.html",
+      "sha256": "f18f474fd5059e0555dc3f23158c393efaf8fcbd966efbbf33f13bbe5fe854ea",
+      "bytes": 3823
+    }
+  ],
+  "files": [
+    {
+      "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-sk.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/360/web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-sk.html",
+      "sha256": "49514a3f2a994bf07914c4bcb3e8e6a084d3eb7ce9d0add59439d78b8cc560f1",
+      "bytes": 30487,
+      "language": "sk",
+      "kind": "long",
+      "tests": {
+        "source_offset_edits_reversible": true,
+        "css_byte_preserved": true,
+        "protected_attributes_preserved": true,
+        "numeric_facts_preserved": true,
+        "table_cells_preserved": true,
+        "source_table_cell_count": 0,
+        "output_table_cell_count": 0,
+        "complete_text_attribute_inventory": true,
+        "no_untranslated_czech_except_valid_slovak_cognates_and_brand": true,
+        "benefit_pictograms": 6,
+        "scripts": [
+          {
+            "index": 0,
+            "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 1,
+            "sha256": "40b85c4004349cafc816b909861fd3e8f3919d7dc6af2145d71af87dad76b795",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 2,
+            "sha256": "a71d220c8ee26994386448350926dfed98f5d0e0cbe2e877b6652a15dff048f8",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 3,
+            "sha256": "b3474b0d91aa19b1c035c50968724910b61ac95e70d99148a8b507578e185940",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          }
+        ],
+        "jsonld_nodes": 0,
+        "faq_nodes": 0
+      }
+    },
+    {
+      "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-en.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/360/web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-en.html",
+      "sha256": "8be11bde3b8417d11b29193cd0ac1f7bf3ee9c4586479ea4aa88152061be4779",
+      "bytes": 29801,
+      "language": "en",
+      "kind": "long",
+      "tests": {
+        "source_offset_edits_reversible": true,
+        "css_byte_preserved": true,
+        "protected_attributes_preserved": true,
+        "numeric_facts_preserved": true,
+        "table_cells_preserved": true,
+        "source_table_cell_count": 0,
+        "output_table_cell_count": 0,
+        "complete_text_attribute_inventory": true,
+        "no_untranslated_czech_except_valid_slovak_cognates_and_brand": true,
+        "benefit_pictograms": 6,
+        "scripts": [
+          {
+            "index": 0,
+            "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 1,
+            "sha256": "638a4291dc7eb69ca4e8659c481ed8db45f5c636a5120c07d76148c21e5cd9c1",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 2,
+            "sha256": "a71d220c8ee26994386448350926dfed98f5d0e0cbe2e877b6652a15dff048f8",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 3,
+            "sha256": "b3474b0d91aa19b1c035c50968724910b61ac95e70d99148a8b507578e185940",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          }
+        ],
+        "jsonld_nodes": 0,
+        "faq_nodes": 0
+      }
+    },
+    {
+      "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-de.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/360/web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-de.html",
+      "sha256": "f14bb1585a1060218f9795c76085b10f6a3f608bc632b491d2c64712c3fd474b",
+      "bytes": 31997,
+      "language": "de",
+      "kind": "long",
+      "tests": {
+        "source_offset_edits_reversible": true,
+        "css_byte_preserved": true,
+        "protected_attributes_preserved": true,
+        "numeric_facts_preserved": true,
+        "table_cells_preserved": true,
+        "source_table_cell_count": 0,
+        "output_table_cell_count": 0,
+        "complete_text_attribute_inventory": true,
+        "no_untranslated_czech_except_valid_slovak_cognates_and_brand": true,
+        "benefit_pictograms": 6,
+        "scripts": [
+          {
+            "index": 0,
+            "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 1,
+            "sha256": "c5a8b8425ae47acc8c0f52558691aaa783d6f77e67ce5edd9845d88258e054db",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 2,
+            "sha256": "a71d220c8ee26994386448350926dfed98f5d0e0cbe2e877b6652a15dff048f8",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          },
+          {
+            "index": 3,
+            "sha256": "b3474b0d91aa19b1c035c50968724910b61ac95e70d99148a8b507578e185940",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          }
+        ],
+        "jsonld_nodes": 0,
+        "faq_nodes": 0
+      }
+    },
+    {
+      "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-sk.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/360/web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-sk.html",
+      "sha256": "f24294d087555796a45a6b9dbf98fcbff7b48c964826474d161f7e964863bcf0",
+      "bytes": 3819,
+      "language": "sk",
+      "kind": "short",
+      "tests": {
+        "source_offset_edits_reversible": true,
+        "css_byte_preserved": true,
+        "protected_attributes_preserved": true,
+        "numeric_facts_preserved": true,
+        "table_cells_preserved": true,
+        "source_table_cell_count": 0,
+        "output_table_cell_count": 0,
+        "complete_text_attribute_inventory": true,
+        "no_untranslated_czech_except_valid_slovak_cognates_and_brand": true,
+        "benefit_pictograms": 6,
+        "scripts": [
+          {
+            "index": 0,
+            "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          }
+        ],
+        "jsonld_nodes": 0,
+        "faq_nodes": 0
+      }
+    },
+    {
+      "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-en.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/360/web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-en.html",
+      "sha256": "a8b2019c23b86b227c024c2505295637c6fb65d103c2b7ad6d56c616319151ea",
+      "bytes": 3716,
+      "language": "en",
+      "kind": "short",
+      "tests": {
+        "source_offset_edits_reversible": true,
+        "css_byte_preserved": true,
+        "protected_attributes_preserved": true,
+        "numeric_facts_preserved": true,
+        "table_cells_preserved": true,
+        "source_table_cell_count": 0,
+        "output_table_cell_count": 0,
+        "complete_text_attribute_inventory": true,
+        "no_untranslated_czech_except_valid_slovak_cognates_and_brand": true,
+        "benefit_pictograms": 6,
+        "scripts": [
+          {
+            "index": 0,
+            "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          }
+        ],
+        "jsonld_nodes": 0,
+        "faq_nodes": 0
+      }
+    },
+    {
+      "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-de.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/360/web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-de.html",
+      "sha256": "c802fc5ece5208452c67f3d892aae0064d4d15dc918545281f0ce9b2f038813f",
+      "bytes": 3938,
+      "language": "de",
+      "kind": "short",
+      "tests": {
+        "source_offset_edits_reversible": true,
+        "css_byte_preserved": true,
+        "protected_attributes_preserved": true,
+        "numeric_facts_preserved": true,
+        "table_cells_preserved": true,
+        "source_table_cell_count": 0,
+        "output_table_cell_count": 0,
+        "complete_text_attribute_inventory": true,
+        "no_untranslated_czech_except_valid_slovak_cognates_and_brand": true,
+        "benefit_pictograms": 6,
+        "scripts": [
+          {
+            "index": 0,
+            "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+            "node_check": true,
+            "logic_unchanged_after_approved_literal_reversal": true
+          }
+        ],
+        "jsonld_nodes": 0,
+        "faq_nodes": 0
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "item": "Internal draft-note paragraph",
+      "action": "Removed from every customer-facing output; source note retained in QA inventory and status recorded here.",
+      "source_exact_html": "<p class=\"gl-draft-note\"><strong>INTERNÍ PRACOVNÍ NÁVRH — NEPUBLIKOVAT.</strong> Původní účinková tvrzení jsou zachována pro obsahové posouzení; nejde o schválenou komunikaci.</p>"
+    },
+    {
+      "item": "Stale CZ offers/rating/availability",
+      "action": "Not applicable: exact paired source has no Offer/AggregateRating JSON-LD, price, stock or dispatch fallback. Existing neutral native-purchase instruction translated."
+    },
+    {
+      "item": "SEO/FAQ/JSONLD",
+      "action": "No standalone head metadata, FAQ or JSON-LD exists in these two source fragments. Visible SEO-style title paragraph and all accessibility/alt content translated."
+    }
+  ],
+  "risks": [
+    {
+      "type": "inherited_unapproved_health_and_disease_claims",
+      "details": "Faithful internal translations retain detoxification, antibacterial/anti-inflammatory, infection treatment/prevention, kidney-stone dissolution, blood-pressure and other effect claims. No legal approval or live deployment. See exact-sentence-claims-ledger.json."
+    },
+    {
+      "type": "source_fact_conflict",
+      "details": "Source says 7 herbs but lists 9. Preserved unchanged."
+    },
+    {
+      "type": "source_dose_conflict",
+      "details": "Source says one teaspoon (2 g) daily / 30 days per 60 g at 1 cup daily, but directions also say 1-2 cups daily. Preserved, not reconciled."
+    },
+    {
+      "type": "source_allergen_conflict",
+      "details": "Gluten-free pictogram coexists with warning of possible gluten-containing cereal traces. Both retained."
+    },
+    {
+      "type": "botanical_identity",
+      "details": "Source does not provide Latin botanical species. EN cranberry / DE Preiselbeere faithfully follow common usage of Czech brusinka but botanical identity needs confirmation."
+    },
+    {
+      "type": "source_claims_and_sales_form",
+      "details": "Source calls the tea BIO and portioned while specifying loose teaspoon dosing. No certification or sales-form facts invented or independently verified."
+    }
+  ],
+  "scope": {
+    "git_commit_push": false,
+    "cms_write": false,
+    "shared_file_changes": false
+  },
+  "tests": {
+    "six_files_verified": true,
+    "final_file_and_staging_hashes_verified": true,
+    "czech_sources_match_pinned_base_byte_exact": true,
+    "all_final_scenarios_no_document_or_root_overflow": true,
+    "all_final_caption_ranges_inside_own_cells": true,
+    "all_six_pictograms_decoded_every_scenario": true,
+    "formal_shop_address_reviewed": true,
+    "no_internal_notes_in_delivered_html": true
+  },
+  "localization_exceptions": [
+    {
+      "item": "Mandatory short-description warning",
+      "action": "Added the exact translated mandatory supplement warning from the paired Czech long description to all three short fragments, as required by brand/RULES.md. No numeric fact or new marketing claim added.",
+      "source_exact": "Doplněk stravy. Není náhradou pestré a vyvážené stravy. Nepřekračujte doporučenou denní dávku. Uchovávejte mimo dosah dětí."
+    },
+    {
+      "item": "German narrow-caption typography",
+      "action": "Faithful concise captions use Unterstützung gesunder Harnwege, Abwehr und Vitalität fördern and Wasserüberschuss ausscheiden; discretionary syllable breaks in Unterstützung, Tschechien, Wasserüberschuss and ausscheiden preserve CSS and prevent forced mid-word fragments in narrow cards. Zutaten is the idiomatic concise composition heading."
+    },
+    {
+      "item": "JavaScript heading regex",
+      "action": "Not applicable: paired source contains no heading-text-matching regex. Localized all three occurrences of the more/less labels in each long bootstrap; all other script bytes unchanged."
+    }
+  ],
+  "browser": {
+    "engine": "Real Chromium 156.0.8078.4",
+    "mode": "offline exact final fragments with repository CSS/artwork and hash-verified authentic cached assets; no live shop/network fetches",
+    "scenarios": 18,
+    "dialogs_open_close_reopen_escape": 90,
+    "mobile_toggles": 12,
+    "pageerrors": [],
+    "external_network_allowed": false,
+    "native_purchase_or_gallery_live_verified": false,
+    "missing_blocked_resources": [
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-briza-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-brusinka-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-ibisek-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medvedice-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-vres-v1.png",
+      "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+      "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    ],
+    "results": "browser-results.json",
+    "screenshots": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/360/screenshots",
+    "qa_asset_manifest": "asset-inventory.json"
+  },
+  "limitations": [
+    "Offline browser QA only; no shop request was made, and no live native price/gallery/purchase or CMS deployment is claimed.",
+    "Nine current ingredient-photo URLs and the Material Symbols font stylesheet were unavailable in the authentic local cache and intentionally blocked; no substitute/fabricated photo responses. Product photo, metadata icons and six benefit pictograms used actual local or hash-verified cached assets.",
+    "System-dark/tablet/full-shop visual certification is outside this translation check. Shared CSS/JS preserved unchanged."
+  ],
+  "claim_ledger": {
+    "path": "exact-sentence-claims-ledger.json",
+    "blocks": 43,
+    "approval": "not_approved_for_publication"
+  },
+  "visual_review": {
+    "inspected": "All three final 375px short renders and final German narrow long pictograms / Slovak banner / English desktop pictograms; authentic six distinct glyphs retained.",
+    "unavailable": "Current herb photographs absent from offline cache."
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "product_id": "261",
+  "product": "Detox tea – 7 days",
+  "base_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "scope": "Local drafts only; no commit, push, CMS, purchase or paid generation.",
+  "sources": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+      "sha256": "7de8663f36ff33182d1d9a25ecdbd4b50a0714adbea477dab28a798e908fc53f",
+      "bytes": 17335,
+      "git_blob": "8f1ad7edf459cd852fdb77ae70d4899f4d753b99",
+      "text_nodes": 88,
+      "localized_attribute_nodes": 34,
+      "script_count": 4,
+      "style_count": 1,
+      "table_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+      "sha256": "f4622f02409f2b2439606aaa87a18a18dcfac8302c28bf87bc3ed0ebd2893a51",
+      "bytes": 3119,
+      "git_blob": "c15cbe59ddabb716cf5fb4162c1c7e6b9de27ba5",
+      "text_nodes": 9,
+      "localized_attribute_nodes": 7,
+      "script_count": 1,
+      "style_count": 1,
+      "table_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0
+    }
+  ],
+  "outputs": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-sk.html",
+      "language": "sk",
+      "type": "long",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+      "source_sha256": "7de8663f36ff33182d1d9a25ecdbd4b50a0714adbea477dab28a798e908fc53f",
+      "sha256": "f0a1c284b0c7a2ee49b231919cf09e586fba7e6f72eb2a426ce5a6f9ec71035a",
+      "bytes": 17198,
+      "edits": 99,
+      "reviewed_nodes": 124,
+      "tests": {
+        "reversible_exact_source": true,
+        "css_byte_identical": true,
+        "all_protected_attributes_identical": true,
+        "asset_urls_identical": true,
+        "ids_classes_identical_except_removed_internal_notice": true,
+        "script_logic_identical_after_label_normalization": true,
+        "node_syntax": [
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-sk.script-0.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-sk.script-1.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-sk.script-2.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-sk.script-3.js",
+            "exit_code": 0
+          }
+        ],
+        "factual_numeric_sequence_identical": true,
+        "factual_numeric_sequence": [
+          "7",
+          "14",
+          "2",
+          "7",
+          "14",
+          "14",
+          "2",
+          "7",
+          "2",
+          "14",
+          "7",
+          "7",
+          "11",
+          "7",
+          "14",
+          "7",
+          "1",
+          "2",
+          "25",
+          "11",
+          "7",
+          "14",
+          "7"
+        ],
+        "table_count": 0,
+        "jsonld_count": 0,
+        "seo_meta_count": 0,
+        "no_draft_notice": true
+      }
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-en.html",
+      "language": "en",
+      "type": "long",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+      "source_sha256": "7de8663f36ff33182d1d9a25ecdbd4b50a0714adbea477dab28a798e908fc53f",
+      "sha256": "14408739455a8f4da7723a0f57029e16b19ae1185dc10c16edd8944f92e914ce",
+      "bytes": 17067,
+      "edits": 106,
+      "reviewed_nodes": 124,
+      "tests": {
+        "reversible_exact_source": true,
+        "css_byte_identical": true,
+        "all_protected_attributes_identical": true,
+        "asset_urls_identical": true,
+        "ids_classes_identical_except_removed_internal_notice": true,
+        "script_logic_identical_after_label_normalization": true,
+        "node_syntax": [
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-en.script-0.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-en.script-1.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-en.script-2.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-en.script-3.js",
+            "exit_code": 0
+          }
+        ],
+        "factual_numeric_sequence_identical": true,
+        "factual_numeric_sequence": [
+          "7",
+          "14",
+          "2",
+          "7",
+          "14",
+          "14",
+          "2",
+          "7",
+          "2",
+          "14",
+          "7",
+          "7",
+          "11",
+          "7",
+          "14",
+          "7",
+          "1",
+          "2",
+          "25",
+          "11",
+          "7",
+          "14",
+          "7"
+        ],
+        "table_count": 0,
+        "jsonld_count": 0,
+        "seo_meta_count": 0,
+        "no_draft_notice": true
+      }
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-de.html",
+      "language": "de",
+      "type": "long",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+      "source_sha256": "7de8663f36ff33182d1d9a25ecdbd4b50a0714adbea477dab28a798e908fc53f",
+      "sha256": "29088aa75c1115869cddd1da4deee96d9f04a964340d62d5df48897386e323f5",
+      "bytes": 17565,
+      "edits": 114,
+      "reviewed_nodes": 124,
+      "tests": {
+        "reversible_exact_source": true,
+        "css_byte_identical": true,
+        "all_protected_attributes_identical": true,
+        "asset_urls_identical": true,
+        "ids_classes_identical_except_removed_internal_notice": true,
+        "script_logic_identical_after_label_normalization": true,
+        "node_syntax": [
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-de.script-0.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-de.script-1.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-de.script-2.js",
+            "exit_code": 0
+          },
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-de.script-3.js",
+            "exit_code": 0
+          }
+        ],
+        "factual_numeric_sequence_identical": true,
+        "factual_numeric_sequence": [
+          "7",
+          "14",
+          "2",
+          "7",
+          "14",
+          "14",
+          "2",
+          "7",
+          "2",
+          "14",
+          "7",
+          "7",
+          "11",
+          "7",
+          "14",
+          "7",
+          "1",
+          "2",
+          "25",
+          "11",
+          "7",
+          "14",
+          "7"
+        ],
+        "table_count": 0,
+        "jsonld_count": 0,
+        "seo_meta_count": 0,
+        "no_draft_notice": true
+      }
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-sk.html",
+      "language": "sk",
+      "type": "short",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+      "source_sha256": "f4622f02409f2b2439606aaa87a18a18dcfac8302c28bf87bc3ed0ebd2893a51",
+      "sha256": "44809cf7c8c2e8e08f82307641778475d407f5be8ad71c8fca5a50ef619a0375",
+      "bytes": 2929,
+      "edits": 12,
+      "reviewed_nodes": 16,
+      "tests": {
+        "reversible_exact_source": true,
+        "css_byte_identical": true,
+        "all_protected_attributes_identical": true,
+        "asset_urls_identical": true,
+        "ids_classes_identical_except_removed_internal_notice": true,
+        "script_logic_identical_after_label_normalization": true,
+        "node_syntax": [
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-maly-sk.script-0.js",
+            "exit_code": 0
+          }
+        ],
+        "factual_numeric_sequence_identical": true,
+        "factual_numeric_sequence": [
+          "7",
+          "14",
+          "2"
+        ],
+        "table_count": 0,
+        "jsonld_count": 0,
+        "seo_meta_count": 0,
+        "no_draft_notice": true
+      }
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-en.html",
+      "language": "en",
+      "type": "short",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+      "source_sha256": "f4622f02409f2b2439606aaa87a18a18dcfac8302c28bf87bc3ed0ebd2893a51",
+      "sha256": "2039ea4196ab597a9cbe9523f3f1a5ae23f8622cb0f629ae2e33b3b5939b3166",
+      "bytes": 2887,
+      "edits": 16,
+      "reviewed_nodes": 16,
+      "tests": {
+        "reversible_exact_source": true,
+        "css_byte_identical": true,
+        "all_protected_attributes_identical": true,
+        "asset_urls_identical": true,
+        "ids_classes_identical_except_removed_internal_notice": true,
+        "script_logic_identical_after_label_normalization": true,
+        "node_syntax": [
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-maly-en.script-0.js",
+            "exit_code": 0
+          }
+        ],
+        "factual_numeric_sequence_identical": true,
+        "factual_numeric_sequence": [
+          "7",
+          "14",
+          "2"
+        ],
+        "table_count": 0,
+        "jsonld_count": 0,
+        "seo_meta_count": 0,
+        "no_draft_notice": true
+      }
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-de.html",
+      "language": "de",
+      "type": "short",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+      "source_sha256": "f4622f02409f2b2439606aaa87a18a18dcfac8302c28bf87bc3ed0ebd2893a51",
+      "sha256": "933bda28d6274d35da0a93e327c28c270a12b77fc535b2d4767c3f165f5d255d",
+      "bytes": 3024,
+      "edits": 16,
+      "reviewed_nodes": 16,
+      "tests": {
+        "reversible_exact_source": true,
+        "css_byte_identical": true,
+        "all_protected_attributes_identical": true,
+        "asset_urls_identical": true,
+        "ids_classes_identical_except_removed_internal_notice": true,
+        "script_logic_identical_after_label_normalization": true,
+        "node_syntax": [
+          {
+            "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/Golden-Life-Detoxikacni-Caj-7-Dni-maly-de.script-0.js",
+            "exit_code": 0
+          }
+        ],
+        "factual_numeric_sequence_identical": true,
+        "factual_numeric_sequence": [
+          "7",
+          "14",
+          "2"
+        ],
+        "table_count": 0,
+        "jsonld_count": 0,
+        "seo_meta_count": 0,
+        "no_draft_notice": true
+      }
+    }
+  ],
+  "output_count": 6,
+  "translation_inventory": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/translation-inventory.json",
+  "claims_ledger": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/claims-risk-ledger.json",
+  "claims_risk_sentence_count": 23,
+  "exceptions": [
+    {
+      "type": "internal-notice-removed",
+      "exact_source": "<p class=\"gl-draft-note\"><strong>INTERNÍ PRACOVNÍ NÁVRH — NEPUBLIKOVAT.</strong> Původní účinková tvrzení jsou zachována pro obsahové posouzení; nejde o schválenou komunikaci.</p>",
+      "applies_to": "all six variants",
+      "reason": "Internal review notices must stay out of customer-facing HTML; CZ untouched."
+    },
+    {
+      "type": "stale-offer-rating-fallback-inventory",
+      "found": false,
+      "details": "Exact current CZ pair contains no price amount, stock/dispatch promise, JSON-LD offers or ratings, and no price fallback. Current-price-and-availability-above wording translated. No currency conversion or offer invented."
+    },
+    {
+      "type": "technical-Czech-identifiers-retained",
+      "details": "CSS theme/layout, classes, IDs, data-gl-ingredient names and all source URLs retained verbatim as technical identifiers, not customer-facing copy."
+    },
+    {
+      "type": "source-structure",
+      "details": "No source META/SEO attributes, JSON-LD, composition table or heading-matching JS regex exists in this exact 7-day pair. Every existing content node, alt/aria and mobile label inventoried. Four original herb dialogs are complete; no content borrowed from 30-day sibling."
+    }
+  ],
+  "open_risks": [
+    "Inherited detoxification, inflammation, sleep, immunity, weight-loss and disease-prevention claims require review before publication; see exact-sentence ledger.",
+    "Source organic/portioned wording and loose-teaspoon dose are retained without choosing a new sales form.",
+    "Short source omits the supplement disclaimer; full translated long description retains the complete mandatory source disclaimer and restrictions.",
+    "Browser QA is isolated with pinned repository CSS/JS and authentic cached PNGs, not a live CMS/native-purchase or real-shop font test. Unused external Material Symbols CSS import is blocked; no symbols font is used for these PNG pictograms."
+  ],
+  "browser_qa": {
+    "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/browser-qa.json",
+    "chromium_version": "156.0.8078.4",
+    "scenario_count": 21,
+    "all_checks_pass": true,
+    "dialog_pointer_open_close_count": 45,
+    "authentic_cached_image_urls": 23,
+    "page_errors": [],
+    "isolated_only": true,
+    "short_narrow_host_checks": 12
+  },
+  "typographic_localization": [
+    {
+      "language": "de",
+      "source": "Složení a použití",
+      "target": "Zusammen­setzung und Anwendung",
+      "reason": "Discretionary hyphenation only; preserves wording while fitting narrow source-template hosts without CSS changes."
+    },
+    {
+      "language": "en",
+      "source": "Podporuje detoxikaci",
+      "target": "Supports detoxifi­cation",
+      "reason": "Discretionary hyphenation only; preserves wording while fitting narrow source-template hosts without CSS changes."
+    },
+    {
+      "language": "de",
+      "source": "Zlepšuje kvalitu spánku",
+      "target": "Verbessert die Schlaf­qualität",
+      "reason": "Discretionary hyphenation only; preserves wording while fitting narrow source-template hosts without CSS changes."
+    },
+    {
+      "language": "de",
+      "source": "Odolnější imunitní systém",
+      "target": "Robusteres Immun­system",
+      "reason": "Discretionary hyphenation only; preserves wording while fitting narrow source-template hosts without CSS changes."
+    },
+    {
+      "language": "de",
+      "source": "Psychická pohoda",
+      "target": "Seelisches Wohl­befinden",
+      "reason": "Discretionary hyphenation only; preserves wording while fitting narrow source-template hosts without CSS changes."
+    }
+  ],
+  "claims_review_basis": {
+    "source": "Exact pinned current CZ HTML plus brand/RULES.md; no publication or clinical/legal approval implied.",
+    "brand_not_allowed_file": "/root/workspace/brand/NOT-ALLOWED.md not present; no substitute approval inferred.",
+    "scope": "Faithful internal translation; effect copy unchanged in meaning and flagged separately."
+  },
+  "source_omissions": {
+    "seo_meta": 0,
+    "jsonld": 0,
+    "tables": 0,
+    "title_matching_regexes": 0,
+    "hardcoded_price_stock_dispatch_or_rating_fallbacks": 0
+  },
+  "visual_review": {
+    "method": "Direct inspection of real Chromium desktop/mobile PNG screenshots; final German short and herb/usage crop also re-inspected after final typography and swipe-reset QA changes.",
+    "result": "Green template and actual source packshots/PNG pictograms painted; readable localized banner and captions; complete first swipe card, original horizontal herb swipe preserved; no visible internal draft notice. Original Czech text embedded in unchanged packshot artwork intentionally retained.",
+    "screenshots": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-1280-knotgrass-dialog.png",
+        "sha256": "d0dd0efc7b86bec3a1f7365650760f82c27f56c6f01686f98ab919dd77c0c285"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-1280-long.png",
+        "sha256": "764708ec10eb6a425383512160d16b6f56d4e7f1af06eeff29eae80769bce555"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-1280-pair-top.png",
+        "sha256": "4aa3a0848683a156123592465773774c4fb1febc9dede7583ed2c8ec3f87d1f8"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-1280-short.png",
+        "sha256": "b7dd499b8b2cfedbb9cc5c173f851df8e45fb7a85954323d2f668cf7fb730de4"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-390-knotgrass-dialog.png",
+        "sha256": "502f3b1d1b75668f31266b04fe7a6c7a11dc96db7a064a6ee100466ff5d2b2c0"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-390-long.png",
+        "sha256": "931cb8f07a0223b28c674c4bd7da113d9715b535f8be972e2267e92ea8bc94b5"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-390-pair-top.png",
+        "sha256": "97604dad55afba194ed012219a46239ce7e151755597627dfda099c08538fbf9"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/de-390-short.png",
+        "sha256": "e68f7bb14e2cd2a6b04f79dd06f4779a2af1aa2c57afcf2caafb3a954d0737b0"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-1280-knotgrass-dialog.png",
+        "sha256": "e3102fe58b4208cf191e4ba640e4a30db61f7fcc2af199b1f8addd1c376fb1f8"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-1280-long.png",
+        "sha256": "f50640d9c8c8057487a23a9ddb3b4c5906436f7093e477e331d7a86efaf1dd48"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-1280-pair-top.png",
+        "sha256": "66fe5efcbc20e5c2b3015826c272ccbce09f3d2815bf0fb80bc9cb24c8fe3ba5"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-1280-short.png",
+        "sha256": "32cbf317a227d82c33258baac9c7b224c14ef5a4b5cfb418dcc3f6dce567394a"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-390-knotgrass-dialog.png",
+        "sha256": "dd66b9840d410b41beb44eac5064b866cec7ff0210de484cae8b22bb18100c2e"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-390-long.png",
+        "sha256": "1c21a0c763c572b36b20ee98565240f13c30a2fbda5f4023d3b419ac098e7e64"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-390-pair-top.png",
+        "sha256": "62f395367520deaa3a809bee7d56680f8d46d970c79b191fc69fbb91576820b3"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/en-390-short.png",
+        "sha256": "cf34ba27ac7d963a745fd54fc222f21a261a0c0dae92e016b6ccfb65037b6511"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-1280-knotgrass-dialog.png",
+        "sha256": "c571621226ccb87b68561876c93f47ec5b0ba2ac400923e427e7f4d4b67fb3cb"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-1280-long.png",
+        "sha256": "b112dce9f615d26c7e816551b859e6f41512238f7ee0458cec47cce82319316e"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-1280-pair-top.png",
+        "sha256": "5e489a3be89b853db027dc204a38dd2c5c0321f54695bf02a99da40ea4782c69"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-1280-short.png",
+        "sha256": "873a975e60827b140cb5ad0054db813fddd8d0c811593329e37555f87cf4579b"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-390-knotgrass-dialog.png",
+        "sha256": "8647646c80c9ed28de271eda3da1b2a4c5f3676d8a9e12d3ff2552e489f2dcc4"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-390-long.png",
+        "sha256": "9904b071c27f0d98f7bac5a26588493cd17a27cb47bcd84352f17fd15f896df0"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-390-pair-top.png",
+        "sha256": "fdbb18fb5e968cd6b13ec959ee2d45b837dd89e3c0a8f8fddb7259809d7ebfbf"
+      },
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/screenshots/sk-390-short.png",
+        "sha256": "e91e9b31379acd36915efd48d4820e17c9fb2d0a8d93ca9060f391450fe84575"
+      }
+    ],
+    "limitations": "Isolated host with default Arial fallback, not native shop/Metropolis-font, CMS, real-device or checkout proof."
+  },
+  "final_verification": {
+    "six_unique_html_files": true,
+    "source_bytes_equal_pinned_commit": true,
+    "source_czech_files_unchanged": true,
+    "final_output_hashes_match_browser_tested_bytes": true,
+    "browser_scenarios_passed": 21,
+    "narrow_host_tests_passed": 12,
+    "script_syntax_checks_passed": 15,
+    "dialog_pointer_open_close_pairs": 45,
+    "formal_address_review": "SK: Oživte, Očistite, nájdete, Neprekračujte; DE: Lassen Sie, Ihren, finden Sie, Überschreiten Sie; EN: professional customer-directed copy without informal address. All source user-facing text/alt/ARIA/mobile literals inventoried; identifiers and packshot artwork intentionally not translated.",
+    "no_commit_push_cms_or_paid_generation": true
+  },
+  "asset_qa": {
+    "manifest": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/261/assets/manifest.json",
+    "unique_source_image_urls": 23,
+    "authentic_image_responses_status_200": 23,
+    "all_scenario_images_loaded": true,
+    "painted_png_icon_checks": 66,
+    "source_asset_urls_unchanged": true
+  },
+  "build_scripts": [
+    "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/261/translations.json",
+    "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/261/build.py",
+    "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/261/cache_assets.py",
+    "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/261/browser_qa.py",
+    "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/261/finalize.py"
+  ],
+  "status": "complete-internal-translation-drafts-with-open-source-claims-review"
+}

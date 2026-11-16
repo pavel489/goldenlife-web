@@ -1,0 +1,1252 @@
+{
+  "warning": "INTERNAL WORKING TRANSLATIONS ONLY. Product-specific health-claim/legal approval is missing. Source benefit and medical language has been faithfully translated, not approved for publication. Do not publish pending claims review. No internal warnings are embedded in customer HTML.",
+  "claims": [
+    {
+      "inventory_index": 19,
+      "source_exact": "Detoxikační čaj | Podpora detoxikace a imunity na 30 dní",
+      "translations": {
+        "sk": "Detoxikačný čaj | Podpora detoxikácie a imunity na 30 dní",
+        "en": "Detox Tea | Detoxification and immune support for 30 days",
+        "de": "Detox-Tee | Unterstützung der Entgiftung und der Immunität für 30 Tage"
+      },
+      "source_sentences_exact": [
+        "Detoxikační čaj | Podpora detoxikace a imunity na 30 dní"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Detoxikačný čaj | Podpora detoxikácie a imunity na 30 dní"
+        ],
+        "en": [
+          "Detox Tea | Detoxification and immune support for 30 days"
+        ],
+        "de": [
+          "Detox-Tee | Unterstützung der Entgiftung und der Immunität für 30 Tage"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 24,
+      "source_exact": " speciálně vybraných pro podporu detoxikace organismu, posouzení imunity a zlepšení celkové vitality. Tato unikátní směs přináší komplexní péči o vaše tělo a pomáhá zvyšovat energii, snižovat stres a zlepšovat kvalitu spánku.",
+      "translations": {
+        "sk": " špeciálne vybraných na podporu detoxikácie organizmu, posúdenie imunity a zlepšenie celkovej vitality. Táto jedinečná zmes prináša komplexnú starostlivosť o vaše telo a pomáha zvyšovať energiu, znižovať stres a zlepšovať kvalitu spánku.",
+        "en": " specially selected to support detoxification of the body, assessment of immunity and improvement of overall vitality. This unique blend provides comprehensive care for your body and helps increase energy, reduce stress and improve sleep quality.",
+        "de": ", die speziell zur Unterstützung der Entgiftung des Körpers, zur Beurteilung der Immunität und zur Verbesserung der allgemeinen Vitalität ausgewählt wurden. Diese einzigartige Mischung bietet umfassende Pflege für Ihren Körper und hilft, die Energie zu steigern, Stress zu reduzieren und die Schlafqualität zu verbessern."
+      },
+      "source_sentences_exact": [
+        " speciálně vybraných pro podporu detoxikace organismu, posouzení imunity a zlepšení celkové vitality.",
+        " Tato unikátní směs přináší komplexní péči o vaše tělo a pomáhá zvyšovat energii, snižovat stres a zlepšovat kvalitu spánku."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          " špeciálne vybraných na podporu detoxikácie organizmu, posúdenie imunity a zlepšenie celkovej vitality.",
+          " Táto jedinečná zmes prináša komplexnú starostlivosť o vaše telo a pomáha zvyšovať energiu, znižovať stres a zlepšovať kvalitu spánku."
+        ],
+        "en": [
+          " specially selected to support detoxification of the body, assessment of immunity and improvement of overall vitality.",
+          " This unique blend provides comprehensive care for your body and helps increase energy, reduce stress and improve sleep quality."
+        ],
+        "de": [
+          ", die speziell zur Unterstützung der Entgiftung des Körpers, zur Beurteilung der Immunität und zur Verbesserung der allgemeinen Vitalität ausgewählt wurden.",
+          " Diese einzigartige Mischung bietet umfassende Pflege für Ihren Körper und hilft, die Energie zu steigern, Stress zu reduzieren und die Schlafqualität zu verbessern."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 2,
+        "sk": 2,
+        "en": 2,
+        "de": 2
+      }
+    },
+    {
+      "inventory_index": 26,
+      "source_exact": "Podporuje detoxikaci",
+      "translations": {
+        "sk": "Podporuje detoxikáciu",
+        "en": "Supports detoxification",
+        "de": "Unterstützt die Entgiftung"
+      },
+      "source_sentences_exact": [
+        "Podporuje detoxikaci"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Podporuje detoxikáciu"
+        ],
+        "en": [
+          "Supports detoxification"
+        ],
+        "de": [
+          "Unterstützt die Entgiftung"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 27,
+      "source_exact": "Snížení únavy",
+      "translations": {
+        "sk": "Zníženie únavy",
+        "en": "Fatigue reduction",
+        "de": "Weniger Müdigkeit"
+      },
+      "source_sentences_exact": [
+        "Snížení únavy"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Zníženie únavy"
+        ],
+        "en": [
+          "Fatigue reduction"
+        ],
+        "de": [
+          "Weniger Müdigkeit"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 28,
+      "source_exact": "Zlepšuje kvalitu spánku",
+      "translations": {
+        "sk": "Zlepšuje kvalitu spánku",
+        "en": "Improves sleep quality",
+        "de": "Verbessert die Schlafqualität"
+      },
+      "source_sentences_exact": [
+        "Zlepšuje kvalitu spánku"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Zlepšuje kvalitu spánku"
+        ],
+        "en": [
+          "Improves sleep quality"
+        ],
+        "de": [
+          "Verbessert die Schlafqualität"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 29,
+      "source_exact": "Odolnější imunitní systém",
+      "translations": {
+        "sk": "Odolnejší imunitný systém",
+        "en": "A more resilient immune system",
+        "de": "Robusteres Immunsystem"
+      },
+      "source_sentences_exact": [
+        "Odolnější imunitní systém"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Odolnejší imunitný systém"
+        ],
+        "en": [
+          "A more resilient immune system"
+        ],
+        "de": [
+          "Robusteres Immunsystem"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 30,
+      "source_exact": "Psychická pohoda",
+      "translations": {
+        "sk": "Psychická pohoda",
+        "en": "Mental well-being",
+        "de": "Psychisches Wohlbefinden"
+      },
+      "source_sentences_exact": [
+        "Psychická pohoda"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Psychická pohoda"
+        ],
+        "en": [
+          "Mental well-being"
+        ],
+        "de": [
+          "Psychisches Wohlbefinden"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 33,
+      "source_exact": "Očistěte své tělo od toxinů, které zatěžují váš organismus. Naše pečlivě vybrané bylinky mají unikátní schopnost přirozeně podporovat obranyschopnost těla, čistí trávicí systém a podporují celkovou vitalitu. Vyvážená směs léčivých bylin dodává energii, podporuje zdravé hubnoutí a pomůže vám na cestě za vysněnou postavou. Čaj je bohatý na živiny a antioxidanty, posiluje imunitu a odolnost vůči každodennímu stresu, infekcím, nachlazení a dalším výzvam.",
+      "translations": {
+        "sk": "Očistite svoje telo od toxínov, ktoré zaťažujú váš organizmus. Naše starostlivo vybrané bylinky majú jedinečnú schopnosť prirodzene podporovať obranyschopnosť tela, čistia tráviaci systém a podporujú celkovú vitalitu. Vyvážená zmes liečivých bylín dodáva energiu, podporuje zdravé chudnutie a pomôže vám na ceste za vysnívanou postavou. Čaj je bohatý na živiny a antioxidanty, posilňuje imunitu a odolnosť voči každodennému stresu, infekciám, prechladnutiu a ďalším výzvam.",
+        "en": "Cleanse your body of the toxins that burden it. Our carefully selected herbs have a unique ability to naturally support the body's defences, cleanse the digestive system and support overall vitality. The balanced blend of medicinal herbs provides energy, supports healthy weight loss and helps you on your journey towards your dream figure. The tea is rich in nutrients and antioxidants, strengthens immunity and resistance to everyday stress, infections, colds and other challenges.",
+        "de": "Reinigen Sie Ihren Körper von Giftstoffen, die Ihren Organismus belasten. Unsere sorgfältig ausgewählten Kräuter haben die einzigartige Fähigkeit, die körpereigenen Abwehrkräfte auf natürliche Weise zu unterstützen, das Verdauungssystem zu reinigen und die allgemeine Vitalität zu fördern. Die ausgewogene Heilkräutermischung liefert Energie, unterstützt eine gesunde Gewichtsabnahme und hilft Ihnen auf dem Weg zu Ihrer Wunschfigur. Der Tee ist reich an Nährstoffen und Antioxidantien, stärkt die Immunität und die Widerstandskraft gegen Alltagsstress, Infektionen, Erkältungen und weitere Herausforderungen."
+      },
+      "source_sentences_exact": [
+        "Očistěte své tělo od toxinů, které zatěžují váš organismus.",
+        " Naše pečlivě vybrané bylinky mají unikátní schopnost přirozeně podporovat obranyschopnost těla, čistí trávicí systém a podporují celkovou vitalitu.",
+        " Vyvážená směs léčivých bylin dodává energii, podporuje zdravé hubnoutí a pomůže vám na cestě za vysněnou postavou.",
+        " Čaj je bohatý na živiny a antioxidanty, posiluje imunitu a odolnost vůči každodennímu stresu, infekcím, nachlazení a dalším výzvam."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Očistite svoje telo od toxínov, ktoré zaťažujú váš organizmus.",
+          " Naše starostlivo vybrané bylinky majú jedinečnú schopnosť prirodzene podporovať obranyschopnosť tela, čistia tráviaci systém a podporujú celkovú vitalitu.",
+          " Vyvážená zmes liečivých bylín dodáva energiu, podporuje zdravé chudnutie a pomôže vám na ceste za vysnívanou postavou.",
+          " Čaj je bohatý na živiny a antioxidanty, posilňuje imunitu a odolnosť voči každodennému stresu, infekciám, prechladnutiu a ďalším výzvam."
+        ],
+        "en": [
+          "Cleanse your body of the toxins that burden it.",
+          " Our carefully selected herbs have a unique ability to naturally support the body's defences, cleanse the digestive system and support overall vitality.",
+          " The balanced blend of medicinal herbs provides energy, supports healthy weight loss and helps you on your journey towards your dream figure.",
+          " The tea is rich in nutrients and antioxidants, strengthens immunity and resistance to everyday stress, infections, colds and other challenges."
+        ],
+        "de": [
+          "Reinigen Sie Ihren Körper von Giftstoffen, die Ihren Organismus belasten.",
+          " Unsere sorgfältig ausgewählten Kräuter haben die einzigartige Fähigkeit, die körpereigenen Abwehrkräfte auf natürliche Weise zu unterstützen, das Verdauungssystem zu reinigen und die allgemeine Vitalität zu fördern.",
+          " Die ausgewogene Heilkräutermischung liefert Energie, unterstützt eine gesunde Gewichtsabnahme und hilft Ihnen auf dem Weg zu Ihrer Wunschfigur.",
+          " Der Tee ist reich an Nährstoffen und Antioxidantien, stärkt die Immunität und die Widerstandskraft gegen Alltagsstress, Infektionen, Erkältungen und weitere Herausforderungen."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 4,
+        "sk": 4,
+        "en": 4,
+        "de": 4
+      }
+    },
+    {
+      "inventory_index": 35,
+      "source_exact": "Pomáhá ulevit organismu od škodlivých látek a toxinů;",
+      "translations": {
+        "sk": "Pomáha zbaviť organizmus škodlivých látok a toxínov;",
+        "en": "Helps rid the body of harmful substances and toxins;",
+        "de": "Hilft, den Körper von Schadstoffen und Giftstoffen zu befreien;"
+      },
+      "source_sentences_exact": [
+        "Pomáhá ulevit organismu od škodlivých látek a toxinů;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Pomáha zbaviť organizmus škodlivých látok a toxínov;"
+        ],
+        "en": [
+          "Helps rid the body of harmful substances and toxins;"
+        ],
+        "de": [
+          "Hilft, den Körper von Schadstoffen und Giftstoffen zu befreien;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 36,
+      "source_exact": "Podporuje správnou funkci orgánů;",
+      "translations": {
+        "sk": "Podporuje správnu funkciu orgánov;",
+        "en": "Supports proper organ function;",
+        "de": "Unterstützt die richtige Funktion der Organe;"
+      },
+      "source_sentences_exact": [
+        "Podporuje správnou funkci orgánů;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Podporuje správnu funkciu orgánov;"
+        ],
+        "en": [
+          "Supports proper organ function;"
+        ],
+        "de": [
+          "Unterstützt die richtige Funktion der Organe;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 37,
+      "source_exact": "Přispívá k posílení imunity;",
+      "translations": {
+        "sk": "Prispieva k posilneniu imunity;",
+        "en": "Contributes to strengthening immunity;",
+        "de": "Trägt zur Stärkung der Immunität bei;"
+      },
+      "source_sentences_exact": [
+        "Přispívá k posílení imunity;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Prispieva k posilneniu imunity;"
+        ],
+        "en": [
+          "Contributes to strengthening immunity;"
+        ],
+        "de": [
+          "Trägt zur Stärkung der Immunität bei;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 38,
+      "source_exact": "Dodává energii a dobrou náladu.",
+      "translations": {
+        "sk": "Dodáva energiu a dobrú náladu.",
+        "en": "Provides energy and a good mood.",
+        "de": "Sorgt für Energie und gute Laune."
+      },
+      "source_sentences_exact": [
+        "Dodává energii a dobrou náladu."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Dodáva energiu a dobrú náladu."
+        ],
+        "en": [
+          "Provides energy and a good mood."
+        ],
+        "de": [
+          "Sorgt für Energie und gute Laune."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 39,
+      "source_exact": "Směs bylinek má pozitivní vliv na dobrou funkci močových cest, odvádí z těla přebytečnou vodu",
+      "translations": {
+        "sk": "Zmes byliniek má pozitívny vplyv na dobrú funkciu močových ciest, odvádza z tela prebytočnú vodu",
+        "en": "The herbal blend has a positive effect on proper urinary tract function and removes excess water from the body",
+        "de": "Die Kräutermischung wirkt sich positiv auf die gute Funktion der Harnwege aus und leitet überschüssiges Wasser aus dem Körper aus"
+      },
+      "source_sentences_exact": [
+        "Směs bylinek má pozitivní vliv na dobrou funkci močových cest, odvádí z těla přebytečnou vodu"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Zmes byliniek má pozitívny vplyv na dobrú funkciu močových ciest, odvádza z tela prebytočnú vodu"
+        ],
+        "en": [
+          "The herbal blend has a positive effect on proper urinary tract function and removes excess water from the body"
+        ],
+        "de": [
+          "Die Kräutermischung wirkt sich positiv auf die gute Funktion der Harnwege aus und leitet überschüssiges Wasser aus dem Körper aus"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 40,
+      "source_exact": "Podporuje zdravé trávení a metabolismus tuků;",
+      "translations": {
+        "sk": "Podporuje zdravé trávenie a metabolizmus tukov;",
+        "en": "Supports healthy digestion and fat metabolism;",
+        "de": "Unterstützt eine gesunde Verdauung und den Fettstoffwechsel;"
+      },
+      "source_sentences_exact": [
+        "Podporuje zdravé trávení a metabolismus tuků;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Podporuje zdravé trávenie a metabolizmus tukov;"
+        ],
+        "en": [
+          "Supports healthy digestion and fat metabolism;"
+        ],
+        "de": [
+          "Unterstützt eine gesunde Verdauung und den Fettstoffwechsel;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 41,
+      "source_exact": "Posiluje přirozenou obranyschopnost a imunitní systém, působí jako prevence proti infekcím a nachlazení, pomáhá při kašli;",
+      "translations": {
+        "sk": "Posilňuje prirodzenú obranyschopnosť a imunitný systém, pôsobí ako prevencia proti infekciám a prechladnutiu, pomáha pri kašli;",
+        "en": "Strengthens natural defences and the immune system, helps prevent infections and colds, and helps with coughs;",
+        "de": "Stärkt die natürlichen Abwehrkräfte und das Immunsystem, beugt Infektionen und Erkältungen vor und hilft bei Husten;"
+      },
+      "source_sentences_exact": [
+        "Posiluje přirozenou obranyschopnost a imunitní systém, působí jako prevence proti infekcím a nachlazení, pomáhá při kašli;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Posilňuje prirodzenú obranyschopnosť a imunitný systém, pôsobí ako prevencia proti infekciám a prechladnutiu, pomáha pri kašli;"
+        ],
+        "en": [
+          "Strengthens natural defences and the immune system, helps prevent infections and colds, and helps with coughs;"
+        ],
+        "de": [
+          "Stärkt die natürlichen Abwehrkräfte und das Immunsystem, beugt Infektionen und Erkältungen vor und hilft bei Husten;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 42,
+      "source_exact": "Zpevňuje cévy díky obsahu rutinu, napomáhá jejich správné pružnosti, pomáhá při křečových žilách a bolestech s nimi spojenými;",
+      "translations": {
+        "sk": "Spevňuje cievy vďaka obsahu rutínu, napomáha ich správnej pružnosti, pomáha pri kŕčových žilách a bolestiach s nimi spojených;",
+        "en": "Strengthens blood vessels thanks to its rutin content, supports their proper elasticity, and helps with varicose veins and associated pain;",
+        "de": "Stärkt dank ihres Rutingehalts die Blutgefäße, fördert deren richtige Elastizität und hilft bei Krampfadern und den damit verbundenen Schmerzen;"
+      },
+      "source_sentences_exact": [
+        "Zpevňuje cévy díky obsahu rutinu, napomáhá jejich správné pružnosti, pomáhá při křečových žilách a bolestech s nimi spojenými;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Spevňuje cievy vďaka obsahu rutínu, napomáha ich správnej pružnosti, pomáha pri kŕčových žilách a bolestiach s nimi spojených;"
+        ],
+        "en": [
+          "Strengthens blood vessels thanks to its rutin content, supports their proper elasticity, and helps with varicose veins and associated pain;"
+        ],
+        "de": [
+          "Stärkt dank ihres Rutingehalts die Blutgefäße, fördert deren richtige Elastizität und hilft bei Krampfadern und den damit verbundenen Schmerzen;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 43,
+      "source_exact": "Dokáže ulevit od nespavosti, nadměrného stresu a úzkosti;",
+      "translations": {
+        "sk": "Dokáže uľaviť od nespavosti, nadmerného stresu a úzkosti;",
+        "en": "Can relieve insomnia, excessive stress and anxiety;",
+        "de": "Kann Schlaflosigkeit, übermäßigen Stress und Angstzustände lindern;"
+      },
+      "source_sentences_exact": [
+        "Dokáže ulevit od nespavosti, nadměrného stresu a úzkosti;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Dokáže uľaviť od nespavosti, nadmerného stresu a úzkosti;"
+        ],
+        "en": [
+          "Can relieve insomnia, excessive stress and anxiety;"
+        ],
+        "de": [
+          "Kann Schlaflosigkeit, übermäßigen Stress und Angstzustände lindern;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 44,
+      "source_exact": "Odstraňuje noční pocení, uvolňuje větry, navrací chuť k jídlu;",
+      "translations": {
+        "sk": "Odstraňuje nočné potenie, uvoľňuje vetry, navracia chuť do jedla;",
+        "en": "Eliminates night sweats, relieves wind and restores appetite;",
+        "de": "Beseitigt nächtliches Schwitzen, lindert Blähungen und stellt den Appetit wieder her;"
+      },
+      "source_sentences_exact": [
+        "Odstraňuje noční pocení, uvolňuje větry, navrací chuť k jídlu;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Odstraňuje nočné potenie, uvoľňuje vetry, navracia chuť do jedla;"
+        ],
+        "en": [
+          "Eliminates night sweats, relieves wind and restores appetite;"
+        ],
+        "de": [
+          "Beseitigt nächtliches Schwitzen, lindert Blähungen und stellt den Appetit wieder her;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 45,
+      "source_exact": "Má dezinfekční a protizánětlivé účinky;",
+      "translations": {
+        "sk": "Má dezinfekčné a protizápalové účinky;",
+        "en": "Has disinfectant and anti-inflammatory effects;",
+        "de": "Hat desinfizierende und entzündungshemmende Wirkungen;"
+      },
+      "source_sentences_exact": [
+        "Má dezinfekční a protizánětlivé účinky;"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Má dezinfekčné a protizápalové účinky;"
+        ],
+        "en": [
+          "Has disinfectant and anti-inflammatory effects;"
+        ],
+        "de": [
+          "Hat desinfizierende und entzündungshemmende Wirkungen;"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 46,
+      "source_exact": "Prospívá zdraví pokožky, vlasů a nehtů.",
+      "translations": {
+        "sk": "Prospieva zdraviu pokožky, vlasov a nechtov.",
+        "en": "Benefits the health of the skin, hair and nails.",
+        "de": "Fördert die Gesundheit von Haut, Haaren und Nägeln."
+      },
+      "source_sentences_exact": [
+        "Prospívá zdraví pokožky, vlasů a nehtů."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Prospieva zdraviu pokožky, vlasov a nechtov."
+        ],
+        "en": [
+          "Benefits the health of the skin, hair and nails."
+        ],
+        "de": [
+          "Fördert die Gesundheit von Haut, Haaren und Nägeln."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 49,
+      "source_exact": "Tato bylina se tradičně využívá, pro své pozitivní účinky na psychiku, k léčbě úzkosti, stresu a nespavosti.",
+      "translations": {
+        "sk": "Táto bylina sa tradične využíva pre svoje pozitívne účinky na psychiku na liečbu úzkosti, stresu a nespavosti.",
+        "en": "This herb is traditionally used for its positive effects on mental health to treat anxiety, stress and insomnia.",
+        "de": "Dieses Kraut wird traditionell wegen seiner positiven Wirkung auf die Psyche zur Behandlung von Angstzuständen, Stress und Schlaflosigkeit verwendet."
+      },
+      "source_sentences_exact": [
+        "Tato bylina se tradičně využívá, pro své pozitivní účinky na psychiku, k léčbě úzkosti, stresu a nespavosti."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Táto bylina sa tradične využíva pre svoje pozitívne účinky na psychiku na liečbu úzkosti, stresu a nespavosti."
+        ],
+        "en": [
+          "This herb is traditionally used for its positive effects on mental health to treat anxiety, stress and insomnia."
+        ],
+        "de": [
+          "Dieses Kraut wird traditionell wegen seiner positiven Wirkung auf die Psyche zur Behandlung von Angstzuständen, Stress und Schlaflosigkeit verwendet."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 53,
+      "source_exact": "Je jedním z nejbohatších přírodních zdrojů vitamínu C, který pomáhá posilovat imunitní systém, chránit buňky před poškozením volnými radikály a podporovat zdraví kůže.",
+      "translations": {
+        "sk": "Sú jedným z najbohatších prírodných zdrojov vitamínu C, ktorý pomáha posilňovať imunitný systém, chrániť bunky pred poškodením voľnými radikálmi a podporovať zdravie kože.",
+        "en": "It is one of the richest natural sources of vitamin C, which helps strengthen the immune system, protect cells from free radical damage and support skin health.",
+        "de": "Sie gehört zu den reichhaltigsten natürlichen Quellen für Vitamin C, das hilft, das Immunsystem zu stärken, die Zellen vor Schäden durch freie Radikale zu schützen und die Hautgesundheit zu unterstützen."
+      },
+      "source_sentences_exact": [
+        "Je jedním z nejbohatších přírodních zdrojů vitamínu C, který pomáhá posilovat imunitní systém, chránit buňky před poškozením volnými radikály a podporovat zdraví kůže."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Sú jedným z najbohatších prírodných zdrojov vitamínu C, ktorý pomáha posilňovať imunitný systém, chrániť bunky pred poškodením voľnými radikálmi a podporovať zdravie kože."
+        ],
+        "en": [
+          "It is one of the richest natural sources of vitamin C, which helps strengthen the immune system, protect cells from free radical damage and support skin health."
+        ],
+        "de": [
+          "Sie gehört zu den reichhaltigsten natürlichen Quellen für Vitamin C, das hilft, das Immunsystem zu stärken, die Zellen vor Schäden durch freie Radikale zu schützen und die Hautgesundheit zu unterstützen."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 56,
+      "source_exact": "Je známá svými uklidnujícími vlastnostmi.",
+      "translations": {
+        "sk": "Je známa svojimi upokojujúcimi vlastnosťami.",
+        "en": "It is known for its calming properties.",
+        "de": "Sie ist für ihre beruhigenden Eigenschaften bekannt."
+      },
+      "source_sentences_exact": [
+        "Je známá svými uklidnujícími vlastnostmi."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Je známa svojimi upokojujúcimi vlastnosťami."
+        ],
+        "en": [
+          "It is known for its calming properties."
+        ],
+        "de": [
+          "Sie ist für ihre beruhigenden Eigenschaften bekannt."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 59,
+      "source_exact": "Obsahuje křemík, minerál důležitý pro tvorbu kolagenu a elastinu, což jsou základní složky zdravé kůže, vlasů a nehtů.",
+      "translations": {
+        "sk": "Obsahuje kremík, minerál dôležitý pre tvorbu kolagénu a elastínu, ktoré sú základnými zložkami zdravej kože, vlasov a nechtov.",
+        "en": "It contains silicon, a mineral important for the formation of collagen and elastin, which are essential components of healthy skin, hair and nails.",
+        "de": "Er enthält Silizium, einen Mineralstoff, der für die Bildung von Kollagen und Elastin wichtig ist, den Grundbestandteilen gesunder Haut, Haare und Nägel."
+      },
+      "source_sentences_exact": [
+        "Obsahuje křemík, minerál důležitý pro tvorbu kolagenu a elastinu, což jsou základní složky zdravé kůže, vlasů a nehtů."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Obsahuje kremík, minerál dôležitý pre tvorbu kolagénu a elastínu, ktoré sú základnými zložkami zdravej kože, vlasov a nechtov."
+        ],
+        "en": [
+          "It contains silicon, a mineral important for the formation of collagen and elastin, which are essential components of healthy skin, hair and nails."
+        ],
+        "de": [
+          "Er enthält Silizium, einen Mineralstoff, der für die Bildung von Kollagen und Elastin wichtig ist, den Grundbestandteilen gesunder Haut, Haare und Nägel."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 62,
+      "source_exact": "Se tradičně využívá pro své uklidňující účinky na trávicí systém.",
+      "translations": {
+        "sk": "Tradične sa využíva pre svoje upokojujúce účinky na tráviaci systém.",
+        "en": "It is traditionally used for its soothing effects on the digestive system.",
+        "de": "Sie wird traditionell wegen ihrer beruhigenden Wirkung auf das Verdauungssystem verwendet."
+      },
+      "source_sentences_exact": [
+        "Se tradičně využívá pro své uklidňující účinky na trávicí systém."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Tradične sa využíva pre svoje upokojujúce účinky na tráviaci systém."
+        ],
+        "en": [
+          "It is traditionally used for its soothing effects on the digestive system."
+        ],
+        "de": [
+          "Sie wird traditionell wegen ihrer beruhigenden Wirkung auf das Verdauungssystem verwendet."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 69,
+      "source_exact": "Tato bylina se tradičně využívá, pro své pozitivní účinky na psychiku, k léčbě úzkosti, stresu a nespavosti. Má také protizánětlivé a antibakteriální vlastnosti, které podporují hojení kožních onemocnění, ran a zmírňují záněty. Působí pozitivně na trávicí systém a dokáže účinně pomoci při zažívacích obtížích.",
+      "translations": {
+        "sk": "Táto bylina sa tradične využíva pre svoje pozitívne účinky na psychiku na liečbu úzkosti, stresu a nespavosti. Má tiež protizápalové a antibakteriálne vlastnosti, ktoré podporujú hojenie kožných ochorení, rán a zmierňujú zápaly. Pôsobí pozitívne na tráviaci systém a dokáže účinne pomôcť pri tráviacich ťažkostiach.",
+        "en": "This herb is traditionally used for its positive effects on mental health to treat anxiety, stress and insomnia. It also has anti-inflammatory and antibacterial properties that support the healing of skin conditions and wounds and reduce inflammation. It has a positive effect on the digestive system and can effectively help with digestive problems.",
+        "de": "Dieses Kraut wird traditionell wegen seiner positiven Wirkung auf die Psyche zur Behandlung von Angstzuständen, Stress und Schlaflosigkeit verwendet. Es hat auch entzündungshemmende und antibakterielle Eigenschaften, die die Heilung von Hauterkrankungen und Wunden unterstützen und Entzündungen lindern. Es wirkt sich positiv auf das Verdauungssystem aus und kann bei Verdauungsbeschwerden wirksam helfen."
+      },
+      "source_sentences_exact": [
+        "Tato bylina se tradičně využívá, pro své pozitivní účinky na psychiku, k léčbě úzkosti, stresu a nespavosti.",
+        " Má také protizánětlivé a antibakteriální vlastnosti, které podporují hojení kožních onemocnění, ran a zmírňují záněty.",
+        " Působí pozitivně na trávicí systém a dokáže účinně pomoci při zažívacích obtížích."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Táto bylina sa tradične využíva pre svoje pozitívne účinky na psychiku na liečbu úzkosti, stresu a nespavosti.",
+          " Má tiež protizápalové a antibakteriálne vlastnosti, ktoré podporujú hojenie kožných ochorení, rán a zmierňujú zápaly.",
+          " Pôsobí pozitívne na tráviaci systém a dokáže účinne pomôcť pri tráviacich ťažkostiach."
+        ],
+        "en": [
+          "This herb is traditionally used for its positive effects on mental health to treat anxiety, stress and insomnia.",
+          " It also has anti-inflammatory and antibacterial properties that support the healing of skin conditions and wounds and reduce inflammation.",
+          " It has a positive effect on the digestive system and can effectively help with digestive problems."
+        ],
+        "de": [
+          "Dieses Kraut wird traditionell wegen seiner positiven Wirkung auf die Psyche zur Behandlung von Angstzuständen, Stress und Schlaflosigkeit verwendet.",
+          " Es hat auch entzündungshemmende und antibakterielle Eigenschaften, die die Heilung von Hauterkrankungen und Wunden unterstützen und Entzündungen lindern.",
+          " Es wirkt sich positiv auf das Verdauungssystem aus und kann bei Verdauungsbeschwerden wirksam helfen."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 3,
+        "sk": 3,
+        "en": 3,
+        "de": 3
+      }
+    },
+    {
+      "inventory_index": 70,
+      "source_exact": "Je jedním z nejbohatších přírodních zdrojů vitamínu C, který pomáhá posilovat imunitní systém, chránit buňky před poškozením volnými radikály a podporovat zdraví kůže. Šípek obsahuje vlákninu, která je nezbytná pro zachování zdravého trávení. Je také bohatý na polyfenoly a karotenoidy, které pomáhají zpomalovat proces stárnutí, bojují proti zánětům a chrání buňky před poškozením. Pravidelná konzumace šípku přispívá k lepší náladě, energii a celkové pohodě.",
+      "translations": {
+        "sk": "Sú jedným z najbohatších prírodných zdrojov vitamínu C, ktorý pomáha posilňovať imunitný systém, chrániť bunky pred poškodením voľnými radikálmi a podporovať zdravie kože. Šípky obsahujú vlákninu, ktorá je nevyhnutná na zachovanie zdravého trávenia. Sú tiež bohaté na polyfenoly a karotenoidy, ktoré pomáhajú spomaľovať proces starnutia, bojujú proti zápalom a chránia bunky pred poškodením. Pravidelná konzumácia šípok prispieva k lepšej nálade, energii a celkovej pohode.",
+        "en": "It is one of the richest natural sources of vitamin C, which helps strengthen the immune system, protect cells from free radical damage and support skin health. Rosehip contains fibre, which is essential for maintaining healthy digestion. It is also rich in polyphenols and carotenoids, which help slow the ageing process, fight inflammation and protect cells from damage. Regular consumption of rosehip contributes to a better mood, energy and overall well-being.",
+        "de": "Sie gehört zu den reichhaltigsten natürlichen Quellen für Vitamin C, das hilft, das Immunsystem zu stärken, die Zellen vor Schäden durch freie Radikale zu schützen und die Hautgesundheit zu unterstützen. Die Hagebutte enthält Ballaststoffe, die für eine gesunde Verdauung unerlässlich sind. Sie ist außerdem reich an Polyphenolen und Carotinoiden, die helfen, den Alterungsprozess zu verlangsamen, Entzündungen zu bekämpfen und die Zellen vor Schäden zu schützen. Der regelmäßige Verzehr von Hagebutten trägt zu besserer Stimmung, Energie und allgemeinem Wohlbefinden bei."
+      },
+      "source_sentences_exact": [
+        "Je jedním z nejbohatších přírodních zdrojů vitamínu C, který pomáhá posilovat imunitní systém, chránit buňky před poškozením volnými radikály a podporovat zdraví kůže.",
+        " Šípek obsahuje vlákninu, která je nezbytná pro zachování zdravého trávení.",
+        " Je také bohatý na polyfenoly a karotenoidy, které pomáhají zpomalovat proces stárnutí, bojují proti zánětům a chrání buňky před poškozením.",
+        " Pravidelná konzumace šípku přispívá k lepší náladě, energii a celkové pohodě."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Sú jedným z najbohatších prírodných zdrojov vitamínu C, ktorý pomáha posilňovať imunitný systém, chrániť bunky pred poškodením voľnými radikálmi a podporovať zdravie kože.",
+          " Šípky obsahujú vlákninu, ktorá je nevyhnutná na zachovanie zdravého trávenia.",
+          " Sú tiež bohaté na polyfenoly a karotenoidy, ktoré pomáhajú spomaľovať proces starnutia, bojujú proti zápalom a chránia bunky pred poškodením.",
+          " Pravidelná konzumácia šípok prispieva k lepšej nálade, energii a celkovej pohode."
+        ],
+        "en": [
+          "It is one of the richest natural sources of vitamin C, which helps strengthen the immune system, protect cells from free radical damage and support skin health.",
+          " Rosehip contains fibre, which is essential for maintaining healthy digestion.",
+          " It is also rich in polyphenols and carotenoids, which help slow the ageing process, fight inflammation and protect cells from damage.",
+          " Regular consumption of rosehip contributes to a better mood, energy and overall well-being."
+        ],
+        "de": [
+          "Sie gehört zu den reichhaltigsten natürlichen Quellen für Vitamin C, das hilft, das Immunsystem zu stärken, die Zellen vor Schäden durch freie Radikale zu schützen und die Hautgesundheit zu unterstützen.",
+          " Die Hagebutte enthält Ballaststoffe, die für eine gesunde Verdauung unerlässlich sind.",
+          " Sie ist außerdem reich an Polyphenolen und Carotinoiden, die helfen, den Alterungsprozess zu verlangsamen, Entzündungen zu bekämpfen und die Zellen vor Schäden zu schützen.",
+          " Der regelmäßige Verzehr von Hagebutten trägt zu besserer Stimmung, Energie und allgemeinem Wohlbefinden bei."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 4,
+        "sk": 4,
+        "en": 4,
+        "de": 4
+      }
+    },
+    {
+      "inventory_index": 71,
+      "source_exact": "Je známá svými uklidnujícími vlastnostmi. Přispívá k psychické pohodě a snižuje úzkosti. Obsahuje látky, které mohou pomoci uvolnit napětí, zklidnit mysl a ulevit od stresu a nespavosti. Meduňka má také pozitivní vliv na trávicí systém, je nápomocná při křečích a žaludečních bolestech. Snižuje nepříjemné pocity spojené s nadýmáním. Obsahuje antioxidanty, které pomáhají chránit buňky před poškozením volnými radikály, a podporuje přirozenou obranyschopnost.",
+      "translations": {
+        "sk": "Je známa svojimi upokojujúcimi vlastnosťami. Prispieva k psychickej pohode a znižuje úzkosť. Obsahuje látky, ktoré môžu pomôcť uvoľniť napätie, upokojiť myseľ a uľaviť od stresu a nespavosti. Medovka má tiež pozitívny vplyv na tráviaci systém, pomáha pri kŕčoch a žalúdočných bolestiach. Znižuje nepríjemné pocity spojené s nadúvaním. Obsahuje antioxidanty, ktoré pomáhajú chrániť bunky pred poškodením voľnými radikálmi, a podporuje prirodzenú obranyschopnosť.",
+        "en": "It is known for its calming properties. It contributes to mental well-being and reduces anxiety. It contains substances that can help release tension, calm the mind and relieve stress and insomnia. Lemon balm also has a positive effect on the digestive system and helps with cramps and stomach pain. It reduces the discomfort associated with bloating. It contains antioxidants that help protect cells from free radical damage and supports natural defences.",
+        "de": "Sie ist für ihre beruhigenden Eigenschaften bekannt. Sie trägt zum psychischen Wohlbefinden bei und reduziert Angstzustände. Sie enthält Stoffe, die helfen können, Spannungen zu lösen, den Geist zu beruhigen sowie Stress und Schlaflosigkeit zu lindern. Zitronenmelisse wirkt sich auch positiv auf das Verdauungssystem aus und hilft bei Krämpfen und Magenschmerzen. Sie reduziert die mit Blähungen verbundenen Beschwerden. Sie enthält Antioxidantien, die helfen, die Zellen vor Schäden durch freie Radikale zu schützen, und unterstützt die natürlichen Abwehrkräfte."
+      },
+      "source_sentences_exact": [
+        "Je známá svými uklidnujícími vlastnostmi.",
+        " Přispívá k psychické pohodě a snižuje úzkosti.",
+        " Obsahuje látky, které mohou pomoci uvolnit napětí, zklidnit mysl a ulevit od stresu a nespavosti.",
+        " Meduňka má také pozitivní vliv na trávicí systém, je nápomocná při křečích a žaludečních bolestech.",
+        " Snižuje nepříjemné pocity spojené s nadýmáním.",
+        " Obsahuje antioxidanty, které pomáhají chránit buňky před poškozením volnými radikály, a podporuje přirozenou obranyschopnost."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Je známa svojimi upokojujúcimi vlastnosťami.",
+          " Prispieva k psychickej pohode a znižuje úzkosť.",
+          " Obsahuje látky, ktoré môžu pomôcť uvoľniť napätie, upokojiť myseľ a uľaviť od stresu a nespavosti.",
+          " Medovka má tiež pozitívny vplyv na tráviaci systém, pomáha pri kŕčoch a žalúdočných bolestiach.",
+          " Znižuje nepríjemné pocity spojené s nadúvaním.",
+          " Obsahuje antioxidanty, ktoré pomáhajú chrániť bunky pred poškodením voľnými radikálmi, a podporuje prirodzenú obranyschopnosť."
+        ],
+        "en": [
+          "It is known for its calming properties.",
+          " It contributes to mental well-being and reduces anxiety.",
+          " It contains substances that can help release tension, calm the mind and relieve stress and insomnia.",
+          " Lemon balm also has a positive effect on the digestive system and helps with cramps and stomach pain.",
+          " It reduces the discomfort associated with bloating.",
+          " It contains antioxidants that help protect cells from free radical damage and supports natural defences."
+        ],
+        "de": [
+          "Sie ist für ihre beruhigenden Eigenschaften bekannt.",
+          " Sie trägt zum psychischen Wohlbefinden bei und reduziert Angstzustände.",
+          " Sie enthält Stoffe, die helfen können, Spannungen zu lösen, den Geist zu beruhigen sowie Stress und Schlaflosigkeit zu lindern.",
+          " Zitronenmelisse wirkt sich auch positiv auf das Verdauungssystem aus und hilft bei Krämpfen und Magenschmerzen.",
+          " Sie reduziert die mit Blähungen verbundenen Beschwerden.",
+          " Sie enthält Antioxidantien, die helfen, die Zellen vor Schäden durch freie Radikale zu schützen, und unterstützt die natürlichen Abwehrkräfte."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 6,
+        "sk": 6,
+        "en": 6,
+        "de": 6
+      }
+    },
+    {
+      "inventory_index": 72,
+      "source_exact": "Obsahuje křemík, minerál důležitý pro tvorbu kolagenu a elastinu, což jsou základní složky zdravé kůže, vlasů a nehtů. Díky tomu může přispět k posílení vlasů, zlepšení jejich struktury a růstu, a také ke zlepšení stavu kůže a nehtů. Přeslička rolní usnadňuje močení a podporuje odvodňování. Má též antibakteriální vlastnosti a dokáže podpořit léčbu různých infekcí.",
+      "translations": {
+        "sk": "Obsahuje kremík, minerál dôležitý pre tvorbu kolagénu a elastínu, ktoré sú základnými zložkami zdravej kože, vlasov a nechtov. Vďaka tomu môže prispieť k posilneniu vlasov, zlepšeniu ich štruktúry a rastu a tiež k zlepšeniu stavu kože a nechtov. Praslička roľná uľahčuje močenie a podporuje odvodňovanie. Má aj antibakteriálne vlastnosti a dokáže podporiť liečbu rôznych infekcií.",
+        "en": "It contains silicon, a mineral important for the formation of collagen and elastin, which are essential components of healthy skin, hair and nails. It can therefore contribute to strengthening hair, improving its structure and growth, and improving the condition of the skin and nails. Field horsetail facilitates urination and promotes water elimination. It also has antibacterial properties and can support the treatment of various infections.",
+        "de": "Er enthält Silizium, einen Mineralstoff, der für die Bildung von Kollagen und Elastin wichtig ist, den Grundbestandteilen gesunder Haut, Haare und Nägel. Dadurch kann er zur Stärkung der Haare, zur Verbesserung ihrer Struktur und ihres Wachstums sowie zur Verbesserung des Zustands von Haut und Nägeln beitragen. Ackerschachtelhalm erleichtert das Wasserlassen und fördert die Entwässerung. Er hat auch antibakterielle Eigenschaften und kann die Behandlung verschiedener Infektionen unterstützen."
+      },
+      "source_sentences_exact": [
+        "Obsahuje křemík, minerál důležitý pro tvorbu kolagenu a elastinu, což jsou základní složky zdravé kůže, vlasů a nehtů.",
+        " Díky tomu může přispět k posílení vlasů, zlepšení jejich struktury a růstu, a také ke zlepšení stavu kůže a nehtů.",
+        " Přeslička rolní usnadňuje močení a podporuje odvodňování.",
+        " Má též antibakteriální vlastnosti a dokáže podpořit léčbu různých infekcí."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Obsahuje kremík, minerál dôležitý pre tvorbu kolagénu a elastínu, ktoré sú základnými zložkami zdravej kože, vlasov a nechtov.",
+          " Vďaka tomu môže prispieť k posilneniu vlasov, zlepšeniu ich štruktúry a rastu a tiež k zlepšeniu stavu kože a nechtov.",
+          " Praslička roľná uľahčuje močenie a podporuje odvodňovanie.",
+          " Má aj antibakteriálne vlastnosti a dokáže podporiť liečbu rôznych infekcií."
+        ],
+        "en": [
+          "It contains silicon, a mineral important for the formation of collagen and elastin, which are essential components of healthy skin, hair and nails.",
+          " It can therefore contribute to strengthening hair, improving its structure and growth, and improving the condition of the skin and nails.",
+          " Field horsetail facilitates urination and promotes water elimination.",
+          " It also has antibacterial properties and can support the treatment of various infections."
+        ],
+        "de": [
+          "Er enthält Silizium, einen Mineralstoff, der für die Bildung von Kollagen und Elastin wichtig ist, den Grundbestandteilen gesunder Haut, Haare und Nägel.",
+          " Dadurch kann er zur Stärkung der Haare, zur Verbesserung ihrer Struktur und ihres Wachstums sowie zur Verbesserung des Zustands von Haut und Nägeln beitragen.",
+          " Ackerschachtelhalm erleichtert das Wasserlassen und fördert die Entwässerung.",
+          " Er hat auch antibakterielle Eigenschaften und kann die Behandlung verschiedener Infektionen unterstützen."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 4,
+        "sk": 4,
+        "en": 4,
+        "de": 4
+      }
+    },
+    {
+      "inventory_index": 73,
+      "source_exact": "Se tradičně využívá pro své uklidňující účinky na trávicí systém. Pomáhá snižovat zažívací potíže, jako je nadýmání, plynatost, křeče a pálení žáhy. Zklidnění žaludek, uvolňuje napětí a bolesti břicha. Její silice dokáží uvolnit nosní dutiny a průdušky a usnadňuje dýchání. Konzumace máty v podobě čaje přispívá k nervovému klidu, snížení úzkosti a stresu. Máta obsahuje antioxidanty, které mají pozitivní účinky na imunitní systém a pomáhají tělu bojovat s infekcemi.",
+      "translations": {
+        "sk": "Tradične sa využíva pre svoje upokojujúce účinky na tráviaci systém. Pomáha znižovať tráviace ťažkosti, ako sú nadúvanie, plynatosť, kŕče a pálenie záhy. Upokojuje žalúdok, uvoľňuje napätie a bolesti brucha. Jej silice dokážu uvoľniť nosové dutiny a priedušky a uľahčujú dýchanie. Konzumácia mäty vo forme čaju prispieva k nervovému pokoju, zníženiu úzkosti a stresu. Mäta obsahuje antioxidanty, ktoré majú pozitívne účinky na imunitný systém a pomáhajú telu bojovať s infekciami.",
+        "en": "It is traditionally used for its soothing effects on the digestive system. It helps reduce digestive problems such as bloating, flatulence, cramps and heartburn. It soothes the stomach and relieves tension and abdominal pain. Its essential oils can clear the nasal passages and bronchi and make breathing easier. Drinking mint tea contributes to nervous calm and reduced anxiety and stress. Mint contains antioxidants that have positive effects on the immune system and help the body fight infections.",
+        "de": "Sie wird traditionell wegen ihrer beruhigenden Wirkung auf das Verdauungssystem verwendet. Sie hilft, Verdauungsbeschwerden wie einen aufgeblähten Bauch, Blähungen, Krämpfe und Sodbrennen zu reduzieren. Sie beruhigt den Magen und lindert Spannungen und Bauchschmerzen. Ihre ätherischen Öle können die Nasenwege und Bronchien befreien und das Atmen erleichtern. Der Genuss von Minztee trägt zur nervlichen Ruhe sowie zur Reduzierung von Angst und Stress bei. Minze enthält Antioxidantien, die sich positiv auf das Immunsystem auswirken und dem Körper helfen, Infektionen zu bekämpfen."
+      },
+      "source_sentences_exact": [
+        "Se tradičně využívá pro své uklidňující účinky na trávicí systém.",
+        " Pomáhá snižovat zažívací potíže, jako je nadýmání, plynatost, křeče a pálení žáhy.",
+        " Zklidnění žaludek, uvolňuje napětí a bolesti břicha.",
+        " Její silice dokáží uvolnit nosní dutiny a průdušky a usnadňuje dýchání.",
+        " Konzumace máty v podobě čaje přispívá k nervovému klidu, snížení úzkosti a stresu.",
+        " Máta obsahuje antioxidanty, které mají pozitivní účinky na imunitní systém a pomáhají tělu bojovat s infekcemi."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "medical/treatment/prevention claim",
+      "translated_sentences_exact": {
+        "sk": [
+          "Tradične sa využíva pre svoje upokojujúce účinky na tráviaci systém.",
+          " Pomáha znižovať tráviace ťažkosti, ako sú nadúvanie, plynatosť, kŕče a pálenie záhy.",
+          " Upokojuje žalúdok, uvoľňuje napätie a bolesti brucha.",
+          " Jej silice dokážu uvoľniť nosové dutiny a priedušky a uľahčujú dýchanie.",
+          " Konzumácia mäty vo forme čaju prispieva k nervovému pokoju, zníženiu úzkosti a stresu.",
+          " Mäta obsahuje antioxidanty, ktoré majú pozitívne účinky na imunitný systém a pomáhajú telu bojovať s infekciami."
+        ],
+        "en": [
+          "It is traditionally used for its soothing effects on the digestive system.",
+          " It helps reduce digestive problems such as bloating, flatulence, cramps and heartburn.",
+          " It soothes the stomach and relieves tension and abdominal pain.",
+          " Its essential oils can clear the nasal passages and bronchi and make breathing easier.",
+          " Drinking mint tea contributes to nervous calm and reduced anxiety and stress.",
+          " Mint contains antioxidants that have positive effects on the immune system and help the body fight infections."
+        ],
+        "de": [
+          "Sie wird traditionell wegen ihrer beruhigenden Wirkung auf das Verdauungssystem verwendet.",
+          " Sie hilft, Verdauungsbeschwerden wie einen aufgeblähten Bauch, Blähungen, Krämpfe und Sodbrennen zu reduzieren.",
+          " Sie beruhigt den Magen und lindert Spannungen und Bauchschmerzen.",
+          " Ihre ätherischen Öle können die Nasenwege und Bronchien befreien und das Atmen erleichtern.",
+          " Der Genuss von Minztee trägt zur nervlichen Ruhe sowie zur Reduzierung von Angst und Stress bei.",
+          " Minze enthält Antioxidantien, die sich positiv auf das Immunsystem auswirken und dem Körper helfen, Infektionen zu bekämpfen."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 6,
+        "sk": 6,
+        "en": 6,
+        "de": 6
+      }
+    },
+    {
+      "inventory_index": 85,
+      "source_exact": "Gluten free",
+      "translations": {
+        "sk": "Bez lepku",
+        "en": "Gluten free",
+        "de": "Glutenfrei"
+      },
+      "source_sentences_exact": [
+        "Gluten free"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Bez lepku"
+        ],
+        "en": [
+          "Gluten free"
+        ],
+        "de": [
+          "Glutenfrei"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 86,
+      "source_exact": "GMO free",
+      "translations": {
+        "sk": "Bez GMO",
+        "en": "GMO free",
+        "de": "Gentechnikfrei"
+      },
+      "source_sentences_exact": [
+        "GMO free"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Bez GMO"
+        ],
+        "en": [
+          "GMO free"
+        ],
+        "de": [
+          "Gentechnikfrei"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 87,
+      "source_exact": "Additives free",
+      "translations": {
+        "sk": "Bez prídavných látok",
+        "en": "Additives free",
+        "de": "Ohne Zusatzstoffe"
+      },
+      "source_sentences_exact": [
+        "Additives free"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Bez prídavných látok"
+        ],
+        "en": [
+          "Additives free"
+        ],
+        "de": [
+          "Ohne Zusatzstoffe"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 88,
+      "source_exact": "Lactose free",
+      "translations": {
+        "sk": "Bez laktózy",
+        "en": "Lactose free",
+        "de": "Laktosefrei"
+      },
+      "source_sentences_exact": [
+        "Lactose free"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Bez laktózy"
+        ],
+        "en": [
+          "Lactose free"
+        ],
+        "de": [
+          "Laktosefrei"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 89,
+      "source_exact": "Sugar free",
+      "translations": {
+        "sk": "Bez cukru",
+        "en": "Sugar free",
+        "de": "Zuckerfrei"
+      },
+      "source_sentences_exact": [
+        "Sugar free"
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "Bez cukru"
+        ],
+        "en": [
+          "Sugar free"
+        ],
+        "de": [
+          "Zuckerfrei"
+        ]
+      },
+      "sentence_counts": {
+        "cz": 1,
+        "sk": 1,
+        "en": 1,
+        "de": 1
+      }
+    },
+    {
+      "inventory_index": 98,
+      "source_exact": "BIO bylinný čaj, namíchaný z 11 vynikajících bylin. Měsíční kúra. Oživte tradici s naším jedinečným bylinným detoxikačním čajem. Směs byla speciálně namíchána podle tradiční receptury renomované léčitelky báby Radnické. Tento konkrétní elixír očisty, posílení imunity a hubnutí byl pečlivě vytvořen naší velmi zkušenou bylinkářkou z Františkových lázní.",
+      "translations": {
+        "sk": "BIO bylinný čaj, namiešaný z 11 vynikajúcich bylín. Mesačná kúra. Oživte tradíciu s naším jedinečným bylinným detoxikačným čajom. Zmes bola špeciálne namiešaná podľa tradičnej receptúry renomovanej liečiteľky baby Radnickej. Tento konkrétny elixír očisty, posilnenia imunity a chudnutia starostlivo vytvorila naša veľmi skúsená bylinkárka z Františkových Lázní.",
+        "en": "Organic herbal tea, blended from 11 excellent herbs. A month-long course. Revive tradition with our unique herbal detox tea. The blend was specially mixed according to the traditional recipe of the renowned healer Granny Radnická. This particular elixir for cleansing, strengthening immunity and weight loss was carefully created by our highly experienced herbalist from Františkovy Lázně.",
+        "de": "BIO-Kräutertee, gemischt aus 11 hervorragenden Kräutern. Eine Monatskur. Lassen Sie die Tradition mit unserem einzigartigen Kräuter-Detox-Tee aufleben. Die Mischung wurde speziell nach dem traditionellen Rezept der renommierten Heilerin Großmutter Radnická zusammengestellt. Dieses besondere Elixier zur Reinigung, Stärkung der Immunität und Gewichtsabnahme wurde von unserer sehr erfahrenen Kräuterkundigen aus Františkovy Lázně sorgfältig entwickelt."
+      },
+      "source_sentences_exact": [
+        "BIO bylinný čaj, namíchaný z 11 vynikajících bylin.",
+        " Měsíční kúra.",
+        " Oživte tradici s naším jedinečným bylinným detoxikačním čajem.",
+        " Směs byla speciálně namíchána podle tradiční receptury renomované léčitelky báby Radnické.",
+        " Tento konkrétní elixír očisty, posílení imunity a hubnutí byl pečlivě vytvořen naší velmi zkušenou bylinkářkou z Františkových lázní."
+      ],
+      "status": "inherited working translation; no product-specific claims approval supplied",
+      "risk": "effect/composition claim requiring substantiation and approval",
+      "translated_sentences_exact": {
+        "sk": [
+          "BIO bylinný čaj, namiešaný z 11 vynikajúcich bylín.",
+          " Mesačná kúra.",
+          " Oživte tradíciu s naším jedinečným bylinným detoxikačným čajom.",
+          " Zmes bola špeciálne namiešaná podľa tradičnej receptúry renomovanej liečiteľky baby Radnickej.",
+          " Tento konkrétny elixír očisty, posilnenia imunity a chudnutia starostlivo vytvorila naša veľmi skúsená bylinkárka z Františkových Lázní."
+        ],
+        "en": [
+          "Organic herbal tea, blended from 11 excellent herbs.",
+          " A month-long course.",
+          " Revive tradition with our unique herbal detox tea.",
+          " The blend was specially mixed according to the traditional recipe of the renowned healer Granny Radnická.",
+          " This particular elixir for cleansing, strengthening immunity and weight loss was carefully created by our highly experienced herbalist from Františkovy Lázně."
+        ],
+        "de": [
+          "BIO-Kräutertee, gemischt aus 11 hervorragenden Kräutern.",
+          " Eine Monatskur.",
+          " Lassen Sie die Tradition mit unserem einzigartigen Kräuter-Detox-Tee aufleben.",
+          " Die Mischung wurde speziell nach dem traditionellen Rezept der renommierten Heilerin Großmutter Radnická zusammengestellt.",
+          " Dieses besondere Elixier zur Reinigung, Stärkung der Immunität und Gewichtsabnahme wurde von unserer sehr erfahrenen Kräuterkundigen aus Františkovy Lázně sorgfältig entwickelt."
+        ]
+      },
+      "sentence_counts": {
+        "cz": 5,
+        "sk": 5,
+        "en": 5,
+        "de": 5
+      }
+    }
+  ],
+  "source_conflicts": [
+    {
+      "exact": " speciálně vybraných pro podporu detoxikace organismu, posouzení imunity a zlepšení celkové vitality. Tato unikátní směs přináší komplexní péči o vaše tělo a pomáhá zvyšovat energii, snižovat stres a zlepšovat kvalitu spánku.",
+      "issue": "Source says posouzení imunity (assessment of immunity), probably a typo. Preserved literally rather than silently changing the claim."
+    },
+    {
+      "exact": [
+        "Doporučená denní dávka je jedna čajová lžička (2 g). Zalijte horkou vodou (ne vařící) a nechte louhovat 5-10 minut. Pijte 1-2 šálky denně, ideálně ráno a večer.",
+        " 30 dní (při 1 šálku denně)"
+      ],
+      "issue": "One teaspoon daily / 1-2 cups daily / 30 days at 1 cup retained; dosage ambiguity needs owner review."
+    },
+    {
+      "exact": [
+        " Může obsahovat stopy obilovin obsahujících lepek, mléka, vajec a sóji.",
+        "Gluten free"
+      ],
+      "issue": "Gluten-free graphic claim and may-contain-gluten allergen warning both inherited and retained."
+    },
+    {
+      "exact": [
+        " je BIO bylinný porcovaný čaj, namíchaný z ",
+        "BIO bylinný čaj, namíchaný z 11 vynikajících bylin. Měsíční kúra. Oživte tradici s naším jedinečným bylinným detoxikačním čajem. Směs byla speciálně namíchána podle tradiční receptury renomované léčitelky báby Radnické. Tento konkrétní elixír očisty, posílení imunity a hubnutí byl pečlivě vytvořen naší velmi zkušenou bylinkářkou z Františkových lázní."
+      ],
+      "issue": "Source identifies portioned organic tea while dose is measured by teaspoon; retained without sales-form correction."
+    }
+  ]
+}

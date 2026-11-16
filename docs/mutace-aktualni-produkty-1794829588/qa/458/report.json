@@ -1,0 +1,311 @@
+{
+  "product_id": "458",
+  "source_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "status": "unapproved faithful working translations; no publication",
+  "files": [
+    {
+      "language": "sk",
+      "kind": "long",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-sk.html",
+      "sha256": "d83c1f331e6eb5be69046b349aaa19567abeedb4cbc98d2aa03e47461888e688",
+      "source_sha256": "771cf4226323b11c54aad191d24bf180020db0f069e7bf92b076309a89c5a2f7",
+      "bytes": 40627,
+      "edits": 248,
+      "tests": {
+        "reversible_source_offsets": true,
+        "protected_attributes_assets_selectors": true,
+        "CSS_byte_identity": true,
+        "all_numeric_tokens_per_node": true,
+        "table_cells": 90,
+        "table_numeric_token_identity": true,
+        "node_scripts": [
+          {
+            "index": 0,
+            "node_check": true,
+            "localized": false
+          },
+          {
+            "index": 1,
+            "node_check": true,
+            "localized": true
+          },
+          {
+            "index": 2,
+            "node_check": true,
+            "localized": false
+          },
+          {
+            "index": 3,
+            "node_check": true,
+            "localized": false
+          }
+        ],
+        "benefit_cards": 9,
+        "scenario_cards": 9,
+        "ingredient_cards": 9,
+        "ingredient_dialogs": 9,
+        "FAQ_blocks": 0,
+        "jsonld_blocks": 0
+      }
+    },
+    {
+      "language": "en",
+      "kind": "long",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-en.html",
+      "sha256": "0fdff800094dba8b1d00e226257acc05d8eba1ace268a791c96be24614d0a4bf",
+      "source_sha256": "771cf4226323b11c54aad191d24bf180020db0f069e7bf92b076309a89c5a2f7",
+      "bytes": 39970,
+      "edits": 273,
+      "tests": {
+        "reversible_source_offsets": true,
+        "protected_attributes_assets_selectors": true,
+        "CSS_byte_identity": true,
+        "all_numeric_tokens_per_node": true,
+        "table_cells": 90,
+        "table_numeric_token_identity": true,
+        "node_scripts": [
+          {
+            "index": 0,
+            "node_check": true,
+            "localized": false
+          },
+          {
+            "index": 1,
+            "node_check": true,
+            "localized": true
+          },
+          {
+            "index": 2,
+            "node_check": true,
+            "localized": false
+          },
+          {
+            "index": 3,
+            "node_check": true,
+            "localized": false
+          }
+        ],
+        "benefit_cards": 9,
+        "scenario_cards": 9,
+        "ingredient_cards": 9,
+        "ingredient_dialogs": 9,
+        "FAQ_blocks": 0,
+        "jsonld_blocks": 0
+      }
+    },
+    {
+      "language": "de",
+      "kind": "long",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-de.html",
+      "sha256": "9713443f2c41483d5a45cd3ca4d4beac89d95deee57d776bf644a55ebe7d47fc",
+      "source_sha256": "771cf4226323b11c54aad191d24bf180020db0f069e7bf92b076309a89c5a2f7",
+      "bytes": 41915,
+      "edits": 271,
+      "tests": {
+        "reversible_source_offsets": true,
+        "protected_attributes_assets_selectors": true,
+        "CSS_byte_identity": true,
+        "all_numeric_tokens_per_node": true,
+        "table_cells": 90,
+        "table_numeric_token_identity": true,
+        "node_scripts": [
+          {
+            "index": 0,
+            "node_check": true,
+            "localized": false
+          },
+          {
+            "index": 1,
+            "node_check": true,
+            "localized": true
+          },
+          {
+            "index": 2,
+            "node_check": true,
+            "localized": false
+          },
+          {
+            "index": 3,
+            "node_check": true,
+            "localized": false
+          }
+        ],
+        "benefit_cards": 9,
+        "scenario_cards": 9,
+        "ingredient_cards": 9,
+        "ingredient_dialogs": 9,
+        "FAQ_blocks": 0,
+        "jsonld_blocks": 0
+      }
+    },
+    {
+      "language": "sk",
+      "kind": "short",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-sk.html",
+      "sha256": "fe0173bd1970385806c81fba0936f6b7e1e5d001b4b23e586bf456e53b06ae91",
+      "source_sha256": "01c2e384572df6e31fecc63d527c855c1a1ffdf9abb0155ca463aea508c13d84",
+      "bytes": 3254,
+      "edits": 15,
+      "tests": {
+        "reversible_source_offsets": true,
+        "protected_attributes_assets_selectors": true,
+        "CSS_byte_identity": true,
+        "all_numeric_tokens_per_node": true,
+        "table_cells": 0,
+        "table_numeric_token_identity": true,
+        "node_scripts": [
+          {
+            "index": 0,
+            "node_check": true,
+            "localized": false
+          }
+        ],
+        "benefit_cards": 0,
+        "scenario_cards": 0,
+        "ingredient_cards": 0,
+        "ingredient_dialogs": 0,
+        "FAQ_blocks": 0,
+        "jsonld_blocks": 0
+      }
+    },
+    {
+      "language": "en",
+      "kind": "short",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-en.html",
+      "sha256": "79a908a39151151fc02ffcdf5d6907e7b113e82def6e58b9941c46729d78f8eb",
+      "source_sha256": "01c2e384572df6e31fecc63d527c855c1a1ffdf9abb0155ca463aea508c13d84",
+      "bytes": 3213,
+      "edits": 16,
+      "tests": {
+        "reversible_source_offsets": true,
+        "protected_attributes_assets_selectors": true,
+        "CSS_byte_identity": true,
+        "all_numeric_tokens_per_node": true,
+        "table_cells": 0,
+        "table_numeric_token_identity": true,
+        "node_scripts": [
+          {
+            "index": 0,
+            "node_check": true,
+            "localized": false
+          }
+        ],
+        "benefit_cards": 0,
+        "scenario_cards": 0,
+        "ingredient_cards": 0,
+        "ingredient_dialogs": 0,
+        "FAQ_blocks": 0,
+        "jsonld_blocks": 0
+      }
+    },
+    {
+      "language": "de",
+      "kind": "short",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-de.html",
+      "sha256": "ce80838541c0f7d0d6c3b4c48d793ba93f1166962b703e54c2fc945664b0ff42",
+      "source_sha256": "01c2e384572df6e31fecc63d527c855c1a1ffdf9abb0155ca463aea508c13d84",
+      "bytes": 3324,
+      "edits": 16,
+      "tests": {
+        "reversible_source_offsets": true,
+        "protected_attributes_assets_selectors": true,
+        "CSS_byte_identity": true,
+        "all_numeric_tokens_per_node": true,
+        "table_cells": 0,
+        "table_numeric_token_identity": true,
+        "node_scripts": [
+          {
+            "index": 0,
+            "node_check": true,
+            "localized": false
+          }
+        ],
+        "benefit_cards": 0,
+        "scenario_cards": 0,
+        "ingredient_cards": 0,
+        "ingredient_dialogs": 0,
+        "FAQ_blocks": 0,
+        "jsonld_blocks": 0
+      }
+    }
+  ],
+  "tests": {
+    "file_count": 6,
+    "all_visible_and_accessibility_inventory_covered": true,
+    "formal_addressing": "SK formal plural imperatives; DE Sie/Ihr; EN neutral professional you. First-person scenario quotations remain first person.",
+    "source_structure_absences": "No FAQ, META/OG, or JSON-LD exists in pinned source pair; no sections invented. SEO-like visible subtitle translated.",
+    "chromium": {
+      "version": "156.0.8078.4",
+      "mode": "Exact final long+short scripts executed by HTML parser in isolated same-origin fixture, production CSS and authentic cached image bytes; no live CMS/native purchase assertion.",
+      "scenarios": 18,
+      "passing_core": 18,
+      "dialog_pointer_open_escape_close": 54,
+      "blocked_nonessential_requests": [
+        "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+      ],
+      "results": "browser-results.json",
+      "actual_mask_state": "All source pictograms are IMG PNGs, not CSS masks; decoded and visible computed geometry/opacity tested and screenshots captured.",
+      "external_network_during_browser": "all requests intercepted; no uncontrolled fetches"
+    },
+    "Czech_residue_and_formal_addressing": "Passed source-exclusive phrase and diacritic scan across all visible text and alt/aria/title, with localized SK legitimate cognates retained; see residue-and-addressing.json.",
+    "ingredient_identity": "All nine exact card/title/image/dialog pairings match; chromium #8, MCT oil #9. See ingredient-mapping.json.",
+    "sentence_ledger": {
+      "file": "claims-sentence-ledger.json",
+      "rows": 309,
+      "status": "unapproved working copy, exact source sentences and translated context"
+    },
+    "visual_review": {
+      "files": [
+        "contact-short.jpg",
+        "contact-ingredient-grid.jpg",
+        "contact-pair-top.jpg"
+      ],
+      "result": "All six language/viewport views inspected: coherent violet source layout, authentic images, monoline flame retained, no visible icon-label overlap or missing graphics. Mobile ingredient rail deliberately shows partial next card."
+    },
+    "harness_correction": "Initial fixture failed to match percent-encoded spaces in image requests; only QA routing corrected, production URLs unchanged. Final rerun: all 40 images decoded in every scenario.",
+    "delivered_script_checks": 15,
+    "native_shop_boundaries": "No CMS writes, native cart submission, currency conversion, price/stock claims, commits or pushes performed."
+  },
+  "excluded_stale_CZ_fallbacks": {
+    "removed": [],
+    "reason": "Pinned current Czech source has no hardcoded price, stock, offers or ratings. Existing neutral native-purchase note translated. No currency conversions or replacement offers added."
+  },
+  "open_risks": [
+    "Inherited effect claims require regulatory and product-owner approval, especially natural GLP-1 activation, appetite suppression, fat absorption up to 27 %, collagen rejuvenation and intestinal/immune effects. See exact-sentence ledger.",
+    "Inherited LactoSpore counts conflict: narrative 8,9 billion CFU versus table 0,75 billion per serving. Preserved without correction.",
+    "Inherited sugar-free/additive-free claims conflict with 2,4 g sugars per serving and listed sweeteners/additives. Preserved without correction.",
+    "Inherited milk/nuts allergen declaration versus milk/soya warning needs formula-owner review; source strawberry formula including 1 % strawberry powder retained.",
+    "No live CMS, purchase, price, stock, physical mobile browser or external language-editor approval verified."
+  ],
+  "sources": [
+    {
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-cz.html",
+      "sha256": "771cf4226323b11c54aad191d24bf180020db0f069e7bf92b076309a89c5a2f7",
+      "git_blob_sha": "3f3a219c75145c4f33e6a71db32f9e5c5c7dd3aa",
+      "unchanged_from_pinned_commit": true
+    },
+    {
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-cz.html",
+      "sha256": "01c2e384572df6e31fecc63d527c855c1a1ffdf9abb0155ca463aea508c13d84",
+      "git_blob_sha": "03f42cb291ea48d6e6d4c72a6e32fae7f62b0c39",
+      "unchanged_from_pinned_commit": true
+    }
+  ],
+  "protected_dependencies": [
+    {
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+      "byte_identical_pinned_commit": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-vanilka-jahoda.css",
+      "sha256": "f68e564813b38ecef74fbf2bab3893bc6aaea6a22ceb721c33c723495a42e8b3",
+      "byte_identical_pinned_commit": true
+    },
+    {
+      "path": "user/documents/upload/js/golden-life-product-scheme.js",
+      "sha256": "9acf927a851a7f2397e8efd1e2c6448809e8b2099634d48de134a7ef16fa2b7f",
+      "byte_identical_pinned_commit": true
+    }
+  ]
+}

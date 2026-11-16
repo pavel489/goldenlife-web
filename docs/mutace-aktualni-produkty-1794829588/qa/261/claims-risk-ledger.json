@@ -1,0 +1,393 @@
+[
+  {
+    "source_sentence": "BIO bylinný porcovaný čaj z 11 vynikajících bylin na 7 dní!",
+    "translations": {
+      "sk": "BIO bylinný porciovaný čaj z 11 vynikajúcich bylín na 7 dní!",
+      "en": "Organic portioned herbal tea made from 11 excellent herbs for 7 days!",
+      "de": "BIO-Kräutertee in Portionen aus 11 hervorragenden Kräutern für 7 Tage!"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited organic/portioning claim: certification not verified; portioned-tea wording may conflict with teaspoon instructions. Preserve source and request content review.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Detoxikace",
+    "translations": {
+      "sk": "Detoxikácia",
+      "en": "Detoxification",
+      "de": "Entgiftung"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Očistěte své tělo od toxinů, které zatěžují váš organismus.",
+    "translations": {
+      "sk": "Očistite svoje telo od toxínov, ktoré zaťažujú váš organizmus.",
+      "en": "Cleanse your body of toxins that put a strain on your system.",
+      "de": "Befreien Sie Ihren Körper von Giftstoffen, die Ihren Organismus belasten."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Naše pečlivě vybrané bylinky podporují obranyschopnost, čistí trávicí systém a zvyšují vitalitu.",
+    "translations": {
+      "sk": "Naše starostlivo vybrané bylinky podporujú obranyschopnosť, čistia tráviaci systém a zvyšujú vitalitu.",
+      "en": "Our carefully selected herbs support the body's defences, cleanse the digestive system and increase vitality.",
+      "de": "Unsere sorgfältig ausgewählten Kräuter unterstützen die Abwehrkräfte, reinigen das Verdauungssystem und steigern die Vitalität."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Správná funkce orgánů a detoxikace",
+    "translations": {
+      "sk": "Správna funkcia orgánov a detoxikácia",
+      "en": "Proper organ function and detoxification",
+      "de": "Normale Organfunktion und Entgiftung"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Posílení imunity",
+    "translations": {
+      "sk": "Posilnenie imunity",
+      "en": "Strengthening immunity",
+      "de": "Stärkung des Immunsystems"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Více energie a lepší nálada",
+    "translations": {
+      "sk": "Viac energie a lepšia nálada",
+      "en": "More energy and a better mood",
+      "de": "Mehr Energie und bessere Stimmung"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Zdravé trávení a metabolismus tuků",
+    "translations": {
+      "sk": "Zdravé trávenie a metabolizmus tukov",
+      "en": "Healthy digestion and fat metabolism",
+      "de": "Gesunde Verdauung und Fettstoffwechsel"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Podpora cév a prevence křečových žil",
+    "translations": {
+      "sk": "Podpora ciev a prevencia kŕčových žíl",
+      "en": "Support for blood vessels and prevention of varicose veins",
+      "de": "Unterstützung der Blutgefäße und Vorbeugung von Krampfadern"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Explicit disease-prevention claim (varicose veins); conflicts with brand rules. Retained only as requested internal source-faithful translation; publication blocked pending legal/content decision.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Úleva od stresu a nespavosti",
+    "translations": {
+      "sk": "Úľava od stresu a nespavosti",
+      "en": "Relief from stress and insomnia",
+      "de": "Linderung von Stress und Schlaflosigkeit"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Protizánětlivé a dezinfekční účinky",
+    "translations": {
+      "sk": "Protizápalové a dezinfekčné účinky",
+      "en": "Anti-inflammatory and disinfectant effects",
+      "de": "Entzündungshemmende und desinfizierende Wirkungen"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Zdraví pokožky, vlasů a nehtů",
+    "translations": {
+      "sk": "Zdravie pokožky, vlasov a nechtov",
+      "en": "Healthy skin, hair and nails",
+      "de": "Gesunde Haut, Haare und Nägel"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Protizánětlivé, podporuje psychiku i trávení.",
+    "translations": {
+      "sk": "Protizápalové účinky, podporuje psychiku aj trávenie.",
+      "en": "Anti-inflammatory, supports mental well-being and digestion.",
+      "de": "Entzündungshemmend, unterstützt das seelische Wohlbefinden und die Verdauung."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Bohatý na vitamin C, posiluje imunitu a zdraví pokožky.",
+    "translations": {
+      "sk": "Bohaté na vitamín C, posilňujú imunitu a zdravie pokožky.",
+      "en": "Rich in vitamin C, strengthens immunity and skin health.",
+      "de": "Reich an Vitamin C, stärkt das Immunsystem und die Hautgesundheit."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Zklidňuje mysl a podporuje uvolnění stresu.",
+    "translations": {
+      "sk": "Upokojuje myseľ a podporuje uvoľnenie stresu.",
+      "en": "Calms the mind and supports stress relief.",
+      "de": "Beruhigt den Geist und unterstützt den Stressabbau."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Zklidňuje trávicí systém a uvolňuje křeče.",
+    "translations": {
+      "sk": "Upokojuje tráviaci systém a uvoľňuje kŕče.",
+      "en": "Soothes the digestive system and relieves cramps.",
+      "de": "Beruhigt das Verdauungssystem und löst Krämpfe."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Oživte tradici s naším jedinečným bylinným detoxikačním čajem.",
+    "translations": {
+      "sk": "Oživte tradíciu s naším jedinečným bylinným detoxikačným čajom.",
+      "en": "Revive tradition with our unique herbal detox tea.",
+      "de": "Lassen Sie die Tradition mit unserem einzigartigen Kräuter-Detox-Tee aufleben."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Směs byla speciálně namíchána podle tradiční receptury renomované léčitelky báby Radnické.",
+    "translations": {
+      "sk": "Zmes bola špeciálne namiešaná podľa tradičnej receptúry renomovanej liečiteľky báby Radnickej.",
+      "en": "The blend was specially mixed according to the traditional recipe of the renowned healer Baba Radnická.",
+      "de": "Die Mischung wurde eigens nach der traditionellen Rezeptur der renommierten Heilerin Baba Radnická zusammengestellt."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited recipe/healer attribution; provenance not independently verified.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Tento konkrétní elixír očisty, posílení imunity a hubnutí byl pečlivě vytvořen naší velmi zkušenou bylinkářkou z Františkových lázní.",
+    "translations": {
+      "sk": "Tento konkrétny elixír očisty, posilnenia imunity a chudnutia starostlivo vytvorila naša veľmi skúsená bylinkárka z Františkových Lázní.",
+      "en": "This particular elixir for cleansing, strengthening immunity and weight loss was carefully created by our highly experienced herbalist from Františkovy Lázně.",
+      "de": "Dieses besondere Elixier zur Reinigung, zur Stärkung des Immunsystems und zur Gewichtsabnahme wurde von unserer sehr erfahrenen Kräuterkundlerin aus Františkovy Lázně sorgfältig entwickelt."
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "occurrences": 1
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Podporuje detoxikaci",
+    "translations": {
+      "sk": "Podporuje detoxikáciu",
+      "en": "Supports detoxifi­cation",
+      "de": "Unterstützt die Entgiftung"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Zlepšuje kvalitu spánku",
+    "translations": {
+      "sk": "Zlepšuje kvalitu spánku",
+      "en": "Improves sleep quality",
+      "de": "Verbessert die Schlaf­qualität"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Odolnější imunitní systém",
+    "translations": {
+      "sk": "Odolnejší imunitný systém",
+      "en": "More resilient immune system",
+      "de": "Robusteres Immun­system"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  },
+  {
+    "source_sentence": "Psychická pohoda",
+    "translations": {
+      "sk": "Psychická pohoda",
+      "en": "Mental well-being",
+      "de": "Seelisches Wohl­befinden"
+    },
+    "source_locations": [
+      {
+        "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-cz.html",
+        "occurrences": 2
+      }
+    ],
+    "risk": "Inherited effect/health claim; approved product-specific wording and effective amounts not verified. Faithful internal translation only; not approved for publication.",
+    "status": "open-content-review",
+    "action": "faithfully-translated-without-neutralization"
+  }
+]

@@ -1,0 +1,914 @@
+[
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 1,
+    "source_exact": "Kolagenní peptidy, vitaminy, minerály a rostlinné extrakty. Balení pro každodenní přípravu nápoje.",
+    "target_exact": "Kolagénové peptidy, vitamíny, minerály a rastlinné extrakty. Balenie na každodennú prípravu nápoja.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 2,
+    "source_exact": "Dóza obsahuje 240 g prášku, tedy 30 denních dávek po 8 g. Podrobné složení a množství jednotlivých látek najdete v tabulkách níže.",
+    "target_exact": "Dóza obsahuje 240 g prášku, teda 30 denných dávok po 8 g. Podrobné zloženie a množstvo jednotlivých látok nájdete v tabuľkách nižšie.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 3,
+    "source_exact": "Jde o produkt v dóze, nikoli o box s jednotlivě balenými sáčky. Pokyny k malé a velké odměrce podle šarže jsou uvedené v krátkém popisu produktu. Doplněk stravy.",
+    "target_exact": "Ide o produkt v dóze, nie o box s jednotlivo balenými vrecúškami. Pokyny k malej a veľkej odmerke podľa šarže sú uvedené v krátkom popise produktu. Výživový doplnok.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 4,
+    "source_exact": "Slim Extreme Collagen je výjimečný spalovač tuků, který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a zpevňování svalů. Díky kombinaci patentovaných kolagenů Verisol® a Peptiplus® nabízí nejen pomoc při tvarování postavy, ale i zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů. Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+    "target_exact": "Slim Extreme Collagen je výnimočný spaľovač tukov, ktorý spája inovatívnu silu kolagénových peptidov s cielenou podporou chudnutia a spevňovaním svalov. Vďaka kombinácii patentovaných kolagénov Verisol® a Peptiplus® ponúka nielen pomoc pri tvarovaní postavy, ale aj zlepšenie elasticity pokožky, kvality vlasov a zdravia kĺbov. Je navrhnutý tak, aby pomohol na ceste k zdravšiemu telu a prinášal výsledky aj v dňoch bez fyzickej aktivity.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 5,
+    "source_exact": "Podpora hubnutí",
+    "target_exact": "Podpora chudnutia",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 6,
+    "source_exact": "Extrémní spalování tuků",
+    "target_exact": "Extrémne spaľovanie tukov",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 7,
+    "source_exact": "Redukce celulitidy",
+    "target_exact": "Redukcia celulitídy",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 8,
+    "source_exact": "Redukce vrásek",
+    "target_exact": "Redukcia vrások",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 9,
+    "source_exact": "Pevné nehty",
+    "target_exact": "Pevné nechty",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 10,
+    "source_exact": "Vyrobeno v ČR",
+    "target_exact": "Vyrobené v ČR",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 11,
+    "source_exact": "Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+    "target_exact": "Slim Extreme Collagen spája kolagénové peptidy Verisol® a Peptiplus® a kyselinu hyalurónovú s komplexom garcínie, zeleného čaju, synefrínu a enzýmov. Je navrhnutý ako súčasť redukčného režimu a každodennej starostlivosti o krásu.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 12,
+    "source_exact": "Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+    "target_exact": "Zloženie dopĺňajú vitamíny a minerály. Vitamíny B2, B3 a B5 prispievajú k zníženiu únavy a vyčerpania.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 13,
+    "source_exact": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+    "target_exact": "Znižuje chuť do jedla a podporuje spaľovanie (HCA).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 14,
+    "source_exact": "Hydratace, pružnost pleti a podpora kloubů.",
+    "target_exact": "Hydratácia, pružnosť pleti a podpora kĺbov.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 15,
+    "source_exact": "Enzymy bromelain, papain a zinek pro trávení.",
+    "target_exact": "Enzýmy bromelaín, papaín a zinok na trávenie.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 16,
+    "source_exact": "Energie a správný metabolismus.",
+    "target_exact": "Energia a správny metabolizmus.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 17,
+    "source_exact": "Tvorba kolagenu a antioxidační ochrana.",
+    "target_exact": "Tvorba kolagénu a antioxidačná ochrana.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 18,
+    "source_exact": "Antioxidanty a podpora spalování.",
+    "target_exact": "Antioxidanty a podpora spaľovania.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 19,
+    "source_exact": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti. Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+    "target_exact": "Je to tropická rastlina pochádzajúca z Ázie a po stáročia sa používa na navodenie pocitu sýtosti. Kľúčovou účinnou látkou v nej obsiahnutou je kyselina hydroxy-citrónová (HCA), ktorá zlepšuje trávenie, znižuje chuť do jedla a podporuje aj spaľovanie tukov.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 20,
+    "source_exact": "Látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+    "target_exact": "Látka, ktorá sa prirodzene nachádza a vytvára v našom tele. Jej hlavnou funkciou je zadržiavať vodu, teda hydratovať tkanivá, a udržiavať v nich dostatočnú vlhkosť. Pomáha vyživovať pokožku, ktorá je potom zdravšia a pružnejšia. Obmedzuje tak tvorbu vrások a napomáha regenerácii a celkovému omladeniu pleti. Účinne pomáha pri hojení rán a bolesti kĺbov, zlepšuje ich pohyblivosť.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 21,
+    "source_exact": "Bromelain s papainem je unikátní kombinací dvou enzymů, které se nachází v ananasu a papáje. Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci. Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+    "target_exact": "Bromelaín s papaínom je unikátnou kombináciou dvoch enzýmov, ktoré sa nachádzajú v ananáse a papáji. Oba pôsobia pozitívne na trávenie a ovplyvňujú rozklad bielkovín, čo ocenia najmä športovci. Obsiahnutý zinok sa podieľa na delení buniek, prispieva k normálnemu metabolizmu a chráni bunky pred voľnými radikálmi.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 22,
+    "source_exact": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému. Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+    "target_exact": "Vitamíny B sú nevyhnutné pre správne fungovanie metabolizmu a nervového systému. Zároveň umožňujú vstrebávanie látok a napomáhajú ich lepšiemu využitiu. Vitamíny B2, B3 a B5 prispievajú k zníženiu únavy a vyčerpania, vitamíny B2 a B3 udržiavajú normálny stav pokožky a slizníc.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 23,
+    "source_exact": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy. Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+    "target_exact": "Vitamín C je dôležitý pre tvorbu nového kolagénu, má pozitívny vplyv na imunitný systém, prispieva k ochrane a tvorbe nových buniek, lepšej regenerácii a zníženiu únavy. Vitamín E je veľmi silný antioxidant, má význam pre rad oxidačno-redukčných pochodov a stabilizuje niektoré hormóny.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 24,
+    "source_exact": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům. Podporuje zdravý zrak a snižuje riziko srdečních onemocnění. Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+    "target_exact": "Obsahuje antioxidanty a pomáha bojovať proti voľným radikálom. Podporuje zdravý zrak a znižuje riziko srdcových ochorení. Účinky zeleného čaju umožňujú spaľovanie kalórií, podieľajú sa na tvorbe dopamínu a podporujú produktivitu.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 25,
+    "source_exact": "Balení: 240 g prášku  ·  Stačí na: cca 30 dávek",
+    "target_exact": "Balenie: 240 g prášku  · Vystačí na: cca 30 dávok",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 26,
+    "source_exact": "✓ Skladem – expedice do 24 hodin",
+    "target_exact": "Aktuálna dostupnosť je uvedená pri nákupnom tlačidle.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 27,
+    "source_exact": "Bez lepku",
+    "target_exact": "Bez lepku",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 28,
+    "source_exact": "Bez GMO",
+    "target_exact": "Bez GMO",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 29,
+    "source_exact": "Bez přídatných látek",
+    "target_exact": "Bez prídavných látok",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 30,
+    "source_exact": "Bez laktózy",
+    "target_exact": "Bez laktózy",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 31,
+    "source_exact": "Bez cukru",
+    "target_exact": "Bez cukru",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 32,
+    "source_exact": "1 odměrku (8 g) rozmíchejte v 200–300 ml vody. Užívejte 1× denně, nejlépe ráno nebo dopoledne. Doporučená denní dávka se nesmí překročit.",
+    "target_exact": "1 odmerku (8 g) rozmiešajte v 200–300 ml vody. Užívajte 1× denne, najlepšie ráno alebo dopoludnia. Odporúčaná denná dávka sa nesmie prekročiť.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 33,
+    "source_exact": "Skladujte na suchém a chladném místě, mimo dosah přímého slunečního záření, při teplotě do 25 °C. Uchovávejte mimo dosah dětí.",
+    "target_exact": "Skladujte na suchom a chladnom mieste, mimo dosahu priameho slnečného žiarenia, pri teplote do 25 °C. Uchovávajte mimo dosahu detí.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 34,
+    "source_exact": "Nevhodné pro těhotné a kojící ženy a osoby s alergií na některou ze složek. Nenahrazuje pestrou a vyváženou stravu. Přípravek obsahuje kofein – nedoporučuje se užívat odpoledne a večer.",
+    "target_exact": "Výživový doplnok. Nevhodné pre tehotné a dojčiace ženy a osoby s alergiou na niektorú zo zložiek. Nenahrádza pestrú a vyváženú stravu. Prípravok obsahuje kofeín – neodporúča sa užívať popoludní a večer.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 35,
+    "source_exact": "hovězí kolagenní peptidy (3500 daltonů), rybí kolagenní peptidy (2000 daltonů), aroma, regulátor kyselosti: kyselina citronová, garcinia cambogia extrakt (60% kyseliny hydroxycitronové), bromelain, ananasový prášek lyofilizovaný, mango extrakt (10:1), zelený čaj extrakt (50 % polyfenolů), kyselina askorbová, papain, pantothenát vápenatý, bisglycinát zinečnatý, sladidla: sukralóza, steviosid, dl-alfa-tokoferol-acetát, citrus aurantium extrakt (95% synefrinu), hyaluronát sodný, niacinamid, pyridoxin hydrochlorid, riboflavin, thiamin, kyselina listová, kyanokobalamin, biotin, chlorid chromitý.",
+    "target_exact": "hovädzie kolagénové peptidy (3500 daltonov), rybie kolagénové peptidy (2000 daltonov), aróma, regulátor kyslosti: kyselina citrónová, garcinia cambogia extrakt (60% kyseliny hydroxycitrónovej), bromelaín, ananásový prášok lyofilizovaný, mango extrakt (10:1), zelený čaj extrakt (50 % polyfenolov), kyselina askorbová, papaín, pantotenát vápenatý, bisglycinát zinočnatý, sladidlá: sukralóza, steviozid, dl-alfa-tokoferol-acetát, citrus aurantium extrakt (95% synefrínu), hyaluronát sodný, niacínamid, pyridoxín hydrochlorid, riboflavín, tiamín, kyselina listová, kyanokobalamín, biotín, chlorid chromitý.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 36,
+    "source_exact": "*Referenční hodnota příjmu není stanovena. Slazeno sukralózou (nízkokalorické sladidlo).",
+    "target_exact": "*Referenčná výživová hodnota nie je stanovená. Sladené sukralózou (nízkokalorické sladidlo).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "sk",
+    "paragraph_index": 37,
+    "source_exact": "U šarže L245382, EXP/LOT: 072028, je doporučená denní dávka 8 g (jedna odměrka).",
+    "target_exact": "Pri šarži L245382, EXP/LOT: 072028, je odporúčaná denná dávka 8 g (jedna odmerka).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 1,
+    "source_exact": "Kolagenní peptidy, vitaminy, minerály a rostlinné extrakty. Balení pro každodenní přípravu nápoje.",
+    "target_exact": "Collagen peptides, vitamins, minerals and plant extracts. A jar for preparing your daily drink.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 2,
+    "source_exact": "Dóza obsahuje 240 g prášku, tedy 30 denních dávek po 8 g. Podrobné složení a množství jednotlivých látek najdete v tabulkách níže.",
+    "target_exact": "The jar contains 240 g of powder: 30 daily servings of 8 g each. The full ingredients and the amounts of individual substances are listed in the tables below.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 3,
+    "source_exact": "Jde o produkt v dóze, nikoli o box s jednotlivě balenými sáčky. Pokyny k malé a velké odměrce podle šarže jsou uvedené v krátkém popisu produktu. Doplněk stravy.",
+    "target_exact": "This product comes in a jar, not a box of individually packed sachets. Instructions for the small and large scoop, depending on the batch, are included in the short product description. Food supplement.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 4,
+    "source_exact": "Slim Extreme Collagen je výjimečný spalovač tuků, který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a zpevňování svalů. Díky kombinaci patentovaných kolagenů Verisol® a Peptiplus® nabízí nejen pomoc při tvarování postavy, ale i zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů. Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+    "target_exact": "Slim Extreme Collagen is an exceptional fat burner, combining the innovative power of collagen peptides with targeted support for weight loss and muscle toning. With its combination of patented collagens Verisol® and Peptiplus® it not only helps shape the body, but also offers improved skin elasticity, hair quality and joint health. It is designed to support the journey towards a healthier body and deliver results even on days without physical activity.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 5,
+    "source_exact": "Podpora hubnutí",
+    "target_exact": "Weight loss support",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 6,
+    "source_exact": "Extrémní spalování tuků",
+    "target_exact": "Extreme fat burning",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 7,
+    "source_exact": "Redukce celulitidy",
+    "target_exact": "Cellulite reduction",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 8,
+    "source_exact": "Redukce vrásek",
+    "target_exact": "Wrinkle reduction",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 9,
+    "source_exact": "Pevné nehty",
+    "target_exact": "Strong nails",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 10,
+    "source_exact": "Vyrobeno v ČR",
+    "target_exact": "Made in the Czech Republic",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 11,
+    "source_exact": "Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+    "target_exact": "Slim Extreme Collagen combines Verisol® and Peptiplus® collagen peptides and hyaluronic acid with a complex of garcinia, green tea, synephrine and enzymes. It is designed as part of a weight loss programme and everyday beauty care.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 12,
+    "source_exact": "Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+    "target_exact": "The formula is complemented by vitamins and minerals. Vitamins B2, B3 and B5 contribute to the reduction of tiredness and fatigue.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 13,
+    "source_exact": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+    "target_exact": "Reduces appetite and supports fat burning (HCA).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 14,
+    "source_exact": "Hydratace, pružnost pleti a podpora kloubů.",
+    "target_exact": "Hydration, skin elasticity and joint support.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 15,
+    "source_exact": "Enzymy bromelain, papain a zinek pro trávení.",
+    "target_exact": "The enzymes bromelain and papain, and zinc for digestion.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 16,
+    "source_exact": "Energie a správný metabolismus.",
+    "target_exact": "Energy and normal metabolism.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 17,
+    "source_exact": "Tvorba kolagenu a antioxidační ochrana.",
+    "target_exact": "Collagen formation and antioxidant protection.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 18,
+    "source_exact": "Antioxidanty a podpora spalování.",
+    "target_exact": "Antioxidants and fat burning support.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 19,
+    "source_exact": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti. Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+    "target_exact": "A tropical plant native to Asia that has been used for centuries to promote a feeling of fullness. Its key active ingredient is hydroxycitric acid (HCA), which improves digestion, reduces appetite and also supports fat burning.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 20,
+    "source_exact": "Látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+    "target_exact": "A substance that occurs naturally and is produced in our bodies. Its main function is to retain water, hydrating tissues and maintaining sufficient moisture within them. It helps nourish the skin, making it healthier and more elastic. In this way, it limits wrinkle formation and helps the skin regenerate and rejuvenate overall. It effectively helps with wound healing and joint pain, improving joint mobility.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 21,
+    "source_exact": "Bromelain s papainem je unikátní kombinací dvou enzymů, které se nachází v ananasu a papáje. Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci. Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+    "target_exact": "Bromelain and papain are a unique combination of two enzymes found in pineapple and papaya. Both have a positive effect on digestion and influence protein breakdown, which is particularly appreciated by athletes. The zinc in the formula plays a role in cell division, contributes to normal metabolism and protects cells from free radicals.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 22,
+    "source_exact": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému. Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+    "target_exact": "B vitamins are essential for normal metabolism and nervous system function. They also enable the absorption of substances and help the body make better use of them. Vitamins B2, B3 and B5 contribute to the reduction of tiredness and fatigue, while vitamins B2 and B3 maintain normal skin and mucous membranes.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 23,
+    "source_exact": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy. Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+    "target_exact": "Vitamin C is important for the formation of new collagen, has a positive effect on the immune system, and contributes to the protection and formation of new cells, better recovery and reduced tiredness. Vitamin E is a very powerful antioxidant, is important for a number of oxidation-reduction processes and stabilises certain hormones.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 24,
+    "source_exact": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům. Podporuje zdravý zrak a snižuje riziko srdečních onemocnění. Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+    "target_exact": "It contains antioxidants and helps fight free radicals. It supports healthy vision and reduces the risk of heart disease. The effects of green tea enable calorie burning, contribute to dopamine production and support productivity.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 25,
+    "source_exact": "Balení: 240 g prášku  ·  Stačí na: cca 30 dávek",
+    "target_exact": "Pack size: 240 g of powder  ·  Lasts for: approx. 30 servings",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 26,
+    "source_exact": "✓ Skladem – expedice do 24 hodin",
+    "target_exact": "Current availability is shown beside the purchase button.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 27,
+    "source_exact": "Bez lepku",
+    "target_exact": "Gluten-free",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 28,
+    "source_exact": "Bez GMO",
+    "target_exact": "GMO-free",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 29,
+    "source_exact": "Bez přídatných látek",
+    "target_exact": "Additive-free",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 30,
+    "source_exact": "Bez laktózy",
+    "target_exact": "Lactose-free",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 31,
+    "source_exact": "Bez cukru",
+    "target_exact": "Sugar-free",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 32,
+    "source_exact": "1 odměrku (8 g) rozmíchejte v 200–300 ml vody. Užívejte 1× denně, nejlépe ráno nebo dopoledne. Doporučená denní dávka se nesmí překročit.",
+    "target_exact": "Mix 1 scoop (8 g) into 200–300 ml of water. Take 1× daily, preferably in the morning or before noon. Do not exceed the recommended daily dose.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 33,
+    "source_exact": "Skladujte na suchém a chladném místě, mimo dosah přímého slunečního záření, při teplotě do 25 °C. Uchovávejte mimo dosah dětí.",
+    "target_exact": "Store in a dry and cool place, away from direct sunlight, at a temperature of up to 25 °C. Keep out of reach of children.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 34,
+    "source_exact": "Nevhodné pro těhotné a kojící ženy a osoby s alergií na některou ze složek. Nenahrazuje pestrou a vyváženou stravu. Přípravek obsahuje kofein – nedoporučuje se užívat odpoledne a večer.",
+    "target_exact": "Food supplement. Not suitable for pregnant or breastfeeding women or people with an allergy to any of the ingredients. Not a substitute for a varied and balanced diet. This product contains caffeine – use in the afternoon or evening is not recommended.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 35,
+    "source_exact": "hovězí kolagenní peptidy (3500 daltonů), rybí kolagenní peptidy (2000 daltonů), aroma, regulátor kyselosti: kyselina citronová, garcinia cambogia extrakt (60% kyseliny hydroxycitronové), bromelain, ananasový prášek lyofilizovaný, mango extrakt (10:1), zelený čaj extrakt (50 % polyfenolů), kyselina askorbová, papain, pantothenát vápenatý, bisglycinát zinečnatý, sladidla: sukralóza, steviosid, dl-alfa-tokoferol-acetát, citrus aurantium extrakt (95% synefrinu), hyaluronát sodný, niacinamid, pyridoxin hydrochlorid, riboflavin, thiamin, kyselina listová, kyanokobalamin, biotin, chlorid chromitý.",
+    "target_exact": "bovine collagen peptides (3500 daltons), fish collagen peptides (2000 daltons), flavouring, acidity regulator: citric acid, garcinia cambogia extract (60% hydroxycitric acid), bromelain, freeze-dried pineapple powder, mango extract (10:1), green tea extract (50 % polyphenols), ascorbic acid, papain, calcium pantothenate, zinc bisglycinate, sweeteners: sucralose, stevioside, dl-alpha-tocopheryl acetate, citrus aurantium extract (95% synephrine), sodium hyaluronate, niacinamide, pyridoxine hydrochloride, riboflavin, thiamine, folic acid, cyanocobalamin, biotin, chromium chloride.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 36,
+    "source_exact": "*Referenční hodnota příjmu není stanovena. Slazeno sukralózou (nízkokalorické sladidlo).",
+    "target_exact": "*No reference intake has been established. Sweetened with sucralose (a low-calorie sweetener).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "en",
+    "paragraph_index": 37,
+    "source_exact": "U šarže L245382, EXP/LOT: 072028, je doporučená denní dávka 8 g (jedna odměrka).",
+    "target_exact": "For batch L245382, EXP/LOT: 072028, the recommended daily dose is 8 g (one scoop).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 1,
+    "source_exact": "Kolagenní peptidy, vitaminy, minerály a rostlinné extrakty. Balení pro každodenní přípravu nápoje.",
+    "target_exact": "Kollagenpeptide, Vitamine, Mineralstoffe und Pflanzenextrakte. Eine Dose für die tägliche Getränkezubereitung.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 2,
+    "source_exact": "Dóza obsahuje 240 g prášku, tedy 30 denních dávek po 8 g. Podrobné složení a množství jednotlivých látek najdete v tabulkách níže.",
+    "target_exact": "Die Dose enthält 240 g Pulver: 30 Tagesportionen zu je 8 g. Die vollständigen Zutaten und die Mengen der einzelnen Inhaltsstoffe finden Sie in den Tabellen weiter unten.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 3,
+    "source_exact": "Jde o produkt v dóze, nikoli o box s jednotlivě balenými sáčky. Pokyny k malé a velké odměrce podle šarže jsou uvedené v krátkém popisu produktu. Doplněk stravy.",
+    "target_exact": "Dieses Produkt wird in einer Dose angeboten, nicht als Box mit einzeln verpackten Portionsbeuteln. Hinweise zum kleinen und großen Messlöffel je nach Charge stehen in der kurzen Produktbeschreibung. Nahrungsergänzungsmittel.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 4,
+    "source_exact": "Slim Extreme Collagen je výjimečný spalovač tuků, který spojuje inovativní sílu kolagenních peptidů s cíleným podporováním hubnutí a zpevňování svalů. Díky kombinaci patentovaných kolagenů Verisol® a Peptiplus® nabízí nejen pomoc při tvarování postavy, ale i zlepšení elasticity pokožky, kvality vlasů a zdraví kloubů. Je navržen tak, aby pomohl na cestě ke zdravějšímu tělu a přinášel výsledky i ve dnech bez fyzické aktivity.",
+    "target_exact": "Slim Extreme Collagen ist ein außergewöhnlicher Fatburner, der die innovative Kraft von Kollagenpeptiden mit gezielter Unterstützung beim Abnehmen und der Festigung der Muskulatur verbindet. Dank der Kombination der patentierten Kollagene Verisol® und Peptiplus® unterstützt er nicht nur die Körperformung, sondern auch die Verbesserung der Hautelastizität, der Haarqualität und der Gelenkgesundheit. Er wurde entwickelt, um Sie auf dem Weg zu einem gesünderen Körper zu unterstützen und auch an Tagen ohne körperliche Aktivität Ergebnisse zu erzielen.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 5,
+    "source_exact": "Podpora hubnutí",
+    "target_exact": "Unterstützung beim Abnehmen",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 6,
+    "source_exact": "Extrémní spalování tuků",
+    "target_exact": "Extreme Fettverbrennung",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 7,
+    "source_exact": "Redukce celulitidy",
+    "target_exact": "Reduzierung von Cellulite",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 8,
+    "source_exact": "Redukce vrásek",
+    "target_exact": "Reduzierung von Falten",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 9,
+    "source_exact": "Pevné nehty",
+    "target_exact": "Feste Nägel",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 10,
+    "source_exact": "Vyrobeno v ČR",
+    "target_exact": "Hergestellt in Tschechien",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 11,
+    "source_exact": "Slim Extreme Collagen spojuje kolagenní peptidy Verisol® a Peptiplus® a kyselinu hyaluronovou s komplexem garcinie, zeleného čaje, synefrinu a enzymů. Je navržený jako součást redukčního režimu a každodenní péče o krásu.",
+    "target_exact": "Slim Extreme Collagen kombiniert die Kollagenpeptide Verisol® und Peptiplus® sowie Hyaluronsäure mit einem Komplex aus Garcinia, grünem Tee, Synephrin und Enzymen. Es wurde als Bestandteil eines Programms zur Gewichtsreduktion und der täglichen Schönheitspflege entwickelt.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 12,
+    "source_exact": "Složení doplňují vitaminy a minerály. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+    "target_exact": "Vitamine und Mineralstoffe ergänzen die Zusammensetzung. Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 13,
+    "source_exact": "Snižuje chuť k jídlu a podporuje spalování (HCA).",
+    "target_exact": "Verringert den Appetit und unterstützt die Fettverbrennung (HCA).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 14,
+    "source_exact": "Hydratace, pružnost pleti a podpora kloubů.",
+    "target_exact": "Feuchtigkeitsversorgung, Hautelastizität und Unterstützung der Gelenke.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 15,
+    "source_exact": "Enzymy bromelain, papain a zinek pro trávení.",
+    "target_exact": "Die Enzyme Bromelain und Papain sowie Zink für die Verdauung.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 16,
+    "source_exact": "Energie a správný metabolismus.",
+    "target_exact": "Energie und ein normal funktionierender Stoffwechsel.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 17,
+    "source_exact": "Tvorba kolagenu a antioxidační ochrana.",
+    "target_exact": "Kollagenbildung und antioxidativer Schutz.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 18,
+    "source_exact": "Antioxidanty a podpora spalování.",
+    "target_exact": "Antioxidantien und Unterstützung der Fettverbrennung.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 19,
+    "source_exact": "Je tropická rostlina pocházející z Asie a po staletí se používá k navození pocitu sytosti. Klíčovou účinnou látku v ní obsaženou je kyselina hydroxy-citronová (HCA), která zlepšuje trávení, snižuje chuť k jídlu a podporuje i spalování tuků.",
+    "target_exact": "Diese tropische Pflanze stammt aus Asien und wird seit Jahrhunderten verwendet, um ein Sättigungsgefühl hervorzurufen. Ihr zentraler Wirkstoff ist Hydroxycitronensäure (HCA), die die Verdauung verbessert, den Appetit verringert und auch die Fettverbrennung unterstützt.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 20,
+    "source_exact": "Látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost.",
+    "target_exact": "Eine Substanz, die in unserem Körper natürlich vorkommt und gebildet wird. Ihre Hauptfunktion besteht darin, Wasser zu binden, also das Gewebe mit Feuchtigkeit zu versorgen und dort ausreichend Feuchtigkeit zu bewahren. Sie hilft, die Haut zu nähren, sodass diese gesünder und elastischer wird. Dadurch verringert sie die Faltenbildung und unterstützt die Regeneration sowie die allgemeine Verjüngung der Haut. Sie hilft wirksam bei der Wundheilung und bei Gelenkschmerzen und verbessert die Beweglichkeit der Gelenke.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 21,
+    "source_exact": "Bromelain s papainem je unikátní kombinací dvou enzymů, které se nachází v ananasu a papáje. Oba působí pozitivně na trávení a ovlivňují rozklad bílkovin, což ocení zejména sportovci. Obsažený zinek se podílí na dělení buněk, přispívá k normálnímu metabolismu a chrání buňky před volnými radikály.",
+    "target_exact": "Bromelain und Papain bilden eine einzigartige Kombination zweier Enzyme, die in Ananas und Papaya vorkommen. Beide wirken sich positiv auf die Verdauung aus und beeinflussen den Abbau von Proteinen, was besonders Sportler zu schätzen wissen. Das enthaltene Zink ist an der Zellteilung beteiligt, trägt zu einem normalen Stoffwechsel bei und schützt die Zellen vor freien Radikalen.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 22,
+    "source_exact": "Vitamíny B jsou nezbytné pro správné fungování metabolismu a nervového systému. Zároveň umožňují vstřebávání látek a napomáhají jejich lepšímu využití. Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání, vitaminy B2 a B3 udržují normální stav pokožky a sliznic.",
+    "target_exact": "B-Vitamine sind für die normale Funktion des Stoffwechsels und des Nervensystems unerlässlich. Zugleich ermöglichen sie die Aufnahme von Stoffen und unterstützen deren bessere Verwertung. Die Vitamine B2, B3 und B5 tragen zur Verringerung von Müdigkeit und Ermüdung bei, die Vitamine B2 und B3 erhalten den normalen Zustand von Haut und Schleimhäuten.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 23,
+    "source_exact": "Vitamin C je důležitý pro tvorbu nového kolagenu, má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci a snížení únavy. Vitamin E je velmi silný antioxidant, má význam pro řadu oxidoredukčních pochodů a stabilizuje některé hormony.",
+    "target_exact": "Vitamin C ist wichtig für die Neubildung von Kollagen, wirkt sich positiv auf das Immunsystem aus und trägt zum Schutz und zur Bildung neuer Zellen, zu einer besseren Regeneration und zur Verringerung von Müdigkeit bei. Vitamin E ist ein sehr starkes Antioxidans, ist für zahlreiche Redoxprozesse von Bedeutung und stabilisiert bestimmte Hormone.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 24,
+    "source_exact": "Obsahuje antioxidanty a pomáhá bojovat proti volným radikálům. Podporuje zdravý zrak a snižuje riziko srdečních onemocnění. Účinky zeleného čaje umožňují spalování kalorií, podílí se na tvorbě dopaminu a podporují produktivitu.",
+    "target_exact": "Er enthält Antioxidantien und hilft, freie Radikale zu bekämpfen. Er unterstützt eine gesunde Sehkraft und verringert das Risiko von Herzerkrankungen. Die Wirkungen von grünem Tee ermöglichen die Verbrennung von Kalorien, tragen zur Bildung von Dopamin bei und fördern die Produktivität.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 25,
+    "source_exact": "Balení: 240 g prášku  ·  Stačí na: cca 30 dávek",
+    "target_exact": "Packungsinhalt: 240 g Pulver ·  Reicht für: ca. 30 Portionen",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 26,
+    "source_exact": "✓ Skladem – expedice do 24 hodin",
+    "target_exact": "Die aktuelle Verfügbarkeit finden Sie beim Kaufbutton.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 27,
+    "source_exact": "Bez lepku",
+    "target_exact": "Glutenfrei",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 28,
+    "source_exact": "Bez GMO",
+    "target_exact": "Gentechnikfrei",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 29,
+    "source_exact": "Bez přídatných látek",
+    "target_exact": "Ohne Zusatzstoffe",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 30,
+    "source_exact": "Bez laktózy",
+    "target_exact": "Laktosefrei",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 31,
+    "source_exact": "Bez cukru",
+    "target_exact": "Zuckerfrei",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 32,
+    "source_exact": "1 odměrku (8 g) rozmíchejte v 200–300 ml vody. Užívejte 1× denně, nejlépe ráno nebo dopoledne. Doporučená denní dávka se nesmí překročit.",
+    "target_exact": "Rühren Sie 1 Messlöffel (8 g) in 200–300 ml Wasser ein. Nehmen Sie das Produkt 1× täglich ein, vorzugsweise morgens oder vormittags. Die empfohlene tägliche Verzehrmenge darf nicht überschritten werden.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 33,
+    "source_exact": "Skladujte na suchém a chladném místě, mimo dosah přímého slunečního záření, při teplotě do 25 °C. Uchovávejte mimo dosah dětí.",
+    "target_exact": "Lagern Sie das Produkt trocken und kühl, vor direkter Sonneneinstrahlung geschützt und bei einer Temperatur bis 25 °C. Bewahren Sie es außerhalb der Reichweite von Kindern auf.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 34,
+    "source_exact": "Nevhodné pro těhotné a kojící ženy a osoby s alergií na některou ze složek. Nenahrazuje pestrou a vyváženou stravu. Přípravek obsahuje kofein – nedoporučuje se užívat odpoledne a večer.",
+    "target_exact": "Nahrungsergänzungsmittel. Nicht geeignet für Schwangere und Stillende sowie für Personen mit einer Allergie gegen einen der Inhaltsstoffe. Kein Ersatz für eine abwechslungsreiche und ausgewogene Ernährung. Das Produkt enthält Koffein – die Einnahme am Nachmittag und Abend wird nicht empfohlen.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 35,
+    "source_exact": "hovězí kolagenní peptidy (3500 daltonů), rybí kolagenní peptidy (2000 daltonů), aroma, regulátor kyselosti: kyselina citronová, garcinia cambogia extrakt (60% kyseliny hydroxycitronové), bromelain, ananasový prášek lyofilizovaný, mango extrakt (10:1), zelený čaj extrakt (50 % polyfenolů), kyselina askorbová, papain, pantothenát vápenatý, bisglycinát zinečnatý, sladidla: sukralóza, steviosid, dl-alfa-tokoferol-acetát, citrus aurantium extrakt (95% synefrinu), hyaluronát sodný, niacinamid, pyridoxin hydrochlorid, riboflavin, thiamin, kyselina listová, kyanokobalamin, biotin, chlorid chromitý.",
+    "target_exact": "Rinderkollagenpeptide (3500 Dalton), Fischkollagenpeptide (2000 Dalton), Aroma, Säureregulator: Citronensäure, Garcinia-cambogia-Extrakt (60% Hydroxycitronensäure), Bromelain, gefriergetrocknetes Ananaspulver, Mangoextrakt (10:1), Grünteeextrakt (50 % Polyphenole), Ascorbinsäure, Papain, Calciumpantothenat, Zinkbisglycinat, Süßungsmittel: Sucralose, Steviosid, DL-alpha-Tocopherylacetat, Citrus-aurantium-Extrakt (95% Synephrin), Natriumhyaluronat, Niacinamid, Pyridoxinhydrochlorid, Riboflavin, Thiamin, Folsäure, Cyanocobalamin, Biotin, Chrom(III)-chlorid.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 36,
+    "source_exact": "*Referenční hodnota příjmu není stanovena. Slazeno sukralózou (nízkokalorické sladidlo).",
+    "target_exact": "*Es ist kein Nährstoffbezugswert festgelegt. Mit Sucralose (kalorienarmes Süßungsmittel) gesüßt.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "long",
+    "lang": "de",
+    "paragraph_index": 37,
+    "source_exact": "U šarže L245382, EXP/LOT: 072028, je doporučená denní dávka 8 g (jedna odměrka).",
+    "target_exact": "Bei Charge L245382, EXP/LOT: 072028, beträgt die empfohlene tägliche Verzehrmenge 8 g (ein Messlöffel).",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "short",
+    "lang": "sk",
+    "paragraph_index": 0,
+    "source_exact": "Slim Extreme Collagen je silný a účinný spalovač tuků v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo. Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem. Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+    "target_exact": "Slim Extreme Collagen je silný a účinný spaľovač tukov v podobe osviežujúceho nápoja na chudnutie, ktorý zároveň využíva pozitívne účinky prvotriednych kolagénových peptidov na vaše telo. Vyvinutý pre každého, kto hľadá podporu na ceste za zdravším telom. Objavte kombináciu špičkových, patentovaných kolagénových peptidov Verisol® a Peptiplus®, ktoré spolu so silou ananásu na chudnutie, prírodných enzýmov a ďalších unikátnych zložiek podporujú rýchle a efektívne spaľovanie tukov.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "short",
+    "lang": "en",
+    "paragraph_index": 0,
+    "source_exact": "Slim Extreme Collagen je silný a účinný spalovač tuků v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo. Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem. Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+    "target_exact": "Slim Extreme Collagen is a powerful and effective fat burner in the form of a refreshing weight loss drink that also harnesses the positive effects of premium collagen peptides on your body. Developed for anyone seeking support on the journey towards a healthier body. Discover a combination of premium, patented collagen peptides Verisol® and Peptiplus® that, together with the weight loss power of pineapple, natural enzymes and other unique ingredients, support fast and effective fat burning.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  },
+  {
+    "kind": "short",
+    "lang": "de",
+    "paragraph_index": 0,
+    "source_exact": "Slim Extreme Collagen je silný a účinný spalovač tuků v podobě osvěžujícího nápoje na hubnutí, který zároveň využívá pozitivní účinky prvotřídních kolagenových peptidů na vaše tělo. Vyvinutý pro každého, kdo hledá podporu na cestě za zdravějším tělem. Objevte kombinaci špičkových, patentovaných kolagenových peptidů Verisol® a Peptiplus®, které spolu se silou ananasu na hubnutí, přírodních enzymů a dalších unikátních složek podporují rychlé a efektivní spalování tuků.",
+    "target_exact": "Slim Extreme Collagen ist ein starker und wirksamer Fatburner in Form eines erfrischenden Getränks zum Abnehmen, das zugleich die positiven Wirkungen erstklassiger Kollagenpeptide auf Ihren Körper nutzt. Entwickelt für alle, die auf dem Weg zu einem gesünderen Körper Unterstützung suchen. Entdecken Sie die Kombination hochwertiger, patentierter Kollagenpeptide Verisol® und Peptiplus®, die gemeinsam mit der Kraft der Ananas zum Abnehmen, natürlichen Enzymen und weiteren einzigartigen Inhaltsstoffen eine schnelle und effektive Fettverbrennung unterstützen.",
+    "review": "Inherited working translation; effect assertions not approved for publication."
+  }
+]

@@ -1,0 +1,856 @@
+{
+  "product_id": "547",
+  "base_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "scope": "Local working translation only; no commit/push, CMS changes or paid generation.",
+  "sources": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html",
+      "sha256": "32d880e37bef4b69488e70a0fbdc9e5b3c3da7fe8bf789b5df13f4206e547ee9",
+      "faq_count": 0,
+      "jsonld_count": 0,
+      "head_metadata_count": 0
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html",
+      "sha256": "7e3baff49f19ace3e16f299c918448242fd99eddfc5fa7dad2ad2577156f1970",
+      "faq_count": 0,
+      "jsonld_count": 0,
+      "head_metadata_count": 0
+    }
+  ],
+  "files": [
+    {
+      "language": "sk",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-sk.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/547/Golden-Life-Slim-GLP1-Shake-cappuccino-sk.html",
+      "sha256": "cf3b1f92d94bdda8576771527700cbdb51bb4c7a91589073ced7fd33fe08b017",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html",
+      "source_sha256": "32d880e37bef4b69488e70a0fbdc9e5b3c3da7fe8bf789b5df13f4206e547ee9",
+      "edit_count": 250,
+      "reverse_exact": true,
+      "css_exact": true,
+      "protected_attributes_and_urls_exact": true,
+      "visible_numeric_tokens_exact": true,
+      "table_numeric_tokens_exact": true,
+      "structure_and_counts_exact": {
+        ".ucinky-item": 9,
+        ".scenario-card": 9,
+        ".latky-plus": 9,
+        ".latky-modal": 9,
+        ".custom-grid > div": 5,
+        ".hero-icons-grid > div": 6,
+        ".maly-ikony > div": 0,
+        "table": 2,
+        "td": 84,
+        "th": 6
+      },
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": true
+        },
+        {
+          "index": 1,
+          "sha256": "f95b6e3d0d27cfdbc85ca33836e65e1c2ab71a78b15ff77c1a70c1cc026ed57c",
+          "node_check": true
+        },
+        {
+          "index": 2,
+          "sha256": "8a4cdad23917868a15e2eb441d26dca6fc24981b96f971fd81ee46230cb17b3f",
+          "node_check": true
+        },
+        {
+          "index": 3,
+          "sha256": "1db3b38e358cf0757c457ae275d551606f6cd6122b1c85a71946163f6640e868",
+          "node_check": true
+        }
+      ],
+      "unchanged_strings_for_review": [
+        "(8,9 mld. CFU) a",
+        "0,025 g",
+        "0,083 g",
+        "0,3 g",
+        "0,9 g",
+        "1,4 g",
+        "100 g",
+        "1516 kJ (357 kcal)",
+        "2,1 g",
+        "2,4 g",
+        "2,6 g",
+        "20,3 g",
+        "30 g",
+        "30 g (1 dávka)",
+        "4,5 g",
+        "455 kJ (107 kcal)",
+        "600 g v balení",
+        "66,6 mcg",
+        "67,7 g",
+        "7,1 g",
+        "8 g",
+        "8,6 g",
+        "AQUAMIN SOLUBLE®",
+        "Aquamin® Soluble",
+        "Aquamin® Soluble.",
+        "Bez GMO",
+        "Bez cukru",
+        "Bez lepku",
+        "CAROLEAN™",
+        "CAROLEAN™.",
+        "Energetická hodnota",
+        "Fruktooligosacharidy (FOS)",
+        "LactoSpore®",
+        "MCT olej v prášku",
+        "MCT olej z kokosu",
+        "MCT tuky z kokosu",
+        "Multivitamínový premix",
+        "Prebiotická vláknina FOS",
+        "SHAKE",
+        "Sacharidy",
+        "Slim GLP-1 Shake · Golden Life",
+        "Tuky",
+        "Vláknina",
+        "Z toho cukry",
+        "a probiotika",
+        "Účinky"
+      ]
+    },
+    {
+      "language": "sk",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-sk.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/547/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-sk.html",
+      "sha256": "6cf5129b551d8a7adf5dcc06046cafe325d0e4691b8c53da4a94a1df3e6d1347",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html",
+      "source_sha256": "7e3baff49f19ace3e16f299c918448242fd99eddfc5fa7dad2ad2577156f1970",
+      "edit_count": 15,
+      "reverse_exact": true,
+      "css_exact": true,
+      "protected_attributes_and_urls_exact": true,
+      "visible_numeric_tokens_exact": true,
+      "table_numeric_tokens_exact": true,
+      "structure_and_counts_exact": {
+        ".ucinky-item": 0,
+        ".scenario-card": 0,
+        ".latky-plus": 0,
+        ".latky-modal": 0,
+        ".custom-grid > div": 0,
+        ".hero-icons-grid > div": 0,
+        ".maly-ikony > div": 5,
+        "table": 0,
+        "td": 0,
+        "th": 0
+      },
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": true
+        }
+      ],
+      "unchanged_strings_for_review": [
+        "600 g",
+        "Slim GLP-1 Shake - cappuccino"
+      ]
+    },
+    {
+      "language": "en",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-en.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/547/Golden-Life-Slim-GLP1-Shake-cappuccino-en.html",
+      "sha256": "0267890d37ab87cd74489a6f0f8d1a0141aafd12f1baebd542822df653fb84d8",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html",
+      "source_sha256": "32d880e37bef4b69488e70a0fbdc9e5b3c3da7fe8bf789b5df13f4206e547ee9",
+      "edit_count": 273,
+      "reverse_exact": true,
+      "css_exact": true,
+      "protected_attributes_and_urls_exact": true,
+      "visible_numeric_tokens_exact": true,
+      "table_numeric_tokens_exact": true,
+      "structure_and_counts_exact": {
+        ".ucinky-item": 9,
+        ".scenario-card": 9,
+        ".latky-plus": 9,
+        ".latky-modal": 9,
+        ".custom-grid > div": 5,
+        ".hero-icons-grid > div": 6,
+        ".maly-ikony > div": 0,
+        "table": 2,
+        "td": 84,
+        "th": 6
+      },
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": true
+        },
+        {
+          "index": 1,
+          "sha256": "3b7afb6c5dd966885a832dbf0404c1e256e8076284e341e9b82f59050c2c15cb",
+          "node_check": true
+        },
+        {
+          "index": 2,
+          "sha256": "8a4cdad23917868a15e2eb441d26dca6fc24981b96f971fd81ee46230cb17b3f",
+          "node_check": true
+        },
+        {
+          "index": 3,
+          "sha256": "1db3b38e358cf0757c457ae275d551606f6cd6122b1c85a71946163f6640e868",
+          "node_check": true
+        }
+      ],
+      "unchanged_strings_for_review": [
+        "0,025 g",
+        "0,083 g",
+        "0,3 g",
+        "0,9 g",
+        "1,4 g",
+        "100 g",
+        "1516 kJ (357 kcal)",
+        "2,1 g",
+        "2,4 g",
+        "2,6 g",
+        "20,3 g",
+        "30 g",
+        "4,5 g",
+        "455 kJ (107 kcal)",
+        "66,6 mcg",
+        "67,7 g",
+        "7,1 g",
+        "8 g",
+        "8,6 g",
+        "AQUAMIN SOLUBLE®",
+        "Aquamin® Soluble",
+        "Aquamin® Soluble.",
+        "CAROLEAN™",
+        "CAROLEAN™.",
+        "LactoSpore®",
+        "SHAKE",
+        "Slim GLP-1 Shake · Golden Life",
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B5",
+        "Vitamin B6",
+        "Vitamin B7 (Biotin)",
+        "Vitamin B9 (L-MTHF)",
+        "Vitamin C",
+        "Vitamin D3",
+        "Vitamin E",
+        "Vitamin K2"
+      ]
+    },
+    {
+      "language": "en",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-en.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/547/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-en.html",
+      "sha256": "537efe6fe669a37d7d106420485b163b9f7b99da5bfdba0128bd2d2a2b337f58",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html",
+      "source_sha256": "7e3baff49f19ace3e16f299c918448242fd99eddfc5fa7dad2ad2577156f1970",
+      "edit_count": 15,
+      "reverse_exact": true,
+      "css_exact": true,
+      "protected_attributes_and_urls_exact": true,
+      "visible_numeric_tokens_exact": true,
+      "table_numeric_tokens_exact": true,
+      "structure_and_counts_exact": {
+        ".ucinky-item": 0,
+        ".scenario-card": 0,
+        ".latky-plus": 0,
+        ".latky-modal": 0,
+        ".custom-grid > div": 0,
+        ".hero-icons-grid > div": 0,
+        ".maly-ikony > div": 5,
+        "table": 0,
+        "td": 0,
+        "th": 0
+      },
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": true
+        }
+      ],
+      "unchanged_strings_for_review": [
+        "600 g",
+        "Slim GLP-1 Shake - cappuccino"
+      ]
+    },
+    {
+      "language": "de",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-de.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/547/Golden-Life-Slim-GLP1-Shake-cappuccino-de.html",
+      "sha256": "f601707e4031fe7dff7714fe484af85d1d2c2146a67bca9fad296d1428ebcbc2",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-cz.html",
+      "source_sha256": "32d880e37bef4b69488e70a0fbdc9e5b3c3da7fe8bf789b5df13f4206e547ee9",
+      "edit_count": 272,
+      "reverse_exact": true,
+      "css_exact": true,
+      "protected_attributes_and_urls_exact": true,
+      "visible_numeric_tokens_exact": true,
+      "table_numeric_tokens_exact": true,
+      "structure_and_counts_exact": {
+        ".ucinky-item": 9,
+        ".scenario-card": 9,
+        ".latky-plus": 9,
+        ".latky-modal": 9,
+        ".custom-grid > div": 5,
+        ".hero-icons-grid > div": 6,
+        ".maly-ikony > div": 0,
+        "table": 2,
+        "td": 84,
+        "th": 6
+      },
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": true
+        },
+        {
+          "index": 1,
+          "sha256": "c4ead3a499b5be8723b8be8523da6df7335e913b8b847138e65ddd032353e4b1",
+          "node_check": true
+        },
+        {
+          "index": 2,
+          "sha256": "8a4cdad23917868a15e2eb441d26dca6fc24981b96f971fd81ee46230cb17b3f",
+          "node_check": true
+        },
+        {
+          "index": 3,
+          "sha256": "1db3b38e358cf0757c457ae275d551606f6cd6122b1c85a71946163f6640e868",
+          "node_check": true
+        }
+      ],
+      "unchanged_strings_for_review": [
+        "0,025 g",
+        "0,083 g",
+        "0,3 g",
+        "0,9 g",
+        "1,4 g",
+        "100 g",
+        "1516 kJ (357 kcal)",
+        "2,1 g",
+        "2,4 g",
+        "2,6 g",
+        "20,3 g",
+        "30 g",
+        "4,5 g",
+        "455 kJ (107 kcal)",
+        "66,6 mcg",
+        "67,7 g",
+        "7,1 g",
+        "8 g",
+        "8,6 g",
+        "AQUAMIN SOLUBLE®",
+        "Aquamin® Soluble",
+        "Aquamin® Soluble.",
+        "CAROLEAN™",
+        "CAROLEAN™.",
+        "Chrom",
+        "LactoSpore®",
+        "SHAKE",
+        "Slim GLP-1 Shake · Golden Life",
+        "Vitamin A",
+        "Vitamin B1",
+        "Vitamin B2",
+        "Vitamin B5",
+        "Vitamin B6",
+        "Vitamin B7 (Biotin)",
+        "Vitamin B9 (L-MTHF)",
+        "Vitamin C",
+        "Vitamin D3",
+        "Vitamin E",
+        "Vitamin K2"
+      ]
+    },
+    {
+      "language": "de",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-de.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/547/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-de.html",
+      "sha256": "f93b29553c5180be36c29c78911d3c7d362ce2ea7cfc52390df01d82d766c9b5",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-cz.html",
+      "source_sha256": "7e3baff49f19ace3e16f299c918448242fd99eddfc5fa7dad2ad2577156f1970",
+      "edit_count": 15,
+      "reverse_exact": true,
+      "css_exact": true,
+      "protected_attributes_and_urls_exact": true,
+      "visible_numeric_tokens_exact": true,
+      "table_numeric_tokens_exact": true,
+      "structure_and_counts_exact": {
+        ".ucinky-item": 0,
+        ".scenario-card": 0,
+        ".latky-plus": 0,
+        ".latky-modal": 0,
+        ".custom-grid > div": 0,
+        ".hero-icons-grid > div": 0,
+        ".maly-ikony > div": 5,
+        "table": 0,
+        "td": 0,
+        "th": 0
+      },
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": true
+        }
+      ],
+      "unchanged_strings_for_review": [
+        "600 g",
+        "Slim GLP-1 Shake - cappuccino"
+      ]
+    }
+  ],
+  "tests": {
+    "offset_reversal": "PASS for all 6 outputs",
+    "node_check": "PASS all executable inline scripts",
+    "css_preservation": "PASS byte-identical inline CSS and import URLs",
+    "structure": "PASS identical markup and protected attributes",
+    "numeric_facts": "PASS source numeric tokens retained in all visible text and every table cell; RHP/CFU wording localized without quantity conversion",
+    "addressing": "Formal Slovak and German customer address throughout static and runtime copy; English neutral/polite. First-person scenario quotations retained.",
+    "browser": {
+      "status": "PASS isolated final-fragment Chromium QA",
+      "engine": "Chromium 156.0.8078.4",
+      "harness": "Direct same-origin intercepted document containing exact final long/short HTML. Original inline and shared scheme scripts execute from actual HTML; repository CSS/JS and 26 authentic cached image assets are served; other network requests are blocked. No native shop template or cart submission.",
+      "languages": 3,
+      "viewport_cases": 24,
+      "viewport_sizes": [
+        "1440x1050",
+        "1024x768",
+        "820x1180",
+        "768x1024",
+        "767x1024",
+        "390x844",
+        "320x740",
+        "1440x1050 return"
+      ],
+      "ingredient_dialog_open_escape_close_cycles": 54,
+      "info_open_close_cycles": 6,
+      "mobile_toggle_states": "All 3 controls per mobile size/language opened and closed; localized visible labels and ARIA checked. Mobile–desktop cleanup verified.",
+      "all_geometry_pass": true,
+      "images": "All 26 distinct source image resources cached from successful image responses; all rendered IMG elements decode. Correct immutable outline flame retained in both fragments.",
+      "masks": "No CSS alpha-mask wrappers in current source pair: actual pictograms are IMG elements; computed mask-image:none recorded. No fabricated mask test.",
+      "dark_host_roundtrip": {
+        "sk": [
+          "dark",
+          "light"
+        ],
+        "en": [
+          "dark",
+          "light"
+        ],
+        "de": [
+          "dark",
+          "light"
+        ]
+      },
+      "page_errors": 0,
+      "blocked_uncached_requests": [
+        "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+      ],
+      "limitations": "Unneeded shared Material Symbols stylesheet blocked as uncached. Isolated harness is not live native-shop, CMS, checkout or physical-device verification.",
+      "results": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/browser.json"
+    },
+    "javascript_ast": {
+      "status": "PASS",
+      "script_count": 15,
+      "method": "Acorn AST identity after explicitly inventoried string-literal and heading-regexp localization only.",
+      "results": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/ast-results.json"
+    },
+    "untranslated_czech_scan": {
+      "status": "PASS",
+      "regex": "\\b(?:Svačinka|svačinku|svačiny|Zobrazit|Zavřít|Přejít|Představujeme|Složení|Syrovátkový|Micelární|Bílkoviny|hmotnost|dávkování|přesně|příchutí|přispívá|který|které|jsou|mléka|mléko|vstřebávání|Zvyšuje|Potlačuje)\\b",
+      "files": [
+        {
+          "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-sk.html",
+          "hits": [],
+          "unchanged_strings": "Only numeric/unit/brand tokens, legitimate shared Czech–Slovak terms or internationally identical vitamin names; reviewed in report file entries."
+        },
+        {
+          "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-sk.html",
+          "hits": [],
+          "unchanged_strings": "Only numeric/unit/brand tokens, legitimate shared Czech–Slovak terms or internationally identical vitamin names; reviewed in report file entries."
+        },
+        {
+          "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-en.html",
+          "hits": [],
+          "unchanged_strings": "Only numeric/unit/brand tokens, legitimate shared Czech–Slovak terms or internationally identical vitamin names; reviewed in report file entries."
+        },
+        {
+          "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-en.html",
+          "hits": [],
+          "unchanged_strings": "Only numeric/unit/brand tokens, legitimate shared Czech–Slovak terms or internationally identical vitamin names; reviewed in report file entries."
+        },
+        {
+          "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-de.html",
+          "hits": [],
+          "unchanged_strings": "Only numeric/unit/brand tokens, legitimate shared Czech–Slovak terms or internationally identical vitamin names; reviewed in report file entries."
+        },
+        {
+          "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-de.html",
+          "hits": [],
+          "unchanged_strings": "Only numeric/unit/brand tokens, legitimate shared Czech–Slovak terms or internationally identical vitamin names; reviewed in report file entries."
+        }
+      ]
+    },
+    "visual_review": {
+      "status": "PASS",
+      "reviewed": [
+        "phone-visual-review.png",
+        "de-1440-how.png",
+        "en-1440-ingredients.png",
+        "de-390-usage.png",
+        "de-320-usage.png",
+        "sk-320-usage.png",
+        "en-320-usage.png"
+      ],
+      "notes": "Inspected actual painted screenshots. Correct nine-card ingredient mapping including eighth whey-protein card, original flame, complete how-it-works paragraphs and five distinct usage icons. 320px arbitrary DE/SK compound breaks corrected using text-only discretionary hyphens, then final fragments re-rendered. No layout/CSS modifications."
+    },
+    "typography_exceptions": [
+      "DE visible captions use discretionary soft hyphens in Gluten-frei, Zucker-frei, Koffein-frei; unhyphenated accessible ALT preserved.",
+      "SK visible caption has discretionary prídav-ných; accessible ALT unhyphenated.",
+      "DE short factual usage labels are GVO-frei and Ohne Zusätze, faithful concise equivalents.",
+      "DE nominative subject 7 OPTI7DIGEST®-Enzyme differs from introductory dative 7 OPTI7DIGEST®-Enzymen by source-context-only text replacement."
+    ],
+    "source_pin": "PASS both CZ files byte-identical to specified base commit"
+  },
+  "risks": [
+    {
+      "id": "claims",
+      "detail": "Inherited appetite suppression, fat burning/reduction, collagen skin/joint/rejuvenation, mineral hydration/energy, probiotic immunity/metabolism/mood, enzyme fat-burning and related wording require market/claims review. Exact source sentence ledger is separate from HTML.",
+      "ledger": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/claims-ledger.json"
+    },
+    {
+      "id": "probiotic-dose",
+      "source_quotes": [
+        "Každá porce obsahuje 8,9 miliardy CFU",
+        "50 mg – 0,75 mld. KJT (*% RHP)"
+      ],
+      "detail": "Source narrative and per-serving table disagree. Both quantities retained, only CFU terminology localized."
+    },
+    {
+      "id": "sugar-free",
+      "source_quotes": [
+        "Bez cukru",
+        "2,4 g"
+      ],
+      "detail": "Sugar-free icon conflicts with sugar per serving. Original icon and facts retained, not certified."
+    },
+    {
+      "id": "additives",
+      "source_quotes": [
+        "Bez přídatných látek",
+        "zahušťovadlo: xanthan, barvivo: karamel, sladidlo: sukralóza."
+      ],
+      "detail": "Additive-free claim conflicts with listed ingredients. Retained for review."
+    },
+    {
+      "id": "carnitine-table",
+      "source_quotes": [
+        "1 g (*% RHP)",
+        "0,33 g (*% RHP)"
+      ],
+      "detail": "L-carnitine table lists these at 100 g / 30 g. Inconsistent proportional quantities preserved, not recalculated."
+    },
+    {
+      "id": "allergens",
+      "source_quotes": [
+        "U osob s alergií na mléko nebo sóju se doporučuje opatrnost.",
+        "mléko, skořápkové plody."
+      ],
+      "detail": "Caution mentions milk/soya, allergen list milk/tree nuts. Faithfully retained; product-owner verification needed."
+    },
+    {
+      "id": "classification-warning",
+      "detail": "Source food-supplement designation and actual warning faithfully translated. Food/snack versus meal-replacement legal classification not independently established; no new meal-replacement claim added."
+    },
+    {
+      "id": "numeric-format",
+      "detail": "Decimal commas and all quantities retained intentionally, including English table values. RHP becomes RVH (SK) / NRV (EN,DE); mld./KJT becomes localized billion/CFU terminology with identical quantities. REA source abbreviation retained and explained."
+    }
+  ],
+  "exclusions": [
+    {
+      "surface": "CZ hardcoded price/stock/review/rating/JSON-LD offer fallbacks",
+      "action": "None present in current pinned source pair. No price conversion, offer, rating or availability claim added. Existing neutral native purchase note faithfully translated."
+    },
+    {
+      "surface": "FAQ / HEAD SEO / JSON-LD",
+      "action": "Absent from actual current fragment pair; no fabricated sections or structured data. Existing SEO-like source subtitle translated."
+    }
+  ],
+  "delivery_state": "Six local translated HTML files complete and QA verified; no commit/push and no CMS or remote writes. Claims remain working translations pending content/legal approval.",
+  "counts": {
+    "html_files": 6,
+    "claims_ledger_entries": 119,
+    "executable_scripts_checked": 15,
+    "viewport_cases": 24,
+    "ingredient_dialog_cycles": 54
+  },
+  "dependencies": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/css/golden-life-produkt.css",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+      "state": "Read-only exact prepared dependency used in isolated QA; not uploaded"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/css/golden-life-barvy-slim-glp1-shake-cappuccino.css",
+      "sha256": "ff8d33672aa7105ec1492656a8ec5c8f15f45cf02dc7ef6151771fa726d15355",
+      "state": "Read-only exact prepared dependency used in isolated QA; not uploaded"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/js/golden-life-product-scheme.js",
+      "sha256": "9acf927a851a7f2397e8efd1e2c6448809e8b2099634d48de134a7ef16fa2b7f",
+      "state": "Read-only exact existing shared dependency; supports this source theme"
+    }
+  ],
+  "screenshot_evidence": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-banner.png",
+      "sha256": "31681989a931c62e08f4dd05197f26862b2b05254398f883b6d729429fe3b46e"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-benefits.png",
+      "sha256": "961e41e09dcc8fb81ec4d2fbbeef34dff465440875eebc66586d766dbd7d8487"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-dialog-0.png",
+      "sha256": "f47cd975a6028c76f24a54b71f497d71148be21d239622a940d6854e89d423e3"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-dialog-7.png",
+      "sha256": "5a95466e9d8d47a70f1dbaf1092e38551cf003bc390313c34c34df2f768dc1d6"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-how.png",
+      "sha256": "5df4ea2b19b4bb5cc930b117c5f8d7a21ba255866d32b2a72f70534b6d5c3fe4"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-ingredients.png",
+      "sha256": "de04c5d2d783b7f4f81fba05b0affe3fb0d6145d296c8821e2cefb2aa4ce1705"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-short.png",
+      "sha256": "28f8a9e71bbb326e17f120e8373fba77cbd7c7b3133c968f8f7992e379e9c790"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-situations.png",
+      "sha256": "4fb7f2a839a1020f387de927f4cb726bc6fbdeab01d0a02738dd1019039faa8b"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-1440-usage.png",
+      "sha256": "437d3a70a2f95f6a20d697e88a1020a4efedc2ae6440aea181f85054f0e10cce"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-320-short.png",
+      "sha256": "20edd91e823a67b07078de2d7d020d7b194dd9afeddfa2ae8c0f4757714f667a"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-320-usage.png",
+      "sha256": "c4bc5e64335e1638bfe1bb576b94e2f36d3870d8bffb68333d855c3957f39d27"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-banner.png",
+      "sha256": "1605d14c6cd11bbb382f7e5e8503700738cb2afd61959120445ce5954ab4f3d3"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-benefits.png",
+      "sha256": "a74b729fa99672d164c0c03084c1efda5110fbdcb688afb42e2166cf3ade02d8"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-dialog-0.png",
+      "sha256": "c16b74c15f8d54d1e00ad933c783a29cbec554d53eefce338cbb1d997d294ce7"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-dialog-7.png",
+      "sha256": "8077f91cd2a036bf24ee0a3475daa1aecc38ba9e64473c455e2679838efa88a5"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-how.png",
+      "sha256": "278bf323cb1e8e1fc4a6c4669a28cbe5e386e17c3ec6913e6fc7e40dfb112b47"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-ingredients.png",
+      "sha256": "dd8eb347661dcba651deb2f19caaf8251837a7ed9a8445bad5021ec40b0c6217"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-short.png",
+      "sha256": "93f41ea2562d1ba3405b23bf1769d2280d2a04d2cd0f428aef9a5f48287d61fe"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-situations.png",
+      "sha256": "3414968ddb0a9a5cb58a091944d4ebd4643e9e0f8941d2a25a47ad47daf3f4d6"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/de-390-usage.png",
+      "sha256": "09bc807c58d2ba3229a2971312321dc8909e32ab9ff9fd682a9710c2deda148c"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-banner.png",
+      "sha256": "35b0bc0cfa3f4bbc1925d9ff98f96a4d9e9a88e65694067deae5346609482824"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-benefits.png",
+      "sha256": "58549022b47468ce8455a90e706f4d86fabc6ba0de621704de877ca71630fb72"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-dialog-0.png",
+      "sha256": "a71f8740d2972a67af8c62eaf853dea34335493905c1a58b122e7f81da0cbb2f"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-dialog-7.png",
+      "sha256": "57ca45d6c61938e80b324362deca0768b8bb2f93e5f3d11737087f573de2776a"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-how.png",
+      "sha256": "27fd968cc207a4af9b54d0a8f416d6a1a928d2973539c8bd14976a903c84c1ac"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-ingredients.png",
+      "sha256": "32e72053b32c82f5ca3c73d5d5213f5d35ce0565c21fb91962b891ed59121e52"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-short.png",
+      "sha256": "5ae6ca5af4f678d2fa33dd6ab387db50402ed199025cfc1abd995552712290f8"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-situations.png",
+      "sha256": "4098c94a23f9c5f1f9ec4d4215507bf751a755b68f08164a72a230ae2f8e194a"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-1440-usage.png",
+      "sha256": "20efb658affbbf6bc72316bb3294096a9a135d2f6b3ef3c99c194cfbfb50a3c3"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-320-short.png",
+      "sha256": "a43182ff47733688f9a607bf4b8adab2c3c0e4af969a7c5c3ac69418a2a58490"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-320-usage.png",
+      "sha256": "6d4fafb156769e58cbc48da101ce17a5cd31fc408af0961bbd8c785738c5ae2e"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-banner.png",
+      "sha256": "72b41928c8fb28783c83291c449c9d4b5d1a3f363ee91c0cc6b65e2a0d505109"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-benefits.png",
+      "sha256": "65097c0cd06743ef6de911aa02b5252c3b8627dd7aaf592f7404cf57940b82d0"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-dialog-0.png",
+      "sha256": "a34b49d955d5ec368b75e59396fa41be45ac04e7483e3de1ebdac0bcecb93bf1"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-dialog-7.png",
+      "sha256": "5cde954ad0ae5ca2be8546df0715cba1e8f09f835d30fbf76f2e9de73ef4ef51"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-how.png",
+      "sha256": "8fe953bb11daa43c1ba134ebe71d09eebbddab9538d42cf9304050b731c01b57"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-ingredients.png",
+      "sha256": "d76eb250a25b9fbc82cd2f2052a167cd395d1e2c4ac3f93192f4e69e6b879a18"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-short.png",
+      "sha256": "3c4a926c025830e198f8ef171c88d903408575d9e30e5a6840a0cde7279559d7"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-situations.png",
+      "sha256": "139d74ca241d3376ea89b3ebb5a122bb5a2aee61285bc2fbb565b2862f46b6bd"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/en-390-usage.png",
+      "sha256": "d1142fe3eec888d2fb7791ed8d7f456d9d3256712576e4934167c9bc8f216051"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/phone-visual-review.png",
+      "sha256": "7450834025604d1cdff44a22b966fa8d371c46a0fa95a2db0b193354ed076173"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-banner.png",
+      "sha256": "8f10ac87656a7fd78b77518a4e066ba2cbe0169ba4c85f156332f9716b2877c7"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-benefits.png",
+      "sha256": "37b4b02ea086623be23b02cc4dd21ecad769f201c7c483b9977b7d44cdd9f6a7"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-dialog-0.png",
+      "sha256": "ac1c54be07398bb11e973bf018a176f3cb605ebcef1f0bf19a7dedaac0287394"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-dialog-7.png",
+      "sha256": "d0e879f8897a55d878d7ab9cf4528d677be55c3c459cc4ca0d7f8129017b8117"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-how.png",
+      "sha256": "8de9bfc0cf3941bf7cfd6e8d227927fa2a48b8a555ef87d9f2a5780fe2bdee14"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-ingredients.png",
+      "sha256": "e26119dead37c05097f67b663aea8a0e684d1e347a1f80adcdadf1051b4988a7"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-short.png",
+      "sha256": "e7bbfae521ae4f9ca9ef74d8bcce2569e0b597b6a8bfd8984e7c85fe21419c44"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-situations.png",
+      "sha256": "854dc4d51f68d6a645ad92d74f77e328af5dbfa1740539fdaa3a8fe663da414e"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-1440-usage.png",
+      "sha256": "5ffb7b219c59f4299b71d30c231eb7f7704177a8f3d4101e0123f3354635978f"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-320-short.png",
+      "sha256": "0d61d74fefb08fe6aaa6299386cd782cdc1c771ab5cb60627e9983275265313e"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-320-usage.png",
+      "sha256": "1b2de92a5d15a9c474c634638a8fb1bf46e86732587d34a91dec67f06294687c"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-banner.png",
+      "sha256": "c7cb6140e3bd482eb9f9ceac323cc871b4ae05114d94351e97c03c39fb1ab4ac"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-benefits.png",
+      "sha256": "ccf93624a91702272bfc6526c89d6868c7a7d12b0f46a2af05edd7698693f9a2"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-dialog-0.png",
+      "sha256": "ab1aad483109be882b082f41a0d2750188724db375f09027772e6f9fa29f81dc"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-dialog-7.png",
+      "sha256": "c676296c1ed600becfe6b235008524c2f764c4752658d9e68ba90c506eaa6a1e"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-how.png",
+      "sha256": "a29d2202e603805444e87ee6bf26737688b9a137073f94c6b01b8a6d8033f5c1"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-ingredients.png",
+      "sha256": "3e4b368b85f1cdadb62ab2b5cf1a5ad799f9e0429b4e475590dc2632bd050823"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-short.png",
+      "sha256": "f4514b575e79c0303b8eb456f18b0d1e99fd9f8fa944a859d1d157adce9600eb"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-situations.png",
+      "sha256": "b47a873ca6d4a9ff2f3812485822e6aea692ab26822e2ab4dcc20b18960270d7"
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/sk-390-usage.png",
+      "sha256": "bfb1a285d870cc97ff185b7c421d0e1a88d07f57ff3602ea5bf14ba936dc7a18"
+    }
+  ]
+}

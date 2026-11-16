@@ -1,0 +1,2324 @@
+{
+  "cases": [
+    {
+      "id": "351",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "351",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": [
+          "Zobraziť viac",
+          "Zobraziť viac",
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "351",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "351",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": [
+          "Show more",
+          "Show more",
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "351",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "351",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": [
+          "Mehr anzeigen",
+          "Mehr anzeigen",
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "258",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "258",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Zobraziť viac",
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "258",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "258",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Show more",
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "258",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "258",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Mehr anzeigen",
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/258_bylinny-caj-30dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6a9&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "261",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "261",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Zobraziť viac",
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "261",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "261",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Show more",
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "261",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "261",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 41@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 33@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 88 kopie@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 31@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29@2x.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medunka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-mata-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Mehr anzeigen",
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-mata-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medunka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslic%C3%AD%20pl%C3%A1tno%2088%20kopie@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20kopie%2041@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/imunita-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/kvalitni-spanek-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/list-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/pohoda-zelena.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2029@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2031@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20kopie%2033@2x.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/261_bylinny-caj-7dni.png?ff=1&x=1024&y=1024&q=85&ts=67d2b6be&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "360",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 6,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-briza-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-brusinka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-ibisek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medvedice-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-vres-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/%C4%8Das.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "360",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 6,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Zobraziť viac",
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-briza-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-brusinka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-ibisek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medvedice-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-vres-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/%C4%8Das.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "360",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 6,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-briza-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-brusinka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-ibisek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medvedice-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-vres-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/%C4%8Das.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "360",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 6,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Show more",
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-briza-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-brusinka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-ibisek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medvedice-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-vres-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/%C4%8Das.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "360",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 6,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-briza-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-brusinka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-ibisek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medvedice-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-vres-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/%C4%8Das.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "360",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 6,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-briza-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-brusinka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-vres-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-sipek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-truskavec-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-ibisek-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-preslicka-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/golden-life-caje-medvedice-v1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Mehr anzeigen",
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-briza-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-brusinka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-ibisek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-medvedice-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-preslicka-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-sipek-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-truskavec-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-vres-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/golden-life-caje-zlatobyl-v1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/%C4%8Das.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/DAVKOVANI.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/360-1_bylinny-caj-30dni-pink.png?ff=1&x=1024&y=1024&q=85&ts=67d2b8d4&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "168",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/sugar free.png"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/01_garcinia-cambogia.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/02_kyselina-hyaluronova.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/03_mineraly-a-enzymy.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/04_b-komplex.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/05_vitaminy-c-a-e.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/06_zeleny-caj.png",
+        "https://www.golden-life.cz/user/documents/upload/mockup/Slim%20extreme%20Collagen.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20mala_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20velka_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/produktove_stranky/colagen%20DOZA.png",
+        "https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "168",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/sugar free.png"
+        ],
+        "mobileToggles": [
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/01_garcinia-cambogia.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/02_kyselina-hyaluronova.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/03_mineraly-a-enzymy.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/04_b-komplex.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/05_vitaminy-c-a-e.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/06_zeleny-caj.png",
+        "https://www.golden-life.cz/user/documents/upload/mockup/Slim%20extreme%20Collagen.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20mala_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20velka_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/produktove_stranky/colagen%20DOZA.png",
+        "https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "168",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/sugar free.png"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/01_garcinia-cambogia.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/02_kyselina-hyaluronova.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/03_mineraly-a-enzymy.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/04_b-komplex.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/05_vitaminy-c-a-e.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/06_zeleny-caj.png",
+        "https://www.golden-life.cz/user/documents/upload/mockup/Slim%20extreme%20Collagen.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20mala_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20velka_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/produktove_stranky/colagen%20DOZA.png",
+        "https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "168",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/sugar free.png"
+        ],
+        "mobileToggles": [
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/01_garcinia-cambogia.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/02_kyselina-hyaluronova.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/03_mineraly-a-enzymy.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/04_b-komplex.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/05_vitaminy-c-a-e.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/06_zeleny-caj.png",
+        "https://www.golden-life.cz/user/documents/upload/mockup/Slim%20extreme%20Collagen.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20mala_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20velka_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/produktove_stranky/colagen%20DOZA.png",
+        "https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "168",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/sugar free.png"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/01_garcinia-cambogia.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/02_kyselina-hyaluronova.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/03_mineraly-a-enzymy.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/04_b-komplex.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/05_vitaminy-c-a-e.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/06_zeleny-caj.png",
+        "https://www.golden-life.cz/user/documents/upload/mockup/Slim%20extreme%20Collagen.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20mala_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20velka_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/produktove_stranky/colagen%20DOZA.png",
+        "https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "168",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka mala_pink_1.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/odmerka velka_pink_1.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+          "/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+          "/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/01_garcinia-cambogia.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/02_kyselina-hyaluronova.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/03_mineraly-a-enzymy.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/04_b-komplex.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/05_vitaminy-c-a-e.png",
+          "/user/documents/upload/SLIM EXTREME COLLAGEN/06_zeleny-caj.png",
+          "https://www.golden-life.cz/user/documents/upload/mockup/Slim extreme Collagen.png",
+          "/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "/user/documents/upload/piktogramy/neobsahuje/sugar free.png"
+        ],
+        "mobileToggles": [
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/01_garcinia-cambogia.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/02_kyselina-hyaluronova.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/03_mineraly-a-enzymy.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/04_b-komplex.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/05_vitaminy-c-a-e.png",
+        "https://www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/06_zeleny-caj.png",
+        "https://www.golden-life.cz/user/documents/upload/mockup/Slim%20extreme%20Collagen.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar%20free.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/davkovani-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/hmotnost-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nehty-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20mala_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/odmerka%20velka_pink_1.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/redukce-vrasek-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/spalovani-tuku-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/vlajka-cz-ruzova.png",
+        "https://www.golden-life.cz/user/documents/upload/produktove_stranky/colagen%20DOZA.png",
+        "https://www.golden-life.cz/user/documents/upload/ruzovy-popis/slim-collagen-ctverec-2000.jpg"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "547",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-CAPPUCCINO.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe free-purple.png"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-CAPPUCCINO.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe%20free-purple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "547",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-CAPPUCCINO.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe free-purple.png"
+        ],
+        "mobileToggles": [
+          "Zobraziť viac",
+          "Zobraziť viac",
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-CAPPUCCINO.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe%20free-purple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "547",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-CAPPUCCINO.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe free-purple.png"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-CAPPUCCINO.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe%20free-purple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "547",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-CAPPUCCINO.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe free-purple.png"
+        ],
+        "mobileToggles": [
+          "Show more",
+          "Show more",
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-CAPPUCCINO.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe%20free-purple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "547",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-CAPPUCCINO.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe free-purple.png"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-CAPPUCCINO.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe%20free-purple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "547",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-CAPPUCCINO.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe free-purple.png"
+        ],
+        "mobileToggles": [
+          "Mehr anzeigen",
+          "Mehr anzeigen",
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM%20EXTREME%20COLLAGEN/08_shake_syrovatkovy-protein_v2_1200x576.jpg",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-CAPPUCCINO.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/coffe%20free-purple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-cappuccino-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/547-12_shake-coppuccino.png?ff=1&x=1024&y=1024&q=85&ts=6a2fbba5&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "470",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-KOKOS.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-KOKOS.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "470",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-KOKOS.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Zobraziť viac",
+          "Zobraziť viac",
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-KOKOS.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "470",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-KOKOS.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-KOKOS.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "470",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-KOKOS.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Show more",
+          "Show more",
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-KOKOS.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "470",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-KOKOS.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+        ],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-KOKOS.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "470",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1 SHAKER-KOKOS.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+          "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+        ],
+        "mobileToggles": [
+          "Mehr anzeigen",
+          "Mehr anzeigen",
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/GLP-1%20SHAKER-KOKOS.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shake-kokos-cokolada-jak-funguje.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/Svacinka-Slim-GLP-1-Shakekokos-cokolada-ucinky_1.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/470-2_1350x1350-bila-coko-1.jpg?ff=1&x=1024&y=1024&q=85&ts=69e87d4e&sg=38cb01fe"
+      ],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "458",
+      "language": "sk",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "458",
+      "language": "sk",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": [
+          "Zobraziť viac",
+          "Zobraziť viac",
+          "Zobraziť viac"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "458",
+      "language": "en",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "458",
+      "language": "en",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": [
+          "Show more",
+          "Show more",
+          "Show more"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "458",
+      "language": "de",
+      "viewport": [
+        1280,
+        1000
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 1280,
+        "docWidth": 1280,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": []
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    },
+    {
+      "id": "458",
+      "language": "de",
+      "viewport": [
+        390,
+        844
+      ],
+      "info_and_first_last_dialogs_pointer_pass": true,
+      "geometry": {
+        "width": 390,
+        "docWidth": 390,
+        "banner": 1,
+        "longIcons": 6,
+        "shortIcons": 5,
+        "brokenImages": [],
+        "mobileToggles": [
+          "Mehr anzeigen",
+          "Mehr anzeigen",
+          "Mehr anzeigen"
+        ]
+      },
+      "pageErrors": [],
+      "missingCachedResources": [],
+      "mode": "isolated exact-final HTML with cached authentic resources; no live CMS or native purchase proof"
+    }
+  ],
+  "passed": 48
+}

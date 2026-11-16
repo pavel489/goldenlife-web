@@ -1,0 +1,408 @@
+{
+  "product_id": "258",
+  "source_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "sources": {
+    "long": {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-cz.html",
+      "sha256": "b782f3e431a7e158a148da105fd6921340f87e267e975f79731a737f2c291f1c",
+      "bytes": 22895
+    },
+    "short": {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-cz.html",
+      "sha256": "7c5c3d8a1ac8823a94c578cacbd56c13f95d211886bab432a74b609248030185",
+      "bytes": 3199
+    }
+  },
+  "deliverables": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-sk.html",
+      "lang": "sk",
+      "kind": "long",
+      "sha256": "61191fa69d885f21f5013ce36ff296cbbc0860d8b6d8156432a2a906239bb392",
+      "bytes": 22748,
+      "source_sha256": "b782f3e431a7e158a148da105fd6921340f87e267e975f79731a737f2c291f1c",
+      "reverse_edits_exact": true,
+      "css_unchanged": true,
+      "protected_urls_unchanged": true,
+      "protected_attributes_unchanged": true,
+      "numeric_tokens_unchanged": true,
+      "table_cells_unchanged": true,
+      "table_cell_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83"
+        },
+        {
+          "index": 1,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "6b8725feeb563bf40152abc4398427cd3dc7afbb56e8159142f4259d7a1079b3"
+        },
+        {
+          "index": 2,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "b7743a43dc54d23ce740b1e3a6332f237edcbf3b9cdb86fd3a680c0b2674d3fd"
+        },
+        {
+          "index": 3,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "c4c6e85efb5ae89c0cd26110dfba59f27c2eb10c1174bf30f28137fcc9ce1c1e"
+        }
+      ],
+      "edits": 119
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-en.html",
+      "lang": "en",
+      "kind": "long",
+      "sha256": "8cc58df3e0fd2f8863e8fc5413ddab86df1f873363e03195412272ab944910a7",
+      "bytes": 22226,
+      "source_sha256": "b782f3e431a7e158a148da105fd6921340f87e267e975f79731a737f2c291f1c",
+      "reverse_edits_exact": true,
+      "css_unchanged": true,
+      "protected_urls_unchanged": true,
+      "protected_attributes_unchanged": true,
+      "numeric_tokens_unchanged": true,
+      "table_cells_unchanged": true,
+      "table_cell_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83"
+        },
+        {
+          "index": 1,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "d96dc4f5887a95f6fd095231e653ebd05a969e1fc91408c11c34b35489531636"
+        },
+        {
+          "index": 2,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "b7743a43dc54d23ce740b1e3a6332f237edcbf3b9cdb86fd3a680c0b2674d3fd"
+        },
+        {
+          "index": 3,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "c4c6e85efb5ae89c0cd26110dfba59f27c2eb10c1174bf30f28137fcc9ce1c1e"
+        }
+      ],
+      "edits": 118
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-de.html",
+      "lang": "de",
+      "kind": "long",
+      "sha256": "d363e82c5ddb8bd172cb33c8d3647fe47234327014782b7824ce659c5ce25b0c",
+      "bytes": 23810,
+      "source_sha256": "b782f3e431a7e158a148da105fd6921340f87e267e975f79731a737f2c291f1c",
+      "reverse_edits_exact": true,
+      "css_unchanged": true,
+      "protected_urls_unchanged": true,
+      "protected_attributes_unchanged": true,
+      "numeric_tokens_unchanged": true,
+      "table_cells_unchanged": true,
+      "table_cell_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83"
+        },
+        {
+          "index": 1,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "5c1e58a07478e39ddd44c0c614cb5866a6f77ecd59b869334ff8966fe4104513"
+        },
+        {
+          "index": 2,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "b7743a43dc54d23ce740b1e3a6332f237edcbf3b9cdb86fd3a680c0b2674d3fd"
+        },
+        {
+          "index": 3,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "c4c6e85efb5ae89c0cd26110dfba59f27c2eb10c1174bf30f28137fcc9ce1c1e"
+        }
+      ],
+      "edits": 128
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-sk.html",
+      "lang": "sk",
+      "kind": "short",
+      "sha256": "38a82ae996e7360c1abd4bf326c699d9f011919e033bb5fb982a2d247602c3ae",
+      "bytes": 3006,
+      "source_sha256": "7c5c3d8a1ac8823a94c578cacbd56c13f95d211886bab432a74b609248030185",
+      "reverse_edits_exact": true,
+      "css_unchanged": true,
+      "protected_urls_unchanged": true,
+      "protected_attributes_unchanged": true,
+      "numeric_tokens_unchanged": true,
+      "table_cells_unchanged": true,
+      "table_cell_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83"
+        }
+      ],
+      "edits": 12
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-en.html",
+      "lang": "en",
+      "kind": "short",
+      "sha256": "0facc56cdf36db4191a52159bebe4a85079a1c5dc964b6b8e2e3ff6d554de3ad",
+      "bytes": 2966,
+      "source_sha256": "7c5c3d8a1ac8823a94c578cacbd56c13f95d211886bab432a74b609248030185",
+      "reverse_edits_exact": true,
+      "css_unchanged": true,
+      "protected_urls_unchanged": true,
+      "protected_attributes_unchanged": true,
+      "numeric_tokens_unchanged": true,
+      "table_cells_unchanged": true,
+      "table_cell_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83"
+        }
+      ],
+      "edits": 16
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-de.html",
+      "lang": "de",
+      "kind": "short",
+      "sha256": "c9fa0c36e5c422fd8205c7223c513533151085721b223010c3952418edd1965c",
+      "bytes": 3088,
+      "source_sha256": "7c5c3d8a1ac8823a94c578cacbd56c13f95d211886bab432a74b609248030185",
+      "reverse_edits_exact": true,
+      "css_unchanged": true,
+      "protected_urls_unchanged": true,
+      "protected_attributes_unchanged": true,
+      "numeric_tokens_unchanged": true,
+      "table_cells_unchanged": true,
+      "table_cell_count": 0,
+      "jsonld_count": 0,
+      "meta_count": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "logic_equal_after_ui_literal_normalization": true,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83"
+        }
+      ],
+      "edits": 16
+    }
+  ],
+  "deliverable_count": 6,
+  "scope": "local translation draft only; no git commit/push, no CMS write",
+  "static_status": "passed",
+  "notice_removed": "Exact internal draft paragraph removed from all six new files; retained in edit manifests and separate ledger.",
+  "price_rating_placeholders_excluded": [],
+  "price_rating_explanation": "Current CZ pair contains no offers, aggregateRating, price, stock or review placeholder to exclude; existing neutral current-price/availability pointer translated. No currency conversion or offer invented.",
+  "heading_regex": "No heading-matching regular expression exists in this source; mobile collapse selects stable classes; three runtime text occurrences localized per long file.",
+  "seo_jsonld": "No HEAD/meta/JSON-LD present in current CZ fragments; SEO-like visible paragraph translated.",
+  "risks": [
+    "Inherited health/medical claims lack product-specific publication approval; see claims-ledger.json.",
+    "No live CMS or native purchase verification is in scope.",
+    "Source wording posouzení imunity translated literally as assessment/Beurteilung/posúdenie; source typo needs owner decision.",
+    "Inherited dose ambiguity (2 g daily versus 1-2 cups) and gluten-free versus gluten trace warning retained, not silently corrected.",
+    "Offline rendering used cached historical real image bytes and pinned repository CSS/JS, not fresh live-shop assets.",
+    "Google Material Symbols stylesheet was blocked in offline harness; no missing product images (all 30 occurrences decoded)."
+  ],
+  "translation_coverage": [
+    {
+      "lang": "sk",
+      "kind": "long",
+      "customer_nodes_and_attributes": 136,
+      "target_inventory_coverage": "100% exact mapped strings",
+      "czech_scan": {
+        "untranslated_hits": [],
+        "valid_shared_slovak_words": [
+          "Zlepšuje",
+          "bylinný",
+          "Účinky"
+        ],
+        "proper_names_preserved": [
+          "Radnická / Radnickej",
+          "Františkovy Lázně / Františkových Lázní"
+        ]
+      },
+      "formal_address_scan": true
+    },
+    {
+      "lang": "en",
+      "kind": "long",
+      "customer_nodes_and_attributes": 136,
+      "target_inventory_coverage": "100% exact mapped strings",
+      "czech_scan": {
+        "untranslated_hits": [],
+        "valid_shared_slovak_words": [],
+        "proper_names_preserved": [
+          "Radnická",
+          "Františkovy Lázně"
+        ]
+      },
+      "formal_address_scan": true
+    },
+    {
+      "lang": "de",
+      "kind": "long",
+      "customer_nodes_and_attributes": 136,
+      "target_inventory_coverage": "100% exact mapped strings",
+      "czech_scan": {
+        "untranslated_hits": [],
+        "valid_shared_slovak_words": [],
+        "proper_names_preserved": [
+          "Radnická",
+          "Františkovy Lázně"
+        ]
+      },
+      "formal_address_scan": true
+    },
+    {
+      "lang": "sk",
+      "kind": "short",
+      "customer_nodes_and_attributes": 16,
+      "target_inventory_coverage": "100% exact mapped strings",
+      "czech_scan": {
+        "untranslated_hits": [],
+        "valid_shared_slovak_words": [
+          "Zlepšuje",
+          "bylinný"
+        ],
+        "proper_names_preserved": [
+          "Radnická / Radnickej",
+          "Františkovy Lázně / Františkových Lázní"
+        ]
+      },
+      "formal_address_scan": true
+    },
+    {
+      "lang": "en",
+      "kind": "short",
+      "customer_nodes_and_attributes": 16,
+      "target_inventory_coverage": "100% exact mapped strings",
+      "czech_scan": {
+        "untranslated_hits": [],
+        "valid_shared_slovak_words": [],
+        "proper_names_preserved": [
+          "Radnická",
+          "Františkovy Lázně"
+        ]
+      },
+      "formal_address_scan": true
+    },
+    {
+      "lang": "de",
+      "kind": "short",
+      "customer_nodes_and_attributes": 16,
+      "target_inventory_coverage": "100% exact mapped strings",
+      "czech_scan": {
+        "untranslated_hits": [],
+        "valid_shared_slovak_words": [],
+        "proper_names_preserved": [
+          "Radnická",
+          "Františkovy Lázně"
+        ]
+      },
+      "formal_address_scan": true
+    }
+  ],
+  "source_originals_unchanged_against_pinned_commit": true,
+  "browser_qa": {
+    "status": "passed isolated desktop/mobile with exact final pairs",
+    "scenarios": 6,
+    "viewports": [
+      [
+        390,
+        844
+      ],
+      [
+        1440,
+        1000
+      ]
+    ],
+    "dialog_open_close_checks": 36,
+    "ingredient_dialogs_per_pair": 5,
+    "banner_info_dialogs_per_pair": 1,
+    "reopen_escape_checks": 6,
+    "mobile_toggle_controls_checked": 6,
+    "mobile_desktop_mobile_roundtrips": 3,
+    "decoded_image_occurrences_per_scenario": [
+      30
+    ],
+    "javascript_page_errors": 0,
+    "document_overflow_scenarios": 0,
+    "short_caption_overflow_scenarios": 0,
+    "css_imports_per_pair": 4,
+    "source_masks": "None. Current artwork uses genuine decoded IMG assets, not masks.",
+    "network_mode": "Deny external network, fulfill exact cached real assets and immutable source-commit dependencies; no live CMS/full-shop/native purchase test.",
+    "missing_runtime_dependencies": [
+      "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    ],
+    "evidence": "browser-results.json, six final-pair desktop/mobile screenshot sets and contact sheets"
+  },
+  "dependency_hashes": [
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-barvy-detoxikacni-caj-30-dni.css?v=tea-draft-1",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/css/golden-life-barvy-detoxikacni-caj-30-dni.css",
+      "mime": "text/css",
+      "sha256": "054885af07257d08d97c2d93ad67fcd0b2868016d1918ee605310fa87f3df81a",
+      "evidence": "Immutable source-commit repository dependency; not a fresh live response"
+    },
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-produkt.css",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/css/golden-life-produkt.css",
+      "mime": "text/css",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+      "evidence": "Immutable source-commit repository dependency; not a fresh live response"
+    },
+    {
+      "url": "https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=singles-13-1",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/js/golden-life-product-scheme.js",
+      "mime": "text/javascript",
+      "sha256": "9acf927a851a7f2397e8efd1e2c6448809e8b2099634d48de134a7ef16fa2b7f",
+      "evidence": "Immutable source-commit repository dependency; not a fresh live response"
+    }
+  ],
+  "visual_review": {
+    "status": "reviewed actual desktop/mobile short descriptions, banners, hero artwork and opened ingredient dialogs",
+    "findings": "Preserved green graphics and authentic photos; translated labels/dose text readable. Initial DE caption exceeded its mobile cell; faithful shorter equivalent Robusteres Immunsystem fixed it without changing CSS. Final exact files re-tested.",
+    "limits": "Isolated rendering in Chromium with Arial host fallback; blocked Material Symbols CSS dependency, no fresh public-shop or physical-device testing."
+  },
+  "node_syntax_checks": 15,
+  "no_table_cells_in_source": true,
+  "completion": "Six complete HTML drafts and QA delivered; legal publication approval and live deployment remain outside scope."
+}

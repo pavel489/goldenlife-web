@@ -1,0 +1,656 @@
+{
+  "product_id": "470",
+  "source_revision": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "draft_only": true,
+  "files": [
+    {
+      "language": "sk",
+      "type": "long",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-sk.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/470/sk/long/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-sk.html",
+      "sha256": "3f4278b9acb6adc5ca26721fb6bcd25c34e1c0fc6cdb7a004a102f5a9ac3af33",
+      "bytes": 40428,
+      "reversible_offset_edits": true,
+      "edits": 247,
+      "protected_attributes_urls_css": "PASS",
+      "numeric_tokens_all_edits": "PASS",
+      "numeric_table_cells": "PASS",
+      "table_cells": 90,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": "PASS",
+          "unchanged": true
+        },
+        {
+          "index": 1,
+          "sha256": "674468352f4d17e49ab96b118189e4768f0bbe8f9b21a2894c90f78610f5f111",
+          "node_check": "PASS",
+          "unchanged": false
+        },
+        {
+          "index": 2,
+          "sha256": "8bc44e95d5a30567902a5a796a72a477a7a9e6c53991022fea192dac9a13eaf3",
+          "node_check": "PASS",
+          "unchanged": true
+        },
+        {
+          "index": 3,
+          "sha256": "2e1f7a37dfcf3948ea82650c09b00300aefcb20ee1dcf3bc35c56778ff8abb2c",
+          "node_check": "PASS",
+          "unchanged": true
+        }
+      ],
+      "counts": {
+        "benefits": 9,
+        "situations": 9,
+        "usage_icons": 4,
+        "ingredient_dialogs": 9,
+        "hero_icons": 6,
+        "short_icons": 0
+      }
+    },
+    {
+      "language": "en",
+      "type": "long",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-en.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/470/en/long/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-en.html",
+      "sha256": "ae9798da2beaab187572bf54c437cb168f0edae7a81dace9a60f3d8a15513e18",
+      "bytes": 39724,
+      "reversible_offset_edits": true,
+      "edits": 270,
+      "protected_attributes_urls_css": "PASS",
+      "numeric_tokens_all_edits": "PASS",
+      "numeric_table_cells": "PASS",
+      "table_cells": 90,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": "PASS",
+          "unchanged": true
+        },
+        {
+          "index": 1,
+          "sha256": "998a2e958d811a162f4cdfa143a592355cb581d64a0b4d156e348bab73323dd4",
+          "node_check": "PASS",
+          "unchanged": false
+        },
+        {
+          "index": 2,
+          "sha256": "8bc44e95d5a30567902a5a796a72a477a7a9e6c53991022fea192dac9a13eaf3",
+          "node_check": "PASS",
+          "unchanged": true
+        },
+        {
+          "index": 3,
+          "sha256": "2e1f7a37dfcf3948ea82650c09b00300aefcb20ee1dcf3bc35c56778ff8abb2c",
+          "node_check": "PASS",
+          "unchanged": true
+        }
+      ],
+      "counts": {
+        "benefits": 9,
+        "situations": 9,
+        "usage_icons": 4,
+        "ingredient_dialogs": 9,
+        "hero_icons": 6,
+        "short_icons": 0
+      }
+    },
+    {
+      "language": "de",
+      "type": "long",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-de.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/470/de/long/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-de.html",
+      "sha256": "6e8bc7df9e0817a8ff550a995515844584835734c5149f1e8eacc742a5d7f51a",
+      "bytes": 42035,
+      "reversible_offset_edits": true,
+      "edits": 269,
+      "protected_attributes_urls_css": "PASS",
+      "numeric_tokens_all_edits": "PASS",
+      "numeric_table_cells": "PASS",
+      "table_cells": 90,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": "PASS",
+          "unchanged": true
+        },
+        {
+          "index": 1,
+          "sha256": "1588c162f025425279595a16b8142d6cfc99bae302834d691b53ceaabb1e6797",
+          "node_check": "PASS",
+          "unchanged": false
+        },
+        {
+          "index": 2,
+          "sha256": "8bc44e95d5a30567902a5a796a72a477a7a9e6c53991022fea192dac9a13eaf3",
+          "node_check": "PASS",
+          "unchanged": true
+        },
+        {
+          "index": 3,
+          "sha256": "2e1f7a37dfcf3948ea82650c09b00300aefcb20ee1dcf3bc35c56778ff8abb2c",
+          "node_check": "PASS",
+          "unchanged": true
+        }
+      ],
+      "counts": {
+        "benefits": 9,
+        "situations": 9,
+        "usage_icons": 4,
+        "ingredient_dialogs": 9,
+        "hero_icons": 6,
+        "short_icons": 0
+      }
+    },
+    {
+      "language": "sk",
+      "type": "short",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-sk.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/470/sk/short/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-sk.html",
+      "sha256": "21dfcbe5de2bfdde0fb113b722f875f90bd19daa01b7a5daa67c5a7d5d92a1fd",
+      "bytes": 3270,
+      "reversible_offset_edits": true,
+      "edits": 16,
+      "protected_attributes_urls_css": "PASS",
+      "numeric_tokens_all_edits": "PASS",
+      "numeric_table_cells": "PASS",
+      "table_cells": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": "PASS",
+          "unchanged": true
+        }
+      ],
+      "counts": {
+        "benefits": 0,
+        "situations": 0,
+        "usage_icons": 0,
+        "ingredient_dialogs": 0,
+        "hero_icons": 0,
+        "short_icons": 5
+      }
+    },
+    {
+      "language": "en",
+      "type": "short",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-en.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/470/en/short/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-en.html",
+      "sha256": "d4acc7aa4a1d6652fa1d204deb9143616dfe2c4b294b6a20180958c7477c6a63",
+      "bytes": 3225,
+      "reversible_offset_edits": true,
+      "edits": 17,
+      "protected_attributes_urls_css": "PASS",
+      "numeric_tokens_all_edits": "PASS",
+      "numeric_table_cells": "PASS",
+      "table_cells": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": "PASS",
+          "unchanged": true
+        }
+      ],
+      "counts": {
+        "benefits": 0,
+        "situations": 0,
+        "usage_icons": 0,
+        "ingredient_dialogs": 0,
+        "hero_icons": 0,
+        "short_icons": 5
+      }
+    },
+    {
+      "language": "de",
+      "type": "short",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-de.html",
+      "staging_path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/staging/470/de/short/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-de.html",
+      "sha256": "bccc75ac1e86a2e08fe2b8b6e940d410613fe63cc40377ae22241cf6c9831404",
+      "bytes": 3324,
+      "reversible_offset_edits": true,
+      "edits": 17,
+      "protected_attributes_urls_css": "PASS",
+      "numeric_tokens_all_edits": "PASS",
+      "numeric_table_cells": "PASS",
+      "table_cells": 0,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "node_check": "PASS",
+          "unchanged": true
+        }
+      ],
+      "counts": {
+        "benefits": 0,
+        "situations": 0,
+        "usage_icons": 0,
+        "ingredient_dialogs": 0,
+        "hero_icons": 0,
+        "short_icons": 5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "type": "long",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-cz.html",
+      "sha256": "05bf698d63a38e85ddb17d978c477462c9fc2c7a881d789ad15817db881232ca"
+    },
+    {
+      "type": "short",
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-cz.html",
+      "sha256": "f577d6edd2d79c41e775fbd355147b608434597d1aed95e6f134534080648188"
+    }
+  ],
+  "scope": "Six local draft HTML files only; no commits, push, CMS, checkout, orders, customers or paid generations.",
+  "claims_status": "Faithful inherited working translations; NOT legally approved for publication.",
+  "coverage": {
+    "inventory_unique_strings": 249,
+    "offset_edit_inventory": "edits.json",
+    "full_ingredient_dialogs": 9,
+    "faq": "No FAQ component or FAQ copy exists in the exact current Czech pair; none invented.",
+    "seo": "No HEAD/meta/OG/JSON-LD in current source; visible source subtitle and headings translated.",
+    "stale_offer_rating_exclusions": "No offers, price/stock fallback, ratings or JSON-LD in exact source pair; no exclusions necessary. Current native purchase note retained in translation.",
+    "source_facts_preserved": "All numeric dose/table tokens preserved including decimal commas and conflicting source quantities."
+  },
+  "risks": [
+    {
+      "source_exact": "Bez cukru",
+      "issue": "Source claims sugar-free but its table states 2,4 g sugars per 30 g and 8 g per 100 g; source contradiction preserved, not approved."
+    },
+    {
+      "source_exact": "Každá porce obsahuje 8,9 miliardy CFU",
+      "issue": "Ingredient explanation/story 8,9 billion CFU conflicts with composition table 0,75 billion CFU per 30 g (2,55 billion per 100 g). Kept as source."
+    },
+    {
+      "source_exact": "Bez přídatných látek",
+      "issue": "Source free-from claim conflicts with listed sweetener: sucralose; requires review."
+    },
+    {
+      "source_exact": "L-karnitin tartrát",
+      "issue": "Listed in composition table but omitted from full ingredient list. Source preserved."
+    },
+    {
+      "source_exact": "Obsahuje 12 bioaktivních vitamínů v nejmodernějších formách",
+      "issue": "Broad nutrient claims and named active forms require formula/amount substantiation. No product info claims file supplied in this source scope."
+    },
+    {
+      "source_exact": "Působí jako přirozený GLP-1 aktivátor, tedy pomáhá zkrotit chuť k jídlu, stabilizovat hladinu cukru v krvi a prodloužit pocit sytosti.",
+      "issue": "High-risk GLP-1/mechanism wording retained only as faithful internal working translation; not publication-ready."
+    }
+  ],
+  "browser": {
+    "results_file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/470/browser.json",
+    "scenarios": 12,
+    "statuses": [
+      {
+        "language": "sk",
+        "viewport": [
+          1280,
+          900
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "sk",
+        "viewport": [
+          390,
+          844
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "sk",
+        "viewport": [
+          320,
+          800
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "sk",
+        "viewport": [
+          768,
+          1024
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "en",
+        "viewport": [
+          1280,
+          900
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "en",
+        "viewport": [
+          390,
+          844
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "en",
+        "viewport": [
+          320,
+          800
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "en",
+        "viewport": [
+          768,
+          1024
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "de",
+        "viewport": [
+          1280,
+          900
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "de",
+        "viewport": [
+          390,
+          844
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "de",
+        "viewport": [
+          320,
+          800
+        ],
+        "status": "PASS"
+      },
+      {
+        "language": "de",
+        "viewport": [
+          768,
+          1024
+        ],
+        "status": "PASS"
+      }
+    ],
+    "network_file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/470/network.json",
+    "network_failures": [],
+    "live_shop_verified": false,
+    "physical_devices_verified": false,
+    "purchase_submitted": false,
+    "summary": {
+      "scenarios_passed": 12,
+      "dialog_open_full_paragraph_and_escape_tests": 120,
+      "first_dialog_reopen_pointer_close_tests": 12,
+      "responsive_phone_desktop_phone_passes": 3,
+      "authentic_remote_dependencies_cached": 26,
+      "failed_assets": 0,
+      "console_page_errors": 0
+    },
+    "visual_review": {
+      "status": "PASS",
+      "evidence": [
+        "contact.png",
+        "de-390-dialog.png"
+      ],
+      "review": "Actual final screenshot contact sheet inspected: current original product photos/pictograms present; single text-column phone story and four centered usage icons retained; German short caption is legible after faithful phrasing adjustment; German phone ingredient modal image and complete explanation readable. No publication/claims approval implied."
+    }
+  },
+  "javascript_ast": {
+    "parser": "Acorn real ECMAScript parser",
+    "file": "ast-results.json",
+    "scripts": 15,
+    "result": "PASS; AST identical after normalizing only inventoried localized literal values and title regex. Source-offset reversal additionally proves byte equality of unmodified script logic."
+  },
+  "untranslated_czech_scan": {
+    "file": "language-scan.json",
+    "result": "PASS",
+    "scope": "All parsed visible text/alt/aria/title attributes; executable runtime literals covered by explicit inventory, AST and mobile branch tests. Shared SK words, brands, Latin names and physical units intentionally unchanged; asset URLs and technical identifiers excluded."
+  },
+  "claims_ledger": {
+    "paragraph_contexts": 54,
+    "sentence_entries": 126,
+    "files": [
+      "claims-ledger.json",
+      "claims-sentences.json"
+    ],
+    "translation_status": "Faithful working translation, no neutralisation and no legal approval."
+  },
+  "typography": [
+    {
+      "language": "de",
+      "source": "Maximální podpora hubnutí",
+      "target": "Maximale Unterstützung beim Abnehmen",
+      "reason": "Faithful German phrase avoids an overlong compound in short-grid cells without changing protected CSS."
+    },
+    {
+      "language": "de",
+      "source": "Kdy naše zákaznice sahají po naší svačince?",
+      "target": "Wann greifen unsere Kundinnen zu unserer Zwischen­mahlzeit?",
+      "reason": "Linguistically placed soft hyphen prevents 5 px document overflow at 320 px; CSS unchanged."
+    }
+  ],
+  "limitations": [
+    "Local isolated Chromium renders with exact final pair and pinned repository dependencies, not a CMS/live shop deployment.",
+    "Native gallery/price/cart logic preserved but no native purchase, checkout or order action exercised.",
+    "No physical Safari/iPad tests.",
+    "Source has no FAQ, HEAD metadata or JSON-LD to translate.",
+    "Inherited high-risk GLP-1/effect/free-from claims and conflicting source facts are separately inventoried, not publication-approved."
+  ],
+  "final_verification": {
+    "files": 6,
+    "staging_matches": true,
+    "original_czech_unchanged": true,
+    "css_urls_ids_selectors_preserved": true,
+    "numeric_values_preserved": true,
+    "no_commit_push_cms": true
+  },
+  "dependencies": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/css/golden-life-produkt.css",
+      "sha256": "01f3e607fe99c9ec86eca67121c81351038119f1a0abcc96b3261f9632b5201f",
+      "qa_role": "Exact pinned repository dependency served at original URL in isolated preview; not a claim of current live deployment."
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/css/golden-life-barvy-slim-glp1-shake-kokos-bila-cokolada.css",
+      "sha256": "9bae6463a0a924634b935c1ee99ed0b2190ed3e968e9d347d67b181bbdb9f68e",
+      "qa_role": "Exact pinned repository dependency served at original URL in isolated preview; not a claim of current live deployment."
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/user/documents/upload/js/golden-life-product-scheme.js",
+      "sha256": "9acf927a851a7f2397e8efd1e2c6448809e8b2099634d48de134a7ef16fa2b7f",
+      "qa_role": "Exact pinned repository dependency served at original URL in isolated preview; not a claim of current live deployment."
+    }
+  ],
+  "screenshot_manifest": [
+    {
+      "file": "contact.png",
+      "sha256": "3ea4bda00f7c8afaee358d3e3cf32f6904c3016c874616c1d633c9d19b3ce0fc"
+    },
+    {
+      "file": "de-1280-banner.png",
+      "sha256": "18cb07c9eacd4325d66b087d42a1b8abcc011b0dd3225630f2f277ddcd06d231"
+    },
+    {
+      "file": "de-1280-benefits.png",
+      "sha256": "a4d9179554325d3d104dab84ef35aa913d9f87dc272f5b1ed177a33ee906f91c"
+    },
+    {
+      "file": "de-1280-dialog.png",
+      "sha256": "da1d30ab258c20ccadd7718968e419668449e378b02c186162383833ffc942fe"
+    },
+    {
+      "file": "de-1280-long.png",
+      "sha256": "89e8627e08b06b52f5b18d2a8999c70ad19031c96b29e04f1a5cb111e9d3ead6"
+    },
+    {
+      "file": "de-1280-short.png",
+      "sha256": "1ba1688c7f2953c04355e8a20e4bdc23c0e451c61a2f75b661b88e63c8b37381"
+    },
+    {
+      "file": "de-1280-story.png",
+      "sha256": "a2a45ef34788a29b7a4a156e01257ce744927d1f4e9fdd6a754f128576b8603c"
+    },
+    {
+      "file": "de-1280-usage.png",
+      "sha256": "3c567558e89922ba1a9b63f208453d2fad020072089d2154ca78bcbd6094ce46"
+    },
+    {
+      "file": "de-390-banner.png",
+      "sha256": "9e1c8fb86f6dbf755853f84a00b54df5fcc47a66de698f6d03434969c1288cc5"
+    },
+    {
+      "file": "de-390-benefits.png",
+      "sha256": "987f26ba42e115ff586595f1fdc29ed04541f6202d2a3abe8a99347be8a6e240"
+    },
+    {
+      "file": "de-390-dialog.png",
+      "sha256": "255772d67032504c8c12fc2a17b69c1672de4fe44b3fcbbd0f80ceff39e62067"
+    },
+    {
+      "file": "de-390-long.png",
+      "sha256": "6592d9537e18e3dcb573e10aea066e8b84eff8cd3802b647ba4133504f72767c"
+    },
+    {
+      "file": "de-390-short.png",
+      "sha256": "5d26323017e51998c05abccee1a57b0bdea45270e480bb400249d150f5a5b395"
+    },
+    {
+      "file": "de-390-story.png",
+      "sha256": "6f28f8da63b7dc2c2d2d577dd88d443038661a78e97bfda73b53de6683541e70"
+    },
+    {
+      "file": "de-390-usage.png",
+      "sha256": "de21851f5664e2c97f0265030fd67cc58b6293a952b3825a4a6865cecd7277a1"
+    },
+    {
+      "file": "en-1280-banner.png",
+      "sha256": "bdbb11de67fdea8b2d25c2e4ba17beb2278f18f5b4987d38dd1fc4649566a623"
+    },
+    {
+      "file": "en-1280-benefits.png",
+      "sha256": "0c0e100f7e714d830f7810cbc5c3bf9d0743a827880382da925047989c549c0f"
+    },
+    {
+      "file": "en-1280-dialog.png",
+      "sha256": "f6d775b2975ba585ece70305cf50a3097e59814cb8697cc52f0aa2f061302ee4"
+    },
+    {
+      "file": "en-1280-long.png",
+      "sha256": "3594b91c819d8a6238bef952b6453dc6d7cd7ac970b56de84fe2a9ecbc6d81a3"
+    },
+    {
+      "file": "en-1280-short.png",
+      "sha256": "2f27ecf931e9bf74c277401ee4029856b5e7f49e610b8df61f3194b668df64b5"
+    },
+    {
+      "file": "en-1280-story.png",
+      "sha256": "fa571030bd2abe8cfc87462454dcaf849c09c5cdbc8e45a6c81dac7da6fcfd2b"
+    },
+    {
+      "file": "en-1280-usage.png",
+      "sha256": "32e3de76ff9fa2590906ed264fc2108ae98dada292882ad6d2a5dd59459340a4"
+    },
+    {
+      "file": "en-390-banner.png",
+      "sha256": "9912e990f19dc5e5669fb389027ed423241f1b0131afe95312bea16b2d30e0ec"
+    },
+    {
+      "file": "en-390-benefits.png",
+      "sha256": "65b5b6fcb6206c22f6cef149f3ef1a7947d7ec5fd24a86850b3a25e8a1fac636"
+    },
+    {
+      "file": "en-390-dialog.png",
+      "sha256": "0b027b50dc0842c7c6e50e80a47c703c7083ec5b7cf09a304977e97afa312948"
+    },
+    {
+      "file": "en-390-long.png",
+      "sha256": "d6366b05c9ccdd1aebd155bf607b83a0d7daaf5f1ba8ecb7d26c6a9bd988dec3"
+    },
+    {
+      "file": "en-390-short.png",
+      "sha256": "e26c0482b0b6269bd9ddc31d95c6b47de32bfe36264173805375e2135c13d9b6"
+    },
+    {
+      "file": "en-390-story.png",
+      "sha256": "c530ea7b313961de4170864a0301bf3f43ceec7484ad2a4fda90c7e692591be9"
+    },
+    {
+      "file": "en-390-usage.png",
+      "sha256": "9cf0d63034fe321bf6ab4494880e77ec2c011b72c076492b87d03fae6b7c9b3a"
+    },
+    {
+      "file": "sk-1280-banner.png",
+      "sha256": "290d2e90bc6639fe298a95bbb8443856078b045dd71b65ecc73b3f7533e120df"
+    },
+    {
+      "file": "sk-1280-benefits.png",
+      "sha256": "dc0c9057b7c6b74cbb8c83e9b910a1eb6ee40db982d6993e2fd9511d0b9ad49f"
+    },
+    {
+      "file": "sk-1280-dialog.png",
+      "sha256": "d599aa8182fc0457be9cdffeefd3cf96cce5a71a0502f1e53f82b2f6bbc3cbe6"
+    },
+    {
+      "file": "sk-1280-long.png",
+      "sha256": "fde956235f2b17713dcd2e4534adb66e7378bb383b2b4b93737623cda6baef1b"
+    },
+    {
+      "file": "sk-1280-short.png",
+      "sha256": "8902333e1b98fd6976b57dd99ab9279c49d00553db8d623c52be9eba4a2738d4"
+    },
+    {
+      "file": "sk-1280-story.png",
+      "sha256": "2b1d3e7bf44aeb4502d0fb99f0fd8b07a1cee17feaba8dcf603d7c5b57cc23a1"
+    },
+    {
+      "file": "sk-1280-usage.png",
+      "sha256": "8bf4bb35d7a37e784fac3bcc2a44d2783f31ae4689dc096f9a54f99b9ad76937"
+    },
+    {
+      "file": "sk-390-banner.png",
+      "sha256": "1d5a793af7aaf1eeb54c09cfecb2b03c9df7ca5fab4704d740885ee2585d9254"
+    },
+    {
+      "file": "sk-390-benefits.png",
+      "sha256": "533d6d5d2b659cab61ecf38da725f3d03a9a8b9e602433be62a04c203457f072"
+    },
+    {
+      "file": "sk-390-dialog.png",
+      "sha256": "68ff869e270f6d4d7b75f39c32b52d278c6cbdafb606cadab9b0d13feac14bee"
+    },
+    {
+      "file": "sk-390-long.png",
+      "sha256": "6a7a864427175c85e0b654cff2076be34d86f6fdc79f22204bb6b48e9801fd64"
+    },
+    {
+      "file": "sk-390-short.png",
+      "sha256": "48379418987bd808288bec822d7c9d4eef679e2c934380f835d8a19b55da6ed3"
+    },
+    {
+      "file": "sk-390-story.png",
+      "sha256": "32bc7c3e6e2bf558997688a8e6b6ea5ea0ac5de4efeb27eae8453094513b29df"
+    },
+    {
+      "file": "sk-390-usage.png",
+      "sha256": "fdfbf1d241a0be2ee11ceef79d2d5332800bcc8bc1dfc29fe9dca1925317c6f6"
+    }
+  ],
+  "status": "COMPLETE_LOCAL_DRAFTS_AND_QA",
+  "publication_status": "Not committed, pushed or saved to CMS; parent owns integration."
+}

@@ -1,0 +1,381 @@
+[
+  {
+    "id": "351",
+    "product": "Beauty Star",
+    "report": "qa/351/report.json",
+    "notes": {
+      "open_risks": [
+        "Inherited effect/medical/free-from claims require separate approved label/legal review; see claims-ledger.json.",
+        "Inherited pack-weight conflict: long 65 g versus short 30 g.",
+        "Inherited gummies / chewable tablets / jelly capsules terminology differs."
+      ],
+      "exceptions": [
+        {
+          "type": "mandatory-supplement-warning",
+          "languages": [
+            "sk",
+            "en",
+            "de"
+          ],
+          "scope": "short",
+          "change": "Append exact translated current-long supplement disclaimer, required by brand RULES.md; source Czech unchanged."
+        },
+        {
+          "type": "formal-address",
+          "language": "sk",
+          "changes": {
+            "Všetky uvedené hodnoty nájdeš v tabuľke nižšie.": "Všetky uvedené hodnoty nájdete v tabuľke nižšie.",
+            "Neprekračuj odporúčanú dennú dávku.": "Neprekračujte odporúčanú dennú dávku.",
+            "Aktuálnu cenu a dostupnosť nájdeš pri nákupe hore.": "Aktuálnu cenu a dostupnosť nájdete pri nákupe hore.",
+            "produktové upozornenia over na etikete.": "produktové upozornenia overte na etikete."
+          }
+        },
+        {
+          "type": "terminology",
+          "language": "de",
+          "change": "RHP localized to NRV; every source table number and unit preserved."
+        }
+      ]
+    }
+  },
+  {
+    "id": "258",
+    "product": "Detoxikační čaj – 30 dní",
+    "report": "qa/258/report.json",
+    "notes": {
+      "risks": [
+        "Inherited health/medical claims lack product-specific publication approval; see claims-ledger.json.",
+        "No live CMS or native purchase verification is in scope.",
+        "Source wording posouzení imunity translated literally as assessment/Beurteilung/posúdenie; source typo needs owner decision.",
+        "Inherited dose ambiguity (2 g daily versus 1-2 cups) and gluten-free versus gluten trace warning retained, not silently corrected.",
+        "Offline rendering used cached historical real image bytes and pinned repository CSS/JS, not fresh live-shop assets.",
+        "Google Material Symbols stylesheet was blocked in offline harness; no missing product images (all 30 occurrences decoded)."
+      ]
+    }
+  },
+  {
+    "id": "261",
+    "product": "Detoxikační čaj – 7 dní",
+    "report": "qa/261/report.json",
+    "notes": {
+      "open_risks": [
+        "Inherited detoxification, inflammation, sleep, immunity, weight-loss and disease-prevention claims require review before publication; see exact-sentence ledger.",
+        "Source organic/portioned wording and loose-teaspoon dose are retained without choosing a new sales form.",
+        "Short source omits the supplement disclaimer; full translated long description retains the complete mandatory source disclaimer and restrictions.",
+        "Browser QA is isolated with pinned repository CSS/JS and authentic cached PNGs, not a live CMS/native-purchase or real-shop font test. Unused external Material Symbols CSS import is blocked; no symbols font is used for these PNG pictograms."
+      ],
+      "exceptions": [
+        {
+          "type": "internal-notice-removed",
+          "exact_source": "<p class=\"gl-draft-note\"><strong>INTERNÍ PRACOVNÍ NÁVRH — NEPUBLIKOVAT.</strong> Původní účinková tvrzení jsou zachována pro obsahové posouzení; nejde o schválenou komunikaci.</p>",
+          "applies_to": "all six variants",
+          "reason": "Internal review notices must stay out of customer-facing HTML; CZ untouched."
+        },
+        {
+          "type": "stale-offer-rating-fallback-inventory",
+          "found": false,
+          "details": "Exact current CZ pair contains no price amount, stock/dispatch promise, JSON-LD offers or ratings, and no price fallback. Current-price-and-availability-above wording translated. No currency conversion or offer invented."
+        },
+        {
+          "type": "technical-Czech-identifiers-retained",
+          "details": "CSS theme/layout, classes, IDs, data-gl-ingredient names and all source URLs retained verbatim as technical identifiers, not customer-facing copy."
+        },
+        {
+          "type": "source-structure",
+          "details": "No source META/SEO attributes, JSON-LD, composition table or heading-matching JS regex exists in this exact 7-day pair. Every existing content node, alt/aria and mobile label inventoried. Four original herb dialogs are complete; no content borrowed from 30-day sibling."
+        }
+      ]
+    }
+  },
+  {
+    "id": "360",
+    "product": "pH+ Uro Balance čaj – 30 dní",
+    "report": "qa/360/report.json",
+    "notes": {
+      "risks": [
+        {
+          "type": "inherited_unapproved_health_and_disease_claims",
+          "details": "Faithful internal translations retain detoxification, antibacterial/anti-inflammatory, infection treatment/prevention, kidney-stone dissolution, blood-pressure and other effect claims. No legal approval or live deployment. See exact-sentence-claims-ledger.json."
+        },
+        {
+          "type": "source_fact_conflict",
+          "details": "Source says 7 herbs but lists 9. Preserved unchanged."
+        },
+        {
+          "type": "source_dose_conflict",
+          "details": "Source says one teaspoon (2 g) daily / 30 days per 60 g at 1 cup daily, but directions also say 1-2 cups daily. Preserved, not reconciled."
+        },
+        {
+          "type": "source_allergen_conflict",
+          "details": "Gluten-free pictogram coexists with warning of possible gluten-containing cereal traces. Both retained."
+        },
+        {
+          "type": "botanical_identity",
+          "details": "Source does not provide Latin botanical species. EN cranberry / DE Preiselbeere faithfully follow common usage of Czech brusinka but botanical identity needs confirmation."
+        },
+        {
+          "type": "source_claims_and_sales_form",
+          "details": "Source calls the tea BIO and portioned while specifying loose teaspoon dosing. No certification or sales-form facts invented or independently verified."
+        }
+      ],
+      "limitations": [
+        "Offline browser QA only; no shop request was made, and no live native price/gallery/purchase or CMS deployment is claimed.",
+        "Nine current ingredient-photo URLs and the Material Symbols font stylesheet were unavailable in the authentic local cache and intentionally blocked; no substitute/fabricated photo responses. Product photo, metadata icons and six benefit pictograms used actual local or hash-verified cached assets.",
+        "System-dark/tablet/full-shop visual certification is outside this translation check. Shared CSS/JS preserved unchanged."
+      ],
+      "exclusions": [
+        {
+          "item": "Internal draft-note paragraph",
+          "action": "Removed from every customer-facing output; source note retained in QA inventory and status recorded here.",
+          "source_exact_html": "<p class=\"gl-draft-note\"><strong>INTERNÍ PRACOVNÍ NÁVRH — NEPUBLIKOVAT.</strong> Původní účinková tvrzení jsou zachována pro obsahové posouzení; nejde o schválenou komunikaci.</p>"
+        },
+        {
+          "item": "Stale CZ offers/rating/availability",
+          "action": "Not applicable: exact paired source has no Offer/AggregateRating JSON-LD, price, stock or dispatch fallback. Existing neutral native-purchase instruction translated."
+        },
+        {
+          "item": "SEO/FAQ/JSONLD",
+          "action": "No standalone head metadata, FAQ or JSON-LD exists in these two source fragments. Visible SEO-style title paragraph and all accessibility/alt content translated."
+        }
+      ]
+    }
+  },
+  {
+    "id": "168",
+    "product": "Slim Extreme Collagen",
+    "report": "qa/168/report.json",
+    "notes": {
+      "risks": [
+        "Inherited medical/effect copy is a faithful internal working translation, not approved advertising or legal claims. See claims-ledger.json with exact source/target wording.",
+        "Source dosage conflict retained: long uses 1 scoop/200–300 ml; short uses 2 small scoops/300–400 ml or 1 l, with batch-specific 1 large scoop exception.",
+        "Source table numeric inconsistencies retained, including B6 823,5 mg vs 0,7 mg and source 6000 mg marketing vs 5,13 g + 0,89 g table. No fact correction was authorized.",
+        "No CMS deployment, live native purchase test, commits or push. Source graphics and runtime logic are preserved.",
+        "Historical public-shop IP-block observed in authorized source cache provenance: no shop/CDN network requests made; offline authentic cached assets do not prove current live availability."
+      ],
+      "exceptions": [
+        {
+          "lang": "sk",
+          "kind": "long",
+          "removed_exact": "  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"1350\",\n    \"priceCurrency\": \"CZK\",\n    \"availability\": \"https://schema.org/InStock\",\n    \"url\": \"https://www.golden-life.cz/extreme-slim-collagen/\"\n  },\n",
+          "reason": "No verified localized offer/rating; no currency conversion or fabricated reviews."
+        },
+        {
+          "lang": "sk",
+          "kind": "long",
+          "removed_exact": ",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"4.9\",\n    \"reviewCount\": \"127\"\n  }",
+          "reason": "No verified localized offer/rating; no currency conversion or fabricated reviews."
+        },
+        {
+          "lang": "sk",
+          "kind": "long",
+          "source_exact": "1 350 Kč",
+          "target_exact": "—",
+          "reason": "Remove stale CZ price/24-hour dispatch fallback only; preserve native price synchronization."
+        },
+        {
+          "lang": "sk",
+          "kind": "long",
+          "source_exact": "✓ Skladem – expedice do 24 hodin",
+          "target_exact": "Aktuálna dostupnosť je uvedená pri nákupnom tlačidle.",
+          "reason": "Remove stale CZ price/24-hour dispatch fallback only; preserve native price synchronization."
+        },
+        {
+          "lang": "en",
+          "kind": "long",
+          "removed_exact": "  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"1350\",\n    \"priceCurrency\": \"CZK\",\n    \"availability\": \"https://schema.org/InStock\",\n    \"url\": \"https://www.golden-life.cz/extreme-slim-collagen/\"\n  },\n",
+          "reason": "No verified localized offer/rating; no currency conversion or fabricated reviews."
+        },
+        {
+          "lang": "en",
+          "kind": "long",
+          "removed_exact": ",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"4.9\",\n    \"reviewCount\": \"127\"\n  }",
+          "reason": "No verified localized offer/rating; no currency conversion or fabricated reviews."
+        },
+        {
+          "lang": "en",
+          "kind": "long",
+          "source_exact": "1 350 Kč",
+          "target_exact": "—",
+          "reason": "Remove stale CZ price/24-hour dispatch fallback only; preserve native price synchronization."
+        },
+        {
+          "lang": "en",
+          "kind": "long",
+          "source_exact": "✓ Skladem – expedice do 24 hodin",
+          "target_exact": "Current availability is shown beside the purchase button.",
+          "reason": "Remove stale CZ price/24-hour dispatch fallback only; preserve native price synchronization."
+        },
+        {
+          "lang": "de",
+          "kind": "long",
+          "removed_exact": "  \"offers\": {\n    \"@type\": \"Offer\",\n    \"price\": \"1350\",\n    \"priceCurrency\": \"CZK\",\n    \"availability\": \"https://schema.org/InStock\",\n    \"url\": \"https://www.golden-life.cz/extreme-slim-collagen/\"\n  },\n",
+          "reason": "No verified localized offer/rating; no currency conversion or fabricated reviews."
+        },
+        {
+          "lang": "de",
+          "kind": "long",
+          "removed_exact": ",\n  \"aggregateRating\": {\n    \"@type\": \"AggregateRating\",\n    \"ratingValue\": \"4.9\",\n    \"reviewCount\": \"127\"\n  }",
+          "reason": "No verified localized offer/rating; no currency conversion or fabricated reviews."
+        },
+        {
+          "lang": "de",
+          "kind": "long",
+          "source_exact": "1 350 Kč",
+          "target_exact": "—",
+          "reason": "Remove stale CZ price/24-hour dispatch fallback only; preserve native price synchronization."
+        },
+        {
+          "lang": "de",
+          "kind": "long",
+          "source_exact": "✓ Skladem – expedice do 24 hodin",
+          "target_exact": "Die aktuelle Verfügbarkeit finden Sie beim Kaufbutton.",
+          "reason": "Remove stale CZ price/24-hour dispatch fallback only; preserve native price synchronization."
+        },
+        {
+          "lang": "sk",
+          "kind": "short",
+          "addition_exact": "<p class=\"gl-product-warning\" role=\"note\">Výživový doplnok. Nie je náhradou pestrej a vyváženej stravy. Neprekračujte odporúčanú dennú dávku. Uchovávajte mimo dosahu detí.</p>\n",
+          "reason": "Brand rules mandatory supplement notice, retained from existing language draft."
+        },
+        {
+          "lang": "en",
+          "kind": "short",
+          "addition_exact": "<p class=\"gl-product-warning\" role=\"note\">Food supplement. Not a substitute for a varied and balanced diet. Do not exceed the recommended daily dose. Keep out of reach of children.</p>\n",
+          "reason": "Brand rules mandatory supplement notice, retained from existing language draft."
+        },
+        {
+          "lang": "de",
+          "kind": "short",
+          "addition_exact": "<p class=\"gl-product-warning\" role=\"note\">Nahrungsergänzungsmittel. Kein Ersatz für eine abwechslungsreiche und ausgewogene Ernährung. Die empfohlene tägliche Verzehrmenge darf nicht überschritten werden. Außerhalb der Reichweite von Kindern aufbewahren.</p>\n",
+          "reason": "Brand rules mandatory supplement notice, retained from existing language draft."
+        }
+      ]
+    }
+  },
+  {
+    "id": "547",
+    "product": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+    "report": "qa/547/report.json",
+    "notes": {
+      "risks": [
+        {
+          "id": "claims",
+          "detail": "Inherited appetite suppression, fat burning/reduction, collagen skin/joint/rejuvenation, mineral hydration/energy, probiotic immunity/metabolism/mood, enzyme fat-burning and related wording require market/claims review. Exact source sentence ledger is separate from HTML.",
+          "ledger": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/547/claims-ledger.json"
+        },
+        {
+          "id": "probiotic-dose",
+          "source_quotes": [
+            "Každá porce obsahuje 8,9 miliardy CFU",
+            "50 mg – 0,75 mld. KJT (*% RHP)"
+          ],
+          "detail": "Source narrative and per-serving table disagree. Both quantities retained, only CFU terminology localized."
+        },
+        {
+          "id": "sugar-free",
+          "source_quotes": [
+            "Bez cukru",
+            "2,4 g"
+          ],
+          "detail": "Sugar-free icon conflicts with sugar per serving. Original icon and facts retained, not certified."
+        },
+        {
+          "id": "additives",
+          "source_quotes": [
+            "Bez přídatných látek",
+            "zahušťovadlo: xanthan, barvivo: karamel, sladidlo: sukralóza."
+          ],
+          "detail": "Additive-free claim conflicts with listed ingredients. Retained for review."
+        },
+        {
+          "id": "carnitine-table",
+          "source_quotes": [
+            "1 g (*% RHP)",
+            "0,33 g (*% RHP)"
+          ],
+          "detail": "L-carnitine table lists these at 100 g / 30 g. Inconsistent proportional quantities preserved, not recalculated."
+        },
+        {
+          "id": "allergens",
+          "source_quotes": [
+            "U osob s alergií na mléko nebo sóju se doporučuje opatrnost.",
+            "mléko, skořápkové plody."
+          ],
+          "detail": "Caution mentions milk/soya, allergen list milk/tree nuts. Faithfully retained; product-owner verification needed."
+        },
+        {
+          "id": "classification-warning",
+          "detail": "Source food-supplement designation and actual warning faithfully translated. Food/snack versus meal-replacement legal classification not independently established; no new meal-replacement claim added."
+        },
+        {
+          "id": "numeric-format",
+          "detail": "Decimal commas and all quantities retained intentionally, including English table values. RHP becomes RVH (SK) / NRV (EN,DE); mld./KJT becomes localized billion/CFU terminology with identical quantities. REA source abbreviation retained and explained."
+        }
+      ],
+      "exclusions": [
+        {
+          "surface": "CZ hardcoded price/stock/review/rating/JSON-LD offer fallbacks",
+          "action": "None present in current pinned source pair. No price conversion, offer, rating or availability claim added. Existing neutral native purchase note faithfully translated."
+        },
+        {
+          "surface": "FAQ / HEAD SEO / JSON-LD",
+          "action": "Absent from actual current fragment pair; no fabricated sections or structured data. Existing SEO-like source subtitle translated."
+        }
+      ]
+    }
+  },
+  {
+    "id": "470",
+    "product": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+    "report": "qa/470/report.json",
+    "notes": {
+      "risks": [
+        {
+          "source_exact": "Bez cukru",
+          "issue": "Source claims sugar-free but its table states 2,4 g sugars per 30 g and 8 g per 100 g; source contradiction preserved, not approved."
+        },
+        {
+          "source_exact": "Každá porce obsahuje 8,9 miliardy CFU",
+          "issue": "Ingredient explanation/story 8,9 billion CFU conflicts with composition table 0,75 billion CFU per 30 g (2,55 billion per 100 g). Kept as source."
+        },
+        {
+          "source_exact": "Bez přídatných látek",
+          "issue": "Source free-from claim conflicts with listed sweetener: sucralose; requires review."
+        },
+        {
+          "source_exact": "L-karnitin tartrát",
+          "issue": "Listed in composition table but omitted from full ingredient list. Source preserved."
+        },
+        {
+          "source_exact": "Obsahuje 12 bioaktivních vitamínů v nejmodernějších formách",
+          "issue": "Broad nutrient claims and named active forms require formula/amount substantiation. No product info claims file supplied in this source scope."
+        },
+        {
+          "source_exact": "Působí jako přirozený GLP-1 aktivátor, tedy pomáhá zkrotit chuť k jídlu, stabilizovat hladinu cukru v krvi a prodloužit pocit sytosti.",
+          "issue": "High-risk GLP-1/mechanism wording retained only as faithful internal working translation; not publication-ready."
+        }
+      ],
+      "limitations": [
+        "Local isolated Chromium renders with exact final pair and pinned repository dependencies, not a CMS/live shop deployment.",
+        "Native gallery/price/cart logic preserved but no native purchase, checkout or order action exercised.",
+        "No physical Safari/iPad tests.",
+        "Source has no FAQ, HEAD metadata or JSON-LD to translate.",
+        "Inherited high-risk GLP-1/effect/free-from claims and conflicting source facts are separately inventoried, not publication-approved."
+      ]
+    }
+  },
+  {
+    "id": "458",
+    "product": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+    "report": "qa/458/report.json",
+    "notes": {
+      "open_risks": [
+        "Inherited effect claims require regulatory and product-owner approval, especially natural GLP-1 activation, appetite suppression, fat absorption up to 27 %, collagen rejuvenation and intestinal/immune effects. See exact-sentence ledger.",
+        "Inherited LactoSpore counts conflict: narrative 8,9 billion CFU versus table 0,75 billion per serving. Preserved without correction.",
+        "Inherited sugar-free/additive-free claims conflict with 2,4 g sugars per serving and listed sweeteners/additives. Preserved without correction.",
+        "Inherited milk/nuts allergen declaration versus milk/soya warning needs formula-owner review; source strawberry formula including 1 % strawberry powder retained.",
+        "No live CMS, purchase, price, stock, physical mobile browser or external language-editor approval verified."
+      ]
+    }
+  }
+]

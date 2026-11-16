@@ -1,0 +1,311 @@
+{
+  "product_id": "351",
+  "product": "Beauty Star",
+  "source_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "status": "local translation drafts; no Git commit/push, no CMS writes",
+  "method": "Exact current Czech source-offset edits; reviewed matching existing target paragraphs reused; no whole-document reserialization.",
+  "files": [
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "sha256": "15d5deddb2e4692d738f8e72021bc0d9841a0e7a0e6b61272c69a64ed85c2a1d",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "source_sha256": "df58eded7e82cc7185fa7d4094093a8d147b54160200b546be19a491e256a161",
+      "visible_text_nodes": 155,
+      "localized_attributes": 40,
+      "source_offset_edits": 139,
+      "reverse_to_czech_exact": true,
+      "structure_and_protected_attributes_equal_except_inventoried_warning": true,
+      "mandatory_short_warning_added": false,
+      "css_equal": true,
+      "table_cells": 28,
+      "table_numeric_tokens_equal": true,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        },
+        {
+          "index": 1,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        },
+        {
+          "index": 2,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        }
+      ],
+      "json_ld_count": 0,
+      "seo_meta_count": 0,
+      "source_git_blob_sha": "cb1ecefa97f6566781c6a8d2cacb0428918b1d06",
+      "final_visible_text_nodes": 155
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-en.html",
+      "sha256": "4dfbbc8af7e0784311a292031b7b2acbbb91876bb2671c2ebf51387421902261",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "source_sha256": "df58eded7e82cc7185fa7d4094093a8d147b54160200b546be19a491e256a161",
+      "visible_text_nodes": 155,
+      "localized_attributes": 40,
+      "source_offset_edits": 162,
+      "reverse_to_czech_exact": true,
+      "structure_and_protected_attributes_equal_except_inventoried_warning": true,
+      "mandatory_short_warning_added": false,
+      "css_equal": true,
+      "table_cells": 28,
+      "table_numeric_tokens_equal": true,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        },
+        {
+          "index": 1,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        },
+        {
+          "index": 2,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        }
+      ],
+      "json_ld_count": 0,
+      "seo_meta_count": 0,
+      "source_git_blob_sha": "cb1ecefa97f6566781c6a8d2cacb0428918b1d06",
+      "final_visible_text_nodes": 155
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-de.html",
+      "sha256": "de2889bfe7c4a36973851d0809d1468203cb050f2e93781462642f3981fd277a",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "source_sha256": "df58eded7e82cc7185fa7d4094093a8d147b54160200b546be19a491e256a161",
+      "visible_text_nodes": 155,
+      "localized_attributes": 40,
+      "source_offset_edits": 170,
+      "reverse_to_czech_exact": true,
+      "structure_and_protected_attributes_equal_except_inventoried_warning": true,
+      "mandatory_short_warning_added": false,
+      "css_equal": true,
+      "table_cells": 28,
+      "table_numeric_tokens_equal": true,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        },
+        {
+          "index": 1,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        },
+        {
+          "index": 2,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        }
+      ],
+      "json_ld_count": 0,
+      "seo_meta_count": 0,
+      "source_git_blob_sha": "cb1ecefa97f6566781c6a8d2cacb0428918b1d06",
+      "final_visible_text_nodes": 155
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "sha256": "c3981b42eb6dc8b3729160b97c3d95f6d0c545a4127f0ae9e28c8d3f50ad8e35",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "source_sha256": "a5644e222e63f777b6a2de6e8ac0abc8253f882293db33b6667ec9fd6faa20ee",
+      "visible_text_nodes": 10,
+      "localized_attributes": 8,
+      "source_offset_edits": 16,
+      "reverse_to_czech_exact": true,
+      "structure_and_protected_attributes_equal_except_inventoried_warning": true,
+      "mandatory_short_warning_added": true,
+      "css_equal": true,
+      "table_cells": 0,
+      "table_numeric_tokens_equal": true,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        }
+      ],
+      "json_ld_count": 0,
+      "seo_meta_count": 0,
+      "source_git_blob_sha": "d9eece9b6270345e80ae786795e4969b6f9dc7da",
+      "final_visible_text_nodes": 11
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-en.html",
+      "sha256": "7bfef5f8db2b517e353ac96994527f03b321da762b10ffafcb4b7c106be35a1c",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "source_sha256": "a5644e222e63f777b6a2de6e8ac0abc8253f882293db33b6667ec9fd6faa20ee",
+      "visible_text_nodes": 10,
+      "localized_attributes": 8,
+      "source_offset_edits": 17,
+      "reverse_to_czech_exact": true,
+      "structure_and_protected_attributes_equal_except_inventoried_warning": true,
+      "mandatory_short_warning_added": true,
+      "css_equal": true,
+      "table_cells": 0,
+      "table_numeric_tokens_equal": true,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        }
+      ],
+      "json_ld_count": 0,
+      "seo_meta_count": 0,
+      "source_git_blob_sha": "d9eece9b6270345e80ae786795e4969b6f9dc7da",
+      "final_visible_text_nodes": 11
+    },
+    {
+      "path": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-de.html",
+      "sha256": "bbd316d24aee862d3b4c538bf770bae7d41ebf2609c4841cbe7dc0dd89aa0f5f",
+      "source": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-cz.html",
+      "source_sha256": "a5644e222e63f777b6a2de6e8ac0abc8253f882293db33b6667ec9fd6faa20ee",
+      "visible_text_nodes": 10,
+      "localized_attributes": 8,
+      "source_offset_edits": 17,
+      "reverse_to_czech_exact": true,
+      "structure_and_protected_attributes_equal_except_inventoried_warning": true,
+      "mandatory_short_warning_added": true,
+      "css_equal": true,
+      "table_cells": 0,
+      "table_numeric_tokens_equal": true,
+      "scripts": [
+        {
+          "index": 0,
+          "node_check": true,
+          "reversed_localization_byte_exact": true
+        }
+      ],
+      "json_ld_count": 0,
+      "seo_meta_count": 0,
+      "source_git_blob_sha": "d9eece9b6270345e80ae786795e4969b6f9dc7da",
+      "final_visible_text_nodes": 11
+    }
+  ],
+  "exceptions": [
+    {
+      "type": "mandatory-supplement-warning",
+      "languages": [
+        "sk",
+        "en",
+        "de"
+      ],
+      "scope": "short",
+      "change": "Append exact translated current-long supplement disclaimer, required by brand RULES.md; source Czech unchanged."
+    },
+    {
+      "type": "formal-address",
+      "language": "sk",
+      "changes": {
+        "Všetky uvedené hodnoty nájdeš v tabuľke nižšie.": "Všetky uvedené hodnoty nájdete v tabuľke nižšie.",
+        "Neprekračuj odporúčanú dennú dávku.": "Neprekračujte odporúčanú dennú dávku.",
+        "Aktuálnu cenu a dostupnosť nájdeš pri nákupe hore.": "Aktuálnu cenu a dostupnosť nájdete pri nákupe hore.",
+        "produktové upozornenia over na etikete.": "produktové upozornenia overte na etikete."
+      }
+    },
+    {
+      "type": "terminology",
+      "language": "de",
+      "change": "RHP localized to NRV; every source table number and unit preserved."
+    }
+  ],
+  "stale_offer_removals": [],
+  "source_unchanged": true,
+  "open_risks": [
+    "Inherited effect/medical/free-from claims require separate approved label/legal review; see claims-ledger.json.",
+    "Inherited pack-weight conflict: long 65 g versus short 30 g.",
+    "Inherited gummies / chewable tablets / jelly capsules terminology differs."
+  ],
+  "browser_validation": {
+    "tool": "Chromium Playwright",
+    "fixture": "Exact final paired fragments; parser-executed source scripts, pinned repository CSS and host-scheme JS, authentic image bytes only. Isolated same-origin route; no CMS write or cart submission.",
+    "scenarios": 6,
+    "results": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/351/browser-results.json",
+    "all_dialogs_pointer_open_close": true,
+    "all_mobile_toggles_pointer_open_close": true,
+    "responsive_cleanup_reinitialization": true,
+    "icons_per_pair": {
+      "long": 6,
+      "short": 5
+    },
+    "masks": "Source uses IMG icons, not CSS masks; computed mask-image:none expected, wrappers/images counted explicitly.",
+    "image_failures": [],
+    "caption_overflows": [],
+    "page_errors": [],
+    "host_light_dark_light": true
+  },
+  "final_validation": {
+    "files": [
+      {
+        "file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+        "source_byte_reconstruction": true,
+        "czech_customer_copy_scan": [],
+        "formal_address_scan": true,
+        "hash_matches_browser_tested_file": true
+      },
+      {
+        "file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-en.html",
+        "source_byte_reconstruction": true,
+        "czech_customer_copy_scan": [],
+        "formal_address_scan": true,
+        "hash_matches_browser_tested_file": true
+      },
+      {
+        "file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/Golden-Life-Beauty-Star-de.html",
+        "source_byte_reconstruction": true,
+        "czech_customer_copy_scan": [],
+        "formal_address_scan": true,
+        "hash_matches_browser_tested_file": true
+      },
+      {
+        "file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+        "source_byte_reconstruction": true,
+        "czech_customer_copy_scan": [],
+        "formal_address_scan": true,
+        "hash_matches_browser_tested_file": true
+      },
+      {
+        "file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-en.html",
+        "source_byte_reconstruction": true,
+        "czech_customer_copy_scan": [],
+        "formal_address_scan": true,
+        "hash_matches_browser_tested_file": true
+      },
+      {
+        "file": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/repo/web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-de.html",
+        "source_byte_reconstruction": true,
+        "czech_customer_copy_scan": [],
+        "formal_address_scan": true,
+        "hash_matches_browser_tested_file": true
+      }
+    ],
+    "all_six_present": true,
+    "source_files_equal_pinned_git_blobs": true,
+    "static_and_runtime_text_inventory": "/root/workspace/jobs/2026-11-16_mutace-current-1794829588/qa/351/edits.json",
+    "reviewed_visible_customer_copy": true,
+    "scripts_node_check_count": 12,
+    "no_stale_prices_ratings_to_remove": true,
+    "visual_review": {
+      "screenshots": [
+        "de-390.png",
+        "en-1440.png"
+      ],
+      "phone_zoom_regions": [
+        "de-390.png top 1550px: short captions, banner and intro",
+        "de-390.png bottom: composition table and warning"
+      ],
+      "result": "Actual photos/icons rendered, green source graphics intact, no cropped or overlapping labels in inspected views. German discretionary hyphenation retained. Justified source paragraphs retain their original spacing."
+    },
+    "delivery_scope": "Six local product HTML files plus own qa/351 and staging/351 only; no Git publication or live CMS write."
+  }
+}
