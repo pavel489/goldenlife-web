@@ -1,0 +1,5081 @@
+{
+  "expected_files": 162,
+  "files": 162,
+  "products": 27,
+  "accepted": 162,
+  "script_parse_checks": 387,
+  "failures": [],
+  "rows": [
+    {
+      "id": "476",
+      "name": "Slim GLP-1 Activator s Berberinem",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "264da423ee5b3e347e2bce7c354cc3ec9678462820394ff60330565c1761790a",
+      "bytes": 24844,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "476",
+      "name": "Slim GLP-1 Activator s Berberinem",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "d2cb80e8a2080ced4cbeacf6afc108901986d22c7df06ecb7c6bbb054f33cdec",
+      "bytes": 24895,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "476",
+      "name": "Slim GLP-1 Activator s Berberinem",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "05d167746dfabd7c839ee5754acb9900ef2fcf2184dc9bdff99bf8a8e40f36d8",
+      "bytes": 25285,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "476",
+      "name": "Slim GLP-1 Activator s Berberinem",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "341cf5e2ce9f3567ad604c97a1d5eff193d4b90b9cfcda9860f644c15a91f1e8",
+      "bytes": 3018,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "476",
+      "name": "Slim GLP-1 Activator s Berberinem",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "0e9ec68dd7cb1c010df0e6f6a09e284f13ce9d2aedf983da406dd5dc5a5a58f1",
+      "bytes": 3030,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "476",
+      "name": "Slim GLP-1 Activator s Berberinem",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8ebc2e57c7a3ddcb460585f2a0e83501b3f4ba6cfb5e8279bbbd5da16eca0841",
+      "bytes": 3212,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "473",
+      "name": "Slim SOS Burner",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "0815d69b46396f9eafb517716a8605d07f42dab4645a42c636ce91af7ecd449e",
+      "bytes": 26023,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "473",
+      "name": "Slim SOS Burner",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "2517502d2910f88b0bc4b5e0df0af66197a08a7bb52cbce29177d75db809b992",
+      "bytes": 25700,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "473",
+      "name": "Slim SOS Burner",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8c7b45c93ad1f656eddcefd08d362292ac37ae5b160f517c2bcd5d22f0463d61",
+      "bytes": 27101,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "473",
+      "name": "Slim SOS Burner",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "95b432f273f2e6a6877f304f61691f4ff92fb913ffe8dba61ac0a6f1c803782d",
+      "bytes": 3711,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "473",
+      "name": "Slim SOS Burner",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8a4c785ef42df304147e6320030addf20277f60afdf03bf7e578e58dc531d5bb",
+      "bytes": 3491,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "473",
+      "name": "Slim SOS Burner",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "d836510762d5f2706d9dc1b679e9f8b96eb2a35312a1cc22cf515ee166098016",
+      "bytes": 3793,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "544",
+      "name": "Beauty Longevity NAD+",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "133ab38c9f1f3507f3c2ab35cd7f590b31ec1b5735d1b47fdc552c9123133f00",
+      "bytes": 31917,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "544",
+      "name": "Beauty Longevity NAD+",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "2fb4fc503ed29c9512b8b1569fd215fe2da4bb0cef7f1a874877c048c60d42e0",
+      "bytes": 31437,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "544",
+      "name": "Beauty Longevity NAD+",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "60dd0278bbb2fe9cfaf9f61b71b4386581d61af49e30e3700da41bb3b14b7738",
+      "bytes": 32975,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "544",
+      "name": "Beauty Longevity NAD+",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "9f8c4ed7869dfb30bd9a4a55d58bbd187f1501be8f4b68501c645b49431cf4c0",
+      "bytes": 3729,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "544",
+      "name": "Beauty Longevity NAD+",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f2584ba39318050a74c32e14294d8079e24045caa2a89aab0f99ef63cf44ac8b",
+      "bytes": 3726,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "544",
+      "name": "Beauty Longevity NAD+",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "20165a5f41fcd78a225c726ff4b9f813d73b7f33949ceda8a99dfab80e31ec36",
+      "bytes": 3826,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "351",
+      "name": "Beauty Star",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f8cf2c2d297b17d877673fe40d5b5c427474566b3bb30e864eaec654e1fbf97a",
+      "bytes": 27756,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "351",
+      "name": "Beauty Star",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "67960fdf51c8b47e135a1eee1a7d5056a5fa65d79e25ec13e662a921c504f297",
+      "bytes": 27220,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "351",
+      "name": "Beauty Star",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "19b6a7ec8993c23483236f0ea81f1c6c92ad1ea2d8d8a3f601125a99af4b49af",
+      "bytes": 28812,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "351",
+      "name": "Beauty Star",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "4d2a3c94f91e8cee66503cf9ae58bb83257dd6df6dd2332d26c72073fd7e78ad",
+      "bytes": 3587,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "351",
+      "name": "Beauty Star",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1ca58d3461e3c70ef883a165f4c39a6cf4abc9d5b7bb445465e7e2590b0fad82",
+      "bytes": 3527,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "351",
+      "name": "Beauty Star",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "b2fa3b273fcce9c617d410f2290bef01536deaaa836fdbfb165df886947a3658",
+      "bytes": 3785,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "383",
+      "name": "Slim Extreme Collagen box s příchutí ananasu",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "48fca70c6ccb23af2d8d1e58248cb6894b20497bb55aca5364dc3f376a9513f8",
+      "bytes": 26799,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "383",
+      "name": "Slim Extreme Collagen box s příchutí ananasu",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "4e46995b042a7db1317efa414f42ab7e9f25743b9a4fff42ea59eb6452cfb01b",
+      "bytes": 26356,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "383",
+      "name": "Slim Extreme Collagen box s příchutí ananasu",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8f0580af91dbd2f43de85555f43397c4192203c1cb224e712541863a559a4882",
+      "bytes": 27229,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "383",
+      "name": "Slim Extreme Collagen box s příchutí ananasu",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "3cd1c246f1e0a98fd6598cf732eab9ebc73d4be66ca9361733a6e8e8caacfcfe",
+      "bytes": 3506,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "383",
+      "name": "Slim Extreme Collagen box s příchutí ananasu",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f72f4c479b005b091fa211bf3202f38fa66fc03760d575929147e69f8e4272d2",
+      "bytes": 3445,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "383",
+      "name": "Slim Extreme Collagen box s příchutí ananasu",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "310bf8e0f4dc59c1d475ecb3a869c1f32ece2c27e5902c0d9e5f87cc785b8ac2",
+      "bytes": 3598,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "550",
+      "name": "Anti-Age longevity NAD+",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "d87003ee0266cac15cc4292caadd4b68f504f26f1a9d4686859aac2a77c0cac5",
+      "bytes": 33237,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "550",
+      "name": "Anti-Age longevity NAD+",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1365febfe5694b8c8ff1fa4349b2e8fd3989136bb8021e39c55f7059e2cdb5d8",
+      "bytes": 32677,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "550",
+      "name": "Anti-Age longevity NAD+",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "0f52030213e8f778444c3d6fe1115c7a9a0774afe266a9efbd55b5efef09425f",
+      "bytes": 33593,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "550",
+      "name": "Anti-Age longevity NAD+",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "85e5780ebe0292f3d6b74c31ec7c761e716859c8a121870cb5f5725290593b0e",
+      "bytes": 3514,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "550",
+      "name": "Anti-Age longevity NAD+",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "69936eacf3d7475617c356ae04117b8171f15b86f022cfd18b74d9ab89980bb5",
+      "bytes": 3452,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "550",
+      "name": "Anti-Age longevity NAD+",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "dcf446bc8c47e6e752ed58cc929988bf86e087d4d77dcdaf50e78a6adff198c7",
+      "bytes": 3555,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "635",
+      "name": "Hormonal Balance noční GLP-1 drink",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "77789c14f9ed73e96871eae81e0ef4ed90d0630b977e294658d718927208472a",
+      "bytes": 34388,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "635",
+      "name": "Hormonal Balance noční GLP-1 drink",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "c54d2a42b1dca708db037e4a436f3ee61ccd8663da188ddd9d8e301e1fcaf2f7",
+      "bytes": 34097,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "635",
+      "name": "Hormonal Balance noční GLP-1 drink",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "2d37641e2d72a374ba95cc0683b89d31ae556359c8eaa8b3e2392acb9947469e",
+      "bytes": 35262,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "635",
+      "name": "Hormonal Balance noční GLP-1 drink",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "e60fc9735002a4c88a476a5790c8646fa52f5b9819009618f3925bb5b3285ef8",
+      "bytes": 3981,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "635",
+      "name": "Hormonal Balance noční GLP-1 drink",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1ec19e0f9f41fdc46c5046953c13863eee148bb999c324b0140b6113a7009c42",
+      "bytes": 3963,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "635",
+      "name": "Hormonal Balance noční GLP-1 drink",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "53fcd7b21e067cde17f5afbf390de9ca8fabb26d7c9b16bc5d93a352cc6400bd",
+      "bytes": 4107,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "641",
+      "name": "Hormonal Balance noční GLP-1 drink sáček",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "86d97760f0aed74d5d9a77ae8a8c7dbaa2adf51417e3fdbed05adfbf00bdbeca",
+      "bytes": 34548,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "641",
+      "name": "Hormonal Balance noční GLP-1 drink sáček",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "97c87925de7f3cbd6ce60f518e6a9b5e5313a7353cc5c4f53889b83fa0040b50",
+      "bytes": 34232,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "641",
+      "name": "Hormonal Balance noční GLP-1 drink sáček",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "7f5ba03dc349cbf13822ae6928c0d06125b14ed1ed291d19d608f42a6e30fb5d",
+      "bytes": 35383,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "641",
+      "name": "Hormonal Balance noční GLP-1 drink sáček",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "838f7573b360b87f543313677b57a6a7cee61b9ee3192133f77e635f661fdf30",
+      "bytes": 4088,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "641",
+      "name": "Hormonal Balance noční GLP-1 drink sáček",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "55c0f63823d16a0c2fc8365471c0591cc85164798c13838e283d9adaf6571088",
+      "bytes": 4061,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "641",
+      "name": "Hormonal Balance noční GLP-1 drink sáček",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "26b8244427ea04c3ee6308f7a013efd6729a36146c83e94d7f33e00075d4439c",
+      "bytes": 4188,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "644",
+      "name": "Woman Hormonal balance",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "6d4906146ac6d130686581889143d41130265bb6a15f8265db019126d61a6700",
+      "bytes": 30731,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "644",
+      "name": "Woman Hormonal balance",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "e7d91af02cfacb3ba7d8483adf21399ff259290b4ac91e0e54e1e69fd2290f05",
+      "bytes": 30269,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "644",
+      "name": "Woman Hormonal balance",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 3,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "12165f5eced56cd44e29655a4fae4ad896c10b960630e91eb9eab0d0f5ad0448",
+      "bytes": 31441,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "644",
+      "name": "Woman Hormonal balance",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "0f1d46c73ab278a258d7f88535578ec3a9bc4b472bce340dce842653aa62f2fc",
+      "bytes": 3870,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "644",
+      "name": "Woman Hormonal balance",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "84d276e69e733ec57d4bf8e309e476d33cba0cdd4de570c9ab5fda0456535c38",
+      "bytes": 3827,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "644",
+      "name": "Woman Hormonal balance",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "c192f27c21892d10a002b2d4512e922d91b691c53956a21ad32e70661fa046eb",
+      "bytes": 4011,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "51",
+      "name": "Beauty Body & Soul®",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "65ee95c6d5a947a3bbeedb5f1446f4a2a3a4cec255bf1708f87e037516e5662e",
+      "bytes": 29949,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "51",
+      "name": "Beauty Body & Soul®",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "9060ffbdbf407e34af1918d2b9e6cba020b89905de4cfc242e7f9d0785d320bd",
+      "bytes": 29612,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "51",
+      "name": "Beauty Body & Soul®",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "e8787c6eee4cad561b9d3d5e8eefe9726554044bde0efd11a6280b55ada4ecb8",
+      "bytes": 31346,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "51",
+      "name": "Beauty Body & Soul®",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "3c419db3a88eba52e7c99322de80abb1b193841669cbb5b10075d1e3c10ee973",
+      "bytes": 2637,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "51",
+      "name": "Beauty Body & Soul®",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "ed9b50dd85d778aa2968cec7ab77b9eed8bc47bb9e83c700292cc3111c4fc15c",
+      "bytes": 2650,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "51",
+      "name": "Beauty Body & Soul®",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "aa478931e03dd199325fc423015a66d33064ff8d93e7e9c3baafb1666ab6e299",
+      "bytes": 2727,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "600",
+      "name": "Beauty Longevity NAD+ sáček",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5aa64430ff0befc760b65ca86c28b319c3d1d049027a2371c9671a1348afd752",
+      "bytes": 30161,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "600",
+      "name": "Beauty Longevity NAD+ sáček",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "2d969748d95c82b25c1ef44f773803aa51c2a7b56768592bfa291a5d29bc84f7",
+      "bytes": 29657,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "600",
+      "name": "Beauty Longevity NAD+ sáček",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "d1ad61b7dea21617eacabc86fdfc0e5559d9fcb2e59a4b9a0167aa62d4b32398",
+      "bytes": 31090,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "600",
+      "name": "Beauty Longevity NAD+ sáček",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "be920e26dd550c32575847f1fe15b87905b3a129fbfaf61b0973ae73a2eda77b",
+      "bytes": 4019,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "600",
+      "name": "Beauty Longevity NAD+ sáček",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8714770c384eed6d776bc7371b4c059a7b8639e92697c071721e7840ed68a27f",
+      "bytes": 4007,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "600",
+      "name": "Beauty Longevity NAD+ sáček",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "302169dc9e2be2f5700b8eb9d9f8649f8beee4994716aa2610121fa059795c0a",
+      "bytes": 4136,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "452",
+      "name": "Bikini Body",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1d54c35fec76b9f59928378c9fd7c3c09321a3e03c476c177b369132aa566d64",
+      "bytes": 23939,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "452",
+      "name": "Bikini Body",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "53a5d5b65a90f487aaf23522a83b4fed47002c5271c502d8bca1c6163f9a42f6",
+      "bytes": 23948,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "452",
+      "name": "Bikini Body",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5e6e4ff19dd29035f46bb68358899e02d48873d7b9081e8e786bfc3185bd1c3f",
+      "bytes": 24866,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "452",
+      "name": "Bikini Body",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "712934932d5e174c5ebb9cfece4f62d116215f8135b8d0069b9ad81c551fc7d5",
+      "bytes": 3367,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "452",
+      "name": "Bikini Body",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8e719ca8c4ae9721da61ee35132531f8e1ec732eb6bf78977d8dae95b855bf07",
+      "bytes": 3407,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "452",
+      "name": "Bikini Body",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "07bca1ded2e0182b640a22e4ff61bdeb10549f10a989e09237b9f2f85f760150",
+      "bytes": 3512,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "258",
+      "name": "Detoxikační čaj – 30 dní",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "61b3c26c17d4db71d62d4927821b6c0f98d183b5ad0c3bca76c3363092ff7b6e",
+      "bytes": 23371,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "258",
+      "name": "Detoxikační čaj – 30 dní",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "32d4ba1d8c1d6357075c6ca2d3d0dbc0bbc76c104d19f53ba1d1b3ef7fca231a",
+      "bytes": 22849,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "258",
+      "name": "Detoxikační čaj – 30 dní",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "23bc49d75da06448057853770c4b95af79844b9d93057ed870c23e852e7fc7c7",
+      "bytes": 24433,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "258",
+      "name": "Detoxikační čaj – 30 dní",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "c3be532561450325cfe11418c62b514943de2d01e71460bf4faeccac567f8db9",
+      "bytes": 3016,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "258",
+      "name": "Detoxikační čaj – 30 dní",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [
+        "Organic herbal tea, blended from 11 excellent herbs. A month-long course. Revive tradition with our unique herbal detox tea. The blend was specially mixed according to the traditional recipe of the renowned healer Granny Radnická. This part"
+      ],
+      "sha256": "c49a8388bb521ace0e464f03ea22e17269b89dd47d4d93f67440f3f294a5706e",
+      "bytes": 2976,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "258",
+      "name": "Detoxikační čaj – 30 dní",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [
+        "BIO-Kräutertee, gemischt aus 11 hervorragenden Kräutern. Eine Monatskur. Lassen Sie die Tradition mit unserem einzigartigen Kräuter-Detox-Tee aufleben. Die Mischung wurde speziell nach dem traditionellen Rezept der renommierten Heilerin Gro"
+      ],
+      "sha256": "e6d7d37a158df64a3a40e18e837d7361bae9f4c731674bbd116da81a96c2bc02",
+      "bytes": 3098,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "261",
+      "name": "Detoxikační čaj – 7 dní",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "864d98033889bdc4e4fb3eb1af78fd00048fb576596d749e0494041397942e52",
+      "bytes": 17821,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "261",
+      "name": "Detoxikační čaj – 7 dní",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "938610189533b3010425e01aa462a7463b8b6b64bc7ee1cb4d2cd8e965fe3c0d",
+      "bytes": 17690,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "261",
+      "name": "Detoxikační čaj – 7 dní",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "13c5e448e9b1875e3fb69d2d9b543f9290db3ce7b6e190b35b8e7a41ddff208d",
+      "bytes": 18188,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "261",
+      "name": "Detoxikační čaj – 7 dní",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "ec4795243d9b4b28eccf6d0038211a9884363322003a7b43d535762986fd7507",
+      "bytes": 2939,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "261",
+      "name": "Detoxikační čaj – 7 dní",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [
+        "Revive tradition with our unique herbal detox tea. The blend was specially mixed according to the traditional recipe of the renowned healer Baba Radnická. This particular elixir for cleansing, strengthening immunity and weight loss was care"
+      ],
+      "sha256": "53c24958d156a509fe140c0b870065d9a4189ccd02c82cd8507d7eac8b3231f1",
+      "bytes": 2897,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "261",
+      "name": "Detoxikační čaj – 7 dní",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [
+        "Lassen Sie die Tradition mit unserem einzigartigen Kräuter-Detox-Tee aufleben. Die Mischung wurde eigens nach der traditionellen Rezeptur der renommierten Heilerin Baba Radnická zusammengestellt. Dieses besondere Elixier zur Reinigung, zur "
+      ],
+      "sha256": "c27b41e6f1e02837de6b7c676c92bcb0c9c2d99c82ff9a82f7c48de9df70f616",
+      "bytes": 3034,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "57",
+      "name": "Good Sleep & Night Burn",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "a39b2e9104a7bafe906a9412101c1868aef3ac4826d4d584729f97e95f96a2b6",
+      "bytes": 26568,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "57",
+      "name": "Good Sleep & Night Burn",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8de718e085c6e8f43edbe2a6b9a6df7533916c38b980f377f89d753cdbb89156",
+      "bytes": 26136,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "57",
+      "name": "Good Sleep & Night Burn",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "e2cf3c7464f88a25cde260dd9f896b930838af50591a92a93c9ba7bf910ed791",
+      "bytes": 27384,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "57",
+      "name": "Good Sleep & Night Burn",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "64d18adcf3226bd9f530f4b5613cdf435ae98418ed2dcab24b34cff344af18ee",
+      "bytes": 3485,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "57",
+      "name": "Good Sleep & Night Burn",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "3a8c4e2e1c0b5170da26cca5edcdfdfc8c31e9b671cd168c3f94148a4de289dc",
+      "bytes": 3457,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "57",
+      "name": "Good Sleep & Night Burn",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "081f6525ebbe48dc0b09257d2c1cb0523cdb99d517e524c37a317ed60f290ec9",
+      "bytes": 3583,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "99",
+      "name": "Miracle Drops",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "9c757582b1fed33610574f5bdb6ef0127010357aa48a4113ecd2cf1da6cf5745",
+      "bytes": 30461,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 10,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "99",
+      "name": "Miracle Drops",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5d0429a9b16f61edf01350caf5dbc48680066827c6fed7166175a55a6dde2b2c",
+      "bytes": 30067,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 10,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "99",
+      "name": "Miracle Drops",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "878faa5274e214e58e581bf35331d8c5aa33a473ae3e1eda4fe3f01965990fc9",
+      "bytes": 31146,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 10,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "99",
+      "name": "Miracle Drops",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "efdae4671a309a2b3be4a01bfe1b662fb4a7fcbaa90ee48aa57f1acd9dc50d02",
+      "bytes": 3088,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "99",
+      "name": "Miracle Drops",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "86d9751ef4b4040ea937d4f03f3aa5f87aa9e54f5ef5f46d6cca5992090def81",
+      "bytes": 3020,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "99",
+      "name": "Miracle Drops",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "10c4b60c99b3ffeeddbb90510cadb546e2b164376e888ca4297ebb6b3341f8a6",
+      "bytes": 3092,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "360",
+      "name": "pH+ Uro Balance čaj – 30 dní",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "381c8507fd0019be3ee783afb612cc7dc71cc6c3f02285b1cf5bb843f2ceac71",
+      "bytes": 30753,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "360",
+      "name": "pH+ Uro Balance čaj – 30 dní",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5963ada8836f78adb40aee0c6ac139df58348a6de72027407327376739789367",
+      "bytes": 30067,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "360",
+      "name": "pH+ Uro Balance čaj – 30 dní",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "959ff334b43e0f4a72e00a29c756f74405120f5f87cc5aaafac86f25205988bb",
+      "bytes": 32263,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "360",
+      "name": "pH+ Uro Balance čaj – 30 dní",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "b9b88df14290dcf33fbb2fc5ce671bdd7b54ecdd5b121522e3bf86509e24974e",
+      "bytes": 3835,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "360",
+      "name": "pH+ Uro Balance čaj – 30 dní",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "08f4b8dd8dc168a4a274c9f30cc2bfb5950d043c2f2e74aeabe9b6c232bdffff",
+      "bytes": 3732,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "360",
+      "name": "pH+ Uro Balance čaj – 30 dní",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "b62df84ba458256a34314c60f3406c23e1c9dfad0134794fbcb979459c3009bf",
+      "bytes": 3954,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "174",
+      "name": "Slim & Detox Super energy booster Power+",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "64fe3c414e23d8819642fea1bed92002767b1e1cde6fec477aa44f795db1936b",
+      "bytes": 30104,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "174",
+      "name": "Slim & Detox Super energy booster Power+",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "57baffdac278d8203847f76f1b6b4d67355425f47a36fb2479dbffb18c9d8e35",
+      "bytes": 29978,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "174",
+      "name": "Slim & Detox Super energy booster Power+",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "a4feab86a371f3397cc869743b68d5dc470b63c74308598baea68e0d3968c5aa",
+      "bytes": 31387,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "174",
+      "name": "Slim & Detox Super energy booster Power+",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "360240af5cd05e69b227eaeed52ed6ee5c2291eb18723485ba0d1e0b886e5d2e",
+      "bytes": 3421,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "174",
+      "name": "Slim & Detox Super energy booster Power+",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8d1f0e938abf22428fa20da7a45247c5f59a8c4fd6b61dfc68546ea100e01322",
+      "bytes": 3424,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "174",
+      "name": "Slim & Detox Super energy booster Power+",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "7a426fabb0c85257c64bf3b224d3dff190be48df5c2480c50f35662cd178b44e",
+      "bytes": 3527,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "168",
+      "name": "Slim Extreme Collagen",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8ef74c5b2a63593e2084e3551a6ac95b0f2b2fc79eb43de66b654ee746187b1a",
+      "bytes": 27261,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "168",
+      "name": "Slim Extreme Collagen",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f2c79935ca29a23d1bb97f4be644983a7e7743d047614e73f16dc1355762ab73",
+      "bytes": 26926,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "168",
+      "name": "Slim Extreme Collagen",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen/Golden Life Slim Extreme Collagen-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "3ec9b44e32cad0847330c133ad4b11c298ff8ae7d078a9093332d9ff99e7724f",
+      "bytes": 27831,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "168",
+      "name": "Slim Extreme Collagen",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5ded99bf56d7f5ff4c6f394318e883036148dbfdff1b930e80e3f5d7a8225f31",
+      "bytes": 4198,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "168",
+      "name": "Slim Extreme Collagen",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "cc25d9eb522f37f4c6975adb732d4f66bc83497a1bc525e1dc0740f5fec89d5e",
+      "bytes": 4120,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "168",
+      "name": "Slim Extreme Collagen",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen/maly/Golden Life Slim Extreme Collagen maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "2e1cded44eb2754317901e73d8687eb11b1a4afd923bb695d6b5c7ff97f9d60a",
+      "bytes": 4461,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {
+          "p": 1
+        },
+        "added_disclaimer": true
+      },
+      "accepted": true
+    },
+    {
+      "id": "464",
+      "name": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "31b0c4b8273755fdd6fce4f96ca1f2f05d88e7e353b84f164b49f7cc36f9db91",
+      "bytes": 32519,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "464",
+      "name": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "3252eba851742655ff87fb94f5656800d892f4b76267a70172b1d30b225b4d79",
+      "bytes": 32222,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "464",
+      "name": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1ed9b1157d65d3a35f9a75a3cf8f6e5003a288ee57e754421ba1825a2f90bbd0",
+      "bytes": 33346,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "464",
+      "name": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "64118a6aeb704178d6e584e5e591199252065ee48739163a4f473c6cb338fc92",
+      "bytes": 3568,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "464",
+      "name": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f687a34f0a17cb75583d854c8c28626d3c3c728cf0eed7e6b1e5e1ed2282d309",
+      "bytes": 3514,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "464",
+      "name": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "d220596e7c1d3113cf8ebd2e4a0970f893d0f4f49a19eb50891ecd8fab10af4a",
+      "bytes": 3700,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "467",
+      "name": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "37db71c0353c2651c9d3b141c8ad1accea0c8193fae41b71033778a9f52c09ae",
+      "bytes": 31513,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "467",
+      "name": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "e12503fd166bb0abf8fa9c6a442b1dd34d4444bf6094006fc921f224ea939b2d",
+      "bytes": 31208,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "467",
+      "name": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "9d46d333a2bbadec81790942bcf76b8a5149766d686b7bbcb17a005b0db6c515",
+      "bytes": 32451,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "467",
+      "name": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "903af5490d138759c08f7a645224741101bf5fe4437ca891fa3fe0265e1586e5",
+      "bytes": 3832,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "467",
+      "name": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "88f9d60ddcc02b88b016cc5c109fe3b08a97648bbaa559b6846ba35156bb2322",
+      "bytes": 3712,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "467",
+      "name": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1cd14edc9820949f411846536f43fcd827bce0f5c71f17d3519eb656d89c59b3",
+      "bytes": 3938,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "416",
+      "name": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "cce36332549ad07735f8dac4325cc041668445895addbe6c9f707a6324b9d052",
+      "bytes": 31665,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "416",
+      "name": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1f15e6be7514b7d9238ded82a2d8c5b6bda7c3ecee634518faa428e8d9aeb10f",
+      "bytes": 31166,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "416",
+      "name": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8f75b82b34795154f31b2560c29320e759db8ef63b1e0435d2cb52101e7e4c43",
+      "bytes": 32204,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "416",
+      "name": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "adc3965fe716657456f51d68fdb965d3cfd2dab61b0d9fc98fc7663ea3119a8a",
+      "bytes": 3303,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "416",
+      "name": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "b83e04d7d090b0858da45bd4504cf3799c1f6dc618513fbf01de68bb0618f49f",
+      "bytes": 3256,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "416",
+      "name": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "c19449b09eda4c6eeed106b0923f279305cf90fd474edff566d1c25e81dd9ca1",
+      "bytes": 3392,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "547",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "d25b3aa73a4d1cea0f18850d5cf2d57fc2ec3832641f991f1639cbd389806901",
+      "bytes": 40923,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "547",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "47e424de2ed006bd8a549dd595529f5a147924b5b0227fa2edec3ad62d96361c",
+      "bytes": 40394,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "547",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "42356f6b6eb0de53b5becbee92efe6bb163024eb7358af524b95e5ffba643a1d",
+      "bytes": 42284,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "547",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "0bcf084554d61b663a310ebc4f74aff9e53de11bdad080e7e628fded9b9c899d",
+      "bytes": 3073,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "547",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "49dc713baf15438c9f87f42a9736fb9870904e12acfbaf6b2407da3fc37ab016",
+      "bytes": 3077,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "547",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí cappuccino",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "dc8b3221b2569f6da196adb03105e8b12c83816fd71d3579ce9e6cc931fe1250",
+      "bytes": 3149,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "470",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "557fb9b35c17bd42c50d42cb1ee00e0f0123353fe0a908d1ef7253ee4e81e990",
+      "bytes": 40638,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "470",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5f7af95e9fcd3b2c376ed522561a8b37848074a6b8b8690eed163454e908087a",
+      "bytes": 39934,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "470",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "a435a0cf8a6ba98d84c3b6a8d0cc4932329333c2dbd7db4af0120e4707cc1cca",
+      "bytes": 42245,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "470",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f5648470121e4ed8aaeef0c52478702c92e5124636e4cc875d3628beb97226c2",
+      "bytes": 3280,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "470",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f44424809fab50cd60e8d964e0c636c9b2ba0e7cd93a551236392a92fd68f3ba",
+      "bytes": 3235,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "470",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí kokos - bílá čokoláda",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "4b16b8e1a193718ae8f57cf6ff201c8f549ccd60a25ac0a6b77914f4574d524d",
+      "bytes": 3334,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "458",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5e1f4f38185de9a6a2d68af21b92162a2625e5b99bb01923cbf99ecd9fbf3d93",
+      "bytes": 40837,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "458",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1ae9833c472cfc7cf3feaa89ec040f24d62b86b78cc71b22610efb0a9daa0b06",
+      "bytes": 40180,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "458",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "946da73d2ec17b68bc3b75bfca4c249a98b03bd850596d88090293649cd69d46",
+      "bytes": 42125,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "458",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "704f7f79559c07938ac8d13cbbc473333ab2e60af6c505c1299e0d08a55fb3ca",
+      "bytes": 3264,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "458",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "134bd40a38014a0001f69ef67a566bcf93f2f56e93f3acaf769f99d03661def0",
+      "bytes": 3223,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "458",
+      "name": "Svačinka Slim GLP-1 Shake s příchutí vanilka-jahoda",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": true,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "1e463d38917d59d3042fb47961509c18e1338364b0597450966fe2a3badd5524",
+      "bytes": 3334,
+      "pass": true,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 0,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "84",
+      "name": "Vitamín C",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "af56e96a98809999bea05be3819844135a450a315e2b1e3471ae8e55e4113db2",
+      "bytes": 17860,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 4,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "84",
+      "name": "Vitamín C",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "ec454fcff0b7ec6c41aa5ebf32fe55cde6ba3d5d32784e68e410d9c88bb94004",
+      "bytes": 17784,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 4,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "84",
+      "name": "Vitamín C",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "773ad181eae5c762fd48400014b46bcce7fe2f75aadbd205d4383a9d7bce4bf8",
+      "bytes": 18329,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 4,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "84",
+      "name": "Vitamín C",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "6acb76c23e0c493795111ad95a1d7540f249fbc308328e72150ec5ab08fd3821",
+      "bytes": 3362,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "84",
+      "name": "Vitamín C",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "2ece7d5158a17373761075dc8bac7ac36a1f473dbf8223bee530166b36b33e64",
+      "bytes": 3365,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "84",
+      "name": "Vitamín C",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "c171261c4b871bebfcd9d0e4bbacbe615691212330f8ea605d6e077d6faf160f",
+      "bytes": 3596,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "357",
+      "name": "Xpress Hair Grow s biotinem",
+      "kind": "long",
+      "lang": "sk",
+      "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "7591132b67d84ae1c8995877b0f4c56a53c5263a948b5edbefd3f83ea2155823",
+      "bytes": 28202,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 8,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "357",
+      "name": "Xpress Hair Grow s biotinem",
+      "kind": "long",
+      "lang": "en",
+      "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5df8dfedd49f137200856238aee6024fcb70a935c03b915271d4fd3cc5d6be60",
+      "bytes": 28165,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 8,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "357",
+      "name": "Xpress Hair Grow s biotinem",
+      "kind": "long",
+      "lang": "de",
+      "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 4,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "8c8dd2b03a4de617e56f9ca9af771b6a662747c769d9bcef4ad7b71fd725c863",
+      "bytes": 29085,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 8,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "357",
+      "name": "Xpress Hair Grow s biotinem",
+      "kind": "short",
+      "lang": "sk",
+      "path": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-sk.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "c56d68a97589cf16d00682b8621adfa9f6a1c9960bd897bc42e4d5f19203e56c",
+      "bytes": 3142,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "357",
+      "name": "Xpress Hair Grow s biotinem",
+      "kind": "short",
+      "lang": "en",
+      "path": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-en.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "5a2a63cbe435921bf7f04d7d3eb946dbe247c9256afe5cefe9538781786187e9",
+      "bytes": 3120,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    },
+    {
+      "id": "357",
+      "name": "Xpress Hair Grow s biotinem",
+      "kind": "short",
+      "lang": "de",
+      "path": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-de.html",
+      "checks": {
+        "media_exact": true,
+        "style_exact": true,
+        "structure_exact": false,
+        "table_numbers_exact": true,
+        "dialog_count_exact": true,
+        "no_truncation_marker": true,
+        "lang_present": true,
+        "scripts_parse": true
+      },
+      "scripts_checked": 1,
+      "script_errors": [],
+      "czech_signal_nodes": [],
+      "sha256": "f1654abc0108259a53991a2113937a4927abddc6bc47bea6f6f26f784f7b67b3",
+      "bytes": 3367,
+      "pass": false,
+      "reviewed_structure": true,
+      "structural_delta": {
+        "removed_editorial_notes": 1,
+        "minus": {},
+        "plus": {},
+        "added_disclaimer": false
+      },
+      "accepted": true
+    }
+  ],
+  "scope": "Exact current CZ media, inline CSS, numeric table values, dialog counts and executable script parse; structural differences explicitly limited to moving editorial draft notices out of customer HTML and adding the required safety paragraph. Language has model review, not certified native/legal review."
+}

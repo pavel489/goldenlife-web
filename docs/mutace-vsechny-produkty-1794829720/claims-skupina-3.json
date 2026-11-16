@@ -1,0 +1,812 @@
+{
+  "status": "INTERNÍ JAZYKOVÝ DRAFT; NENÍ PRÁVNÍ SCHVÁLENÍ",
+  "scope_ids": [
+    "464",
+    "467"
+  ],
+  "source_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "method": "Úplná věrná mutace zděděných účinkových textů bez zesílení; neutralizace nejsou automaticky zapsány do HTML. Každý přesný zdrojový text a jeho úplný překlad je též v translation-ledger.json.",
+  "risk_fields": [
+    {
+      "source_string_index": 20,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Slim Extreme Collagen Mango je osvěžující nápoj, který spojuje sílu mořského kolagenu, tropického ovoce a patentovaných aktivních složek pro štíhlou postavu, hormonální rovnováhu a krásu.",
+      "exact_source_sentences": [
+        "Slim Extreme Collagen Mango je osvěžující nápoj, který spojuje sílu mořského kolagenu, tropického ovoce a patentovaných aktivních složek pro štíhlou postavu, hormonální rovnováhu a krásu."
+      ],
+      "translations": {
+        "sk": "Slim Extreme Collagen Mango je osviežujúci nápoj, ktorý spája silu morského kolagénu, tropického ovocia a patentovaných aktívnych zložiek pre štíhlu postavu, hormonálnu rovnováhu a krásu.",
+        "en": "Slim Extreme Collagen Mango is a refreshing drink that combines the power of marine collagen, tropical fruit and patented active ingredients for a slim figure, hormonal balance and beauty.",
+        "de": "Slim Extreme Collagen Mango ist ein erfrischendes Getränk, das die Kraft von Meereskollagen, tropischen Früchten und patentierten Wirkstoffen für eine schlanke Figur, hormonelles Gleichgewicht und Schönheit vereint."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 22,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Podpora hubnutí i bez cvičení",
+      "exact_source_sentences": [
+        "Podpora hubnutí i bez cvičení"
+      ],
+      "translations": {
+        "sk": "Podpora chudnutia aj bez cvičenia",
+        "en": "Weight-loss support even without exercise",
+        "de": "Unter­stützung beim Abnehmen auch ohne Sport"
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 23,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Spalování tuků",
+      "exact_source_sentences": [
+        "Spalování tuků"
+      ],
+      "translations": {
+        "sk": "Spaľovanie tukov",
+        "en": "Fat burning",
+        "de": "Fett­verbrennung"
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 24,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Redukce celulitidy",
+      "exact_source_sentences": [
+        "Redukce celulitidy"
+      ],
+      "translations": {
+        "sk": "Redukcia celulitídy",
+        "en": "Cellulite reduction",
+        "de": "Reduzierung von Cellulite"
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 25,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Regenerace organismu",
+      "exact_source_sentences": [
+        "Regenerace organismu"
+      ],
+      "translations": {
+        "sk": "Regenerácia organizmu",
+        "en": "Body regeneration",
+        "de": "Regeneration des Körpers"
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 26,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Redukce vrásek",
+      "exact_source_sentences": [
+        "Redukce vrásek"
+      ],
+      "translations": {
+        "sk": "Redukcia vrások",
+        "en": "Wrinkle reduction",
+        "de": "Falten­reduzierung"
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 29,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Kombinace špičkového mořského kolagenu a patentovaných kolagenních peptidů vytváří jedinečný omlazující efekt. Hubnoucí síla extraktu z ananasu a manga spolu s přírodními enzymy podporuje rychlé a efektivní spalování tuků v problematických partiích. Obsažený bromelain a papain napomáhají štěpení bílkovin a tukových buněk, zatímco probiotika LactoSpore® a inulin podporují zdravou střevní mikroflóru a lepší vstřebávání živin.",
+      "exact_source_sentences": [
+        "Kombinace špičkového mořského kolagenu a patentovaných kolagenních peptidů vytváří jedinečný omlazující efekt.",
+        "Hubnoucí síla extraktu z ananasu a manga spolu s přírodními enzymy podporuje rychlé a efektivní spalování tuků v problematických partiích.",
+        "Obsažený bromelain a papain napomáhají štěpení bílkovin a tukových buněk, zatímco probiotika LactoSpore® a inulin podporují zdravou střevní mikroflóru a lepší vstřebávání živin."
+      ],
+      "translations": {
+        "sk": "Kombinácia špičkového morského kolagénu a patentovaných kolagénových peptidov vytvára jedinečný omladzujúci efekt. Zoštíhľujúca sila extraktu z ananásu a manga spolu s prírodnými enzýmami podporuje rýchle a efektívne spaľovanie tukov v problémových partiách. Obsiahnutý bromelaín a papaín napomáhajú štiepeniu bielkovín a tukových buniek, zatiaľ čo probiotiká LactoSpore® a inulín podporujú zdravú črevnú mikroflóru a lepšie vstrebávanie živín.",
+        "en": "The combination of premium marine collagen and patented collagen peptides creates a unique rejuvenating effect. The slimming power of pineapple and mango extract, together with natural enzymes, supports rapid and effective fat burning in problem areas. The bromelain and papain it contains help break down proteins and fat cells, while LactoSpore® probiotics and inulin support healthy intestinal microflora and better nutrient absorption.",
+        "de": "Die Kombination aus hochwertigem Meereskollagen und patentierten Kollagenpeptiden sorgt für einen einzigartigen verjüngenden Effekt. Die schlankmachende Kraft von Ananas- und Mangoextrakt unterstützt zusammen mit natürlichen Enzymen eine schnelle und effektive Fettverbrennung an Problemzonen. Das enthaltene Bromelain und Papain helfen beim Abbau von Proteinen und Fettzellen, während LactoSpore®-Probiotika und Inulin eine gesunde Darmflora und eine bessere Nährstoffaufnahme unterstützen."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 36,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Vzhledem ke komplexnímu složení se při přípravě může přirozeně objevit jemná pěna s drobnými částečkami – jde o residua přírodních hubnoucích složek a probiotik, která nejsou na závadu, naopak potvrzují přítomnost aktivních látek v jejich přirozené podobě.",
+      "exact_source_sentences": [
+        "Vzhledem ke komplexnímu složení se při přípravě může přirozeně objevit jemná pěna s drobnými částečkami – jde o residua přírodních hubnoucích složek a probiotik, která nejsou na závadu, naopak potvrzují přítomnost aktivních látek v jejich přirozené podobě."
+      ],
+      "translations": {
+        "sk": "Vzhľadom na komplexné zloženie sa pri príprave môže prirodzene objaviť jemná pena s drobnými čiastočkami – ide o rezíduá prírodných zoštíhľujúcich zložiek a probiotík, ktoré nie sú na závadu, naopak potvrdzujú prítomnosť aktívnych látok v ich prirodzenej podobe.",
+        "en": "Due to the complex composition, a light foam with small particles may naturally appear during preparation – these are residues of natural slimming ingredients and probiotics, which are not a defect; on the contrary, they confirm the presence of active substances in their natural form.",
+        "de": "Aufgrund der komplexen Zusammensetzung kann sich bei der Zubereitung auf natürliche Weise ein leichter Schaum mit kleinen Partikeln bilden – dabei handelt es sich um Rückstände natürlicher schlankmachender Inhaltsstoffe und Probiotika. Diese stellen keinen Mangel dar, sondern bestätigen vielmehr das Vorhandensein der Wirkstoffe in ihrer natürlichen Form."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 39,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Potlačení chuti k jídlu a lepší kontrola hladu.",
+      "exact_source_sentences": [
+        "Potlačení chuti k jídlu a lepší kontrola hladu."
+      ],
+      "translations": {
+        "sk": "Potlačenie chuti do jedla a lepšia kontrola hladu.",
+        "en": "Appetite suppression and better hunger control.",
+        "de": "Appetitzügelung und bessere Kontrolle des Hungergefühls."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 40,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Efektivní spalování tuků a redukce problémových partií.",
+      "exact_source_sentences": [
+        "Efektivní spalování tuků a redukce problémových partií."
+      ],
+      "translations": {
+        "sk": "Efektívne spaľovanie tukov a redukcia problémových partií.",
+        "en": "Effective fat burning and reduction of problem areas.",
+        "de": "Effektive Fettverbrennung und Reduzierung von Problemzonen."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 41,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Podpora trávení enzymy bromelain a papain.",
+      "exact_source_sentences": [
+        "Podpora trávení enzymy bromelain a papain."
+      ],
+      "translations": {
+        "sk": "Podpora trávenia enzýmami bromelaín a papaín.",
+        "en": "Digestive support from the enzymes bromelain and papain.",
+        "de": "Unterstützung der Verdauung durch die Enzyme Bromelain und Papain."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 42,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Zdravá střevní mikroflóra díky probiotikům LactoSpore®.",
+      "exact_source_sentences": [
+        "Zdravá střevní mikroflóra díky probiotikům LactoSpore®."
+      ],
+      "translations": {
+        "sk": "Zdravá črevná mikroflóra vďaka probiotikám LactoSpore®.",
+        "en": "Healthy intestinal microflora thanks to LactoSpore® probiotics.",
+        "de": "Gesunde Darmflora dank LactoSpore®-Probiotika."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 43,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Redukce celulitidy a zlepšení pevnosti pokožky.",
+      "exact_source_sentences": [
+        "Redukce celulitidy a zlepšení pevnosti pokožky."
+      ],
+      "translations": {
+        "sk": "Redukcia celulitídy a zlepšenie pevnosti pokožky.",
+        "en": "Cellulite reduction and improved skin firmness.",
+        "de": "Reduzierung von Cellulite und Verbesserung der Hautfestigkeit."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 44,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Rychlá re-hydratace organismu a doplnění minerálů (Aquamin® – 72 stopových prvků).",
+      "exact_source_sentences": [
+        "Rychlá re-hydratace organismu a doplnění minerálů (Aquamin® – 72 stopových prvků)."
+      ],
+      "translations": {
+        "sk": "Rýchla rehydratácia organizmu a doplnenie minerálov (Aquamin® – 72 stopových prvkov).",
+        "en": "Rapid rehydration of the body and mineral replenishment (Aquamin® – 72 trace elements).",
+        "de": "Schnelle Rehydrierung des Körpers und Ergänzung von Mineralstoffen (Aquamin® – 72 Spurenelemente)."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 45,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Podpora metabolismu cukrů a tuků díky chromu a zelenému čaji.",
+      "exact_source_sentences": [
+        "Podpora metabolismu cukrů a tuků díky chromu a zelenému čaji."
+      ],
+      "translations": {
+        "sk": "Podpora metabolizmu cukrov a tukov vďaka chrómu a zelenému čaju.",
+        "en": "Support for sugar and fat metabolism thanks to chromium and green tea.",
+        "de": "Unterstützung des Zucker- und Fettstoffwechsels dank Chrom und grünem Tee."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 46,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Energie a vitalita díky B-komplexu a vitaminům C a E.",
+      "exact_source_sentences": [
+        "Energie a vitalita díky B-komplexu a vitaminům C a E."
+      ],
+      "translations": {
+        "sk": "Energia a vitalita vďaka B-komplexu a vitamínom C a E.",
+        "en": "Energy and vitality thanks to B-complex vitamins and vitamins C and E.",
+        "de": "Energie und Vitalität dank B-Vitaminkomplex und den Vitaminen C und E."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 47,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Omlazení pokožky, vlasů a nehtů díky bioaktivním kolagenním peptidům.",
+      "exact_source_sentences": [
+        "Omlazení pokožky, vlasů a nehtů díky bioaktivním kolagenním peptidům."
+      ],
+      "translations": {
+        "sk": "Omladenie pokožky, vlasov a nechtov vďaka bioaktívnym kolagénovým peptidom.",
+        "en": "Rejuvenation of skin, hair and nails thanks to bioactive collagen peptides.",
+        "de": "Verjüngung von Haut, Haaren und Nägeln dank bioaktiver Kollagenpeptide."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 50,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Přírodní blokátor chuti k jídlu (HCA).",
+      "exact_source_sentences": [
+        "Přírodní blokátor chuti k jídlu (HCA)."
+      ],
+      "translations": {
+        "sk": "Prírodný blokátor chuti do jedla (HCA).",
+        "en": "Natural appetite blocker (HCA).",
+        "de": "Natürlicher Appetitzügler (HCA)."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 54,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Hydratace a pružnost pokožky zevnitř.",
+      "exact_source_sentences": [
+        "Hydratace a pružnost pokožky zevnitř."
+      ],
+      "translations": {
+        "sk": "Hydratácia a pružnosť pokožky zvnútra.",
+        "en": "Skin hydration and elasticity from within.",
+        "de": "Feuchtigkeit und Elastizität der Haut von innen."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 57,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Aquamin® minerály + enzymy bromelain a papain.",
+      "exact_source_sentences": [
+        "Aquamin® minerály + enzymy bromelain a papain."
+      ],
+      "translations": {
+        "sk": "Aquamin® minerály + enzýmy bromelaín a papaín.",
+        "en": "Aquamin® minerals + the enzymes bromelain and papain.",
+        "de": "Aquamin®-Mineralstoffe + die Enzyme Bromelain und Papain."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 60,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Energie a vitalita pro každý den.",
+      "exact_source_sentences": [
+        "Energie a vitalita pro každý den."
+      ],
+      "translations": {
+        "sk": "Energia a vitalita na každý deň.",
+        "en": "Energy and vitality for every day.",
+        "de": "Energie und Vitalität für jeden Tag."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 63,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Antioxidační ochrana a tvorba kolagenu.",
+      "exact_source_sentences": [
+        "Antioxidační ochrana a tvorba kolagenu."
+      ],
+      "translations": {
+        "sk": "Antioxidačná ochrana a tvorba kolagénu.",
+        "en": "Antioxidant protection and collagen formation.",
+        "de": "Antioxidativer Schutz und Kollagenbildung."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 66,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Podpora metabolismu a spalování tuků.",
+      "exact_source_sentences": [
+        "Podpora metabolismu a spalování tuků."
+      ],
+      "translations": {
+        "sk": "Podpora metabolizmu a spaľovania tukov.",
+        "en": "Support for metabolism and fat burning.",
+        "de": "Unterstützung des Stoffwechsels und der Fettverbrennung."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 69,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Je známá jako „přírodní blokátor chuti k jídlu“. Obsahuje kyselinu hydroxycitronovou (HCA), která reguluje chuť k jídlu, navozuje delší pocit sytosti a brání přeměně přijatých sacharidů na tuky. Díky tomu pomáhá udržovat hmotnost pod kontrolou přirozenou cestou – bez drastických diet a zbytečného omezování.",
+      "exact_source_sentences": [
+        "Je známá jako „přírodní blokátor chuti k jídlu“.",
+        "Obsahuje kyselinu hydroxycitronovou (HCA), která reguluje chuť k jídlu, navozuje delší pocit sytosti a brání přeměně přijatých sacharidů na tuky.",
+        "Díky tomu pomáhá udržovat hmotnost pod kontrolou přirozenou cestou – bez drastických diet a zbytečného omezování."
+      ],
+      "translations": {
+        "sk": "Je známa ako „prírodný blokátor chuti do jedla“. Obsahuje kyselinu hydroxycitrónovú (HCA), ktorá reguluje chuť do jedla, navodzuje dlhší pocit sýtosti a bráni premene prijatých sacharidov na tuky. Vďaka tomu pomáha udržiavať hmotnosť pod kontrolou prirodzenou cestou – bez drastických diét a zbytočného obmedzovania.",
+        "en": "It is known as a “natural appetite blocker”. It contains hydroxycitric acid (HCA), which regulates appetite, promotes a longer feeling of fullness and prevents consumed carbohydrates from being converted into fat. This helps keep weight under control naturally – without drastic diets or unnecessary restriction.",
+        "de": "Sie ist als „natürlicher Appetitzügler“ bekannt. Sie enthält Hydroxyzitronensäure (HCA), die den Appetit reguliert, für ein länger anhaltendes Sättigungsgefühl sorgt und die Umwandlung aufgenommener Kohlenhydrate in Fett verhindert. So hilft sie, das Gewicht auf natürliche Weise unter Kontrolle zu halten – ohne drastische Diäten und unnötigen Verzicht."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 70,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Kyselina hyaluronová dokáže vázat velké množství vody, a tím zajišťuje hydrataci, pružnost a vyhlazení pokožky. Ve spojení s kolagenními peptidy podporuje mladistvý, svěží vzhled pleti a přispívá i ke zdraví kloubů.",
+      "exact_source_sentences": [
+        "Kyselina hyaluronová dokáže vázat velké množství vody, a tím zajišťuje hydrataci, pružnost a vyhlazení pokožky.",
+        "Ve spojení s kolagenními peptidy podporuje mladistvý, svěží vzhled pleti a přispívá i ke zdraví kloubů."
+      ],
+      "translations": {
+        "sk": "Kyselina hyalurónová dokáže viazať veľké množstvo vody, a tým zabezpečuje hydratáciu, pružnosť a vyhladenie pokožky. V spojení s kolagénovými peptidmi podporuje mladistvý, svieži vzhľad pleti a prispieva aj k zdraviu kĺbov.",
+        "en": "Hyaluronic acid can bind large amounts of water, providing skin hydration, elasticity and smoothing. Combined with collagen peptides, it supports a youthful, fresh complexion and also contributes to joint health.",
+        "de": "Hyaluronsäure kann große Mengen Wasser binden und sorgt so für Feuchtigkeit, Elastizität und Glättung der Haut. In Verbindung mit Kollagenpeptiden unterstützt sie ein jugendliches, frisches Hautbild und trägt auch zur Gesundheit der Gelenke bei."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 71,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Aquamin® Soluble dodává 72+ mořských minerálů a stopových prvků (hořčík, vápník) pro rychlou rehydrataci a správnou funkci svalů i nervové soustavy. Enzymy bromelain a papain z ananasu a papáji napomáhají štěpení bílkovin a tuků, usnadňují trávení a snižují nadýmání.",
+      "exact_source_sentences": [
+        "Aquamin® Soluble dodává 72+ mořských minerálů a stopových prvků (hořčík, vápník) pro rychlou rehydrataci a správnou funkci svalů i nervové soustavy.",
+        "Enzymy bromelain a papain z ananasu a papáji napomáhají štěpení bílkovin a tuků, usnadňují trávení a snižují nadýmání."
+      ],
+      "translations": {
+        "sk": "Aquamin® Soluble dodáva 72+ morských minerálov a stopových prvkov (horčík, vápnik) pre rýchlu rehydratáciu a správnu funkciu svalov aj nervovej sústavy. Enzýmy bromelaín a papaín z ananásu a papáje napomáhajú štiepeniu bielkovín a tukov, uľahčujú trávenie a znižujú nadúvanie.",
+        "en": "Aquamin® Soluble supplies 72+ marine minerals and trace elements (magnesium, calcium) for rapid rehydration and proper muscle and nervous system function. The enzymes bromelain and papain from pineapple and papaya help break down proteins and fats, facilitate digestion and reduce bloating.",
+        "de": "Aquamin® Soluble liefert 72+ Meeresmineralstoffe und Spurenelemente (Magnesium, Calcium) für eine schnelle Rehydrierung und die richtige Funktion von Muskeln und Nervensystem. Die Enzyme Bromelain und Papain aus Ananas und Papaya helfen beim Abbau von Proteinen und Fetten, erleichtern die Verdauung und verringern Blähungen."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 72,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Komplex vitaminů skupiny B přispívá k normálnímu energetickému metabolismu, ke snížení únavy a vyčerpání a ke správné funkci nervové soustavy. Podpora energie a vitality oceníte zejména při dietě a vyšší fyzické i psychické zátěži.",
+      "exact_source_sentences": [
+        "Komplex vitaminů skupiny B přispívá k normálnímu energetickému metabolismu, ke snížení únavy a vyčerpání a ke správné funkci nervové soustavy.",
+        "Podpora energie a vitality oceníte zejména při dietě a vyšší fyzické i psychické zátěži."
+      ],
+      "translations": {
+        "sk": "Komplex vitamínov skupiny B prispieva k normálnemu energetickému metabolizmu, k zníženiu únavy a vyčerpania a k správnej funkcii nervovej sústavy. Podporu energie a vitality oceníte najmä pri diéte a vyššej fyzickej aj psychickej záťaži.",
+        "en": "The B-vitamin complex contributes to normal energy metabolism, the reduction of tiredness and fatigue and proper nervous system function. You will particularly appreciate the support for energy and vitality while dieting and during increased physical or mental strain.",
+        "de": "Der B-Vitaminkomplex trägt zu einem normalen Energiestoffwechsel, zur Verringerung von Müdigkeit und Erschöpfung und zur richtigen Funktion des Nervensystems bei. Die Unterstützung von Energie und Vitalität werden Sie besonders bei einer Diät sowie bei erhöhter körperlicher und geistiger Belastung schätzen."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 73,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Vitamin C přispívá k normální tvorbě kolagenu pro zdravou pokožku a podporuje obranyschopnost. Vitamin E chrání buňky před oxidačním stresem. Společně pečují o krásu pleti a chrání organismus před volnými radikály.",
+      "exact_source_sentences": [
+        "Vitamin C přispívá k normální tvorbě kolagenu pro zdravou pokožku a podporuje obranyschopnost.",
+        "Vitamin E chrání buňky před oxidačním stresem.",
+        "Společně pečují o krásu pleti a chrání organismus před volnými radikály."
+      ],
+      "translations": {
+        "sk": "Vitamín C prispieva k normálnej tvorbe kolagénu pre zdravú pokožku a podporuje obranyschopnosť. Vitamín E chráni bunky pred oxidačným stresom. Spoločne sa starajú o krásu pleti a chránia organizmus pred voľnými radikálmi.",
+        "en": "Vitamin C contributes to normal collagen formation for healthy skin and supports the body’s defences. Vitamin E protects cells from oxidative stress. Together, they care for the beauty of the skin and protect the body from free radicals.",
+        "de": "Vitamin C trägt zu einer normalen Kollagenbildung für gesunde Haut bei und unterstützt die Abwehrkräfte. Vitamin E schützt die Zellen vor oxidativem Stress. Gemeinsam pflegen sie die Schönheit der Haut und schützen den Körper vor freien Radikalen."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 74,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Extrakt ze zeleného čaje je bohatý na antioxidanty (katechiny) a podporuje metabolismus cukrů a tuků. Pomáhá přirozeně nastartovat spalování a dodává mírnou, přirozenou energii bez nervozity.",
+      "exact_source_sentences": [
+        "Extrakt ze zeleného čaje je bohatý na antioxidanty (katechiny) a podporuje metabolismus cukrů a tuků.",
+        "Pomáhá přirozeně nastartovat spalování a dodává mírnou, přirozenou energii bez nervozity."
+      ],
+      "translations": {
+        "sk": "Extrakt zo zeleného čaju je bohatý na antioxidanty (katechíny) a podporuje metabolizmus cukrov a tukov. Pomáha prirodzene naštartovať spaľovanie a dodáva miernu, prirodzenú energiu bez nervozity.",
+        "en": "Green tea extract is rich in antioxidants (catechins) and supports sugar and fat metabolism. It helps naturally kick-start fat burning and provides gentle, natural energy without nervousness.",
+        "de": "Grünteeextrakt ist reich an Antioxidantien (Catechinen) und unterstützt den Zucker- und Fettstoffwechsel. Er hilft, die Fettverbrennung auf natürliche Weise anzuregen, und liefert sanfte, natürliche Energie ohne Nervosität."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 191,
+      "ids": [
+        "464"
+      ],
+      "exact_source_field": "je funkční hubnoucí drink navržený pro každodenní použití. Spojuje podporu spalování tuků, trávení a péče o pleť v jedné osvěžující dávce s tropickou chutí ananasu a manga. Je ideální volbou pro ženy i muže, kteří chtějí redukovat hmotnost, zpevnit postavu a zároveň podpořit celkový vzhled bez drastických diet nebo složitých režimů.",
+      "exact_source_sentences": [
+        "je funkční hubnoucí drink navržený pro každodenní použití.",
+        "Spojuje podporu spalování tuků, trávení a péče o pleť v jedné osvěžující dávce s tropickou chutí ananasu a manga.",
+        "Je ideální volbou pro ženy i muže, kteří chtějí redukovat hmotnost, zpevnit postavu a zároveň podpořit celkový vzhled bez drastických diet nebo složitých režimů."
+      ],
+      "translations": {
+        "sk": "je funkčný zoštíhľujúci nápoj navrhnutý na každodenné použitie. Spája podporu spaľovania tukov, trávenia a starostlivosti o pleť v jednej osviežujúcej dávke s tropickou chuťou ananásu a manga. Je ideálnou voľbou pre ženy aj mužov, ktorí chcú redukovať hmotnosť, spevniť postavu a zároveň podporiť celkový vzhľad bez drastických diét alebo zložitých režimov.",
+        "en": "is a functional slimming drink designed for daily use. It combines support for fat burning, digestion and skin care in one refreshing serving with a tropical pineapple and mango flavour. It is an ideal choice for women and men who want to reduce weight, firm their figure and support their overall appearance without drastic diets or complicated routines.",
+        "de": "ist ein funktionelles Schlankheitsgetränk für die tägliche Anwendung. Es vereint die Unterstützung von Fettverbrennung, Verdauung und Hautpflege in einer erfrischenden Portion mit tropischem Ananas- und Mangogeschmack. Es ist eine ideale Wahl für Frauen und Männer, die ihr Gewicht reduzieren, ihre Figur straffen und zugleich ihr gesamtes Erscheinungsbild unterstützen möchten – ohne drastische Diäten oder komplizierte Programme."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 192,
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Podpora hubnutí",
+      "exact_source_sentences": [
+        "Podpora hubnutí"
+      ],
+      "translations": {
+        "sk": "Podpora chudnutia",
+        "en": "Weight-loss support",
+        "de": "Unter­stützung beim Abnehmen"
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_index": 211,
+      "ids": [
+        "467"
+      ],
+      "exact_source_field": "Představujeme vám Slim Extreme Kolagen – LIMITOVANÁ EDICE – nyní v praktickém jednorázovém sáčku a v nové, lahodné příchuti mango-ananas. Stačí otevřít, rozmíchat a vypít – kdykoliv a kdekoliv. Tento inovativní nápoj podporuje spalování tuků, pomáhá regulovat chuť k jídlu a přispívá k udržení tělesné hmotnosti. Zároveň obsahuje kolagen, který pečuje o zdraví pokožky, vlasů, nehtů a kloubů. Díky praktickému sáčku je jeho užívání ještě jednodušší a skvěle se hodí do vaší každodenní rutiny – na cestách, v práci i doma. Sáček je navíc ideální volbou pro všechny, kteří si chtějí novou příchuť nejdříve vyzkoušet, než se pustí do celého balení.",
+      "exact_source_sentences": [
+        "Představujeme vám Slim Extreme Kolagen – LIMITOVANÁ EDICE – nyní v praktickém jednorázovém sáčku a v nové, lahodné příchuti mango-ananas.",
+        "Stačí otevřít, rozmíchat a vypít – kdykoliv a kdekoliv.",
+        "Tento inovativní nápoj podporuje spalování tuků, pomáhá regulovat chuť k jídlu a přispívá k udržení tělesné hmotnosti.",
+        "Zároveň obsahuje kolagen, který pečuje o zdraví pokožky, vlasů, nehtů a kloubů.",
+        "Díky praktickému sáčku je jeho užívání ještě jednodušší a skvěle se hodí do vaší každodenní rutiny – na cestách, v práci i doma.",
+        "Sáček je navíc ideální volbou pro všechny, kteří si chtějí novou příchuť nejdříve vyzkoušet, než se pustí do celého balení."
+      ],
+      "translations": {
+        "sk": "Predstavujeme vám Slim Extreme Kolagen – LIMITOVANÁ EDÍCIA – teraz v praktickom jednorazovom vrecúšku a v novej, lahodnej príchuti mango-ananás. Stačí otvoriť, rozmiešať a vypiť – kedykoľvek a kdekoľvek. Tento inovatívny nápoj podporuje spaľovanie tukov, pomáha regulovať chuť do jedla a prispieva k udržaniu telesnej hmotnosti. Zároveň obsahuje kolagén, ktorý sa stará o zdravie pokožky, vlasov, nechtov a kĺbov. Vďaka praktickému vrecúšku je jeho užívanie ešte jednoduchšie a skvele sa hodí do vašej každodennej rutiny – na cestách, v práci aj doma. Vrecúško je navyše ideálnou voľbou pre všetkých, ktorí si chcú novú príchuť najskôr vyskúšať, než sa pustia do celého balenia.",
+        "en": "Introducing Slim Extreme Kolagen – LIMITED EDITION – now in a practical single-use sachet and a new, delicious mango–pineapple flavour. Simply open, mix and drink – anytime, anywhere. This innovative drink supports fat burning, helps regulate appetite and contributes to body weight maintenance. It also contains collagen, which cares for the health of skin, hair, nails and joints. The practical sachet makes it even easier to take and fits perfectly into your daily routine – on the go, at work or at home. The sachet is also an ideal choice for anyone who wants to try the new flavour before starting a full pack.",
+        "de": "Wir stellen Ihnen Slim Extreme Kolagen vor – LIMITIERTE EDITION – jetzt im praktischen Einweg-Portionsbeutel und mit neuem, köstlichem Mango–Ananas-Geschmack. Einfach öffnen, einrühren und trinken – jederzeit und überall. Dieses innovative Getränk unterstützt die Fettverbrennung, hilft, den Appetit zu regulieren, und trägt zur Erhaltung des Körpergewichts bei. Es enthält außerdem Kollagen, das die Gesundheit von Haut, Haaren, Nägeln und Gelenken pflegt. Dank des praktischen Portionsbeutels ist die Einnahme noch einfacher und lässt sich hervorragend in Ihren Alltag integrieren – unterwegs, bei der Arbeit und zu Hause. Der Portionsbeutel ist zudem ideal für alle, die den neuen Geschmack erst ausprobieren möchten, bevor sie eine ganze Packung beginnen."
+      },
+      "review_reason": "Zděděné tvrzení o účinku produktu nebo složky; překlad zachován pouze jako interní návrh. Chybí ověření přesného znění, nosné živiny a podmínek použití pro cílový trh. Není právně schváleno.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      },
+      "alternative_status": "Návrh neutrální identifikace, nikoli rovnocenný claim ani právní schválení."
+    },
+    {
+      "source_string_indices": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "ids": [
+        "464",
+        "467"
+      ],
+      "exact_source_field": "Slim Extreme Collagen Mango není jen o hubnutí a kráse, ale i o celkové vitalitě. Díky 72+ minerálům Aquamin® Soluble, probiotikům LactoSpore® a komplexu vitaminů doplňuje tělu to, co mu při dietě a stresu často chybí – podporuje trávení, metabolismus, energii i krásu pokožky, vlasů a nehtů. Osvěžující mango-ananasová chuť navíc dělá z drinku každodenní rituál, který si zamilujete.",
+      "translations": {
+        "sk": "Slim Extreme Collagen Mango nie je len o chudnutí a kráse, ale aj o celkovej vitalite. Vďaka 72+ minerálom Aquamin® Soluble, probiotikám LactoSpore® a komplexu vitamínov dopĺňa telu to, čo mu pri diéte a strese často chýba – podporuje trávenie, metabolizmus, energiu aj krásu pokožky, vlasov a nechtov. Osviežujúca mangovo-ananásová chuť navyše robí z nápoja každodenný rituál, ktorý si zamilujete.",
+        "en": "Slim Extreme Collagen Mango is not just about weight loss and beauty, but also overall vitality. With 72+ minerals from Aquamin® Soluble, probiotics from LactoSpore® and a vitamin complex, it replenishes what the body often lacks during dieting and stress – supporting digestion, metabolism, energy and the beauty of skin, hair and nails. The refreshing mango–pineapple flavour also makes the drink a daily ritual you will love.",
+        "de": "Bei Slim Extreme Collagen Mango geht es nicht nur um Abnehmen und Schönheit, sondern auch um die allgemeine Vitalität. Dank 72+ Mineralstoffen aus Aquamin® Soluble, Probiotika aus LactoSpore® und einem Vitaminkomplex ergänzt es, was dem Körper bei Diäten und Stress häufig fehlt – es unterstützt Verdauung, Stoffwechsel, Energie sowie die Schönheit von Haut, Haaren und Nägeln. Der erfrischende Mango–Ananas-Geschmack macht das Getränk zudem zu einem täglichen Ritual, das Sie lieben werden."
+      },
+      "review_reason": "Složená věta přes STRONG: souhrnné připisování účinků celému produktu, minerálům, probiotikům a vitaminům; 72+ bez ověření podmínek tvrzení.",
+      "neutral_alternative": {
+        "sk": "Kolagénový nápoj s príchuťou ananásu a manga. Výživový doplnok.",
+        "en": "Collagen drink with pineapple and mango flavour. Food supplement.",
+        "de": "Kollagengetränk mit Ananas- und Mangogeschmack. Nahrungsergänzungsmittel."
+      }
+    }
+  ],
+  "verified_product_source_wording": {
+    "464": {
+      "path": "/root/workspace/brand/product/slim-extreme-collagen-box-ananas-mango/info.md",
+      "quotes_exact": [
+        "Vitaminy B2, B3 a B5 přispívají ke snížení únavy a vyčerpání.",
+        "Vitamin C je důležitý pro tvorbu nového kolagenu, zároveň má pozitivní vliv na imunitní systém, přispívá k ochraně a tvorbě nových buněk, lepší regeneraci organismu a snížení míry únavy."
+      ],
+      "status": "Doslovně ověřeno pouze proti produktovému info.md. Označení EFSA v tomto souboru není nezávislá právní certifikace; zejména široká věta o vitaminu C vyžaduje regulatorní kontrolu. Nepoužívat jako ekvivalent všech výše uvedených účinků."
+    },
+    "467": {
+      "path": null,
+      "quotes_exact": [],
+      "status": "Přesný info.md sáčku ananas–mango nebyl nalezen. Existující slim-extreme-collagen-sacek/info.md je ananasový SKU s odlišnou recepturou; nelze jej použít jako schválení pro ID467."
+    }
+  },
+  "inherited_issues": [
+    "ID464: 240 g ve zkráceném historickém bloku versus 30 × 8,2 g / 246 g v dlouhém; rozpor zachován a označen ve zdroji.",
+    "ID467: krátký historický blok stále obsahuje 30 dní a 240 g, přestože jde o jednotlivý sáček; ponechán jako zdrojový rozpor v označeném rozbalovacím bloku, nikoli opraven odhadem.",
+    "Oba zdrojové dlouhé popisy mají stejnou tabulku. Nesloučeno podle podobnosti, každý přeložen z vlastního souboru. Synefrin, HCA, Aquamin a procenta RHP mohou mít historické nesrovnalosti; všechny hodnoty zachovány.",
+    "ID464: info.md uvádí zinek 1220 % a chrom 610 % na 100 g; aktuální Git HTML uvádí 1180 % a 1610 %. HTML zůstalo autoritou této jazykové mutace, hodnoty nebyly přepsány.",
+    "Bez cukru versus tabulkové cukry 2,9 g/100 g; bez přídatných látek versus sukralóza. Přesné výroky přeloženy bez přidání nových tvrzení, nutná kontrola podmínek.",
+    "Výrazy regenerace, spalování tukových buněk, hormonální rovnováha, celulitida, probiotika, foam-potvrzení účinných látek a limitovaná edice jsou zděděné neověřené marketingové výroky.",
+    "Zdroj obsahuje viditelné interní upozornění a historické/kontrolní FAQ. Zachovány a přeloženy dle výslovného zadání zachovat celou aktuální strukturu; před zákaznickým nasazením musí vlastník vyřešit obsahové rozpory a odstranit interní pracovní poznámky v samostatně schválené revizi.",
+    "Nebyly doplněny nové ceny, sklad, recenze, měny ani termíny. Nativní nákupní odkaz a logika zůstávají beze změny."
+  ]
+}

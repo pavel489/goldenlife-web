@@ -1,0 +1,21 @@
+{
+  "scenarios": 162,
+  "pass": 162,
+  "failures": [],
+  "js_errors": [],
+  "assets": 202,
+  "failed_asset_requests": {
+    "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/shatavari.jpg": {
+      "status": 404,
+      "type": "text/html; charset=utf-8",
+      "route": "public HTTP cache",
+      "final_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/womanhormonalbalancetabletky/shatavari.jpg"
+    }
+  },
+  "broken_image_occurrences": 3718,
+  "scope": "162 actual Chromium local layout scenarios with exact translated HTML/current Git CSS/JS. 56 included public media;106 explicitly blocked external media. No live CMS save or cart test.",
+  "public_image_scenarios": 56,
+  "media_blocked_scenarios": 106,
+  "broken_image_occurrences_with_media_enabled": 6,
+  "limitation": "Full-media parent integration stalled on BBS EN with two process exits 137 and one timeout; remaining 106 scenarios ran with image/font/media requests explicitly blocked. Do not interpret blocked images as dead asset URLs or claim complete photo/font visual QA. Worker tests and independent parent structure checks are separate evidence."
+}

@@ -1,0 +1,431 @@
+[
+  {
+    "id": "473",
+    "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+    "asset_updates": [
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/spalovani.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5828563f0262-traveni.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/traveni.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a3855af4459b-blesk.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/blesk.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50211ca41eb0-imunita.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/imunita.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/6fe369901cea-ronovaha.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/ronovaha.png",
+        "count": 1
+      }
+    ],
+    "language_root": "sk"
+  },
+  {
+    "id": "473",
+    "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+    "asset_updates": [
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/spalovani.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5828563f0262-traveni.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/traveni.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a3855af4459b-blesk.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/blesk.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50211ca41eb0-imunita.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/imunita.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/6fe369901cea-ronovaha.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/ronovaha.png",
+        "count": 1
+      }
+    ],
+    "language_root": "en"
+  },
+  {
+    "id": "473",
+    "path": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+    "asset_updates": [
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/spalovani.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5828563f0262-traveni.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/traveni.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a3855af4459b-blesk.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/blesk.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50211ca41eb0-imunita.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/imunita.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/6fe369901cea-ronovaha.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/ronovaha.png",
+        "count": 1
+      }
+    ],
+    "language_root": "de"
+  },
+  {
+    "id": "473",
+    "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-sk.html",
+    "asset_updates": [
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/spalovani.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5828563f0262-traveni.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/traveni.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bbf7972be001-cukr.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/cukr.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a3855af4459b-blesk.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/blesk.png",
+        "count": 1
+      }
+    ],
+    "language_root": "sk"
+  },
+  {
+    "id": "473",
+    "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-en.html",
+    "asset_updates": [
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/spalovani.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5828563f0262-traveni.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/traveni.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bbf7972be001-cukr.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/cukr.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a3855af4459b-blesk.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/blesk.png",
+        "count": 1
+      }
+    ],
+    "language_root": "en"
+  },
+  {
+    "id": "473",
+    "path": "web/Golden Life Slim SOS Fat Burner/maly/Golden-Life-Slim-SOS-Fat-Burner-maly-de.html",
+    "asset_updates": [
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/spalovani.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5828563f0262-traveni.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/traveni.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bbf7972be001-cukr.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c7c47ba18f02dbdeef019e5cd34f18ce420dded9/assets/slim-sos-fat-burner/icons-frameless/cukr.png",
+        "count": 1
+      },
+      {
+        "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a3855af4459b-blesk.png",
+        "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/592a35a51477e57d90e1dcbc23823e7d696abbb5/assets/slim-sos-fat-burner/icons-line-v2/blesk.png",
+        "count": 1
+      }
+    ],
+    "language_root": "de"
+  },
+  {
+    "id": "351",
+    "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "351",
+    "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "351",
+    "path": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "351",
+    "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "351",
+    "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "351",
+    "path": "web/Golden Life Beauty Star/maly/Golden-Life-Beauty-Star-maly-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "258",
+    "path": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "258",
+    "path": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "258",
+    "path": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "258",
+    "path": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "258",
+    "path": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "258",
+    "path": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "261",
+    "path": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "261",
+    "path": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "261",
+    "path": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "261",
+    "path": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "261",
+    "path": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "261",
+    "path": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "360",
+    "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "360",
+    "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "360",
+    "path": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "360",
+    "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "360",
+    "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "360",
+    "path": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "547",
+    "path": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "547",
+    "path": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "547",
+    "path": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "547",
+    "path": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "547",
+    "path": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "547",
+    "path": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "470",
+    "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "470",
+    "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "470",
+    "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "470",
+    "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "470",
+    "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "470",
+    "path": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "458",
+    "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "458",
+    "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "458",
+    "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  },
+  {
+    "id": "458",
+    "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-sk.html",
+    "asset_updates": [],
+    "language_root": "sk"
+  },
+  {
+    "id": "458",
+    "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-en.html",
+    "asset_updates": [],
+    "language_root": "en"
+  },
+  {
+    "id": "458",
+    "path": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-de.html",
+    "asset_updates": [],
+    "language_root": "de"
+  }
+]
