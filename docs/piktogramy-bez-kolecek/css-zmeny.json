@@ -1,0 +1,94 @@
+[
+  {
+    "file": "user/documents/upload/css/golden-life-barvy-double-slim-sos-burner.css",
+    "selector": "#special-popis[data-gl-theme=\"double-slim-sos-burner\"] .gl-ingredient-cta-arrow",
+    "old": "\n#special-popis[data-gl-theme=\"double-slim-sos-burner\"] .gl-ingredient-cta-arrow{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:rgba(var(--gl-color-primary-rgb),.10);color:var(--gl-color-primary);font-family:Arial,sans-serif;font-size:40px;line-height:1;}",
+    "new": "\n#special-popis[data-gl-theme=\"double-slim-sos-burner\"] .gl-ingredient-cta-arrow{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:0;background:transparent;color:var(--gl-color-primary);font-family:Arial,sans-serif;font-size:40px;line-height:1;}",
+    "edits": {
+      "border-radius": {
+        "old": "50%",
+        "new": "0"
+      },
+      "background": {
+        "old": "rgba(var(--gl-color-primary-rgb),.10)",
+        "new": "transparent"
+      }
+    }
+  },
+  {
+    "file": "user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+    "selector": "#special-popis[data-gl-theme=\"slim-sos-fat-burner\"] .gl-ingredient-cta-arrow",
+    "old": "\n#special-popis[data-gl-theme=\"slim-sos-fat-burner\"] .gl-ingredient-cta-arrow{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:50%;background:rgba(var(--gl-color-primary-rgb),.10);color:var(--gl-color-primary);font-family:Arial,sans-serif;font-size:40px;line-height:1;}",
+    "new": "\n#special-popis[data-gl-theme=\"slim-sos-fat-burner\"] .gl-ingredient-cta-arrow{display:flex;align-items:center;justify-content:center;width:64px;height:64px;border-radius:0;background:transparent;color:var(--gl-color-primary);font-family:Arial,sans-serif;font-size:40px;line-height:1;}",
+    "edits": {
+      "border-radius": {
+        "old": "50%",
+        "new": "0"
+      },
+      "background": {
+        "old": "rgba(var(--gl-color-primary-rgb),.10)",
+        "new": "transparent"
+      }
+    }
+  },
+  {
+    "file": "user/documents/upload/css/golden-life-produkt.css",
+    "selector": ":where([data-gl-layout=\"beauty-longevity\"],[data-gl-layout=\"glp1-woman-balance\"],[data-gl-layout=\"glp1-woman-balance-sacek\"],[data-gl-layout=\"woman-hormonal-balance\"]) .nad-ico",
+    "old": "\n:where([data-gl-layout=\"beauty-longevity\"],[data-gl-layout=\"glp1-woman-balance\"],[data-gl-layout=\"glp1-woman-balance-sacek\"],[data-gl-layout=\"woman-hormonal-balance\"]) .nad-ico{flex-shrink:0;width:48px;height:48px;border-radius:50%;border:1.5px solid var(--gl-color-primary);display:flex;align-items:center;justify-content:center;color:var(--gl-color-primary);background:var(--gl-tone-nad-ico-background-1)}",
+    "new": "\n:where([data-gl-layout=\"beauty-longevity\"],[data-gl-layout=\"glp1-woman-balance\"],[data-gl-layout=\"glp1-woman-balance-sacek\"],[data-gl-layout=\"woman-hormonal-balance\"]) .nad-ico{flex-shrink:0;width:48px;height:48px;border-radius:0;border:0;display:flex;align-items:center;justify-content:center;color:var(--gl-color-primary);background:transparent}",
+    "edits": {
+      "border-radius": {
+        "old": "50%",
+        "new": "0"
+      },
+      "border": {
+        "old": "1.5px solid var(--gl-color-primary)",
+        "new": "0"
+      },
+      "background": {
+        "old": "var(--gl-tone-nad-ico-background-1)",
+        "new": "transparent"
+      }
+    }
+  },
+  {
+    "file": "user/documents/upload/css/golden-life-produkt.css",
+    "selector": "#nad-popis:where([data-gl-layout=\"anti-age-longevity\"]) .nad-ico",
+    "old": "\n#nad-popis:where([data-gl-layout=\"anti-age-longevity\"]) .nad-ico{flex-shrink:0;width:48px;height:48px;border-radius:50%;border:1.5px solid var(--gl-color-primary);display:flex;align-items:center;justify-content:center;color:var(--gl-color-primary);background:var(--gl-tone-nad-ico-background-1)}",
+    "new": "\n#nad-popis:where([data-gl-layout=\"anti-age-longevity\"]) .nad-ico{flex-shrink:0;width:48px;height:48px;border-radius:0;border:0;display:flex;align-items:center;justify-content:center;color:var(--gl-color-primary);background:transparent}",
+    "edits": {
+      "border-radius": {
+        "old": "50%",
+        "new": "0"
+      },
+      "border": {
+        "old": "1.5px solid var(--gl-color-primary)",
+        "new": "0"
+      },
+      "background": {
+        "old": "var(--gl-tone-nad-ico-background-1)",
+        "new": "transparent"
+      }
+    }
+  },
+  {
+    "file": "user/documents/upload/css/golden-life-produkt.css",
+    "selector": ":where(#special-popis:not([data-gl-product]),#nad-popis:not([data-gl-product])) .nad-ico",
+    "old": ":where(#special-popis:not([data-gl-product]),#nad-popis:not([data-gl-product])) .nad-ico{flex-shrink:0;width:48px;height:48px;border-radius:50%;border:1.5px solid var(--gl-color-primary,#e3127e);display:flex;align-items:center;justify-content:center;color:var(--gl-color-primary,#e3127e);background:rgba(255,255,255,.55)}",
+    "new": ":where(#special-popis:not([data-gl-product]),#nad-popis:not([data-gl-product])) .nad-ico{flex-shrink:0;width:48px;height:48px;border-radius:0;border:0;display:flex;align-items:center;justify-content:center;color:var(--gl-color-primary,#e3127e);background:transparent}",
+    "edits": {
+      "border-radius": {
+        "old": "50%",
+        "new": "0"
+      },
+      "border": {
+        "old": "1.5px solid var(--gl-color-primary,#e3127e)",
+        "new": "0"
+      },
+      "background": {
+        "old": "rgba(255,255,255,.55)",
+        "new": "transparent"
+      }
+    }
+  }
+]

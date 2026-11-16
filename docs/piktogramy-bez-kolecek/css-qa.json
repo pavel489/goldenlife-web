@@ -1,0 +1,468 @@
+{
+  "status": "PASS",
+  "modified_css_files": [
+    "user/documents/upload/css/golden-life-barvy-double-slim-sos-burner.css",
+    "user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+    "user/documents/upload/css/golden-life-produkt.css"
+  ],
+  "edited_rules": 5,
+  "consumer_pages": 12,
+  "fixtures": 2,
+  "browser_cases": 56,
+  "target_checks": 88,
+  "functional_control_comparisons": 656,
+  "cases": [
+    {
+      "page": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "width": 390,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "fixture:anti-age",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    },
+    {
+      "page": "fixture:legacy",
+      "width": 390,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "fixture:anti-age",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    },
+    {
+      "page": "fixture:legacy",
+      "width": 390,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "fixture:anti-age",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    },
+    {
+      "page": "fixture:legacy",
+      "width": 1440,
+      "scheme": "light",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-cz.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-de.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-en.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Slim SOS Fat Burner/Golden-Life-Slim-SOS-Fat-Burner-sk.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 12,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 13,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 3,
+      "controls": 19,
+      "pass_": true
+    },
+    {
+      "page": "fixture:anti-age",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    },
+    {
+      "page": "fixture:legacy",
+      "width": 1440,
+      "scheme": "dark",
+      "targets": 1,
+      "controls": 2,
+      "pass_": true
+    }
+  ],
+  "limitations": [
+    "Local CSS regression with network blocked except locally fulfilled CSS. Images and external icon fonts are not loaded.",
+    "No live storefront or deployment test. Historical docs/nahledy snapshots intentionally excluded."
+  ]
+}

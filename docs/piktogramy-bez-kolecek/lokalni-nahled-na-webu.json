@@ -1,0 +1,286 @@
+{
+  "notice": "Only local DOM URL substitutions on a public page. No CMS save. Not testing whole updated HTML or CSS deployment.",
+  "replacements": 12,
+  "scenarios": [
+    {
+      "url": "https://www.golden-life.cz/vitamin-c/",
+      "width": 1280,
+      "cards": [
+        {
+          "text": "Podpora imunity",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "rect": {
+            "x": 102.5,
+            "y": 241.890625,
+            "width": 195,
+            "height": 134,
+            "top": 241.890625,
+            "right": 297.5,
+            "bottom": 375.890625,
+            "left": 102.5
+          }
+        },
+        {
+          "text": "Energie a vitalita",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+          "rect": {
+            "x": 102.5,
+            "y": 375.890625,
+            "width": 195,
+            "height": 134,
+            "top": 375.890625,
+            "right": 297.5,
+            "bottom": 509.890625,
+            "left": 102.5
+          }
+        },
+        {
+          "text": "Vhodné pro těhotné a kojící",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "rect": {
+            "x": 102.5,
+            "y": 509.890625,
+            "width": 195,
+            "height": 158,
+            "top": 509.890625,
+            "right": 297.5,
+            "bottom": 667.890625,
+            "left": 102.5
+          }
+        },
+        {
+          "text": "Bez přidaného cukru",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+          "rect": {
+            "x": 967.5,
+            "y": 241.890625,
+            "width": 195,
+            "height": 134,
+            "top": 241.890625,
+            "right": 1162.5,
+            "bottom": 375.890625,
+            "left": 967.5
+          }
+        },
+        {
+          "text": "Postupné uvolňování",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+          "rect": {
+            "x": 967.5,
+            "y": 375.890625,
+            "width": 195,
+            "height": 134,
+            "top": 375.890625,
+            "right": 1162.5,
+            "bottom": 509.890625,
+            "left": 967.5
+          }
+        },
+        {
+          "text": "Vyrobeno v ČR",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "rect": {
+            "x": 967.5,
+            "y": 509.890625,
+            "width": 195,
+            "height": 134,
+            "top": 509.890625,
+            "right": 1162.5,
+            "bottom": 643.890625,
+            "left": 967.5
+          }
+        }
+      ],
+      "updated": [
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 84.84375
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 80
+        }
+      ]
+    },
+    {
+      "url": "https://www.golden-life.cz/vitamin-c/",
+      "width": 390,
+      "cards": [
+        {
+          "text": "Podpora imunity",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "rect": {
+            "x": 68.75,
+            "y": 253.015625,
+            "width": 85,
+            "height": 158,
+            "top": 253.015625,
+            "right": 153.75,
+            "bottom": 411.015625,
+            "left": 68.75
+          }
+        },
+        {
+          "text": "Energie a vitalita",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+          "rect": {
+            "x": 221.25,
+            "y": 253.015625,
+            "width": 85,
+            "height": 158,
+            "top": 253.015625,
+            "right": 306.25,
+            "bottom": 411.015625,
+            "left": 221.25
+          }
+        },
+        {
+          "text": "Vhodné pro těhotné a kojící",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "rect": {
+            "x": 145,
+            "y": 431.015625,
+            "width": 85,
+            "height": 206,
+            "top": 431.015625,
+            "right": 230,
+            "bottom": 637.015625,
+            "left": 145
+          }
+        },
+        {
+          "text": "Bez přidaného cukru",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+          "rect": {
+            "x": 68,
+            "y": 657.015625,
+            "width": 85,
+            "height": 182,
+            "top": 657.015625,
+            "right": 153,
+            "bottom": 839.015625,
+            "left": 68
+          }
+        },
+        {
+          "text": "Postupné uvolňování",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+          "rect": {
+            "x": 219,
+            "y": 657.015625,
+            "width": 88,
+            "height": 182,
+            "top": 657.015625,
+            "right": 307,
+            "bottom": 839.015625,
+            "left": 219
+          }
+        },
+        {
+          "text": "Vyrobeno v ČR",
+          "image": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "rect": {
+            "x": 145,
+            "y": 859.015625,
+            "width": 85,
+            "height": 158,
+            "top": 859.015625,
+            "right": 230,
+            "bottom": 1017.015625,
+            "left": 145
+          }
+        }
+      ],
+      "updated": [
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 50
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 84.84375
+        },
+        {
+          "ok": true,
+          "width": 85
+        },
+        {
+          "ok": true,
+          "width": 80
+        }
+      ]
+    }
+  ]
+}
