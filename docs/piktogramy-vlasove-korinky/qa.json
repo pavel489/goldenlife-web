@@ -1,0 +1,14 @@
+{
+  "onlyMotif": "hair",
+  "colour": "#D09A0E",
+  "strokeAt64": 2,
+  "oldAsset": "assets/piktogramy/organic-v4/hair-d09a0e.png",
+  "newPng": "assets/piktogramy/hair-v5/hair-d09a0e.png",
+  "newSvg": "assets/piktogramy/hair-v5/hair-d09a0e.svg",
+  "pngSha256": "3039d009ea0720ba23e062546eb79a4633fcd77ada041a2c9eb0be1e4e3a375d",
+  "nonempty": true,
+  "notClipped": true,
+  "changedOtherMotifs": false,
+  "productionHtmlRewired": false,
+  "cmsSaved": false
+}
