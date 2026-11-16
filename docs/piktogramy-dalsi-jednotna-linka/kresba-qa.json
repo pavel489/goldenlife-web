@@ -1,0 +1,425 @@
+{
+  "status": "PASS",
+  "sourceFiles": 46,
+  "masters": [
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/battery.svg",
+      "sha256": "a202bef6adf3ff9c821d312d6ff69a951c61da1a4bb00202c93b6d30d1a99f83"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/bicep.svg",
+      "sha256": "9eefffa02e3006a54b5069adc5b2ac8c548703c87f0b6b2c4639754d9dfd77e3"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/bolt.svg",
+      "sha256": "e0daf4a56c39c02cd0cf4815fcf83aa84fd7b8a0ab5cb323983cb01a55783e35"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/calendar.svg",
+      "sha256": "e44f45248f78a4fcc8c016ece3421588751b4ca1d948a450561b534727aebef4"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/capsule.svg",
+      "sha256": "281cb3145d4e986bbd20ca9a59e243cca8a1046331aa512e6cd265c3531f3dab"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/cubes.svg",
+      "sha256": "e6c5cb16155a08b69af38944589649abde0eed166d49e2b5b1630901121d952a"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/detox.svg",
+      "sha256": "68d0a6f8f851cc2043f66d66a49abc2db85f0844f38c5f5d078acc329509c225"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/eye-down-arrows.svg",
+      "sha256": "3b99f06ac690f2bc95b345ff37846b01a4ef1cb0613ade3edc7d3fbb6cdcdf86"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/face-energy.svg",
+      "sha256": "a1c98af4a62134e9d780bbfacadc03de74047e135dbc72c1530e8cf37f0a15f1"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/face-profile.svg",
+      "sha256": "da781943122029851c5a8c7f488b526aad098c7dafd137829d5fbdcc2892d59c"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/flag.svg",
+      "sha256": "735c74a9ee09b18aa1de68ea2b3722668d86fded2fe039353b2a1327f2762a6d"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/flame-line.svg",
+      "sha256": "b64bde2004e4edad7226ae4cbb280556ccf02d6e63047a5e83b36dcaaccc1e00"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/flame-solid.svg",
+      "sha256": "3b9911700bc03f2f2aa44afd20bcb04867cdc29f75b988a536fd12a20b0ffeed"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/hair-single-root.svg",
+      "sha256": "5fe278178baf0e25fab204844bcb652a7971a4d1538c794b90bcd5546f240056"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/head-lotus.svg",
+      "sha256": "0dd01c9d6047287ef21fe46a9547a34d357e140c8d37641dc4ba0e0982910e9c"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/leaf.svg",
+      "sha256": "fa8b7146a22423f95f86e9492a63cfc2ebafe35e8b8ba31a8572408306cb70e8"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/lotus-hand.svg",
+      "sha256": "b7f117a4726c4b5129a37a521a654abced112efa0e54503cdd59c3f43352c47a"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/nad.svg",
+      "sha256": "eef0d52ce0d9ef8df3dc72ed8b315b44839b52ffcd20d7adb92656dcf4e6239b"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/nails.svg",
+      "sha256": "8c6fa90751413bb3a229fb5dba273ac6e1f9ebcaee92195bb8f219562f1af34e"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/plate.svg",
+      "sha256": "18ee84fd506bdf687ecc9d56d1aeda9bbfda5f0bcb6f0d01fc80c971cdd0d4b7"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/runner.svg",
+      "sha256": "a197a5b4b3d6703291e79542de3b48f3107ae8cc6d5655be5796162018269576"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/sachet.svg",
+      "sha256": "5cd390b73babbf9d7b7fdd479f349c21453f50191d79cfd7bbbb5edf6b808d3e"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/scoop-large.svg",
+      "sha256": "fc94298e281e145ede76d7ca31e2bd893527f450b4a9f17979e4fac53a193d49"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/scoop-small.svg",
+      "sha256": "5d6d666057fa6adff67b2ed47611c2dd9aef0daa7ef26b5e9c43a5ee11a140d4"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/skin-up-arrows.svg",
+      "sha256": "18465c633a14b62a21a8f712e50b8fce48530e93e5d347f687e6075526f05be2"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/sleep.svg",
+      "sha256": "a050d32e1c0748c91f22a80db1c006c0c926300feab730217d2bfd97ea93569a"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/stopwatch.svg",
+      "sha256": "2f134d9451b2a635bc44cdc38db200cf6efdecd10e3d0c108feda07380d3f277"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/waist-arrows.svg",
+      "sha256": "4d69ea67cfa71d84cb4677a4d7be2b27840c93db0e03a1e3b3d2de1a88987acd"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/waist-slimfit.svg",
+      "sha256": "321f685768fb8423ae900f988a14b3b5e376b3e9ad4f15e7bced68187a18542e"
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/masters/weight.svg",
+      "sha256": "9490e0fecee482230297bdb907639158f77ec374d1fde7e87b6e66350fa6414e"
+    }
+  ],
+  "pngs": [
+    {
+      "file": "assets/piktogramy/frameless-family-v6/battery-e6007e.png",
+      "sha256": "ed5244d681a8acc7f148432ec1fbf43d2111a748729f09936647b1b33f67f431",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/bicep-4e4a9a.png",
+      "sha256": "93f517c878545c1d1a93490aae8640d687a8af823ee2b1d042b22ba2cf5a7a40",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/bolt-62388e.png",
+      "sha256": "e542fcebf0b21107c89824e9560fa04cc3a8d37c4c7bcdcb34f6c54b514c7fc7",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/calendar-148f3d.png",
+      "sha256": "694f8b60db9c3f3677e17a9b8fea87dc87039b4aec522d1beff71473bb2c47e2",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/calendar-62388e.png",
+      "sha256": "e1d76dc2f75968b813e14a366151398a8bc88c89c54980a43e0200b2770024e2",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/calendar-e3107e.png",
+      "sha256": "b622ac4a86e536b22cb436ce207743029305325f2590d14c0f023cae6e3312cb",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/capsule-148f3d.png",
+      "sha256": "8007e7830af3c1ff107e478a307c821b0425dd51c3e76db8c13a0fb5311756ef",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/cubes-62388e.png",
+      "sha256": "f36361634c48236f170cdeefc7b353092c50fa5b0f69eb58bb1c57a80819940a",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/detox-d4a007.png",
+      "sha256": "e1675f948d5972c3399fa04e02571dc8abfd1f04184ba9fa6b12f5abad41fb38",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/eye-down-arrows-e3107e.png",
+      "sha256": "7e9c35e65604b5d7aa5ee1a25418693cb64409e784f115f0a4a805fbeafdae9a",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/face-energy-148f3d.png",
+      "sha256": "ef15d61514337a439e8f56abb3a7b26e93a3bae3a489e9b2a2869ef0dec9b289",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/face-profile-148f3d.png",
+      "sha256": "0e99a994fbc09e918c3bdabbf4ec7f936947b66c4eab251b4486bd038ec62722",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/flag-148f3d.png",
+      "sha256": "6863294b65a08b8ac2803b1004e712f87bee44dc6141454f2c4ed1ca2f7ee811",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/flag-62388e.png",
+      "sha256": "d4318990c57805fba0841ee8c75bb2190c41851fcb87be502c14dfdb75b33767",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/flag-d4a007.png",
+      "sha256": "54a2d4686b528beab16b168e72327dfac0a6198873c9dccd712e9205aaa573f8",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/flag-e3107e.png",
+      "sha256": "fc6c259de5edb4c0823fd6d7d6867797e61fd5873dfb79ff65fb88b50a04ee24",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/flame-line-62388e.png",
+      "sha256": "d12910ef575ec47323f8f7a41538466ffd0b4b54b0709280e3afa1e7d816d91c",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/flame-line-e6007e.png",
+      "sha256": "ac15ca08aae3a3f53dd3af43abfbc8a252392b88657df9947fed5366e87ebea4",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/flame-solid-f4c510.png",
+      "sha256": "da81aac947415e9e017370247b1e57f434d6a3c6351964f76bc7a3e2b9e0947a",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/hair-single-root-148f3d.png",
+      "sha256": "8fb3524ad9e94084e5953c9c9bd0e8405c6e5291ae3f4b5afbb8fcce4724a36a",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/head-lotus-148f3d.png",
+      "sha256": "9edfc8c43f3113c74ccda53937c88d36e3891e4b31947dc868b84bcbe9feb123",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/leaf-148f3d.png",
+      "sha256": "d940b0fb4f683da06bf82ce207758422412d43b0c1f3e8d1ecceebcf88f8f238",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/leaf-e6007e.png",
+      "sha256": "0117f2eaa9133664392f150c20505637587fce41d6bf1a33123e0cf7af4a2db6",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/lotus-hand-148f3d.png",
+      "sha256": "b89d720da19a8bf9031abeb2dcafc140644689fe951c30a4b5dc044804e9476e",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+      "sha256": "7ee49a0fa1889682af5f639946cf3fc7e22028770a65efb0b565013d658cb262",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/nails-148f3d.png",
+      "sha256": "c78cd262c54183342e71872d7797146abba24570e67622686f79925d6e2f1b85",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/nails-e3107e.png",
+      "sha256": "c5443fa9d26faf82b1c99871502706f72d6c29d0433fd8ab47a2237dfa3ecb7d",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/plate-62388e.png",
+      "sha256": "e1d60b08b8b10608f12834a6040d5995a74d9e004c3db32b1ed02587c00423ba",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/runner-62388e.png",
+      "sha256": "2d07d61ddac11dbc6be4eca8cb384c92c634a668e29cc7310abfd4d9311f01cd",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/runner-e6007e.png",
+      "sha256": "ed649b0c9fbf5ae1a363bee382096100cda422af0e4927211e4688e1e38cfe52",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/sachet-e6007e.png",
+      "sha256": "019dc5d58542845cff7c613af35f19feb7017a3352c5d5d35e0a81f2fbb956e8",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/scoop-large-e4127d.png",
+      "sha256": "d4af093823ae90732d93e50039b9cfdd9c086717311b357d825b201e7006290d",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/scoop-small-e4127d.png",
+      "sha256": "9ef7773ce2103114438b5e618ccc155af5a4617442e28ea22e219c839a3ea20a",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/skin-up-arrows-e3107e.png",
+      "sha256": "31c7dd2369b3357eddae3db97e4f38685fd3e7e2e92eec1de7f5f93bef35696a",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/sleep-148f3d.png",
+      "sha256": "26adc8bb4310f3e17ead8091d0bff3bd54f5f4f76536a296d256c664674e93c6",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/sleep-f6c711.png",
+      "sha256": "57ed7105de7cbf49a2fca02654f0e89cddfe14bc4338204e03cc65382c23957a",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/stopwatch-148f3d.png",
+      "sha256": "e03b62a0a7153f27c8135266a350062bc4c11211217a5d70941687213d2bb618",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/stopwatch-62388e.png",
+      "sha256": "989b43ec1d941a8b97e9e91c7eca2dde528feb76d55bb808fdb340996bf61b97",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/stopwatch-e3107e.png",
+      "sha256": "7b0b3724788f0409e799e41a6f0e8f54093ce1513f77dca69645b45c45e55561",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/waist-arrows-62388e.png",
+      "sha256": "fdd4e23331cd46bd63ce4ab1c9c96c26bb53c732aa4986c1c3fb8a1330ed713e",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/waist-arrows-e6007e.png",
+      "sha256": "7faed96561f16ed929249e3bf4b22ebc6388bb4a9c974ba60df5d390fa7fef3b",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/waist-slimfit-62388e.png",
+      "sha256": "73a91a77538f8f1f11ae5f493f82860b01d77fd9d57e749072c2b01ae098236f",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/weight-148f3d.png",
+      "sha256": "d1a14c46e6f61db1b22fd8c2658b2391cff0f670fc4c43ddfe24bd56a03b1441",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/weight-62388e.png",
+      "sha256": "7ca6ce81a5852107027917ba314ccb88b47711f70ada11b17c4fc7a8cfb34387",
+      "nonempty": true,
+      "notClipped": true
+    },
+    {
+      "file": "assets/piktogramy/frameless-family-v6/weight-e3107e.png",
+      "sha256": "74e61ca09cc1c0ef052dc654833f251b240ce81bf2bf460030149fcccfb9e3bb",
+      "nonempty": true,
+      "notClipped": true
+    }
+  ],
+  "strokeCalibration": [
+    {
+      "size": 20,
+      "expectedStrokePx": 0.625,
+      "actualAlphaCoveragePx": 0.7686274509803922
+    },
+    {
+      "size": 40,
+      "expectedStrokePx": 1.25,
+      "actualAlphaCoveragePx": 1.396078431372549
+    },
+    {
+      "size": 64,
+      "expectedStrokePx": 2.0,
+      "actualAlphaCoveragePx": 2.0313725490196077
+    },
+    {
+      "size": 85,
+      "expectedStrokePx": 2.65625,
+      "actualAlphaCoveragePx": 2.6
+    },
+    {
+      "size": 256,
+      "expectedStrokePx": 8.0,
+      "actualAlphaCoveragePx": 8.0
+    }
+  ]
+}
