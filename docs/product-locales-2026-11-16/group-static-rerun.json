@@ -1,0 +1,50 @@
+[
+  {
+    "group": 0,
+    "returncode": 0,
+    "stdout": "{\"targets\": 18, \"status\": \"PASS\", \"scripts_node_checked\": 45, \"table_cells_total\": 270, \"source_occurrences_total\": 2145}\n",
+    "stderr": ""
+  },
+  {
+    "group": 1,
+    "returncode": 0,
+    "stdout": "{\"status\": \"PASS\", \"target_count\": 18, \"actual_scripts_node_syntax_checked\": 45}\n",
+    "stderr": ""
+  },
+  {
+    "group": 2,
+    "returncode": 0,
+    "stdout": "{\n  \"files\": 18,\n  \"languages\": {\n    \"sk\": 6,\n    \"en\": 6,\n    \"de\": 6\n  },\n  \"products\": [\n    \"261\",\n    \"470\",\n    \"99\"\n  ],\n  \"JS_syntax_checks\": 45,\n  \"JS_AST_comparisons\": 45,\n  \"table_cells\": 270,\n  \"runtime_scenarios\": 27,\n  \"dialog_open_escape_close_checks\": 225,\n  \"full_dialog_paragraphs_compared\": true,\n  \"toggle_open_close_pairs\": 36,\n  \"runtime_errors\": 0,\n  \"document_overflows\": 0,\n  \"short_label_overflows\": 0,\n  \"source_files_unchanged_from_pinned_git\": true,\n  \"tracked_repo_changes\": [],\n  \"exact_reverse_proof_all_files\": true,\n  \"internal_note_removals\": 39,\n  \"file_hashes_verified\": true,\n  \"visual_review\": [\n    \"261-de-390.png: německý popisek po měkkém dělení nepřesahuje buňku; dvojité popisky obrázků jsou artefakt chybějících offline obrázků/ALT.\",\n    \"470-de-390-banner.png: dávka, úplný text a ovládání viditelné bez ořezu.\",\n    \"99-en-1280-banner.png: text, objem a ovládání čitelné bez ořezu.\"\n  ],\n  \"limits\": [\n    \"Pouze lokální Chromium s přesným párem HTML, repozitářovými CSS/JS a blokovanou sítí. Nejde o živý Shoptet ani native-cart test.\",\n    \"Externí fotografie/piktogramy a Google fonty bez lokální kopie nebyly načteny. Zachované skutečné URL, žádné falešné obrazové odpovědi. 38/36/28 nedekódovaných IMG v páru pro 470/99/261.\",\n    \"Nebyla testována právní schválenost tvrzení, cena, dostupnost, fyzický Safari/iPad ani živý nákup.\",\n    \"Věrné účinkové překlady zůstávají interním neschváleným návrhem. Claims ledger je samostatný; nepřidány interní poznámky do zákaznického HTML.\"\n  ],\n  \"typography\": \"Klíč 419 DE: Widerstands­fähigeres, měkké dělení na hranici složeného slova; styly beze změny.\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "group": 3,
+    "returncode": 0,
+    "stdout": "{\n  \"files_verified\": 18,\n  \"scripts_syntax_checked\": 39,\n  \"table_cells_checked\": 339,\n  \"seo_heads_in_sources\": 0,\n  \"json_ld_in_sources\": 0\n}\n",
+    "stderr": ""
+  },
+  {
+    "group": 4,
+    "returncode": 0,
+    "stdout": "{\"files\": 18, \"scripts\": 42, \"tableCells\": 270, \"allPass\": true}\n",
+    "stderr": ""
+  },
+  {
+    "group": 5,
+    "returncode": 0,
+    "stdout": "{\n  \"expected_files\": 18,\n  \"verified_files\": 18,\n  \"all_pass\": true,\n  \"scripts_checked\": 45,\n  \"table_cells_checked\": 390\n}\n",
+    "stderr": ""
+  },
+  {
+    "group": 6,
+    "returncode": 0,
+    "stdout": "{\"files\": 18, \"scripts\": 42, \"table_cells_checked\": 918, \"status\": \"PASS\"}\n",
+    "stderr": ""
+  },
+  {
+    "group": 7,
+    "returncode": 0,
+    "stdout": "{\"targets\": 18, \"tracked_files_unchanged\": 676, \"script_count\": 42, \"claims\": \"Internal working translations; not legally approved; see claims-ledger.md\", \"source_exceptions\": \"Existing internal notes relocated; malformed comment closed in new Hair translations only; editorial sentences excluded per ledger; mandatory supplement disclaimer added to new 467/544 short variants.\"}\n",
+    "stderr": ""
+  }
+]

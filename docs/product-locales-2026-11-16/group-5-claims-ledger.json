@@ -1,0 +1,1811 @@
+{
+  "status": "INTERNÍ PODKLAD — NENÍ SCHVÁLENÍ TVRZENÍ A NENÍ URČEN K IMPORTU DO SHOPU",
+  "sources": [
+    {
+      "path": "/root/workspace/brand/RULES.md",
+      "scope": "Pravidla značky načtena."
+    },
+    {
+      "path": "/root/workspace/brand/NOT-ALLOWED.md",
+      "scope": "Soubor není dostupný; nic nebylo domýšleno."
+    },
+    {
+      "path": "/root/workspace/brand/product/good-sleep-night-burn/info.md",
+      "exact_recorded_wording": "žádné EFSA claims u tohoto produktu; u bylin/hub/adaptogenů piš jen \"tradičně se užívá\", viz NOT-ALLOWED.md",
+      "scope": "Neopravňuje k tvrzení o spalování tuku, detoxikaci ani k označení sedativum."
+    },
+    {
+      "path": "/root/workspace/brand/product/beauty-longevity-nad-drink/info.md",
+      "exact_recorded_wording": "Vitaminy skupiny B přispívají ke snížení míry únavy a vyčerpání, k normálnímu energetickému metabolismu a k normální funkci nervové soustavy.",
+      "sk_working_translation": "Vitamíny skupiny B prispievajú k zníženiu vyčerpania a únavy, k normálnemu energetickému metabolizmu a k normálnej činnosti nervovej sústavy.",
+      "en_working_translation": "B vitamins contribute to the reduction of tiredness and fatigue, normal energy-yielding metabolism and the normal functioning of the nervous system.",
+      "de_working_translation": "B-Vitamine tragen zur Verringerung von Müdigkeit und Ermüdung, zu einem normalen Energiestoffwechsel und zu einer normalen Funktion des Nervensystems bei.",
+      "scope": "Záznam měsíčního balení 270 g / 30 sáčků, nikoli vlastní etiketa samostatného sáčku ID 600. Tato formulace není univerzální náhrada kolagenových/NAD tvrzení a nebyla vložena jako schválené tvrzení ID 600."
+    },
+    {
+      "path": null,
+      "scope": "Pro ID 550 nebyl nalezen vlastní produktový claims podklad; převzaté historické účinky jsou neověřené."
+    }
+  ],
+  "data_concerns": [
+    {
+      "id": "550",
+      "issue": "Český originál střídá tablety a tobolky/kapsle; zdrojové názvosloví zachováno v překladu. Deklarace bez lepku při extraktu z pšeničných klíčků vyžaduje certifikaci, není automaticky vyvrácena ani potvrzena."
+    },
+    {
+      "id": "600",
+      "issue": "Samostatný sáček versus historická měsíční specifikace 270 g / 30 sáčků / 30 dní: zákaznické interní konfliktové panely odstraněny pouze v nových překladech; jejich přesné původní znění je v manifestu editací. Zdrojové doporučení minimálně 3 měsíce jinde zachováno jako pracovní text."
+    },
+    {
+      "id": "600",
+      "issue": "Vhodnost pro děti od 8 let, dávka NR 300 mg, dlouhodobé užívání a těhotenství/kojení vyžadují ověření vlastní etiketou. Nevytvořen nový bezpečnostní příslib."
+    },
+    {
+      "id": "600",
+      "issue": "Bez přídatných látek versus kyselina citronová/aroma/barvivo/sukralóza ve složení; dvojí forma zinku; křemík v tabulce, nikoli výslovně v seznamu; chybějící oddělovač po malinovém prášku 2,1%. Věrně ponecháno k revizi."
+    },
+    {
+      "id": "57",
+      "issue": "RHP u HCA, kozlíku a hlohu je neověřené a procenta se zdvojením dávky rostou trojnásobně (11,7→35,2; 4,5→13,5; 2,5→7,5). Čísla a fyzikální jednotky ponechány; zkratka pouze lokalizována RVH/NRV."
+    },
+    {
+      "id": "57",
+      "issue": "Krátký text 30 min před spaním versus dlouhý 30–60 minut; zdrojový rozdíl zachován. Noční spalování tuků, detoxikace, diuretické působení a přírodní sedativum nejsou doložené schválené claims."
+    }
+  ],
+  "customer_html_exceptions": [
+    "Odstraněny jen interní pracovní/revizní poznámky a technické archivní konfliktové detaily; originály beze změny. Každé odstranění má přesné before/after a offset v manifest.json.",
+    "Z ALT fotografie ID 600 odstraněna interní charakteristika archivní nativní fotografie; produkt/sáček/ID a URL zachovány.",
+    "Do každého krátkého překladu přidáno lokalizované povinné upozornění na doplněk stravy, pestrou stravu, doporučenou dávku a dosah dětí.",
+    "Přidán jazyk fragmentu lang. V německých benefitních popiscích ID 600 vloženy měkké spojovníky v jazykových hranicích; sdílené styly beze změny."
+  ],
+  "claims_review": [
+    {
+      "id": 14,
+      "source": "Nikotinamid ribosid chlorid (NR) je forma vitamínu B3, která v těle slouží jako přímý prekurzor NAD+, koenzymu zapojeného do mnoha biochemických procesů včetně buněčné energie. Každá denní dávka (2 kapsle) obsahuje 300 mg nikotinamid ribosid chloridu.",
+      "sk": "Nikotínamid ribozid chlorid (NR) je forma vitamínu B3, ktorá v tele slúži ako priamy prekurzor NAD+, koenzýmu zapojeného do mnohých biochemických procesov vrátane bunkovej energie. Každá denná dávka (2 kapsuly) obsahuje 300 mg nikotínamid ribozid chloridu.",
+      "en": "Nicotinamide riboside chloride (NR) is a form of vitamin B3 that serves in the body as a direct precursor to NAD+, a coenzyme involved in many biochemical processes, including cellular energy. Each daily dose (2 capsules) contains 300 mg of nicotinamide riboside chloride.",
+      "de": "Nicotinamid-Ribosidchlorid (NR) ist eine Form von Vitamin B3, die im Körper als direkte Vorstufe von NAD+ dient, einem an zahlreichen biochemischen Prozessen einschließlich der zellulären Energiegewinnung beteiligten Coenzym. Jede Tagesdosis (2 Kapseln) enthält 300 mg Nicotinamid-Ribosidchlorid.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 15,
+      "source": "Longevity tablety pro vitalitu a zdravé stárnutí",
+      "sk": "Longevity tablety pre vitalitu a zdravé starnutie",
+      "en": "Longevity tablets for vitality and healthy ageing",
+      "de": "Longevity-Tabletten für Vitalität und gesundes Altern",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 16,
+      "source": "Na trhu existuje mnoho produktů zaměřených pouze na jeden konkrétní cíl. Anti-Age Longevity NAD+ tablety vycházejí z jiného přístupu. Vitalita, zdravé stárnutí, svěží vzhled pokožky a ochrana buněk spolu úzce souvisí, a proto dává smysl podpořit je společně prostřednictvím složek, které se vzájemně doplňují. Výsledkem je funkční komplex navržený pro každodenní podporu organismu v jednom produktu.",
+      "sk": "Na trhu existuje mnoho produktov zameraných iba na jeden konkrétny cieľ. Anti-Age Longevity NAD+ tablety vychádzajú z iného prístupu. Vitalita, zdravé starnutie, svieži vzhľad pokožky a ochrana buniek spolu úzko súvisia, a preto má zmysel podporiť ich spoločne prostredníctvom zložiek, ktoré sa vzájomne dopĺňajú. Výsledkom je funkčný komplex navrhnutý na každodennú podporu organizmu v jednom produkte.",
+      "en": "There are many products on the market that focus on just one specific goal. Anti-Age Longevity NAD+ tablets take a different approach. Vitality, healthy ageing, fresh-looking skin and cell protection are closely connected, so it makes sense to support them together through complementary ingredients. The result is a functional complex designed to provide everyday support for the body in one product.",
+      "de": "Auf dem Markt gibt es viele Produkte, die nur auf ein bestimmtes Ziel ausgerichtet sind. Anti-Age Longevity NAD+ Tabletten verfolgen einen anderen Ansatz. Vitalität, gesundes Altern, ein frisches Hautbild und Zellschutz hängen eng zusammen. Daher ist es sinnvoll, sie gemeinsam mit aufeinander abgestimmten Inhaltsstoffen zu unterstützen. Das Ergebnis ist ein funktioneller Komplex für die tägliche Unterstützung des Körpers in einem Produkt.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 17,
+      "source": "Hlavní účinky Anti-Age Longevity NAD+ tablet",
+      "sk": "Hlavné účinky Anti-Age Longevity NAD+ tabliet",
+      "en": "Main benefits of Anti-Age Longevity NAD+ tablets",
+      "de": "Die wichtigsten Wirkungen der Anti-Age Longevity NAD+ Tabletten",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 19,
+      "source": "Podpora vitality",
+      "sk": "Podpora vitality",
+      "en": "Vitality support",
+      "de": "Unterstützung der Vitalität",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 20,
+      "source": "Buněčná energie a NAD+ prekurzor",
+      "sk": "Bunková energia a NAD+ prekurzor",
+      "en": "Cellular energy and NAD+ precursor",
+      "de": "Zelluläre Energie und NAD+-Vorstufe",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 21,
+      "source": "Podpora zdravého stárnutí",
+      "sk": "Podpora zdravého starnutia",
+      "en": "Healthy ageing support",
+      "de": "Unterstützung für gesundes Altern",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 22,
+      "source": "Péče o pleť zevnitř",
+      "sk": "Starostlivosť o pleť zvnútra",
+      "en": "Skin care from within",
+      "de": "Hautpflege von innen",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 23,
+      "source": "Antioxidační ochrana",
+      "sk": "Antioxidačná ochrana",
+      "en": "Antioxidant protection",
+      "de": "Antioxidativer Schutz",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 24,
+      "source": "Vhodné pro vegetariány a vegany",
+      "sk": "Vhodné pre vegetariánov a vegánov",
+      "en": "Suitable for vegetarians and vegans",
+      "de": "Für Vegetarier und Veganer geeignet",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 26,
+      "source": "Anti-Age Longevity NAD+ tablety pracují na několika úrovních současně. Nikotinamid ribosid chlorid (NR) slouží jako NAD+ prekurzor a podílí se na buněčných energetických procesech organismu. Spermidin z extraktu pšeničných klíčků a resveratrol z extraktu rdesna japonského doplňují recepturu o moderní longevity složky spojované s buněčnou regenerací a zdravým stárnutím. Silná antioxidační kombinace astaxanthinu, quercetinu ze Sophory japonské a kyseliny alfa-lipoové pomáhá chránit buňky před oxidačním stresem a každodenní zátěží. Apigenin z heřmánkového extraktu doplňuje recepturu o další rostlinný flavonoid.",
+      "sk": "Anti-Age Longevity NAD+ tablety pôsobia na niekoľkých úrovniach súčasne. Nikotínamid ribozid chlorid (NR) slúži ako NAD+ prekurzor a podieľa sa na bunkových energetických procesoch organizmu. Spermidín z extraktu pšeničných klíčkov a resveratrol z extraktu pohánkovca japonského dopĺňajú receptúru o moderné longevity zložky spájané s bunkovou regeneráciou a zdravým starnutím. Silná antioxidačná kombinácia astaxantínu, kvercetínu zo sofory japonskej a kyseliny alfa-lipoovej pomáha chrániť bunky pred oxidačným stresom a každodennou záťažou. Apigenín z harmančekového extraktu dopĺňa receptúru o ďalší rastlinný flavonoid.",
+      "en": "Anti-Age Longevity NAD+ tablets work on several levels at once. Nicotinamide riboside chloride (NR) serves as an NAD+ precursor and is involved in the body's cellular energy processes. Spermidine from wheat germ extract and resveratrol from Japanese knotweed extract complement the formula with modern longevity ingredients associated with cellular regeneration and healthy ageing. A powerful antioxidant combination of astaxanthin, quercetin from Japanese pagoda tree and alpha-lipoic acid helps protect cells against oxidative stress and everyday strain. Apigenin from chamomile extract adds another plant flavonoid to the formula.",
+      "de": "Anti-Age Longevity NAD+ Tabletten wirken gleichzeitig auf mehreren Ebenen. Nicotinamid-Ribosidchlorid (NR) dient als NAD+-Vorstufe und ist an den zellulären Energieprozessen des Körpers beteiligt. Spermidin aus Weizenkeimextrakt und Resveratrol aus Japanischem Staudenknöterich ergänzen die Rezeptur um moderne Longevity-Inhaltsstoffe, die mit Zellregeneration und gesundem Altern in Verbindung gebracht werden. Die starke antioxidative Kombination aus Astaxanthin, Quercetin aus dem Japanischen Schnurbaum und Alpha-Liponsäure hilft, Zellen vor oxidativem Stress und alltäglichen Belastungen zu schützen. Apigenin aus Kamillenextrakt ergänzt die Rezeptur um ein weiteres pflanzliches Flavonoid.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 27,
+      "source": "Účinky",
+      "sk": "Účinky",
+      "en": "Benefits",
+      "de": "Wirkungen",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 28,
+      "source": "Anti-Age Longevity NAD+ tablety jsou navrženy pro ženy i muže, kteří chtějí podpořit energii, vitalitu a svěží vzhled pokožky a hledají moderní longevity přístup k péči o organismus zevnitř. Pravidelné užívání podporuje každodenní vitalitu, hydrataci pokožky, ochranu buněk před oxidačním stresem i celkovou regeneraci organismu. Jednotlivé složky byly vybrány tak, aby se vzájemně doplňovaly a tvořily funkční longevity komplex pro náročný životní styl a dlouhodobou péči o tělo.",
+      "sk": "Anti-Age Longevity NAD+ tablety sú navrhnuté pre ženy aj mužov, ktorí chcú podporiť energiu, vitalitu a svieži vzhľad pokožky a hľadajú moderný longevity prístup k starostlivosti o organizmus zvnútra. Pravidelné užívanie podporuje každodennú vitalitu, hydratáciu pokožky, ochranu buniek pred oxidačným stresom aj celkovú regeneráciu organizmu. Jednotlivé zložky boli vybrané tak, aby sa vzájomne dopĺňali a tvorili funkčný longevity komplex pre náročný životný štýl a dlhodobú starostlivosť o telo.",
+      "en": "Anti-Age Longevity NAD+ tablets are designed for women and men who want to support energy, vitality and fresh-looking skin and are seeking a modern longevity approach to caring for the body from within. Regular use supports everyday vitality, skin hydration, cell protection against oxidative stress and overall recovery of the body. The individual ingredients were chosen to complement one another and form a functional longevity complex for a demanding lifestyle and long-term body care.",
+      "de": "Anti-Age Longevity NAD+ Tabletten sind für Frauen und Männer konzipiert, die Energie, Vitalität und ein frisches Hautbild unterstützen möchten und einen modernen Longevity-Ansatz zur Pflege des Körpers von innen suchen. Die regelmäßige Einnahme unterstützt die tägliche Vitalität, die Feuchtigkeitsversorgung der Haut, den Schutz der Zellen vor oxidativem Stress sowie die allgemeine Regeneration des Körpers. Die einzelnen Inhaltsstoffe wurden so ausgewählt, dass sie sich ergänzen und einen funktionellen Longevity-Komplex für einen anspruchsvollen Lebensstil und langfristige Körperpflege bilden.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 29,
+      "source": "Co vám přinese",
+      "sk": "Čo vám prinesie",
+      "en": "What it offers you",
+      "de": "Was es Ihnen bietet",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 31,
+      "source": "Podpora vitality a buněčné energie prostřednictvím NAD+ prekurzoru",
+      "sk": "Podpora vitality a bunkovej energie prostredníctvom NAD+ prekurzora",
+      "en": "Support for vitality and cellular energy through an NAD+ precursor",
+      "de": "Unterstützung von Vitalität und zellulärer Energie durch eine NAD+-Vorstufe",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 32,
+      "source": "Obsahuje moderní longevity složky – nikotinamid ribosid, spermidin a resveratrol v jedné receptuře",
+      "sk": "Obsahuje moderné longevity zložky – nikotínamid ribozid, spermidín a resveratrol v jednej receptúre",
+      "en": "Contains modern longevity ingredients – nicotinamide riboside, spermidine and resveratrol in one formula",
+      "de": "Enthält moderne Longevity-Inhaltsstoffe – Nicotinamid-Ribosid, Spermidin und Resveratrol in einer Rezeptur",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 33,
+      "source": "Silná antioxidační ochrana – astaxanthin, quercetin a kyselina alfa-lipoová",
+      "sk": "Silná antioxidačná ochrana – astaxantín, kvercetín a kyselina alfa-lipoová",
+      "en": "Powerful antioxidant protection – astaxanthin, quercetin and alpha-lipoic acid",
+      "de": "Starker antioxidativer Schutz – Astaxanthin, Quercetin und Alpha-Liponsäure",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 34,
+      "source": "Hydratace a péče o pleť zevnitř – kyselina hyaluronová a fytoceramidy",
+      "sk": "Hydratácia a starostlivosť o pleť zvnútra – kyselina hyalurónová a fytoceramidy",
+      "en": "Hydration and skin care from within – hyaluronic acid and phytoceramides",
+      "de": "Feuchtigkeitsversorgung und Hautpflege von innen – Hyaluronsäure und Phytoceramide",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 35,
+      "source": "Doplněk stravy pro podporu vitality a regenerace organismu",
+      "sk": "Výživový doplnok na podporu vitality a regenerácie organizmu",
+      "en": "Food supplement to support vitality and recovery of the body",
+      "de": "Nahrungsergänzungsmittel zur Unterstützung von Vitalität und Regeneration des Körpers",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 69,
+      "source": "Spermidin je přirozeně se vyskytující polyamin obsažený v extraktu pšeničných klíčků (Triticum vulgare). Patří mezi moderní longevity složky studované v oblasti buněčné regenerace a zdravého stárnutí. Denní dávka (2 kapsle) obsahuje 250 mg extraktu.",
+      "sk": "Spermidín je prirodzene sa vyskytujúci polyamín obsiahnutý v extrakte pšeničných klíčkov (Triticum vulgare). Patrí medzi moderné longevity zložky skúmané v oblasti bunkovej regenerácie a zdravého starnutia. Denná dávka (2 kapsuly) obsahuje 250 mg extraktu.",
+      "en": "Spermidine is a naturally occurring polyamine found in wheat germ extract (Triticum vulgare). It is one of the modern longevity ingredients studied in the field of cellular regeneration and healthy ageing. The daily dose (2 capsules) contains 250 mg of extract.",
+      "de": "Spermidin ist ein natürlich vorkommendes Polyamin in Weizenkeimextrakt (Triticum vulgare). Es gehört zu den modernen Longevity-Inhaltsstoffen, die im Bereich der Zellregeneration und des gesunden Alterns untersucht werden. Die Tagesdosis (2 Kapseln) enthält 250 mg Extrakt.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 70,
+      "source": "Resveratrol z extraktu rdesna japonského (Polygonum cuspidatum) patří mezi známé antioxidanty spojované s ochranou buněk před oxidačním stresem a podporou zdravého stárnutí. Denní dávka (2 kapsle) obsahuje 300 mg extraktu, tedy 150 mg čistého resveratrolu.",
+      "sk": "Resveratrol z extraktu pohánkovca japonského (Polygonum cuspidatum) patrí medzi známe antioxidanty spájané s ochranou buniek pred oxidačným stresom a podporou zdravého starnutia. Denná dávka (2 kapsuly) obsahuje 300 mg extraktu, teda 150 mg čistého resveratrolu.",
+      "en": "Resveratrol from Japanese knotweed extract (Polygonum cuspidatum) is a well-known antioxidant associated with protecting cells against oxidative stress and supporting healthy ageing. The daily dose (2 capsules) contains 300 mg of extract, equivalent to 150 mg of pure resveratrol.",
+      "de": "Resveratrol aus Japanischem Staudenknöterich (Polygonum cuspidatum) gehört zu den bekannten Antioxidantien, die mit dem Schutz der Zellen vor oxidativem Stress und der Unterstützung gesunden Alterns in Verbindung gebracht werden. Die Tagesdosis (2 Kapseln) enthält 300 mg Extrakt, also 150 mg reines Resveratrol.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 71,
+      "source": "Kyselina hyaluronová se přirozeně nachází v kůži a pojivových tkáních, kde pomáhá vázat vodu a podporuje hydrataci. S věkem její přirozená produkce klesá, a proto patří mezi oblíbené složky beauty doplňků stravy. Denní dávka (2 kapsle) obsahuje 300 mg kyseliny hyaluronové.",
+      "sk": "Kyselina hyalurónová sa prirodzene nachádza v koži a spojivových tkanivách, kde pomáha viazať vodu a podporuje hydratáciu. S vekom jej prirodzená tvorba klesá, a preto patrí medzi obľúbené zložky beauty výživových doplnkov. Denná dávka (2 kapsuly) obsahuje 300 mg kyseliny hyalurónovej.",
+      "en": "Hyaluronic acid occurs naturally in the skin and connective tissues, where it helps bind water and supports hydration. Its natural production decreases with age, making it a popular ingredient in beauty supplements. The daily dose (2 capsules) contains 300 mg of hyaluronic acid.",
+      "de": "Hyaluronsäure kommt natürlich in der Haut und im Bindegewebe vor, wo sie Wasser bindet und die Feuchtigkeitsversorgung unterstützt. Mit zunehmendem Alter nimmt ihre natürliche Produktion ab, weshalb sie zu den beliebten Inhaltsstoffen von Beauty-Nahrungsergänzungsmitteln gehört. Die Tagesdosis (2 Kapseln) enthält 300 mg Hyaluronsäure.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 72,
+      "source": "Fytoceramidy z extraktu pšeničných klíčků jsou rostlinné analogy ceramidů, které tvoří přirozenou součást kožní bariéry. Ve spojení s kyselinou hyaluronovou podporují hydrataci a komfort pokožky. Denní dávka (2 kapsle) obsahuje 80 mg fytoceramidů.",
+      "sk": "Fytoceramidy z extraktu pšeničných klíčkov sú rastlinné analógy ceramidov, ktoré tvoria prirodzenú súčasť kožnej bariéry. V spojení s kyselinou hyalurónovou podporujú hydratáciu a komfort pokožky. Denná dávka (2 kapsuly) obsahuje 80 mg fytoceramidov.",
+      "en": "Phytoceramides from wheat germ extract are plant analogues of ceramides, which are a natural component of the skin barrier. Together with hyaluronic acid, they support skin hydration and comfort. The daily dose (2 capsules) contains 80 mg of phytoceramides.",
+      "de": "Phytoceramide aus Weizenkeimextrakt sind pflanzliche Entsprechungen von Ceramiden, die ein natürlicher Bestandteil der Hautbarriere sind. Zusammen mit Hyaluronsäure unterstützen sie die Feuchtigkeitsversorgung und das Wohlbefinden der Haut. Die Tagesdosis (2 Kapseln) enthält 80 mg Phytoceramide.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 73,
+      "source": "Astaxanthin je přírodní karotenoid produkovaný mikrořasami a patří mezi silné přírodní antioxidanty. Denní dávka (2 kapsle) obsahuje 20 mg astaxanthinu.",
+      "sk": "Astaxantín je prírodný karotenoid produkovaný mikroriasami a patrí medzi silné prírodné antioxidanty. Denná dávka (2 kapsuly) obsahuje 20 mg astaxantínu.",
+      "en": "Astaxanthin is a natural carotenoid produced by microalgae and is one of the powerful natural antioxidants. The daily dose (2 capsules) contains 20 mg of astaxanthin.",
+      "de": "Astaxanthin ist ein natürliches, von Mikroalgen gebildetes Carotinoid und gehört zu den starken natürlichen Antioxidantien. Die Tagesdosis (2 Kapseln) enthält 20 mg Astaxanthin.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 74,
+      "source": "Quercetin je flavonoid přirozeně se vyskytující v mnoha rostlinách. V produktu pochází z extraktu Sophory japonské s vysokým obsahem quercetinu. Denní dávka (2 kapsle) obsahuje 150 mg extraktu.",
+      "sk": "Kvercetín je flavonoid prirodzene sa vyskytujúci v mnohých rastlinách. V produkte pochádza z extraktu sofory japonskej s vysokým obsahom kvercetínu. Denná dávka (2 kapsuly) obsahuje 150 mg extraktu.",
+      "en": "Quercetin is a flavonoid that occurs naturally in many plants. In this product, it comes from Japanese pagoda tree extract with a high quercetin content. The daily dose (2 capsules) contains 150 mg of extract.",
+      "de": "Quercetin ist ein Flavonoid, das in vielen Pflanzen natürlich vorkommt. In diesem Produkt stammt es aus einem Extrakt des Japanischen Schnurbaums mit hohem Quercetingehalt. Die Tagesdosis (2 Kapseln) enthält 150 mg Extrakt.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 75,
+      "source": "Apigenin je přírodní flavonoid získaný z heřmánkového extraktu a využívá se v moderních longevity formulích zaměřených na celkovou rovnováhu organismu. Denní dávka (2 kapsle) obsahuje 150 mg heřmánkového extraktu.",
+      "sk": "Apigenín je prírodný flavonoid získaný z harmančekového extraktu a využíva sa v moderných longevity receptúrach zameraných na celkovú rovnováhu organizmu. Denná dávka (2 kapsuly) obsahuje 150 mg harmančekového extraktu.",
+      "en": "Apigenin is a natural flavonoid obtained from chamomile extract and used in modern longevity formulas focused on the body's overall balance. The daily dose (2 capsules) contains 150 mg of chamomile extract.",
+      "de": "Apigenin ist ein natürliches Flavonoid aus Kamillenextrakt und wird in modernen Longevity-Rezepturen für das allgemeine Gleichgewicht des Körpers eingesetzt. Die Tagesdosis (2 Kapseln) enthält 150 mg Kamillenextrakt.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 76,
+      "source": "Kyselina alfa-lipoová je antioxidant, který působí ve vodném i tukovém prostředí a přirozeně se podílí na energetickém metabolismu. Denní dávka (2 kapsle) obsahuje 100 mg kyseliny alfa-lipoové.",
+      "sk": "Kyselina alfa-lipoová je antioxidant, ktorý pôsobí vo vodnom aj tukovom prostredí a prirodzene sa podieľa na energetickom metabolizme. Denná dávka (2 kapsuly) obsahuje 100 mg kyseliny alfa-lipoovej.",
+      "en": "Alpha-lipoic acid is an antioxidant that acts in both aqueous and fatty environments and is naturally involved in energy metabolism. The daily dose (2 capsules) contains 100 mg of alpha-lipoic acid.",
+      "de": "Alpha-Liponsäure ist ein Antioxidans, das sowohl in wässriger als auch in fetthaltiger Umgebung wirkt und auf natürliche Weise am Energiestoffwechsel beteiligt ist. Die Tagesdosis (2 Kapseln) enthält 100 mg Alpha-Liponsäure.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 82,
+      "source": "Bez lepku",
+      "sk": "Bez lepku",
+      "en": "Gluten free",
+      "de": "Glutenfrei",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Deklarace neobsahuje/free-from vyžaduje ověřenou etiketu a specifikaci; pšeničný extrakt nebo přídatné látky ve složení jsou důvod ke kontrole."
+    },
+    {
+      "id": 83,
+      "source": "Bez GMO",
+      "sk": "Bez GMO",
+      "en": "GMO free",
+      "de": "Gentechnikfrei",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 84,
+      "source": "Bez přídatných látek",
+      "sk": "Bez prídavných látok",
+      "en": "Additive free",
+      "de": "Ohne Zusatzstoffe",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Deklarace neobsahuje/free-from vyžaduje ověřenou etiketu a specifikaci; pšeničný extrakt nebo přídatné látky ve složení jsou důvod ke kontrole."
+    },
+    {
+      "id": 85,
+      "source": "Bez laktózy",
+      "sk": "Bez laktózy",
+      "en": "Lactose free",
+      "de": "Laktosefrei",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 86,
+      "source": "Bez cukru",
+      "sk": "Bez cukru",
+      "en": "Sugar free",
+      "de": "Zuckerfrei",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 87,
+      "source": "Anti-Age Longevity NAD+ tablety jsou vhodné pro ženy i muže, kteří chtějí podpořit vitalitu, každodenní energii a regeneraci organismu a zároveň pečovat o vzhled pokožky zevnitř. Jsou vhodné zejména pro ty, kteří hledají komplexní doplněk stravy pro energii a vitalitu, chtějí podpořit péči o pleť zevnitř, chtějí podpořit regeneraci po fyzické nebo psychické zátěži, zajímají se o moderní longevity přístup a preferují složení bez zbytečných přísad.",
+      "sk": "Anti-Age Longevity NAD+ tablety sú vhodné pre ženy aj mužov, ktorí chcú podporiť vitalitu, každodennú energiu a regeneráciu organizmu a zároveň sa starať o vzhľad pokožky zvnútra. Sú vhodné najmä pre tých, ktorí hľadajú komplexný výživový doplnok pre energiu a vitalitu, chcú podporiť starostlivosť o pleť zvnútra, chcú podporiť regeneráciu po fyzickej alebo psychickej záťaži, zaujímajú sa o moderný longevity prístup a uprednostňujú zloženie bez zbytočných prísad.",
+      "en": "Anti-Age Longevity NAD+ tablets are suitable for women and men who want to support vitality, everyday energy and recovery of the body while caring for their skin's appearance from within. They are particularly suitable for those seeking a comprehensive supplement for energy and vitality, wishing to support skin care from within and recovery after physical or mental strain, interested in a modern longevity approach and preferring a formula without unnecessary additives.",
+      "de": "Anti-Age Longevity NAD+ Tabletten eignen sich für Frauen und Männer, die Vitalität, tägliche Energie und die Regeneration des Körpers unterstützen und zugleich das Hautbild von innen pflegen möchten. Sie eignen sich insbesondere für alle, die ein umfassendes Nahrungsergänzungsmittel für Energie und Vitalität suchen, Hautpflege von innen und Regeneration nach körperlicher oder geistiger Belastung unterstützen möchten, sich für einen modernen Longevity-Ansatz interessieren und eine Rezeptur ohne unnötige Zusätze bevorzugen.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 111,
+      "source": "Anti-Age Longevity NAD+ jsou moderní longevity tablety a doplněk stravy pro zdravé stárnutí, vitalitu a péči o pleť zevnitř. Kombinují NAD+ prekurzor (nikotinamid ribosid), spermidin, resveratrol, fytoceramidy, kyselinu hyaluronovou a silné antioxidanty do jednoho funkčního komplexu pro podporu energie, regenerace i péče o pleť. Pokud hledáte účinnou podporu zdravého stárnutí nebo komplexní doplněk stravy pro každodenní regeneraci, Anti-Age Longevity NAD+ tablety jsou navrženy právě pro vás.",
+      "sk": "Anti-Age Longevity NAD+ sú moderné longevity tablety a výživový doplnok pre zdravé starnutie, vitalitu a starostlivosť o pleť zvnútra. Kombinujú NAD+ prekurzor (nikotínamid ribozid), spermidín, resveratrol, fytoceramidy, kyselinu hyalurónovú a silné antioxidanty do jedného funkčného komplexu na podporu energie, regenerácie aj starostlivosti o pleť. Ak hľadáte účinnú podporu zdravého starnutia alebo komplexný výživový doplnok na každodennú regeneráciu, Anti-Age Longevity NAD+ tablety sú navrhnuté práve pre vás.",
+      "en": "Anti-Age Longevity NAD+ is a modern longevity tablet and food supplement for healthy ageing, vitality and skin care from within. It combines an NAD+ precursor (nicotinamide riboside), spermidine, resveratrol, phytoceramides, hyaluronic acid and powerful antioxidants in one functional complex to support energy, recovery and skin care. If you are looking for effective healthy ageing support or a comprehensive supplement for everyday recovery, Anti-Age Longevity NAD+ tablets are designed for you.",
+      "de": "Anti-Age Longevity NAD+ sind moderne Longevity-Tabletten und ein Nahrungsergänzungsmittel für gesundes Altern, Vitalität und Hautpflege von innen. Sie vereinen eine NAD+-Vorstufe (Nicotinamid-Ribosid), Spermidin, Resveratrol, Phytoceramide, Hyaluronsäure und starke Antioxidantien in einem funktionellen Komplex zur Unterstützung von Energie, Regeneration und Hautpflege. Wenn Sie eine wirksame Unterstützung für gesundes Altern oder ein umfassendes Nahrungsergänzungsmittel für die tägliche Regeneration suchen, sind Anti-Age Longevity NAD+ Tabletten für Sie konzipiert.",
+      "source_files": [
+        "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 128,
+      "source": "Přestaňte hledat další krém na pleť a začněte řešit to, co se děje pod povrchem. Beauty & Longevity NAD+ je kolagenový beauty drink pro ženy, které tohle pochopily. Spojuje sílu mořského kolagenu, NAD+ prekurzoru a více než 12 aktivních látek do jediné ranní skleničky s lahodnou příchutí malin, která se stane přirozenou součástí vaší každodenní rutiny.",
+      "sk": "Prestaňte hľadať ďalší krém na pleť a začnite riešiť to, čo sa deje pod povrchom. Beauty & Longevity NAD+ je kolagénový beauty drink pre ženy, ktoré to pochopili. Spája silu morského kolagénu, NAD+ prekurzora a viac než 12 aktívnych látok do jediného ranného pohára s lahodnou malinovou príchuťou, ktorý sa stane prirodzenou súčasťou vašej každodennej rutiny.",
+      "en": "Stop looking for another face cream and start addressing what happens beneath the surface. Beauty & Longevity NAD+ is a collagen beauty drink for women who understand this. It combines the power of marine collagen, an NAD+ precursor and more than 12 active ingredients in a single morning glass with a delicious raspberry flavour that will become a natural part of your daily routine.",
+      "de": "Suchen Sie nicht länger nach der nächsten Gesichtscreme, sondern kümmern Sie sich darum, was unter der Oberfläche geschieht. Beauty & Longevity NAD+ ist ein Kollagen-Beauty-Drink für Frauen, die das verstanden haben. Er vereint die Kraft von Meereskollagen, einer NAD+-Vorstufe und mehr als 12 aktiven Inhaltsstoffen in einem einzigen Glas am Morgen mit köstlichem Himbeergeschmack, das zu einem natürlichen Bestandteil Ihrer täglichen Routine wird.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 129,
+      "source": "Není to jen kolagenový nápoj. Je to komplexní nutrikosmetický nápoj navržený tak, aby podpořil krásu, vitalitu a dlouhověkost zevnitř a to v dávce, která nahradí až 16 tablet denně.",
+      "sk": "Nie je to len kolagénový nápoj. Je to komplexný nutrikozmetický nápoj navrhnutý tak, aby podporil krásu, vitalitu a dlhovekosť zvnútra, a to v dávke, ktorá nahradí až 16 tabliet denne.",
+      "en": "It is not just a collagen drink. It is a comprehensive nutricosmetic drink designed to support beauty, vitality and longevity from within, in a serving that replaces up to 16 tablets a day.",
+      "de": "Es ist nicht nur ein Kollagengetränk. Es ist ein umfassendes nutrikosmetisches Getränk, das Schönheit, Vitalität und Langlebigkeit von innen unterstützen soll – in einer Portion, die bis zu 16 Tabletten täglich ersetzt.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Neověřená ekvivalence až 16 tablet denně; chybí průkazný podklad pro SKU 600."
+    },
+    {
+      "id": 130,
+      "source": "Hlavní účinky Beauty & Longevity NAD+",
+      "sk": "Hlavné účinky Beauty & Longevity NAD+",
+      "en": "Main benefits of Beauty & Longevity NAD+",
+      "de": "Die wichtigsten Wirkungen von Beauty & Longevity NAD+",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 132,
+      "source": "Podpora vitality a energie",
+      "sk": "Podpora vitality a energie",
+      "en": "Support for vitality and energy",
+      "de": "Unter­stützung von Vitalität und Energie",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 133,
+      "source": "Pro zdravou pokožku a vlasy",
+      "sk": "Pre zdravú pokožku a vlasy",
+      "en": "For healthy skin and hair",
+      "de": "Für gesunde Haut und Haare",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 134,
+      "source": "Podpora normální funkce imunity",
+      "sk": "Podpora normálnej funkcie imunity",
+      "en": "Support for normal immune function",
+      "de": "Unter­stützung der normalen Immun­funktion",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 135,
+      "source": "Podpora tvorby kolagenu",
+      "sk": "Podpora tvorby kolagénu",
+      "en": "Support for collagen formation",
+      "de": "Unter­stützung der Kollagen­bildung",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 137,
+      "source": "Klíčovou složkou Beauty Longevity NAD+ je NAD+ prekurzor nikotinamid ribosid, který podporuje buněčnou energii, regeneraci a procesy spojené s dlouhověkostí. V kombinaci s resveratrolem a koenzymem Q10 pomáhá chránit buňky před oxidačním stresem a podporuje jejich vitalitu.",
+      "sk": "Kľúčovou zložkou Beauty Longevity NAD+ je NAD+ prekurzor nikotínamid ribozid, ktorý podporuje bunkovú energiu, regeneráciu a procesy spojené s dlhovekosťou. V kombinácii s resveratrolom a koenzýmom Q10 pomáha chrániť bunky pred oxidačným stresom a podporuje ich vitalitu.",
+      "en": "The key ingredient in Beauty Longevity NAD+ is the NAD+ precursor nicotinamide riboside, which supports cellular energy, regeneration and processes associated with longevity. In combination with resveratrol and coenzyme Q10, it helps protect cells against oxidative stress and supports their vitality.",
+      "de": "Der zentrale Inhaltsstoff von Beauty Longevity NAD+ ist die NAD+-Vorstufe Nicotinamid-Ribosid, die zelluläre Energie, Regeneration und mit Langlebigkeit verbundene Prozesse unterstützt. In Kombination mit Resveratrol und Coenzym Q10 hilft sie, Zellen vor oxidativem Stress zu schützen, und unterstützt ihre Vitalität.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 138,
+      "source": "Kokosová voda CocoMineral® dodává tělu důležité elektrolyty pro optimální hydrataci a správné fungování buněk, zatímco BioPerine® zvyšuje vstřebatelnost účinných látek. Vysoce vstřebatelný mořský kolagen Peptan® společně s kyselinou hyaluronovou podporují hloubkovou hydrataci, pružnost a mladistvý vzhled pokožky.",
+      "sk": "Kokosová voda CocoMineral® dodáva telu dôležité elektrolyty pre optimálnu hydratáciu a správne fungovanie buniek, zatiaľ čo BioPerine® zvyšuje vstrebateľnosť účinných látok. Vysoko vstrebateľný morský kolagén Peptan® spolu s kyselinou hyalurónovou podporujú hĺbkovú hydratáciu, pružnosť a mladistvý vzhľad pokožky.",
+      "en": "CocoMineral® coconut water supplies the body with important electrolytes for optimal hydration and proper cell function, while BioPerine® increases the absorption of active ingredients. Highly absorbable Peptan® marine collagen, together with hyaluronic acid, supports deep hydration, elasticity and a youthful appearance of the skin.",
+      "de": "CocoMineral® Kokoswasser versorgt den Körper mit wichtigen Elektrolyten für eine optimale Flüssigkeitsversorgung und eine normale Zellfunktion, während BioPerine® die Aufnahme der Wirkstoffe erhöht. Das gut aufnehmbare Peptan® Meereskollagen unterstützt gemeinsam mit Hyaluronsäure die intensive Feuchtigkeitsversorgung, Elastizität und ein jugendliches Hautbild.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 139,
+      "source": "Beauty & Longevity NAD+ spojuje moderní longevity složky, kolagenovou péči a funkční nutrikosmetiku do jednoho každodenního rituálu. Produkt je navržený pro ženy, které chtějí pečovat nejen o vzhled pleti, ale také o energii, vitalitu a celkový pocit rovnováhy. Díky kombinaci beauty a anti-aging složek podporuje svěží vzhled pokožky, hydrataci organismu i komfort během náročných dnů.",
+      "sk": "Beauty & Longevity NAD+ spája moderné longevity zložky, kolagénovú starostlivosť a funkčnú nutrikozmetiku do jedného každodenného rituálu. Produkt je navrhnutý pre ženy, ktoré sa chcú starať nielen o vzhľad pleti, ale aj o energiu, vitalitu a celkový pocit rovnováhy. Vďaka kombinácii beauty a anti-aging zložiek podporuje svieži vzhľad pokožky, hydratáciu organizmu aj komfort počas náročných dní.",
+      "en": "Beauty & Longevity NAD+ brings modern longevity ingredients, collagen care and functional nutricosmetics together in one daily ritual. The product is designed for women who want to care not only for their skin's appearance but also for energy, vitality and an overall sense of balance. Its combination of beauty and anti-ageing ingredients supports fresh-looking skin, hydration of the body and comfort during demanding days.",
+      "de": "Beauty & Longevity NAD+ vereint moderne Longevity-Inhaltsstoffe, Kollagenpflege und funktionelle Nutrikosmetik in einem täglichen Ritual. Das Produkt ist für Frauen konzipiert, die nicht nur ihr Hautbild, sondern auch Energie, Vitalität und ein allgemeines Gefühl von Ausgeglichenheit pflegen möchten. Die Kombination aus Beauty- und Anti-Aging-Inhaltsstoffen unterstützt ein frisches Hautbild, die Flüssigkeitsversorgung des Körpers und das Wohlbefinden an anspruchsvollen Tagen.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 140,
+      "source": "Pravidelné užívání podporuje pevnější a hydratovanější pleť, zdravější vzhled vlasů a nehtů i každodenní pocit vitality. Aktivní látky byly zvoleny tak, aby se vzájemně doplňovaly a vytvořily komplexní drink zaměřený na krásu zevnitř, regeneraci organismu a podporu moderního životního stylu bez zbytečně složitých rutin.",
+      "sk": "Pravidelné užívanie podporuje pevnejšiu a hydratovanejšiu pleť, zdravší vzhľad vlasov a nechtov aj každodenný pocit vitality. Aktívne látky boli zvolené tak, aby sa vzájomne dopĺňali a vytvorili komplexný drink zameraný na krásu zvnútra, regeneráciu organizmu a podporu moderného životného štýlu bez zbytočne zložitých rutín.",
+      "en": "Regular use supports firmer, more hydrated skin, healthier-looking hair and nails and an everyday feeling of vitality. The active ingredients were chosen to complement one another and create a comprehensive drink focused on beauty from within, recovery of the body and support for a modern lifestyle without unnecessarily complicated routines.",
+      "de": "Die regelmäßige Einnahme unterstützt eine straffere und besser mit Feuchtigkeit versorgte Haut, gesünder aussehende Haare und Nägel sowie ein tägliches Gefühl von Vitalität. Die aktiven Inhaltsstoffe wurden so gewählt, dass sie sich ergänzen und einen umfassenden Drink für Schönheit von innen, die Regeneration des Körpers und einen modernen Lebensstil ohne unnötig komplizierte Routinen bilden.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 141,
+      "source": "Pravidelné užívání podporuje pevnější a hydratovanější pleť, zdravější vzhled vlasů a nehtů i každodenní pocit vitality.",
+      "sk": "Pravidelné užívanie podporuje pevnejšiu a hydratovanejšiu pleť, zdravší vzhľad vlasov a nechtov aj každodenný pocit vitality.",
+      "en": "Regular use supports firmer, more hydrated skin, healthier-looking hair and nails and an everyday feeling of vitality.",
+      "de": "Die regelmäßige Einnahme unterstützt eine straffere und besser mit Feuchtigkeit versorgte Haut, gesünder aussehende Haare und Nägel sowie ein tägliches Gefühl von Vitalität.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 142,
+      "source": "Aktivní látky byly zvoleny tak, aby se vzájemně doplňovaly a vytvořily komplexní drink zaměřený na krásu zevnitř, regeneraci organismu a podporu moderního životního stylu bez zbytečně složitých rutin.",
+      "sk": "Aktívne látky boli zvolené tak, aby sa vzájomne dopĺňali a vytvorili komplexný drink zameraný na krásu zvnútra, regeneráciu organizmu a podporu moderného životného štýlu bez zbytočne zložitých rutín.",
+      "en": "The active ingredients were chosen to complement one another and create a comprehensive drink focused on beauty from within, recovery of the body and support for a modern lifestyle without unnecessarily complicated routines.",
+      "de": "Die aktiven Inhaltsstoffe wurden so gewählt, dass sie sich ergänzen und einen umfassenden Drink für Schönheit von innen, die Regeneration des Körpers und einen modernen Lebensstil ohne unnötig komplizierte Routinen bilden.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 143,
+      "source": "Váš věk je jen číslo.",
+      "sk": "Váš vek je len číslo.",
+      "en": "Your age is just a number.",
+      "de": "Ihr Alter ist nur eine Zahl.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 144,
+      "source": "Po třicítce se začnou dít věci, které nečekáte. Pleť ztrácí pružnost. Vlasy lesk. Energie ráno chybí dřív, než den pořádně začne. Nejde o dramatické změny, jde o drobné signály, které tělo vysílá, když mu začíná chybět to, co samo nedokáže vyrobit v dostatečném množství.",
+      "sk": "Po tridsiatke sa začnú diať veci, ktoré nečakáte. Pleť stráca pružnosť. Vlasy lesk. Energia ráno chýba skôr, než sa deň poriadne začne. Nejde o dramatické zmeny, ide o drobné signály, ktoré telo vysiela, keď mu začína chýbať to, čo samo nedokáže vytvoriť v dostatočnom množstve.",
+      "en": "After thirty, things start happening that you do not expect. Skin loses elasticity. Hair loses shine. Morning energy is missing before the day has really begun. These are not dramatic changes, but small signals the body sends when it starts to lack what it cannot produce in sufficient quantities on its own.",
+      "de": "Nach dem dreißigsten Lebensjahr beginnen Dinge zu geschehen, mit denen Sie nicht rechnen. Die Haut verliert an Elastizität. Das Haar an Glanz. Morgens fehlt die Energie, bevor der Tag richtig begonnen hat. Es geht nicht um dramatische Veränderungen, sondern um kleine Signale des Körpers, wenn ihm allmählich fehlt, was er selbst nicht in ausreichender Menge herstellen kann.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 145,
+      "source": "Kolagen. NAD+. Antioxidanty. Hydratace na buněčné úrovni. Vitamíny skupiny B.",
+      "sk": "Kolagén. NAD+. Antioxidanty. Hydratácia na bunkovej úrovni. Vitamíny skupiny B.",
+      "en": "Collagen. NAD+. Antioxidants. Hydration at the cellular level. B vitamins.",
+      "de": "Kollagen. NAD+. Antioxidantien. Feuchtigkeitsversorgung auf Zellebene. B-Vitamine.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 146,
+      "source": "Beauty & Longevity NAD+ dodává tělu přesně to, co s věkem ubývá, v jednom kolagenovém nápoji každý den. Žádné hrstky tablet. Žádné složité režimy. Jen sáček rozmíchaný ve vodě a rituál, který si zamilujete.",
+      "sk": "Beauty & Longevity NAD+ dodáva telu presne to, čo s vekom ubúda, v jednom kolagénovom nápoji každý deň. Žiadne hrste tabliet. Žiadne zložité režimy. Len vrecko rozmiešané vo vode a rituál, ktorý si zamilujete.",
+      "en": "Beauty & Longevity NAD+ gives the body exactly what declines with age, in one collagen drink each day. No handfuls of tablets. No complicated regimens. Just a sachet mixed with water and a ritual you will love.",
+      "de": "Beauty & Longevity NAD+ versorgt den Körper genau mit dem, was mit zunehmendem Alter weniger wird – jeden Tag in einem Kollagengetränk. Keine Handvoll Tabletten. Keine komplizierten Einnahmepläne. Nur ein in Wasser eingerührter Beutel und ein Ritual, das Sie lieben werden.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 148,
+      "source": "Jak dlouho trvá, než uvidím výsledky?",
+      "sk": "Ako dlho trvá, kým uvidím výsledky?",
+      "en": "How long does it take to see results?",
+      "de": "Wie lange dauert es, bis ich Ergebnisse sehe?",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 149,
+      "source": "Kolagen, NAD+ prekurzory i další aktivní látky potřebují pravidelné užívání. Pro optimální výsledky doporučujeme kúru minimálně 3 měsíce.",
+      "sk": "Kolagén, NAD+ prekurzory aj ďalšie aktívne látky si vyžadujú pravidelné užívanie. Pre optimálne výsledky odporúčame kúru minimálne 3 mesiace.",
+      "en": "Collagen, NAD+ precursors and other active ingredients require regular use. For optimal results, we recommend a course of at least 3 months.",
+      "de": "Kollagen, NAD+-Vorstufen und weitere aktive Inhaltsstoffe erfordern eine regelmäßige Einnahme. Für optimale Ergebnisse empfehlen wir eine Kur von mindestens 3 Monaten.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 151,
+      "source": "Ano, ale při kombinaci s dalšími doplňky je vhodné sledovat celkový příjem vitamínů a minerálů.",
+      "sk": "Áno, ale pri kombinácii s ďalšími doplnkami je vhodné sledovať celkový príjem vitamínov a minerálov.",
+      "en": "Yes, but when combining it with other supplements, it is advisable to monitor your total vitamin and mineral intake.",
+      "de": "Ja, bei der Kombination mit weiteren Nahrungsergänzungsmitteln sollten Sie jedoch auf die gesamte Vitamin- und Mineralstoffzufuhr achten.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 153,
+      "source": "Ano, produkt je navržený pro dlouhodobé každodenní užívání.",
+      "sk": "Áno, produkt je navrhnutý na dlhodobé každodenné užívanie.",
+      "en": "Yes, the product is designed for long-term daily use.",
+      "de": "Ja, das Produkt ist für die langfristige tägliche Einnahme konzipiert.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 154,
+      "source": "Nejlépe vstřebatelný mořský kolagen pro pleť i klouby.",
+      "sk": "Najlepšie vstrebateľný morský kolagén pre pleť aj kĺby.",
+      "en": "The most absorbable marine collagen for skin and joints.",
+      "de": "Meereskollagen mit bester Aufnahmefähigkeit für Haut und Gelenke.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 156,
+      "source": "NAD+ prekurzor pro buněčnou energii a dlouhověkost.",
+      "sk": "NAD+ prekurzor pre bunkovú energiu a dlhovekosť.",
+      "en": "NAD+ precursor for cellular energy and longevity.",
+      "de": "NAD+-Vorstufe für zelluläre Energie und Langlebigkeit.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 158,
+      "source": "Hloubková hydratace a pružnost pleti.",
+      "sk": "Hĺbková hydratácia a pružnosť pleti.",
+      "en": "Deep hydration and skin elasticity.",
+      "de": "Intensive Feuchtigkeitsversorgung und Elastizität der Haut.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 161,
+      "source": "Trojice silných antioxidantů pro ochranu buněk.",
+      "sk": "Trojica silných antioxidantov na ochranu buniek.",
+      "en": "Three powerful antioxidants for cell protection.",
+      "de": "Drei starke Antioxidantien zum Zellschutz.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 164,
+      "source": "Organická síra pro kolagen, vlasy a nehty.",
+      "sk": "Organická síra pre kolagén, vlasy a nechty.",
+      "en": "Organic sulphur for collagen, hair and nails.",
+      "de": "Organischer Schwefel für Kollagen, Haare und Nägel.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 167,
+      "source": "Přírodní elektrolyty pro hydrataci a rovnováhu.",
+      "sk": "Prírodné elektrolyty pre hydratáciu a rovnováhu.",
+      "en": "Natural electrolytes for hydration and balance.",
+      "de": "Natürliche Elektrolyte für Flüssigkeitsversorgung und Gleichgewicht.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 169,
+      "source": "Základem tohoto kolagenového beauty drinku je hydrolyzovaný rybí kolagen Peptan®, který patří mezi nejlépe vstřebatelné formy mořského kolagenu. Kolagenní peptidy jsou předštěpeny na optimální velikost, takže se efektivně vstřebávají a dostávají tam, kde jsou potřeba — do pleti, kloubů a pojivových tkání.",
+      "sk": "Základom tohto kolagénového beauty drinku je hydrolyzovaný rybí kolagén Peptan®, ktorý patrí medzi najlepšie vstrebateľné formy morského kolagénu. Kolagénové peptidy sú predštiepené na optimálnu veľkosť, takže sa efektívne vstrebávajú a dostávajú tam, kde sú potrebné — do pleti, kĺbov a spojivových tkanív.",
+      "en": "The basis of this collagen beauty drink is hydrolysed fish collagen Peptan®, one of the most absorbable forms of marine collagen. The collagen peptides are pre-broken down to an optimal size, so they are efficiently absorbed and reach where they are needed — the skin, joints and connective tissues.",
+      "de": "Die Basis dieses Kollagen-Beauty-Drinks ist hydrolysiertes Fischkollagen Peptan®, das zu den am besten aufnehmbaren Formen von Meereskollagen gehört. Die Kollagenpeptide sind auf eine optimale Größe vorgespalten, sodass sie effizient aufgenommen werden und dorthin gelangen, wo sie benötigt werden – in Haut, Gelenke und Bindegewebe.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 170,
+      "source": "Pravidelné doplňování kolagenu podporuje pružnost, pevnost a hydrataci pokožky, pomáhá redukovat jemné linky a zároveň podporuje vlasy, nehty i pohybový aparát.",
+      "sk": "Pravidelné dopĺňanie kolagénu podporuje pružnosť, pevnosť a hydratáciu pokožky, pomáha redukovať jemné linky a zároveň podporuje vlasy, nechty aj pohybový aparát.",
+      "en": "Regular collagen supplementation supports skin elasticity, firmness and hydration, helps reduce fine lines and also supports hair, nails and the musculoskeletal system.",
+      "de": "Eine regelmäßige Kollagenergänzung unterstützt die Elastizität, Festigkeit und Feuchtigkeitsversorgung der Haut, hilft, feine Linien zu reduzieren, und unterstützt zugleich Haare, Nägel und den Bewegungsapparat.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 171,
+      "source": "Nikotinamid ribosid je moderní NAD+ prekurzor, který podporuje buněčnou energii, regeneraci a procesy spojované s dlouhověkostí. NAD+ je koenzym důležitý pro energetický metabolismus buněk a jeho hladina se s věkem přirozeně snižuje.",
+      "sk": "Nikotínamid ribozid je moderný NAD+ prekurzor, ktorý podporuje bunkovú energiu, regeneráciu a procesy spájané s dlhovekosťou. NAD+ je koenzým dôležitý pre energetický metabolizmus buniek a jeho hladina sa s vekom prirodzene znižuje.",
+      "en": "Nicotinamide riboside is a modern NAD+ precursor that supports cellular energy, regeneration and processes associated with longevity. NAD+ is a coenzyme important for cellular energy metabolism, and its levels naturally decline with age.",
+      "de": "Nicotinamid-Ribosid ist eine moderne NAD+-Vorstufe, die zelluläre Energie, Regeneration und mit Langlebigkeit verbundene Prozesse unterstützt. NAD+ ist ein für den zellulären Energiestoffwechsel wichtiges Coenzym, dessen Spiegel mit zunehmendem Alter natürlich abnimmt.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 172,
+      "source": "Doplnění NAD+ prekurzoru pomáhá podporovat vitalitu, regeneraci organismu a přirozenou obnovu buněk. Beauty & Longevity NAD+ tak podporuje nejen vzhled, ale i energii a fungování organismu zevnitř.",
+      "sk": "Doplnenie NAD+ prekurzora pomáha podporovať vitalitu, regeneráciu organizmu a prirodzenú obnovu buniek. Beauty & Longevity NAD+ tak podporuje nielen vzhľad, ale aj energiu a fungovanie organizmu zvnútra.",
+      "en": "Supplementing an NAD+ precursor helps support vitality, recovery of the body and natural cell renewal. Beauty & Longevity NAD+ therefore supports not only appearance, but also energy and the body's functioning from within.",
+      "de": "Die Ergänzung einer NAD+-Vorstufe hilft, Vitalität, die Regeneration des Körpers und die natürliche Zellerneuerung zu unterstützen. Beauty & Longevity NAD+ unterstützt somit nicht nur das Aussehen, sondern auch Energie und Körperfunktionen von innen.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 173,
+      "source": "Kyselina hyaluronová je přirozenou součástí pokožky a pomáhá vázat vodu v tkáních. Díky tomu podporuje hloubkovou hydrataci, pružnost a svěží vzhled pleti.",
+      "sk": "Kyselina hyalurónová je prirodzenou súčasťou pokožky a pomáha viazať vodu v tkanivách. Vďaka tomu podporuje hĺbkovú hydratáciu, pružnosť a svieži vzhľad pleti.",
+      "en": "Hyaluronic acid is a natural component of the skin and helps bind water in the tissues. This supports deep hydration, elasticity and fresh-looking skin.",
+      "de": "Hyaluronsäure ist ein natürlicher Bestandteil der Haut und hilft, Wasser im Gewebe zu binden. Dadurch unterstützt sie eine intensive Feuchtigkeitsversorgung, Elastizität und ein frisches Hautbild.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 174,
+      "source": "Ve spojení s mořským kolagenem vytváří silnou kombinaci pro podporu mladistvého vzhledu pokožky a redukci pocitu suché nebo unavené pleti.",
+      "sk": "V spojení s morským kolagénom vytvára silnú kombináciu na podporu mladistvého vzhľadu pokožky a zníženie pocitu suchej alebo unavenej pleti.",
+      "en": "Together with marine collagen, it forms a powerful combination to support a youthful appearance of the skin and reduce the feeling of dry or tired skin.",
+      "de": "Zusammen mit Meereskollagen bildet sie eine starke Kombination zur Unterstützung eines jugendlichen Hautbildes und zur Verringerung des Gefühls trockener oder müder Haut.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 175,
+      "source": "Trojice silných antioxidantů podporuje ochranu buněk před oxidačním stresem a zároveň podporuje vitalitu organismu i pokožky.",
+      "sk": "Trojica silných antioxidantov podporuje ochranu buniek pred oxidačným stresom a zároveň podporuje vitalitu organizmu aj pokožky.",
+      "en": "Three powerful antioxidants support cell protection against oxidative stress while also supporting the vitality of the body and skin.",
+      "de": "Drei starke Antioxidantien unterstützen den Schutz der Zellen vor oxidativem Stress und zugleich die Vitalität von Körper und Haut.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 176,
+      "source": "Resveratrol z extraktu rdesna japonského je známý svými anti-aging účinky a podporou zdravého stárnutí. Koenzym Q10 podporuje buněčnou energii a mladistvý vzhled pleti. Kyselina alfa-lipoová působí jako univerzální antioxidant ve vodném i tukovém prostředí, čímž doplňuje komplexní ochranu buněk.",
+      "sk": "Resveratrol z extraktu pohánkovca japonského je známy svojimi anti-aging účinkami a podporou zdravého starnutia. Koenzým Q10 podporuje bunkovú energiu a mladistvý vzhľad pleti. Kyselina alfa-lipoová pôsobí ako univerzálny antioxidant vo vodnom aj tukovom prostredí, čím dopĺňa komplexnú ochranu buniek.",
+      "en": "Resveratrol from Japanese knotweed extract is known for its anti-ageing effects and support for healthy ageing. Coenzyme Q10 supports cellular energy and a youthful skin appearance. Alpha-lipoic acid acts as a universal antioxidant in both aqueous and fatty environments, complementing comprehensive cell protection.",
+      "de": "Resveratrol aus Japanischem Staudenknöterich ist für seine Anti-Aging-Wirkungen und die Unterstützung gesunden Alterns bekannt. Coenzym Q10 unterstützt zelluläre Energie und ein jugendliches Hautbild. Alpha-Liponsäure wirkt als universelles Antioxidans in wässriger und fetthaltiger Umgebung und ergänzt so den umfassenden Zellschutz.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 177,
+      "source": "MSM je organická forma síry, která je důležitá pro tvorbu kolagenu a keratinu — základních stavebních látek vlasů, nehtů a pokožky.",
+      "sk": "MSM je organická forma síry, ktorá je dôležitá pre tvorbu kolagénu a keratínu — základných stavebných látok vlasov, nechtov a pokožky.",
+      "en": "MSM is an organic form of sulphur that is important for the formation of collagen and keratin — the basic building blocks of hair, nails and skin.",
+      "de": "MSM ist eine organische Form von Schwefel, die für die Bildung von Kollagen und Keratin wichtig ist – den grundlegenden Bausteinen von Haaren, Nägeln und Haut.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 178,
+      "source": "Podporuje pružnost kloubů, regeneraci po fyzické zátěži a společně s kolagenem a kyselinou hyaluronovou tvoří důležitou součást komplexní péče o krásu i pohybový aparát.",
+      "sk": "Podporuje pružnosť kĺbov, regeneráciu po fyzickej záťaži a spolu s kolagénom a kyselinou hyalurónovou tvorí dôležitú súčasť komplexnej starostlivosti o krásu aj pohybový aparát.",
+      "en": "It supports joint flexibility and recovery after physical exertion and, together with collagen and hyaluronic acid, forms an important part of comprehensive care for beauty and the musculoskeletal system.",
+      "de": "Es unterstützt die Beweglichkeit der Gelenke und die Regeneration nach körperlicher Belastung und bildet zusammen mit Kollagen und Hyaluronsäure einen wichtigen Bestandteil einer umfassenden Pflege für Schönheit und Bewegungsapparat.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 179,
+      "source": "Koncentrát kokosové vody CocoMineral® dodává tělu přirozené elektrolyty, jako je draslík, sodík, hořčík a vápník. Ty podporují optimální hydrataci organismu, rovnováhu minerálů a správné fungování buněk.",
+      "sk": "Koncentrát kokosovej vody CocoMineral® dodáva telu prirodzené elektrolyty, ako sú draslík, sodík, horčík a vápnik. Tie podporujú optimálnu hydratáciu organizmu, rovnováhu minerálov a správne fungovanie buniek.",
+      "en": "CocoMineral® coconut water concentrate supplies the body with natural electrolytes such as potassium, sodium, magnesium and calcium. These support optimal hydration of the body, mineral balance and proper cell function.",
+      "de": "CocoMineral® Kokoswasserkonzentrat versorgt den Körper mit natürlichen Elektrolyten wie Kalium, Natrium, Magnesium und Calcium. Diese unterstützen eine optimale Flüssigkeitsversorgung des Körpers, das Mineralstoffgleichgewicht und eine normale Zellfunktion.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 180,
+      "source": "Hydratace přitom hraje důležitou roli nejen pro energii a vitalitu, ale i pro svěží vzhled pokožky a celkový komfort organismu během dne.",
+      "sk": "Hydratácia pritom zohráva dôležitú úlohu nielen pre energiu a vitalitu, ale aj pre svieži vzhľad pokožky a celkový komfort organizmu počas dňa.",
+      "en": "Hydration plays an important role not only in energy and vitality but also in fresh-looking skin and the body's overall comfort throughout the day.",
+      "de": "Die Flüssigkeitsversorgung spielt dabei nicht nur für Energie und Vitalität eine wichtige Rolle, sondern auch für ein frisches Hautbild und das allgemeine Wohlbefinden des Körpers im Tagesverlauf.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 184,
+      "source": "Lactose free",
+      "sk": "Bez laktózy",
+      "en": "Lactose free",
+      "de": "Laktosefrei",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Deklarace neobsahuje/free-from vyžaduje ověřenou etiketu a specifikaci; pšeničný extrakt nebo přídatné látky ve složení jsou důvod ke kontrole."
+    },
+    {
+      "id": 185,
+      "source": "Additives free",
+      "sk": "Bez prídavných látok",
+      "en": "Additive free",
+      "de": "Ohne Zusatzstoffe",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Deklarace neobsahuje/free-from vyžaduje ověřenou etiketu a specifikaci; pšeničný extrakt nebo přídatné látky ve složení jsou důvod ke kontrole."
+    },
+    {
+      "id": 186,
+      "source": "GMO free",
+      "sk": "Bez GMO",
+      "en": "GMO free",
+      "de": "Gentechnikfrei",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Deklarace neobsahuje/free-from vyžaduje ověřenou etiketu a specifikaci; pšeničný extrakt nebo přídatné látky ve složení jsou důvod ke kontrole."
+    },
+    {
+      "id": 187,
+      "source": "Gluten free",
+      "sk": "Bez lepku",
+      "en": "Gluten free",
+      "de": "Glutenfrei",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Deklarace neobsahuje/free-from vyžaduje ověřenou etiketu a specifikaci; pšeničný extrakt nebo přídatné látky ve složení jsou důvod ke kontrole."
+    },
+    {
+      "id": 188,
+      "source": "Sugar free",
+      "sk": "Bez cukru",
+      "en": "Sugar free",
+      "de": "Zuckerfrei",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Deklarace neobsahuje/free-from vyžaduje ověřenou etiketu a specifikaci; pšeničný extrakt nebo přídatné látky ve složení jsou důvod ke kontrole."
+    },
+    {
+      "id": 190,
+      "source": "Doporučená denní dávka: 1 sáček (9 g) rozmíchat v 300–400 ml vody. Doporučená denní dávka se nesmí překročit. Vhodné používat dlouhodobě, minimálně 3 měsíce.",
+      "sk": "Odporúčaná denná dávka: 1 vrecko (9 g) rozmiešať v 300–400 ml vody. Odporúčaná denná dávka sa nesmie prekročiť. Vhodné na dlhodobé užívanie, minimálne 3 mesiace.",
+      "en": "Recommended daily dose: mix 1 sachet (9 g) in 300–400 ml of water. Do not exceed the recommended daily dose. Suitable for long-term use, for at least 3 months.",
+      "de": "Empfohlene Tagesdosis: 1 Beutel (9 g) in 300–400 ml Wasser einrühren. Die empfohlene Tagesdosis darf nicht überschritten werden. Für die langfristige Einnahme über mindestens 3 Monate geeignet.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 194,
+      "source": "Nevhodné v těhotenství, během kojení a při alergii na některou z použitých surovin. Vhodné pro děti od 8 let. Tento výrobek není náhradou vyvážené a pestré stravy.",
+      "sk": "Nevhodné v tehotenstve, počas dojčenia a pri alergii na niektorú z použitých surovín. Vhodné pre deti od 8 rokov. Tento výrobok nie je náhradou vyváženej a pestrej stravy.",
+      "en": "Not suitable during pregnancy, breastfeeding or if you are allergic to any of the ingredients used. Suitable for children aged 8 and over. This product is not a substitute for a balanced and varied diet.",
+      "de": "Nicht geeignet während der Schwangerschaft, in der Stillzeit oder bei einer Allergie gegen einen der verwendeten Inhaltsstoffe. Für Kinder ab 8 Jahren geeignet. Dieses Produkt ist kein Ersatz für eine ausgewogene und abwechslungsreiche Ernährung.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Bezpečnost: zdroj uvádí děti od 8 let při 300 mg NR na dávku; vlastní etiketa SKU 600 nebyla doložena. Nepotvrzovat vhodnost pro děti bez kontroly."
+    },
+    {
+      "id": 259,
+      "source": "Přestaňte hledat další krém na pleť a začněte řešit to, co se děje pod povrchem.",
+      "sk": "Prestaňte hľadať ďalší krém na pleť a začnite riešiť to, čo sa deje pod povrchom.",
+      "en": "Stop looking for another face cream and start addressing what happens beneath the surface.",
+      "de": "Suchen Sie nicht länger nach der nächsten Gesichtscreme, sondern kümmern Sie sich darum, was unter der Oberfläche geschieht.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 260,
+      "source": "je kolagenový beauty drink pro ženy, které tohle pochopily. Spojuje sílu mořského kolagenu, NAD+ prekurzoru a více než 12 aktivních látek do jediné ranní skleničky s lahodnou příchutí malin, která se stane přirozenou součástí vaší každodenní rutiny. Není to jen kolagenový nápoj. Je to komplexní nutrikosmetický nápoj navržený tak, aby podpořil krásu, vitalitu a dlouhověkost zevnitř, a to v dávce, která nahradí až 16 tablet denně.",
+      "sk": "je kolagénový beauty drink pre ženy, ktoré to pochopili. Spája silu morského kolagénu, NAD+ prekurzora a viac než 12 aktívnych látok do jediného ranného pohára s lahodnou malinovou príchuťou, ktorý sa stane prirodzenou súčasťou vašej každodennej rutiny. Nie je to len kolagénový nápoj. Je to komplexný nutrikozmetický nápoj navrhnutý tak, aby podporil krásu, vitalitu a dlhovekosť zvnútra, a to v dávke, ktorá nahradí až 16 tabliet denne.",
+      "en": "is a collagen beauty drink for women who understand this. It combines the power of marine collagen, an NAD+ precursor and more than 12 active ingredients in a single morning glass with a delicious raspberry flavour that will become a natural part of your daily routine. It is not just a collagen drink. It is a comprehensive nutricosmetic drink designed to support beauty, vitality and longevity from within, in a serving that replaces up to 16 tablets a day.",
+      "de": "ist ein Kollagen-Beauty-Drink für Frauen, die das verstanden haben. Er vereint die Kraft von Meereskollagen, einer NAD+-Vorstufe und mehr als 12 aktiven Inhaltsstoffen in einem einzigen Glas am Morgen mit köstlichem Himbeergeschmack, das zu einem natürlichen Bestandteil Ihrer täglichen Routine wird. Es ist nicht nur ein Kollagengetränk. Es ist ein umfassendes nutrikosmetisches Getränk, das Schönheit, Vitalität und Langlebigkeit von innen unterstützen soll – in einer Portion, die bis zu 16 Tabletten täglich ersetzt.",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Neověřená ekvivalence až 16 tablet denně; chybí průkazný podklad pro SKU 600."
+    },
+    {
+      "id": 261,
+      "source": "Vitalita a energie",
+      "sk": "Vitalita a energia",
+      "en": "Vitality and energy",
+      "de": "Vitalität und Energie",
+      "source_files": [
+        "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 281,
+      "source": "Good Sleep & Night Burn kombinuje",
+      "sk": "Good Sleep & Night Burn kombinuje",
+      "en": "Good Sleep & Night Burn combines",
+      "de": "Good Sleep & Night Burn vereint",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 282,
+      "source": "klidný spánek",
+      "sk": "pokojný spánok",
+      "en": "restful sleep",
+      "de": "erholsamen Schlaf",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 284,
+      "source": "kontrolu večerních chutí",
+      "sk": "kontrolu večerných chutí",
+      "en": "control of evening cravings",
+      "de": "die Kontrolle abendlicher Gelüste",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 286,
+      "source": "noční spalování tuků",
+      "sk": "nočné spaľovanie tukov",
+      "en": "night-time fat burning",
+      "de": "nächtliche Fettverbrennung",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 287,
+      "source": "v jednom produktu. Bylinná směs pro zklidnění nervové soustavy je doplněna o",
+      "sk": "v jednom produkte. Bylinná zmes na upokojenie nervovej sústavy je doplnená o",
+      "en": "in one product. The herbal blend for calming the nervous system is complemented by",
+      "de": "in einem Produkt. Die Kräutermischung zur Beruhigung des Nervensystems enthält außerdem",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 288,
+      "source": "HCA z garcinie",
+      "sk": "HCA z garcínie",
+      "en": "HCA from garcinia",
+      "de": "HCA aus Garcinia",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 289,
+      "source": "pro pocit sytosti a kontrolu chuti k jídlu.",
+      "sk": "pre pocit sýtosti a kontrolu chuti do jedla.",
+      "en": "for satiety and appetite control.",
+      "de": "für ein Sättigungsgefühl und die Kontrolle des Appetits.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 290,
+      "source": "Hlavní účinky Good Sleep & Night Burn",
+      "sk": "Hlavné účinky Good Sleep & Night Burn",
+      "en": "Main benefits of Good Sleep & Night Burn",
+      "de": "Die wichtigsten Wirkungen von Good Sleep & Night Burn",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 291,
+      "source": "Zlepšuje kvalitu spánku",
+      "sk": "Zlepšuje kvalitu spánku",
+      "en": "Improves sleep quality",
+      "de": "Verbessert die Schlafqualität",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 292,
+      "source": "Noční spalování tuků",
+      "sk": "Nočné spaľovanie tukov",
+      "en": "Night-time fat burning",
+      "de": "Nächtliche Fettverbrennung",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 293,
+      "source": "Podporuje detoxikaci",
+      "sk": "Podporuje detoxikáciu",
+      "en": "Supports detoxification",
+      "de": "Unterstützt die Entgiftung",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 294,
+      "source": "Snižuje chuť k jídlu",
+      "sk": "Znižuje chuť do jedla",
+      "en": "Reduces appetite",
+      "de": "Verringert den Appetit",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 295,
+      "source": "Psychická pohoda",
+      "sk": "Psychická pohoda",
+      "en": "Mental well-being",
+      "de": "Psychisches Wohlbefinden",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 296,
+      "source": "Bylinné extrakty (mučenka, meduňka, chmel, kozlík) zklidňují nervovou soustavu, zlepšují usínání a prohlubují spánek. HCA z garcinie podporuje pocit sytosti a kontrolu chutí večer, zatímco wakame a hloh doplňují minerály a antioxidanty pro metabolismus tuků a regeneraci během noci.",
+      "sk": "Bylinné extrakty (mučenka, medovka, chmeľ, valeriána) upokojujú nervovú sústavu, zlepšujú zaspávanie a prehlbujú spánok. HCA z garcínie podporuje pocit sýtosti a kontrolu chutí večer, zatiaľ čo wakame a hloh dopĺňajú minerály a antioxidanty pre metabolizmus tukov a regeneráciu počas noci.",
+      "en": "Herbal extracts (passionflower, lemon balm, hops and valerian) calm the nervous system, improve falling asleep and deepen sleep. HCA from garcinia supports satiety and control of evening cravings, while wakame and hawthorn provide minerals and antioxidants for fat metabolism and overnight recovery.",
+      "de": "Kräuterextrakte (Passionsblume, Melisse, Hopfen und Baldrian) beruhigen das Nervensystem, erleichtern das Einschlafen und vertiefen den Schlaf. HCA aus Garcinia unterstützt das Sättigungsgefühl und die Kontrolle abendlicher Gelüste, während Wakame und Weißdorn Mineralstoffe und Antioxidantien für den Fettstoffwechsel und die nächtliche Regeneration liefern.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 297,
+      "source": "Good Sleep & Night Burn pomáhá usnout rychleji, spát kvalitněji a zároveň brzdí večerní chuť k jídlu. Kombinace HCA a bylin podporuje spalování tuků v noci, psychickou pohodu a lepší ranní energii.",
+      "sk": "Good Sleep & Night Burn pomáha zaspať rýchlejšie, spať kvalitnejšie a zároveň tlmí večernú chuť do jedla. Kombinácia HCA a bylín podporuje spaľovanie tukov v noci, psychickú pohodu a lepšiu rannú energiu.",
+      "en": "Good Sleep & Night Burn helps you fall asleep faster and sleep better while curbing evening appetite. The combination of HCA and herbs supports night-time fat burning, mental well-being and better morning energy.",
+      "de": "Good Sleep & Night Burn hilft, schneller einzuschlafen und besser zu schlafen, und zügelt zugleich den abendlichen Appetit. Die Kombination aus HCA und Kräutern unterstützt die nächtliche Fettverbrennung, das psychische Wohlbefinden und mehr Energie am Morgen.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 298,
+      "source": "Snižuje chuť k jídlu, zejména večer",
+      "sk": "Znižuje chuť do jedla, najmä večer",
+      "en": "Reduces appetite, especially in the evening",
+      "de": "Verringert den Appetit, besonders am Abend",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 299,
+      "source": "Podporuje noční spalování tuků",
+      "sk": "Podporuje nočné spaľovanie tukov",
+      "en": "Supports night-time fat burning",
+      "de": "Unterstützt die nächtliche Fettverbrennung",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 300,
+      "source": "Zlepšuje usínání a kvalitu spánku",
+      "sk": "Zlepšuje zaspávanie a kvalitu spánku",
+      "en": "Improves falling asleep and sleep quality",
+      "de": "Erleichtert das Einschlafen und verbessert die Schlafqualität",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 301,
+      "source": "Pomáhá zvládat stresové přibírání",
+      "sk": "Pomáha zvládať priberanie zo stresu",
+      "en": "Helps manage stress-related weight gain",
+      "de": "Hilft, stressbedingte Gewichtszunahme zu bewältigen",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 302,
+      "source": "Navozuje pocit sytosti po menší porci",
+      "sk": "Navodzuje pocit sýtosti po menšej porcii",
+      "en": "Promotes a feeling of fullness after a smaller portion",
+      "de": "Fördert ein Sättigungsgefühl nach einer kleineren Portion",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 303,
+      "source": "Podporuje psychickou pohodu",
+      "sk": "Podporuje psychickú pohodu",
+      "en": "Supports mental well-being",
+      "de": "Unterstützt das psychische Wohlbefinden",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 331,
+      "source": "HCA z garcinie podporuje kontrolu chuti k jídlu, pocit sytosti a pomáhá omezit večerní přejídání, zároveň podporuje metabolismus tuků.",
+      "sk": "HCA z garcínie podporuje kontrolu chuti do jedla, pocit sýtosti a pomáha obmedziť večerné prejedanie, zároveň podporuje metabolizmus tukov.",
+      "en": "HCA from garcinia supports appetite control and satiety, helps limit evening overeating and also supports fat metabolism.",
+      "de": "HCA aus Garcinia unterstützt die Appetitkontrolle und das Sättigungsgefühl, hilft, übermäßiges Essen am Abend einzuschränken, und unterstützt zugleich den Fettstoffwechsel.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 332,
+      "source": "HCA – kontrola chutí, pocit sytosti a metabolismus tuků.",
+      "sk": "HCA – kontrola chutí, pocit sýtosti a metabolizmus tukov.",
+      "en": "HCA – craving control, satiety and fat metabolism.",
+      "de": "HCA – Kontrolle von Gelüsten, Sättigungsgefühl und Fettstoffwechsel.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 333,
+      "source": "Přírodní sedativum podporující uvolnění a hlubší spánek, s antioxidanty chránícími buňky před oxidačním stresem.",
+      "sk": "Prírodné sedatívum podporujúce uvoľnenie a hlbší spánok, s antioxidantmi chrániacimi bunky pred oxidačným stresom.",
+      "en": "A natural sedative that supports relaxation and deeper sleep, with antioxidants that protect cells against oxidative stress.",
+      "de": "Ein natürliches Beruhigungsmittel, das Entspannung und tieferen Schlaf unterstützt, mit Antioxidantien zum Schutz der Zellen vor oxidativem Stress.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Kritické: výraz sedativum/beruhigungsmittel implikuje léčivý účinek; před zveřejněním nutná odborná a právní kontrola."
+    },
+    {
+      "id": 334,
+      "source": "Přírodní sedativum pro uvolnění a hlubší spánek.",
+      "sk": "Prírodné sedatívum na uvoľnenie a hlbší spánok.",
+      "en": "A natural sedative for relaxation and deeper sleep.",
+      "de": "Natürliches Beruhigungsmittel für Entspannung und tieferen Schlaf.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Kritické: výraz sedativum/beruhigungsmittel implikuje léčivý účinek; před zveřejněním nutná odborná a právní kontrola."
+    },
+    {
+      "id": 335,
+      "source": "Mořská řasa bohatá na vitaminy a minerály (vápník, hořčík, jód). Podporuje metabolismus a přirozenou detoxikaci.",
+      "sk": "Morská riasa bohatá na vitamíny a minerály (vápnik, horčík, jód). Podporuje metabolizmus a prirodzenú detoxikáciu.",
+      "en": "A seaweed rich in vitamins and minerals (calcium, magnesium and iodine). Supports metabolism and natural detoxification.",
+      "de": "Eine an Vitaminen und Mineralstoffen (Calcium, Magnesium, Jod) reiche Meeresalge. Unterstützt den Stoffwechsel und die natürliche Entgiftung.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 336,
+      "source": "Mořská řasa – minerály, metabolismus a detoxikace.",
+      "sk": "Morská riasa – minerály, metabolizmus a detoxikácia.",
+      "en": "Seaweed – minerals, metabolism and detoxification.",
+      "de": "Meeresalge – Mineralstoffe, Stoffwechsel und Entgiftung.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 337,
+      "source": "Zklidňuje nervovou soustavu, snižuje napětí a podporuje kvalitní spánek i regeneraci.",
+      "sk": "Upokojuje nervovú sústavu, znižuje napätie a podporuje kvalitný spánok aj regeneráciu.",
+      "en": "Calms the nervous system, reduces tension and supports quality sleep and recovery.",
+      "de": "Beruhigt das Nervensystem, verringert Anspannung und unterstützt guten Schlaf sowie Regeneration.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 338,
+      "source": "Zklidňuje nervy a podporuje kvalitní spánek.",
+      "sk": "Upokojuje nervy a podporuje kvalitný spánok.",
+      "en": "Calms the nerves and supports quality sleep.",
+      "de": "Beruhigt die Nerven und unterstützt guten Schlaf.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 339,
+      "source": "Podporuje metabolismus tuků a trávení, obsahuje antioxidanty pro imunitu a kardiovaskulární podporu.",
+      "sk": "Podporuje metabolizmus tukov a trávenie, obsahuje antioxidanty pre imunitu a podporu srdcovo-cievneho systému.",
+      "en": "Supports fat metabolism and digestion and contains antioxidants for immunity and cardiovascular support.",
+      "de": "Unterstützt den Fettstoffwechsel und die Verdauung und enthält Antioxidantien für das Immunsystem und zur Unterstützung des Herz-Kreislauf-Systems.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 340,
+      "source": "Metabolismus tuků, trávení a antioxidanty.",
+      "sk": "Metabolizmus tukov, trávenie a antioxidanty.",
+      "en": "Fat metabolism, digestion and antioxidants.",
+      "de": "Fettstoffwechsel, Verdauung und Antioxidantien.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 341,
+      "source": "Antioxidanty a vláknina podporují trávení, lehké diuretické působení pomáhá s odvodněním a detoxikací.",
+      "sk": "Antioxidanty a vláknina podporujú trávenie, mierne močopudné pôsobenie pomáha s odvodnením a detoxikáciou.",
+      "en": "Antioxidants and fibre support digestion, while a mild diuretic action helps reduce water retention and supports detoxification.",
+      "de": "Antioxidantien und Ballaststoffe unterstützen die Verdauung; eine leicht harntreibende Wirkung hilft bei der Entwässerung und Entgiftung.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 342,
+      "source": "Antioxidanty a vláknina – trávení a odvodnění.",
+      "sk": "Antioxidanty a vláknina – trávenie a odvodnenie.",
+      "en": "Antioxidants and fibre – digestion and reduction of water retention.",
+      "de": "Antioxidantien und Ballaststoffe – Verdauung und Entwässerung.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 343,
+      "source": "Tradičně se používá pro lepší usínání. Obsah flavonoidů napomáhá zklidnění nervové soustavy a regeneraci během noci.",
+      "sk": "Tradične sa používa na lepšie zaspávanie. Obsah flavonoidov napomáha upokojeniu nervovej sústavy a regenerácii počas noci.",
+      "en": "Traditionally used to help with falling asleep. Its flavonoid content helps calm the nervous system and supports overnight recovery.",
+      "de": "Wird traditionell für leichteres Einschlafen verwendet. Der Flavonoidgehalt trägt zur Beruhigung des Nervensystems und zur nächtlichen Regeneration bei.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 344,
+      "source": "Tradičně pro lepší usínání a zklidnění.",
+      "sk": "Tradične na lepšie zaspávanie a upokojenie.",
+      "en": "Traditionally for easier falling asleep and calming.",
+      "de": "Traditionell für leichteres Einschlafen und Beruhigung.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 345,
+      "source": "Meduňka lékařská tradičně zklidňuje nervovou soustavu, pomáhá zvládat stres a napětí a podporuje klidné usínání i trávení.",
+      "sk": "Medovka lekárska tradične upokojuje nervovú sústavu, pomáha zvládať stres a napätie a podporuje pokojné zaspávanie aj trávenie.",
+      "en": "Lemon balm traditionally calms the nervous system, helps manage stress and tension and supports peaceful falling asleep and digestion.",
+      "de": "Zitronenmelisse beruhigt traditionell das Nervensystem, hilft bei der Bewältigung von Stress und Anspannung und unterstützt ruhiges Einschlafen sowie die Verdauung.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 346,
+      "source": "Zklidnění, úleva od stresu a klidný spánek.",
+      "sk": "Upokojenie, úľava od stresu a pokojný spánok.",
+      "en": "Calming, stress relief and restful sleep.",
+      "de": "Beruhigung, Stresslinderung und erholsamer Schlaf.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 380,
+      "source": "Užijte si klidnou noc a spalujte kalorie i během odpočinku.",
+      "sk": "Užite si pokojnú noc a spaľujte kalórie aj počas odpočinku.",
+      "en": "Enjoy a restful night and burn calories even while resting.",
+      "de": "Genießen Sie eine ruhige Nacht und verbrennen Sie auch während der Ruhe Kalorien.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    },
+    {
+      "id": 381,
+      "source": "Good Sleep & Night Burn podporuje optimální spánek a zároveň pracuje na formování vaší postavy. Bylinná směs pro zklidnění nervové soustavy je doplněna o HCA z garcinie pro pocit sytosti a kontrolu večerních chutí – aby každé ráno přinášelo novou energii na cestě k vysněné postavě.",
+      "sk": "Good Sleep & Night Burn podporuje optimálny spánok a zároveň pracuje na formovaní vašej postavy. Bylinná zmes na upokojenie nervovej sústavy je doplnená o HCA z garcínie pre pocit sýtosti a kontrolu večerných chutí – aby každé ráno prinášalo novú energiu na ceste k vysnívanej postave.",
+      "en": "Good Sleep & Night Burn supports optimal sleep while also working to shape your figure. The herbal blend for calming the nervous system is complemented by HCA from garcinia for satiety and control of evening cravings – so that every morning brings new energy on the way to your desired figure.",
+      "de": "Good Sleep & Night Burn unterstützt einen optimalen Schlaf und arbeitet zugleich an der Formung Ihrer Figur. Die Kräutermischung zur Beruhigung des Nervensystems wird durch HCA aus Garcinia für ein Sättigungsgefühl und die Kontrolle abendlicher Gelüste ergänzt – damit jeder Morgen neue Energie auf dem Weg zu Ihrer Wunschfigur bringt.",
+      "source_files": [
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html"
+      ],
+      "review_status": "interní pracovní překlad, nezveřejňovat bez schválení",
+      "concern": "Převzaté účinkové nebo podpůrné tvrzení / podklad k přezkumu. Překlad není právním schválením."
+    }
+  ],
+  "source_note_removals": [
+    {
+      "id": "550",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-sk.html",
+      "edits": [
+        {
+          "start": 845,
+          "end": 1067,
+          "before": "<div class=\"product-container gl-550-draft-notice\" role=\"note\"><p>PRACOVNÍ KOPIE · Historický text, nikoli schválení zdravotních tvrzení. Před publikací je nutná kontrola tvrzení a rozporů v předávacím protokolu.</p></div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "550",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-en.html",
+      "edits": [
+        {
+          "start": 845,
+          "end": 1067,
+          "before": "<div class=\"product-container gl-550-draft-notice\" role=\"note\"><p>PRACOVNÍ KOPIE · Historický text, nikoli schválení zdravotních tvrzení. Před publikací je nutná kontrola tvrzení a rozporů v předávacím protokolu.</p></div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "550",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-de.html",
+      "edits": [
+        {
+          "start": 845,
+          "end": 1067,
+          "before": "<div class=\"product-container gl-550-draft-notice\" role=\"note\"><p>PRACOVNÍ KOPIE · Historický text, nikoli schválení zdravotních tvrzení. Před publikací je nutná kontrola tvrzení a rozporů v předávacím protokolu.</p></div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-sk.html",
+      "edits": [
+        {
+          "start": 871,
+          "end": 1158,
+          "before": "<div class=\"product-container gl-draft-note\" role=\"note\"><p><strong>Interní historická pracovní kopie – nezveřejňovat bez kontroly.</strong> Účinková tvrzení a rozpory jsou zachovány pro revizi, nikoli právně schváleny. Vlastní etiketa a produktový claims podklad ID 600 chybí.</p></div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 17530,
+          "end": 17760,
+          "before": "<details class=\"gl-source-conflict\"><summary>Rozpor archivního textu – neplatí jako specifikace sáčku ID 600</summary><p class=\"cta-meta\">Balení: 270 g | 30 sáčků  ·  Délka kúry: 30 dní, doporučeno minimálně 3 měsíce</p></details>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-sk.html",
+      "edits": [
+        {
+          "start": 893,
+          "end": 1017,
+          "before": "<div class=\"gl-short-draft-note\" role=\"note\">Interní historická pracovní kopie – tvrzení nejsou schválena k publikaci.</div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 3539,
+          "end": 3890,
+          "before": "<details class=\"gl-source-conflict\"><summary>Historické doporučení kúry – není výdrž jednoho sáčku</summary><span class=\"maly-vydrz\"><img alt=\"délka kúry\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-zelena.png\"/>doporučená délka kúry: 30 dní, doporučeno minimálně 3 měsíce</span></details>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-en.html",
+      "edits": [
+        {
+          "start": 871,
+          "end": 1158,
+          "before": "<div class=\"product-container gl-draft-note\" role=\"note\"><p><strong>Interní historická pracovní kopie – nezveřejňovat bez kontroly.</strong> Účinková tvrzení a rozpory jsou zachovány pro revizi, nikoli právně schváleny. Vlastní etiketa a produktový claims podklad ID 600 chybí.</p></div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 17530,
+          "end": 17760,
+          "before": "<details class=\"gl-source-conflict\"><summary>Rozpor archivního textu – neplatí jako specifikace sáčku ID 600</summary><p class=\"cta-meta\">Balení: 270 g | 30 sáčků  ·  Délka kúry: 30 dní, doporučeno minimálně 3 měsíce</p></details>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-en.html",
+      "edits": [
+        {
+          "start": 893,
+          "end": 1017,
+          "before": "<div class=\"gl-short-draft-note\" role=\"note\">Interní historická pracovní kopie – tvrzení nejsou schválena k publikaci.</div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 3539,
+          "end": 3890,
+          "before": "<details class=\"gl-source-conflict\"><summary>Historické doporučení kúry – není výdrž jednoho sáčku</summary><span class=\"maly-vydrz\"><img alt=\"délka kúry\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-zelena.png\"/>doporučená délka kúry: 30 dní, doporučeno minimálně 3 měsíce</span></details>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-de.html",
+      "edits": [
+        {
+          "start": 871,
+          "end": 1158,
+          "before": "<div class=\"product-container gl-draft-note\" role=\"note\"><p><strong>Interní historická pracovní kopie – nezveřejňovat bez kontroly.</strong> Účinková tvrzení a rozpory jsou zachovány pro revizi, nikoli právně schváleny. Vlastní etiketa a produktový claims podklad ID 600 chybí.</p></div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 17530,
+          "end": 17760,
+          "before": "<details class=\"gl-source-conflict\"><summary>Rozpor archivního textu – neplatí jako specifikace sáčku ID 600</summary><p class=\"cta-meta\">Balení: 270 g | 30 sáčků  ·  Délka kúry: 30 dní, doporučeno minimálně 3 měsíce</p></details>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "600",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-de.html",
+      "edits": [
+        {
+          "start": 893,
+          "end": 1017,
+          "before": "<div class=\"gl-short-draft-note\" role=\"note\">Interní historická pracovní kopie – tvrzení nejsou schválena k publikaci.</div>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 3539,
+          "end": 3890,
+          "before": "<details class=\"gl-source-conflict\"><summary>Historické doporučení kúry – není výdrž jednoho sáčku</summary><span class=\"maly-vydrz\"><img alt=\"délka kúry\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-zelena.png\"/>doporučená délka kúry: 30 dní, doporučeno minimálně 3 měsíce</span></details>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-sk.html",
+      "edits": [
+        {
+          "start": 796,
+          "end": 1004,
+          "before": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 2061,
+          "end": 2205,
+          "before": "<p>Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.</p>",
+          "after": "",
+          "reason": "internal-review-sentence"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-sk.html",
+      "edits": [
+        {
+          "start": 783,
+          "end": 991,
+          "before": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-en.html",
+      "edits": [
+        {
+          "start": 796,
+          "end": 1004,
+          "before": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 2061,
+          "end": 2205,
+          "before": "<p>Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.</p>",
+          "after": "",
+          "reason": "internal-review-sentence"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-en.html",
+      "edits": [
+        {
+          "start": 783,
+          "end": 991,
+          "before": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-de.html",
+      "edits": [
+        {
+          "start": 796,
+          "end": 1004,
+          "before": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        },
+        {
+          "start": 2061,
+          "end": 2205,
+          "before": "<p>Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.</p>",
+          "after": "",
+          "reason": "internal-review-sentence"
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-de.html",
+      "edits": [
+        {
+          "start": 783,
+          "end": 991,
+          "before": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+          "after": "",
+          "reason": "internal-note-or-conflict"
+        }
+      ]
+    }
+  ]
+}

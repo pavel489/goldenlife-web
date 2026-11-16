@@ -1,0 +1,2930 @@
+{
+  "base": "f401c4e725c6cf22c895821f64e7efd581d48f16",
+  "translation_source_base": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "preserved_targets": [
+    {
+      "target": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-sk.html",
+      "sha256": "a7c61b5a3be8047592e55f481171299b621fc3b564b9d612c301fa97429a4be1"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-sk.html",
+      "sha256": "38a82ae996e7360c1abd4bf326c699d9f011919e033bb5fb982a2d247602c3ae"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-en.html",
+      "sha256": "c59d731a2c569946acd4aa45c1d8ad8bb62bd197e4e87639fe4b4ef31560083e"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-en.html",
+      "sha256": "0facc56cdf36db4191a52159bebe4a85079a1c5dc964b6b8e2e3ff6d554de3ad"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 30 dni/Golden-Life-Detoxikacni-Caj-30-Dni-de.html",
+      "sha256": "8f2766aa593abcc68b2e13095d084412d12b1c73e72ee1d8834ff2876080147b"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 30 dni/maly/Golden-Life-Detoxikacni-Caj-30-Dni-maly-de.html",
+      "sha256": "c9fa0c36e5c422fd8205c7223c513533151085721b223010c3952418edd1965c"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-sk.html",
+      "sha256": "65c7f27098b8f969535970806824f3695db83410230a5c940687030a44b2f238"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-sk.html",
+      "sha256": "44809cf7c8c2e8e08f82307641778475d407f5be8ad71c8fca5a50ef619a0375"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-en.html",
+      "sha256": "986849ad785e43ccdb339d37af04dca56c190f06ab929cea258af70b0b06ba08"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-en.html",
+      "sha256": "2039ea4196ab597a9cbe9523f3f1a5ae23f8622cb0f629ae2e33b3b5939b3166"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 7 dni/Golden-Life-Detoxikacni-Caj-7-Dni-de.html",
+      "sha256": "b5dd1609b863198c847a8eeba655009a849fc316da3468b8d1271c4f94583004"
+    },
+    {
+      "target": "web/Golden Life Detoxikacni caj 7 dni/maly/Golden-Life-Detoxikacni-Caj-7-Dni-maly-de.html",
+      "sha256": "933bda28d6274d35da0a93e327c28c270a12b77fc535b2d4767c3f165f5d255d"
+    },
+    {
+      "target": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-sk.html",
+      "sha256": "76098588d1f3127a0d5a9a0ce8e5438886c63114f464b4af738530e6b69ff25f"
+    },
+    {
+      "target": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-sk.html",
+      "sha256": "72163840c1fb98a27f4ad4d7f8fdff7042d14bafaa3136104a052dafa79347cb"
+    },
+    {
+      "target": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-en.html",
+      "sha256": "b77bd5e49c8990163f8cb9e8cfae56e7c356777cb7bdf8849420caa21d93262e"
+    },
+    {
+      "target": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-en.html",
+      "sha256": "0dd0bbdfdc482b5d3ba1d1cdc5c9a551d8fdaf38cf15ba705371417c10ef6d4b"
+    },
+    {
+      "target": "web/Golden Life pH Uro Balance caj/Golden-Life-pH-Uro-Balance-Caj-de.html",
+      "sha256": "c6b2c46f08d8b3145402a40f0a0da6b8450a6857c12369aff03b9ee815397ade"
+    },
+    {
+      "target": "web/Golden Life pH Uro Balance caj/maly/Golden-Life-pH-Uro-Balance-Caj-maly-de.html",
+      "sha256": "4a196c3121c62a4ff2eef479e5674ff5d8dacfd2ee6e932f53b417aef1bccbea"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-sk.html",
+      "sha256": "8a93143a9e1df2f5f05c309547b8a77395e06ba8263a74e24398d780c64eb4cb"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-sk.html",
+      "sha256": "6cf5129b551d8a7adf5dcc06046cafe325d0e4691b8c53da4a94a1df3e6d1347"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-en.html",
+      "sha256": "5cbffbcd2b11e97a7b0bdd9f2b30674851e35a2630796177659ed5cfe6beac20"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-en.html",
+      "sha256": "537efe6fe669a37d7d106420485b163b9f7b99da5bfdba0128bd2d2a2b337f58"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake cappuccino/Golden-Life-Slim-GLP1-Shake-cappuccino-de.html",
+      "sha256": "ae2db830234593ee049894cb763428727f54bc23fd9eb66f0b7484bdce780fc2"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake cappuccino/maly/Golden-Life-Slim-GLP1-Shake-cappuccino-maly-de.html",
+      "sha256": "f93b29553c5180be36c29c78911d3c7d362ce2ea7cfc52390df01d82d766c9b5"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-sk.html",
+      "sha256": "e93e0acf78668766eab9e246d3dceab0d81a638f08cdbace0db90ea387cd08e7"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-sk.html",
+      "sha256": "21dfcbe5de2bfdde0fb113b722f875f90bd19daa01b7a5daa67c5a7d5d92a1fd"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-en.html",
+      "sha256": "16c95a624e56e0b2b918423a8c3eb2db6d9563909eb71193a029220bbab535c1"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-en.html",
+      "sha256": "d4acc7aa4a1d6652fa1d204deb9143616dfe2c4b294b6a20180958c7477c6a63"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-de.html",
+      "sha256": "afd1fe107f8e1dbbb9cf79d6c53cb68eac7d7e7dbfc353e05fab2c89db1a00e7"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake kokos-bila-cokolada/maly/Golden-Life-Slim-GLP1-Shake-kokos-bila-cokolada-maly-de.html",
+      "sha256": "bccc75ac1e86a2e08fe2b8b6e940d410613fe63cc40377ae22241cf6c9831404"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-sk.html",
+      "sha256": "44242013cb1098e056eb5cffb151557c8205410a0c6cdb98003b5b6a8c8ebdab"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-sk.html",
+      "sha256": "fe0173bd1970385806c81fba0936f6b7e1e5d001b4b23e586bf456e53b06ae91"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-en.html",
+      "sha256": "ac247728c782bb82cbe689436364323f0fb12d3b9f1d860c472e16f39b47c27d"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-en.html",
+      "sha256": "79a908a39151151fc02ffcdf5d6907e7b113e82def6e58b9941c46729d78f8eb"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-de.html",
+      "sha256": "9f549599de91b182ca235fa1a2d784ab366a5ac247e9ac8f79783e6d495dfbe4"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Shake vanilka-jahoda/maly/Golden-Life-Slim-GLP1-Shake-vanilka-jahoda-maly-de.html",
+      "sha256": "ce80838541c0f7d0d6c3b4c48d793ba93f1166962b703e54c2fc945664b0ff42"
+    }
+  ],
+  "final_url_changes": [
+    {
+      "target": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "0558be39e87750b56f1df03de918659e463b49da1fd9ee96e8eca4f476577f3a",
+      "after_sha256": "0558be39e87750b56f1df03de918659e463b49da1fd9ee96e8eca4f476577f3a"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "7f3e65e1a97474e2bc3ebb5dc59dbeef43489d83b7baf056247d86d1e086306c",
+      "after_sha256": "7f3e65e1a97474e2bc3ebb5dc59dbeef43489d83b7baf056247d86d1e086306c"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "b1a169affd547516fb3926623723f798a093131eb6f5f18b3bc9e8accd581ec1",
+      "after_sha256": "b1a169affd547516fb3926623723f798a093131eb6f5f18b3bc9e8accd581ec1"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "95ef9a50496c2bc5af04f875b83042061c797d16fb2422fdd9a324ecb2d420c1",
+      "after_sha256": "95ef9a50496c2bc5af04f875b83042061c797d16fb2422fdd9a324ecb2d420c1"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "46f71d22394d7d2b9ec0675902ebebdc3e4797f127f0fb5f2ddf88d17f64622b",
+      "after_sha256": "46f71d22394d7d2b9ec0675902ebebdc3e4797f127f0fb5f2ddf88d17f64622b"
+    },
+    {
+      "target": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "7576860495dedc9bdd3fb79cda07f0ce1bd6407a63f157ff1a564114a77a70b7",
+      "after_sha256": "7576860495dedc9bdd3fb79cda07f0ce1bd6407a63f157ff1a564114a77a70b7"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "bb7701be1c6d8ac3c221cd2c074a9011dc02dabdd97bb6f2ccc4b8abac23824f",
+      "after_sha256": "cbacc58f19912f9f15d6499b5256811253609682412755c5176151bd29faa1b9"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "f701e4ce5e8f2e9496dd50849afac98f7c82b598661128f75e3b033d75a73006",
+      "after_sha256": "f701e4ce5e8f2e9496dd50849afac98f7c82b598661128f75e3b033d75a73006"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "2a66496a126318298d85fb14e58f415608acd2d3c8f6684c56897b5c09fdea51",
+      "after_sha256": "c7429bd0c1b42519940f31aebad83c43be65918009d0eaa69fddb5f56e188fe7"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "056ce48e865ff828f40981a1158180774cd0a2f25b4205e033fde6dba669a5e8",
+      "after_sha256": "056ce48e865ff828f40981a1158180774cd0a2f25b4205e033fde6dba669a5e8"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "1a69b707f6413ad3d696bef2fd9f0dacd5e88ea551e98c9c36d6111059c65aea",
+      "after_sha256": "f781a785192917212b90fc662c164cd07c4eb1f74045509076f0f4baf0820e87"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "8b952fd12b526533bbb302e11914b4302795a51816edd817849bf28da016329f",
+      "after_sha256": "8b952fd12b526533bbb302e11914b4302795a51816edd817849bf28da016329f"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/spalovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/f73d8f972b55-spalovani.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/celulitida.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/b98137323828-celulitida.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d5cfa7fc654e-vraskyikona-ruzova.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/40aa3b1f2622-nehty.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona-gl-ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/27a5d20595c3-ikonaCZ.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "cb7f458f438999a1e76807e03c560039499f7c92e0891fb35b4a0c9f4f9683bd",
+      "after_sha256": "b0c4c9c4d29dbe73543ec0102637f88309ec0f5662f841a97a4e4452d29f97f9"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "96f5143e870e8aed32b73dda9ea46fee31965be9d1dc221c58342b57f184f158",
+      "after_sha256": "96f5143e870e8aed32b73dda9ea46fee31965be9d1dc221c58342b57f184f158"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/spalovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/f73d8f972b55-spalovani.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/celulitida.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/b98137323828-celulitida.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d5cfa7fc654e-vraskyikona-ruzova.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/40aa3b1f2622-nehty.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona-gl-ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/27a5d20595c3-ikonaCZ.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "73afc2bf56e37b5a356a8e07d59692d3eecfdf1133356c98c076a29fc9c6ce86",
+      "after_sha256": "8aab578190f876f10910ae41252d53a19388bdc93b35803d9800df3e25314f6b"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "d7fb3e6776fd5c2699d147486ad356ea242c3177164eaa3583358b82963e78a0",
+      "after_sha256": "d7fb3e6776fd5c2699d147486ad356ea242c3177164eaa3583358b82963e78a0"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/spalovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/f73d8f972b55-spalovani.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/celulitida.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/b98137323828-celulitida.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d5cfa7fc654e-vraskyikona-ruzova.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/40aa3b1f2622-nehty.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona-gl-ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/27a5d20595c3-ikonaCZ.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "2dab5e60393fbdaceea85cbac935a5f19f93f399efbd7c44d595d98d52c71ce2",
+      "after_sha256": "74eadbb67af1d14d113bcf61bfb32c7a1e9abc2e1cf7dcd757f208384ea0e424"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "eafc12b5da66e54108d26d2137cb8cdb1d9b14165fd308d018e1113cfdd8105c",
+      "after_sha256": "eafc12b5da66e54108d26d2137cb8cdb1d9b14165fd308d018e1113cfdd8105c"
+    },
+    {
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "50b703c41892b8b607509e230b472c5022af0ffb953eb3516b2c1fb0416e0325",
+      "after_sha256": "16ee08a7b35086ca80c12ad7f702118fe267aa12ff9cfa45a502a5cec667183e"
+    },
+    {
+      "target": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "b588806b4f71e8d4cc3ccc4ded7edc25577e9a73138c08eaa67884a54720e9d9",
+      "after_sha256": "b588806b4f71e8d4cc3ccc4ded7edc25577e9a73138c08eaa67884a54720e9d9"
+    },
+    {
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "a3f6e2672d1f53a4a00937dc02e1d78fb0608bb3ded2219c4794ced87ffd42cf",
+      "after_sha256": "5c76cd75bca849ceaf6e26d31c770fd42050b6aa1248a6c3f7fb094a94957bc8"
+    },
+    {
+      "target": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "f4937a061bdd170f33004a1a4a744b38233a105597ea2efe86816eb780bde849",
+      "after_sha256": "f4937a061bdd170f33004a1a4a744b38233a105597ea2efe86816eb780bde849"
+    },
+    {
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "001319c7f3367a0ba71f191266ec00e79fb7c351b2a14023614c0e2ef235d0c1",
+      "after_sha256": "852d104dac358d1ad3dca1f44094d8d237ca4f66a6b672f571b92004359de428"
+    },
+    {
+      "target": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "a6ceedb6c4929b3a3d6ce81d563915a9a56bafe61489aa3bcf8f29e73f91527d",
+      "after_sha256": "a6ceedb6c4929b3a3d6ce81d563915a9a56bafe61489aa3bcf8f29e73f91527d"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "5ce13871fb16d743bd8325f7e59da717c72eeaca9f34c6c532dc79bf1a6f0cef",
+      "after_sha256": "4d0d8c1583795bfdcb7d65225f74dba1b34d58c19e0c80a971b7340dab142726"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "be473dcc60c19851ba1825d3df7ecaedba4c9f3330b412277ebc49279cd7079e",
+      "after_sha256": "66bf47c6913fe7706042b961ebc138aef3db574fce2e7bbb9f1f3291b46e6169"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "8328af18f0a607165ebc29ee19bd3a90c03ac111bef77e8decb30c7bf3967d9d",
+      "after_sha256": "a16eae77749f1a20f5a9a61a8537209428cf797675c8fc2a65932c7d198131b5"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "aba456cd92e4dba8a41c0bdb0ac928cd5d509e85770ad69b64754af5666d1495",
+      "after_sha256": "ba989218d9221f0b134433374d56fd806aa1c196e6c690cd5558557e0eaeb95a"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "89c86b956e950dc1e122212a19985a373f119a3641876b4ed1a8904c1b37c011",
+      "after_sha256": "a7704514795571093da67fd8791ced8ec7e10c6b012ec747260739b9689c167a"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "7d1687e6fe91fa8969b7b1abaea717c93e98bb9b0b3b52603eb050c12c235bcf",
+      "after_sha256": "f37120cae925549e9a3ff747d0063ba3ecd951bebf67234ebeececa3479d4f85"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "0ae9a50ee2021354adad0d52fe11d553fb56490e2b2a373536fac0070d14d32d",
+      "after_sha256": "b479d4dfa7c8b2443d17229f277156892352618f58bd00299034d6e38d19cde9"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "220450cb30f900f38dc99157030445f56b1d820b1e58fdcf65847978d919b497",
+      "after_sha256": "b9fec31e0e0387180e0c96b37685942842cf7edc05e45e325edd4ab04da7c75e"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "018d928134806cd1cf709ace2d1d079106c574702004abaa7f9ea66f931971e1",
+      "after_sha256": "7d5df1c2d9d635134011de16929d3c9ab793aeeaafabcbe3ab720e1b78d335f7"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "fd55aad23b724c70c4ae1dde454360393f08a76de8d223f6abeb194ef68cd04e",
+      "after_sha256": "515673ec938114a1580531eed1b53daabdf647ddfb70fdfbe9a211d55a550ec7"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "7874ea1ea8f39d19c26795f7366561c1d2e39bc16e3658d2ef45ebf70a8a1911",
+      "after_sha256": "e7b9ae1c6987bac6e908309fa636648926ff0cd8ce94926c2ebdcb79104fc052"
+    },
+    {
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "e1849628242011cfea0052566172a0f93582d7bcbb8e8833e92c471088f68370",
+      "after_sha256": "b83ebbb0646416f5e4dbea031a88821dc830ef698d18a94466ccb2983ca9a776"
+    },
+    {
+      "target": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "eb2766b7dc66c53c54bc0dec7f381ae8e7f787f0f38676c1e679c7d6923ab7e4",
+      "after_sha256": "f8d167a68294c729bfcb9cb324896f475e6a42b87e4caf64e51feef3953cfabc"
+    },
+    {
+      "target": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "da5cc49cb098381e466b1744ad0cca95b94688d9d371608fec0af9257ae8c4bf",
+      "after_sha256": "94721dd3327465b1f1702c8ce85e74c9be7d0b197d5e176b95bdb0c44c3d6e19"
+    },
+    {
+      "target": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "b18367082ea0a6b0171ed8f49c88bb910ab36bb5cf91c7928b7728ff86ec22b4",
+      "after_sha256": "cdcf810f6fc2e0a064546eb6322af22fbd18791bb9a2d7e68e3d574b7a074027"
+    },
+    {
+      "target": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "171acef4ec2fcc94f795f45a66727bd18df8a1e7e6b414c17bda221f0a7ac41f",
+      "after_sha256": "4b851c88e200b9dd2a41c9e5f45c4ff54c067644ac5c8c0d309c07c04994e5ae"
+    },
+    {
+      "target": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "ba0c5fac47994bcf956c43ae160ef3aa29ba90796f68ba15a567a9b4c9eb4a52",
+      "after_sha256": "16a316dc5c6f76a1f5e723e7e2a46d4e7746e67fbd3743d94a1a9551d13859ee"
+    },
+    {
+      "target": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spanek.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d14565edef23-spanek.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "748b26d2b03db15c695a3b8ef19201a1b12007b090a2710710bbee3dc7a55531",
+      "after_sha256": "05e540dcd0a05d4c5641a0b88e1973b4ab8be37d325a0ee93ac95080f7e8367e"
+    },
+    {
+      "target": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a1ce80cdad1f-slim.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "caba55480b357dbd4667acf2e5f0af1b85db1feaf0f17bb1201fe48ae475fe90",
+      "after_sha256": "8db51f5f9cd9ed77f4bb61817692737a643cd365b36c36c03aebd2b0293b6f9e"
+    },
+    {
+      "target": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "5d43e5ee70460afed2acc522f87a127ee6c9aa649173c6d9d8d23edfa01bcb12",
+      "after_sha256": "cedca63d0a4b8f49f49feb609e35aed8cca64b85874848dd6cf9329e7e688beb"
+    },
+    {
+      "target": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a1ce80cdad1f-slim.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "2acb52dd5bc67a2abb4c1c893216189988e6716f1d3f5189f9349dceda181753",
+      "after_sha256": "253c53a8cc77a29333e08bdcc8c816f24aa174a8c07d7b4071fd8f82b0f4172a"
+    },
+    {
+      "target": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "c4a5455a7efbd70201dd92a148de5ac37bc201fba704d33a090da6aaa5f24c61",
+      "after_sha256": "fae0fdecdcf981cf5fe5c01c500677b89be9f91ac4b51cb0f321667c75c13756"
+    },
+    {
+      "target": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a1ce80cdad1f-slim.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "14f27e6f1131411ec38de42e8467dce7405eb73684fa7c745870c0664f5e5eb9",
+      "after_sha256": "d2de63797323e6fd4bf377372ada84cec6b31f73a0c64479ad57feb52c5381d1"
+    },
+    {
+      "target": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "803c65a59cedb7ed1f2b08e5bc46e55cbecc5388d9b6525e23528d13c6472032",
+      "after_sha256": "55719f2d31086b88990f539f51a407e7ee9e1c2c2dea049c5f7338881b83c83b"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "bdca7efeb77710d4314937d961bb9e198259069358229f0b4b4d88b51caf33ca",
+      "after_sha256": "87123681e424d23c435f1f154175745007118d58d08503aeb487dc8403262ca8"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "a980a6565a1590fbaf38654734f71d0125f10ef816709f31562cdf8a0ef0d133",
+      "after_sha256": "a980a6565a1590fbaf38654734f71d0125f10ef816709f31562cdf8a0ef0d133"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "074dea9456203b079fb84611e400cfd0ef9febd5f6dfce5d8a29634e170f1737",
+      "after_sha256": "fab739ba7106cdfddd52a8f2f40adce6f36dfad7a617d0c8e51f2933370f90f2"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "aeb4df3e6bc28ca2782e82e481568ce36e0c618e445c994d5af28a6eb3dbaa9c",
+      "after_sha256": "aeb4df3e6bc28ca2782e82e481568ce36e0c618e445c994d5af28a6eb3dbaa9c"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "65b6e615aa7cd820fc1132fb9826ba0535d69baf565a93773a85fd36f3f7d4ab",
+      "after_sha256": "622579f184dcbae1c5a1b4ceda7b36618b44e8a8d2f0de043edc4717572a36af"
+    },
+    {
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "a44fa36fe6f366ab518cf1a88fb6b68808af33c9b9aeae7b9751f6f15b15eb29",
+      "after_sha256": "a44fa36fe6f366ab518cf1a88fb6b68808af33c9b9aeae7b9751f6f15b15eb29"
+    },
+    {
+      "target": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "1c8ac6d20be9f949ec1211831be28aa93b7157f8d527175ddbf82af8901913fa",
+      "after_sha256": "d36939b4f74c881030657f51600349d647bece17aba764d7080d52cd53e4b475"
+    },
+    {
+      "target": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "8e453ea22687c2e10e2c26e165e85413d586c60e5e53052741ac42bde538c979",
+      "after_sha256": "8e453ea22687c2e10e2c26e165e85413d586c60e5e53052741ac42bde538c979"
+    },
+    {
+      "target": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "33a85f306dfacef61b5d213ef1dfe2f9dcb6f6611e25608f8fc9770b24e54e8a",
+      "after_sha256": "13af5e4427bc13db0208f041c44dd5214432caf395d6cef4f5d015bdee2c4b71"
+    },
+    {
+      "target": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "b3001d2b3487473b6544007cb2eabfeb9c0d1bef3ef69035a9d9b9be579e2681",
+      "after_sha256": "b3001d2b3487473b6544007cb2eabfeb9c0d1bef3ef69035a9d9b9be579e2681"
+    },
+    {
+      "target": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "438bf9dcbf3257cf19c4d3abfc150e36045a8521da5c0747a60aec373c4b4b20",
+      "after_sha256": "2f278e84b96e594997f07cb54c5f90af02a3e8e4125d2b9bbaa635b6f6307ecc"
+    },
+    {
+      "target": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "17db9d464b45874dd7c21bb76df8665da21a2a103300da3e9df9a2eca83def93",
+      "after_sha256": "17db9d464b45874dd7c21bb76df8665da21a2a103300da3e9df9a2eca83def93"
+    },
+    {
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "329c3df5d947fe1de1960b66be9b3cdc8d355114776e2f8378713c9dd2ead36b",
+      "after_sha256": "7555dbd2790bbd1b3b2963abc6d68e1853db4ced77158b5b8fa8a74a64730578"
+    },
+    {
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "ddcb792e468c54865f5655222f319e8b01002576ecfe95892071a543f991b24d",
+      "after_sha256": "ddcb792e468c54865f5655222f319e8b01002576ecfe95892071a543f991b24d"
+    },
+    {
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "4102d224f49fdbc10d4573dd53645b15595f73ed5602fb45db835f615173ef60",
+      "after_sha256": "2f35d7edcccdb5f17872a573d0ba313915e0b3634bc0e37e03b9fee94732bc2e"
+    },
+    {
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "7603bd1d5dc4b9166cc993a1256ce0b4ab273972ebd7066c4ba0a8516264bd52",
+      "after_sha256": "7603bd1d5dc4b9166cc993a1256ce0b4ab273972ebd7066c4ba0a8516264bd52"
+    },
+    {
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "e0c1119e563b4c06a9fc288c006c5a455f2596398789f63cda295d3931ec66f7",
+      "after_sha256": "07c6efebaeceae8de85d05fe30b997b4eebf856591fe3a727404b5f4baa97560"
+    },
+    {
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "2672498d3aa79fecfb6035f56f506e14cc360f1712892fe06ad511cb0af09d47",
+      "after_sha256": "2672498d3aa79fecfb6035f56f506e14cc360f1712892fe06ad511cb0af09d47"
+    },
+    {
+      "target": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hydratace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0ecec09acea6-hydratace.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "21393fd95a27baf474620d2b1654788afdb4969de8b1711f98a33483b65410f6",
+      "after_sha256": "d70ce40b05d738eee6253cf9d60f05eea0ccb2b621ca4ac72b56fd4ca0c9e651"
+    },
+    {
+      "target": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "cef62886c446b6862f4be155446a36ed362ccab03431bd8d2252c15434f72cdf",
+      "after_sha256": "beafdbe7e76d063e035ff6b8155c6bccdd6d5d1f54e9b44636957c428a7141b7"
+    },
+    {
+      "target": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hydratace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0ecec09acea6-hydratace.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "978199e3abd53772a9cd6ebaa7ebdd2b52c4525a272246e8ef04fd8e400572d1",
+      "after_sha256": "87dd43f2ddc37c0a8ea6b13b994e160f65fa2d179d09ede84eca969b3f997aef"
+    },
+    {
+      "target": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "52a525b519e48362af52de651040f0b18dba75e55092aef076b6b7671d778a7c",
+      "after_sha256": "c54d2923ef9e467523931c31316a2a02bc1c630f9e3c933338d5a445f8339aa2"
+    },
+    {
+      "target": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hydratace.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0ecec09acea6-hydratace.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "9c4e30296340d7f7aa2d660737430c91da63d40ef2848825386b82bbae384a3d",
+      "after_sha256": "927ef7d73aa124b0dcc2143920dbc08de29c8b2250f22ef213dddda2f5c38e9d"
+    },
+    {
+      "target": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "bc9ad712abceb02033f2e8714144bfbd8286df2bc0c44bb192a3004d2212af9d",
+      "after_sha256": "1dd1220e27ef660446d66ba2373ac6eea66faf2997532294ece936dee05907da"
+    },
+    {
+      "target": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "3314a22db0a204984a8b3943a95e4884b94953130c42afa7f605799a62fea755",
+      "after_sha256": "88076734ab9f3946c7f8159eba20e28a1bb780df6d1e50f869526597d2d12f4c"
+    },
+    {
+      "target": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "1fdc920cf9b1b4999e9c09d2e7b6eb1426625d7a4c9b32c53dce230688748bce",
+      "after_sha256": "1fdc920cf9b1b4999e9c09d2e7b6eb1426625d7a4c9b32c53dce230688748bce"
+    },
+    {
+      "target": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "91703cf5ffe73a2645c3210a92364ce12bbecd4a181575f86972c13409b4aa1f",
+      "after_sha256": "e058b7c646ce1004d6b26612a98d6252b71854074f6a96a6589ff53bf822edd5"
+    },
+    {
+      "target": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "01b08459c63cdb3b1c9f124b6fd4f7752f7324970a8ea8b70e55ee6773e56696",
+      "after_sha256": "01b08459c63cdb3b1c9f124b6fd4f7752f7324970a8ea8b70e55ee6773e56696"
+    },
+    {
+      "target": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "9ca6ca72e49dedd0be1be9d3104bec932264b9c7fc6fec30dc6f83a3e6972bbc",
+      "after_sha256": "62e4c60e9c482d0826443864bc321dc779616ef691830b04ae79220e2dd4adab"
+    },
+    {
+      "target": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "d615292885016923647684e68a7f37d73e7a39e2bf51448d29a95d5003bcbeef",
+      "after_sha256": "d615292885016923647684e68a7f37d73e7a39e2bf51448d29a95d5003bcbeef"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "f65b09c8683546346af8a51ae27453b993f7edc89840fa22cb4b958278170353",
+      "after_sha256": "5779cd0536a30e0f12680b486db77e4dffe9cbb8b10a873a06fb679a64a35d99"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "304670930f0223b06dc5e458c1c9608453d3e6325ce7030cd21025371025e08f",
+      "after_sha256": "304670930f0223b06dc5e458c1c9608453d3e6325ce7030cd21025371025e08f"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "4f03b37efe29f655defadffe0b254ee6948af1a9f93421d4080f455364b15dbe",
+      "after_sha256": "ae2db2a77ad50ce293c548d443bad5518509378f0e6fb464c86b5a25ecd5ef26"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "bde0639c6972eef68967b68658f7dcc9ef98e99a822b1059a1c94828a4b883ed",
+      "after_sha256": "bde0639c6972eef68967b68658f7dcc9ef98e99a822b1059a1c94828a4b883ed"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "a06d1233f03499857a13ee800b355cb072dfaf675441294e0173353b0d3ffe49",
+      "after_sha256": "f84998af66f89461160bc31b82401ba7d2f5af681090b2c774d4b15f72f5fd9a"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "b475100263fc2bc91cef306aa1dacde453088e3213a96359c863142d0106d80d",
+      "after_sha256": "b475100263fc2bc91cef306aa1dacde453088e3213a96359c863142d0106d80d"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "fdffde96ac3095286c9b6e6a28806025aaca4f9891c9ba894d787a2881e8a3c9",
+      "after_sha256": "30d7639a9b595559ee6127b39f633b3661a4712d1bf2c9eb3182ea6239c117a9"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/spalovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/f73d8f972b55-spalovani.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/celulitida.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/b98137323828-celulitida.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d5cfa7fc654e-vraskyikona-ruzova.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/27a5d20595c3-ikonaCZ.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "6fa2ce89ee1bf2cc8a8e16593be8856208c66e1eb055e55121111075423ca4f4",
+      "after_sha256": "c09977326ce89c45e33565b88d09849625d3ce39aad72bb6ded69dca93d8f525"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "3bf1519c43e1f65b7425103992a9711324acf61e8b850cb652f8ba2c10004a86",
+      "after_sha256": "91ab510cd815340f91f52f98b73489ff7cc4a5a68c1b998c3d93abeb313086f9"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/spalovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/f73d8f972b55-spalovani.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/celulitida.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/b98137323828-celulitida.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d5cfa7fc654e-vraskyikona-ruzova.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/27a5d20595c3-ikonaCZ.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "eeb9bb8b86d9f9c555fbd898202d30206c6cebee113457b96b3e5aabdbdb66bd",
+      "after_sha256": "814e88d947475efbce7addf33d90179b0384a304cbc25a3c173b9de2afc70f66"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "ca721cfa8ca6d71d2058e2dceb96d03bc4abacd80b1acfcf895426fb5ed3cf4b",
+      "after_sha256": "1f6631b0df7e54655bb6d9ef7481fc835f1ca3a4335dec737f22fb344bab385a"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/slim.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/spalovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/f73d8f972b55-spalovani.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/celulitida.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/b98137323828-celulitida.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona%20ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d5cfa7fc654e-vraskyikona-ruzova.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona%20gl%20ruzova.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/27a5d20595c3-ikonaCZ.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "e56cbc13e3018d6a3145497163a6f9c708558ef8b093afb0415882d9bbaeff07",
+      "after_sha256": "a0b16a20949f9350eca00d119eeeab9ae2d788a51a5aec8390d222b68af75143"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "abccc5c1963039ab3967f87f1878b28bbcf52ac4c21a5e53095606616cc3c8fc",
+      "after_sha256": "d123693a818f2363b416fc30f623483c00f45973415d208309d04ba337f0fc75"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "cc072ddf4a74fcde22ab66f535d963028f19af7913e1343794e39eaf0a9174f1",
+      "after_sha256": "cc072ddf4a74fcde22ab66f535d963028f19af7913e1343794e39eaf0a9174f1"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "be6f869bf7f0635ccce64f8dc5e204b7fd08f5b9bb7cd9578b332f3e98e9d146",
+      "after_sha256": "4652cdd8bb93e6222afe7fa32e13a413fa9f3675aa72f4cea7f0d58b148b3780"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "89e2875e40d3f6eeaf9d35d88dcfcc0037fec22682240bdb2231ce458680b0de",
+      "after_sha256": "89e2875e40d3f6eeaf9d35d88dcfcc0037fec22682240bdb2231ce458680b0de"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "48edcad3b881290252aeacf05f7223d8345ecbf0723d32ea868decf2e179d2b9",
+      "after_sha256": "ada12f6196c911548031588e8f319c2cb145db695415b3cf8cddcb460adb35f5"
+    },
+    {
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "4a36fdede0180ee414ffb9d02898fd3a0e53fa5bb79aa724f6562e7e58222281",
+      "after_sha256": "4a36fdede0180ee414ffb9d02898fd3a0e53fa5bb79aa724f6562e7e58222281"
+    },
+    {
+      "target": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita2.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cukr.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+          "count": 2
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tabletky-uvolnovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "0f12b9a108c27ec24a3bd30c1ce3acd12d4a4f577c0697b12371dbbcdf1c8e9a",
+      "after_sha256": "cb0ea715b7828f524820f7c0719453a011d31913f7f739d7fac2555dce679a63"
+    },
+    {
+      "target": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/psychcka pohoda.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/59fa429595d8-psychcka-pohoda.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy//klouby.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50d21688a9bd-klouby.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "bdec10202034b400ac85c41059206ae7dfd4e5725deaf31523fcd3a0be0380d3",
+      "after_sha256": "6dbccd221e60fead9b4b35275a141b2fe5193205aefb91dc17433489091785ae"
+    },
+    {
+      "target": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita2.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cukr.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+          "count": 2
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tabletky-uvolnovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "19e5b329a7b79cb28128ff83ffe85fa20637dd86ca0503ef0d3699df1e7df95b",
+      "after_sha256": "86814d6a1c2e5f114ad7d527b841407023f58e676149575c381f44a524d28d9b"
+    },
+    {
+      "target": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/psychcka pohoda.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/59fa429595d8-psychcka-pohoda.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy//klouby.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50d21688a9bd-klouby.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "b869d96ec2727b9bdc9afb77e61ca75d41671d892ce516de8d512c7ca2baee47",
+      "after_sha256": "8683c6a46b3e1b59e297a5846b5aaa527f479f78b007cbff1533c8f54919773e"
+    },
+    {
+      "target": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita2.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cukr.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+          "count": 2
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tabletky-uvolnovani.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "cbf377d4411eec8ca94a189acb5a2c28d308e0b3a7dba91ae809da47fe81ac35",
+      "after_sha256": "460524fab339c052f6e7fc3a84fc471490c1e9e876fd3f60826bd0fc2fd2891d"
+    },
+    {
+      "target": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/psychcka pohoda.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/59fa429595d8-psychcka-pohoda.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy//klouby.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50d21688a9bd-klouby.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "7a4ae85a6e9677d1bdd13120f307e242f38fb9d2eaa07d4031f3dbc25bc6a917",
+      "after_sha256": "119f5509c497511df504ae1c8bdf3cc046cc7c1aa2cf4e3ee5fdc6cd006778a4"
+    },
+    {
+      "target": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-sk.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vlasy.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bfd63cb4e64a-vlasy.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Silné a rychle rostoucí vlasy.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/842f1ddeb824-Siln-a-rychle-rostouc-vlasy.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "cbbeb04fa7b8d269ec7833682183060145198ce51ca5494d1fb407b0f3f9be53",
+      "after_sha256": "80011233deb00b20f31dff0306e0947d59abd316f6c4d55f1afa56b346c6dc15"
+    },
+    {
+      "target": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-sk.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "e18b2f1366ecb9773daa02a1f8a516f7d83712d9dc74dc4128f6de923bf5fa6d",
+      "after_sha256": "e18b2f1366ecb9773daa02a1f8a516f7d83712d9dc74dc4128f6de923bf5fa6d"
+    },
+    {
+      "target": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-en.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vlasy.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bfd63cb4e64a-vlasy.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Silné a rychle rostoucí vlasy.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/842f1ddeb824-Siln-a-rychle-rostouc-vlasy.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "18cdeb82f72ff7c02cd1918357f253bf1dd879a3066bf92767428e7605cd83a6",
+      "after_sha256": "ea295e308dd6278d307bf842db6e121c9c78bcb260afd6aeb88bc6a037675979"
+    },
+    {
+      "target": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-en.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "eb0a4e28e00bb20b231641b7c81dbf1ea2a4b922e364db8aef345dd98bbde955",
+      "after_sha256": "eb0a4e28e00bb20b231641b7c81dbf1ea2a4b922e364db8aef345dd98bbde955"
+    },
+    {
+      "target": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-de.html",
+      "url_only_reversible": true,
+      "changes": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vlasy.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bfd63cb4e64a-vlasy.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Silné a rychle rostoucí vlasy.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/842f1ddeb824-Siln-a-rychle-rostouc-vlasy.png",
+          "count": 1
+        }
+      ],
+      "before_sha256": "d4cd2c4d0c23d687e6b4b9d70c5ea8c5bf4a671f2b82ae02900a4cc2b0057db5",
+      "after_sha256": "4caa3e89d71b39f3befc1b72b2573b32b57f53a9a4313a4f840a5ddaf64a9dff"
+    },
+    {
+      "target": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-de.html",
+      "url_only_reversible": true,
+      "changes": [],
+      "before_sha256": "6bf300e81eab3fda696fdc20de9c256adcfc2411b1ae35916441b1054d1a3040",
+      "after_sha256": "6bf300e81eab3fda696fdc20de9c256adcfc2411b1ae35916441b1054d1a3040"
+    }
+  ]
+}

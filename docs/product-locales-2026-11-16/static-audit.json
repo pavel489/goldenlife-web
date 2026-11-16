@@ -1,0 +1,3337 @@
+{
+  "expected_products": 27,
+  "missing_products": 18,
+  "expected_new_files": 108,
+  "verified_file_count": 108,
+  "all_pass": true,
+  "failures": [],
+  "results": [
+    {
+      "id": "476",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-cz.html",
+      "target": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "0558be39e87750b56f1df03de918659e463b49da1fd9ee96e8eca4f476577f3a",
+      "bytes": 24943,
+      "source_tag_count": 260,
+      "target_tag_count": 260,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a1767a02df1a24e114825486ef8520722040bd9fb95200686cac0a8b4d98241b",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "14ab35d50093c60df8c9d677c613010c4cd4f3627a6251bceb42d213fa4bb078",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "fa0a18d963c0e6237a3899197753579339216fd7020dca6f53557d34e34e8bc7",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "476",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-cz.html",
+      "target": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "7f3e65e1a97474e2bc3ebb5dc59dbeef43489d83b7baf056247d86d1e086306c",
+      "bytes": 2850,
+      "source_tag_count": 33,
+      "target_tag_count": 33,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "476",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-cz.html",
+      "target": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "b1a169affd547516fb3926623723f798a093131eb6f5f18b3bc9e8accd581ec1",
+      "bytes": 24808,
+      "source_tag_count": 260,
+      "target_tag_count": 260,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "591f6a19a50988235121ba3c64d61596da427ada6268a3df8b39ee210f88035d",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "14ab35d50093c60df8c9d677c613010c4cd4f3627a6251bceb42d213fa4bb078",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "fa0a18d963c0e6237a3899197753579339216fd7020dca6f53557d34e34e8bc7",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "476",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-cz.html",
+      "target": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "95ef9a50496c2bc5af04f875b83042061c797d16fb2422fdd9a324ecb2d420c1",
+      "bytes": 2843,
+      "source_tag_count": 33,
+      "target_tag_count": 33,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "476",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-cz.html",
+      "target": "web/Golden Life Slim GLP-1 Activator/Golden-Life-Slim-GLP-1-Activator-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "46f71d22394d7d2b9ec0675902ebebdc3e4797f127f0fb5f2ddf88d17f64622b",
+      "bytes": 25325,
+      "source_tag_count": 260,
+      "target_tag_count": 260,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "9a8c0a274c6b7a15c28bf6d3c4512b5e3003c73fead967359da61bc54281e2e9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "14ab35d50093c60df8c9d677c613010c4cd4f3627a6251bceb42d213fa4bb078",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "fa0a18d963c0e6237a3899197753579339216fd7020dca6f53557d34e34e8bc7",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "476",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-cz.html",
+      "target": "web/Golden Life Slim GLP-1 Activator/maly/Golden-Life-Slim-GLP-1-Activator-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "7576860495dedc9bdd3fb79cda07f0ce1bd6407a63f157ff1a564114a77a70b7",
+      "bytes": 2962,
+      "source_tag_count": 33,
+      "target_tag_count": 33,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "544",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "cbacc58f19912f9f15d6499b5256811253609682412755c5176151bd29faa1b9",
+      "bytes": 31921,
+      "source_tag_count": 392,
+      "target_tag_count": 392,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "4afdbe3a8be5c722f25c8a2b5db6c858f46deb0276eaa521aeb180df23ed4e08",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "85ae47d879ea8b85b54ae03f809b6cfff54150f1cb477c0c4d1681415ca888fd",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "544",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "f701e4ce5e8f2e9496dd50849afac98f7c82b598661128f75e3b033d75a73006",
+      "bytes": 3902,
+      "source_tag_count": 32,
+      "target_tag_count": 33,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "544",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "c7429bd0c1b42519940f31aebad83c43be65918009d0eaa69fddb5f56e188fe7",
+      "bytes": 31395,
+      "source_tag_count": 392,
+      "target_tag_count": 392,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "cbc656ace5e7eb5c93d1dddf12dd53c050fe33160291d7dbd8ea201a27046120",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "85ae47d879ea8b85b54ae03f809b6cfff54150f1cb477c0c4d1681415ca888fd",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "544",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "056ce48e865ff828f40981a1158180774cd0a2f25b4205e033fde6dba669a5e8",
+      "bytes": 3886,
+      "source_tag_count": 32,
+      "target_tag_count": 33,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "544",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "f781a785192917212b90fc662c164cd07c4eb1f74045509076f0f4baf0820e87",
+      "bytes": 32963,
+      "source_tag_count": 392,
+      "target_tag_count": 392,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "f3eaf6c449bf1664df474ce500445ffa84ec05263449b4fc119b21d55ba0f801",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "85ae47d879ea8b85b54ae03f809b6cfff54150f1cb477c0c4d1681415ca888fd",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "544",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "8b952fd12b526533bbb302e11914b4302795a51816edd817849bf28da016329f",
+      "bytes": 4082,
+      "source_tag_count": 32,
+      "target_tag_count": 33,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "383",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "b0c4c9c4d29dbe73543ec0102637f88309ec0f5662f841a97a4e4452d29f97f9",
+      "bytes": 26775,
+      "source_tag_count": 356,
+      "target_tag_count": 356,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "6b2d95606aefb44d12e54984bb75375d70549475658edd50b1d2824baf6afb40",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "74a6456da47d88b333661f72be21dd402e86017b6868a93b7748aa469b462473",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "383",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "96f5143e870e8aed32b73dda9ea46fee31965be9d1dc221c58342b57f184f158",
+      "bytes": 3492,
+      "source_tag_count": 34,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "383",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "8aab578190f876f10910ae41252d53a19388bdc93b35803d9800df3e25314f6b",
+      "bytes": 26229,
+      "source_tag_count": 356,
+      "target_tag_count": 356,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a9fcf6c6c9b102927644be1ddd38d6217e64a55d77064feb43e9c190f357965a",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "74a6456da47d88b333661f72be21dd402e86017b6868a93b7748aa469b462473",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "383",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "d7fb3e6776fd5c2699d147486ad356ea242c3177164eaa3583358b82963e78a0",
+      "bytes": 3437,
+      "source_tag_count": 34,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "383",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "74eadbb67af1d14d113bcf61bfb32c7a1e9abc2e1cf7dcd757f208384ea0e424",
+      "bytes": 27151,
+      "source_tag_count": 356,
+      "target_tag_count": 356,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "53ded78a3a4d6f9b652a7463b476eb4c984584dcbb3145276e739e0f1cd0a7e9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "74a6456da47d88b333661f72be21dd402e86017b6868a93b7748aa469b462473",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "383",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "eafc12b5da66e54108d26d2137cb8cdb1d9b14165fd308d018e1113cfdd8105c",
+      "bytes": 3581,
+      "source_tag_count": 34,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "550",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "16ee08a7b35086ca80c12ad7f702118fe267aa12ff9cfa45a502a5cec667183e",
+      "bytes": 33236,
+      "source_tag_count": 280,
+      "target_tag_count": 278,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "bd44014ad855d60f9bd09a2bff605a9995a3342f0bdd7960cf89d2321940baf9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "bef411e258e575cf2dc54ea90480b116c370497d092269b4f9d33f2a0ca6c3a2",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "7b35e95898d831090a8f028b04fd85b5d115dee1fc84de6bef0ee28fd70ad6fa",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "550",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "b588806b4f71e8d4cc3ccc4ded7edc25577e9a73138c08eaa67884a54720e9d9",
+      "bytes": 3688,
+      "source_tag_count": 33,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "550",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "5c76cd75bca849ceaf6e26d31c770fd42050b6aa1248a6c3f7fb094a94957bc8",
+      "bytes": 32654,
+      "source_tag_count": 280,
+      "target_tag_count": 278,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a4eb3d06bd6950988dcebc3e38d5115ea9d4b8df36e45825b22fded4a2ed25ef",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "bef411e258e575cf2dc54ea90480b116c370497d092269b4f9d33f2a0ca6c3a2",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "7b35e95898d831090a8f028b04fd85b5d115dee1fc84de6bef0ee28fd70ad6fa",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "550",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "f4937a061bdd170f33004a1a4a744b38233a105597ea2efe86816eb780bde849",
+      "bytes": 3596,
+      "source_tag_count": 33,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "550",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "852d104dac358d1ad3dca1f44094d8d237ca4f66a6b672f571b92004359de428",
+      "bytes": 33634,
+      "source_tag_count": 280,
+      "target_tag_count": 278,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "9d54443033fc521c4e53ae32094b55d6fb47d22969a89056c24462becc65994e",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "bef411e258e575cf2dc54ea90480b116c370497d092269b4f9d33f2a0ca6c3a2",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "7b35e95898d831090a8f028b04fd85b5d115dee1fc84de6bef0ee28fd70ad6fa",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "550",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "target": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "a6ceedb6c4929b3a3d6ce81d563915a9a56bafe61489aa3bcf8f29e73f91527d",
+      "bytes": 3782,
+      "source_tag_count": 33,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "635",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "4d0d8c1583795bfdcb7d65225f74dba1b34d58c19e0c80a971b7340dab142726",
+      "bytes": 34574,
+      "source_tag_count": 425,
+      "target_tag_count": 422,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "1005ffa6c5032870b3c0dd667043a2bd98cc34619912e59c3b95f35ccc86e9aa",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "1df48710ddabca37614d34027afbf814df9f042931e7715e093cc1b42f6d8f36",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "635",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "66bf47c6913fe7706042b961ebc138aef3db574fce2e7bbb9f1f3291b46e6169",
+      "bytes": 3809,
+      "source_tag_count": 36,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "635",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "a16eae77749f1a20f5a9a61a8537209428cf797675c8fc2a65932c7d198131b5",
+      "bytes": 34156,
+      "source_tag_count": 425,
+      "target_tag_count": 422,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "0224e5749575a3a87f1480fa82720459ee34365c08ba76cde514aff90db9218e",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "1df48710ddabca37614d34027afbf814df9f042931e7715e093cc1b42f6d8f36",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "635",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "ba989218d9221f0b134433374d56fd806aa1c196e6c690cd5558557e0eaeb95a",
+      "bytes": 3764,
+      "source_tag_count": 36,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "635",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/peptides-glp-1-woman-balance-dark-cherry-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "a7704514795571093da67fd8791ced8ec7e10c6b012ec747260739b9689c167a",
+      "bytes": 35236,
+      "source_tag_count": 425,
+      "target_tag_count": 422,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "2e362957d00633f9d861c189efe0f6843d6b5ba1119f68cccaf5d2549b9ed846",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "1df48710ddabca37614d34027afbf814df9f042931e7715e093cc1b42f6d8f36",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "635",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry/maly/peptides-glp-1-woman-balance-dark-cherry-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "f37120cae925549e9a3ff747d0063ba3ecd951bebf67234ebeececa3479d4f85",
+      "bytes": 3852,
+      "source_tag_count": 36,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "641",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "b479d4dfa7c8b2443d17229f277156892352618f58bd00299034d6e38d19cde9",
+      "bytes": 34712,
+      "source_tag_count": 425,
+      "target_tag_count": 422,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "6d968d111cc3c8831b899358b53eed9be1e86044e3adbb422b135da5451113ee",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "5184139a3619af40765b01ca84c5dc638ddca4c306db4265b07a2edf26ef69a0",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "641",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "b9fec31e0e0387180e0c96b37685942842cf7edc05e45e325edd4ab04da7c75e",
+      "bytes": 4077,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "641",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "7d5df1c2d9d635134011de16929d3c9ab793aeeaafabcbe3ab720e1b78d335f7",
+      "bytes": 34259,
+      "source_tag_count": 425,
+      "target_tag_count": 422,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "b6c3c097440e898209a05f1385206ac76c224dd2d421fd634474191028501ff5",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "5184139a3619af40765b01ca84c5dc638ddca4c306db4265b07a2edf26ef69a0",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "641",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "515673ec938114a1580531eed1b53daabdf647ddfb70fdfbe9a211d55a550ec7",
+      "bytes": 4022,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "641",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/peptides-glp-1-woman-balance-dark-cherry-sacek-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "e7b9ae1c6987bac6e908309fa636648926ff0cd8ce94926c2ebdcb79104fc052",
+      "bytes": 35523,
+      "source_tag_count": 425,
+      "target_tag_count": 422,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "983486d03bdf795a561cbbbf3fad78d4ccb2e2d2895fa9e6030f946c2926cad9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "5184139a3619af40765b01ca84c5dc638ddca4c306db4265b07a2edf26ef69a0",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "641",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-cz.html",
+      "target": "web/Golden Life peptides glp-1 woman balance dark cherry sáček/maly/peptides-glp-1-woman-balance-dark-cherry-sacek-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "b83ebbb0646416f5e4dbea031a88821dc830ef698d18a94466ccb2983ca9a776",
+      "bytes": 4194,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "644",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "target": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "f8d167a68294c729bfcb9cb324896f475e6a42b87e4caf64e51feef3953cfabc",
+      "bytes": 30707,
+      "source_tag_count": 336,
+      "target_tag_count": 334,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "434b5e20c030be866d2b2c620635df19ecbb2fc863b511b1eac1348f4f6b48c3",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "66261fa37d611d5bca7b00573a47d214fd04de719613b30a699e938ed307199c",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "644",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html",
+      "target": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "94721dd3327465b1f1702c8ce85e74c9be7d0b197d5e176b95bdb0c44c3d6e19",
+      "bytes": 3861,
+      "source_tag_count": 35,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "644",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "target": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "cdcf810f6fc2e0a064546eb6322af22fbd18791bb9a2d7e68e3d574b7a074027",
+      "bytes": 30179,
+      "source_tag_count": 336,
+      "target_tag_count": 334,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "982d10f1769c3a2b5786b2dc74e4819ff91e7c10f7d68dbc732185d80a111c4b",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "66261fa37d611d5bca7b00573a47d214fd04de719613b30a699e938ed307199c",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "644",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html",
+      "target": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "4b851c88e200b9dd2a41c9e5f45c4ff54c067644ac5c8c0d309c07c04994e5ae",
+      "bytes": 3813,
+      "source_tag_count": 35,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "644",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_cz.html",
+      "target": "web/Golden Life Woman Hormonal balance/Golden_Life_Darkovy_box_Hormonal_de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "16a316dc5c6f76a1f5e723e7e2a46d4e7746e67fbd3743d94a1a9551d13859ee",
+      "bytes": 31358,
+      "source_tag_count": 336,
+      "target_tag_count": 334,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "8d577abaf5b2d47488ff44846fa24037f07cd1fda6bb730a1e3d3e05571823f9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "66261fa37d611d5bca7b00573a47d214fd04de719613b30a699e938ed307199c",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "644",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-cz.html",
+      "target": "web/Golden Life Woman Hormonal balance/maly/Golden-Life-Hormonal-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 1
+      },
+      "sha256": "05e540dcd0a05d4c5641a0b88e1973b4ab8be37d325a0ee93ac95080f7e8367e",
+      "bytes": 3997,
+      "source_tag_count": 35,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "51",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "target": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "8db51f5f9cd9ed77f4bb61817692737a643cd365b36c36c03aebd2b0293b6f9e",
+      "bytes": 29824,
+      "source_tag_count": 227,
+      "target_tag_count": 225,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "4e1a189a28792457e5e097fe83721ece06387dac3e991a7569bd6059f0b66538",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "3c72d1a3e069f2fead941e3dcd85e23a5d9456ccf654577b384dff3c1a94a4ce",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "2b940303163755d1b847add68df5beb41a2e9b654a80e8d756784f26d22899fa",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "51",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "target": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "cedca63d0a4b8f49f49feb609e35aed8cca64b85874848dd6cf9329e7e688beb",
+      "bytes": 2797,
+      "source_tag_count": 21,
+      "target_tag_count": 21,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "51",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "target": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "253c53a8cc77a29333e08bdcc8c816f24aa174a8c07d7b4071fd8f82b0f4172a",
+      "bytes": 29148,
+      "source_tag_count": 227,
+      "target_tag_count": 225,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "9f70f0895f51e92b3e31e6fabe5061d848d3f0af10f42288f9c5f662b267a173",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "3c72d1a3e069f2fead941e3dcd85e23a5d9456ccf654577b384dff3c1a94a4ce",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "2b940303163755d1b847add68df5beb41a2e9b654a80e8d756784f26d22899fa",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "51",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "target": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "fae0fdecdcf981cf5fe5c01c500677b89be9f91ac4b51cb0f321667c75c13756",
+      "bytes": 2787,
+      "source_tag_count": 21,
+      "target_tag_count": 21,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "51",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "target": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "d2de63797323e6fd4bf377372ada84cec6b31f73a0c64479ad57feb52c5381d1",
+      "bytes": 30794,
+      "source_tag_count": 227,
+      "target_tag_count": 225,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "013047b86eaa257a4837dd16e8c9f7166132c324aa1587fcb3276441f0446e16",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "3c72d1a3e069f2fead941e3dcd85e23a5d9456ccf654577b384dff3c1a94a4ce",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "2b940303163755d1b847add68df5beb41a2e9b654a80e8d756784f26d22899fa",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "51",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "target": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "55719f2d31086b88990f539f51a407e7ee9e1c2c2dea049c5f7338881b83c83b",
+      "bytes": 2934,
+      "source_tag_count": 21,
+      "target_tag_count": 21,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "600",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "87123681e424d23c435f1f154175745007118d58d08503aeb487dc8403262ca8",
+      "bytes": 29980,
+      "source_tag_count": 344,
+      "target_tag_count": 338,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a086227e137c2522fd7469cc8dc5331d1d75733289c57e80a92ef8b479014bcd",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "55bfa2efe3c679ff2794181b6bf975475e5787f62ecc9354bfa447b0865ab22a",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "4aed5ee7ad6143b1160fb5c6d6de15cef9c438d902b50ebe9c738b57e091639b",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "600",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 1
+      },
+      "sha256": "a980a6565a1590fbaf38654734f71d0125f10ef816709f31562cdf8a0ef0d133",
+      "bytes": 3803,
+      "source_tag_count": 38,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "600",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "fab739ba7106cdfddd52a8f2f40adce6f36dfad7a617d0c8e51f2933370f90f2",
+      "bytes": 29527,
+      "source_tag_count": 344,
+      "target_tag_count": 338,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "d32a09c04538d070bd2632230b363abccc57acb8aba413efddcb19134904291e",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "55bfa2efe3c679ff2794181b6bf975475e5787f62ecc9354bfa447b0865ab22a",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "4aed5ee7ad6143b1160fb5c6d6de15cef9c438d902b50ebe9c738b57e091639b",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "600",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 1
+      },
+      "sha256": "aeb4df3e6bc28ca2782e82e481568ce36e0c618e445c994d5af28a6eb3dbaa9c",
+      "bytes": 3796,
+      "source_tag_count": 38,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "600",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "622579f184dcbae1c5a1b4ceda7b36618b44e8a8d2f0de043edc4717572a36af",
+      "bytes": 30966,
+      "source_tag_count": 344,
+      "target_tag_count": 338,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "3a588797106da850f4c802e5447e9aed007b4c1dd39b2855ed0117db3d196ac3",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "55bfa2efe3c679ff2794181b6bf975475e5787f62ecc9354bfa447b0865ab22a",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "4aed5ee7ad6143b1160fb5c6d6de15cef9c438d902b50ebe9c738b57e091639b",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "600",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "target": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 1
+      },
+      "sha256": "a44fa36fe6f366ab518cf1a88fb6b68808af33c9b9aeae7b9751f6f15b15eb29",
+      "bytes": 4023,
+      "source_tag_count": 38,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "452",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+      "target": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "d36939b4f74c881030657f51600349d647bece17aba764d7080d52cd53e4b475",
+      "bytes": 23821,
+      "source_tag_count": 220,
+      "target_tag_count": 218,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "888fc644bae9b45573fc9828581e7e68f785d2a95b8925fba645c38fb6617424",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "3c331af229340b2c6f5cf2ed6ec3c04804134ea8d913610ae7bd49ed34a497ef",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "6a2f26d8ee9834faf8632e5651f303af5938eccc3f8532512135c81d2d4557ee",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "452",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+      "target": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "8e453ea22687c2e10e2c26e165e85413d586c60e5e53052741ac42bde538c979",
+      "bytes": 3526,
+      "source_tag_count": 34,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "452",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+      "target": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "13af5e4427bc13db0208f041c44dd5214432caf395d6cef4f5d015bdee2c4b71",
+      "bytes": 23802,
+      "source_tag_count": 220,
+      "target_tag_count": 218,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "5494cddaf9feb16d11de1197175c82909107d5b4c1706db3cd0c5e5efec26538",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "3c331af229340b2c6f5cf2ed6ec3c04804134ea8d913610ae7bd49ed34a497ef",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "6a2f26d8ee9834faf8632e5651f303af5938eccc3f8532512135c81d2d4557ee",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "452",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+      "target": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "b3001d2b3487473b6544007cb2eabfeb9c0d1bef3ef69035a9d9b9be579e2681",
+      "bytes": 3534,
+      "source_tag_count": 34,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "452",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+      "target": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "2f278e84b96e594997f07cb54c5f90af02a3e8e4125d2b9bbaa635b6f6307ecc",
+      "bytes": 24641,
+      "source_tag_count": 220,
+      "target_tag_count": 218,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "66e33332eaf2dc1992eaca8cb2f95add70c0371b611f9a122b4d7430f8d492e8",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "3c331af229340b2c6f5cf2ed6ec3c04804134ea8d913610ae7bd49ed34a497ef",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "6a2f26d8ee9834faf8632e5651f303af5938eccc3f8532512135c81d2d4557ee",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "452",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+      "target": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "17db9d464b45874dd7c21bb76df8665da21a2a103300da3e9df9a2eca83def93",
+      "bytes": 3710,
+      "source_tag_count": 34,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "57",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "7555dbd2790bbd1b3b2963abc6d68e1853db4ced77158b5b8fa8a74a64730578",
+      "bytes": 26405,
+      "source_tag_count": 286,
+      "target_tag_count": 284,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "8139cd0f020ef9e9a9e7aa612fca8ffe95703be86798b493e33ba38afaa2b8aa",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "15a610412a1dfa85d2e608702b441a24c6bb4f989bd18a27beca5c411ab846c5",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "4dd91eed23d0e9903dec3d1d2d0e3c164803642edc421d5fc165e091d8d1e0fc",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "57",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "ddcb792e468c54865f5655222f319e8b01002576ecfe95892071a543f991b24d",
+      "bytes": 3663,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "57",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "2f35d7edcccdb5f17872a573d0ba313915e0b3634bc0e37e03b9fee94732bc2e",
+      "bytes": 25895,
+      "source_tag_count": 286,
+      "target_tag_count": 284,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "601bed91630ba74a5b97648989e84f08c4cec87a22c4d9e6f9114399d8567243",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "15a610412a1dfa85d2e608702b441a24c6bb4f989bd18a27beca5c411ab846c5",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "4dd91eed23d0e9903dec3d1d2d0e3c164803642edc421d5fc165e091d8d1e0fc",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "57",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "7603bd1d5dc4b9166cc993a1256ce0b4ab273972ebd7066c4ba0a8516264bd52",
+      "bytes": 3613,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "57",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "target": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "07c6efebaeceae8de85d05fe30b997b4eebf856591fe3a727404b5f4baa97560",
+      "bytes": 27073,
+      "source_tag_count": 286,
+      "target_tag_count": 284,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "06122c0b25be7fe27740d51040bc326cc6eb1cd0d8b495dfc7d97c3d7f1044f7",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "15a610412a1dfa85d2e608702b441a24c6bb4f989bd18a27beca5c411ab846c5",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "4dd91eed23d0e9903dec3d1d2d0e3c164803642edc421d5fc165e091d8d1e0fc",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "57",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "target": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "2672498d3aa79fecfb6035f56f506e14cc360f1712892fe06ad511cb0af09d47",
+      "bytes": 3831,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "99",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "target": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 10,
+        "safety_blocks_added": 0
+      },
+      "sha256": "d70ce40b05d738eee6253cf9d60f05eea0ccb2b621ca4ac72b56fd4ca0c9e651",
+      "bytes": 30443,
+      "source_tag_count": 264,
+      "target_tag_count": 253,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "2b965feea4135504c66cd7c5afb8221fb89d2926b950ca23d8f5ce11400b8e5a",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "3c556a29c2dc9fa7cec3217922625e2d11293c78f9e5114f1eceb7152ed667c2",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "656e103fb0b6bab4cfc6b140bc64fc94cc511e2b47ed2e337d57bd5a667a1541",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "99",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "target": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "beafdbe7e76d063e035ff6b8155c6bccdd6d5d1f54e9b44636957c428a7141b7",
+      "bytes": 3083,
+      "source_tag_count": 33,
+      "target_tag_count": 31,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "99",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "target": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 10,
+        "safety_blocks_added": 0
+      },
+      "sha256": "87dd43f2ddc37c0a8ea6b13b994e160f65fa2d179d09ede84eca969b3f997aef",
+      "bytes": 30025,
+      "source_tag_count": 264,
+      "target_tag_count": 253,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "056f117010ff927eb79979f28c756a3239cea35a0f2d93aefb96313373955512",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "3c556a29c2dc9fa7cec3217922625e2d11293c78f9e5114f1eceb7152ed667c2",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "656e103fb0b6bab4cfc6b140bc64fc94cc511e2b47ed2e337d57bd5a667a1541",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "99",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "target": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "c54d2923ef9e467523931c31316a2a02bc1c630f9e3c933338d5a445f8339aa2",
+      "bytes": 2996,
+      "source_tag_count": 33,
+      "target_tag_count": 31,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "99",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "target": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 10,
+        "safety_blocks_added": 0
+      },
+      "sha256": "927ef7d73aa124b0dcc2143920dbc08de29c8b2250f22ef213dddda2f5c38e9d",
+      "bytes": 31220,
+      "source_tag_count": 264,
+      "target_tag_count": 253,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "156c18024a96b31e8a11667b9e70d84ab72534a9cbf7ecbb447a3e71da799fbe",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "3c556a29c2dc9fa7cec3217922625e2d11293c78f9e5114f1eceb7152ed667c2",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "656e103fb0b6bab4cfc6b140bc64fc94cc511e2b47ed2e337d57bd5a667a1541",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "99",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "target": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "1dd1220e27ef660446d66ba2373ac6eea66faf2997532294ece936dee05907da",
+      "bytes": 3090,
+      "source_tag_count": 33,
+      "target_tag_count": 31,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "174",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+      "target": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "88076734ab9f3946c7f8159eba20e28a1bb780df6d1e50f869526597d2d12f4c",
+      "bytes": 29881,
+      "source_tag_count": 293,
+      "target_tag_count": 291,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "b8c99791ec03b8ce617936c0ab2e5a7025536b1a43c1471ca196f10ffd6ea45e",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "b2c63b72362398e81a22dfa994a1f4d1375ae177e69d5384028f1bb350c6d954",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "a375e4cc421687ca2d4e7dd7eeaaad7fd0b1803bb7b4bc14dfb87f3c3ba25134",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "174",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html",
+      "target": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "1fdc920cf9b1b4999e9c09d2e7b6eb1426625d7a4c9b32c53dce230688748bce",
+      "bytes": 3589,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "174",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+      "target": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "e058b7c646ce1004d6b26612a98d6252b71854074f6a96a6589ff53bf822edd5",
+      "bytes": 29745,
+      "source_tag_count": 293,
+      "target_tag_count": 291,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "d103fa3a03495b14eb0314e29c999c8c1cb1648cd0d684266880d7df93c9f6b1",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "b2c63b72362398e81a22dfa994a1f4d1375ae177e69d5384028f1bb350c6d954",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "a375e4cc421687ca2d4e7dd7eeaaad7fd0b1803bb7b4bc14dfb87f3c3ba25134",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "174",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html",
+      "target": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "01b08459c63cdb3b1c9f124b6fd4f7752f7324970a8ea8b70e55ee6773e56696",
+      "bytes": 3577,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "174",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+      "target": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "62e4c60e9c482d0826443864bc321dc779616ef691830b04ae79220e2dd4adab",
+      "bytes": 31106,
+      "source_tag_count": 293,
+      "target_tag_count": 291,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "f36a875c8ca6a61fe2f2d327cf798f8a12892fc742a45a15376fd13ee8358588",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "b2c63b72362398e81a22dfa994a1f4d1375ae177e69d5384028f1bb350c6d954",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "a375e4cc421687ca2d4e7dd7eeaaad7fd0b1803bb7b4bc14dfb87f3c3ba25134",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "174",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html",
+      "target": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "d615292885016923647684e68a7f37d73e7a39e2bf51448d29a95d5003bcbeef",
+      "bytes": 3758,
+      "source_tag_count": 38,
+      "target_tag_count": 38,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "464",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "5779cd0536a30e0f12680b486db77e4dffe9cbb8b10a873a06fb679a64a35d99",
+      "bytes": 32034,
+      "source_tag_count": 368,
+      "target_tag_count": 363,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a9178efd76c3b40f895eafcc249d99f4a10ad91caddb750cc58ee6a0f9b32da4",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "d6647eb09a5555a9b45fed133a91bca6a6b7d4b8dff62b0eb715d9aee90038ba",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "7bd623fcac18f399a34bba831922ebf45123e36691233f8a7d100e49cf636858",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "464",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "304670930f0223b06dc5e458c1c9608453d3e6325ce7030cd21025371025e08f",
+      "bytes": 3515,
+      "source_tag_count": 38,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "464",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "ae2db2a77ad50ce293c548d443bad5518509378f0e6fb464c86b5a25ecd5ef26",
+      "bytes": 31609,
+      "source_tag_count": 368,
+      "target_tag_count": 363,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "b1253495dc9eadf3a7bf77ea66ff8ece6258d45a165a60d3658047fca81761a2",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "d6647eb09a5555a9b45fed133a91bca6a6b7d4b8dff62b0eb715d9aee90038ba",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "7bd623fcac18f399a34bba831922ebf45123e36691233f8a7d100e49cf636858",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "464",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "bde0639c6972eef68967b68658f7dcc9ef98e99a822b1059a1c94828a4b883ed",
+      "bytes": 3451,
+      "source_tag_count": 38,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "464",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 2,
+        "safety_blocks_added": 0
+      },
+      "sha256": "f84998af66f89461160bc31b82401ba7d2f5af681090b2c774d4b15f72f5fd9a",
+      "bytes": 32659,
+      "source_tag_count": 368,
+      "target_tag_count": 363,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "6878445ce1679515f9552107397d5dd730beba5a47fb63bcbc0586ec6000c096",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "d6647eb09a5555a9b45fed133a91bca6a6b7d4b8dff62b0eb715d9aee90038ba",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "7bd623fcac18f399a34bba831922ebf45123e36691233f8a7d100e49cf636858",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "464",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "b475100263fc2bc91cef306aa1dacde453088e3213a96359c863142d0106d80d",
+      "bytes": 3606,
+      "source_tag_count": 38,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "467",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "30d7639a9b595559ee6127b39f633b3661a4712d1bf2c9eb3182ea6239c117a9",
+      "bytes": 31213,
+      "source_tag_count": 368,
+      "target_tag_count": 366,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a1f200c6ec6239508abad81280c0c1307daee1d3cc2f0e7a6b998c32808a1a0f",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "0395a17c0f2ddfe1cd7ee9228254f4768dbcea731792e557fd19a1805718b7e6",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "74a2b4b500e67fd70cd251b6de3a090d02c6cb98526e7d9541b742a30b9b8e02",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "467",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "c09977326ce89c45e33565b88d09849625d3ce39aad72bb6ded69dca93d8f525",
+      "bytes": 3993,
+      "source_tag_count": 35,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "467",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "91ab510cd815340f91f52f98b73489ff7cc4a5a68c1b998c3d93abeb313086f9",
+      "bytes": 30837,
+      "source_tag_count": 368,
+      "target_tag_count": 366,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "b00770a44899abfb06e9b60d497c0c71f49a4a36f27124acda0e4f41f3337904",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "0395a17c0f2ddfe1cd7ee9228254f4768dbcea731792e557fd19a1805718b7e6",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "74a2b4b500e67fd70cd251b6de3a090d02c6cb98526e7d9541b742a30b9b8e02",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "467",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "814e88d947475efbce7addf33d90179b0384a304cbc25a3c173b9de2afc70f66",
+      "bytes": 3854,
+      "source_tag_count": 35,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "467",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "1f6631b0df7e54655bb6d9ef7481fc835f1ca3a4335dec737f22fb344bab385a",
+      "bytes": 31803,
+      "source_tag_count": 368,
+      "target_tag_count": 366,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "f1f3811d47e3a035b9cb43a0bc1eabfdb9bbf1cf00d427f2b5099c9250e9f938",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "0395a17c0f2ddfe1cd7ee9228254f4768dbcea731792e557fd19a1805718b7e6",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "74a2b4b500e67fd70cd251b6de3a090d02c6cb98526e7d9541b742a30b9b8e02",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "467",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 1
+      },
+      "sha256": "a0b16a20949f9350eca00d119eeeab9ae2d788a51a5aec8390d222b68af75143",
+      "bytes": 4070,
+      "source_tag_count": 35,
+      "target_tag_count": 34,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "416",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "d123693a818f2363b416fc30f623483c00f45973415d208309d04ba337f0fc75",
+      "bytes": 31472,
+      "source_tag_count": 373,
+      "target_tag_count": 370,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "8efd5a430eb5f260a669cc48e12698f0e26621ccd707c6cf1c83cbc437a6ed2a",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "a2ef397562c8c515df1015e4442031edf1d5145d92e2e0d4e7cf3bf7fabddda5",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "3c5dc11f4623e6bfb83837ca84d1ddef6c7a44d28acccec7c1d290306a807bb2",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "416",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "cc072ddf4a74fcde22ab66f535d963028f19af7913e1343794e39eaf0a9174f1",
+      "bytes": 3289,
+      "source_tag_count": 32,
+      "target_tag_count": 32,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "416",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "4652cdd8bb93e6222afe7fa32e13a413fa9f3675aa72f4cea7f0d58b148b3780",
+      "bytes": 30920,
+      "source_tag_count": 373,
+      "target_tag_count": 370,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "5198e4de73d911578eb5ddde3e3d737c27fa32889da07287feac61f83da4b8b4",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "a2ef397562c8c515df1015e4442031edf1d5145d92e2e0d4e7cf3bf7fabddda5",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "3c5dc11f4623e6bfb83837ca84d1ddef6c7a44d28acccec7c1d290306a807bb2",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "416",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "89e2875e40d3f6eeaf9d35d88dcfcc0037fec22682240bdb2231ce458680b0de",
+      "bytes": 3246,
+      "source_tag_count": 32,
+      "target_tag_count": 32,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "416",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "ada12f6196c911548031588e8f319c2cb145db695415b3cf8cddcb460adb35f5",
+      "bytes": 31956,
+      "source_tag_count": 373,
+      "target_tag_count": 370,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "97274f08a2279cf4d97e94b4e3d6a1a8cfede6f9f8349936190b17227aab8474",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "a2ef397562c8c515df1015e4442031edf1d5145d92e2e0d4e7cf3bf7fabddda5",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "3c5dc11f4623e6bfb83837ca84d1ddef6c7a44d28acccec7c1d290306a807bb2",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "416",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html",
+      "target": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 0,
+        "safety_blocks_added": 0
+      },
+      "sha256": "4a36fdede0180ee414ffb9d02898fd3a0e53fa5bb79aa724f6562e7e58222281",
+      "bytes": 3374,
+      "source_tag_count": 32,
+      "target_tag_count": 32,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "70a8be40c2aacd7a0543cf5773b6b9c6a4c742fdb1cf13cb3708fa501e2c196f",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "84",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+      "target": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 4,
+        "safety_blocks_added": 0
+      },
+      "sha256": "cb0ea715b7828f524820f7c0719453a011d31913f7f739d7fac2555dce679a63",
+      "bytes": 17707,
+      "source_tag_count": 146,
+      "target_tag_count": 141,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "d59f3880a6625b022ef50b51f78587499c66f882141873f4c62110567ec608ee",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a37fd1f36bfe09d5b2193d0c4f290967c8e5e66a4c4c8cc98c654e87157ccfcc",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "681fe16d40404904c35c54d67e24a45341ab7ab2f93733dbb92504bb6d4a021b",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "84",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+      "target": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "6dbccd221e60fead9b4b35275a141b2fe5193205aefb91dc17433489091785ae",
+      "bytes": 3348,
+      "source_tag_count": 38,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "84",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+      "target": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 4,
+        "safety_blocks_added": 0
+      },
+      "sha256": "86814d6a1c2e5f114ad7d527b841407023f58e676149575c381f44a524d28d9b",
+      "bytes": 17633,
+      "source_tag_count": 146,
+      "target_tag_count": 141,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "9dc0fedf9673a74a71acb3150c039b3e2a6e25f3ae0998c3dea03c12c8170a3c",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a37fd1f36bfe09d5b2193d0c4f290967c8e5e66a4c4c8cc98c654e87157ccfcc",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "681fe16d40404904c35c54d67e24a45341ab7ab2f93733dbb92504bb6d4a021b",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "84",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+      "target": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "8683c6a46b3e1b59e297a5846b5aaa527f479f78b007cbff1533c8f54919773e",
+      "bytes": 3367,
+      "source_tag_count": 38,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "84",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+      "target": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 4,
+        "safety_blocks_added": 0
+      },
+      "sha256": "460524fab339c052f6e7fc3a84fc471490c1e9e876fd3f60826bd0fc2fd2891d",
+      "bytes": 18079,
+      "source_tag_count": 146,
+      "target_tag_count": 141,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "0fd437a22e8b7d3394dba364920246daa215650c54ac11d4f9d0f6aa25f7339b",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "a37fd1f36bfe09d5b2193d0c4f290967c8e5e66a4c4c8cc98c654e87157ccfcc",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "681fe16d40404904c35c54d67e24a45341ab7ab2f93733dbb92504bb6d4a021b",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "84",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+      "target": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "119f5509c497511df504ae1c8bdf3cc046cc7c1aa2cf4e3ee5fdc6cd006778a4",
+      "bytes": 3569,
+      "source_tag_count": 38,
+      "target_tag_count": 36,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "357",
+      "lang": "sk",
+      "type": "long",
+      "source": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+      "target": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 10,
+        "safety_blocks_added": 0
+      },
+      "sha256": "80011233deb00b20f31dff0306e0947d59abd316f6c4d55f1afa56b346c6dc15",
+      "bytes": 27423,
+      "source_tag_count": 284,
+      "target_tag_count": 273,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "5b5d1dc1942b627bcb21107732fefb1539d86d24ce277ec123f3f9570c9281de",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "4063df387f40f7821fea36a89b79da0fe288ac6dca85d7bb95a70de298b943a9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "c42fbdd14f09254fa63e3d050afdcd5044d97427b0c991a73a7224d73678a436",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "357",
+      "lang": "sk",
+      "type": "short",
+      "source": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+      "target": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-sk.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "e18b2f1366ecb9773daa02a1f8a516f7d83712d9dc74dc4128f6de923bf5fa6d",
+      "bytes": 3054,
+      "source_tag_count": 33,
+      "target_tag_count": 31,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "357",
+      "lang": "en",
+      "type": "long",
+      "source": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+      "target": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 10,
+        "safety_blocks_added": 0
+      },
+      "sha256": "ea295e308dd6278d307bf842db6e121c9c78bcb260afd6aeb88bc6a037675979",
+      "bytes": 27231,
+      "source_tag_count": 284,
+      "target_tag_count": 273,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "9a85cecfb93b2168bf86c0eebb37aa65de37cd9d24613fedc6e6d5b96782d05e",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "4063df387f40f7821fea36a89b79da0fe288ac6dca85d7bb95a70de298b943a9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "c42fbdd14f09254fa63e3d050afdcd5044d97427b0c991a73a7224d73678a436",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "357",
+      "lang": "en",
+      "type": "short",
+      "source": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+      "target": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-en.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "eb0a4e28e00bb20b231641b7c81dbf1ea2a4b922e364db8aef345dd98bbde955",
+      "bytes": 3027,
+      "source_tag_count": 33,
+      "target_tag_count": 31,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "357",
+      "lang": "de",
+      "type": "long",
+      "source": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+      "target": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 10,
+        "safety_blocks_added": 0
+      },
+      "sha256": "4caa3e89d71b39f3befc1b72b2573b32b57f53a9a4313a4f840a5ddaf64a9dff",
+      "bytes": 27986,
+      "source_tag_count": 284,
+      "target_tag_count": 273,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "02551b4300ab60be2d8b1fea2ab7c89b29b304e0fc06bcc68183265a5cd26056",
+          "syntax_ok": true
+        },
+        {
+          "index": 1,
+          "sha256": "4063df387f40f7821fea36a89b79da0fe288ac6dca85d7bb95a70de298b943a9",
+          "syntax_ok": true
+        },
+        {
+          "index": 2,
+          "sha256": "c42fbdd14f09254fa63e3d050afdcd5044d97427b0c991a73a7224d73678a436",
+          "syntax_ok": true
+        },
+        {
+          "index": 3,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "357",
+      "lang": "de",
+      "type": "short",
+      "source": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+      "target": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-de.html",
+      "exists": true,
+      "structural_exceptions": {
+        "internal_blocks_removed": 1,
+        "safety_blocks_added": 0
+      },
+      "sha256": "6bf300e81eab3fda696fdc20de9c256adcfc2411b1ae35916441b1054d1a3040",
+      "bytes": 3230,
+      "source_tag_count": 33,
+      "target_tag_count": 31,
+      "scripts": [
+        {
+          "index": 0,
+          "sha256": "efb80e4423eaffa6d90fc6f6fd3add021afbe3bd5310a5f267196cc5fd56de83",
+          "syntax_ok": true
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

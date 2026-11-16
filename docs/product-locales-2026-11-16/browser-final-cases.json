@@ -1,0 +1,4289 @@
+[
+  {
+    "id": "476",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 28
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 28
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 28
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "476",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 17,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 39
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 39
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 39
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 39
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 39
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 39
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 39
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 39
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "544",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 39
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "383",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 30,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 43
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 43
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 43
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 43
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 43
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 43
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 43
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 43
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "550",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 43
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "635",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "641",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 38
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 38
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 38
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 38
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 38
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 38
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 38
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 38
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "644",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 38
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "51",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 28
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "600",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "452",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 6,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 40
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [],
+      "brokenImages": 40
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [],
+      "brokenImages": 40
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 40
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [],
+      "brokenImages": 40
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [],
+      "brokenImages": 40
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 40
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [],
+      "brokenImages": 40
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "57",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 9,
+      "toggles": [],
+      "brokenImages": 40
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 26,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 36
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "99",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 36
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 21,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 44
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "174",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 10,
+      "toggles": [],
+      "brokenImages": 44
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 29,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "464",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 24,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 34
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 34
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 34
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 34
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 34
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 34
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 34
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 34
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "467",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 0,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 34
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 28,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 35
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "416",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 35
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 25,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 20
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [],
+      "brokenImages": 20
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [],
+      "brokenImages": 20
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 20
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [],
+      "brokenImages": 20
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [],
+      "brokenImages": 20
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 20
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [],
+      "brokenImages": 20
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "84",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 4,
+      "toggles": [],
+      "brokenImages": 20
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 12,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "sk",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        },
+        {
+          "text": "Zobraziť viac",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 29
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Zobraziť menej"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "sk",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 29
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "sk",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 29
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "en",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        },
+        {
+          "text": "Show more",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 29
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Show less"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "en",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 29
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "en",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 29
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "de",
+    "width": 375,
+    "metrics": {
+      "width": 375,
+      "docWidth": 375,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        },
+        {
+          "text": "Mehr anzeigen",
+          "expanded": "false"
+        }
+      ],
+      "brokenImages": 29
+    },
+    "toggle_tests": [
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      },
+      {
+        "expanded": "true",
+        "collapsed": "false",
+        "label": "Weniger anzeigen"
+      }
+    ],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "de",
+    "width": 768,
+    "metrics": {
+      "width": 768,
+      "docWidth": 768,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 29
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  },
+  {
+    "id": "357",
+    "lang": "de",
+    "width": 1200,
+    "metrics": {
+      "width": 1200,
+      "docWidth": 1200,
+      "roots": 2,
+      "dialogs": 7,
+      "toggles": [],
+      "brokenImages": 29
+    },
+    "toggle_tests": [],
+    "page_errors": [],
+    "blocked_resource_count": 22,
+    "scope": "isolated authentic HTML with repo CSS/JS; external images/fonts blocked, no live-shop proof"
+  }
+]

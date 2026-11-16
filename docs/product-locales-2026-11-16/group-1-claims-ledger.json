@@ -1,0 +1,1621 @@
+{
+  "scope": "Interní nepublikovaný Git working translation; HTML neobsahuje zákaznické draft notices. Převzetí účinků není schválení publikace. Žádný Git commit/push ani Shoptet/provider akce.",
+  "rules": "/root/workspace/brand/RULES.md",
+  "not_allowed_file": "/root/workspace/brand/NOT-ALLOWED.md chybí; žádné domýšlení právního schválení",
+  "claims": [
+    {
+      "product_id": "547",
+      "source_string_key": 0,
+      "source": "Svačinka Slim GLP-1 Shake s příchutí cappuccino | Proteinový Shake pro Hubnutí a Sytost",
+      "translations": {
+        "sk": "Desiata Slim GLP-1 Shake s príchuťou cappuccino | Proteínový shake na chudnutie a sýtosť",
+        "en": "Slim GLP-1 Shake snack, cappuccino flavour | Protein shake for weight loss and satiety",
+        "de": "Slim GLP-1 Shake als Zwischenmahlzeit mit Cappuccino-Geschmack | Proteinshake zum Abnehmen und für Sättigung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 18,
+      "source": "Slim GLP-1 SHAKE není jen proteinový nápoj. Je to promyšlená kombinace složek, které společně podporují vaše tělo přesně tam, kde to při hubnutí nejvíc potřebuje – a to u chuti k jídlu, spalování tuků i udržení energie.",
+      "translations": {
+        "sk": "Slim GLP-1 SHAKE nie je len proteínový nápoj. Je to premyslená kombinácia zložiek, ktoré spoločne podporujú vaše telo presne tam, kde to pri chudnutí najviac potrebuje – pri chuti do jedla, spaľovaní tukov aj udržaní energie.",
+        "en": "Slim GLP-1 SHAKE is more than a protein drink. It is a carefully considered combination of ingredients that work together to support your body where it needs it most during weight loss – appetite, fat burning and maintaining energy.",
+        "de": "Slim GLP-1 SHAKE ist mehr als ein Proteingetränk. Er ist eine durchdachte Kombination von Inhaltsstoffen, die Ihren Körper gemeinsam genau dort unterstützen, wo er es beim Abnehmen am meisten braucht – beim Appetit, bei der Fettverbrennung und beim Erhalt der Energie."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 21,
+      "source": "pro výživu a ochranu svalů,",
+      "translations": {
+        "sk": "na výživu a ochranu svalov,",
+        "en": "to nourish and protect muscles,",
+        "de": "zur Versorgung und zum Schutz der Muskeln,"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 23,
+      "source": "pro zdravou pleť a klouby,",
+      "translations": {
+        "sk": "pre zdravú pleť a kĺby,",
+        "en": "for healthy skin and joints,",
+        "de": "für gesunde Haut und Gelenke,"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 25,
+      "source": "jako zdroj rychlé energie a výraznou příchuť cappuccino, kterou si zamilujete. Díky chromu přispívá k normální hladině glukózy v krvi a",
+      "translations": {
+        "sk": "ako zdroj rýchlej energie a výraznú príchuť cappuccino, ktorú si zamilujete. Vďaka chrómu prispieva k normálnej hladine glukózy v krvi a",
+        "en": "as a source of quick energy and a distinctive cappuccino flavour you will love. Thanks to chromium, it contributes to normal blood glucose levels, and",
+        "de": "als schnelle Energiequelle und einen markanten Cappuccino-Geschmack, den Sie lieben werden. Dank Chrom trägt er zu einem normalen Blutzuckerspiegel bei, und"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 27,
+      "source": "doplňuje tělu to, co mu při redukční dietě snadno chybí. O zdravé trávení a maximální vstřebávání živin se stará kombinace",
+      "translations": {
+        "sk": "dopĺňa telu to, čo mu pri redukčnej diéte ľahko chýba. O zdravé trávenie a maximálne vstrebávanie živín sa stará kombinácia",
+        "en": "replenishes what the body can easily lack during a weight-loss diet. Healthy digestion and maximum nutrient absorption are supported by a combination of",
+        "de": "führt dem Körper zu, was ihm bei einer Reduktionsdiät leicht fehlen kann. Für eine gesunde Verdauung und maximale Nährstoffaufnahme sorgt die Kombination aus"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 32,
+      "source": "Jednoduše řečeno: jeden shake, komplexní podpora.",
+      "translations": {
+        "sk": "Jednoducho povedané: jeden shake, komplexná podpora.",
+        "en": "Simply put: one shake, comprehensive support.",
+        "de": "Einfach gesagt: ein Shake, umfassende Unterstützung."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 33,
+      "source": "Hlavní účinky Svačinka Slim GLP-1 Shake",
+      "translations": {
+        "sk": "Hlavné účinky Desiaty Slim GLP-1 Shake",
+        "en": "Main benefits of the Slim GLP-1 Shake snack",
+        "de": "Hauptwirkungen der Slim GLP-1 Shake-Zwischenmahlzeit"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 35,
+      "source": "Zvyšuje pocit sytosti",
+      "translations": {
+        "sk": "Zvyšuje pocit sýtosti",
+        "en": "Increases satiety",
+        "de": "Steigert das Sättigungsgefühl"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 36,
+      "source": "Potlačuje chuť k jídlu",
+      "translations": {
+        "sk": "Potláča chuť do jedla",
+        "en": "Suppresses appetite",
+        "de": "Hemmt den Appetit"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 37,
+      "source": "Budování a údržba svalů",
+      "translations": {
+        "sk": "Budovanie a udržiavanie svalov",
+        "en": "Muscle building and maintenance",
+        "de": "Muskelaufbau und -erhalt"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 38,
+      "source": "Maximální podpora hubnutí",
+      "translations": {
+        "sk": "Maximálna podpora chudnutia",
+        "en": "Maximum weight-loss support",
+        "de": "Maximale Unterstützung beim Abnehmen"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 39,
+      "source": "Redukce tuku",
+      "translations": {
+        "sk": "Redukcia tuku",
+        "en": "Fat reduction",
+        "de": "Fettreduktion"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 43,
+      "source": "Slim GLP-1 SHAKE je navržený tak, aby fungoval na několika úrovních najednou.",
+      "translations": {
+        "sk": "Slim GLP-1 SHAKE je navrhnutý tak, aby fungoval na viacerých úrovniach naraz.",
+        "en": "Slim GLP-1 SHAKE is designed to work on several levels at once.",
+        "de": "Slim GLP-1 SHAKE wurde entwickelt, um auf mehreren Ebenen zugleich zu wirken."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 46,
+      "source": "– pomalý protein, který se vstřebává až 7 hodin a zajišťuje dlouhodobý pocit sytosti. Brání večerním chutím i odbourávání svalové hmoty. Doplňují ho",
+      "translations": {
+        "sk": "– pomalý proteín, ktorý sa vstrebáva až 7 hodín a zabezpečuje dlhodobý pocit sýtosti. Bráni večerným chutiam aj odbúravaniu svalovej hmoty. Dopĺňajú ho",
+        "en": "– a slow protein that is absorbed over up to 7 hours and ensures lasting satiety. It prevents evening cravings and muscle breakdown. It is complemented by",
+        "de": "– ein langsames Protein, das über bis zu 7 Stunden aufgenommen wird und für ein lang anhaltendes Sättigungsgefühl sorgt. Es verhindert abendliche Gelüste und den Abbau von Muskelmasse. Ergänzt wird es durch"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 48,
+      "source": ", které chrání klouby, šlachy a přispívají ke zdravému vzhledu pleti. Součástí je i",
+      "translations": {
+        "sk": ", ktoré chránia kĺby, šľachy a prispievajú k zdravému vzhľadu pleti. Súčasťou je aj",
+        "en": ", which protect joints and tendons and contribute to healthy-looking skin. The formula also includes",
+        "de": ", die Gelenke und Sehnen schützen und zu einem gesunden Hautbild beitragen. Ebenfalls enthalten ist"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 50,
+      "source": "– rychlý zdroj energie, který se v těle nechová jako zásobní tuk.",
+      "translations": {
+        "sk": "– rýchly zdroj energie, ktorý sa v tele nespráva ako zásobný tuk.",
+        "en": "– a quick source of energy that does not behave like stored fat in the body.",
+        "de": "– eine schnelle Energiequelle, die sich im Körper nicht wie Speicherfett verhält."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 53,
+      "source": "Patentovaná látka, která zpomaluje vstřebávání tuků z potravy až o 27 % a přirozeně navozuje pocit plnosti.",
+      "translations": {
+        "sk": "Patentovaná látka, ktorá spomaľuje vstrebávanie tukov z potravy až o 27 % a prirodzene navodzuje pocit plnosti.",
+        "en": "A patented substance that slows the absorption of dietary fats by up to 27 % and naturally induces a feeling of fullness.",
+        "de": "Ein patentierter Inhaltsstoff, der die Aufnahme von Nahrungsfetten um bis zu 27 % verlangsamt und auf natürliche Weise ein Völlegefühl hervorruft."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "specific_concern": "CAROLEAN: účinek na vstřebávání tuků/cukrů, hlad a kontrolu váhy; číselné až 27 % neprokazuje schválené tvrzení a nebylo ověřeno."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 55,
+      "source": "stabilizuje hladinu cukru v krvi, čímž snižuje touhu po sladkém a vyrovnává výkyvy hladu během dne.",
+      "translations": {
+        "sk": "stabilizuje hladinu cukru v krvi, čím znižuje túžbu po sladkom a vyrovnáva výkyvy hladu počas dňa.",
+        "en": "stabilises blood sugar levels, reducing sweet cravings and balancing fluctuations in hunger throughout the day.",
+        "de": "stabilisiert den Blutzuckerspiegel, verringert dadurch das Verlangen nach Süßem und gleicht Hungerschwankungen im Tagesverlauf aus."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "specific_concern": "Stabilizace glykemie a omezení chutí je silnější než obecné tvrzení o normální hladině glukózy. Zdroj produktu žádné schválené EFSA znění neuvádí."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 58,
+      "source": "Přírodní zdroj 72 minerálů z mořských řas pro energii a správný metabolismus.",
+      "translations": {
+        "sk": "Prírodný zdroj 72 minerálov z morských rias pre energiu a správny metabolizmus.",
+        "en": "A natural source of 72 minerals from seaweed for energy and a properly functioning metabolism.",
+        "de": "Eine natürliche Quelle von 72 Mineralstoffen aus Meeresalgen für Energie und einen gut funktionierenden Stoffwechsel."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 60,
+      "source": "(8,9 mld. CFU) a",
+      "translations": {
+        "sk": "(8,9 mld. CFU) a",
+        "en": "(8,9 billion CFU) and",
+        "de": "(8,9 Mrd. CFU) und"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "specific_concern": "8,9 miliardy CFU v textu je v rozporu s tabulkou 0,75 mld. KJT na dávku. Ponecháno beze změny."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 61,
+      "source": "zajišťují, že tělo ze šejku vytěží maximum.",
+      "translations": {
+        "sk": "zabezpečujú, že telo zo šejku vyťaží maximum.",
+        "en": "ensure the body gets the most out of the shake.",
+        "de": "sorgen dafür, dass der Körper den Shake optimal nutzt."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 63,
+      "source": "vyživuje střevní mikroflóru a prodlužuje pocit sytosti.",
+      "translations": {
+        "sk": "vyživuje črevnú mikroflóru a predlžuje pocit sýtosti.",
+        "en": "nourishes the intestinal microbiota and prolongs satiety.",
+        "de": "ernähren die Darmflora und verlängern das Sättigungsgefühl."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 65,
+      "source": "Komplexní podpora, která skutečně funguje. Tedy hlad pod kontrolou, tuky se spalují, svaly zůstávají.",
+      "translations": {
+        "sk": "Komplexná podpora, ktorá skutočne funguje. Teda hlad pod kontrolou, tuky sa spaľujú, svaly zostávajú.",
+        "en": "Comprehensive support that really works. Hunger under control, fat burning and muscles preserved.",
+        "de": "Umfassende Unterstützung, die wirklich funktioniert. Das heißt: Hunger unter Kontrolle, Fett wird verbrannt, Muskeln bleiben erhalten."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 66,
+      "source": "Proč náš GLP-1 Shake a ne obyčejný Whey protein?",
+      "translations": {
+        "sk": "Prečo náš GLP-1 Shake a nie obyčajný Whey proteín?",
+        "en": "Why our GLP-1 Shake instead of ordinary whey protein?",
+        "de": "Warum unser GLP-1 Shake statt gewöhnlichem Whey-Protein?"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 67,
+      "source": "Primární rozdíl je, že Whey protein zasytí na chvíli. Oproti tomu náš Slim GLP-1 Shake zasytí na celé dopoledne. Případně odpoledne, podle vašich preferencí. Nestihneš ani přemýšlet o drobných pamlscích, protože nezastaví jen hlad, ale i ty malé chutě na sladké, které sabotují každou dietu. Díky tomuto produktu vaše tělo dostane všechno najednou: bílkoviny pro svaly, kolagen pro pleť a klouby, minerály pro energii, enzymy pro trávení bez nadýmání. Žádné hromadění deseti různých doplňků. Žádné výčitky po zbytečném jídle. Jen jeden shake, který skutečně funguje na více věcí zároveň.",
+      "translations": {
+        "sk": "Hlavný rozdiel je v tom, že Whey proteín zasýti na chvíľu. Náš Slim GLP-1 Shake vás oproti tomu zasýti na celé dopoludnie. Prípadne popoludnie, podľa vašich preferencií. Nestihnete ani pomyslieť na drobné maškrty, pretože nezastaví len hlad, ale aj malé chute na sladké, ktoré sabotujú každú diétu. Vďaka tomuto produktu dostane vaše telo všetko naraz: bielkoviny pre svaly, kolagén pre pleť a kĺby, minerály pre energiu, enzýmy pre trávenie bez nadúvania. Žiadne hromadenie desiatich rôznych doplnkov. Žiadne výčitky po zbytočnom jedle. Len jeden shake, ktorý skutočne funguje na viac vecí naraz.",
+        "en": "The main difference is that whey protein fills you up for a short time. By contrast, our Slim GLP-1 Shake keeps you full all morning. Or all afternoon, depending on your preference. You will not even have time to think about small treats, because it stops not only hunger but also those little sweet cravings that sabotage every diet. With this product, your body gets everything at once: protein for muscles, collagen for skin and joints, minerals for energy and enzymes for digestion without bloating. No stockpiling ten different supplements. No guilt after unnecessary eating. Just one shake that really works on several things at once.",
+        "de": "Der Hauptunterschied: Whey-Protein sättigt nur kurz. Unser Slim GLP-1 Shake hält dagegen den ganzen Vormittag satt. Oder den Nachmittag, ganz nach Ihren Vorlieben. Sie kommen gar nicht erst dazu, an kleine Leckereien zu denken, denn er stoppt nicht nur den Hunger, sondern auch die kleinen Gelüste auf Süßes, die jede Diät sabotieren. Mit diesem Produkt bekommt Ihr Körper alles auf einmal: Proteine für die Muskeln, Kollagen für Haut und Gelenke, Mineralstoffe für Energie und Enzyme für eine Verdauung ohne Blähungen. Keine Ansammlung von zehn verschiedenen Nahrungsergänzungsmitteln. Kein schlechtes Gewissen nach unnötigem Essen. Nur ein Shake, der tatsächlich mehrere Aufgaben gleichzeitig erfüllt."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 69,
+      "source": "Potlačení chuti k jídlu a lepší kontrola hladu. Efektivní spalování tuků a podpora redukce hmotnosti. Dlouhodobý pocit sytosti díky micelárnímu kaseinu. Zdravá střevní mikroflóra díky probiotikům LactoSpore®. Podpora trávení a metabolismu díky směsi 7 enzymů OPTI7DIGEST®. Energie, imunita a vitalita díky 12 bioaktivním vitamínům. Omlazení pokožky, vlasů a nehtů díky bioaktivním kolagenním peptidům. Rychlá rehydratace a doplnění minerálů díky Aquamin® s více než 72 prvky.",
+      "translations": {
+        "sk": "Potlačenie chuti do jedla a lepšia kontrola hladu. Efektívne spaľovanie tukov a podpora redukcie hmotnosti. Dlhodobý pocit sýtosti vďaka micelárnemu kazeínu. Zdravá črevná mikroflóra vďaka probiotikám LactoSpore®. Podpora trávenia a metabolizmu vďaka zmesi 7 enzýmov OPTI7DIGEST®. Energia, imunita a vitalita vďaka 12 bioaktívnym vitamínom. Omladenie pokožky, vlasov a nechtov vďaka bioaktívnym kolagénovým peptidom. Rýchla rehydratácia a doplnenie minerálov vďaka Aquamin® s viac než 72 prvkami.",
+        "en": "Appetite suppression and better hunger control. Effective fat burning and support for weight reduction. Lasting satiety thanks to micellar casein. Healthy intestinal microbiota thanks to LactoSpore® probiotics. Digestive and metabolic support thanks to the blend of 7 OPTI7DIGEST® enzymes. Energy, immunity and vitality thanks to 12 bioactive vitamins. Rejuvenation of skin, hair and nails thanks to bioactive collagen peptides. Rapid rehydration and mineral replenishment thanks to Aquamin® with more than 72 elements.",
+        "de": "Appetithemmung und bessere Hungerkontrolle. Effektive Fettverbrennung und Unterstützung bei der Gewichtsreduktion. Lang anhaltende Sättigung dank mizellarem Kasein. Gesunde Darmflora dank LactoSpore®-Probiotika. Unterstützung von Verdauung und Stoffwechsel dank einer Mischung aus 7 OPTI7DIGEST®-Enzymen. Energie, Immunität und Vitalität dank 12 bioaktiven Vitaminen. Verjüngung von Haut, Haaren und Nägeln dank bioaktiven Kollagenpeptiden. Schnelle Rehydrierung und Mineralstoffergänzung dank Aquamin® mit mehr als 72 Elementen."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 72,
+      "source": "Potlačení chuti k jídlu a lepší kontrola hladu.",
+      "translations": {
+        "sk": "Potlačenie chuti do jedla a lepšia kontrola hladu.",
+        "en": "Appetite suppression and better hunger control.",
+        "de": "Appetithemmung und bessere Hungerkontrolle."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 73,
+      "source": "Efektivní spalování tuků a podpora redukce hmotnosti.",
+      "translations": {
+        "sk": "Efektívne spaľovanie tukov a podpora redukcie hmotnosti.",
+        "en": "Effective fat burning and support for weight reduction.",
+        "de": "Effektive Fettverbrennung und Unterstützung bei der Gewichtsreduktion."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 74,
+      "source": "Dlouhodobý pocit sytosti díky micelárnímu kaseinu.",
+      "translations": {
+        "sk": "Dlhodobý pocit sýtosti vďaka micelárnemu kazeínu.",
+        "en": "Lasting satiety thanks to micellar casein.",
+        "de": "Lang anhaltende Sättigung dank mizellarem Kasein."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 75,
+      "source": "Zdravá střevní mikroflóra díky probiotikům LactoSpore®.",
+      "translations": {
+        "sk": "Zdravá črevná mikroflóra vďaka probiotikám LactoSpore®.",
+        "en": "Healthy intestinal microbiota thanks to LactoSpore® probiotics.",
+        "de": "Gesunde Darmflora dank LactoSpore®-Probiotika."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 76,
+      "source": "Podpora trávení a metabolismu díky směsi 7 enzymů OPTI7DIGEST®.",
+      "translations": {
+        "sk": "Podpora trávenia a metabolizmu vďaka zmesi 7 enzýmov OPTI7DIGEST®.",
+        "en": "Digestive and metabolic support thanks to the blend of 7 OPTI7DIGEST® enzymes.",
+        "de": "Unterstützung von Verdauung und Stoffwechsel dank einer Mischung aus 7 OPTI7DIGEST®-Enzymen."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 77,
+      "source": "Energie, imunita a vitalita díky 12 bioaktivním vitamínům.",
+      "translations": {
+        "sk": "Energia, imunita a vitalita vďaka 12 bioaktívnym vitamínom.",
+        "en": "Energy, immunity and vitality thanks to 12 bioactive vitamins.",
+        "de": "Energie, Immunität und Vitalität dank 12 bioaktiven Vitaminen."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 78,
+      "source": "Omlazení pokožky, vlasů a nehtů díky bioaktivním kolagenním peptidům.",
+      "translations": {
+        "sk": "Omladenie pokožky, vlasov a nechtov vďaka bioaktívnym kolagénovým peptidom.",
+        "en": "Rejuvenation of skin, hair and nails thanks to bioactive collagen peptides.",
+        "de": "Verjüngung von Haut, Haaren und Nägeln dank bioaktiven Kollagenpeptiden."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 79,
+      "source": "Rychlá rehydratace a doplnění minerálů díky Aquamin® s více než 72 prvky.",
+      "translations": {
+        "sk": "Rýchla rehydratácia a doplnenie minerálov vďaka Aquamin® s viac než 72 prvkami.",
+        "en": "Rapid rehydration and mineral replenishment thanks to Aquamin® with more than 72 elements.",
+        "de": "Schnelle Rehydrierung und Mineralstoffergänzung dank Aquamin® mit mehr als 72 Elementen."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 81,
+      "source": "Kdy naše zákaznice sahají po naší svačince?",
+      "translations": {
+        "sk": "Kedy naše zákazníčky siahajú po našej svačinke?",
+        "en": "When do our customers reach for our snack?",
+        "de": "Wann greifen unsere Kundinnen zu unserer Zwischenmahlzeit?"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 82,
+      "source": "„Je 15:00 a přepadá tě ta typická odpolední vlna hladu.\"",
+      "translations": {
+        "sk": "„Je 15:00 a prepadá vás typická popoludňajšia vlna hladu.\"",
+        "en": "“It is 15:00 and that familiar afternoon wave of hunger hits you.”",
+        "de": "„Es ist 15:00 Uhr und die typische nachmittägliche Hungerwelle überkommt Sie.\""
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 83,
+      "source": "Místo čokolády nebo sušenky sáhni po Slim GLP-1 Shake. Za 2 minuty máš v ruce 20 g bílkovin, sytou svačinu a žádné výčitky. Tvůj den pokračuje přesně podle plánu.",
+      "translations": {
+        "sk": "Namiesto čokolády alebo sušienky siahnite po Slim GLP-1 Shake. Za 2 minúty máte v ruke 20 g bielkovín, sýtu desiatu a žiadne výčitky. Váš deň pokračuje presne podľa plánu.",
+        "en": "Reach for Slim GLP-1 Shake instead of chocolate or a biscuit. In 2 minutes, you have 20 g of protein, a filling snack and no guilt. Your day continues exactly as planned.",
+        "de": "Greifen Sie statt zu Schokolade oder Keksen zum Slim GLP-1 Shake. In 2 Minuten haben Sie 20 g Protein, eine sättigende Zwischenmahlzeit und kein schlechtes Gewissen in der Hand. Ihr Tag geht genau nach Plan weiter."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 84,
+      "source": "„Po tréninku nevíš, co rychle sníst.\"",
+      "translations": {
+        "sk": "„Po tréningu neviete, čo rýchlo zjesť.\"",
+        "en": "“After training, you do not know what to eat in a hurry.”",
+        "de": "„Nach dem Training wissen Sie nicht, was Sie schnell essen sollen.\""
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 85,
+      "source": "Shake smícháš s vodou ještě v šatně a svaly mají okamžitě to, co potřebují. Micelární kasein se postará o sytost na hodiny dopředu. Žádné zdlouhavé vaření. Žádný hlad cestou domů.",
+      "translations": {
+        "sk": "Shake zmiešate s vodou ešte v šatni a svaly majú okamžite to, čo potrebujú. Micelárny kazeín sa postará o sýtosť na celé hodiny. Žiadne zdĺhavé varenie. Žiadny hlad cestou domov.",
+        "en": "Mix the shake with water while still in the changing room and your muscles immediately get what they need. Micellar casein keeps you full for hours ahead. No lengthy cooking. No hunger on the way home.",
+        "de": "Mischen Sie den Shake noch in der Umkleide mit Wasser und Ihre Muskeln bekommen sofort, was sie brauchen. Mizellares Kasein sorgt für stundenlange Sättigung. Kein langes Kochen. Kein Hunger auf dem Heimweg."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 86,
+      "source": "„Jsem v práci, nestíhám a svačina prostě nevyšla.\"",
+      "translations": {
+        "sk": "„Som v práci, nestíham a desiata jednoducho nevyšla.\"",
+        "en": "“I am at work, short of time, and a snack just did not happen.”",
+        "de": "„Ich bin bei der Arbeit, habe keine Zeit und die Zwischenmahlzeit ist einfach ausgefallen.\""
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 87,
+      "source": "Slim GLP-1 Shake má vždy místo v tašce. Minutu míchání, a máš kompletní svačinu s vitamíny, minerály, proteinem i probiotiky. Všechno v jednom. Protože zdravý životní styl musí být praktický, ne komplikovaný.",
+      "translations": {
+        "sk": "Slim GLP-1 Shake má vždy miesto v taške. Minúta miešania a máte kompletnú desiatu s vitamínmi, minerálmi, proteínom aj probiotikami. Všetko v jednom. Pretože zdravý životný štýl musí byť praktický, nie komplikovaný.",
+        "en": "There is always room for Slim GLP-1 Shake in your bag. A minute of mixing gives you a complete snack with vitamins, minerals, protein and probiotics. All in one. Because a healthy lifestyle needs to be practical, not complicated.",
+        "de": "Slim GLP-1 Shake hat immer Platz in der Tasche. Eine Minute mischen, und Sie haben eine komplette Zwischenmahlzeit mit Vitaminen, Mineralstoffen, Protein und Probiotika. Alles in einem. Denn ein gesunder Lebensstil muss praktisch sein, nicht kompliziert."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 88,
+      "source": "„Chci hubnout, ale nechci se trápit hladem.\"",
+      "translations": {
+        "sk": "„Chcem schudnúť, ale nechcem sa trápiť hladom.\"",
+        "en": "“I want to lose weight, but I do not want to suffer from hunger.”",
+        "de": "„Ich möchte abnehmen, mich aber nicht mit Hunger quälen.\""
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 89,
+      "source": "Přesně pro tebe jsme Slim GLP-1 Shake navrhli. CAROLEAN™ přirozeně snižuje vstřebávání tuků, chrom drží hladinu cukru stabilní a kasein zastaví hlad na hodiny. Hubnutí nemusí bolet, ale musí dávat smysl.",
+      "translations": {
+        "sk": "Presne pre vás sme Slim GLP-1 Shake navrhli. CAROLEAN™ prirodzene znižuje vstrebávanie tukov, chróm udržiava stabilnú hladinu cukru a kazeín zastaví hlad na hodiny. Chudnutie nemusí bolieť, ale musí dávať zmysel.",
+        "en": "We designed Slim GLP-1 Shake precisely for you. CAROLEAN™ naturally reduces fat absorption, chromium keeps blood sugar stable and casein stops hunger for hours. Weight loss does not have to hurt, but it has to make sense.",
+        "de": "Genau für Sie haben wir Slim GLP-1 Shake entwickelt. CAROLEAN™ verringert auf natürliche Weise die Fettaufnahme, Chrom hält den Blutzucker stabil und Kasein stoppt den Hunger für Stunden. Abnehmen muss nicht wehtun, aber es muss sinnvoll sein."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "specific_concern": "Stabilizace glykemie a omezení chutí je silnější než obecné tvrzení o normální hladině glukózy. Zdroj produktu žádné schválené EFSA znění neuvádí.",
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 90,
+      "source": "„Mám chuť na sladké, ale vím, že to nechci.\"",
+      "translations": {
+        "sk": "„Mám chuť na sladké, ale viem, že to nechcem.\"",
+        "en": "“I am craving something sweet, but I know I do not want it.”",
+        "de": "„Ich habe Lust auf Süßes, weiß aber, dass ich das nicht möchte.\""
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 91,
+      "source": "Sáhni po shake s příchutí cappuccino. Zasytí, potěší a nezbrzdí tě. Cukry? Jen 2,4 g na porci. Výčitky? Žádné.",
+      "translations": {
+        "sk": "Siahnite po shake s príchuťou cappuccino. Zasýti, poteší a nezabrzdí vás. Cukry? Len 2,4 g na porciu. Výčitky? Žiadne.",
+        "en": "Reach for a cappuccino-flavoured shake. It fills you up, delights you and does not slow you down. Sugars? Just 2,4 g per serving. Guilt? None.",
+        "de": "Greifen Sie zum Shake mit Cappuccino-Geschmack. Er sättigt, erfreut und bremst Sie nicht aus. Zucker? Nur 2,4 g pro Portion. Schlechtes Gewissen? Keines."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "testimonial_status": "Přejaté modelové situace v uvozovkách, nikoli doložené autentické zákaznické reference."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 128,
+      "source": "Prémiový mořský komplex získaný z červených mořských řas, který obsahuje více než 72 minerálů a stopových prvků v přirozeně biologicky dostupné formě. To znamená, že je tělo dokáže opravdu využít – na rozdíl od běžných minerálních doplňků. Aquamin® podporuje správnou funkci svalů, nervového systému i kostí, pomáhá udržet vitalitu během dne a navíc hydratuje organismus na buněčné úrovni. Díky svému unikátnímu složení přináší energii, snižuje únavu a je ideální i při redukčních dietách nebo po sportu, kdy tělo přichází o důležité minerály.",
+      "translations": {
+        "sk": "Prémiový morský komplex získaný z červených morských rias, ktorý obsahuje viac než 72 minerálov a stopových prvkov v prirodzene biologicky dostupnej forme. To znamená, že ich telo dokáže skutočne využiť – na rozdiel od bežných minerálnych doplnkov. Aquamin® podporuje správnu funkciu svalov, nervového systému aj kostí, pomáha udržať vitalitu počas dňa a navyše hydratuje organizmus na bunkovej úrovni. Vďaka svojmu jedinečnému zloženiu prináša energiu, znižuje únavu a je ideálny aj pri redukčných diétach alebo po športe, keď telo prichádza o dôležité minerály.",
+        "en": "A premium marine complex derived from red seaweed, containing more than 72 minerals and trace elements in a naturally bioavailable form. This means the body can actually use them – unlike ordinary mineral supplements. Aquamin® supports the proper functioning of muscles, the nervous system and bones, helps maintain vitality throughout the day and also hydrates the body at cellular level. Thanks to its unique composition, it provides energy, reduces fatigue and is also ideal during weight-loss diets or after sport, when the body loses important minerals.",
+        "de": "Ein hochwertiger Meereskomplex aus roten Meeresalgen mit mehr als 72 Mineralstoffen und Spurenelementen in einer natürlich bioverfügbaren Form. Das bedeutet, dass der Körper sie tatsächlich nutzen kann – anders als bei üblichen Mineralstoffpräparaten. Aquamin® unterstützt die richtige Funktion von Muskeln, Nervensystem und Knochen, hilft, die Vitalität über den Tag zu erhalten, und versorgt den Körper zudem auf zellulärer Ebene mit Flüssigkeit. Dank seiner einzigartigen Zusammensetzung liefert es Energie, verringert Müdigkeit und eignet sich auch ideal bei Reduktionsdiäten oder nach dem Sport, wenn der Körper wichtige Mineralstoffe verliert."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 129,
+      "source": "Patentovaná kombinace extraktu z rohovníku (svatojánského chleba) a opuncie, která funguje jako přirozený regulátor chuti k jídlu. CAROLEAN™ vytváří v žaludku jemný gel, který navozuje pocit plnosti a sytosti na delší dobu. Zároveň zpomaluje vstřebávání tuků a cukrů, čímž pomáhá stabilizovat hladinu energie a podporuje kontrolu hmotnosti. Výsledek? Méně chutí na sladké, lepší kontrola nad jídelníčkem a snazší cesta ke štíhlejší linii – bez drastických diet.",
+      "translations": {
+        "sk": "Patentovaná kombinácia extraktu z rohovníka (svätojánskeho chleba) a opuncie, ktorá funguje ako prirodzený regulátor chuti do jedla. CAROLEAN™ vytvára v žalúdku jemný gél, ktorý navodzuje pocit plnosti a sýtosti na dlhší čas. Zároveň spomaľuje vstrebávanie tukov a cukrov, čím pomáha stabilizovať hladinu energie a podporuje kontrolu hmotnosti. Výsledok? Menej chutí na sladké, lepšia kontrola nad jedálničkom a jednoduchšia cesta k štíhlejšej línii – bez drastických diét.",
+        "en": "A patented combination of carob (locust bean) and prickly pear extracts that acts as a natural appetite regulator. CAROLEAN™ forms a gentle gel in the stomach that induces a longer-lasting feeling of fullness and satiety. It also slows the absorption of fats and sugars, helping stabilise energy levels and supporting weight management. The result? Fewer sweet cravings, better control over your diet and an easier path to a slimmer figure – without drastic diets.",
+        "de": "Eine patentierte Kombination aus Johannisbrot- und Feigenkaktusextrakt, die als natürlicher Appetitregulator wirkt. CAROLEAN™ bildet im Magen ein sanftes Gel, das ein länger anhaltendes Völle- und Sättigungsgefühl hervorruft. Gleichzeitig verlangsamt es die Aufnahme von Fetten und Zucker, hilft so, das Energieniveau zu stabilisieren, und unterstützt die Gewichtskontrolle. Das Ergebnis? Weniger Lust auf Süßes, bessere Kontrolle über den Speiseplan und ein leichterer Weg zu einer schlankeren Linie – ohne drastische Diäten."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "specific_concern": "CAROLEAN: účinek na vstřebávání tuků/cukrů, hlad a kontrolu váhy; číselné až 27 % neprokazuje schválené tvrzení a nebylo ověřeno."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 131,
+      "source": "Jedna z nejvíce klinicky ověřených probiotických kultur – Bacillus coagulans MTCC 5856 – která je odolná vůči žaludeční kyselině a působí přesně tam, kde je potřeba: ve střevech. Každá porce obsahuje 8,9 miliardy CFU, které obnovují rovnováhu střevní mikroflóry, podporují zdravé trávení a zlepšují vstřebávání živin z potravy. Silné a zdravé střevo = rychlejší metabolismus, silnější imunita a méně pocitu těžkosti po jídle. Navíc probiotika pozitivně ovlivňují i náladu a celkový pocit pohody, což oceníte zejména při hubnutí.",
+      "translations": {
+        "sk": "Jedna z klinicky najviac overených probiotických kultúr – Bacillus coagulans MTCC 5856 – ktorá je odolná voči žalúdočnej kyseline a pôsobí presne tam, kde je potrebná: v črevách. Každá porcia obsahuje 8,9 miliardy CFU, ktoré obnovujú rovnováhu črevnej mikroflóry, podporujú zdravé trávenie a zlepšujú vstrebávanie živín z potravy. Silné a zdravé črevo = rýchlejší metabolizmus, silnejšia imunita a menší pocit ťažkosti po jedle. Navyše probiotiká pozitívne ovplyvňujú aj náladu a celkový pocit pohody, čo oceníte najmä pri chudnutí.",
+        "en": "One of the most clinically studied probiotic cultures – Bacillus coagulans MTCC 5856 – which resists stomach acid and works exactly where it is needed: in the intestines. Each serving contains 8,9 billion CFU that restore the balance of the intestinal microbiota, support healthy digestion and improve nutrient absorption from food. A strong, healthy gut = a faster metabolism, stronger immunity and less heaviness after eating. Probiotics also positively influence mood and overall well-being, which you will appreciate especially during weight loss.",
+        "de": "Eine der klinisch am besten untersuchten probiotischen Kulturen – Bacillus coagulans MTCC 5856 –, die Magensäure widersteht und genau dort wirkt, wo sie gebraucht wird: im Darm. Jede Portion enthält 8,9 Milliarden CFU, die das Gleichgewicht der Darmflora wiederherstellen, eine gesunde Verdauung unterstützen und die Aufnahme von Nährstoffen aus der Nahrung verbessern. Ein starker und gesunder Darm = ein schnellerer Stoffwechsel, stärkere Immunität und weniger Schweregefühl nach dem Essen. Zudem beeinflussen Probiotika auch die Stimmung und das allgemeine Wohlbefinden positiv, was Sie besonders beim Abnehmen schätzen werden."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false,
+      "specific_concern": "8,9 miliardy CFU v textu je v rozporu s tabulkou 0,75 mld. KJT na dávku. Ponecháno beze změny."
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 132,
+      "source": "Unikátní komplex sedmi trávicích enzymů (amyláza, laktáza, proteáza, lipáza, celuláza, bromelain a papain), který pomáhá tělu efektivněji zpracovávat bílkoviny, tuky i sacharidy. Díky tomu se snižuje nadýmání, těžkost po jídle a tělo dokáže lépe využít živiny pro energii a regeneraci. Bromelain z ananasu a papain z papáji navíc přispívají k přirozenému spalování tuků a rychlejší regeneraci svalů po fyzické aktivitě. OPTI7DIGEST® tak podporuje nejen hubnutí, ale i celkový komfort trávení a vitalitu.",
+      "translations": {
+        "sk": "Jedinečný komplex siedmich tráviacich enzýmov (amyláza, laktáza, proteáza, lipáza, celuláza, bromelaín a papaín), ktorý pomáha telu efektívnejšie spracovávať bielkoviny, tuky aj sacharidy. Vďaka tomu sa znižuje nadúvanie, ťažoba po jedle a telo dokáže lepšie využiť živiny na energiu a regeneráciu. Bromelaín z ananásu a papaín z papáje navyše prispievajú k prirodzenému spaľovaniu tukov a rýchlejšej regenerácii svalov po fyzickej aktivite. OPTI7DIGEST® tak podporuje nielen chudnutie, ale aj celkový komfort trávenia a vitalitu.",
+        "en": "A unique complex of seven digestive enzymes (amylase, lactase, protease, lipase, cellulase, bromelain and papain) that helps the body process proteins, fats and carbohydrates more efficiently. This reduces bloating and heaviness after meals and enables the body to make better use of nutrients for energy and recovery. Bromelain from pineapple and papain from papaya also contribute to natural fat burning and faster muscle recovery after physical activity. OPTI7DIGEST® therefore supports not only weight loss, but also overall digestive comfort and vitality.",
+        "de": "Ein einzigartiger Komplex aus sieben Verdauungsenzymen (Amylase, Laktase, Protease, Lipase, Cellulase, Bromelain und Papain), der dem Körper hilft, Proteine, Fette und Kohlenhydrate effizienter zu verarbeiten. Dadurch werden Blähungen und Schweregefühl nach dem Essen verringert, und der Körper kann Nährstoffe besser für Energie und Regeneration nutzen. Bromelain aus Ananas und Papain aus Papaya tragen zudem zur natürlichen Fettverbrennung und zu einer schnelleren Muskelregeneration nach körperlicher Aktivität bei. OPTI7DIGEST® unterstützt somit nicht nur das Abnehmen, sondern auch den allgemeinen Verdauungskomfort und die Vitalität."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 133,
+      "source": "Pomalu se uvolňující protein, který zajišťuje dlouhodobý pocit sytosti a stabilní zásobu aminokyselin pro svaly. Díky postupnému vstřebávání pomáhá udržovat svalovou hmotu i během hubnutí, zároveň brání večerním chutím a podporuje lepší regeneraci přes noc.",
+      "translations": {
+        "sk": "Pomaly sa uvoľňujúci proteín, ktorý zabezpečuje dlhodobý pocit sýtosti a stabilný prísun aminokyselín pre svaly. Vďaka postupnému vstrebávaniu pomáha udržiavať svalovú hmotu aj počas chudnutia, zároveň bráni večerným chutiam a podporuje lepšiu regeneráciu cez noc.",
+        "en": "A slow-release protein that ensures lasting satiety and a steady supply of amino acids for muscles. Thanks to its gradual absorption, it helps maintain muscle mass even during weight loss, while preventing evening cravings and supporting better overnight recovery.",
+        "de": "Ein langsam freigesetztes Protein, das für lang anhaltende Sättigung und eine gleichmäßige Versorgung der Muskeln mit Aminosäuren sorgt. Dank der allmählichen Aufnahme hilft es, die Muskelmasse auch beim Abnehmen zu erhalten, verhindert zugleich abendliche Gelüste und unterstützt eine bessere Regeneration über Nacht."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 134,
+      "source": "Přírodní vláknina, která slouží jako potrava pro „hodné\" bakterie ve střevech. Podporuje růst zdravé střevní mikroflóry, zlepšuje trávení a pomáhá vstřebávat klíčové živiny. Díky tomu přispívá k pocitu lehkosti, lepší imunitě a zdravému metabolismu.",
+      "translations": {
+        "sk": "Prírodná vláknina, ktorá slúži ako potrava pre „dobré\" baktérie v črevách. Podporuje rast zdravej črevnej mikroflóry, zlepšuje trávenie a pomáha vstrebávať kľúčové živiny. Vďaka tomu prispieva k pocitu ľahkosti, lepšej imunite a zdravému metabolizmu.",
+        "en": "Natural fibre that serves as food for the “good” bacteria in the intestines. It supports the growth of healthy intestinal microbiota, improves digestion and helps absorb key nutrients. This contributes to a feeling of lightness, better immunity and a healthy metabolism.",
+        "de": "Natürliche Ballaststoffe, die den „guten\" Bakterien im Darm als Nahrung dienen. Sie unterstützen das Wachstum einer gesunden Darmflora, verbessern die Verdauung und helfen bei der Aufnahme wichtiger Nährstoffe. Dadurch tragen sie zu einem Gefühl der Leichtigkeit, besserer Immunität und einem gesunden Stoffwechsel bei."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 135,
+      "source": "Obsahuje 12 bioaktivních vitamínů v nejmodernějších formách – včetně aktivních derivátů (riboflavin-5-fosfát, pyridoxal-5-fosfát, L-5-methylfolát, methylkobalamin aj.). Tyto vitamíny podporují energetický metabolismus, správnou funkci nervového systému, imunitu i zdravou pleť. Komplexní mix navíc pomáhá tělu lépe zvládat stres a únavu při redukční dietě.",
+      "translations": {
+        "sk": "Obsahuje 12 bioaktívnych vitamínov v najmodernejších formách – vrátane aktívnych derivátov (riboflavín-5-fosfát, pyridoxal-5-fosfát, L-5-metylfolát, metylkobalamín a i.). Tieto vitamíny podporujú energetický metabolizmus, správnu funkciu nervového systému, imunitu aj zdravú pleť. Komplexná zmes navyše pomáha telu lepšie zvládať stres a únavu pri redukčnej diéte.",
+        "en": "Contains 12 bioactive vitamins in state-of-the-art forms – including active derivatives (riboflavin-5-phosphate, pyridoxal-5-phosphate, L-5-methylfolate, methylcobalamin and others). These vitamins support energy metabolism, proper nervous system function, immunity and healthy skin. The comprehensive blend also helps the body cope better with stress and fatigue during a weight-loss diet.",
+        "de": "Enthält 12 bioaktive Vitamine in modernsten Formen – einschließlich aktiver Derivate (Riboflavin-5-phosphat, Pyridoxal-5-phosphat, L-5-Methylfolat, Methylcobalamin u. a.). Diese Vitamine unterstützen den Energiestoffwechsel, die richtige Funktion des Nervensystems, die Immunität und eine gesunde Haut. Die umfassende Mischung hilft dem Körper außerdem, Stress und Müdigkeit bei einer Reduktionsdiät besser zu bewältigen."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 136,
+      "source": "Rychle vstřebatelná bílkovina, která okamžitě zásobuje svaly aminokyselinami a podporuje jejich regeneraci po fyzické zátěži. Pomáhá chránit svalovou hmotu i v období kalorického deficitu a přispívá k tomu, aby tělo mělo kvalitní zdroj stavebních látek bez zbytečného zatížení trávení.",
+      "translations": {
+        "sk": "Rýchlo vstrebateľná bielkovina, ktorá okamžite zásobuje svaly aminokyselinami a podporuje ich regeneráciu po fyzickej záťaži. Pomáha chrániť svalovú hmotu aj v období kalorického deficitu a prispieva k tomu, aby telo malo kvalitný zdroj stavebných látok bez zbytočného zaťaženia trávenia.",
+        "en": "A rapidly absorbed protein that immediately supplies muscles with amino acids and supports their recovery after physical exertion. It helps protect muscle mass even during a calorie deficit and provides the body with a high-quality source of building blocks without unnecessarily burdening digestion.",
+        "de": "Ein schnell aufgenommenes Protein, das die Muskeln sofort mit Aminosäuren versorgt und ihre Regeneration nach körperlicher Belastung unterstützt. Es hilft, die Muskelmasse auch bei einem Kaloriendefizit zu schützen, und trägt dazu bei, den Körper mit hochwertigen Baustoffen zu versorgen, ohne die Verdauung unnötig zu belasten."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 137,
+      "source": "Zdroj tzv. „rychlých tuků\", které se v těle snadno přeměňují na energii místo toho, aby se ukládaly. MCT olej podporuje metabolismus, dodává energii při fyzické i psychické zátěži a pomáhá prodloužit pocit sytosti. Je ideálním doplňkem při hubnutí i aktivním životním stylu.",
+      "translations": {
+        "sk": "Zdroj takzvaných „rýchlych tukov\", ktoré sa v tele ľahko premieňajú na energiu namiesto ukladania. MCT olej podporuje metabolizmus, dodáva energiu pri fyzickej aj psychickej záťaži a pomáha predĺžiť pocit sýtosti. Je ideálnym doplnkom pri chudnutí aj aktívnom životnom štýle.",
+        "en": "A source of so-called “fast fats” that are easily converted into energy in the body instead of being stored. MCT oil supports metabolism, provides energy during physical and mental exertion and helps prolong satiety. It is an ideal supplement for weight loss and an active lifestyle.",
+        "de": "Eine Quelle sogenannter „schneller Fette\", die im Körper leicht in Energie umgewandelt werden, statt gespeichert zu werden. MCT-Öl unterstützt den Stoffwechsel, liefert Energie bei körperlicher und geistiger Belastung und hilft, das Sättigungsgefühl zu verlängern. Es ist eine ideale Ergänzung beim Abnehmen und für einen aktiven Lebensstil."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 244,
+      "source": "Představujeme Slim GLP-1 Shake s příchutí cappuccino bez kofeinu,",
+      "translations": {
+        "sk": "Predstavujeme Slim GLP-1 Shake s príchuťou cappuccino bez kofeínu,",
+        "en": "Introducing Slim GLP-1 Shake in caffeine-free cappuccino flavour,",
+        "de": "Wir stellen vor: Slim GLP-1 Shake mit koffeinfreiem Cappuccino-Geschmack,"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "547",
+      "source_string_key": 245,
+      "source": "chytrou svačinku pro chvíle, kdy chcete zasytit, podpořit hubnutí a zároveň si dopřát skvělou chuť. Každá porce dodá 20,3 g plnohodnotného proteinu, 4 g bioaktivního kolagenu, MCT tuky z kokosu a komplex Aquamin®, LactoSpore® a OPTI7DIGEST® pro dlouhodobý pocit sytosti, energii a komfortní trávení.",
+      "translations": {
+        "sk": "inteligentnú desiatu pre chvíle, keď sa chcete zasýtiť, podporiť chudnutie a zároveň si dopriať skvelú chuť. Každá porcia dodá 20,3 g plnohodnotného proteínu, 4 g bioaktívneho kolagénu, MCT tuky z kokosu a komplex Aquamin®, LactoSpore® a OPTI7DIGEST® pre dlhodobý pocit sýtosti, energiu a komfortné trávenie.",
+        "en": "a smart snack for those moments when you want to feel full, support weight loss and enjoy a delicious flavour. Each serving provides 20,3 g of complete protein, 4 g of bioactive collagen, MCT fats from coconut and a complex of Aquamin®, LactoSpore® and OPTI7DIGEST® for lasting satiety, energy and comfortable digestion.",
+        "de": "eine clevere Zwischenmahlzeit für Momente, in denen Sie satt werden, das Abnehmen unterstützen und zugleich einen köstlichen Geschmack genießen möchten. Jede Portion liefert 20,3 g vollwertiges Protein, 4 g bioaktives Kollagen, MCT-Fette aus Kokos und einen Komplex aus Aquamin®, LactoSpore® und OPTI7DIGEST® für lang anhaltende Sättigung, Energie und eine angenehme Verdauung."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně neuvádí žádná schválená EFSA tvrzení pro tento produkt. Přejaté účinky, porovnání s whey a modelové zákaznické situace nejsou podkladem pro publikaci; jednotlivé látky ani studie se automaticky nerovnají schválení celé směsi.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 264,
+      "source": "Detox Super Energy Booster Power + opravdu není jemný detox a už vůbec ne „další spalovač do šuplíku\". Vyvinuli jsme jej jako tvrdý metabolický a energetický booster, který tělo doslova nakopne. Právě nové složení je navržené tak, aby okamžitě zvýšilo energii, zrychlilo metabolismus a nastartovalo spalování tuků.",
+      "translations": {
+        "sk": "Detox Super Energy Booster Power + naozaj nie je jemný detox a už vôbec nie „ďalší spaľovač do zásuvky\". Vyvinuli sme ho ako silný metabolický a energetický booster, ktorý telo doslova nakopne. Práve nové zloženie je navrhnuté tak, aby okamžite zvýšilo energiu, zrýchlilo metabolizmus a naštartovalo spaľovanie tukov.",
+        "en": "Detox Super Energy Booster Power + really is not a gentle detox, and certainly not “just another fat burner for the drawer”. We developed it as a powerful metabolic and energy booster that literally gives the body a kick. The new formula is specifically designed to increase energy immediately, speed up metabolism and kick-start fat burning.",
+        "de": "Detox Super Energy Booster Power + ist wirklich kein sanfter Detox und schon gar nicht „noch ein Fatburner für die Schublade\". Wir haben ihn als starken Stoffwechsel- und Energiebooster entwickelt, der den Körper buchstäblich in Schwung bringt. Die neue Rezeptur ist gezielt darauf ausgelegt, die Energie sofort zu steigern, den Stoffwechsel zu beschleunigen und die Fettverbrennung anzukurbeln."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 265,
+      "source": "Hlavní účinky Slim",
+      "translations": {
+        "sk": "Hlavné účinky Slim",
+        "en": "Main benefits of Slim",
+        "de": "Hauptwirkungen von Slim"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 267,
+      "source": "Podporuje detoxikaci",
+      "translations": {
+        "sk": "Podporuje detoxikáciu",
+        "en": "Supports detoxification",
+        "de": "Unterstützt die Entgiftung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 268,
+      "source": "Extrémní spalování tuků",
+      "translations": {
+        "sk": "Extrémne spaľovanie tukov",
+        "en": "Extreme fat burning",
+        "de": "Extreme Fettverbrennung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 269,
+      "source": "Kontrola chutí",
+      "translations": {
+        "sk": "Kontrola chutí",
+        "en": "Craving control",
+        "de": "Kontrolle von Gelüsten"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 270,
+      "source": "Více energie",
+      "translations": {
+        "sk": "Viac energie",
+        "en": "More energy",
+        "de": "Mehr Energie"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 271,
+      "source": "Podpora hubnutí",
+      "translations": {
+        "sk": "Podpora chudnutia",
+        "en": "Weight-loss support",
+        "de": "Unterstützung beim Abnehmen"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 272,
+      "source": "Co je základem účinku našeho produktu podporujícího spalování a hubnutí? Kombinace aktivních látek, které podporují termogenezi. Proces, kdy tělo spaluje více energie i v klidovém režimu. Tuky tak nejsou jen „uložené\", ale aktivně se spalují. Výsledkem tak nebude jen úbytek hmotnosti, ale také vyšší výdrž a mentální drive, který ucítíte během dne i při fyzické aktivitě.",
+      "translations": {
+        "sk": "Čo je základom účinku nášho produktu podporujúceho spaľovanie a chudnutie? Kombinácia aktívnych látok, ktoré podporujú termogenézu. Proces, pri ktorom telo spaľuje viac energie aj v pokoji. Tuky tak nie sú len „uložené\", ale aktívne sa spaľujú. Výsledkom nebude len úbytok hmotnosti, ale aj vyššia výdrž a mentálny drive, ktorý pocítite počas dňa aj pri fyzickej aktivite.",
+        "en": "What underpins the effect of our product supporting fat burning and weight loss? A combination of active ingredients that support thermogenesis. A process in which the body burns more energy even at rest. Fats are therefore not just “stored”, but actively burned. The result is not only weight loss, but also greater endurance and mental drive that you will feel during the day and during physical activity.",
+        "de": "Worauf beruht die Wirkung unseres Produkts zur Unterstützung von Fettverbrennung und Gewichtsabnahme? Auf einer Kombination aktiver Inhaltsstoffe, die die Thermogenese unterstützen. Ein Prozess, bei dem der Körper selbst im Ruhezustand mehr Energie verbrennt. Fette werden so nicht nur „gespeichert\", sondern aktiv verbrannt. Das Ergebnis ist nicht nur eine Gewichtsabnahme, sondern auch mehr Ausdauer und mentaler Antrieb, den Sie tagsüber und bei körperlicher Aktivität spüren."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 273,
+      "source": "Detox Super Energy Booster Power + je nově vylepšená verze oblíbeného boosteru – postavená nejen na podpoře detoxikace a spalování, ale hlavně na energii, výdrži a rychlejším metabolismu. Kombinace aktivních látek pomáhá tělu přirozeně nastartovat termogenezi, efektivněji využívat tuky jako zdroj energie a zároveň podpořit odvodnění a pocit lehkosti. Výsledkem je silnější výkon během dne i při tréninku, menší únava a „nakopnutí\", které není jen o krátkém energy kicku, ale o chytře složené podpoře metabolismu. Novinkou ve složení je extrakt z hořkého pomeranče – hesperidin a synefrin – který doplňuje účinek směsi o ještě intenzivnější metabolický a energetický boost.",
+      "translations": {
+        "sk": "Detox Super Energy Booster Power + je nová vylepšená verzia obľúbeného boosteru – založená nielen na podpore detoxikácie a spaľovania, ale najmä na energii, výdrži a rýchlejšom metabolizme. Kombinácia aktívnych látok pomáha telu prirodzene naštartovať termogenézu, efektívnejšie využívať tuky ako zdroj energie a zároveň podporiť odvodnenie a pocit ľahkosti. Výsledkom je silnejší výkon počas dňa aj pri tréningu, menšia únava a „nakopnutie\", ktoré nie je len krátkym prívalom energie, ale premyslene zostavenou podporou metabolizmu. Novinkou v zložení je extrakt z horkého pomaranča – hesperidín a synefrín – ktorý dopĺňa účinok zmesi o ešte intenzívnejší metabolický a energetický boost.",
+        "en": "Detox Super Energy Booster Power + is the newly improved version of the popular booster – built not only on detoxification and fat-burning support, but above all on energy, endurance and a faster metabolism. The combination of active ingredients helps the body naturally kick-start thermogenesis, use fats more efficiently as an energy source and also support fluid elimination and a feeling of lightness. The result is stronger performance during the day and in training, less fatigue and a “kick” that is not just a brief energy boost, but intelligently formulated metabolic support. New to the formula is bitter orange extract – hesperidin and synephrine – which adds an even more intense metabolic and energy boost to the blend's effect.",
+        "de": "Detox Super Energy Booster Power + ist die neu verbesserte Version des beliebten Boosters – aufgebaut nicht nur auf der Unterstützung von Entgiftung und Fettverbrennung, sondern vor allem auf Energie, Ausdauer und einem schnelleren Stoffwechsel. Die Kombination aktiver Inhaltsstoffe hilft dem Körper, die Thermogenese auf natürliche Weise anzuregen, Fette effizienter als Energiequelle zu nutzen und zugleich die Entwässerung und ein Gefühl der Leichtigkeit zu unterstützen. Das Ergebnis sind mehr Leistung im Alltag und beim Training, weniger Müdigkeit und ein „Kick\", der nicht nur einen kurzen Energieschub bedeutet, sondern eine durchdachte Stoffwechselunterstützung. Neu in der Rezeptur ist Bitterorangenextrakt – Hesperidin und Synephrin –, der die Wirkung der Mischung um einen noch intensiveren Stoffwechsel- und Energieschub ergänzt."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 274,
+      "source": "Rychlejší spalování tuků i v klidovém režimu",
+      "translations": {
+        "sk": "Rýchlejšie spaľovanie tukov aj v pokoji",
+        "en": "Faster fat burning even at rest",
+        "de": "Schnellere Fettverbrennung auch im Ruhezustand"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 275,
+      "source": "Nastartování metabolismu a termogeneze",
+      "translations": {
+        "sk": "Naštartovanie metabolizmu a termogenézy",
+        "en": "Kick-starting metabolism and thermogenesis",
+        "de": "Anregung von Stoffwechsel und Thermogenese"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 276,
+      "source": "Silnější energie a lepší denní výkon",
+      "translations": {
+        "sk": "Viac energie a lepší denný výkon",
+        "en": "More energy and better daily performance",
+        "de": "Mehr Energie und bessere Leistung im Alltag"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 277,
+      "source": "Podpora odvodnění a lehčího pocitu v těle",
+      "translations": {
+        "sk": "Podpora odvodnenia a ľahšieho pocitu v tele",
+        "en": "Support for fluid elimination and a lighter feeling in the body",
+        "de": "Unterstützung der Entwässerung und eines leichteren Körpergefühls"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 278,
+      "source": "Menší únava při fyzické i mentální zátěži",
+      "translations": {
+        "sk": "Menšia únava pri fyzickej aj mentálnej záťaži",
+        "en": "Less fatigue during physical and mental exertion",
+        "de": "Weniger Müdigkeit bei körperlicher und geistiger Belastung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 279,
+      "source": "Efektivnější využití tuků jako zdroje energie",
+      "translations": {
+        "sk": "Efektívnejšie využitie tukov ako zdroja energie",
+        "en": "More efficient use of fats as an energy source",
+        "de": "Effizientere Nutzung von Fetten als Energiequelle"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 280,
+      "source": "Podpora detoxikačních procesů organismu",
+      "translations": {
+        "sk": "Podpora detoxikačných procesov organizmu",
+        "en": "Support for the body's detoxification processes",
+        "de": "Unterstützung der Entgiftungsprozesse des Körpers"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 281,
+      "source": "Lepší soustředění a vyšší mentální drive",
+      "translations": {
+        "sk": "Lepšie sústredenie a vyšší mentálny drive",
+        "en": "Better concentration and greater mental drive",
+        "de": "Bessere Konzentration und mehr mentaler Antrieb"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 282,
+      "source": "Komplexní podpora vitality během redukce",
+      "translations": {
+        "sk": "Komplexná podpora vitality počas redukcie",
+        "en": "Comprehensive vitality support during weight loss",
+        "de": "Umfassende Unterstützung der Vitalität bei der Gewichtsreduktion"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 310,
+      "source": "Přírodní látka z hořkého pomeranče, známá jako metabolický booster. Podporuje termogenezi a využití tuků jako energie, což se hodí při redukci i v aktivních dnech, kdy potřebujete výkon a spalování v jednom.",
+      "translations": {
+        "sk": "Prírodná látka z horkého pomaranča, známa ako metabolický booster. Podporuje termogenézu a využitie tukov ako energie, čo sa hodí pri redukcii aj v aktívnych dňoch, keď potrebujete výkon a spaľovanie v jednom.",
+        "en": "A natural substance from bitter orange, known as a metabolic booster. It supports thermogenesis and the use of fats for energy, which is useful during weight loss and on active days when you need performance and fat burning in one.",
+        "de": "Ein natürlicher Stoff aus der Bitterorange, bekannt als Stoffwechselbooster. Er unterstützt die Thermogenese und die Nutzung von Fetten als Energie, was bei der Gewichtsreduktion und an aktiven Tagen nützlich ist, wenn Sie Leistung und Fettverbrennung zugleich brauchen."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 311,
+      "source": "Z hořkého pomeranče – termogeneze a spalování.",
+      "translations": {
+        "sk": "Z horkého pomaranča – termogenéza a spaľovanie.",
+        "en": "From bitter orange – thermogenesis and fat burning.",
+        "de": "Aus der Bitterorange – Thermogenese und Fettverbrennung."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 312,
+      "source": "Aminokyselinová látka důležitá pro energetický metabolismus. Pomáhá transportu mastných kyselin do buněk, kde se využívají jako energie, a tím podporuje spalování tuků. Používá se také jako podpora regenerace po fyzické zátěži.",
+      "translations": {
+        "sk": "Aminokyselinová látka dôležitá pre energetický metabolizmus. Pomáha transportovať mastné kyseliny do buniek, kde sa využívajú ako energia, a tým podporuje spaľovanie tukov. Používa sa aj ako podpora regenerácie po fyzickej záťaži.",
+        "en": "An amino-acid-related substance important for energy metabolism. It helps transport fatty acids into cells, where they are used for energy, thereby supporting fat burning. It is also used to support recovery after physical exertion.",
+        "de": "Eine aminosäureverwandte Substanz, die für den Energiestoffwechsel wichtig ist. Sie hilft beim Transport von Fettsäuren in die Zellen, wo diese als Energie genutzt werden, und unterstützt dadurch die Fettverbrennung. Sie wird auch zur Unterstützung der Regeneration nach körperlicher Belastung verwendet."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 313,
+      "source": "Transport mastných kyselin – spalování a regenerace.",
+      "translations": {
+        "sk": "Transport mastných kyselín – spaľovanie a regenerácia.",
+        "en": "Fatty acid transport – fat burning and recovery.",
+        "de": "Transport von Fettsäuren – Fettverbrennung und Regeneration."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 314,
+      "source": "Zdroj antioxidantů, který podporuje metabolismus a spalování kalorií. Obsahuje přírodní kofein a bioaktivní látky, které přispívají k vitalitě, soustředění a celkovému „drive“ během dne.",
+      "translations": {
+        "sk": "Zdroj antioxidantov, ktorý podporuje metabolizmus a spaľovanie kalórií. Obsahuje prírodný kofeín a bioaktívne látky, ktoré prispievajú k vitalite, sústredeniu a celkovému „drive\" počas dňa.",
+        "en": "A source of antioxidants that supports metabolism and calorie burning. It contains natural caffeine and bioactive substances that contribute to vitality, concentration and overall drive throughout the day.",
+        "de": "Eine Quelle von Antioxidantien, die den Stoffwechsel und die Kalorienverbrennung unterstützt. Sie enthält natürliches Koffein und bioaktive Stoffe, die im Tagesverlauf zu Vitalität, Konzentration und allgemeinem Antrieb beitragen."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 315,
+      "source": "Antioxidanty, přírodní kofein a podpora spalování.",
+      "translations": {
+        "sk": "Antioxidanty, prírodný kofeín a podpora spaľovania.",
+        "en": "Antioxidants, natural caffeine and fat-burning support.",
+        "de": "Antioxidantien, natürliches Koffein und Unterstützung der Fettverbrennung."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 316,
+      "source": "Látka z černého pepře, která podporuje trávení a vstřebávání vybraných živin. Stimuluje termogenezi a pomáhá urychlit metabolismus, díky čemuž je oblíbeným doplňkem ve spalovačích.",
+      "translations": {
+        "sk": "Látka z čierneho korenia, ktorá podporuje trávenie a vstrebávanie vybraných živín. Stimuluje termogenézu a pomáha urýchliť metabolizmus, vďaka čomu je obľúbeným doplnkom v spaľovačoch.",
+        "en": "A substance from black pepper that supports digestion and the absorption of selected nutrients. It stimulates thermogenesis and helps speed up metabolism, making it a popular addition to fat burners.",
+        "de": "Ein Stoff aus schwarzem Pfeffer, der die Verdauung und die Aufnahme ausgewählter Nährstoffe unterstützt. Er regt die Thermogenese an und hilft, den Stoffwechsel zu beschleunigen, weshalb er eine beliebte Ergänzung in Fatburnern ist."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 317,
+      "source": "Z černého pepře – trávení a termogeneze.",
+      "translations": {
+        "sk": "Z čierneho korenia – trávenie a termogenéza.",
+        "en": "From black pepper – digestion and thermogenesis.",
+        "de": "Aus schwarzem Pfeffer – Verdauung und Thermogenese."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 318,
+      "source": "Aktivní látka z Coleus forskohlii tradičně využívaná v ayurvédě. Podporuje metabolické procesy, lipolýzu (rozklad tuků) a je oblíbená ve směsích zaměřených na spalování a kontrolu hmotnosti.",
+      "translations": {
+        "sk": "Aktívna látka z Coleus forskohlii tradične využívaná v ajurvéde. Podporuje metabolické procesy, lipolýzu (rozklad tukov) a je obľúbená v zmesiach zameraných na spaľovanie a kontrolu hmotnosti.",
+        "en": "An active substance from Coleus forskohlii traditionally used in Ayurveda. It supports metabolic processes and lipolysis (fat breakdown) and is popular in blends aimed at fat burning and weight management.",
+        "de": "Ein aktiver Inhaltsstoff aus Coleus forskohlii, der traditionell im Ayurveda verwendet wird. Er unterstützt Stoffwechselprozesse und die Lipolyse (Fettabbau) und ist in Mischungen zur Fettverbrennung und Gewichtskontrolle beliebt."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 319,
+      "source": "Podpora lipolýzy a metabolických procesů.",
+      "translations": {
+        "sk": "Podpora lipolýzy a metabolických procesov.",
+        "en": "Support for lipolysis and metabolic processes.",
+        "de": "Unterstützung der Lipolyse und der Stoffwechselprozesse."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 320,
+      "source": "Tradiční bylinka spojovaná s podporou jater a vylučování. Přispívá k odvodnění, podpoře trávení a detoxikačním procesům, díky čemuž se hodí do režimů zaměřených na „lehčí tělo“.",
+      "translations": {
+        "sk": "Tradičná bylina spájaná s podporou pečene a vylučovania. Prispieva k odvodneniu, podpore trávenia a detoxikačným procesom, vďaka čomu sa hodí do režimov zameraných na „ľahšie telo\".",
+        "en": "A traditional herb associated with support for the liver and excretion. It contributes to fluid elimination, digestive support and detoxification processes, making it suitable for routines aimed at a “lighter body”.",
+        "de": "Ein traditionelles Kraut, das mit der Unterstützung von Leber und Ausscheidung in Verbindung gebracht wird. Es trägt zur Entwässerung, zur Unterstützung der Verdauung und zu Entgiftungsprozessen bei und eignet sich daher für Programme mit dem Ziel eines „leichteren Körpers\"."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 321,
+      "source": "Podpora jater, odvodnění a detoxikace.",
+      "translations": {
+        "sk": "Podpora pečene, odvodnenia a detoxikácie.",
+        "en": "Support for the liver, fluid elimination and detoxification.",
+        "de": "Unterstützung von Leber, Entwässerung und Entgiftung."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 322,
+      "source": "Bohatá na vitamíny a minerály. Podporuje vylučování a tradičně se používá jako součást očistných a odvodňovacích směsí. Přispívá k celkové vitalitě a pocitu „pročištění“.",
+      "translations": {
+        "sk": "Bohatá na vitamíny a minerály. Podporuje vylučovanie a tradične sa používa ako súčasť očistných a odvodňovacích zmesí. Prispieva k celkovej vitalite a pocitu „prečistenia\".",
+        "en": "Rich in vitamins and minerals. It supports excretion and is traditionally used as part of cleansing and fluid-elimination blends. It contributes to overall vitality and a feeling of being “cleansed”.",
+        "de": "Reich an Vitaminen und Mineralstoffen. Sie unterstützt die Ausscheidung und wird traditionell als Bestandteil von Reinigungs- und Entwässerungsmischungen verwendet. Sie trägt zur allgemeinen Vitalität und zu einem Gefühl der „Reinigung\" bei."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 323,
+      "source": "Vitamíny, minerály a podpora vylučování.",
+      "translations": {
+        "sk": "Vitamíny, minerály a podpora vylučovania.",
+        "en": "Vitamins, minerals and excretion support.",
+        "de": "Vitamine, Mineralstoffe und Unterstützung der Ausscheidung."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 324,
+      "source": "Organická sloučenina, která se podílí na energetickém metabolismu a výkonu. Je oblíbený u sportovců pro podporu vytrvalosti, regenerace a snížení pocitu únavy. Zároveň působí antioxidačně a chrání buňky před oxidačním stresem.",
+      "translations": {
+        "sk": "Organická zlúčenina, ktorá sa podieľa na energetickom metabolizme a výkone. U športovcov je obľúbená na podporu vytrvalosti, regenerácie a zníženia pocitu únavy. Zároveň pôsobí antioxidačne a chráni bunky pred oxidačným stresom.",
+        "en": "An organic compound involved in energy metabolism and performance. It is popular with athletes for supporting endurance, recovery and reduced feelings of fatigue. It also acts as an antioxidant and protects cells from oxidative stress.",
+        "de": "Eine organische Verbindung, die am Energiestoffwechsel und an der Leistungsfähigkeit beteiligt ist. Sie ist bei Sportlern zur Unterstützung von Ausdauer und Regeneration sowie zur Verringerung des Müdigkeitsgefühls beliebt. Zugleich wirkt sie antioxidativ und schützt die Zellen vor oxidativem Stress."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 325,
+      "source": "Energie, výdrž a antioxidační ochrana buněk.",
+      "translations": {
+        "sk": "Energia, výdrž a antioxidačná ochrana buniek.",
+        "en": "Energy, endurance and antioxidant cell protection.",
+        "de": "Energie, Ausdauer und antioxidativer Zellschutz."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 326,
+      "source": "Bioflavonoid z citrusů, který doplňuje složení o podporu vitality a celkové odolnosti organismu. V kombinaci s ostatními látkami pomáhá dotáhnout „super energy“ efekt – energie, výdrž a lepší denní výkon.",
+      "translations": {
+        "sk": "Bioflavonoid z citrusov, ktorý dopĺňa zloženie o podporu vitality a celkovej odolnosti organizmu. V kombinácii s ostatnými látkami pomáha doviesť „super energy\" efekt k dokonalosti – energia, výdrž a lepší denný výkon.",
+        "en": "A citrus bioflavonoid that adds support for vitality and overall resilience to the formula. Combined with the other substances, it helps round out the “super energy” effect – energy, endurance and better daily performance.",
+        "de": "Ein Bioflavonoid aus Zitrusfrüchten, das die Rezeptur um die Unterstützung von Vitalität und allgemeiner Widerstandsfähigkeit des Körpers ergänzt. In Kombination mit den anderen Stoffen hilft es, den „Super-Energy\"-Effekt abzurunden – Energie, Ausdauer und bessere Leistung im Alltag."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 327,
+      "source": "Bioflavonoid z citrusů – vitalita a odolnost.",
+      "translations": {
+        "sk": "Bioflavonoid z citrusov – vitalita a odolnosť.",
+        "en": "A citrus bioflavonoid – vitality and resilience.",
+        "de": "Bioflavonoid aus Zitrusfrüchten – Vitalität und Widerstandsfähigkeit."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 365,
+      "source": "má novou recepturu s extraktem z hořkého pomeranče. Tento metabolický booster a spalovač tuků posouvá detox i podporu hubnutí na vyšší úroveň, protože kromě spalování dodává tělu i výraznou energii a výdrž pro náročné dny.",
+      "translations": {
+        "sk": "má novú receptúru s extraktom z horkého pomaranča. Tento metabolický booster a spaľovač tukov posúva detox aj podporu chudnutia na vyššiu úroveň, pretože okrem spaľovania dodáva telu aj výraznú energiu a výdrž na náročné dni.",
+        "en": "has a new formula with bitter orange extract. This metabolic booster and fat burner takes detox and weight-loss support to the next level, because in addition to fat burning it gives the body substantial energy and endurance for demanding days.",
+        "de": "hat eine neue Rezeptur mit Bitterorangenextrakt. Dieser Stoffwechselbooster und Fatburner hebt Detox und die Unterstützung beim Abnehmen auf ein neues Niveau, denn neben der Fettverbrennung liefert er dem Körper auch spürbare Energie und Ausdauer für anspruchsvolle Tage."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "174",
+      "source_string_key": 366,
+      "source": "Podpora detoxikace",
+      "translations": {
+        "sk": "Podpora detoxikácie",
+        "en": "Detoxification support",
+        "de": "Unterstützung der Entgiftung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Produktový zdroj výslovně uvádí žádné EFSA claims. Metabolické, termogenní, spalovací, detoxikační, odvodňovací a výkonnostní účinky rostlin, karnitinu a taurinu nejsou tímto interním překladem ověřeny ani schváleny. Ani tradiční užití v části věty neschvaluje další konkrétní účinky.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 374,
+      "source": "S postupným uvolňováním",
+      "translations": {
+        "sk": "S postupným uvoľňovaním",
+        "en": "With gradual release",
+        "de": "Mit verzögerter Freisetzung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 375,
+      "source": "Vitamín C 500 mg s postupným uvolňováním v tobolkách. Doplněk stravy. Balení obsahuje 90 tobolek; původní návod uvádí jednu kapsli jednou denně.",
+      "translations": {
+        "sk": "Vitamín C 500 mg s postupným uvoľňovaním v tobolkách. Výživový doplnok. Balenie obsahuje 90 toboliek; pôvodný návod uvádza jednu kapsulu raz denne.",
+        "en": "Vitamin C 500 mg with gradual release in capsules. Food supplement. The pack contains 90 capsules; the original directions specify one capsule once daily.",
+        "de": "Vitamin C 500 mg mit verzögerter Freisetzung in Kapseln. Nahrungsergänzungsmittel. Die Packung enthält 90 Kapseln; die ursprüngliche Anleitung sieht eine Kapsel einmal täglich vor."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 383,
+      "source": "Zdroj popisuje vitamín C jako kyselinu L-askorbovou a uvádí postupné uvolňování během 12 hodin. Toto technologické tvrzení ani původní doporučení pro těhotné a kojící nebylo v rámci vizuální migrace ověřeno. Složení uvádí pomocné látky bez jejich názvů.",
+      "translations": {
+        "sk": "Vitamín C je uvedený ako kyselina L-askorbová s postupným uvoľňovaním počas 12 hodín. Zloženie uvádza pomocné látky bez ich názvov.",
+        "en": "Vitamin C is listed as L-ascorbic acid with gradual release over 12 hours. The ingredients list includes excipients without naming them.",
+        "de": "Vitamin C ist als L-Ascorbinsäure mit verzögerter Freisetzung über 12 Stunden angegeben. In der Zutatenliste werden Hilfsstoffe genannt, jedoch nicht einzeln bezeichnet."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 384,
+      "source": "Vitamín C 500 mg s postupným uvolňováním",
+      "translations": {
+        "sk": "Vitamín C 500 mg s postupným uvoľňovaním",
+        "en": "Vitamin C 500 mg with gradual release",
+        "de": "Vitamin C 500 mg mit verzögerter Freisetzung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 385,
+      "source": "Vitamín C podporuje imunitní systém a obranyschopnost organismu. Napomáhá vstřebávání železa, přispívá k tvorbě kolagenu a snižuje míru únavy a vyčerpání.",
+      "translations": {
+        "sk": "Vitamín C podporuje imunitný systém a obranyschopnosť organizmu. Napomáha vstrebávaniu železa, prispieva k tvorbe kolagénu a znižuje mieru únavy a vyčerpania.",
+        "en": "Vitamin C supports the immune system and the body's defences. It helps iron absorption, contributes to collagen formation and reduces tiredness and fatigue.",
+        "de": "Vitamin C unterstützt das Immunsystem und die körpereigenen Abwehrkräfte. Es unterstützt die Eisenaufnahme, trägt zur Kollagenbildung bei und verringert Müdigkeit und Erschöpfung."
+      },
+      "classification": "contains-recorded-wording-plus-additional-unverified-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 386,
+      "source": "Hlavní účinky Vitamín C",
+      "translations": {
+        "sk": "Hlavné účinky vitamínu C",
+        "en": "Main benefits of vitamin C",
+        "de": "Hauptwirkungen von Vitamin C"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 388,
+      "source": "Podpora imunity",
+      "translations": {
+        "sk": "Podpora imunity",
+        "en": "Immune support",
+        "de": "Unterstützung des Immunsystems"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 389,
+      "source": "Energie a vitalita",
+      "translations": {
+        "sk": "Energia a vitalita",
+        "en": "Energy and vitality",
+        "de": "Energie und Vitalität"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 390,
+      "source": "Vhodné pro těhotné a kojící",
+      "translations": {
+        "sk": "Vhodné pre tehotné a dojčiace",
+        "en": "Suitable for pregnant and breastfeeding women",
+        "de": "Für Schwangere und Stillende geeignet"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false,
+      "specific_concern": "Výslovné cílení/suitability pro těhotné a kojící; RULES.md takové cílení nepovolují, technologické tvrzení 12 hodin není doloženo."
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 392,
+      "source": "Postupné uvolňování",
+      "translations": {
+        "sk": "Postupné uvoľňovanie",
+        "en": "Gradual release",
+        "de": "Verzögerte Freisetzung"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 393,
+      "source": "Vitamín C (kyselina L-askorbová) je silný antioxidant. Podporuje normální funkci imunitního systému, přispívá k ochraně buněk před oxidačním stresem a k tvorbě kolagenu pro zdravé kosti, pokožku a cévy.",
+      "translations": {
+        "sk": "Vitamín C (kyselina L-askorbová) je silný antioxidant. Podporuje normálnu funkciu imunitného systému, prispieva k ochrane buniek pred oxidačným stresom a k tvorbe kolagénu pre zdravé kosti, pokožku a cievy.",
+        "en": "Vitamin C (L-ascorbic acid) is a powerful antioxidant. It supports normal immune system function, contributes to the protection of cells from oxidative stress and to collagen formation for healthy bones, skin and blood vessels.",
+        "de": "Vitamin C (L-Ascorbinsäure) ist ein starkes Antioxidans. Es unterstützt die normale Funktion des Immunsystems und trägt zum Schutz der Zellen vor oxidativem Stress sowie zur Kollagenbildung für gesunde Knochen, Haut und Blutgefäße bei."
+      },
+      "classification": "contains-recorded-wording-plus-additional-unverified-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 394,
+      "source": "Udržuje normální funkci imunitního a nervového systému",
+      "translations": {
+        "sk": "Udržiava normálnu funkciu imunitného a nervového systému",
+        "en": "Maintains normal immune and nervous system function",
+        "de": "Erhält die normale Funktion des Immun- und Nervensystems"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 395,
+      "source": "Snižuje fyzickou i psychickou únavu",
+      "translations": {
+        "sk": "Znižuje fyzickú aj psychickú únavu",
+        "en": "Reduces physical and mental fatigue",
+        "de": "Verringert körperliche und geistige Müdigkeit"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 396,
+      "source": "Napomáhá tvorbě kolagenu pro normální funkci kostí",
+      "translations": {
+        "sk": "Napomáha tvorbe kolagénu pre normálnu funkciu kostí",
+        "en": "Helps collagen formation for normal bone function",
+        "de": "Unterstützt die Kollagenbildung für die normale Funktion der Knochen"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 397,
+      "source": "Podporuje vstřebávání železa",
+      "translations": {
+        "sk": "Podporuje vstrebávanie železa",
+        "en": "Supports iron absorption",
+        "de": "Unterstützt die Eisenaufnahme"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 398,
+      "source": "Chrání před oxidačním stresem",
+      "translations": {
+        "sk": "Chráni pred oxidačným stresom",
+        "en": "Protects against oxidative stress",
+        "de": "Schützt vor oxidativem Stress"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 401,
+      "source": "Kyselina L-askorbová; 500 mg dle názvu produktu.",
+      "translations": {
+        "sk": "Kyselina L-askorbová; 500 mg podľa názvu produktu.",
+        "en": "L-ascorbic acid; 500 mg according to the product name.",
+        "de": "L-Ascorbinsäure; 500 mg laut Produktbezeichnung."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 411,
+      "source": "Přispívá k normální funkci imunitního systému, k tvorbě kolagenu a k ochraně buněk před oxidačním stresem. Podporuje energetický metabolismus.",
+      "translations": {
+        "sk": "Prispieva k normálnej funkcii imunitného systému, k tvorbe kolagénu a k ochrane buniek pred oxidačným stresom. Podporuje energetický metabolizmus.",
+        "en": "Contributes to normal immune system function, collagen formation and the protection of cells from oxidative stress. Supports energy metabolism.",
+        "de": "Trägt zur normalen Funktion des Immunsystems, zur Kollagenbildung und zum Schutz der Zellen vor oxidativem Stress bei. Unterstützt den Energiestoffwechsel."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 432,
+      "source": "Speciální technologie Mikropelet zajistí, že se vitamín C do organismu uvolňuje postupně během 12 hodin. Vhodný i pro těhotné a kojící.",
+      "translations": {
+        "sk": "Špeciálna technológia mikropeletiek zabezpečí, že sa vitamín C do organizmu uvoľňuje postupne počas 12 hodín. Vhodný aj pre tehotné a dojčiace.",
+        "en": "Special micropellet technology ensures that vitamin C is released gradually into the body over 12 hours. Also suitable for pregnant and breastfeeding women.",
+        "de": "Eine spezielle Mikropellet-Technologie sorgt dafür, dass Vitamin C über 12 Stunden allmählich im Körper freigesetzt wird. Auch für Schwangere und Stillende geeignet."
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false,
+      "specific_concern": "Výslovné cílení/suitability pro těhotné a kojící; RULES.md takové cílení nepovolují, technologické tvrzení 12 hodin není doloženo."
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 433,
+      "source": "Vstřebávání železa",
+      "translations": {
+        "sk": "Vstrebávanie železa",
+        "en": "Iron absorption",
+        "de": "Eisenaufnahme"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 434,
+      "source": "Energetický metabolismus",
+      "translations": {
+        "sk": "Energetický metabolizmus",
+        "en": "Energy metabolism",
+        "de": "Energiestoffwechsel"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 435,
+      "source": "Pro těhotné a kojící",
+      "translations": {
+        "sk": "Pre tehotné a dojčiace",
+        "en": "For pregnant and breastfeeding women",
+        "de": "Für Schwangere und Stillende"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false,
+      "specific_concern": "Výslovné cílení/suitability pro těhotné a kojící; RULES.md takové cílení nepovolují, technologické tvrzení 12 hodin není doloženo."
+    },
+    {
+      "product_id": "84",
+      "source_string_key": 436,
+      "source": "90 tobolek · postupné uvolňování během 12 hodin",
+      "translations": {
+        "sk": "90 toboliek · postupné uvoľňovanie počas 12 hodín",
+        "en": "90 capsules · gradual release over 12 hours",
+        "de": "90 Kapseln · verzögerte Freisetzung über 12 Stunden"
+      },
+      "classification": "unverified-inherited-internal-working-copy",
+      "concern": "Dvě formulace jsou zaznamenány v produktovém zdroji jako schválené (samostatně níže), nikoli celý aktuální text. Rozšíření účinků a cílení na těhotné/kojící nelze z tohoto nadpisu převzít jako schválené. Uvolňování 12 hodin vyžaduje technologické doložení.",
+      "publication_approved": false
+    }
+  ],
+  "recorded_product_source_wording": [
+    {
+      "product_id": "547",
+      "source_path": "/root/workspace/brand/product/svacinka-slim-glp-1-shake-s-prichuti-cappuccino/info.md",
+      "sha256": "244b582f869035242ae3adbf17001f5da2d239e68f3dc4886614a5d1695f579a",
+      "recorded_wording_cz": [],
+      "source_statement": "žádné EFSA claims u tohoto produktu; u bylin/hub/adaptogenů piš jen \"tradičně se užívá\", viz NOT-ALLOWED.md",
+      "status": "Žádné zaznamenané schválené účinkové znění; technologické/dávkovací identifikační údaje nejsou náhradní schválené účinky."
+    },
+    {
+      "product_id": "174",
+      "source_path": "/root/workspace/brand/product/slim-detox-power-plus-booster/info.md",
+      "sha256": "ff154223939bd0d7a05caf4ebe0116ccc89e434f327881acf5d60a8cfd82980e",
+      "recorded_wording_cz": [],
+      "source_statement": "žádné EFSA claims u tohoto produktu; u bylin/hub/adaptogenů piš jen \"tradičně se užívá\", viz NOT-ALLOWED.md",
+      "status": "Žádné zaznamenané schválené účinkové znění; technologické/dávkovací identifikační údaje nejsou náhradní schválené účinky."
+    },
+    {
+      "product_id": "84",
+      "source_path": "/root/workspace/brand/product/vitamin-c/info.md",
+      "sha256": "759f9b3d175c56b46d3a42ccc923d6fc9963110efc0fb0372a10d1b17d56c53b",
+      "recorded_wording_cz": [
+        "Napomáhá vstřebávání železa, přispívá k tvorbě kolagenu a snižuje míru únavy a vyčerpání.",
+        "Podporuje normální funkci imunitního systému, přispívá k ochraně buněk před oxidačním stresem a k tvorbě kolagenu pro zdravé kosti, pokožku a cévy."
+      ],
+      "status": "Takto zapsáno v produktovém souboru; ne nové právní ověření registru ani schválení překladu, množství či cílové skupiny. Živinu vitamín C vždy pojmenovat."
+    }
+  ],
+  "data_concerns": [
+    {
+      "product_id": "547",
+      "issue": "Probiotické množství: marketing/dialog 8,9 mld. CFU; tabulka 50 mg – 0,75 mld. KJT na 30 g; 170 mg – 2,55 mld. KJT na 100 g. Zachována čísla, pouze lokalizace CFU/KTJ/KBE."
+    },
+    {
+      "product_id": "547",
+      "issue": "Bez cukru v piktogramu versus 2,4 g cukrů na porci v tabulce. Bez přídatných látek versus emulgátor, xanthan, aroma, karamel, sukralóza ve složení. Neopraveno bez produktového rozhodnutí."
+    },
+    {
+      "product_id": "547",
+      "issue": "Alergeny v seznamu: mléko, skořápkové plody. Varování: opatrnost při alergii na mléko nebo sóju. Obě původní informace přeloženy, rozpor není vyřešen."
+    },
+    {
+      "product_id": "547",
+      "issue": "L-karnitin tartrát: 1 g na 100 g oproti 0,33 g na 30 g; neopraveno přepočtem. GLP-1 v názvu není důkaz farmakologické ekvivalence."
+    },
+    {
+      "product_id": "174",
+      "issue": "Synefrin a hesperidin jsou ve složení a samostatných vysvětleních, ale jejich množství tabulka neuvádí. RHP/NRV procenta karnitinu a taurinu nejsou tímto překladem validována."
+    },
+    {
+      "product_id": "84",
+      "issue": "500 mg pouze dle názvu produktu, pomocné látky nejsou pojmenované. Postupné uvolňování 12 hodin ani vhodnost pro těhotné/kojící neověřeny."
+    }
+  ],
+  "documented_narrow_exceptions": [
+    "Odstraněny pouze .gl-draft-note bloky, odstavce „Původní zdrojový text — interní, tvrzení neschválena.“ a odstavec „Úplný původní popis… Tento návrh není právním schválením účinků.“. Přesné bajty i offsety v *-edits.json.",
+    "Vitamin C nad-info: ponechána informace L-askorbová/12 hodin a nepojmenované pomocné látky, redakční věta o neověření při vizuální migraci přesunuta do tohoto ledgeru; nejde o schválení původní vhodnosti v těhotenství.",
+    "Doplněno úplné lokální mandatory supplement identification/disclaimer tam, kde chybělo (všechny krátké a Shake dlouhé). Originální specifická varování zachována.",
+    "Pouze RHP→RVH/NRV, mld.→billion/Mrd., KJT→KTJ/CFU/KBE a příslušné názvy živin; zachovány původní číslice a desetinné čárky, žádné převody měny/živin.",
+    "Žádné SEO/JSON-LD ani nabídky, ceny nebo ratingy v těchto šesti zdrojových fragmentech nebyly přítomny; nic takového nebylo vymyšleno."
+  ]
+}

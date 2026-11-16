@@ -1,0 +1,1610 @@
+[
+  {
+    "sourceKeyId": 1,
+    "source": "Večer bývá nejtěžší – únava, chutě na sladké a rozkolísané hormony dokážou zamotat hlavu i metabolismus.",
+    "translations": {
+      "sk": "Večer býva najťažší – únava, chuť na sladké a rozkolísané hormóny dokážu zamotať hlavu aj metabolizmus.",
+      "en": "Evenings can be the hardest – tiredness, sweet cravings and fluctuating hormones can unsettle both your mind and metabolism.",
+      "de": "Abends ist es oft am schwersten – Müdigkeit, Heißhunger auf Süßes und schwankende Hormone können Kopf und Stoffwechsel durcheinanderbringen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 7,
+    "source": "– moderní funkční komplex inspirovaný GLP-1 přístupem, který podporuje kontrolu chuti k jídlu, pocit sytosti a metabolickou rovnováhu.",
+    "translations": {
+      "sk": "– moderný funkčný komplex inšpirovaný GLP-1 prístupom, ktorý podporuje kontrolu chuti do jedla, pocit sýtosti a metabolickú rovnováhu.",
+      "en": "– a modern functional complex inspired by the GLP-1 approach that supports appetite control, satiety and metabolic balance.",
+      "de": "– ein moderner funktioneller Komplex nach dem GLP-1-Ansatz, der Appetitkontrolle, Sättigungsgefühl und Stoffwechselbalance unterstützt."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 8,
+    "source": "Myo-inositol a rostlinné extrakty pomáhají vyladit hormonální rovnováhu, kolagen a glycin podporují noční regeneraci a extrakt z višní přispívá ke klidnému usínání. Jeden sáček navečer nahradí až 16 tablet denně – bez agresivních stimulantů.",
+    "translations": {
+      "sk": "Myo-inozitol a rastlinné extrakty pomáhajú vyladiť hormonálnu rovnováhu, kolagén a glycín podporujú nočnú regeneráciu a extrakt z višní prispieva k pokojnému zaspávaniu. Jedno vrecúško podvečer nahradí až 16 tabliet denne – bez agresívnych stimulantov.",
+      "en": "Myo-inositol and plant extracts help fine-tune hormonal balance, collagen and glycine support overnight regeneration, and sour cherry extract contributes to falling asleep peacefully. One sachet in the evening replaces up to 16 tablets a day – without aggressive stimulants.",
+      "de": "Myo-Inositol und Pflanzenextrakte helfen, die hormonelle Balance abzustimmen, Kollagen und Glycin unterstützen die nächtliche Regeneration und Sauerkirschextrakt trägt zu ruhigem Einschlafen bei. Ein Beutel am Abend ersetzt bis zu 16 Tabletten täglich – ohne aggressive Stimulanzien."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 9,
+    "source": "Kontrola chuti k jídlu",
+    "translations": {
+      "sk": "Kontrola chuti do jedla",
+      "en": "Appetite control",
+      "de": "Appetit­kontrolle"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 10,
+    "source": "Hormonální rovnováha",
+    "translations": {
+      "sk": "Hormonálna rovnováha",
+      "en": "Hormonal balance",
+      "de": "Hormonelle Balance"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 11,
+    "source": "Klidný spánek a regenerace",
+    "translations": {
+      "sk": "Pokojný spánok a regenerácia",
+      "en": "Restful sleep and regeneration",
+      "de": "Ruhiger Schlaf und Regeneration"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 12,
+    "source": "Klidný spánek",
+    "translations": {
+      "sk": "Pokojný spánok",
+      "en": "Restful sleep",
+      "de": "Ruhiger Schlaf"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 13,
+    "source": "Noční kolagen",
+    "translations": {
+      "sk": "Nočný kolagén",
+      "en": "Night-time collagen",
+      "de": "Nachtkollagen"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 21,
+    "source": "Klíč k ženské rovnováze",
+    "translations": {
+      "sk": "Kľúč k ženskej rovnováhe",
+      "en": "The key to female balance",
+      "de": "Der Schlüssel zur weiblichen Balance"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 24,
+    "source": "Funkční komplex inspirovaný",
+    "translations": {
+      "sk": "Funkčný komplex inšpirovaný",
+      "en": "A functional complex inspired by",
+      "de": "Funktioneller Komplex nach dem"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 25,
+    "source": "GLP-1 přístupem",
+    "translations": {
+      "sk": "GLP-1 prístupom",
+      "en": "the GLP-1 approach",
+      "de": "GLP-1-Ansatz"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 26,
+    "source": "pro kontrolu chuti a metabolickou rovnováhu.",
+    "translations": {
+      "sk": "pre kontrolu chuti a metabolickú rovnováhu.",
+      "en": "for appetite control and metabolic balance.",
+      "de": "für Appetitkontrolle und Stoffwechselbalance."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 31,
+    "source": "Podporuje kontrolu chuti k jídlu",
+    "translations": {
+      "sk": "Podporuje kontrolu chuti do jedla",
+      "en": "Supports appetite control",
+      "de": "Unterstützt die Appetitkontrolle"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 32,
+    "source": "Podporuje metabolickou rovnováhu",
+    "translations": {
+      "sk": "Podporuje metabolickú rovnováhu",
+      "en": "Supports metabolic balance",
+      "de": "Unterstützt die Stoffwechselbalance"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 33,
+    "source": "Pečuje o pokožku a noční regeneraci",
+    "translations": {
+      "sk": "Stará sa o pokožku a nočnú regeneráciu",
+      "en": "Cares for skin and overnight regeneration",
+      "de": "Pflegt die Haut und unterstützt die nächtliche Regeneration"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 38,
+    "source": "Nextida® GLP One® je moderní funkční kolagenní komplex inspirovaný GLP-1 přístupem. Podporuje kontrolu chuti k jídlu, pocit sytosti a metabolickou rovnováhu – bez injekcí a agresivních stimulantů.",
+    "translations": {
+      "sk": "Nextida® GLP One® je moderný funkčný kolagénový komplex inšpirovaný GLP-1 prístupom. Podporuje kontrolu chuti do jedla, pocit sýtosti a metabolickú rovnováhu – bez injekcií a agresívnych stimulantov.",
+      "en": "Nextida® GLP One® is a modern functional collagen complex inspired by the GLP-1 approach. It supports appetite control, satiety and metabolic balance – without injections or aggressive stimulants.",
+      "de": "Nextida® GLP One® ist ein moderner funktioneller Kollagenkomplex nach dem GLP-1-Ansatz. Er unterstützt Appetitkontrolle, Sättigungsgefühl und Stoffwechselbalance – ohne Injektionen und aggressive Stimulanzien."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 39,
+    "source": "Kolagenní peptidy se navíc podílejí na péči o pokožku, vlasy a nehty a podporují noční regeneraci organismu zevnitř.",
+    "translations": {
+      "sk": "Kolagénové peptidy sa navyše podieľajú na starostlivosti o pokožku, vlasy a nechty a podporujú nočnú regeneráciu organizmu zvnútra.",
+      "en": "Collagen peptides also help care for skin, hair and nails and support the body's overnight regeneration from within.",
+      "de": "Kollagenpeptide tragen außerdem zur Pflege von Haut, Haaren und Nägeln bei und unterstützen die nächtliche Regeneration des Körpers von innen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 40,
+    "source": "Večerní rituál pro hormonální rovnováhu a metabolický komfort.",
+    "translations": {
+      "sk": "Večerný rituál pre hormonálnu rovnováhu a metabolický komfort.",
+      "en": "An evening ritual for hormonal balance and metabolic comfort.",
+      "de": "Ein Abendritual für hormonelle Balance und Stoffwechselwohlbefinden."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 43,
+    "source": "spojuje v jednom večerním sáčku 12 složek podporujících ženskou rovnováhu –",
+    "translations": {
+      "sk": "spája v jednom večernom vrecúšku 12 zložiek podporujúcich ženskú rovnováhu –",
+      "en": "combines 12 ingredients supporting female balance in one evening sachet –",
+      "de": "vereint in einem Beutel für den Abend 12 Inhaltsstoffe zur Unterstützung der weiblichen Balance –"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 53,
+    "source": "Místo řady jednotlivých doplňků získáte jeden promyšlený večerní rituál, který podporuje",
+    "translations": {
+      "sk": "Namiesto radu jednotlivých doplnkov získate jeden premyslený večerný rituál, ktorý podporuje",
+      "en": "Instead of a range of individual supplements, you get one carefully designed evening ritual supporting",
+      "de": "Statt vieler einzelner Nahrungsergänzungsmittel erhalten Sie ein durchdachtes Abendritual für"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 54,
+    "source": "hormonální rovnováhu",
+    "translations": {
+      "sk": "hormonálnu rovnováhu",
+      "en": "hormonal balance",
+      "de": "hormonelle Balance"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 55,
+    "source": "kontrolu chuti",
+    "translations": {
+      "sk": "kontrolu chuti",
+      "en": "appetite control",
+      "de": "Appetitkontrolle"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 56,
+    "source": "klidný spánek",
+    "translations": {
+      "sk": "pokojný spánok",
+      "en": "restful sleep",
+      "de": "ruhigen Schlaf"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 57,
+    "source": "noční regeneraci",
+    "translations": {
+      "sk": "nočnú regeneráciu",
+      "en": "overnight regeneration",
+      "de": "nächtliche Regeneration"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 58,
+    "source": "metabolický komfort",
+    "translations": {
+      "sk": "metabolický komfort",
+      "en": "metabolic comfort",
+      "de": "Stoffwechselwohlbefinden"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 59,
+    "source": ". Jeden sáček navečer nahradí až 16 tablet denně.",
+    "translations": {
+      "sk": ". Jedno vrecúško podvečer nahradí až 16 tabliet denne.",
+      "en": ". One sachet in the evening replaces up to 16 tablets a day.",
+      "de": ". Ein Beutel am Abend ersetzt bis zu 16 Tabletten täglich."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 62,
+    "source": "Hlavní účinky Peptides GLP-1 Woman Balance",
+    "translations": {
+      "sk": "Hlavné účinky Peptides GLP-1 Woman Balance",
+      "en": "Main benefits of Peptides GLP-1 Woman Balance",
+      "de": "Die wichtigsten Wirkungen von Peptides GLP-1 Woman Balance"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 64,
+    "source": "Noční kolagen a regenerace",
+    "translations": {
+      "sk": "Nočný kolagén a regenerácia",
+      "en": "Night-time collagen and regeneration",
+      "de": "Nachtkollagen und Regeneration"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 65,
+    "source": "Metabolická rovnováha",
+    "translations": {
+      "sk": "Metabolická rovnováha",
+      "en": "Metabolic balance",
+      "de": "Stoffwechselbalance"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 68,
+    "source": "– funkční kolagenní komplex inspirovaný GLP-1 přístupem, který podporuje kontrolu chuti k jídlu, pocit sytosti a metabolickou rovnováhu.",
+    "translations": {
+      "sk": "– funkčný kolagénový komplex inšpirovaný GLP-1 prístupom, ktorý podporuje kontrolu chuti do jedla, pocit sýtosti a metabolickú rovnováhu.",
+      "en": "– a functional collagen complex inspired by the GLP-1 approach that supports appetite control, satiety and metabolic balance.",
+      "de": "– ein funktioneller Kollagenkomplex nach dem GLP-1-Ansatz, der Appetitkontrolle, Sättigungsgefühl und Stoffwechselbalance unterstützt."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 70,
+    "source": "přirozeně doplňují hormonální rovnováhu a ženskou vitalitu, zatímco",
+    "translations": {
+      "sk": "prirodzene dopĺňajú hormonálnu rovnováhu a ženskú vitalitu, zatiaľ čo",
+      "en": "naturally complement hormonal balance and female vitality, while",
+      "de": "tragen auf natürliche Weise zur hormonellen Balance und weiblichen Vitalität bei; außerdem unterstützen"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 74,
+    "source": "podporují trávení, sytost a zdravé střevní prostředí.",
+    "translations": {
+      "sk": "podporujú trávenie, sýtosť a zdravé črevné prostredie.",
+      "en": "support digestion, satiety and a healthy intestinal environment.",
+      "de": "die Verdauung, das Sättigungsgefühl und ein gesundes Darmmilieu."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 75,
+    "source": "Kolagenní peptidy s glycinem pečují o pokožku, vlasy a nehty a podporují noční regeneraci zevnitř. Chrom a zinek doplňují komplex o antioxidační ochranu – vše bez agresivních stimulantů.",
+    "translations": {
+      "sk": "Kolagénové peptidy s glycínom sa starajú o pokožku, vlasy a nechty a podporujú nočnú regeneráciu zvnútra. Chróm a zinok dopĺňajú komplex o antioxidačnú ochranu – všetko bez agresívnych stimulantov.",
+      "en": "Collagen peptides with glycine care for skin, hair and nails and support overnight regeneration from within. Chromium and zinc add antioxidant protection to the complex – all without aggressive stimulants.",
+      "de": "Kollagenpeptide mit Glycin pflegen Haut, Haare und Nägel und unterstützen die nächtliche Regeneration von innen. Chrom und Zink ergänzen den Komplex um antioxidativen Schutz – ganz ohne aggressive Stimulanzien."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 76,
+    "source": "Účinky",
+    "translations": {
+      "sk": "Účinky",
+      "en": "Benefits",
+      "de": "Wirkungen"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 77,
+    "source": "Rostlinné extrakty",
+    "translations": {
+      "sk": "Rastlinné extrakty",
+      "en": "Plant extracts of",
+      "de": "Pflanzenextrakte aus"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 78,
+    "source": "schizandry, ženského ženšenu, kontryhele a pískavice",
+    "translations": {
+      "sk": "schizandry, ženského ženšenu, alchemilky a senovky",
+      "en": "schisandra, female ginseng, lady's mantle and fenugreek",
+      "de": "Schisandra, Frauenginseng, Frauenmantel und Bockshornklee"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 79,
+    "source": "spolu se sójovými izoflavony tradičně podporují ženskou vitalitu, psychickou pohodu a celkovou rovnováhu v období peri- a menopauzy.",
+    "translations": {
+      "sk": "spolu so sójovými izoflavónmi tradične podporujú ženskú vitalitu, psychickú pohodu a celkovú rovnováhu v období peri- a menopauzy.",
+      "en": "together with soy isoflavones traditionally support female vitality, mental well-being and overall balance during perimenopause and menopause.",
+      "de": "unterstützen zusammen mit Soja-Isoflavonen traditionell die weibliche Vitalität, das psychische Wohlbefinden und die allgemeine Balance in der Perimenopause und Menopause."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 82,
+    "source": "podporuje klidné usínání a večerní regeneraci. Vitaminy",
+    "translations": {
+      "sk": "podporuje pokojné zaspávanie a večernú regeneráciu. Vitamíny",
+      "en": "supports falling asleep peacefully and evening regeneration. Vitamins",
+      "de": "unterstützt ruhiges Einschlafen und die abendliche Regeneration. Vitamine"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 84,
+    "source": "zajišťují každodenní podporu moderního životního stylu žen.",
+    "translations": {
+      "sk": "zabezpečujú každodennú podporu moderného životného štýlu žien.",
+      "en": "provide daily support for women's modern lifestyles.",
+      "de": "bieten tägliche Unterstützung für den modernen Lebensstil von Frauen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 85,
+    "source": "Co vám přinese",
+    "translations": {
+      "sk": "Čo vám prinesie",
+      "en": "What it offers you",
+      "de": "Was es Ihnen bietet"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 87,
+    "source": "Hormonální rovnováha 40+",
+    "translations": {
+      "sk": "Hormonálna rovnováha 40+",
+      "en": "Hormonal balance 40+",
+      "de": "Hormonelle Balance 40+"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 88,
+    "source": "Úleva od návalů a teplotní komfort",
+    "translations": {
+      "sk": "Úľava od návalov a teplotný komfort",
+      "en": "Hot flush relief and temperature comfort",
+      "de": "Linderung von Hitzewallungen und Temperaturkomfort"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 89,
+    "source": "Klidný spánek a večerní zklidnění",
+    "translations": {
+      "sk": "Pokojný spánok a večerné upokojenie",
+      "en": "Restful sleep and evening relaxation",
+      "de": "Ruhiger Schlaf und abendliche Entspannung"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 90,
+    "source": "Pocit sytosti a kontrola hmotnosti",
+    "translations": {
+      "sk": "Pocit sýtosti a kontrola hmotnosti",
+      "en": "Satiety and weight control",
+      "de": "Sättigungsgefühl und Gewichtskontrolle"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 91,
+    "source": "Antioxidační ochrana buněk",
+    "translations": {
+      "sk": "Antioxidačná ochrana buniek",
+      "en": "Antioxidant cell protection",
+      "de": "Antioxidativer Zellschutz"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 92,
+    "source": "Pevné kosti 40+ (D3, K2, vápník)",
+    "translations": {
+      "sk": "Pevné kosti 40+ (D3, K2, vápnik)",
+      "en": "Strong bones 40+ (D3, K2, calcium)",
+      "de": "Starke Knochen 40+ (D3, K2, Calcium)"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 93,
+    "source": "Krása – pokožka, vlasy a nehty",
+    "translations": {
+      "sk": "Krása – pokožka, vlasy a nechty",
+      "en": "Beauty – skin, hair and nails",
+      "de": "Schönheit – Haut, Haare und Nägel"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 94,
+    "source": "Ženská vitalita a libido",
+    "translations": {
+      "sk": "Ženská vitalita a libido",
+      "en": "Female vitality and libido",
+      "de": "Weibliche Vitalität und Libido"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 95,
+    "source": "Metabolismus a energie",
+    "translations": {
+      "sk": "Metabolizmus a energia",
+      "en": "Metabolism and energy",
+      "de": "Stoffwechsel und Energie"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 98,
+    "source": "V období kolem čtyřicítky a v menopauze se začnou dít věci, které nečekáte. Hormony kolísají, přicházejí návaly a výkyvy nálad, hůř se usíná, drží se váha a energie chybí dřív, než den pořádně začne.",
+    "translations": {
+      "sk": "V období okolo štyridsiatky a v menopauze sa začnú diať veci, ktoré nečakáte. Hormóny kolíšu, prichádzajú návaly a výkyvy nálad, horšie sa zaspáva, drží sa váha a energia chýba skôr, než sa deň poriadne začne.",
+      "en": "Around forty and during menopause, things start happening that you do not expect. Hormones fluctuate, hot flushes and mood swings appear, falling asleep becomes harder, weight sticks and energy runs low before the day has really begun.",
+      "de": "Um die vierzig und in den Wechseljahren beginnen Dinge, mit denen Sie nicht rechnen. Die Hormone schwanken, Hitzewallungen und Stimmungsschwankungen treten auf, das Einschlafen fällt schwerer, das Gewicht hält sich und die Energie fehlt, bevor der Tag richtig begonnen hat."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 99,
+    "source": "Inositoly. Fytohormony. Kolagen. GLP-1 peptidy. Klidný spánek.",
+    "translations": {
+      "sk": "Inozitoly. Fytohormóny. Kolagén. GLP-1 peptidy. Pokojný spánok.",
+      "en": "Inositols. Phytohormones. Collagen. GLP-1 peptides. Restful sleep.",
+      "de": "Inositole. Phytohormone. Kollagen. GLP-1-Peptide. Ruhiger Schlaf."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 100,
+    "source": "Peptides GLP-1 Woman Balance dodává tělu večer přesně to, co s věkem potřebuje – v jednom lahodném night drinku. Žádné hrstky tablet, žádné složité režimy. Jen sáček rozmíchaný ve vodě a večerní rituál, který si zamilujete.",
+    "translations": {
+      "sk": "Peptides GLP-1 Woman Balance dodáva telu večer presne to, čo s vekom potrebuje – v jednom lahodnom večernom nápoji. Žiadne hrste tabliet, žiadne zložité režimy. Len vrecúško rozmiešané vo vode a večerný rituál, ktorý si zamilujete.",
+      "en": "Peptides GLP-1 Woman Balance gives your body exactly what it needs as it ages, in the evening – in one delicious night drink. No handfuls of tablets, no complicated routines. Just a sachet mixed with water and an evening ritual you will love.",
+      "de": "Peptides GLP-1 Woman Balance gibt dem Körper abends genau das, was er mit zunehmendem Alter braucht – in einem köstlichen Abenddrink. Keine Handvoll Tabletten, keine komplizierten Abläufe. Nur ein in Wasser eingerührter Beutel und ein Abendritual, das Sie lieben werden."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 102,
+    "source": "Jak dlouho trvá, než uvidím výsledky?",
+    "translations": {
+      "sk": "Ako dlho trvá, kým uvidím výsledky?",
+      "en": "How long does it take to see results?",
+      "de": "Wie lange dauert es, bis ich Ergebnisse sehe?"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 103,
+    "source": "Aktivní látky potřebují pravidelné užívání. Pro optimální výsledky doporučujeme kúru minimálně 3 měsíce.",
+    "translations": {
+      "sk": "Aktívne látky potrebujú pravidelné užívanie. Pre optimálne výsledky odporúčame kúru minimálne 3 mesiace.",
+      "en": "Active ingredients need to be taken regularly. For optimal results, we recommend a course of at least 3 months.",
+      "de": "Wirkstoffe müssen regelmäßig eingenommen werden. Für optimale Ergebnisse empfehlen wir eine Anwendung über mindestens 3 Monate."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 106,
+    "source": "Je vhodný při menopauze?",
+    "translations": {
+      "sk": "Je vhodný pri menopauze?",
+      "en": "Is it suitable during menopause?",
+      "de": "Ist es für die Wechseljahre geeignet?"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 107,
+    "source": "Ano, je navržený pro ženy 40+ v období pre-, peri- i postmenopauzy. Nevhodný v těhotenství a při kojení.",
+    "translations": {
+      "sk": "Áno, je navrhnutý pre ženy 40+ v období pre-, peri- aj postmenopauzy. Nevhodný v tehotenstve a pri dojčení.",
+      "en": "Yes, it is designed for women 40+ during pre-, peri- and postmenopause. Not suitable during pregnancy or breastfeeding.",
+      "de": "Ja, es wurde für Frauen ab 40+ in der Prä-, Peri- und Postmenopause entwickelt. Nicht geeignet während Schwangerschaft und Stillzeit."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 111,
+    "source": "Pocit rovnováhy",
+    "translations": {
+      "sk": "Pocit rovnováhy",
+      "en": "Feeling balanced",
+      "de": "Gefühl der Balance"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 117,
+    "source": "Nejlepší výsledky přináší pravidelné",
+    "translations": {
+      "sk": "Najlepšie výsledky prináša pravidelné",
+      "en": "The best results come from consistent",
+      "de": "Die besten Ergebnisse bringt die regelmäßige"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 118,
+    "source": "dlouhodobé užívání",
+    "translations": {
+      "sk": "dlhodobé užívanie",
+      "en": "long-term use",
+      "de": "langfristige Anwendung"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 119,
+    "source": "– každý večer, minimálně 3 měsíce.*",
+    "translations": {
+      "sk": "– každý večer, minimálne 3 mesiace.*",
+      "en": "– every evening, for at least 3 months.*",
+      "de": "– jeden Abend, mindestens 3 Monate lang.*"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 122,
+    "source": "3 000 mg kolagenních peptidů pro kontrolu chuti a metabolickou rovnováhu.",
+    "translations": {
+      "sk": "3 000 mg kolagénových peptidov pre kontrolu chuti a metabolickú rovnováhu.",
+      "en": "3 000 mg of collagen peptides for appetite control and metabolic balance.",
+      "de": "3 000 mg Kollagenpeptide für Appetitkontrolle und Stoffwechselbalance."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 126,
+    "source": "Přirozená podpora hormonální rovnováhy a ženské vitality.",
+    "translations": {
+      "sk": "Prirodzená podpora hormonálnej rovnováhy a ženskej vitality.",
+      "en": "Natural support for hormonal balance and female vitality.",
+      "de": "Natürliche Unterstützung der hormonellen Balance und weiblichen Vitalität."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 130,
+    "source": "Vláknina pro trávení, sytost a zdravé střevo.",
+    "translations": {
+      "sk": "Vláknina pre trávenie, sýtosť a zdravé črevo.",
+      "en": "Fibre for digestion, satiety and a healthy gut.",
+      "de": "Ballaststoffe für Verdauung, Sättigung und einen gesunden Darm."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 134,
+    "source": "Klidné usínání a lahodná třešňová chuť.",
+    "translations": {
+      "sk": "Pokojné zaspávanie a lahodná čerešňová chuť.",
+      "en": "Peaceful sleep onset and a delicious cherry flavour.",
+      "de": "Ruhiges Einschlafen und köstlicher Kirschgeschmack."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 138,
+    "source": "Adaptogeny pro odolnost a psychickou pohodu.",
+    "translations": {
+      "sk": "Adaptogény pre odolnosť a psychickú pohodu.",
+      "en": "Adaptogens for resilience and mental well-being.",
+      "de": "Adaptogene für Widerstandskraft und psychisches Wohlbefinden."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 142,
+    "source": "Přírodní fytohormony pro ženskou rovnováhu.",
+    "translations": {
+      "sk": "Prírodné fytohormóny pre ženskú rovnováhu.",
+      "en": "Natural phytohormones for female balance.",
+      "de": "Natürliche Phytohormone für die weibliche Balance."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 146,
+    "source": "Klidný spánek a antioxidační ochrana.",
+    "translations": {
+      "sk": "Pokojný spánok a antioxidačná ochrana.",
+      "en": "Restful sleep and antioxidant protection.",
+      "de": "Ruhiger Schlaf und antioxidativer Schutz."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 150,
+    "source": "Metabolismus, antioxidace a každodenní podpora.",
+    "translations": {
+      "sk": "Metabolizmus, antioxidácia a každodenná podpora.",
+      "en": "Metabolism, antioxidant action and daily support.",
+      "de": "Stoffwechsel, antioxidative Wirkung und tägliche Unterstützung."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 154,
+    "source": "Longevity složka pro buněčný metabolismus.",
+    "translations": {
+      "sk": "Longevity zložka pre bunkový metabolizmus.",
+      "en": "A longevity ingredient for cellular metabolism.",
+      "de": "Ein Longevity-Inhaltsstoff für den Zellstoffwechsel."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 158,
+    "source": "3 000 mg kolagenních peptidů z hovězího kolagenu. Funkční komplex inspirovaný GLP-1 přístupem podporuje kontrolu chuti k jídlu, pocit sytosti a metabolickou rovnováhu.",
+    "translations": {
+      "sk": "3 000 mg kolagénových peptidov z hovädzieho kolagénu. Funkčný komplex inšpirovaný GLP-1 prístupom podporuje kontrolu chuti do jedla, pocit sýtosti a metabolickú rovnováhu.",
+      "en": "3 000 mg of collagen peptides from bovine collagen. The functional complex inspired by the GLP-1 approach supports appetite control, satiety and metabolic balance.",
+      "de": "3 000 mg Kollagenpeptide aus Rinderkollagen. Der funktionelle Komplex nach dem GLP-1-Ansatz unterstützt Appetitkontrolle, Sättigungsgefühl und Stoffwechselbalance."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 159,
+    "source": "Kolagenní peptidy zároveň pečují o pokožku, vlasy a nehty a podporují noční regeneraci organismu zevnitř.",
+    "translations": {
+      "sk": "Kolagénové peptidy sa zároveň starajú o pokožku, vlasy a nechty a podporujú nočnú regeneráciu organizmu zvnútra.",
+      "en": "Collagen peptides also care for skin, hair and nails and support the body's overnight regeneration from within.",
+      "de": "Kollagenpeptide pflegen zugleich Haut, Haare und Nägel und unterstützen die nächtliche Regeneration des Körpers von innen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 160,
+    "source": "2 000 mg myo-inositolu a 20 mg D-chiro-inositolu v přirozeném poměru. Inositoly patří mezi klíčové látky pro ženskou hormonální rovnováhu.",
+    "translations": {
+      "sk": "2 000 mg myo-inozitolu a 20 mg D-chiro-inozitolu v prirodzenom pomere. Inozitoly patria medzi kľúčové látky pre ženskú hormonálnu rovnováhu.",
+      "en": "2 000 mg of myo-inositol and 20 mg of D-chiro-inositol in a natural ratio. Inositols are among the key substances for female hormonal balance.",
+      "de": "2 000 mg Myo-Inositol und 20 mg D-Chiro-Inositol in einem natürlichen Verhältnis. Inositole gehören zu den zentralen Stoffen für die weibliche hormonelle Balance."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 161,
+    "source": "Přirozeně podporují vitalitu, metabolickou pohodu a celkovou rovnováhu organismu.",
+    "translations": {
+      "sk": "Prirodzene podporujú vitalitu, metabolickú pohodu a celkovú rovnováhu organizmu.",
+      "en": "They naturally support vitality, metabolic well-being and the body's overall balance.",
+      "de": "Sie unterstützen auf natürliche Weise Vitalität, Stoffwechselwohlbefinden und die allgemeine Balance des Körpers."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 162,
+    "source": "Glukomannan z kořene konjaku bobtná ve vodě a podporuje pocit sytosti, což pomáhá omezit večerní chutě.",
+    "translations": {
+      "sk": "Glukomanán z koreňa konjaku napučiava vo vode a podporuje pocit sýtosti, čo pomáha obmedziť večerné chute.",
+      "en": "Glucomannan from konjac root swells in water and supports satiety, helping to curb evening cravings.",
+      "de": "Glucomannan aus der Konjakwurzel quillt in Wasser auf und unterstützt das Sättigungsgefühl, was hilft, abendlichen Heißhunger einzuschränken."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 163,
+    "source": "Prebiotická vláknina inulin Frutafit® podporuje trávení a zdravé střevní prostředí.",
+    "translations": {
+      "sk": "Prebiotická vláknina inulín Frutafit® podporuje trávenie a zdravé črevné prostredie.",
+      "en": "The prebiotic fibre Frutafit® inulin supports digestion and a healthy intestinal environment.",
+      "de": "Der präbiotische Ballaststoff Frutafit® Inulin unterstützt die Verdauung und ein gesundes Darmmilieu."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 165,
+    "source": "Tradičně se spojuje s podporou klidného večerního usínání a regenerace organismu.",
+    "translations": {
+      "sk": "Tradične sa spája s podporou pokojného večerného zaspávania a regenerácie organizmu.",
+      "en": "It is traditionally associated with supporting peaceful sleep onset in the evening and the body's regeneration.",
+      "de": "Er wird traditionell mit der Unterstützung ruhigen Einschlafens am Abend und der Regeneration des Körpers in Verbindung gebracht."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 166,
+    "source": "Adaptogenní extrakty schizandry a ženšenu ženského (Female Ginseng) 10:1 tradičně pomáhají tělu zvládat zátěž.",
+    "translations": {
+      "sk": "Adaptogénne extrakty schizandry a ženského ženšenu (Female Ginseng) 10:1 tradične pomáhajú telu zvládať záťaž.",
+      "en": "Adaptogenic extracts of schisandra and female ginseng (Female Ginseng) 10:1 traditionally help the body cope with strain.",
+      "de": "Adaptogene Extrakte aus Schisandra und Frauenginseng (Female Ginseng) 10:1 helfen dem Körper traditionell, Belastungen zu bewältigen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 167,
+    "source": "Podporují odolnost organismu, psychickou pohodu a celkovou ženskou vitalitu.",
+    "translations": {
+      "sk": "Podporujú odolnosť organizmu, psychickú pohodu a celkovú ženskú vitalitu.",
+      "en": "They support the body's resilience, mental well-being and overall female vitality.",
+      "de": "Sie unterstützen die Widerstandskraft des Körpers, das psychische Wohlbefinden und die allgemeine weibliche Vitalität."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 168,
+    "source": "Kontryhel a pískavice řeckého sena spolu se sójovými izoflavony patří mezi rostlinné fytohormony.",
+    "translations": {
+      "sk": "Alchemilka a senovka grécka spolu so sójovými izoflavónmi patria medzi rastlinné fytohormóny.",
+      "en": "Lady's mantle and fenugreek, together with soy isoflavones, are among the plant phytohormones.",
+      "de": "Frauenmantel und Bockshornklee zählen zusammen mit Soja-Isoflavonen zu den pflanzlichen Phytohormonen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 169,
+    "source": "Tradičně podporují ženskou hormonální rovnováhu a zmírnění výkyvů nálady i komfortu.",
+    "translations": {
+      "sk": "Tradične podporujú ženskú hormonálnu rovnováhu a zmiernenie výkyvov nálady aj komfortu.",
+      "en": "They traditionally support female hormonal balance and help ease fluctuations in mood and comfort.",
+      "de": "Sie unterstützen traditionell die weibliche hormonelle Balance und die Linderung von Schwankungen der Stimmung und des Wohlbefindens."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 170,
+    "source": "1 100 mg L-glycinu přispívá ke zklidnění a kvalitnímu spánku a je stavební aminokyselinou kolagenu.",
+    "translations": {
+      "sk": "1 100 mg L-glycínu prispieva k upokojeniu a kvalitnému spánku a je stavebnou aminokyselinou kolagénu.",
+      "en": "1 100 mg of L-glycine contributes to calm and good-quality sleep and is a building-block amino acid of collagen.",
+      "de": "1 100 mg L-Glycin trägt zu Entspannung und gutem Schlaf bei und ist eine strukturgebende Aminosäure des Kollagens."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 171,
+    "source": "N-acetyl-L-cystein podporuje antioxidační ochranu buněk.",
+    "translations": {
+      "sk": "N-acetyl-L-cysteín podporuje antioxidačnú ochranu buniek.",
+      "en": "N-acetyl-L-cysteine supports antioxidant cell protection.",
+      "de": "N-Acetyl-L-Cystein unterstützt den antioxidativen Zellschutz."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 172,
+    "source": "Chrom přispívá k udržení normální hladiny glukózy v krvi, zinek k ochraně buněk před oxidačním stresem.",
+    "translations": {
+      "sk": "Chróm prispieva k udržaniu normálnej hladiny glukózy v krvi, zinok k ochrane buniek pred oxidačným stresom.",
+      "en": "Chromium contributes to the maintenance of normal blood glucose levels, and zinc to the protection of cells from oxidative stress.",
+      "de": "Chrom trägt zur Aufrechterhaltung eines normalen Blutzuckerspiegels bei, Zink zum Schutz der Zellen vor oxidativem Stress."
+    },
+    "classification": "nutrient-wording-in-HTML-product-approval-not-verified",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 173,
+    "source": "Vitaminy D3, K2 MK-7 a kyselina listová (B9) doplňují komplex o každodenní podporu ženského organismu.",
+    "translations": {
+      "sk": "Vitamíny D3, K2 MK-7 a kyselina listová (B9) dopĺňajú komplex o každodennú podporu ženského organizmu.",
+      "en": "Vitamins D3, K2 MK-7 and folic acid (B9) complement the complex with daily support for the female body.",
+      "de": "Die Vitamine D3, K2 MK-7 und Folsäure (B9) ergänzen den Komplex um tägliche Unterstützung für den weiblichen Körper."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 174,
+    "source": "Calcium alfa-ketoglutarát (Ca-AKG) je moderní longevity složka. Alfa-ketoglutarát je přirozený meziprodukt buněčného energetického metabolismu a bývá spojován s podporou zdravého stárnutí.",
+    "translations": {
+      "sk": "Calcium alfa-ketoglutarát (Ca-AKG) je moderná longevity zložka. Alfa-ketoglutarát je prirodzený medziprodukt bunkového energetického metabolizmu a býva spájaný s podporou zdravého starnutia.",
+      "en": "Calcium alpha-ketoglutarate (Ca-AKG) is a modern longevity ingredient. Alpha-ketoglutarate is a natural intermediate in cellular energy metabolism and is associated with supporting healthy ageing.",
+      "de": "Calcium-Alpha-Ketoglutarat (Ca-AKG) ist ein moderner Longevity-Inhaltsstoff. Alpha-Ketoglutarat ist ein natürliches Zwischenprodukt des zellulären Energiestoffwechsels und wird mit der Unterstützung gesunden Alterns in Verbindung gebracht."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 175,
+    "source": "Ve vázané formě zároveň dodává vápník, který přispívá k běžným funkcím organismu.",
+    "translations": {
+      "sk": "Vo viazanej forme zároveň dodáva vápnik, ktorý prispieva k bežným funkciám organizmu.",
+      "en": "In its bound form it also provides calcium, which contributes to the body's normal functions.",
+      "de": "In gebundener Form liefert es zugleich Calcium, das zu normalen Körperfunktionen beiträgt."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 262,
+    "source": "Ph + URO Balance čaj | Podpora močových cest a detoxikace",
+    "translations": {
+      "sk": "Ph + URO Balance čaj | Podpora močových ciest a detoxikácie",
+      "en": "Ph + URO Balance Tea | Urinary tract support and detoxification",
+      "de": "Ph + URO Balance Tee | Unterstützung der Harnwege und Entgiftung"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 265,
+    "source": "je BIO bylinný porcovaný čaj, namíchaný z",
+    "translations": {
+      "sk": "je BIO bylinný porciovaný čaj, namiešaný zo",
+      "en": "is an organic portioned herbal tea blended from",
+      "de": "ist ein portionierter Bio-Kräutertee aus"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 267,
+    "source": "speciálně vybraných pro podporu zdraví močových cest, detoxikaci organismu a vyvážení pH. Tato unikátní směs přináší komplexní péči o vaše tělo a pomáhá zvyšovat celkovou vitalitu a odolnost.",
+    "translations": {
+      "sk": "špeciálne vybraných na podporu zdravia močových ciest, detoxikáciu organizmu a vyváženie pH. Táto unikátna zmes prináša komplexnú starostlivosť o vaše telo a pomáha zvyšovať celkovú vitalitu a odolnosť.",
+      "en": "specially selected to support urinary tract health, detoxify the body and balance pH. This unique blend provides comprehensive care for your body and helps increase overall vitality and resilience.",
+      "de": "die speziell zur Unterstützung der Harnwegsgesundheit, Entgiftung des Körpers und zum pH-Ausgleich ausgewählt wurden. Diese einzigartige Mischung bietet umfassende Pflege für Ihren Körper und hilft, Vitalität und Widerstandskraft insgesamt zu steigern."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 269,
+    "source": "Detoxikace organismu",
+    "translations": {
+      "sk": "Detoxikácia organizmu",
+      "en": "Body detoxification",
+      "de": "Entgiftung des Körpers"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 270,
+    "source": "Podpora zdraví močových cest",
+    "translations": {
+      "sk": "Podpora zdravia močových ciest",
+      "en": "Urinary tract health support",
+      "de": "Unterstützung der Harnwegs­gesundheit"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 271,
+    "source": "Vyvážení pH",
+    "translations": {
+      "sk": "Vyváženie pH",
+      "en": "pH balance",
+      "de": "pH-Ausgleich"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 272,
+    "source": "Podpora imunity a vitality",
+    "translations": {
+      "sk": "Podpora imunity a vitality",
+      "en": "Immune support and vitality",
+      "de": "Unterstützung von Immunsystem und Vitalität"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 273,
+    "source": "Vylučování přebytečné vody",
+    "translations": {
+      "sk": "Vylučovanie prebytočnej vody",
+      "en": "Elimination of excess water",
+      "de": "Ausscheidung überschüssigen Wassers"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 274,
+    "source": "využívá synergie sedmi pečlivě vybraných bylin, které společně působí na podporu zdraví močových cest, detoxikaci organismu a vyvážení pH. Byliny jako",
+    "translations": {
+      "sk": "využíva synergiu siedmich starostlivo vybraných bylín, ktoré spoločne pôsobia na podporu zdravia močových ciest, detoxikáciu organizmu a vyváženie pH. Byliny ako",
+      "en": "harnesses the synergy of seven carefully selected herbs that work together to support urinary tract health, detoxify the body and balance pH. Herbs such as",
+      "de": "nutzt die Synergie von sieben sorgfältig ausgewählten Kräutern, die gemeinsam die Harnwegsgesundheit, die Entgiftung des Körpers und den pH-Ausgleich unterstützen. Kräuter wie"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 276,
+    "source": "mají silné diuretické účinky, které podporují vylučování toxinů a přebytečných tekutin.",
+    "translations": {
+      "sk": "majú silné diuretické účinky, ktoré podporujú vylučovanie toxínov a prebytočných tekutín.",
+      "en": "have strong diuretic effects that support the elimination of toxins and excess fluids.",
+      "de": "haben starke harntreibende Wirkungen, die die Ausscheidung von Giftstoffen und überschüssiger Flüssigkeit unterstützen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 278,
+    "source": "chrání močové cesty před bakteriemi a záněty díky svým antibakteriálním vlastnostem.",
+    "translations": {
+      "sk": "chránia močové cesty pred baktériami a zápalmi vďaka svojim antibakteriálnym vlastnostiam.",
+      "en": "protect the urinary tract from bacteria and inflammation thanks to their antibacterial properties.",
+      "de": "schützen die Harnwege dank ihrer antibakteriellen Eigenschaften vor Bakterien und Entzündungen."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 280,
+    "source": "pomáhají rozpouštět ledvinové kameny a čistí ledviny, zatímco",
+    "translations": {
+      "sk": "pomáhajú rozpúšťať obličkové kamene a čistia obličky, zatiaľ čo",
+      "en": "help dissolve kidney stones and cleanse the kidneys, while",
+      "de": "helfen, Nierensteine aufzulösen und die Nieren zu reinigen; außerdem stärken"
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 282,
+    "source": "posilují imunitu a dodávají energii.",
+    "translations": {
+      "sk": "posilňujú imunitu a dodávajú energiu.",
+      "en": "strengthen immunity and provide energy.",
+      "de": "das Immunsystem und liefern Energie."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 284,
+    "source": "podporuje zdraví pojivových tkání a má regenerační účinky. Díky této komplexní kombinaci čaj přirozeně podporuje celkové zdraví a vitalitu organismu.",
+    "translations": {
+      "sk": "podporuje zdravie spojivových tkanív a má regeneračné účinky. Vďaka tejto komplexnej kombinácii čaj prirodzene podporuje celkové zdravie a vitalitu organizmu.",
+      "en": "supports connective tissue health and has regenerative effects. Thanks to this comprehensive combination, the tea naturally supports the body's overall health and vitality.",
+      "de": "unterstützt die Gesundheit des Bindegewebes und wirkt regenerierend. Dank dieser umfassenden Kombination unterstützt der Tee auf natürliche Weise die allgemeine Gesundheit und Vitalität des Körpers."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 285,
+    "source": "Očistěte své tělo od toxinů, které zatěžují váš organismus. Naše pečlivě vybrané bylinky mají unikátní schopnost přirozeně podporovat obranyschopnost těla, čistí trávicí systém a podporují celkovou vitalitu. Vyvážená směs léčivých bylin dodává energii, podporuje zdravé hubnutí a pomůže vám na cestě za vysněnou postavou. Čaj je bohatý na živiny a antioxidanty, posiluje imunitu a odolnost vůči každodennímu stresu, infekcím, nachlazení a dalším výzvám.",
+    "translations": {
+      "sk": "Očistite svoje telo od toxínov, ktoré zaťažujú váš organizmus. Naše starostlivo vybrané bylinky majú unikátnu schopnosť prirodzene podporovať obranyschopnosť tela, čistia tráviaci systém a podporujú celkovú vitalitu. Vyvážená zmes liečivých bylín dodáva energiu, podporuje zdravé chudnutie a pomôže vám na ceste za vysnívanou postavou. Čaj je bohatý na živiny a antioxidanty, posilňuje imunitu a odolnosť voči každodennému stresu, infekciám, nachladnutiu a ďalším výzvam.",
+      "en": "Cleanse your body of toxins that burden your system. Our carefully selected herbs have a unique ability to naturally support the body's defences, cleanse the digestive system and support overall vitality. The balanced blend of medicinal herbs provides energy, supports healthy weight loss and helps you on the way to your dream figure. The tea is rich in nutrients and antioxidants, strengthens immunity and resistance to everyday stress, infections, colds and other challenges.",
+      "de": "Befreien Sie Ihren Körper von belastenden Giftstoffen. Unsere sorgfältig ausgewählten Kräuter haben die einzigartige Fähigkeit, die Abwehrkräfte auf natürliche Weise zu unterstützen, das Verdauungssystem zu reinigen und die allgemeine Vitalität zu fördern. Die ausgewogene Heilkräutermischung liefert Energie, unterstützt gesundes Abnehmen und hilft Ihnen auf dem Weg zur Wunschfigur. Der Tee ist reich an Nährstoffen und Antioxidantien, stärkt das Immunsystem und die Widerstandskraft gegen Alltagsstress, Infektionen, Erkältungen und weitere Herausforderungen."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 286,
+    "source": "Co náš čaj umí díky výběrovým bylinkám",
+    "translations": {
+      "sk": "Čo náš čaj dokáže vďaka výberovým bylinkám",
+      "en": "What our tea can do thanks to selected herbs",
+      "de": "Was unser Tee dank ausgewählter Kräuter kann"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 287,
+    "source": "Podporuje zdraví močových cest a zabraňuje usazování bakterií na sliznicích;",
+    "translations": {
+      "sk": "Podporuje zdravie močových ciest a zabraňuje usádzaniu baktérií na slizniciach;",
+      "en": "Supports urinary tract health and prevents bacteria from settling on mucous membranes;",
+      "de": "Unterstützt die Harnwegsgesundheit und verhindert die Ansiedlung von Bakterien auf den Schleimhäuten;"
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 288,
+    "source": "Pomáhá čistit ledviny a močový měchýř, působí močopudně;",
+    "translations": {
+      "sk": "Pomáha čistiť obličky a močový mechúr, pôsobí močopudne;",
+      "en": "Helps cleanse the kidneys and bladder and has a diuretic effect;",
+      "de": "Hilft, Nieren und Blase zu reinigen, und wirkt harntreibend;"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 289,
+    "source": "Rozpouští ledvinové kameny a podporuje přirozenou detoxikaci těla;",
+    "translations": {
+      "sk": "Rozpúšťa obličkové kamene a podporuje prirodzenú detoxikáciu tela;",
+      "en": "Dissolves kidney stones and supports the body's natural detoxification;",
+      "de": "Löst Nierensteine auf und unterstützt die natürliche Entgiftung des Körpers;"
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 290,
+    "source": "Má protizánětlivé a antibakteriální účinky na močové cesty;",
+    "translations": {
+      "sk": "Má protizápalové a antibakteriálne účinky na močové cesty;",
+      "en": "Has anti-inflammatory and antibacterial effects on the urinary tract;",
+      "de": "Wirkt entzündungshemmend und antibakteriell auf die Harnwege;"
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 291,
+    "source": "Pomáhá odstraňovat nadbytečné tekutiny z těla;",
+    "translations": {
+      "sk": "Pomáha odstraňovať nadbytočné tekutiny z tela;",
+      "en": "Helps remove excess fluids from the body;",
+      "de": "Hilft, überschüssige Flüssigkeit aus dem Körper auszuscheiden;"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 292,
+    "source": "Podporuje čištění organismu od škodlivých látek a kyseliny močové;",
+    "translations": {
+      "sk": "Podporuje čistenie organizmu od škodlivých látok a kyseliny močovej;",
+      "en": "Supports cleansing the body of harmful substances and uric acid;",
+      "de": "Unterstützt die Reinigung des Körpers von schädlichen Stoffen und Harnsäure;"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 293,
+    "source": "Posiluje játra a přispívá k regeneraci těla;",
+    "translations": {
+      "sk": "Posilňuje pečeň a prispieva k regenerácii tela;",
+      "en": "Strengthens the liver and contributes to the body's regeneration;",
+      "de": "Stärkt die Leber und trägt zur Regeneration des Körpers bei;"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 294,
+    "source": "Zvyšuje odolnost organismu vůči zánětům a infekcím.",
+    "translations": {
+      "sk": "Zvyšuje odolnosť organizmu voči zápalom a infekciám.",
+      "en": "Increases the body's resistance to inflammation and infections.",
+      "de": "Erhöht die Widerstandskraft des Körpers gegen Entzündungen und Infektionen."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 297,
+    "source": "Bříza je známá pro své silné detoxikační a diuretické účinky.",
+    "translations": {
+      "sk": "Breza je známa svojimi silnými detoxikačnými a diuretickými účinkami.",
+      "en": "Birch is known for its strong detoxifying and diuretic effects.",
+      "de": "Birke ist für ihre starke entgiftende und harntreibende Wirkung bekannt."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 300,
+    "source": "Brusinka je jedním z nejúčinnějších přírodních prostředků pro podporu zdraví močových cest.",
+    "translations": {
+      "sk": "Brusnica je jedným z najúčinnejších prírodných prostriedkov na podporu zdravia močových ciest.",
+      "en": "Cranberry is one of the most effective natural remedies for supporting urinary tract health.",
+      "de": "Cranberry ist eines der wirksamsten natürlichen Mittel zur Unterstützung der Harnwegsgesundheit."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 303,
+    "source": "Vřes je ceněný pro své protizánětlivé a diuretické vlastnosti, které jsou účinné při čištění močových cest.",
+    "translations": {
+      "sk": "Vres je cenený pre svoje protizápalové a diuretické vlastnosti, ktoré sú účinné pri čistení močových ciest.",
+      "en": "Heather is valued for its anti-inflammatory and diuretic properties, which are effective in cleansing the urinary tract.",
+      "de": "Heidekraut wird für seine entzündungshemmenden und harntreibenden Eigenschaften geschätzt, die bei der Reinigung der Harnwege wirksam sind."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 306,
+    "source": "Zlatobýl je známý svou schopností podporovat zdraví močových cest díky svým silným diuretickým a protizánětlivým vlastnostem.",
+    "translations": {
+      "sk": "Zlatobyľ je známa svojou schopnosťou podporovať zdravie močových ciest vďaka svojim silným diuretickým a protizápalovým vlastnostiam.",
+      "en": "Goldenrod is known for its ability to support urinary tract health thanks to its strong diuretic and anti-inflammatory properties.",
+      "de": "Goldrute ist dafür bekannt, dank ihrer starken harntreibenden und entzündungshemmenden Eigenschaften die Harnwegsgesundheit zu unterstützen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 309,
+    "source": "Šípek je bohatý na vitamín C, karotenoidy a flavonoidy, což z něj činí silný antioxidant podporující imunitní systém.",
+    "translations": {
+      "sk": "Šípky sú bohaté na vitamín C, karotenoidy a flavonoidy, čo z nich robí silný antioxidant podporujúci imunitný systém.",
+      "en": "Rosehip is rich in vitamin C, carotenoids and flavonoids, making it a powerful antioxidant that supports the immune system.",
+      "de": "Hagebutte ist reich an Vitamin C, Carotinoiden und Flavonoiden und damit ein starkes Antioxidans, das das Immunsystem unterstützt."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 312,
+    "source": "Truskavec je tradičně využíván pro své diuretické vlastnosti a schopnost podporovat čištění močových cest.",
+    "translations": {
+      "sk": "Stavikrv sa tradične využíva pre svoje diuretické vlastnosti a schopnosť podporovať čistenie močových ciest.",
+      "en": "Knotgrass is traditionally used for its diuretic properties and ability to support cleansing of the urinary tract.",
+      "de": "Vogelknöterich wird traditionell wegen seiner harntreibenden Eigenschaften und seiner Fähigkeit eingesetzt, die Reinigung der Harnwege zu unterstützen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 315,
+    "source": "Ibišek je bohatý na vitamín C a antioxidanty, které posilují imunitní systém a podporují ochranu buněk před volnými radikály.",
+    "translations": {
+      "sk": "Ibištek je bohatý na vitamín C a antioxidanty, ktoré posilňujú imunitný systém a podporujú ochranu buniek pred voľnými radikálmi.",
+      "en": "Hibiscus is rich in vitamin C and antioxidants that strengthen the immune system and support the protection of cells from free radicals.",
+      "de": "Hibiskus ist reich an Vitamin C und Antioxidantien, die das Immunsystem stärken und den Schutz der Zellen vor freien Radikalen unterstützen."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 317,
+    "source": "Přeslička rolní je známá svým vysokým obsahem křemíku, minerálu důležitého pro zdraví pojivových tkání, vlasů a nehtů.",
+    "translations": {
+      "sk": "Praslička roľná je známa vysokým obsahom kremíka, minerálu dôležitého pre zdravie spojivových tkanív, vlasov a nechtov.",
+      "en": "Field horsetail is known for its high content of silicon, a mineral important for the health of connective tissue, hair and nails.",
+      "de": "Ackerschachtelhalm ist für seinen hohen Gehalt an Silicium bekannt, einem Mineralstoff, der für die Gesundheit von Bindegewebe, Haaren und Nägeln wichtig ist."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 320,
+    "source": "Medvědice lékařská je silná bylina, tradičně využívaná k léčbě infekcí močových cest.",
+    "translations": {
+      "sk": "Medvedica lekárska je silná bylina, tradične využívaná na liečbu infekcií močových ciest.",
+      "en": "Bearberry is a potent herb traditionally used to treat urinary tract infections.",
+      "de": "Die Echte Bärentraube ist ein starkes Kraut, das traditionell zur Behandlung von Harnwegsinfektionen eingesetzt wird."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 322,
+    "source": "Bříza je známá pro své silné detoxikační a diuretické účinky. Obsahuje flavonoidy, saponiny a silice, které podporují zvýšené vylučování moči a tím pomáhají tělu odstraňovat toxiny a přebytečné tekutiny. Bříza je tradičně využívána k léčbě zánětů močového měchýře, ledvin a při problémech s otoky. Navíc má regenerační účinky na ledviny a játra. Její močopudné vlastnosti zlepšují látkovou výměnu a pomáhají při léčbě dny a revmatismu. Díky svým detoxikačním schopnostem bříza přispívá k celkovému očistnému procesu organismu a podporuje zdraví močových cest.",
+    "translations": {
+      "sk": "Breza je známa svojimi silnými detoxikačnými a diuretickými účinkami. Obsahuje flavonoidy, saponíny a silice, ktoré podporujú zvýšené vylučovanie moču a tým pomáhajú telu odstraňovať toxíny a prebytočné tekutiny. Breza sa tradične využíva na liečbu zápalov močového mechúra, obličiek a pri problémoch s opuchmi. Navyše má regeneračné účinky na obličky a pečeň. Jej močopudné vlastnosti zlepšujú látkovú výmenu a pomáhajú pri liečbe dny a reumatizmu. Vďaka svojim detoxikačným schopnostiam breza prispieva k celkovému očistnému procesu organizmu a podporuje zdravie močových ciest.",
+      "en": "Birch is known for its strong detoxifying and diuretic effects. It contains flavonoids, saponins and essential oils that support increased urine excretion, helping the body remove toxins and excess fluids. Birch is traditionally used to treat inflammation of the bladder and kidneys and problems with swelling. It also has regenerative effects on the kidneys and liver. Its diuretic properties improve metabolism and help in the treatment of gout and rheumatism. Thanks to its detoxifying abilities, birch contributes to the body's overall cleansing process and supports urinary tract health.",
+      "de": "Birke ist für ihre starke entgiftende und harntreibende Wirkung bekannt. Sie enthält Flavonoide, Saponine und ätherische Öle, die die vermehrte Harnausscheidung unterstützen und dem Körper so helfen, Giftstoffe und überschüssige Flüssigkeit auszuscheiden. Birke wird traditionell zur Behandlung von Blasen- und Nierenentzündungen sowie bei Schwellungen eingesetzt. Außerdem wirkt sie regenerierend auf Nieren und Leber. Ihre harntreibenden Eigenschaften verbessern den Stoffwechsel und helfen bei der Behandlung von Gicht und Rheuma. Dank ihrer entgiftenden Fähigkeiten trägt Birke zum allgemeinen Reinigungsprozess des Körpers bei und unterstützt die Harnwegsgesundheit."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 323,
+    "source": "Brusinka je jedním z nejúčinnějších přírodních prostředků pro podporu zdraví močových cest. Obsahuje silné antioxidanty, jako jsou proanthokyanidiny, které pomáhají předcházet infekcím tím, že zabraňují přilnutí bakterií (zejména E. coli) na stěny močového měchýře a močových cest. Brusinka je také bohatá na vitamín C, což přispívá k posílení imunitního systému. Její pravidelná konzumace pomáhá při prevenci opakovaných zánětů močových cest a chrání před jejich chronickým zánětem. Brusinka navíc obsahuje minerály, jako jsou draslík a hořčík, které podporují správnou funkci metabolismu a celkové zdraví organismu.",
+    "translations": {
+      "sk": "Brusnica je jedným z najúčinnejších prírodných prostriedkov na podporu zdravia močových ciest. Obsahuje silné antioxidanty, ako sú proantokyanidíny, ktoré pomáhajú predchádzať infekciám tým, že zabraňujú priľnutiu baktérií (najmä E. coli) na steny močového mechúra a močových ciest. Brusnica je tiež bohatá na vitamín C, čo prispieva k posilneniu imunitného systému. Jej pravidelná konzumácia pomáha pri prevencii opakovaných zápalov močových ciest a chráni pred ich chronickým zápalom. Brusnica navyše obsahuje minerály, ako sú draslík a horčík, ktoré podporujú správnu funkciu metabolizmu a celkové zdravie organizmu.",
+      "en": "Cranberry is one of the most effective natural remedies for supporting urinary tract health. It contains powerful antioxidants such as proanthocyanidins, which help prevent infections by stopping bacteria (especially E. coli) from adhering to the walls of the bladder and urinary tract. Cranberry is also rich in vitamin C, which contributes to strengthening the immune system. Regular consumption helps prevent recurrent urinary tract inflammation and protects against chronic inflammation. Cranberry also contains minerals such as potassium and magnesium, which support proper metabolic function and the body's overall health.",
+      "de": "Cranberry ist eines der wirksamsten natürlichen Mittel zur Unterstützung der Harnwegsgesundheit. Sie enthält starke Antioxidantien wie Proanthocyanidine, die Infektionen vorbeugen helfen, indem sie das Anhaften von Bakterien (insbesondere E. coli) an den Wänden von Blase und Harnwegen verhindern. Cranberry ist außerdem reich an Vitamin C, was zur Stärkung des Immunsystems beiträgt. Ihr regelmäßiger Verzehr hilft, wiederkehrenden Harnwegsentzündungen vorzubeugen, und schützt vor chronischen Entzündungen. Darüber hinaus enthält Cranberry Mineralstoffe wie Kalium und Magnesium, die eine normale Stoffwechselfunktion und die allgemeine Gesundheit des Körpers unterstützen."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 324,
+    "source": "Vřes je ceněný pro své protizánětlivé a diuretické vlastnosti, které jsou účinné při čištění močových cest. Bylina obsahuje taniny a flavonoidy, které působí antibakteriálně a podporují vylučování moči. Vřes je tradičně využíván při léčbě infekcí močového měchýře, ledvin a prostaty. Působí nejen močopudně, ale také uklidňujícím způsobem na nervovou soustavu, což může být přínosem při stresu či nervovém vyčerpání. Jeho pravidelné užívání pomáhá čistit tělo od škodlivých látek a zároveň podporuje regeneraci ledvin a močového ústrojí.",
+    "translations": {
+      "sk": "Vres je cenený pre svoje protizápalové a diuretické vlastnosti, ktoré sú účinné pri čistení močových ciest. Bylina obsahuje taníny a flavonoidy, ktoré pôsobia antibakteriálne a podporujú vylučovanie moču. Vres sa tradične využíva pri liečbe infekcií močového mechúra, obličiek a prostaty. Pôsobí nielen močopudne, ale aj upokojujúco na nervovú sústavu, čo môže byť prínosom pri strese či nervovom vyčerpaní. Jeho pravidelné užívanie pomáha čistiť telo od škodlivých látok a zároveň podporuje regeneráciu obličiek a močového ústrojenstva.",
+      "en": "Heather is valued for its anti-inflammatory and diuretic properties, which are effective in cleansing the urinary tract. The herb contains tannins and flavonoids that have antibacterial effects and support urine excretion. Heather is traditionally used in the treatment of infections of the bladder, kidneys and prostate. It not only acts as a diuretic but also has a calming effect on the nervous system, which may be beneficial during stress or nervous exhaustion. Regular use helps cleanse the body of harmful substances while supporting regeneration of the kidneys and urinary system.",
+      "de": "Heidekraut wird für seine entzündungshemmenden und harntreibenden Eigenschaften geschätzt, die bei der Reinigung der Harnwege wirksam sind. Das Kraut enthält Tannine und Flavonoide, die antibakteriell wirken und die Harnausscheidung unterstützen. Heidekraut wird traditionell zur Behandlung von Infektionen der Blase, der Nieren und der Prostata eingesetzt. Es wirkt nicht nur harntreibend, sondern auch beruhigend auf das Nervensystem, was bei Stress oder nervöser Erschöpfung hilfreich sein kann. Die regelmäßige Anwendung hilft, den Körper von schädlichen Stoffen zu reinigen, und unterstützt zugleich die Regeneration von Nieren und Harnwegen."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 325,
+    "source": "Zlatobýl je známý svou schopností podporovat zdraví močových cest díky svým silným diuretickým a protizánětlivým vlastnostem. Obsahuje saponiny, flavonoidy a silice, které stimulují vylučování moči, čímž pomáhají odstraňovat přebytečné tekutiny z těla a čistit močové cesty. Zlatobýl je tradičně využíván k léčbě infekcí močového měchýře, ledvinových kamenů a prostaty. Kromě toho pomáhá posilovat cévy a zlepšuje jejich pružnost, což je přínosné při křečových žilách. Díky svým účinkům na močové ústrojí a imunitní systém zlatobýl přispívá k prevenci infekcí a zánětů.",
+    "translations": {
+      "sk": "Zlatobyľ je známa svojou schopnosťou podporovať zdravie močových ciest vďaka svojim silným diuretickým a protizápalovým vlastnostiam. Obsahuje saponíny, flavonoidy a silice, ktoré stimulujú vylučovanie moču, čím pomáhajú odstraňovať prebytočné tekutiny z tela a čistiť močové cesty. Zlatobyľ sa tradične využíva na liečbu infekcií močového mechúra, obličkových kameňov a prostaty. Okrem toho pomáha posilňovať cievy a zlepšuje ich pružnosť, čo je prínosné pri kŕčových žilách. Vďaka svojim účinkom na močové ústrojenstvo a imunitný systém zlatobyľ prispieva k prevencii infekcií a zápalov.",
+      "en": "Goldenrod is known for its ability to support urinary tract health thanks to its strong diuretic and anti-inflammatory properties. It contains saponins, flavonoids and essential oils that stimulate urine excretion, helping remove excess fluids from the body and cleanse the urinary tract. Goldenrod is traditionally used to treat bladder infections, kidney stones and the prostate. It also helps strengthen blood vessels and improve their elasticity, which is beneficial for varicose veins. Thanks to its effects on the urinary and immune systems, goldenrod contributes to the prevention of infections and inflammation.",
+      "de": "Goldrute ist dafür bekannt, dank ihrer starken harntreibenden und entzündungshemmenden Eigenschaften die Harnwegsgesundheit zu unterstützen. Sie enthält Saponine, Flavonoide und ätherische Öle, die die Harnausscheidung anregen und so helfen, überschüssige Flüssigkeit aus dem Körper zu entfernen und die Harnwege zu reinigen. Goldrute wird traditionell zur Behandlung von Blaseninfektionen, Nierensteinen und der Prostata eingesetzt. Außerdem hilft sie, Blutgefäße zu stärken und ihre Elastizität zu verbessern, was bei Krampfadern von Nutzen ist. Dank ihrer Wirkung auf Harnwege und Immunsystem trägt Goldrute zur Vorbeugung von Infektionen und Entzündungen bei."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 326,
+    "source": "Šípek je bohatý na vitamín C, karotenoidy a flavonoidy, což z něj činí silný antioxidant podporující imunitní systém. Šípek pomáhá chránit buňky před poškozením volnými radikály, posiluje obranyschopnost organismu a podporuje zdraví kardiovaskulárního systému. Díky svému obsahu vlákniny napomáhá také trávení a správnému vylučování. Pravidelné užívání šípku pomáhá snižovat riziko infekcí močových cest, a to díky jeho antibakteriálním a protizánětlivým vlastnostem. Šípek rovněž podporuje zdraví kloubů a zlepšuje regeneraci po fyzické zátěži.",
+    "translations": {
+      "sk": "Šípky sú bohaté na vitamín C, karotenoidy a flavonoidy, čo z nich robí silný antioxidant podporujúci imunitný systém. Šípky pomáhajú chrániť bunky pred poškodením voľnými radikálmi, posilňujú obranyschopnosť organizmu a podporujú zdravie kardiovaskulárneho systému. Vďaka obsahu vlákniny pomáhajú aj tráveniu a správnemu vylučovaniu. Pravidelné užívanie šípok pomáha znižovať riziko infekcií močových ciest vďaka ich antibakteriálnym a protizápalovým vlastnostiam. Šípky takisto podporujú zdravie kĺbov a zlepšujú regeneráciu po fyzickej záťaži.",
+      "en": "Rosehip is rich in vitamin C, carotenoids and flavonoids, making it a powerful antioxidant that supports the immune system. Rosehip helps protect cells from free-radical damage, strengthens the body's defences and supports cardiovascular health. Its fibre content also aids digestion and proper elimination. Regular use of rosehip helps reduce the risk of urinary tract infections thanks to its antibacterial and anti-inflammatory properties. Rosehip also supports joint health and improves recovery after physical exertion.",
+      "de": "Hagebutte ist reich an Vitamin C, Carotinoiden und Flavonoiden und damit ein starkes Antioxidans, das das Immunsystem unterstützt. Hagebutte hilft, Zellen vor Schäden durch freie Radikale zu schützen, stärkt die Abwehrkräfte und unterstützt die Gesundheit des Herz-Kreislauf-Systems. Dank ihres Ballaststoffgehalts unterstützt sie auch die Verdauung und eine normale Ausscheidung. Die regelmäßige Anwendung von Hagebutte hilft dank ihrer antibakteriellen und entzündungshemmenden Eigenschaften, das Risiko von Harnwegsinfektionen zu senken. Hagebutte unterstützt außerdem die Gelenkgesundheit und verbessert die Regeneration nach körperlicher Belastung."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 327,
+    "source": "Truskavec je tradičně využíván pro své diuretické vlastnosti a schopnost podporovat čištění močových cest. Pomáhá rozpouštět ledvinové kameny a snižuje riziko jejich opětovného vzniku. Tato bylina čistí močový měchýř a ledviny od toxinů a podporuje vylučování přebytečných tekutin z těla. Truskavec také působí pozitivně na trávicí systém, kde napomáhá při léčbě zánětů a zlepšuje celkovou funkci trávení. Díky svým antibakteriálním vlastnostem je ideální při léčbě zánětů močových cest a podporuje regeneraci postižených orgánů.",
+    "translations": {
+      "sk": "Stavikrv sa tradične využíva pre svoje diuretické vlastnosti a schopnosť podporovať čistenie močových ciest. Pomáha rozpúšťať obličkové kamene a znižuje riziko ich opätovného vzniku. Táto bylina čistí močový mechúr a obličky od toxínov a podporuje vylučovanie prebytočných tekutín z tela. Stavikrv takisto pôsobí pozitívne na tráviaci systém, kde pomáha pri liečbe zápalov a zlepšuje celkovú funkciu trávenia. Vďaka svojim antibakteriálnym vlastnostiam je ideálny pri liečbe zápalov močových ciest a podporuje regeneráciu postihnutých orgánov.",
+      "en": "Knotgrass is traditionally used for its diuretic properties and ability to support cleansing of the urinary tract. It helps dissolve kidney stones and reduces the risk of their recurrence. This herb cleanses the bladder and kidneys of toxins and supports elimination of excess fluids from the body. Knotgrass also has a positive effect on the digestive system, where it helps treat inflammation and improves overall digestive function. Thanks to its antibacterial properties, it is ideal for treating urinary tract inflammation and supports regeneration of the affected organs.",
+      "de": "Vogelknöterich wird traditionell wegen seiner harntreibenden Eigenschaften und seiner Fähigkeit eingesetzt, die Reinigung der Harnwege zu unterstützen. Er hilft, Nierensteine aufzulösen, und senkt das Risiko ihrer erneuten Entstehung. Dieses Kraut reinigt Blase und Nieren von Giftstoffen und unterstützt die Ausscheidung überschüssiger Flüssigkeit aus dem Körper. Vogelknöterich wirkt auch positiv auf das Verdauungssystem, wo er bei der Behandlung von Entzündungen hilft und die allgemeine Verdauungsfunktion verbessert. Dank seiner antibakteriellen Eigenschaften ist er ideal zur Behandlung von Harnwegsentzündungen und unterstützt die Regeneration der betroffenen Organe."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 328,
+    "source": "Ibišek je bohatý na vitamín C a antioxidanty, které posilují imunitní systém a podporují ochranu buněk před volnými radikály. Působí jemně močopudně a přispívá k regulaci hladiny tekutin v těle, což pomáhá udržet správnou hydrataci a podporuje funkci ledvin. Ibišek má také schopnost snižovat krevní tlak a podporuje kardiovaskulární zdraví. Díky svým antioxidačním vlastnostem chrání tělo před záněty a podporuje přirozenou detoxikaci. Jeho příjemná chuť z něj činí oblíbenou součást detoxikačních čajů.",
+    "translations": {
+      "sk": "Ibištek je bohatý na vitamín C a antioxidanty, ktoré posilňujú imunitný systém a podporujú ochranu buniek pred voľnými radikálmi. Pôsobí jemne močopudne a prispieva k regulácii hladiny tekutín v tele, čo pomáha udržať správnu hydratáciu a podporuje funkciu obličiek. Ibištek má tiež schopnosť znižovať krvný tlak a podporuje kardiovaskulárne zdravie. Vďaka svojim antioxidačným vlastnostiam chráni telo pred zápalmi a podporuje prirodzenú detoxikáciu. Jeho príjemná chuť z neho robí obľúbenú súčasť detoxikačných čajov.",
+      "en": "Hibiscus is rich in vitamin C and antioxidants that strengthen the immune system and support the protection of cells from free radicals. It has a mild diuretic effect and contributes to regulating fluid levels in the body, helping maintain proper hydration and supporting kidney function. Hibiscus also has the ability to lower blood pressure and supports cardiovascular health. Thanks to its antioxidant properties, it protects the body from inflammation and supports natural detoxification. Its pleasant flavour makes it a popular ingredient in detox teas.",
+      "de": "Hibiskus ist reich an Vitamin C und Antioxidantien, die das Immunsystem stärken und den Schutz der Zellen vor freien Radikalen unterstützen. Er wirkt leicht harntreibend und trägt zur Regulierung des Flüssigkeitshaushalts bei, was hilft, eine angemessene Hydratation aufrechtzuerhalten und die Nierenfunktion zu unterstützen. Hibiskus kann außerdem den Blutdruck senken und unterstützt die Herz-Kreislauf-Gesundheit. Dank seiner antioxidativen Eigenschaften schützt er den Körper vor Entzündungen und unterstützt die natürliche Entgiftung. Sein angenehmer Geschmack macht ihn zu einem beliebten Bestandteil von Detox-Tees."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 329,
+    "source": "Přeslička rolní je známá svým vysokým obsahem křemíku, minerálu důležitého pro zdraví pojivových tkání, vlasů a nehtů. Má silné diuretické účinky, což napomáhá vylučování přebytečných tekutin z těla a čistí močové cesty. Přeslička podporuje hojení ran, má antibakteriální účinky a zpevňuje cévy, což je důležité pro prevenci křečových žil. Navíc pomáhá při léčbě zánětů močového měchýře a podporuje zdraví ledvin. Díky obsahu antioxidantů chrání buňky před poškozením a podporuje celkové zdraví.",
+    "translations": {
+      "sk": "Praslička roľná je známa vysokým obsahom kremíka, minerálu dôležitého pre zdravie spojivových tkanív, vlasov a nechtov. Má silné diuretické účinky, čo pomáha vylučovaniu prebytočných tekutín z tela a čistí močové cesty. Praslička podporuje hojenie rán, má antibakteriálne účinky a spevňuje cievy, čo je dôležité pre prevenciu kŕčových žíl. Navyše pomáha pri liečbe zápalov močového mechúra a podporuje zdravie obličiek. Vďaka obsahu antioxidantov chráni bunky pred poškodením a podporuje celkové zdravie.",
+      "en": "Field horsetail is known for its high content of silicon, a mineral important for the health of connective tissue, hair and nails. It has strong diuretic effects, aiding the elimination of excess fluids from the body and cleansing the urinary tract. Horsetail supports wound healing, has antibacterial effects and strengthens blood vessels, which is important for preventing varicose veins. It also helps treat bladder inflammation and supports kidney health. Its antioxidant content protects cells from damage and supports overall health.",
+      "de": "Ackerschachtelhalm ist für seinen hohen Gehalt an Silicium bekannt, einem Mineralstoff, der für die Gesundheit von Bindegewebe, Haaren und Nägeln wichtig ist. Er wirkt stark harntreibend, was die Ausscheidung überschüssiger Flüssigkeit aus dem Körper fördert und die Harnwege reinigt. Schachtelhalm unterstützt die Wundheilung, wirkt antibakteriell und festigt die Blutgefäße, was für die Vorbeugung von Krampfadern wichtig ist. Außerdem hilft er bei der Behandlung von Blasenentzündungen und unterstützt die Nierengesundheit. Dank seines Gehalts an Antioxidantien schützt er Zellen vor Schäden und unterstützt die allgemeine Gesundheit."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 330,
+    "source": "Medvědice lékařská je silná bylina, tradičně využívaná k léčbě infekcí močových cest. Obsahuje arbutin, který se v těle mění na hydrochinon, látku s antibakteriálními vlastnostmi, jež dezinfikuje a čistí močové cesty. Medvědice je účinná při léčbě zánětů močového měchýře a močové trubice. Kromě toho má mírné diuretické účinky, které napomáhají vylučování moči a tím i škodlivých bakterií. Při pravidelném užívání medvědice přispívá k prevenci opakovaných infekcí močových cest a celkově podporuje zdraví ledvin a močového ústrojí.",
+    "translations": {
+      "sk": "Medvedica lekárska je silná bylina, tradične využívaná na liečbu infekcií močových ciest. Obsahuje arbutín, ktorý sa v tele mení na hydrochinón, látku s antibakteriálnymi vlastnosťami, ktorá dezinfikuje a čistí močové cesty. Medvedica je účinná pri liečbe zápalov močového mechúra a močovej rúry. Okrem toho má mierne diuretické účinky, ktoré pomáhajú vylučovaniu moču a tým aj škodlivých baktérií. Pri pravidelnom užívaní medvedica prispieva k prevencii opakovaných infekcií močových ciest a celkovo podporuje zdravie obličiek a močového ústrojenstva.",
+      "en": "Bearberry is a potent herb traditionally used to treat urinary tract infections. It contains arbutin, which is converted in the body into hydroquinone, a substance with antibacterial properties that disinfects and cleanses the urinary tract. Bearberry is effective in treating inflammation of the bladder and urethra. It also has mild diuretic effects that aid urine excretion and thereby the removal of harmful bacteria. With regular use, bearberry contributes to preventing recurrent urinary tract infections and supports the overall health of the kidneys and urinary system.",
+      "de": "Die Echte Bärentraube ist ein starkes Kraut, das traditionell zur Behandlung von Harnwegsinfektionen eingesetzt wird. Sie enthält Arbutin, das im Körper in Hydrochinon umgewandelt wird, einen Stoff mit antibakteriellen Eigenschaften, der die Harnwege desinfiziert und reinigt. Bärentraube ist bei der Behandlung von Blasen- und Harnröhrenentzündungen wirksam. Außerdem wirkt sie leicht harntreibend, was die Harnausscheidung und damit die Entfernung schädlicher Bakterien fördert. Bei regelmäßiger Anwendung trägt Bärentraube zur Vorbeugung wiederkehrender Harnwegsinfektionen bei und unterstützt insgesamt die Gesundheit von Nieren und Harnwegen."
+    },
+    "classification": "disease-treatment-prevention-not-for-publication",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 346,
+    "source": "Vyvážená směs pečlivě vybraných bylin navržená pro podporu správné funkce močových cest a rovnováhu pH v organismu. Tento bylinný čaj je ideální jako součást každodenní péče o zdraví díky své schopnosti detoxikovat, posilovat imunitní systém a podporovat přirozené vylučování přebytečné vody.",
+    "translations": {
+      "sk": "Vyvážená zmes starostlivo vybraných bylín navrhnutá na podporu správnej funkcie močových ciest a rovnováhu pH v organizme. Tento bylinný čaj je ideálny ako súčasť každodennej starostlivosti o zdravie vďaka svojej schopnosti detoxikovať, posilňovať imunitný systém a podporovať prirodzené vylučovanie prebytočnej vody.",
+      "en": "A balanced blend of carefully selected herbs designed to support proper urinary tract function and pH balance in the body. This herbal tea is ideal as part of everyday health care thanks to its ability to detoxify, strengthen the immune system and support the natural elimination of excess water.",
+      "de": "Eine ausgewogene Mischung sorgfältig ausgewählter Kräuter zur Unterstützung einer normalen Harnwegsfunktion und des pH-Gleichgewichts im Körper. Dieser Kräutertee eignet sich ideal für die tägliche Gesundheitspflege, da er entgiftet, das Immunsystem stärkt und die natürliche Ausscheidung überschüssigen Wassers unterstützt."
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 370,
+    "source": "Snižuje chuť do jídla",
+    "translations": {
+      "sk": "Znižuje chuť do jedla",
+      "en": "Reduces appetite",
+      "de": "Verringert den Appetit"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 371,
+    "source": "Stabilizuje hladinu cukru",
+    "translations": {
+      "sk": "Stabilizuje hladinu cukru",
+      "en": "Stabilises blood sugar levels",
+      "de": "Stabilisiert den Blutzuckerspiegel"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 372,
+    "source": "Podporuje spalování tuků",
+    "translations": {
+      "sk": "Podporuje spaľovanie tukov",
+      "en": "Supports fat burning",
+      "de": "Unterstützt die Fettverbrennung"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 373,
+    "source": "Zvyšuje pocit sytosti",
+    "translations": {
+      "sk": "Zvyšuje pocit sýtosti",
+      "en": "Increases satiety",
+      "de": "Steigert das Sättigungsgefühl"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  },
+  {
+    "sourceKeyId": 374,
+    "source": "Bleskové hubnutí",
+    "translations": {
+      "sk": "Bleskové chudnutie",
+      "en": "Rapid weight loss",
+      "de": "Blitzschnelles Abnehmen"
+    },
+    "classification": "effect-claim-unverified-product-specific-authorisation-required",
+    "internalFaithfulDraftOnly": true,
+    "approvedForPublication": false
+  }
+]

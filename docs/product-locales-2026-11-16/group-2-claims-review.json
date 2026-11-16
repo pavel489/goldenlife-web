@@ -1,0 +1,1839 @@
+{
+  "status": "INTERNÍ NESCHVÁLENÝ PŘEKLAD – NEPUBLIKOVAT",
+  "sources": [
+    {
+      "path": "/root/workspace/brand/product/svacinka-slim-glp-1-shake-s-prichuti-kokos-bila-cokolada/info.md",
+      "sha256": "b988f0b53605adcfcaa05593353b6119f90e408f2224e7fd610343f655c149e3",
+      "actual_recorded_wording": "(EFSA, doslova z webu — smí ven jen takto)\n- žádné EFSA claims u tohoto produktu; u bylin/hub/adaptogenů piš jen \"tradičně se užívá\", viz NOT-ALLOWED.md",
+      "approved_effect_replacement_available": false
+    },
+    {
+      "path": "/root/workspace/brand/product/miracle-drops-2/info.md",
+      "sha256": "3798396c198e167188ef91c4f37ce336bbabd4fba3f82fbb00121bcfbdbee1c5",
+      "actual_recorded_wording": "(EFSA, doslova z webu — smí ven jen takto)\n- žádné EFSA claims na webu u tohoto produktu; u bylin/hub/adaptogenů piš jen \"tradičně se užívá\", viz NOT-ALLOWED.md\n\n---\nPravidlo: claims ber jen z tohoto souboru, doslova. Cena je snapshot 2026-09-17, ověř před publikací.",
+      "approved_effect_replacement_available": false
+    },
+    {
+      "path": "/root/workspace/brand/product/detoxikacni-caj-7-dni/info.md",
+      "sha256": "cf3eae0ff3be6e17e15db9c55414398911b436e6d766757fefa91f5477420820",
+      "actual_recorded_wording": "(EFSA, doslova z webu — smí ven jen takto)\n- žádné EFSA claims na webu u tohoto produktu; u bylin/hub/adaptogenů piš jen \"tradičně se užívá\", viz NOT-ALLOWED.md\n\n---\nPravidlo: claims ber jen z tohoto souboru, doslova. Cena je snapshot 2026-09-17, ověř před publikací.",
+      "approved_effect_replacement_available": false
+    }
+  ],
+  "limitations": [
+    "brand/NOT-ALLOWED.md v přiděleném workspace chybí; použita pravidla brand/RULES.md.",
+    "Záznamy info.md u všech tří produktů uvádějí, že žádná schválená EFSA tvrzení nemají. Automaticky generovaný nadpis není právní schválení.",
+    "U kosmetického séra Miracle Drops není EFSA správnou schvalovací cestou; potřeba je kosmetická substanciace a odstranění léčebných tvrzení před publikací.",
+    "Nebylo tvrzeno, že překlad nebo obecná znalost živiny dokládá přípustnost tvrzení. Registr nebyl ověřován, zadání je interní překlad."
+  ],
+  "factual_source_alternatives": [
+    {
+      "id": "470",
+      "actual_source_wording": "Bílkoviny | 67,7 g | 20,3 g; Chrom | 66,6 mcg | 20 mcg (50% RHP)",
+      "scope": "Faktické údaje z tabulky info.md, nikoli náhrada či schválení všech účinkových vět."
+    },
+    {
+      "id": "99",
+      "actual_source_wording": "Miracle Drops; Objem 50 ml",
+      "scope": "Identifikace a objem z info.md; nejde o schválené účinkové tvrzení."
+    },
+    {
+      "id": "261",
+      "actual_source_wording": "Detoxikační čaj – 7 dní | 14 g | jedna čajová lžička (2 g) denně",
+      "scope": "Identifikace a dávkování z info.md; žádná ekvivalentní schválená účinková formulace ve zdroji není."
+    }
+  ],
+  "source_conflicts": [
+    "SHAKE: text uvádí 8,9 mld. CFU v porci, tabulka 0,75 mld. KJT v 30 g; zachováno bez opravy.",
+    "SHAKE: 12 vitamínů vs výčet obsahující i K2 a D3; označení bioaktivních forem není stejné jako úplný seznam.",
+    "SHAKE: text 4 g kolagenu, tabulka 13,4 g / 100 g a 4 g / 30 g; L-karnitin jen v tabulce, ne v úplném složení.",
+    "SHAKE: piktogram Bez cukru vs 2,4 g cukrů v porci; zachováno a označeno k prověření.",
+    "MIRACLE: INCI je ve zdroji částečně zopakován; zachováno včetně pořadí, přeloženo pouze vložené návěští Ingredients.",
+    "MIRACLE: Defensil® je ve zdroji popsán jako Albatrellus Ovinus; skutečná obchodní identita a formula nejsou tímto auditem ověřeny.",
+    "ČAJ: zdroj identifikuje bylinný čaj, ale obsahuje povinnou větu Doplněk stravy; regulatorní kategorie není nově rozhodnuta.",
+    "ČAJ: úplný seznam obsahuje 11 bylin, ale zdroj má jen 4 jednotlivé bylinné karty. Přeloženy všechny čtyři karty i všech 11 položek v úplném složení; žádné vysvětlení dalších bylin nebylo vymyšleno."
+  ],
+  "records": [
+    {
+      "product_id": "470",
+      "text_key": 18,
+      "source": "Slim GLP-1 SHAKE není jen proteinový nápoj. Je to promyšlená kombinace složek, které společně podporují vaše tělo přesně tam, kde to při hubnutí nejvíc potřebuje – a to u chuti k jídlu, spalování tuků i udržení energie.",
+      "translations": {
+        "sk": "Slim GLP-1 SHAKE nie je len proteínový nápoj. Je to premyslená kombinácia zložiek, ktoré spoločne podporujú vaše telo presne tam, kde to pri chudnutí najviac potrebuje – pri chuti do jedla, spaľovaní tukov aj udržaní energie.",
+        "en": "Slim GLP-1 SHAKE is more than a protein drink. It is a carefully designed combination of ingredients that work together to support your body where it needs it most during weight loss – appetite, fat burning and maintaining energy.",
+        "de": "Slim GLP-1 SHAKE ist mehr als ein Proteindrink. Er ist eine durchdachte Kombination von Zutaten, die Ihren Körper gemeinsam genau dort unterstützen, wo er es beim Abnehmen am meisten braucht – bei Appetit, Fettverbrennung und dem Erhalt der Energie."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 19,
+      "source": "Každá porce obsahuje",
+      "translations": {
+        "sk": "Každá porcia obsahuje",
+        "en": "Each serving contains",
+        "de": "Jede Portion enthält"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 20,
+      "source": "20,3 g plnohodnotného proteinu",
+      "translations": {
+        "sk": "20,3 g plnohodnotného proteínu",
+        "en": "20,3 g of complete protein",
+        "de": "20,3 g vollwertiges Protein"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 21,
+      "source": "pro výživu a ochranu svalů,",
+      "translations": {
+        "sk": "na výživu a ochranu svalov,",
+        "en": "to nourish and protect muscles,",
+        "de": "zur Versorgung und zum Schutz der Muskeln,"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 22,
+      "source": "4 g bioaktivního kolagenu",
+      "translations": {
+        "sk": "4 g bioaktívneho kolagénu",
+        "en": "4 g of bioactive collagen",
+        "de": "4 g bioaktives Kollagen"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 23,
+      "source": "pro zdravou pleť a klouby,",
+      "translations": {
+        "sk": "pre zdravú pleť a kĺby,",
+        "en": "for healthy skin and joints,",
+        "de": "für gesunde Haut und Gelenke,"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 24,
+      "source": "MCT tuky z kokosu",
+      "translations": {
+        "sk": "MCT tuky z kokosu",
+        "en": "MCT fats from coconut",
+        "de": "MCT-Fette aus Kokos"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 25,
+      "source": "jako zdroj rychlé energie a výraznou příchuť kokosu a bílé čokolády, kterou si zamilujete. Díky chromu přispívá k normální hladině glukózy v krvi a",
+      "translations": {
+        "sk": "ako zdroj rýchlej energie a výraznú príchuť kokosu a bielej čokolády, ktorú si zamilujete. Vďaka chrómu prispieva k normálnej hladine glukózy v krvi a",
+        "en": "as a source of quick energy and a distinctive coconut and white chocolate flavour you will love. Thanks to chromium, it contributes to normal blood glucose levels, and",
+        "de": "als schnelle Energiequelle und einen ausgeprägten Kokos-Weißschokoladen-Geschmack, den Sie lieben werden. Dank Chrom trägt er zu einem normalen Blutzuckerspiegel bei, und"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 26,
+      "source": "Aquamin® s 72 minerály",
+      "translations": {
+        "sk": "Aquamin® so 72 minerálmi",
+        "en": "Aquamin® with 72 minerals",
+        "de": "Aquamin® mit 72 Mineralstoffen"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 27,
+      "source": "doplňuje tělu to, co mu při redukční dietě snadno chybí. O zdravé trávení a maximální vstřebávání živin se stará kombinace",
+      "translations": {
+        "sk": "dopĺňa telu to, čo mu pri redukčnej diéte ľahko chýba. O zdravé trávenie a maximálne vstrebávanie živín sa stará kombinácia",
+        "en": "replenishes what the body can easily lack on a weight-loss diet. Healthy digestion and maximum nutrient absorption are supported by a combination of",
+        "de": "ergänzt, was dem Körper bei einer Reduktionsdiät leicht fehlen kann. Für eine gesunde Verdauung und maximale Nährstoffaufnahme sorgt folgende Kombination:"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 28,
+      "source": "7 enzymů OPTI7DIGEST®",
+      "translations": {
+        "sk": "7 enzýmov OPTI7DIGEST®",
+        "en": "7 OPTI7DIGEST® enzymes",
+        "de": "7 Enzyme OPTI7DIGEST®"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 29,
+      "source": "a probiotika",
+      "translations": {
+        "sk": "a probiotika",
+        "en": "and the probiotic",
+        "de": "und das Probiotikum"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 32,
+      "source": "Jednoduše řečeno: jeden shake, komplexní podpora.",
+      "translations": {
+        "sk": "Jednoducho povedané: jeden shake, komplexná podpora.",
+        "en": "Simply put: one shake, comprehensive support.",
+        "de": "Einfach gesagt: ein Shake, umfassende Unterstützung."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 33,
+      "source": "Hlavní účinky Svačinka Slim GLP-1 Shake",
+      "translations": {
+        "sk": "Hlavné účinky desiaty Slim GLP-1 Shake",
+        "en": "Main effects of the Slim GLP-1 Shake snack",
+        "de": "Hauptwirkungen der Slim GLP-1 Shake Zwischenmahlzeit"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 35,
+      "source": "Zvyšuje pocit sytosti",
+      "translations": {
+        "sk": "Zvyšuje pocit sýtosti",
+        "en": "Increases fullness",
+        "de": "Verstärkt das Sättigungsgefühl"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 36,
+      "source": "Potlačuje chuť k jídlu",
+      "translations": {
+        "sk": "Potláča chuť do jedla",
+        "en": "Suppresses appetite",
+        "de": "Hemmt den Appetit"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 37,
+      "source": "Budování a údržba svalů",
+      "translations": {
+        "sk": "Budovanie a udržiavanie svalov",
+        "en": "Muscle building and maintenance",
+        "de": "Muskelaufbau und -erhalt"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 38,
+      "source": "Maximální podpora hubnutí",
+      "translations": {
+        "sk": "Maximálna podpora chudnutia",
+        "en": "Maximum weight-loss support",
+        "de": "Maximale Unterstützung beim Abnehmen"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 39,
+      "source": "Redukce tuku",
+      "translations": {
+        "sk": "Redukcia tuku",
+        "en": "Fat reduction",
+        "de": "Fettreduktion"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 43,
+      "source": "Slim GLP-1 SHAKE je navržený tak, aby fungoval na několika úrovních najednou.",
+      "translations": {
+        "sk": "Slim GLP-1 SHAKE je navrhnutý tak, aby fungoval na niekoľkých úrovniach naraz.",
+        "en": "Slim GLP-1 SHAKE is designed to work on several levels at once.",
+        "de": "Slim GLP-1 SHAKE wurde entwickelt, um auf mehreren Ebenen gleichzeitig zu wirken."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 44,
+      "source": "Základ tvoří",
+      "translations": {
+        "sk": "Základ tvorí",
+        "en": "The foundation is",
+        "de": "Die Basis bildet"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 45,
+      "source": "micelární kasein",
+      "translations": {
+        "sk": "micelárny kazeín",
+        "en": "micellar casein",
+        "de": "mizellares Kasein"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 46,
+      "source": "– pomalý protein, který se vstřebává až 7 hodin a zajišťuje dlouhodobý pocit sytosti. Brání večerním chutím i odbourávání svalové hmoty. Doplňují ho",
+      "translations": {
+        "sk": "– pomalý proteín, ktorý sa vstrebáva až 7 hodín a zabezpečuje dlhodobý pocit sýtosti. Bráni večerným chutiam aj odbúravaniu svalovej hmoty. Dopĺňajú ho",
+        "en": "– a slow-release protein absorbed over up to 7 hours, providing long-lasting fullness. It prevents evening cravings and muscle breakdown. It is complemented by",
+        "de": "– ein langsam aufgenommenes Protein, dessen Aufnahme bis zu 7 Stunden dauert und das lang anhaltend sättigt. Es verhindert abendliche Heißhungerattacken und den Abbau von Muskelmasse. Ergänzt wird es durch"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 47,
+      "source": "kolagenní peptidy typu I",
+      "translations": {
+        "sk": "kolagénové peptidy typu I",
+        "en": "type I collagen peptides",
+        "de": "Kollagenpeptide vom Typ I"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 48,
+      "source": ", které chrání klouby, šlachy a přispívají ke zdravému vzhledu pleti. Součástí je i",
+      "translations": {
+        "sk": ", ktoré chránia kĺby, šľachy a prispievajú k zdravému vzhľadu pleti. Súčasťou je aj",
+        "en": ", which protect joints and tendons and contribute to healthy-looking skin. The formula also includes",
+        "de": ", die Gelenke und Sehnen schützen und zu einem gesunden Hautbild beitragen. Ebenfalls enthalten ist"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 49,
+      "source": "MCT olej z kokosu",
+      "translations": {
+        "sk": "MCT olej z kokosu",
+        "en": "MCT oil from coconut",
+        "de": "MCT-Öl aus Kokos"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 50,
+      "source": "– rychlý zdroj energie, který se v těle nechová jako zásobní tuk.",
+      "translations": {
+        "sk": "– rýchly zdroj energie, ktorý sa v tele nespráva ako zásobný tuk.",
+        "en": "– a quick source of energy that does not behave like stored fat in the body.",
+        "de": "– eine schnelle Energiequelle, die sich im Körper nicht wie Speicherfett verhält."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 51,
+      "source": "Klíčovou roli hraje",
+      "translations": {
+        "sk": "Kľúčovú úlohu zohráva",
+        "en": "A key role is played by",
+        "de": "Eine Schlüsselrolle spielt"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 52,
+      "source": "CAROLEAN™.",
+      "translations": {
+        "sk": "CAROLEAN™.",
+        "en": "CAROLEAN™.",
+        "de": "CAROLEAN™."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 53,
+      "source": "Patentovaná látka, která zpomaluje vstřebávání tuků z potravy až o 27 % a přirozeně navozuje pocit plnosti.",
+      "translations": {
+        "sk": "Patentovaná látka, ktorá spomaľuje vstrebávanie tukov z potravy až o 27 % a prirodzene navodzuje pocit plnosti.",
+        "en": "A patented ingredient that slows the absorption of dietary fats by up to 27 % and naturally induces a feeling of fullness.",
+        "de": "Ein patentierter Stoff, der die Aufnahme von Nahrungsfetten um bis zu 27 % verlangsamt und auf natürliche Weise ein Völlegefühl erzeugt."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 54,
+      "source": "Chrompikolinát",
+      "translations": {
+        "sk": "Pikolinát chrómu",
+        "en": "Chromium picolinate",
+        "de": "Chrompicolinat"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 55,
+      "source": "stabilizuje hladinu cukru v krvi, čímž snižuje touhu po sladkém a vyrovnává výkyvy hladu během dne.",
+      "translations": {
+        "sk": "stabilizuje hladinu cukru v krvi, čím znižuje túžbu po sladkom a vyrovnáva výkyvy hladu počas dňa.",
+        "en": "stabilises blood sugar levels, reducing sweet cravings and balancing fluctuations in hunger throughout the day.",
+        "de": "stabilisiert den Blutzuckerspiegel, verringert dadurch die Lust auf Süßes und gleicht Hungerschwankungen im Tagesverlauf aus."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 56,
+      "source": "Pro maximální efekt je přípravek doplněn o",
+      "translations": {
+        "sk": "Pre maximálny efekt je prípravok doplnený o",
+        "en": "For maximum effect, the formula is enriched with",
+        "de": "Für maximale Wirkung wird das Produkt ergänzt durch"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 57,
+      "source": "Aquamin® Soluble.",
+      "translations": {
+        "sk": "Aquamin® Soluble.",
+        "en": "Aquamin® Soluble.",
+        "de": "Aquamin® Soluble."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 58,
+      "source": "Přírodní zdroj 72 minerálů z mořských řas pro energii a správný metabolismus.",
+      "translations": {
+        "sk": "Prírodný zdroj 72 minerálov z morských rias pre energiu a správny metabolizmus.",
+        "en": "A natural source of 72 minerals from seaweed for energy and proper metabolism.",
+        "de": "Eine natürliche Quelle von 72 Mineralstoffen aus Meeresalgen für Energie und einen normalen Stoffwechsel."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 59,
+      "source": "Probiotika LactoSpore®",
+      "translations": {
+        "sk": "Probiotiká LactoSpore®",
+        "en": "LactoSpore® probiotics",
+        "de": "LactoSpore®-Probiotika"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 60,
+      "source": "(8,9 mld. CFU) a",
+      "translations": {
+        "sk": "(8,9 mld. CFU) a",
+        "en": "(8,9 billion CFU) and",
+        "de": "(8,9 Mrd. CFU) und"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 61,
+      "source": "zajišťují, že tělo ze šejku vytěží maximum.",
+      "translations": {
+        "sk": "zabezpečujú, že telo zo šejku vyťaží maximum.",
+        "en": "ensure that the body gets the most from the shake.",
+        "de": "sorgen dafür, dass der Körper das Beste aus dem Shake herausholt."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 62,
+      "source": "Prebiotická vláknina FOS",
+      "translations": {
+        "sk": "Prebiotická vláknina FOS",
+        "en": "Prebiotic FOS fibre",
+        "de": "Präbiotische FOS-Ballaststoffe"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 63,
+      "source": "vyživuje střevní mikroflóru a prodlužuje pocit sytosti.",
+      "translations": {
+        "sk": "vyživuje črevnú mikroflóru a predlžuje pocit sýtosti.",
+        "en": "nourishes the gut microbiota and prolongs fullness.",
+        "de": "ernähren die Darmflora und verlängern das Sättigungsgefühl."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 64,
+      "source": "Výsledek?",
+      "translations": {
+        "sk": "Výsledok?",
+        "en": "The result?",
+        "de": "Das Ergebnis?"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 65,
+      "source": "Komplexní podpora, která skutečně funguje. Tedy hlad pod kontrolou, tuky se spalují, svaly zůstávají.",
+      "translations": {
+        "sk": "Komplexná podpora, ktorá skutočne funguje. Teda hlad pod kontrolou, tuky sa spaľujú, svaly zostávajú.",
+        "en": "Comprehensive support that really works. Hunger under control, fat being burned, muscles maintained.",
+        "de": "Umfassende Unterstützung, die wirklich wirkt. Hunger unter Kontrolle, Fett wird verbrannt, Muskeln bleiben erhalten."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 66,
+      "source": "Proč náš GLP-1 Shake a ne obyčejný Whey protein?",
+      "translations": {
+        "sk": "Prečo náš GLP-1 Shake a nie obyčajný srvátkový proteín?",
+        "en": "Why our GLP-1 Shake rather than ordinary whey protein?",
+        "de": "Warum unser GLP-1 Shake statt gewöhnlichem Whey-Protein?"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 67,
+      "source": "Primární rozdíl je, že Whey protein zasytí na chvíli. Oproti tomu náš Slim GLP-1 Shake zasytí na celé dopoledne. Případně odpoledne, podle vašich preferencí. Nestihneš ani přemýšlet o drobných pamlscích, protože nezastaví jen hlad, ale i ty malé chutě na sladké, které sabotují každou dietu. Díky tomuto produktu vaše tělo dostane všechno najednou: bílkoviny pro svaly, kolagen pro pleť a klouby, minerály pro energii, enzymy pro trávení bez nadýmání. Žádné hromadění deseti různých doplňků. Žádné výčitky po zbytečném jídle. Jen jeden shake, který skutečně funguje na více věcí zároveň.",
+      "translations": {
+        "sk": "Hlavný rozdiel je v tom, že srvátkový proteín zasýti na chvíľu. Náš Slim GLP-1 Shake vás oproti tomu zasýti na celé dopoludnie. Prípadne popoludnie, podľa vašich preferencií. Nestihnete ani premýšľať o drobných maškrtách, pretože nezastaví len hlad, ale aj tie malé chute na sladké, ktoré sabotujú každú diétu. Vďaka tomuto produktu vaše telo dostane všetko naraz: bielkoviny pre svaly, kolagén pre pleť a kĺby, minerály pre energiu, enzýmy pre trávenie bez nadúvania. Žiadne hromadenie desiatich rôznych doplnkov. Žiadne výčitky po zbytočnom jedle. Len jeden shake, ktorý skutočne funguje na viac vecí naraz.",
+        "en": "The main difference is that whey protein fills you up briefly. Our Slim GLP-1 Shake, by contrast, keeps you full all morning. Or all afternoon, depending on your preference. You will not even have time to think about little treats, because it stops not only hunger but also those sweet cravings that sabotage any diet. With this product your body gets everything at once: protein for muscles, collagen for skin and joints, minerals for energy, enzymes for digestion without bloating. No stockpiling ten different supplements. No guilt after unnecessary eating. Just one shake that really works on several things at once.",
+        "de": "Der Hauptunterschied: Whey-Protein sättigt nur kurz. Unser Slim GLP-1 Shake dagegen hält den ganzen Vormittag satt. Oder den Nachmittag, je nach Ihren Vorlieben. Sie kommen gar nicht erst dazu, über kleine Naschereien nachzudenken, denn er stoppt nicht nur Hunger, sondern auch die kleinen Gelüste auf Süßes, die jede Diät sabotieren. Mit diesem Produkt bekommt Ihr Körper alles auf einmal: Protein für die Muskeln, Kollagen für Haut und Gelenke, Mineralstoffe für Energie, Enzyme für die Verdauung ohne Blähungen. Keine Ansammlung von zehn verschiedenen Nahrungsergänzungen. Kein schlechtes Gewissen nach unnötigem Essen. Nur ein Shake, der tatsächlich mehrere Aufgaben zugleich erfüllt."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 69,
+      "source": "Potlačení chuti k jídlu a lepší kontrola hladu. Efektivní spalování tuků a podpora redukce hmotnosti. Dlouhodobý pocit sytosti díky micelárnímu kaseinu. Zdravá střevní mikroflóra díky probiotikům LactoSpore®. Podpora trávení a metabolismu díky směsi 7 enzymů OPTI7DIGEST®. Energie, imunita a vitalita díky 12 bioaktivním vitamínům. Omlazení pokožky, vlasů a nehtů díky bioaktivním kolagenním peptidům. Rychlá rehydratace a doplnění minerálů díky Aquamin® s více než 72 prvky.",
+      "translations": {
+        "sk": "Potlačenie chuti do jedla a lepšia kontrola hladu. Efektívne spaľovanie tukov a podpora redukcie hmotnosti. Dlhodobý pocit sýtosti vďaka micelárnemu kazeínu. Zdravá črevná mikroflóra vďaka probiotikám LactoSpore®. Podpora trávenia a metabolizmu vďaka zmesi 7 enzýmov OPTI7DIGEST®. Energia, imunita a vitalita vďaka 12 bioaktívnym vitamínom. Omladenie pokožky, vlasov a nechtov vďaka bioaktívnym kolagénovým peptidom. Rýchla rehydratácia a doplnenie minerálov vďaka Aquamin® s viac než 72 prvkami.",
+        "en": "Appetite suppression and better hunger control. Efficient fat burning and support for weight reduction. Long-lasting fullness thanks to micellar casein. Healthy gut microbiota thanks to LactoSpore® probiotics. Support for digestion and metabolism thanks to a blend of 7 OPTI7DIGEST® enzymes. Energy, immunity and vitality thanks to 12 bioactive vitamins. Rejuvenation of skin, hair and nails thanks to bioactive collagen peptides. Rapid rehydration and mineral replenishment thanks to Aquamin® with more than 72 elements.",
+        "de": "Appetithemmung und bessere Hungerkontrolle. Effiziente Fettverbrennung und Unterstützung der Gewichtsreduktion. Lang anhaltende Sättigung dank mizellarem Kasein. Gesunde Darmflora dank LactoSpore®-Probiotika. Unterstützung von Verdauung und Stoffwechsel dank einer Mischung aus 7 OPTI7DIGEST®-Enzymen. Energie, Immunität und Vitalität dank 12 bioaktiven Vitaminen. Verjüngung von Haut, Haaren und Nägeln dank bioaktiven Kollagenpeptiden. Schnelle Rehydrierung und Mineralstoffergänzung dank Aquamin® mit mehr als 72 Elementen."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 72,
+      "source": "Potlačení chuti k jídlu a lepší kontrola hladu.",
+      "translations": {
+        "sk": "Potlačenie chuti do jedla a lepšia kontrola hladu.",
+        "en": "Appetite suppression and better hunger control.",
+        "de": "Appetithemmung und bessere Hungerkontrolle."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 73,
+      "source": "Efektivní spalování tuků a podpora redukce hmotnosti.",
+      "translations": {
+        "sk": "Efektívne spaľovanie tukov a podpora redukcie hmotnosti.",
+        "en": "Efficient fat burning and support for weight reduction.",
+        "de": "Effiziente Fettverbrennung und Unterstützung der Gewichtsreduktion."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 74,
+      "source": "Dlouhodobý pocit sytosti díky micelárnímu kaseinu.",
+      "translations": {
+        "sk": "Dlhodobý pocit sýtosti vďaka micelárnemu kazeínu.",
+        "en": "Long-lasting fullness thanks to micellar casein.",
+        "de": "Lang anhaltende Sättigung dank mizellarem Kasein."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 75,
+      "source": "Zdravá střevní mikroflóra díky probiotikům LactoSpore®.",
+      "translations": {
+        "sk": "Zdravá črevná mikroflóra vďaka probiotikám LactoSpore®.",
+        "en": "Healthy gut microbiota thanks to LactoSpore® probiotics.",
+        "de": "Gesunde Darmflora dank LactoSpore®-Probiotika."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 76,
+      "source": "Podpora trávení a metabolismu díky směsi 7 enzymů OPTI7DIGEST®.",
+      "translations": {
+        "sk": "Podpora trávenia a metabolizmu vďaka zmesi 7 enzýmov OPTI7DIGEST®.",
+        "en": "Support for digestion and metabolism thanks to a blend of 7 OPTI7DIGEST® enzymes.",
+        "de": "Unterstützung von Verdauung und Stoffwechsel dank einer Mischung aus 7 OPTI7DIGEST®-Enzymen."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 77,
+      "source": "Energie, imunita a vitalita díky 12 bioaktivním vitamínům.",
+      "translations": {
+        "sk": "Energia, imunita a vitalita vďaka 12 bioaktívnym vitamínom.",
+        "en": "Energy, immunity and vitality thanks to 12 bioactive vitamins.",
+        "de": "Energie, Immunität und Vitalität dank 12 bioaktiven Vitaminen."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 78,
+      "source": "Omlazení pokožky, vlasů a nehtů díky bioaktivním kolagenním peptidům.",
+      "translations": {
+        "sk": "Omladenie pokožky, vlasov a nechtov vďaka bioaktívnym kolagénovým peptidom.",
+        "en": "Rejuvenation of skin, hair and nails thanks to bioactive collagen peptides.",
+        "de": "Verjüngung von Haut, Haaren und Nägeln dank bioaktiven Kollagenpeptiden."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 79,
+      "source": "Rychlá rehydratace a doplnění minerálů díky Aquamin® s více než 72 prvky.",
+      "translations": {
+        "sk": "Rýchla rehydratácia a doplnenie minerálov vďaka Aquamin® s viac než 72 prvkami.",
+        "en": "Rapid rehydration and mineral replenishment thanks to Aquamin® with more than 72 elements.",
+        "de": "Schnelle Rehydrierung und Mineralstoffergänzung dank Aquamin® mit mehr als 72 Elementen."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 80,
+      "source": "Kokosovo-čokoládová chuť pro příjemnější svačinový rituál.",
+      "translations": {
+        "sk": "Kokosovo-čokoládová chuť pre príjemnejší desiatový rituál.",
+        "en": "Coconut-chocolate flavour for a more enjoyable snack ritual.",
+        "de": "Kokos-Schokoladen-Geschmack für ein angenehmeres Snackritual."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 83,
+      "source": "Místo čokolády nebo sušenky sáhni po Slim GLP-1 Shake. Za 2 minuty máš v ruce 20 g bílkovin, sytou svačinu a žádné výčitky. Tvůj den pokračuje přesně podle plánu.",
+      "translations": {
+        "sk": "Namiesto čokolády alebo sušienky siahnite po Slim GLP-1 Shake. Za 2 minúty máte v ruke 20 g bielkovín, sýtu desiatu a žiadne výčitky. Váš deň pokračuje presne podľa plánu.",
+        "en": "Instead of chocolate or a biscuit, reach for Slim GLP-1 Shake. In 2 minutes you have 20 g of protein, a filling snack and no guilt. Your day continues exactly as planned.",
+        "de": "Greifen Sie statt zu Schokolade oder Keksen zum Slim GLP-1 Shake. In 2 Minuten haben Sie 20 g Protein, eine sättigende Zwischenmahlzeit und kein schlechtes Gewissen in der Hand. Ihr Tag geht genau nach Plan weiter."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 85,
+      "source": "Shake smícháš s vodou ještě v šatně a svaly mají okamžitě to, co potřebují. Micelární kasein se postará o sytost na hodiny dopředu. Žádné zdlouhavé vaření. Žádný hlad cestou domů.",
+      "translations": {
+        "sk": "Shake zmiešate s vodou ešte v šatni a svaly majú okamžite to, čo potrebujú. Micelárny kazeín sa postará o sýtosť na hodiny dopredu. Žiadne zdĺhavé varenie. Žiadny hlad cestou domov.",
+        "en": "Mix the shake with water while still in the changing room and your muscles immediately have what they need. Micellar casein keeps you full for hours ahead. No lengthy cooking. No hunger on the way home.",
+        "de": "Mischen Sie den Shake noch in der Umkleide mit Wasser, und Ihre Muskeln bekommen sofort, was sie brauchen. Mizellares Kasein sorgt für stundenlange Sättigung. Kein langes Kochen. Kein Hunger auf dem Heimweg."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 87,
+      "source": "Slim GLP-1 Shake má vždy místo v tašce. Minutu míchání, a máš kompletní svačinu s vitamíny, minerály, proteinem i probiotiky. Všechno v jednom. Protože zdravý životní styl musí být praktický, ne komplikovaný.",
+      "translations": {
+        "sk": "Slim GLP-1 Shake má vždy miesto v taške. Minúta miešania a máte kompletnú desiatu s vitamínmi, minerálmi, proteínom aj probiotikami. Všetko v jednom. Pretože zdravý životný štýl musí byť praktický, nie komplikovaný.",
+        "en": "There is always room for Slim GLP-1 Shake in your bag. A minute of mixing and you have a complete snack with vitamins, minerals, protein and probiotics. All in one. Because a healthy lifestyle needs to be practical, not complicated.",
+        "de": "Slim GLP-1 Shake hat immer Platz in Ihrer Tasche. Eine Minute rühren, und Sie haben eine komplette Zwischenmahlzeit mit Vitaminen, Mineralstoffen, Protein und Probiotika. Alles in einem. Denn ein gesunder Lebensstil muss praktisch sein, nicht kompliziert."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 89,
+      "source": "Přesně pro tebe jsme Slim GLP-1 Shake navrhli. CAROLEAN™ přirozeně snižuje vstřebávání tuků, chrom drží hladinu cukru stabilní a kasein zastaví hlad na hodiny. Hubnutí nemusí bolet, ale musí dávat smysl.",
+      "translations": {
+        "sk": "Presne pre vás sme Slim GLP-1 Shake navrhli. CAROLEAN™ prirodzene znižuje vstrebávanie tukov, chróm drží hladinu cukru stabilnú a kazeín zastaví hlad na hodiny. Chudnutie nemusí bolieť, ale musí dávať zmysel.",
+        "en": "We designed Slim GLP-1 Shake exactly for you. CAROLEAN™ naturally reduces fat absorption, chromium keeps blood sugar stable and casein stops hunger for hours. Losing weight need not hurt, but it has to make sense.",
+        "de": "Genau für Sie haben wir Slim GLP-1 Shake entwickelt. CAROLEAN™ reduziert auf natürliche Weise die Fettaufnahme, Chrom hält den Blutzucker stabil und Kasein stoppt den Hunger für Stunden. Abnehmen muss nicht wehtun, aber sinnvoll sein."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 91,
+      "source": "Sáhni po shake s příchutí kokos - bílá čokoláda. Zasytí, potěší a nezbrzdí tě. Cukry? Jen 2,4 g na porci. Výčitky? Žádné.",
+      "translations": {
+        "sk": "Siahnite po shake s príchuťou kokos - biela čokoláda. Zasýti, poteší a nespomalí vás. Cukry? Len 2,4 g na porciu. Výčitky? Žiadne.",
+        "en": "Reach for the coconut - white chocolate shake. It fills you up, delights you and does not slow you down. Sugars? Just 2,4 g per serving. Guilt? None.",
+        "de": "Greifen Sie zum Shake mit Kokos-Weißschokoladen-Geschmack. Er sättigt, macht Freude und bremst Sie nicht aus. Zucker? Nur 2,4 g pro Portion. Schlechtes Gewissen? Keines."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 128,
+      "source": "Prémiový mořský komplex získaný z červených mořských řas, který obsahuje více než 72 minerálů a stopových prvků v přirozeně biologicky dostupné formě. To znamená, že je tělo dokáže opravdu využít – na rozdíl od běžných minerálních doplňků. Aquamin® podporuje správnou funkci svalů, nervového systému i kostí, pomáhá udržet vitalitu během dne a navíc hydratuje organismus na buněčné úrovni. Díky svému unikátnímu složení přináší energii, snižuje únavu a je ideální i při redukčních dietách nebo po sportu, kdy tělo přichází o důležité minerály.",
+      "translations": {
+        "sk": "Prémiový morský komplex získaný z červených morských rias, ktorý obsahuje viac než 72 minerálov a stopových prvkov v prirodzene biologicky dostupnej forme. To znamená, že ich telo dokáže skutočne využiť – na rozdiel od bežných minerálnych doplnkov. Aquamin® podporuje správnu funkciu svalov, nervového systému aj kostí, pomáha udržať vitalitu počas dňa a navyše hydratuje organizmus na bunkovej úrovni. Vďaka svojmu jedinečnému zloženiu prináša energiu, znižuje únavu a je ideálny aj pri redukčných diétach alebo po športe, keď telo prichádza o dôležité minerály.",
+        "en": "A premium marine complex obtained from red seaweed, containing more than 72 minerals and trace elements in a naturally bioavailable form. This means the body can really use them – unlike conventional mineral supplements. Aquamin® supports proper muscle, nervous system and bone function, helps maintain vitality throughout the day and also hydrates the body at cellular level. Thanks to its unique composition, it provides energy, reduces fatigue and is also ideal during weight-loss diets or after sport, when the body loses important minerals.",
+        "de": "Ein hochwertiger Meereskomplex aus Rotalgen mit mehr als 72 Mineralstoffen und Spurenelementen in natürlich bioverfügbarer Form. Das bedeutet, dass der Körper sie tatsächlich nutzen kann – anders als herkömmliche Mineralstoffpräparate. Aquamin® unterstützt die normale Funktion von Muskeln, Nervensystem und Knochen, hilft, die Vitalität über den Tag zu erhalten, und versorgt den Körper zudem auf Zellebene mit Feuchtigkeit. Dank seiner einzigartigen Zusammensetzung liefert er Energie, verringert Müdigkeit und ist auch bei Reduktionsdiäten oder nach dem Sport ideal, wenn der Körper wichtige Mineralstoffe verliert."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 129,
+      "source": "Patentovaná kombinace extraktu z rohovníku (svatojánského chleba) a opuncie, která funguje jako přirozený regulátor chuti k jídlu. CAROLEAN™ vytváří v žaludku jemný gel, který navozuje pocit plnosti a sytosti na delší dobu. Zároveň zpomaluje vstřebávání tuků a cukrů, čímž pomáhá stabilizovat hladinu energie a podporuje kontrolu hmotnosti. Výsledek? Méně chutí na sladké, lepší kontrola nad jídelníčkem a snazší cesta ke štíhlejší linii – bez drastických diet.",
+      "translations": {
+        "sk": "Patentovaná kombinácia extraktu z rohovníka (svätojánskeho chleba) a opuncie, ktorá funguje ako prirodzený regulátor chuti do jedla. CAROLEAN™ vytvára v žalúdku jemný gél, ktorý navodzuje pocit plnosti a sýtosti na dlhší čas. Zároveň spomaľuje vstrebávanie tukov a cukrov, čím pomáha stabilizovať hladinu energie a podporuje kontrolu hmotnosti. Výsledok? Menej chutí na sladké, lepšia kontrola nad jedálnym lístkom a jednoduchšia cesta k štíhlejšej línii – bez drastických diét.",
+        "en": "A patented combination of carob and prickly pear extracts that acts as a natural appetite regulator. CAROLEAN™ forms a gentle gel in the stomach, inducing a longer-lasting feeling of fullness and satiety. It also slows the absorption of fats and sugars, helping stabilise energy levels and supporting weight control. The result? Fewer sweet cravings, better control over your diet and an easier path to a slimmer figure – without drastic diets.",
+        "de": "Eine patentierte Kombination aus Johannisbrot- und Feigenkaktusextrakt, die als natürlicher Appetitregulator wirkt. CAROLEAN™ bildet im Magen ein sanftes Gel, das länger anhaltende Fülle und Sättigung erzeugt. Gleichzeitig verlangsamt es die Aufnahme von Fetten und Zucker, hilft so, das Energieniveau zu stabilisieren, und unterstützt die Gewichtskontrolle. Das Ergebnis? Weniger Lust auf Süßes, bessere Kontrolle über die Ernährung und ein leichterer Weg zur schlankeren Figur – ohne drastische Diäten."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 131,
+      "source": "Jedna z nejvíce klinicky ověřených probiotických kultur – Bacillus coagulans MTCC 5856 – která je odolná vůči žaludeční kyselině a působí přesně tam, kde je potřeba: ve střevech. Každá porce obsahuje 8,9 miliardy CFU, které obnovují rovnováhu střevní mikroflóry, podporují zdravé trávení a zlepšují vstřebávání živin z potravy. Silné a zdravé střevo = rychlejší metabolismus, silnější imunita a méně pocitu těžkosti po jídle. Navíc probiotika pozitivně ovlivňují i náladu a celkový pocit pohody, což oceníte zejména při hubnutí.",
+      "translations": {
+        "sk": "Jedna z klinicky najviac overených probiotických kultúr – Bacillus coagulans MTCC 5856 – ktorá je odolná voči žalúdočnej kyseline a pôsobí presne tam, kde je potrebná: v črevách. Každá porcia obsahuje 8,9 miliardy CFU, ktoré obnovujú rovnováhu črevnej mikroflóry, podporujú zdravé trávenie a zlepšujú vstrebávanie živín z potravy. Silné a zdravé črevo = rýchlejší metabolizmus, silnejšia imunita a menej pocitu ťažoby po jedle. Probiotiká navyše pozitívne ovplyvňujú aj náladu a celkový pocit pohody, čo oceníte najmä pri chudnutí.",
+        "en": "One of the most clinically verified probiotic cultures – Bacillus coagulans MTCC 5856 – which resists stomach acid and acts exactly where needed: in the intestines. Each serving contains 8,9 billion CFU that restore the balance of gut microbiota, support healthy digestion and improve nutrient absorption from food. A strong and healthy gut = faster metabolism, stronger immunity and less heaviness after meals. Probiotics also positively influence mood and overall wellbeing, which you will particularly appreciate during weight loss.",
+        "de": "Eine der klinisch am besten untersuchten probiotischen Kulturen – Bacillus coagulans MTCC 5856 –, die gegen Magensäure beständig ist und genau dort wirkt, wo sie gebraucht wird: im Darm. Jede Portion enthält 8,9 Milliarden CFU, die das Gleichgewicht der Darmflora wiederherstellen, eine gesunde Verdauung unterstützen und die Nährstoffaufnahme aus der Nahrung verbessern. Ein starker und gesunder Darm = schnellerer Stoffwechsel, stärkere Immunität und weniger Schweregefühl nach dem Essen. Probiotika beeinflussen außerdem die Stimmung und das allgemeine Wohlbefinden positiv, was Sie besonders beim Abnehmen schätzen werden."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 132,
+      "source": "Unikátní komplex sedmi trávicích enzymů (amyláza, laktáza, proteáza, lipáza, celuláza, bromelain a papain), který pomáhá tělu efektivněji zpracovávat bílkoviny, tuky i sacharidy. Díky tomu se snižuje nadýmání, těžkost po jídle a tělo dokáže lépe využít živiny pro energii a regeneraci. Bromelain z ananasu a papain z papáji navíc přispívají k přirozenému spalování tuků a rychlejší regeneraci svalů po fyzické aktivitě. OPTI7DIGEST® tak podporuje nejen hubnutí, ale i celkový komfort trávení a vitalitu.",
+      "translations": {
+        "sk": "Jedinečný komplex siedmich tráviacich enzýmov (amyláza, laktáza, proteáza, lipáza, celuláza, bromelaín a papaín), ktorý pomáha telu efektívnejšie spracovávať bielkoviny, tuky aj sacharidy. Vďaka tomu sa znižuje nadúvanie, ťažoba po jedle a telo dokáže lepšie využiť živiny na energiu a regeneráciu. Bromelaín z ananásu a papaín z papáje navyše prispievajú k prirodzenému spaľovaniu tukov a rýchlejšej regenerácii svalov po fyzickej aktivite. OPTI7DIGEST® tak podporuje nielen chudnutie, ale aj celkový komfort trávenia a vitalitu.",
+        "en": "A unique complex of seven digestive enzymes (amylase, lactase, protease, lipase, cellulase, bromelain and papain) that helps the body process proteins, fats and carbohydrates more efficiently. This reduces bloating and heaviness after meals and allows the body to make better use of nutrients for energy and recovery. Bromelain from pineapple and papain from papaya also contribute to natural fat burning and faster muscle recovery after physical activity. OPTI7DIGEST® thus supports not only weight loss but also overall digestive comfort and vitality.",
+        "de": "Ein einzigartiger Komplex aus sieben Verdauungsenzymen (Amylase, Laktase, Protease, Lipase, Cellulase, Bromelain und Papain), der dem Körper hilft, Proteine, Fette und Kohlenhydrate effizienter zu verarbeiten. Dadurch werden Blähungen und Schweregefühl nach dem Essen verringert, und der Körper kann Nährstoffe besser für Energie und Regeneration nutzen. Bromelain aus Ananas und Papain aus Papaya tragen zudem zur natürlichen Fettverbrennung und schnelleren Muskelregeneration nach körperlicher Aktivität bei. OPTI7DIGEST® unterstützt somit nicht nur das Abnehmen, sondern auch das allgemeine Verdauungswohlbefinden und die Vitalität."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 133,
+      "source": "Pomalu se uvolňující protein, který zajišťuje dlouhodobý pocit sytosti a stabilní zásobu aminokyselin pro svaly. Díky postupnému vstřebávání pomáhá udržovat svalovou hmotu i během hubnutí, zároveň brání večerním chutím a podporuje lepší regeneraci přes noc.",
+      "translations": {
+        "sk": "Pomaly sa uvoľňujúci proteín, ktorý zabezpečuje dlhodobý pocit sýtosti a stabilný prísun aminokyselín pre svaly. Vďaka postupnému vstrebávaniu pomáha udržiavať svalovú hmotu aj počas chudnutia, zároveň bráni večerným chutiam a podporuje lepšiu regeneráciu cez noc.",
+        "en": "A slow-release protein that provides long-lasting fullness and a steady supply of amino acids for muscles. Through gradual absorption it helps maintain muscle mass even during weight loss, while preventing evening cravings and supporting better overnight recovery.",
+        "de": "Ein langsam freigesetztes Protein, das lang anhaltende Sättigung und eine gleichmäßige Versorgung der Muskeln mit Aminosäuren gewährleistet. Dank der schrittweisen Aufnahme hilft es, Muskelmasse auch beim Abnehmen zu erhalten, verhindert gleichzeitig abendliche Gelüste und unterstützt eine bessere Regeneration über Nacht."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 134,
+      "source": "Přírodní vláknina, která slouží jako potrava pro „hodné\" bakterie ve střevech. Podporuje růst zdravé střevní mikroflóry, zlepšuje trávení a pomáhá vstřebávat klíčové živiny. Díky tomu přispívá k pocitu lehkosti, lepší imunitě a zdravému metabolismu.",
+      "translations": {
+        "sk": "Prírodná vláknina, ktorá slúži ako potrava pre „dobré“ baktérie v črevách. Podporuje rast zdravej črevnej mikroflóry, zlepšuje trávenie a pomáha vstrebávať kľúčové živiny. Vďaka tomu prispieva k pocitu ľahkosti, lepšej imunite a zdravému metabolizmu.",
+        "en": "Natural fibre that serves as food for the “good” bacteria in the intestines. It supports the growth of healthy gut microbiota, improves digestion and helps absorb key nutrients. This contributes to a feeling of lightness, better immunity and healthy metabolism.",
+        "de": "Natürliche Ballaststoffe, die den „guten“ Bakterien im Darm als Nahrung dienen. Sie fördern das Wachstum einer gesunden Darmflora, verbessern die Verdauung und helfen bei der Aufnahme wichtiger Nährstoffe. Dadurch tragen sie zu einem Gefühl der Leichtigkeit, besserer Immunität und einem gesunden Stoffwechsel bei."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 135,
+      "source": "Obsahuje 12 bioaktivních vitamínů v nejmodernějších formách – včetně aktivních derivátů (riboflavin-5-fosfát, pyridoxal-5-fosfát, L-5-methylfolát, methylkobalamin aj.). Tyto vitamíny podporují energetický metabolismus, správnou funkci nervového systému, imunitu i zdravou pleť. Komplexní mix navíc pomáhá tělu lépe zvládat stres a únavu při redukční dietě.",
+      "translations": {
+        "sk": "Obsahuje 12 bioaktívnych vitamínov v najmodernejších formách – vrátane aktívnych derivátov (riboflavín-5-fosfát, pyridoxal-5-fosfát, L-5-metylfolát, metylkobalamín a i.). Tieto vitamíny podporujú energetický metabolizmus, správnu funkciu nervového systému, imunitu aj zdravú pleť. Komplexná zmes navyše pomáha telu lepšie zvládať stres a únavu pri redukčnej diéte.",
+        "en": "Contains 12 bioactive vitamins in state-of-the-art forms – including active derivatives (riboflavin-5-phosphate, pyridoxal-5-phosphate, L-5-methylfolate, methylcobalamin and others). These vitamins support energy metabolism, proper nervous system function, immunity and healthy skin. The comprehensive blend also helps the body cope better with stress and fatigue during a weight-loss diet.",
+        "de": "Enthält 12 bioaktive Vitamine in modernsten Formen – darunter aktive Derivate (Riboflavin-5-Phosphat, Pyridoxal-5-Phosphat, L-5-Methylfolat, Methylcobalamin u. a.). Diese Vitamine unterstützen den Energiestoffwechsel, die normale Funktion des Nervensystems, die Immunität und eine gesunde Haut. Die umfassende Mischung hilft dem Körper zudem, Stress und Müdigkeit während einer Reduktionsdiät besser zu bewältigen."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 136,
+      "source": "Stopový prvek klíčový pro správný metabolismus cukrů a tuků. Přispívá k udržení normální hladiny glukózy v krvi, čímž pomáhá omezit výkyvy energie a zamezuje chutím na sladké. Díky tomu podporuje lepší kontrolu hladu a udržení stabilní tělesné hmotnosti.",
+      "translations": {
+        "sk": "Stopový prvok kľúčový pre správny metabolizmus cukrov a tukov. Prispieva k udržaniu normálnej hladiny glukózy v krvi, čím pomáha obmedziť výkyvy energie a zabraňuje chutiam na sladké. Vďaka tomu podporuje lepšiu kontrolu hladu a udržanie stabilnej telesnej hmotnosti.",
+        "en": "A trace element essential for proper sugar and fat metabolism. It contributes to maintaining normal blood glucose levels, helping limit energy fluctuations and preventing sweet cravings. This supports better hunger control and maintenance of a stable body weight.",
+        "de": "Ein Spurenelement, das für den normalen Zucker- und Fettstoffwechsel wichtig ist. Es trägt zur Aufrechterhaltung eines normalen Blutzuckerspiegels bei, hilft dadurch, Energieschwankungen zu begrenzen, und verhindert die Lust auf Süßes. So unterstützt es eine bessere Hungerkontrolle und den Erhalt eines stabilen Körpergewichts."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 137,
+      "source": "Zdroj tzv. „rychlých tuků\", které se v těle snadno přeměňují na energii místo toho, aby se ukládaly. MCT olej podporuje metabolismus, dodává energii při fyzické i psychické zátěži a pomáhá prodloužit pocit sytosti. Je ideálním doplňkem při hubnutí i aktivním životním stylu.",
+      "translations": {
+        "sk": "Zdroj tzv. „rýchlych tukov“, ktoré sa v tele ľahko premieňajú na energiu namiesto toho, aby sa ukladali. MCT olej podporuje metabolizmus, dodáva energiu pri fyzickej aj psychickej záťaži a pomáha predĺžiť pocit sýtosti. Je ideálnym doplnkom pri chudnutí aj aktívnom životnom štýle.",
+        "en": "A source of so-called “quick fats”, which the body readily converts into energy instead of storing them. MCT oil supports metabolism, provides energy during physical and mental exertion and helps prolong fullness. It is an ideal supplement during weight loss and an active lifestyle.",
+        "de": "Eine Quelle sogenannter „schneller Fette“, die der Körper leicht in Energie umwandelt, statt sie zu speichern. MCT-Öl unterstützt den Stoffwechsel, liefert Energie bei körperlicher und geistiger Belastung und hilft, das Sättigungsgefühl zu verlängern. Es ist eine ideale Ergänzung beim Abnehmen und bei einem aktiven Lebensstil."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 142,
+      "source": "Bez lepku",
+      "translations": {
+        "sk": "Bez lepku",
+        "en": "Gluten-free",
+        "de": "Glutenfrei"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 143,
+      "source": "Bez GMO",
+      "translations": {
+        "sk": "Bez GMO",
+        "en": "GMO-free",
+        "de": "Ohne Gentechnik"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 144,
+      "source": "Bez přídatných látek",
+      "translations": {
+        "sk": "Bez prídavných látok",
+        "en": "Additive-free",
+        "de": "Ohne Zusatzstoffe"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 145,
+      "source": "Bez cukru",
+      "translations": {
+        "sk": "Bez cukru",
+        "en": "Sugar-free",
+        "de": "Zuckerfrei"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 241,
+      "source": "Představujeme Slim GLP-1 Activator Shake",
+      "translations": {
+        "sk": "Predstavujeme Slim GLP-1 Activator Shake",
+        "en": "Introducing Slim GLP-1 Activator Shake",
+        "de": "Wir stellen vor: Slim GLP-1 Activator Shake"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 242,
+      "source": "– lahodný kokosovo - čokoládový nápoj, který dělá víc, než jen chutná dobře. Působí jako přirozený GLP-1 aktivátor, tedy pomáhá zkrotit chuť k jídlu, stabilizovat hladinu cukru v krvi a prodloužit pocit sytosti. Bez hladovění, bez kompromisů. Každá porce přináší 20,3 g kvalitních bílkovin, 4 g bioaktivního kolagenu, zdravé MCT tuky z kokosu a pečlivě vybranou kombinaci přírodních složek. Jsme tu, aby vaše cesta ke zdravějšímu já byla snazší – a chutnala jako odměna.",
+      "translations": {
+        "sk": "– lahodný kokosovo-čokoládový nápoj, ktorý dokáže viac, než len dobre chutiť. Pôsobí ako prirodzený GLP-1 aktivátor, teda pomáha skrotiť chuť do jedla, stabilizovať hladinu cukru v krvi a predĺžiť pocit sýtosti. Bez hladovania, bez kompromisov. Každá porcia prináša 20,3 g kvalitných bielkovín, 4 g bioaktívneho kolagénu, zdravé MCT tuky z kokosu a starostlivo vybranú kombináciu prírodných zložiek. Sme tu, aby vaša cesta k zdravšiemu ja bola jednoduchšia – a chutila ako odmena.",
+        "en": "– a delicious coconut-chocolate drink that does more than taste good. It acts as a natural GLP-1 activator, helping tame appetite, stabilise blood sugar and prolong fullness. No starvation, no compromises. Each serving provides 20,3 g of quality protein, 4 g of bioactive collagen, healthy MCT fats from coconut and a carefully selected combination of natural ingredients. We are here to make your journey to a healthier self easier – and taste like a reward.",
+        "de": "– ein köstliches Kokos-Schokoladen-Getränk, das mehr kann als nur gut schmecken. Es wirkt als natürlicher GLP-1-Aktivator, hilft also, den Appetit zu zügeln, den Blutzuckerspiegel zu stabilisieren und das Sättigungsgefühl zu verlängern. Ohne Hungern, ohne Kompromisse. Jede Portion liefert 20,3 g hochwertiges Protein, 4 g bioaktives Kollagen, gesunde MCT-Fette aus Kokos und eine sorgfältig ausgewählte Kombination natürlicher Zutaten. Wir sind da, damit Ihr Weg zu einem gesünderen Ich leichter wird – und wie eine Belohnung schmeckt."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 243,
+      "source": "Potlačuje chuť k jídlu",
+      "translations": {
+        "sk": "Potláča chuť do jedla",
+        "en": "Suppresses appetite",
+        "de": "Hemmt den Appetit"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "470",
+      "text_key": 244,
+      "source": "Budování a údržba svalů",
+      "translations": {
+        "sk": "Budovanie a udržiavanie svalov",
+        "en": "Muscle building and maintenance",
+        "de": "Muskelaufbau und -erhalt"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 266,
+      "source": "Účinné sérum s ultralehkou texturou, které vyniká svými protizánětlivými a omlazujícími účinky.",
+      "translations": {
+        "sk": "Účinné sérum s ultraľahkou textúrou, ktoré vyniká svojimi protizápalovými a omladzujúcimi účinkami.",
+        "en": "An effective serum with an ultra-light texture, distinguished by its anti-inflammatory and rejuvenating effects.",
+        "de": "Ein wirksames Serum mit ultraleichter Textur, das sich durch entzündungshemmende und verjüngende Wirkungen auszeichnet."
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 268,
+      "source": "Ultralehká textura",
+      "translations": {
+        "sk": "Ultraľahká textúra",
+        "en": "Ultra-light texture",
+        "de": "Ultraleichte Textur"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 269,
+      "source": "Redukce vrásek",
+      "translations": {
+        "sk": "Redukcia vrások",
+        "en": "Wrinkle reduction",
+        "de": "Faltenreduktion"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 270,
+      "source": "Vyrobeno v Čr",
+      "translations": {
+        "sk": "Vyrobené v ČR",
+        "en": "Made in the Czech Republic",
+        "de": "Hergestellt in Tschechien"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 271,
+      "source": "Rozjasnění pleti",
+      "translations": {
+        "sk": "Rozjasnenie pleti",
+        "en": "Skin brightening",
+        "de": "Strahlenderer Teint"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 272,
+      "source": "Hloubková hydratace",
+      "translations": {
+        "sk": "Hĺbková hydratácia",
+        "en": "Deep hydration",
+        "de": "Tiefenwirksame Feuchtigkeitsversorgung"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 273,
+      "source": "Zkliňuje podrážděnou pleť",
+      "translations": {
+        "sk": "Upokojuje podráždenú pleť",
+        "en": "Soothes irritated skin",
+        "de": "Beruhigt gereizte Haut"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 274,
+      "source": "Miracle Drops je sérum s ultralehkou texturou, které vyniká svými protizánětlivými a omlazujícími účinky. Jeho výjimečnost spočívá v protizánětlivých vlastnostech, a je tedy ideální pro pleť náchylnou k akné. Zároveň nabízí omlazující účinky. Po použití zanechává pleť hedvábně jemnou a vyhlazenou. Zjemňující konzistence pomáhá vyhladit vrásky a jemné linky, stahuje póry, navrací pokožce svěžest, rozjasňuje ji a vyrovnává její PH. Přispívá ke zdravému, svěžímu a odpočatému vzhledu. Obsahuje vysoký obsah účinných látek, které poskytnou vaší pleti luxusní péči. Složení séra je nemastné a je velmi vhodné i pro velmi suchou pleť.",
+      "translations": {
+        "sk": "Miracle Drops je sérum s ultraľahkou textúrou, ktoré vyniká svojimi protizápalovými a omladzujúcimi účinkami. Jeho výnimočnosť spočíva v protizápalových vlastnostiach, a je teda ideálne pre pleť náchylnú na akné. Zároveň ponúka omladzujúce účinky. Po použití zanecháva pleť hodvábne jemnú a vyhladenú. Zjemňujúca konzistencia pomáha vyhladiť vrásky a jemné linky, sťahuje póry, navracia pokožke sviežosť, rozjasňuje ju a vyrovnáva jej PH. Prispieva k zdravému, sviežemu a oddýchnutému vzhľadu. Obsahuje vysoký podiel účinných látok, ktoré vašej pleti poskytnú luxusnú starostlivosť. Zloženie séra je nemastné a je veľmi vhodné aj pre veľmi suchú pleť.",
+        "en": "Miracle Drops is a serum with an ultra-light texture, distinguished by its anti-inflammatory and rejuvenating effects. Its uniqueness lies in its anti-inflammatory properties, making it ideal for acne-prone skin. It also offers rejuvenating effects. After use, it leaves skin silky soft and smooth. The softening consistency helps smooth wrinkles and fine lines, tightens pores, restores freshness, brightens the skin and balances its PH. It contributes to a healthy, fresh and rested appearance. It contains a high proportion of active ingredients that provide luxurious care for your skin. The serum formula is non-greasy and is also very suitable for very dry skin.",
+        "de": "Miracle Drops ist ein Serum mit ultraleichter Textur, das sich durch entzündungshemmende und verjüngende Wirkungen auszeichnet. Seine Besonderheit liegt in den entzündungshemmenden Eigenschaften, wodurch es ideal für zu Akne neigende Haut ist. Zugleich bietet es verjüngende Wirkungen. Nach der Anwendung hinterlässt es die Haut seidig weich und geglättet. Die geschmeidige Konsistenz hilft, Falten und feine Linien zu glätten, verfeinert die Poren, gibt der Haut Frische zurück, lässt sie strahlen und gleicht ihren PH-Wert aus. Es trägt zu einem gesunden, frischen und erholten Aussehen bei. Es enthält einen hohen Anteil an Wirkstoffen, die Ihrer Haut luxuriöse Pflege bieten. Die Serumrezeptur ist nicht fettend und auch für sehr trockene Haut sehr gut geeignet."
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 275,
+      "source": "Účinky — původní pracovní text",
+      "translations": {
+        "sk": "Účinky",
+        "en": "Effects",
+        "de": "Wirkungen"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 276,
+      "source": "Stimuluje proces vyhlazení vrásek a celkové omlazení pleti",
+      "translations": {
+        "sk": "Stimuluje proces vyhladenia vrások a celkové omladenie pleti",
+        "en": "Stimulates wrinkle smoothing and overall skin rejuvenation",
+        "de": "Regt die Faltenglättung und die allgemeine Hautverjüngung an"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 277,
+      "source": "Ultralehká textura nezatěžující pokožku",
+      "translations": {
+        "sk": "Ultraľahká textúra nezaťažujúca pokožku",
+        "en": "Ultra-light texture that does not weigh down the skin",
+        "de": "Ultraleichte Textur, die die Haut nicht beschwert"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 278,
+      "source": "Protizánětlivé složení",
+      "translations": {
+        "sk": "Protizápalové zloženie",
+        "en": "Anti-inflammatory formula",
+        "de": "Entzündungshemmende Rezeptur"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 279,
+      "source": "Stahuje póry",
+      "translations": {
+        "sk": "Sťahuje póry",
+        "en": "Tightens pores",
+        "de": "Verfeinert die Poren"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 280,
+      "source": "Vyrovnává PH pokožky",
+      "translations": {
+        "sk": "Vyrovnáva PH pokožky",
+        "en": "Balances the skin's PH",
+        "de": "Gleicht den PH-Wert der Haut aus"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 281,
+      "source": "Vhodné i pro velmi suchou pleť",
+      "translations": {
+        "sk": "Vhodné aj pre veľmi suchú pleť",
+        "en": "Also suitable for very dry skin",
+        "de": "Auch für sehr trockene Haut geeignet"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 282,
+      "source": "Účinný doplněk při léčbě akné a dermatitidy",
+      "translations": {
+        "sk": "Účinný doplnok pri liečbe akné a dermatitídy",
+        "en": "An effective adjunct in the treatment of acne and dermatitis",
+        "de": "Wirksame Ergänzung bei der Behandlung von Akne und Dermatitis"
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 314,
+      "source": "Je látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost. Pravidelné užívání kyseliny hyaluronové oddaluje vznik vrásek.",
+      "translations": {
+        "sk": "Je to látka, ktorá sa prirodzene nachádza a vytvára v našom tele. Jej hlavnou funkciou je zadržiavať vodu, teda hydratovať tkanivá a udržiavať v nich dostatočnú vlhkosť. Pomáha vyživovať pokožku, ktorá je potom zdravšia a pružnejšia. Obmedzuje tak tvorbu vrások a napomáha regenerácii a celkovému omladeniu pleti. Účinne pomáha pri hojení rán a bolesti kĺbov, zlepšuje ich pohyblivosť. Pravidelné užívanie kyseliny hyalurónovej odďaľuje vznik vrások.",
+        "en": "A substance that occurs naturally and is produced in our bodies. Its main function is to retain water, hydrating tissues and maintaining sufficient moisture in them. It helps nourish the skin, making it healthier and more supple. It thus limits wrinkle formation and aids regeneration and overall skin rejuvenation. It effectively helps with wound healing and joint pain, improving joint mobility. Regular use of hyaluronic acid delays the onset of wrinkles.",
+        "de": "Ein Stoff, der natürlich in unserem Körper vorkommt und dort gebildet wird. Seine Hauptfunktion besteht darin, Wasser zu binden, also das Gewebe mit Feuchtigkeit zu versorgen und ausreichend Feuchtigkeit darin zu erhalten. Er hilft, die Haut zu versorgen, sodass sie gesünder und elastischer wird. Dadurch begrenzt er die Faltenbildung und unterstützt die Regeneration und allgemeine Hautverjüngung. Er hilft wirksam bei der Wundheilung und bei Gelenkschmerzen und verbessert die Beweglichkeit der Gelenke. Die regelmäßige Anwendung von Hyaluronsäure verzögert die Entstehung von Falten."
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 317,
+      "source": "Díky obsaženému alantoinu při pravidelném používání prokazatelně napomáhá k redukci jemných vrásek a pigmentových skvrn. Kostival má také vlastnosti, které pomáhají chránit a hydratovat kůži. Skvěle pečuje o suchou a podrážděnou pokožku, pomáhá ji zklidňovat a regenerovat.",
+      "translations": {
+        "sk": "Vďaka obsiahnutému alantoínu pri pravidelnom používaní preukázateľne napomáha redukcii jemných vrások a pigmentových škvŕn. Kostihoj má tiež vlastnosti, ktoré pomáhajú chrániť a hydratovať kožu. Výborne sa stará o suchú a podráždenú pokožku, pomáha ju upokojovať a regenerovať.",
+        "en": "Thanks to its allantoin content, regular use demonstrably helps reduce fine wrinkles and pigmentation spots. Comfrey also has properties that help protect and hydrate the skin. It provides excellent care for dry and irritated skin, helping soothe and regenerate it.",
+        "de": "Dank des enthaltenen Allantoins hilft es bei regelmäßiger Anwendung nachweislich, feine Falten und Pigmentflecken zu reduzieren. Beinwell hat auch Eigenschaften, die helfen, die Haut zu schützen und mit Feuchtigkeit zu versorgen. Er pflegt trockene und gereizte Haut hervorragend und hilft, sie zu beruhigen und zu regenerieren."
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 320,
+      "source": "Má vynikající protizánětlivé účinky a je skvělým pomocníkem při léčbě zanícení pokožky či akné. Podporuje prokrvení a hojení poškozených tkání.",
+      "translations": {
+        "sk": "Má vynikajúce protizápalové účinky a je výborným pomocníkom pri liečbe zápalu pokožky či akné. Podporuje prekrvenie a hojenie poškodených tkanív.",
+        "en": "It has excellent anti-inflammatory effects and is a valuable aid in treating skin inflammation or acne. It supports blood circulation and the healing of damaged tissues.",
+        "de": "Es hat hervorragende entzündungshemmende Wirkungen und ist eine wertvolle Hilfe bei der Behandlung von Hautentzündungen oder Akne. Es fördert die Durchblutung und die Heilung geschädigten Gewebes."
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 323,
+      "source": "Je využívána pro své protizánětlivé účinky, ničí škodlivé bakterie, zmírňuje akné, ekzémy, hydratuje a zklidňuje podrážděnou a suchou pokožku.",
+      "translations": {
+        "sk": "Využíva sa pre svoje protizápalové účinky, ničí škodlivé baktérie, zmierňuje akné a ekzémy, hydratuje a upokojuje podráždenú a suchú pokožku.",
+        "en": "It is used for its anti-inflammatory effects, destroys harmful bacteria, alleviates acne and eczema, and hydrates and soothes irritated and dry skin.",
+        "de": "Er wird wegen seiner entzündungshemmenden Wirkungen verwendet, vernichtet schädliche Bakterien, lindert Akne und Ekzeme und versorgt gereizte und trockene Haut mit Feuchtigkeit und beruhigt sie."
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 326,
+      "source": "Dokáže velmi rychle zmírnit nepříjemné pocity při podráždění u citlivé pleti. Chrání před tepelnými výkyvy a slunečním zářením.",
+      "translations": {
+        "sk": "Dokáže veľmi rýchlo zmierniť nepríjemné pocity pri podráždení citlivej pleti. Chráni pred teplotnými výkyvmi a slnečným žiarením.",
+        "en": "It can very quickly relieve discomfort caused by irritation in sensitive skin. It protects against temperature fluctuations and sunlight.",
+        "de": "Es kann unangenehme Empfindungen bei Reizungen empfindlicher Haut sehr schnell lindern. Es schützt vor Temperaturschwankungen und Sonneneinstrahlung."
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 329,
+      "source": "Revoluční aktivní látka získávaná z rostliny s lidovým názvem kočičí ocásek. Některé zdroje dokonce uvádí, že je účinnější než aloe vera. Z rostlin je za přísných výrobních podmínek extrahována šťáva, která má prokazatelné omlazující účinky na pleť. Látky obsažené ve šťávě i v poměrně malé koncentraci aktivují produkci vysoce kvalitního kolagenu ve fibroblastech a navíc působí i jako výplň v již ztenčených vláknech.",
+      "translations": {
+        "sk": "Revolučná aktívna látka získavaná z rastliny s ľudovým názvom mačací chvost. Niektoré zdroje dokonca uvádzajú, že je účinnejšia než aloe vera. Z rastlín sa za prísnych výrobných podmienok extrahuje šťava, ktorá má preukázateľné omladzujúce účinky na pleť. Látky obsiahnuté v šťave aj v pomerne malej koncentrácii aktivujú tvorbu vysokokvalitného kolagénu vo fibroblastoch a navyše pôsobia aj ako výplň v už stenčených vláknach.",
+        "en": "A revolutionary active ingredient obtained from a plant commonly called cat's tail. Some sources even state that it is more effective than aloe vera. Under strict manufacturing conditions, juice is extracted from the plants with demonstrable skin-rejuvenating effects. Even at relatively low concentrations, substances in the juice activate the production of high-quality collagen in fibroblasts and also act as a filler in fibres that have already thinned.",
+        "de": "Ein revolutionärer Wirkstoff aus einer Pflanze mit dem volkstümlichen Namen Katzenschwanz. Einige Quellen geben sogar an, dass sie wirksamer als Aloe vera ist. Unter strengen Herstellungsbedingungen wird aus den Pflanzen Saft gewonnen, der nachweislich hautverjüngend wirkt. Die im Saft enthaltenen Stoffe aktivieren selbst in relativ geringer Konzentration die Produktion hochwertigen Kollagens in den Fibroblasten und wirken zusätzlich als Füllstoff in bereits dünner gewordenen Fasern."
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 332,
+      "source": "Aktivní látka normalizující citlivou pokožku. Jedná se o výtažek z jedlé houby Albatrellus Ovinus. Výrazně eliminuje potíže spojené s citlivou pokožkou a snižuje projevy atopického ekzému. Přispívá k redukci vrásek a zvyšuje elasticitu pokožky. Chrání a regeneruje narušenou kožní bariéru.",
+      "translations": {
+        "sk": "Aktívna látka normalizujúca citlivú pokožku. Ide o výťažok z jedlej huby Albatrellus Ovinus. Výrazne odstraňuje ťažkosti spojené s citlivou pokožkou a znižuje prejavy atopického ekzému. Prispieva k redukcii vrások a zvyšuje elasticitu pokožky. Chráni a regeneruje narušenú kožnú bariéru.",
+        "en": "An active ingredient that normalises sensitive skin. It is an extract of the edible fungus Albatrellus Ovinus. It significantly alleviates problems associated with sensitive skin and reduces symptoms of atopic eczema. It contributes to wrinkle reduction and increases skin elasticity. It protects and regenerates the damaged skin barrier.",
+        "de": "Ein Wirkstoff, der empfindliche Haut normalisiert. Es handelt sich um einen Extrakt aus dem essbaren Pilz Albatrellus Ovinus. Er lindert deutlich die mit empfindlicher Haut verbundenen Beschwerden und reduziert die Symptome atopischer Ekzeme. Er trägt zur Faltenreduktion bei und erhöht die Hautelastizität. Er schützt und regeneriert die geschädigte Hautbarriere."
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 335,
+      "source": "Je významnou složkou anti-aging produktů kvůli její schopnosti regenerace pokožky. Pleť čistí, zpevňuje a bojuje proti pigmentovým skvrnám. Má antibakteriální a antimykotické účinky.",
+      "translations": {
+        "sk": "Je významnou zložkou produktov proti starnutiu vďaka svojej schopnosti regenerovať pokožku. Pleť čistí, spevňuje a bojuje proti pigmentovým škvrnám. Má antibakteriálne a antimykotické účinky.",
+        "en": "It is an important ingredient in anti-ageing products because of its ability to regenerate the skin. It cleanses and firms the skin and fights pigmentation spots. It has antibacterial and antifungal effects.",
+        "de": "Es ist aufgrund seiner Fähigkeit zur Hautregeneration ein wichtiger Bestandteil von Anti-Aging-Produkten. Es reinigt und strafft die Haut und bekämpft Pigmentflecken. Es hat antibakterielle und antimykotische Wirkungen."
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 345,
+      "source": "Gluten free",
+      "translations": {
+        "sk": "Bez lepku",
+        "en": "Gluten-free",
+        "de": "Glutenfrei"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 346,
+      "source": "GMO free",
+      "translations": {
+        "sk": "Bez GMO",
+        "en": "GMO-free",
+        "de": "Ohne Gentechnik"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 347,
+      "source": "Additives free",
+      "translations": {
+        "sk": "Bez prídavných látok",
+        "en": "Additive-free",
+        "de": "Ohne Zusatzstoffe"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 348,
+      "source": "Lactose free",
+      "translations": {
+        "sk": "Bez laktózy",
+        "en": "Lactose-free",
+        "de": "Laktosefrei"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 349,
+      "source": "Sugar free",
+      "translations": {
+        "sk": "Bez cukru",
+        "en": "Sugar-free",
+        "de": "Zuckerfrei"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 352,
+      "source": "Prémiový komplexní omlazující sérum",
+      "translations": {
+        "sk": "Prémiové komplexné omladzujúce sérum",
+        "en": "Premium comprehensive rejuvenating serum",
+        "de": "Hochwertiges umfassend verjüngendes Serum"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 353,
+      "source": "Miracle Drops je jemné a zároveň účinné sérum s ultralehkou texturou, které kombinuje dva druhy vysoce vstřebatelné kyseliny hyaluronové a dalších 8 aktivních složek. Jeho výjimečnost spočívá v protizánětlivých vlastnostech, a je tedy ideální pro pleť náchylnou k akné. Zároveň nabízí omlazující účinky. Po použití zanechává pleť hedvábně jemnou a vyhlazenou.",
+      "translations": {
+        "sk": "Miracle Drops je jemné a zároveň účinné sérum s ultraľahkou textúrou, ktoré kombinuje dva druhy vysoko vstrebateľnej kyseliny hyalurónovej a ďalších 8 aktívnych zložiek. Jeho výnimočnosť spočíva v protizápalových vlastnostiach, a je teda ideálne pre pleť náchylnú na akné. Zároveň ponúka omladzujúce účinky. Po použití zanecháva pleť hodvábne jemnú a vyhladenú.",
+        "en": "Miracle Drops is a gentle yet effective serum with an ultra-light texture, combining two types of highly absorbable hyaluronic acid and 8 other active ingredients. Its uniqueness lies in its anti-inflammatory properties, making it ideal for acne-prone skin. It also offers rejuvenating effects. After use, it leaves skin silky soft and smooth.",
+        "de": "Miracle Drops ist ein sanftes und zugleich wirksames Serum mit ultraleichter Textur, das zwei Arten gut aufnehmbarer Hyaluronsäure mit 8 weiteren aktiven Inhaltsstoffen kombiniert. Seine Besonderheit liegt in den entzündungshemmenden Eigenschaften, wodurch es ideal für zu Akne neigende Haut ist. Zugleich bietet es verjüngende Wirkungen. Nach der Anwendung hinterlässt es die Haut seidig weich und geglättet."
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "99",
+      "text_key": 354,
+      "source": "Zklidňuje podrážděnou pokožku",
+      "translations": {
+        "sk": "Upokojuje podráždenú pokožku",
+        "en": "Soothes irritated skin",
+        "de": "Beruhigt gereizte Haut"
+      },
+      "classification": "neověřené kosmetické tvrzení – vyžaduje produktovou substanciaci",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 345,
+      "source": "Gluten free",
+      "translations": {
+        "sk": "Bez lepku",
+        "en": "Gluten-free",
+        "de": "Glutenfrei"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 346,
+      "source": "GMO free",
+      "translations": {
+        "sk": "Bez GMO",
+        "en": "GMO-free",
+        "de": "Ohne Gentechnik"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 347,
+      "source": "Additives free",
+      "translations": {
+        "sk": "Bez prídavných látok",
+        "en": "Additive-free",
+        "de": "Ohne Zusatzstoffe"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 348,
+      "source": "Lactose free",
+      "translations": {
+        "sk": "Bez laktózy",
+        "en": "Lactose-free",
+        "de": "Laktosefrei"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 349,
+      "source": "Sugar free",
+      "translations": {
+        "sk": "Bez cukru",
+        "en": "Sugar-free",
+        "de": "Zuckerfrei"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 372,
+      "source": "BIO bylinný porcovaný čaj z 11 vynikajících bylin na 7 dní!",
+      "translations": {
+        "sk": "BIO bylinný porciovaný čaj z 11 vynikajúcich bylín na 7 dní!",
+        "en": "Organic portioned herbal tea made from 11 excellent herbs for 7 days!",
+        "de": "BIO-Kräutertee in Portionen aus 11 ausgezeichneten Kräutern für 7 Tage!"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 374,
+      "source": "Detoxikace",
+      "translations": {
+        "sk": "Detoxikácia",
+        "en": "Detoxification",
+        "de": "Entgiftung"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 375,
+      "source": "Únava",
+      "translations": {
+        "sk": "Únava",
+        "en": "Fatigue",
+        "de": "Müdigkeit"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 376,
+      "source": "Spánek",
+      "translations": {
+        "sk": "Spánok",
+        "en": "Sleep",
+        "de": "Schlaf"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 377,
+      "source": "Imunita",
+      "translations": {
+        "sk": "Imunita",
+        "en": "Immunity",
+        "de": "Immunsystem"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 378,
+      "source": "Pohoda",
+      "translations": {
+        "sk": "Pohoda",
+        "en": "Wellbeing",
+        "de": "Wohlbefinden"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 379,
+      "source": "Očistěte své tělo od toxinů, které zatěžují váš organismus. Naše pečlivě vybrané bylinky podporují obranyschopnost, čistí trávicí systém a zvyšují vitalitu.",
+      "translations": {
+        "sk": "Očistite svoje telo od toxínov, ktoré zaťažujú váš organizmus. Naše starostlivo vybrané bylinky podporujú obranyschopnosť, čistia tráviaci systém a zvyšujú vitalitu.",
+        "en": "Cleanse your body of toxins that burden your system. Our carefully selected herbs support your natural defences, cleanse the digestive system and increase vitality.",
+        "de": "Befreien Sie Ihren Körper von Giftstoffen, die Ihren Organismus belasten. Unsere sorgfältig ausgewählten Kräuter unterstützen die Abwehrkräfte, reinigen das Verdauungssystem und steigern die Vitalität."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 380,
+      "source": "Správná funkce orgánů a detoxikace",
+      "translations": {
+        "sk": "Správna funkcia orgánov a detoxikácia",
+        "en": "Proper organ function and detoxification",
+        "de": "Normale Organfunktion und Entgiftung"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 381,
+      "source": "Posílení imunity",
+      "translations": {
+        "sk": "Posilnenie imunity",
+        "en": "Strengthening immunity",
+        "de": "Stärkung des Immunsystems"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 382,
+      "source": "Více energie a lepší nálada",
+      "translations": {
+        "sk": "Viac energie a lepšia nálada",
+        "en": "More energy and a better mood",
+        "de": "Mehr Energie und bessere Stimmung"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 383,
+      "source": "Zdravé trávení a metabolismus tuků",
+      "translations": {
+        "sk": "Zdravé trávenie a metabolizmus tukov",
+        "en": "Healthy digestion and fat metabolism",
+        "de": "Gesunde Verdauung und Fettstoffwechsel"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 384,
+      "source": "Podpora cév a prevence křečových žil",
+      "translations": {
+        "sk": "Podpora ciev a prevencia kŕčových žíl",
+        "en": "Vascular support and prevention of varicose veins",
+        "de": "Unterstützung der Gefäße und Vorbeugung von Krampfadern"
+      },
+      "classification": "nepřípustné léčebné/preventivní tvrzení pro tuto kategorii",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 385,
+      "source": "Úleva od stresu a nespavosti",
+      "translations": {
+        "sk": "Úľava od stresu a nespavosti",
+        "en": "Relief from stress and insomnia",
+        "de": "Linderung von Stress und Schlaflosigkeit"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 386,
+      "source": "Protizánětlivé a dezinfekční účinky",
+      "translations": {
+        "sk": "Protizápalové a dezinfekčné účinky",
+        "en": "Anti-inflammatory and disinfectant effects",
+        "de": "Entzündungshemmende und desinfizierende Wirkungen"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 387,
+      "source": "Zdraví pokožky, vlasů a nehtů",
+      "translations": {
+        "sk": "Zdravie pokožky, vlasov a nechtov",
+        "en": "Skin, hair and nail health",
+        "de": "Gesundheit von Haut, Haaren und Nägeln"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 390,
+      "source": "Protizánětlivé, podporuje psychiku i trávení.",
+      "translations": {
+        "sk": "Protizápalový, podporuje psychiku aj trávenie.",
+        "en": "Anti-inflammatory, supports mental wellbeing and digestion.",
+        "de": "Entzündungshemmend, unterstützt Psyche und Verdauung."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 393,
+      "source": "Bohatý na vitamin C, posiluje imunitu a zdraví pokožky.",
+      "translations": {
+        "sk": "Bohatá na vitamín C, posilňuje imunitu a zdravie pokožky.",
+        "en": "Rich in vitamin C, strengthens immunity and skin health.",
+        "de": "Reich an Vitamin C, stärkt das Immunsystem und die Hautgesundheit."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 396,
+      "source": "Zklidňuje mysl a podporuje uvolnění stresu.",
+      "translations": {
+        "sk": "Upokojuje myseľ a podporuje uvoľnenie stresu.",
+        "en": "Calms the mind and supports stress relief.",
+        "de": "Beruhigt den Geist und unterstützt den Stressabbau."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 399,
+      "source": "Zklidňuje trávicí systém a uvolňuje křeče.",
+      "translations": {
+        "sk": "Upokojuje tráviaci systém a uvoľňuje kŕče.",
+        "en": "Soothes the digestive system and relieves cramps.",
+        "de": "Beruhigt das Verdauungssystem und löst Krämpfe."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 416,
+      "source": "Oživte tradici s naším jedinečným bylinným detoxikačním čajem. Směs byla speciálně namíchána podle tradiční receptury renomované léčitelky báby Radnické. Tento konkrétní elixír očisty, posílení imunity a hubnutí byl pečlivě vytvořen naší velmi zkušenou bylinkářkou z Františkových lázní.",
+      "translations": {
+        "sk": "Oživte tradíciu s naším jedinečným bylinným detoxikačným čajom. Zmes bola špeciálne namiešaná podľa tradičnej receptúry renomovanej liečiteľky baby Radnickej. Tento konkrétny elixír očisty, posilnenia imunity a chudnutia starostlivo vytvorila naša veľmi skúsená bylinkárka z Františkových Lázní.",
+        "en": "Revive tradition with our unique herbal detox tea. The blend was specially mixed according to the traditional recipe of the renowned healer bába Radnická. This particular elixir for cleansing, strengthening immunity and weight loss was carefully created by our highly experienced herbalist from Františkovy Lázně.",
+        "de": "Lassen Sie die Tradition mit unserem einzigartigen Kräuter-Detox-Tee aufleben. Die Mischung wurde speziell nach der traditionellen Rezeptur der bekannten Heilerin bába Radnická zusammengestellt. Dieses besondere Elixier für Reinigung, Immunstärkung und Gewichtsabnahme wurde von unserer sehr erfahrenen Kräuterkundlerin aus Františkovy Lázně sorgfältig entwickelt."
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 417,
+      "source": "Podporuje detoxikaci",
+      "translations": {
+        "sk": "Podporuje detoxikáciu",
+        "en": "Supports detoxification",
+        "de": "Unterstützt die Entgiftung"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 418,
+      "source": "Zlepšuje kvalitu spánku",
+      "translations": {
+        "sk": "Zlepšuje kvalitu spánku",
+        "en": "Improves sleep quality",
+        "de": "Verbessert die Schlafqualität"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 419,
+      "source": "Odolnější imunitní systém",
+      "translations": {
+        "sk": "Odolnejší imunitný systém",
+        "en": "A more resilient immune system",
+        "de": "Widerstands­fähigeres Immunsystem"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    },
+    {
+      "product_id": "261",
+      "text_key": 420,
+      "source": "Psychická pohoda",
+      "translations": {
+        "sk": "Psychická pohoda",
+        "en": "Mental wellbeing",
+        "de": "Psychisches Wohlbefinden"
+      },
+      "classification": "neověřené výživové/zdravotní tvrzení – vyžaduje schválení přesné formulace a podmínek",
+      "translation_review": "Věrný interní překlad; význam ani čísla se nemění. Nejde o schválení publikace.",
+      "publish": false
+    }
+  ]
+}
