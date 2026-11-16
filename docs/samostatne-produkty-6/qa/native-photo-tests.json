@@ -1,0 +1,113 @@
+{
+  "kind": "Final paired isolated native-photo fixture; no native shop/cart execution",
+  "products": [
+    {
+      "id": "51",
+      "output_sha256": {
+        "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html": "c0b20b14f40cf1870f2e22cde94a81b084eb0935a280f7bfc3919c2b5a3bdc70",
+        "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html": "afffc333a586220809c63cdccecadde99e96b0620f4c4c98f1d74c18b397188a",
+        "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css": "4ff7e799274046dc096ab10db4fd691ffdf16d800ef11dc8942fc8ae81bf439e"
+      },
+      "two_same_sku_actual_loaded_photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/51_57-1-good-sleep-and-burn-night-glass-javr.png?ff=1&x=1024&y=1024&q=85&ts=67d9251a&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/51-1_elegantni-portre--t-s-pre--miovy--m-beauty-produktem.png?ff=1&x=1024&y=1024&q=85&ts=6adf41ea&sg=38cb01fe"
+      ],
+      "wrong_native_id_fallback": true,
+      "foreign_photo_correct_form_rejected": true,
+      "cta_scroll_no_purchase": true,
+      "passed": true
+    },
+    {
+      "id": "452",
+      "output_sha256": {
+        "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html": "ae5965f56aa8f396e8848a08c1e59e16d84c96e72afc7d5679c511edca7623f5",
+        "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html": "c8aefe98d93e3df387dd5614ff957f83a1eff5e33ff16ab5917f542281e721bd",
+        "user/documents/upload/css/golden-life-barvy-bikini-body.css": "177f28790cb51b4f8e514b6ed6ba9caaa41000d114bbfaf5f50fc02b81ae797d"
+      },
+      "two_same_sku_actual_loaded_photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/452-2_bikiny-body-produkt-pozadi-bila.png?ff=1&x=1024&y=1024&q=85&ts=6a8bf5c9&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/452_v-v.png?ff=1&x=1024&y=1024&q=85&ts=6a0f6d8c&sg=38cb01fe"
+      ],
+      "wrong_native_id_fallback": true,
+      "foreign_photo_correct_form_rejected": true,
+      "cta_scroll_no_purchase": true,
+      "passed": true
+    },
+    {
+      "id": "57",
+      "output_sha256": {
+        "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html": "3ced11fb7a844d0e80591f7f81b397ae482121e91d5c86567145cefafdbf6779",
+        "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html": "6de2a4a67797821e24c35c8d907481086208532bf79dc64e36c2c9b00d393252",
+        "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css": "b2f278af2267bce44bceb2837425f134164a29f14dc424c3747dcfac6bfe0e46"
+      },
+      "two_same_sku_actual_loaded_photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/57-1_good-sleep-and-night-burn-doza-tabletky.png?ff=1&x=1024&y=1024&q=85&ts=6ad0eda2&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/57-2_good-sleep-night-burn.png?ff=1&x=1024&y=1024&q=85&ts=6a00e237&sg=38cb01fe"
+      ],
+      "wrong_native_id_fallback": true,
+      "foreign_photo_correct_form_rejected": true,
+      "cta_scroll_no_purchase": true,
+      "passed": true
+    },
+    {
+      "id": "99",
+      "output_sha256": {
+        "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html": "fe1ed2c131c664b2ce7db2129d7ecc843a770577f6f4f499edf860e8a37f1729",
+        "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html": "4072dfe82c9c22ced030c42859fc8851fd10ccb6482bb942e2b4fee639b73968",
+        "user/documents/upload/css/golden-life-barvy-miracle-drops.css": "3f90e4c5129fa980d449ca3d9667bfd9f1f17f0164752ffe158911baca1a83a3"
+      },
+      "two_same_sku_actual_loaded_photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/99-1_miracle-drops-na-web.jpg?ff=1&x=1024&y=1024&q=85&ts=67e58b0b&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/99_duo-pack-se--r.png?ff=1&x=1024&y=1024&q=85&ts=67f4cc02&sg=38cb01fe"
+      ],
+      "wrong_native_id_fallback": true,
+      "foreign_photo_correct_form_rejected": true,
+      "cta_scroll_no_purchase": true,
+      "passed": true
+    },
+    {
+      "id": "84",
+      "output_sha256": {
+        "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html": "644d96f9ead1793353fdfe87e2bd46fa3ea57a462d202906fdedfb790c286749",
+        "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html": "609ac27a4b078c30deb938e0cdf4ec7713dcb4d241e96b5cabb28ede4bc35611",
+        "user/documents/upload/css/golden-life-barvy-vitamin-c.css": "f1b62aae679ffe9543d77bbf3e21ddfabc5e3d06158b88243e6d3622caa9a93d"
+      },
+      "two_same_sku_actual_loaded_photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/84-1_vitamin-c.png?ff=1&x=1024&y=1024&q=85&ts=67f78434&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produkty25/vitaminc.jpg"
+      ],
+      "wrong_native_id_fallback": true,
+      "foreign_photo_correct_form_rejected": true,
+      "cta_scroll_no_purchase": true,
+      "passed": true
+    },
+    {
+      "id": "357",
+      "output_sha256": {
+        "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html": "340e8fa3ce1907dfb0859b3ad6f3ce453ebe850d6414e8378de6a74107733f70",
+        "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html": "598e4e0c28a16ae7384cf96023aed680147a7d7f96f2c1e61f248b998434cfa8",
+        "user/documents/upload/css/golden-life-barvy-xpress-hair-grow.css": "b1b72b05de4f08fa8d55fb52f849adca31c6aa6fcf469e50dbd6f47d75a300db"
+      },
+      "two_same_sku_actual_loaded_photos": [
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/357_xpress-hair-grow-s-biotinem-bez-pozadi.png?ff=1&x=1024&y=1024&q=85&ts=6a180154&sg=38cb01fe",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/357-2_f6fc860f-1593-480f-9c43-6e4aada0eed8.png?ff=1&x=1024&y=1024&q=85&ts=6a45a7b2&sg=38cb01fe"
+      ],
+      "wrong_native_id_fallback": true,
+      "foreign_photo_correct_form_rejected": true,
+      "cta_scroll_no_purchase": true,
+      "passed": true
+    }
+  ],
+  "blocked": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0",
+      "type": "stylesheet"
+    }
+  ],
+  "console_errors": [],
+  "summary": {
+    "products": 6,
+    "passed": 6,
+    "console_errors": 0
+  }
+}

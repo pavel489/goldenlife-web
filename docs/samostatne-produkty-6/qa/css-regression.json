@@ -1,0 +1,41 @@
+{
+  "kind": "CSS-only paired-fragment pixel comparison; source vs own output CSS, all other bytes and assets identical.",
+  "products": [],
+  "blocked": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0",
+      "type": "stylesheet"
+    }
+  ],
+  "console_errors": [],
+  "scenarios": [
+    {
+      "width": 320,
+      "source_bad_captions": [
+        "Enterosolventní tobolky pro maximální vstřebatelnost",
+        "Cévní pevnost a mikrocirkulace"
+      ],
+      "final_bad_captions": [],
+      "same_dimensions": false,
+      "changed_pixels": 39177,
+      "unchanged_outside_fix_band": true
+    },
+    {
+      "width": 390,
+      "source_bad_captions": [],
+      "final_bad_captions": [],
+      "same_dimensions": true,
+      "changed_pixels": 0,
+      "unchanged_outside_fix_band": true
+    },
+    {
+      "width": 1440,
+      "source_bad_captions": [],
+      "final_bad_captions": [],
+      "same_dimensions": true,
+      "changed_pixels": 0,
+      "unchanged_outside_fix_band": true
+    }
+  ],
+  "passed": true
+}

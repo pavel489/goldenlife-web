@@ -1,0 +1,945 @@
+{
+  "viewer_sha256": "a8cadfda43758dc472cd5eaab29db0a9dee1d83176546b8ae112035c43063523",
+  "browser": "156.0.8078.4",
+  "scenarios": [
+    {
+      "id": "51",
+      "metrics": {
+        "width": 320,
+        "height": 900,
+        "overflow": 0,
+        "selected": "51",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 227.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 228,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "452",
+      "metrics": {
+        "width": 320,
+        "height": 900,
+        "overflow": 0,
+        "selected": "452",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 227.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "57",
+      "metrics": {
+        "width": 320,
+        "height": 900,
+        "overflow": 0,
+        "selected": "57",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 227.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "99",
+      "metrics": {
+        "width": 320,
+        "height": 900,
+        "overflow": 0,
+        "selected": "99",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 228,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "84",
+      "metrics": {
+        "width": 320,
+        "height": 900,
+        "overflow": 0,
+        "selected": "84",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "357",
+      "metrics": {
+        "width": 320,
+        "height": 900,
+        "overflow": 0,
+        "selected": "357",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 228,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 227.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "51",
+      "metrics": {
+        "width": 390,
+        "height": 844,
+        "overflow": 0,
+        "selected": "51",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "452",
+      "metrics": {
+        "width": 390,
+        "height": 844,
+        "overflow": 0,
+        "selected": "452",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "57",
+      "metrics": {
+        "width": 390,
+        "height": 844,
+        "overflow": 0,
+        "selected": "57",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "99",
+      "metrics": {
+        "width": 390,
+        "height": 844,
+        "overflow": 0,
+        "selected": "99",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 297.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "84",
+      "metrics": {
+        "width": 390,
+        "height": 844,
+        "overflow": 0,
+        "selected": "84",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 297.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "357",
+      "metrics": {
+        "width": 390,
+        "height": 844,
+        "overflow": 0,
+        "selected": "357",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 297.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 297.984375,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "51",
+      "metrics": {
+        "width": 820,
+        "height": 1180,
+        "overflow": 0,
+        "selected": "51",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 325.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "452",
+      "metrics": {
+        "width": 820,
+        "height": 1180,
+        "overflow": 0,
+        "selected": "452",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 271.84375,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "57",
+      "metrics": {
+        "width": 820,
+        "height": 1180,
+        "overflow": 0,
+        "selected": "57",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "99",
+      "metrics": {
+        "width": 820,
+        "height": 1180,
+        "overflow": 0,
+        "selected": "99",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 245.296875,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "84",
+      "metrics": {
+        "width": 820,
+        "height": 1180,
+        "overflow": 0,
+        "selected": "84",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 188.453125,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "357",
+      "metrics": {
+        "width": 820,
+        "height": 1180,
+        "overflow": 0,
+        "selected": "357",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 325.984375,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 191.21875,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "51",
+      "metrics": {
+        "width": 1440,
+        "height": 1000,
+        "overflow": 0,
+        "selected": "51",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 495.96875,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 340.53125,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "452",
+      "metrics": {
+        "width": 1440,
+        "height": 1000,
+        "overflow": 0,
+        "selected": "452",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 495.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 342,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 271.84375,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "57",
+      "metrics": {
+        "width": 1440,
+        "height": 1000,
+        "overflow": 0,
+        "selected": "57",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 495.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 342,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 280,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "99",
+      "metrics": {
+        "width": 1440,
+        "height": 1000,
+        "overflow": 0,
+        "selected": "99",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 495.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 342,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 245.296875,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "84",
+      "metrics": {
+        "width": 1440,
+        "height": 1000,
+        "overflow": 0,
+        "selected": "84",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 495.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 342,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 188.453125,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    },
+    {
+      "id": "357",
+      "metrics": {
+        "width": 1440,
+        "height": 1000,
+        "overflow": 0,
+        "selected": "357",
+        "downloads": 3,
+        "images": [
+          {
+            "decoded": true,
+            "width": 495.984375,
+            "naturalWidth": 1100
+          },
+          {
+            "decoded": true,
+            "width": 342,
+            "naturalWidth": 342
+          },
+          {
+            "decoded": true,
+            "width": 191.21875,
+            "naturalWidth": 280
+          },
+          {
+            "decoded": true,
+            "width": 303.328125,
+            "naturalWidth": 390
+          }
+        ]
+      },
+      "four_screens_pointer_zoom_native_size_escape": true
+    }
+  ],
+  "downloads": [
+    {
+      "id": "51",
+      "kind": "long",
+      "name": "Golden-Life-Beauty-Body-Soul-cz.html",
+      "sha256": "c0b20b14f40cf1870f2e22cde94a81b084eb0935a280f7bfc3919c2b5a3bdc70",
+      "byte_exact_source": true
+    },
+    {
+      "id": "51",
+      "kind": "short",
+      "name": "Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "sha256": "afffc333a586220809c63cdccecadde99e96b0620f4c4c98f1d74c18b397188a",
+      "byte_exact_source": true
+    },
+    {
+      "id": "51",
+      "kind": "css",
+      "name": "golden-life-barvy-beauty-body-soul.css",
+      "sha256": "4ff7e799274046dc096ab10db4fd691ffdf16d800ef11dc8942fc8ae81bf439e",
+      "byte_exact_source": true
+    },
+    {
+      "id": "452",
+      "kind": "long",
+      "name": "Golden-Life-Bikini-Body-cz.html",
+      "sha256": "ae5965f56aa8f396e8848a08c1e59e16d84c96e72afc7d5679c511edca7623f5",
+      "byte_exact_source": true
+    },
+    {
+      "id": "452",
+      "kind": "short",
+      "name": "Golden-Life-Bikini-Body-maly-cz.html",
+      "sha256": "c8aefe98d93e3df387dd5614ff957f83a1eff5e33ff16ab5917f542281e721bd",
+      "byte_exact_source": true
+    },
+    {
+      "id": "452",
+      "kind": "css",
+      "name": "golden-life-barvy-bikini-body.css",
+      "sha256": "177f28790cb51b4f8e514b6ed6ba9caaa41000d114bbfaf5f50fc02b81ae797d",
+      "byte_exact_source": true
+    },
+    {
+      "id": "57",
+      "kind": "long",
+      "name": "Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "sha256": "3ced11fb7a844d0e80591f7f81b397ae482121e91d5c86567145cefafdbf6779",
+      "byte_exact_source": true
+    },
+    {
+      "id": "57",
+      "kind": "short",
+      "name": "Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "sha256": "6de2a4a67797821e24c35c8d907481086208532bf79dc64e36c2c9b00d393252",
+      "byte_exact_source": true
+    },
+    {
+      "id": "57",
+      "kind": "css",
+      "name": "golden-life-barvy-good-sleep-night-burn.css",
+      "sha256": "b2f278af2267bce44bceb2837425f134164a29f14dc424c3747dcfac6bfe0e46",
+      "byte_exact_source": true
+    },
+    {
+      "id": "99",
+      "kind": "long",
+      "name": "Golden-Life-Miracle-Drops-cz.html",
+      "sha256": "fe1ed2c131c664b2ce7db2129d7ecc843a770577f6f4f499edf860e8a37f1729",
+      "byte_exact_source": true
+    },
+    {
+      "id": "99",
+      "kind": "short",
+      "name": "Golden-Life-Miracle-Drops-maly-cz.html",
+      "sha256": "4072dfe82c9c22ced030c42859fc8851fd10ccb6482bb942e2b4fee639b73968",
+      "byte_exact_source": true
+    },
+    {
+      "id": "99",
+      "kind": "css",
+      "name": "golden-life-barvy-miracle-drops.css",
+      "sha256": "3f90e4c5129fa980d449ca3d9667bfd9f1f17f0164752ffe158911baca1a83a3",
+      "byte_exact_source": true
+    },
+    {
+      "id": "84",
+      "kind": "long",
+      "name": "Golden-Life-Vitamin-C-cz.html",
+      "sha256": "644d96f9ead1793353fdfe87e2bd46fa3ea57a462d202906fdedfb790c286749",
+      "byte_exact_source": true
+    },
+    {
+      "id": "84",
+      "kind": "short",
+      "name": "Golden-Life-Vitamin-C-maly-cz.html",
+      "sha256": "609ac27a4b078c30deb938e0cdf4ec7713dcb4d241e96b5cabb28ede4bc35611",
+      "byte_exact_source": true
+    },
+    {
+      "id": "84",
+      "kind": "css",
+      "name": "golden-life-barvy-vitamin-c.css",
+      "sha256": "f1b62aae679ffe9543d77bbf3e21ddfabc5e3d06158b88243e6d3622caa9a93d",
+      "byte_exact_source": true
+    },
+    {
+      "id": "357",
+      "kind": "long",
+      "name": "Golden-Life-Xpress-Hair-Grow-cz.html",
+      "sha256": "340e8fa3ce1907dfb0859b3ad6f3ce453ebe850d6414e8378de6a74107733f70",
+      "byte_exact_source": true
+    },
+    {
+      "id": "357",
+      "kind": "short",
+      "name": "Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+      "sha256": "598e4e0c28a16ae7384cf96023aed680147a7d7f96f2c1e61f248b998434cfa8",
+      "byte_exact_source": true
+    },
+    {
+      "id": "357",
+      "kind": "css",
+      "name": "golden-life-barvy-xpress-hair-grow.css",
+      "sha256": "b1b72b05de4f08fa8d55fb52f849adca31c6aa6fcf469e50dbd6f47d75a300db",
+      "byte_exact_source": true
+    }
+  ],
+  "pageerrors": [],
+  "external_requests": [],
+  "external_completed": [],
+  "screenshots": [
+    "handoff/viewer-phone-51.png",
+    "handoff/viewer-phone-452.png",
+    "handoff/viewer-phone-357.png"
+  ],
+  "summary": {
+    "products": 6,
+    "responsive_scenarios": 24,
+    "real_downloads_verified": 18,
+    "image_zoom_open_close_tests": 96,
+    "pageerrors": 0,
+    "external_requests": 0,
+    "external_completed": 0,
+    "source_files_unchanged": true,
+    "passed": true
+  }
+}

@@ -1,0 +1,1101 @@
+{
+  "base_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "products": [
+    {
+      "id": "51",
+      "product": "Beauty Body & Soul®",
+      "checks": [
+        {
+          "kind": "long",
+          "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+          "sha256": "6682226c157fa5c58f5c5f84d55bfc23ea8310e5348df23f3982b41bf2aad678",
+          "source_sha256": "11ceb8d9008cf36a5a53c329f2e1b132966bcaa4b01b67bbb5f51033ac7354e6",
+          "edits": [
+            {
+              "old": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.",
+              "new": "",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Složky a jejich původní vysvětlení",
+              "new": "Složky a jejich vysvětlení",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Medi-Microbiom®: složka uvedená v původním složení.",
+              "new": "Medi-Microbiom®",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "var heading=root.querySelector('h1');if(heading){",
+              "new": "var heading=root.querySelector('h1');if(heading&&(!heading.nextElementSibling||heading.nextElementSibling.tagName!=='P'))heading=Array.prototype.find.call(root.querySelectorAll('h2'),function(h){return /Luxusní omlazující nápoj/.test(h.textContent);});if(heading){",
+              "reason": "reproduced mobile initialization miss; own existing intro heading, no copy or purchase change"
+            },
+            {
+              "old": "function targets(){",
+              "new": "function ownPhoto(url){try{var u=new URL(url,document.baseURI);return u.href===fallback||(/^https:$/.test(u.protocol)&&/^(?:www\\.)?golden-life\\.cz$|^cdn\\.myshoptet\\.com$/.test(u.hostname)&&new RegExp('/user/shop/(?:big|orig|detail)/51(?:[_-])').test(u.pathname));}catch(_){return false;}}\nfunction targets(){",
+              "reason": "reproduced foreign-gallery contamination; same SKU verified native photo only; purchase logic unchanged"
+            },
+            {
+              "old": "&&url&&!failed.has(url)",
+              "new": "&&url&&ownPhoto(url)&&!failed.has(url)",
+              "reason": "reproduced foreign-gallery contamination; same SKU verified native photo only; purchase logic unchanged"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.",
+            "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.",
+            "Medi-Microbiom®: složka uvedená v původním složení."
+          ],
+          "paragraphs_before": 49,
+          "paragraphs_after": 47,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 23,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": [
+            {
+              "id": "nad-info",
+              "original_paragraphs": [
+                "Kolagenní nápoj s vitamíny a minerály. 2 zarovnané odměrky do 400 ml vody",
+                "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků."
+              ],
+              "final_paragraphs": [
+                "Kolagenní nápoj s vitamíny a minerály. 2 zarovnané odměrky do 400 ml vody"
+              ]
+            },
+            {
+              "id": "bbs-lm-0",
+              "original_paragraphs": [
+                "Velká dávka 100% přírodních super potravin v nejvyšší kvalitě. Obsahují výjimečně vysoký obsah vitamínů, minerálů a antioxidantů. Superfoods si svou popularitu získaly hlavně tím, že účinně bojují proti civilizačním onemocněním a dodávají tělu špičkovou výživu bez přijímání zbytečných kalorií."
+              ],
+              "final_paragraphs": [
+                "Velká dávka 100% přírodních super potravin v nejvyšší kvalitě. Obsahují výjimečně vysoký obsah vitamínů, minerálů a antioxidantů. Superfoods si svou popularitu získaly hlavně tím, že účinně bojují proti civilizačním onemocněním a dodávají tělu špičkovou výživu bez přijímání zbytečných kalorií."
+              ]
+            },
+            {
+              "id": "bbs-lm-1",
+              "original_paragraphs": [
+                "Vitamíny a minerály jsou naformulovány ve vyváženém a optimálním množství. Příznivě ovlivňují obranyschopnost organismu a správnou funkci štítné žlázy. Podporují imunitní systém, hormonální a meta- bolickou rovnováhu a chrání buňky před volnými radikály. Optimální složení také uvolňuje napětí v hlavě a je vhodné pro ty, co trpí na migrény a časté bolesti hlavy.",
+                "Folát je nejnovější a revoluční aktivní forma kyseliny listové čtvrté generace. Jedná se o jedinečnou formu, která zajistí normální stav nervové soustavy a její správné fungování. Je velmi vhodný také pro ty co chtějí otěhotnět, pro těhotné, pro zdravý vývoj plodu a pro seniory, kteří zapomínají nebo mají první známky degenerativního onemocnění mozku. Již po 14 dnech používání dojde k výraznému zlepšení."
+              ],
+              "final_paragraphs": [
+                "Vitamíny a minerály jsou naformulovány ve vyváženém a optimálním množství. Příznivě ovlivňují obranyschopnost organismu a správnou funkci štítné žlázy. Podporují imunitní systém, hormonální a meta- bolickou rovnováhu a chrání buňky před volnými radikály. Optimální složení také uvolňuje napětí v hlavě a je vhodné pro ty, co trpí na migrény a časté bolesti hlavy.",
+                "Folát je nejnovější a revoluční aktivní forma kyseliny listové čtvrté generace. Jedná se o jedinečnou formu, která zajistí normální stav nervové soustavy a její správné fungování. Je velmi vhodný také pro ty co chtějí otěhotnět, pro těhotné, pro zdravý vývoj plodu a pro seniory, kteří zapomínají nebo mají první známky degenerativního onemocnění mozku. Již po 14 dnech používání dojde k výraznému zlepšení."
+              ]
+            },
+            {
+              "id": "bbs-lm-2",
+              "original_paragraphs": [
+                "Petentovaný mořský kolagen ve formě vysoce vstřebatelných hydrolizovaných peptidů podporuje regeneraci tkání, buněk a navíc zpomaluje stárnutí kůže. V denní dávce je 6000 mg, které dodávají pokožce potřebnou hydrataci, vyživují klouby a chrání chrupavky.",
+                "Vysokomolekulární kyselina hyaluronová zvlhčuje pokožku a vytváří na ní ochranný film. Má protizánětlivé účinky a funguje dlouhodobě.",
+                "Nízkomolekulární kyselina hyaluronová proniká hluboko do pokožky. Je uložena v pojivové tkáni kůže, hydratuje ji, regeneruje a má trvalý protivráskový účinek."
+              ],
+              "final_paragraphs": [
+                "Petentovaný mořský kolagen ve formě vysoce vstřebatelných hydrolizovaných peptidů podporuje regeneraci tkání, buněk a navíc zpomaluje stárnutí kůže. V denní dávce je 6000 mg, které dodávají pokožce potřebnou hydrataci, vyživují klouby a chrání chrupavky.",
+                "Vysokomolekulární kyselina hyaluronová zvlhčuje pokožku a vytváří na ní ochranný film. Má protizánětlivé účinky a funguje dlouhodobě.",
+                "Nízkomolekulární kyselina hyaluronová proniká hluboko do pokožky. Je uložena v pojivové tkáni kůže, hydratuje ji, regeneruje a má trvalý protivráskový účinek."
+              ]
+            },
+            {
+              "id": "bbs-lm-3",
+              "original_paragraphs": [
+                "Propracovaná kombinace čistě přírodních složek účinně detoxikuje játra a ledviny, pročišťuje krev a celý organismus, přispívá k metabolismu a oxidaci tuků a zvýšené termogenezi. Redukuje kyselinu močovou a snižuje zakyselení organismu. Napomáhá snížit cholesterol a cukr."
+              ],
+              "final_paragraphs": [
+                "Propracovaná kombinace čistě přírodních složek účinně detoxikuje játra a ledviny, pročišťuje krev a celý organismus, přispívá k metabolismu a oxidaci tuků a zvýšené termogenezi. Redukuje kyselinu močovou a snižuje zakyselení organismu. Napomáhá snížit cholesterol a cukr."
+              ]
+            },
+            {
+              "id": "bbs-lm-4",
+              "original_paragraphs": [
+                "Aktivní složky podporují spalování tuků a přispívají k rychlejšímu metabolismu. Tento efekt je obzvláště vhodný pro osoby starší 40 let nebo ženy řešící hubnutí po porodu. Pomáhá předcházet nežádoucímu ukládání tělesného tuku a zaměřuje se především na redukci tuku v oblasti břicha, stehen a vnitřních orgánů."
+              ],
+              "final_paragraphs": [
+                "Aktivní složky podporují spalování tuků a přispívají k rychlejšímu metabolismu. Tento efekt je obzvláště vhodný pro osoby starší 40 let nebo ženy řešící hubnutí po porodu. Pomáhá předcházet nežádoucímu ukládání tělesného tuku a zaměřuje se především na redukci tuku v oblasti břicha, stehen a vnitřních orgánů."
+              ]
+            },
+            {
+              "id": "bbs-lm-5",
+              "original_paragraphs": [
+                "Tato unikátní patentovaná složka je v produktu především proto, že lidský organismus nemá schopnost produkovat enzymy potřebné k rozkladu složitých živin. Střevní bakterie tuto funkci zastávají a jsou nezbytné pro správné trávení. Díky nim můžeme konzumovat různorodou stravu a získávat široké spektrum mikroživin a fytonutrientů.",
+                "Mikrobiom se neustále mění – čím je silnější, tím lepší je schopnost trávení a vyšší obranyschopnost těla proti onemocněním. Pravidelné užívání produktu Beauty Body & Soul posiluje vnitřní prostředí organismu a pomáhá budovat silný mikrobiom. Skupina prospěšných mikroorganismů chrání trávicí ústrojí i celý organismus."
+              ],
+              "final_paragraphs": [
+                "Tato unikátní patentovaná složka je v produktu především proto, že lidský organismus nemá schopnost produkovat enzymy potřebné k rozkladu složitých živin. Střevní bakterie tuto funkci zastávají a jsou nezbytné pro správné trávení. Díky nim můžeme konzumovat různorodou stravu a získávat široké spektrum mikroživin a fytonutrientů.",
+                "Mikrobiom se neustále mění – čím je silnější, tím lepší je schopnost trávení a vyšší obranyschopnost těla proti onemocněním. Pravidelné užívání produktu Beauty Body & Soul posiluje vnitřní prostředí organismu a pomáhá budovat silný mikrobiom. Skupina prospěšných mikroorganismů chrání trávicí ústrojí i celý organismus."
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "short",
+          "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+          "sha256": "be773a0fa28f5dbfd046c603fffa14b7e5f83c05aa7345de746a3181e5060985",
+          "source_sha256": "4312821b3019a28ed03f322dc232808f5a1302ba75cb6221519b3263d21157c8",
+          "edits": [
+            {
+              "old": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad."
+          ],
+          "paragraphs_before": 2,
+          "paragraphs_after": 1,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 5,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": []
+        }
+      ]
+    },
+    {
+      "id": "452",
+      "product": "Bikini Body",
+      "checks": [
+        {
+          "kind": "long",
+          "path": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+          "sha256": "c46295172a2c855a8e5328eb8d47d0e4e0544bb03b79a43af69aadb7733d212d",
+          "source_sha256": "5ee98480b80cdbe12b67fe872de74d399bc908c6a9866b80e5a1c0071ee82de3",
+          "edits": [
+            {
+              "old": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.",
+              "new": "",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Úplné složení a původní vysvětlení jednotlivých složek jsou uvedeny níže.",
+              "new": "Úplné složení a vysvětlení jednotlivých složek jsou uvedeny níže.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "function targets(){",
+              "new": "function ownPhoto(url){try{var u=new URL(url,document.baseURI);return u.href===fallback||(/^https:$/.test(u.protocol)&&/^(?:www\\.)?golden-life\\.cz$|^cdn\\.myshoptet\\.com$/.test(u.hostname)&&new RegExp('/user/shop/(?:big|orig|detail)/452(?:[_-])').test(u.pathname));}catch(_){return false;}}\nfunction targets(){",
+              "reason": "reproduced foreign-gallery contamination; same SKU verified native photo only; purchase logic unchanged"
+            },
+            {
+              "old": "&&url&&!failed.has(url)",
+              "new": "&&url&&ownPhoto(url)&&!failed.has(url)",
+              "reason": "reproduced foreign-gallery contamination; same SKU verified native photo only; purchase logic unchanged"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.",
+            "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.",
+            "Úplné složení a původní vysvětlení jednotlivých složek jsou uvedeny níže."
+          ],
+          "paragraphs_before": 40,
+          "paragraphs_after": 38,
+          "table_cells_preserved": 14,
+          "image_attributes_preserved": 26,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": [
+            {
+              "id": "nad-info",
+              "original_paragraphs": [
+                "Enzymy, rutin, aescin a vitamin C. 45 minut před jídlem nebo alespoň 2 hodiny po jídle.",
+                "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků."
+              ],
+              "final_paragraphs": [
+                "Enzymy, rutin, aescin a vitamin C. 45 minut před jídlem nebo alespoň 2 hodiny po jídle."
+              ]
+            },
+            {
+              "id": "lm-bromelain",
+              "original_paragraphs": [
+                "Silný proteolytický enzym z ananasu, štěpí bílkoviny, podporuje trávení a spalování tuků, má mírný protizánětlivý účinek a podporuje regeneraci po fyzické zátěži nebo zákrocích.",
+                "Enzym z ananasu pro trávení, spalování tuků a regeneraci."
+              ],
+              "final_paragraphs": [
+                "Silný proteolytický enzym z ananasu, štěpí bílkoviny, podporuje trávení a spalování tuků, má mírný protizánětlivý účinek a podporuje regeneraci po fyzické zátěži nebo zákrocích.",
+                "Enzym z ananasu pro trávení, spalování tuků a regeneraci."
+              ]
+            },
+            {
+              "id": "lm-papain",
+              "original_paragraphs": [
+                "Enzym z papáji, podporuje trávení, zklidňuje trávicí trakt, pomáhá odbourávat toxiny a odlehčuje detoxikaci.",
+                "Enzym z papáji pro trávení a detoxikaci."
+              ],
+              "final_paragraphs": [
+                "Enzym z papáji, podporuje trávení, zklidňuje trávicí trakt, pomáhá odbourávat toxiny a odlehčuje detoxikaci.",
+                "Enzym z papáji pro trávení a detoxikaci."
+              ]
+            },
+            {
+              "id": "lm-aescin",
+              "original_paragraphs": [
+                "Výtažek z jírovce, zpevňuje cévní stěny, snižuje propustnost kapilár, působí proti otokům, ulevuje při pocitu těžkých nohou a podporuje krevní oběh.",
+                "Zpevňuje cévy, působí proti otokům a těžkým nohám."
+              ],
+              "final_paragraphs": [
+                "Výtažek z jírovce, zpevňuje cévní stěny, snižuje propustnost kapilár, působí proti otokům, ulevuje při pocitu těžkých nohou a podporuje krevní oběh.",
+                "Zpevňuje cévy, působí proti otokům a těžkým nohám."
+              ]
+            },
+            {
+              "id": "lm-rutosidum",
+              "original_paragraphs": [
+                "Silný antioxidant z pohanky, zpevňuje a chrání cévy, zlepšuje mikrocirkulaci a přispívá k eliminaci zadržované vody, což vede k hladší pokožce a redukci celulitidy.",
+                "Antioxidant, který zpevňuje cévy a odvádí zadrženou vodu."
+              ],
+              "final_paragraphs": [
+                "Silný antioxidant z pohanky, zpevňuje a chrání cévy, zlepšuje mikrocirkulaci a přispívá k eliminaci zadržované vody, což vede k hladší pokožce a redukci celulitidy.",
+                "Antioxidant, který zpevňuje cévy a odvádí zadrženou vodu."
+              ]
+            },
+            {
+              "id": "lm-vitaminc",
+              "original_paragraphs": [
+                "Podporuje imunitní systém, chrání buňky před oxidačním stresem, pomáhá vstřebávání dalších látek a přispívá ke správné tvorbě kolagenu.",
+                "Antioxidant pro imunitu a tvorbu kolagenu."
+              ],
+              "final_paragraphs": [
+                "Podporuje imunitní systém, chrání buňky před oxidačním stresem, pomáhá vstřebávání dalších látek a přispívá ke správné tvorbě kolagenu.",
+                "Antioxidant pro imunitu a tvorbu kolagenu."
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "short",
+          "path": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+          "sha256": "c8aefe98d93e3df387dd5614ff957f83a1eff5e33ff16ab5917f542281e721bd",
+          "source_sha256": "bac0a4b86d5f40130c0fc188a805ef757324969bfb3b1bd1c7b03254432ac027",
+          "edits": [
+            {
+              "old": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad."
+          ],
+          "paragraphs_before": 2,
+          "paragraphs_after": 1,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 9,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": []
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "product": "Good Sleep & Night Burn",
+      "checks": [
+        {
+          "kind": "long",
+          "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+          "sha256": "03d93f2f2b553a510f7bab4c2c30ff364699304688d1da095a475a8f2e60ab3c",
+          "source_sha256": "2774b608107c8535ac2e0deecf7209e030cde1c9b2ddbdfc62ecfd7fbc646fa8",
+          "edits": [
+            {
+              "old": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků.",
+              "new": "",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "function targets(){",
+              "new": "function ownPhoto(url){try{var u=new URL(url,document.baseURI);return u.href===fallback||(/^https:$/.test(u.protocol)&&/^(?:www\\.)?golden-life\\.cz$|^cdn\\.myshoptet\\.com$/.test(u.hostname)&&new RegExp('/user/shop/(?:big|orig|detail)/57(?:[_-])').test(u.pathname));}catch(_){return false;}}\nfunction targets(){",
+              "reason": "reproduced foreign-gallery contamination; same SKU verified native photo only; purchase logic unchanged"
+            },
+            {
+              "old": "&&url&&!failed.has(url)",
+              "new": "&&url&&ownPhoto(url)&&!failed.has(url)",
+              "reason": "reproduced foreign-gallery contamination; same SKU verified native photo only; purchase logic unchanged"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.",
+            "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků."
+          ],
+          "paragraphs_before": 50,
+          "paragraphs_after": 48,
+          "table_cells_preserved": 30,
+          "image_attributes_preserved": 30,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": [
+            {
+              "id": "nad-info",
+              "original_paragraphs": [
+                "Bylinná směs s garcinií a wakame. 30–60 minut před spánkem; úplný návod níže.",
+                "Úplný původní popis, složení a bezpečnostní informace jsou zachovány v jednotlivých oddílech. Tento návrh není právním schválením účinků."
+              ],
+              "final_paragraphs": [
+                "Bylinná směs s garcinií a wakame. 30–60 minut před spánkem; úplný návod níže."
+              ]
+            },
+            {
+              "id": "lm-garcinia",
+              "original_paragraphs": [
+                "HCA z garcinie podporuje kontrolu chuti k jídlu, pocit sytosti a pomáhá omezit večerní přejídání, zároveň podporuje metabolismus tuků.",
+                "HCA – kontrola chutí, pocit sytosti a metabolismus tuků."
+              ],
+              "final_paragraphs": [
+                "HCA z garcinie podporuje kontrolu chuti k jídlu, pocit sytosti a pomáhá omezit večerní přejídání, zároveň podporuje metabolismus tuků.",
+                "HCA – kontrola chutí, pocit sytosti a metabolismus tuků."
+              ]
+            },
+            {
+              "id": "lm-chmel",
+              "original_paragraphs": [
+                "Přírodní sedativum podporující uvolnění a hlubší spánek, s antioxidanty chránícími buňky před oxidačním stresem.",
+                "Přírodní sedativum pro uvolnění a hlubší spánek."
+              ],
+              "final_paragraphs": [
+                "Přírodní sedativum podporující uvolnění a hlubší spánek, s antioxidanty chránícími buňky před oxidačním stresem.",
+                "Přírodní sedativum pro uvolnění a hlubší spánek."
+              ]
+            },
+            {
+              "id": "lm-wakame",
+              "original_paragraphs": [
+                "Mořská řasa bohatá na vitaminy a minerály (vápník, hořčík, jód). Podporuje metabolismus a přirozenou detoxikaci.",
+                "Mořská řasa – minerály, metabolismus a detoxikace."
+              ],
+              "final_paragraphs": [
+                "Mořská řasa bohatá na vitaminy a minerály (vápník, hořčík, jód). Podporuje metabolismus a přirozenou detoxikaci.",
+                "Mořská řasa – minerály, metabolismus a detoxikace."
+              ]
+            },
+            {
+              "id": "lm-kozlik",
+              "original_paragraphs": [
+                "Zklidňuje nervovou soustavu, snižuje napětí a podporuje kvalitní spánek i regeneraci.",
+                "Zklidňuje nervy a podporuje kvalitní spánek."
+              ],
+              "final_paragraphs": [
+                "Zklidňuje nervovou soustavu, snižuje napětí a podporuje kvalitní spánek i regeneraci.",
+                "Zklidňuje nervy a podporuje kvalitní spánek."
+              ]
+            },
+            {
+              "id": "lm-hloh",
+              "original_paragraphs": [
+                "Podporuje metabolismus tuků a trávení, obsahuje antioxidanty pro imunitu a kardiovaskulární podporu.",
+                "Metabolismus tuků, trávení a antioxidanty."
+              ],
+              "final_paragraphs": [
+                "Podporuje metabolismus tuků a trávení, obsahuje antioxidanty pro imunitu a kardiovaskulární podporu.",
+                "Metabolismus tuků, trávení a antioxidanty."
+              ]
+            },
+            {
+              "id": "lm-rimbaba",
+              "original_paragraphs": [
+                "Antioxidanty a vláknina podporují trávení, lehké diuretické působení pomáhá s odvodněním a detoxikací.",
+                "Antioxidanty a vláknina – trávení a odvodnění."
+              ],
+              "final_paragraphs": [
+                "Antioxidanty a vláknina podporují trávení, lehké diuretické působení pomáhá s odvodněním a detoxikací.",
+                "Antioxidanty a vláknina – trávení a odvodnění."
+              ]
+            },
+            {
+              "id": "lm-mucenka",
+              "original_paragraphs": [
+                "Tradičně se používá pro lepší usínání. Obsah flavonoidů napomáhá zklidnění nervové soustavy a regeneraci během noci.",
+                "Tradičně pro lepší usínání a zklidnění."
+              ],
+              "final_paragraphs": [
+                "Tradičně se používá pro lepší usínání. Obsah flavonoidů napomáhá zklidnění nervové soustavy a regeneraci během noci.",
+                "Tradičně pro lepší usínání a zklidnění."
+              ]
+            },
+            {
+              "id": "lm-medunka",
+              "original_paragraphs": [
+                "Meduňka lékařská tradičně zklidňuje nervovou soustavu, pomáhá zvládat stres a napětí a podporuje klidné usínání i trávení.",
+                "Zklidnění, úleva od stresu a klidný spánek."
+              ],
+              "final_paragraphs": [
+                "Meduňka lékařská tradičně zklidňuje nervovou soustavu, pomáhá zvládat stres a napětí a podporuje klidné usínání i trávení.",
+                "Zklidnění, úleva od stresu a klidný spánek."
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "short",
+          "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+          "sha256": "6de2a4a67797821e24c35c8d907481086208532bf79dc64e36c2c9b00d393252",
+          "source_sha256": "3d1120c3bec48e2b56daaf769ebb34e916b382b12ad494848ee0363975adba89",
+          "edits": [
+            {
+              "old": "<p class=\"gl-draft-note\">INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "INTERNÍ PRACOVNÍ NÁVRH — původní účinková tvrzení jsou zachována pro obsahovou kontrolu, nejsou schválena k publikaci. Podrobnosti v samostatném seznamu tvrzení a datových výhrad."
+          ],
+          "paragraphs_before": 2,
+          "paragraphs_after": 1,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 10,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": []
+        }
+      ]
+    },
+    {
+      "id": "99",
+      "product": "Miracle Drops",
+      "checks": [
+        {
+          "kind": "long",
+          "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+          "sha256": "8ef6978118cf76a9092088bbb700e994c65ae552b3c65895d00f9d3ae1fa5c8b",
+          "source_sha256": "0daf9e217ee2d114cd19291a53810acae0e35e5ee7ca9c4d5be72e6a6bc19277",
+          "edits": [
+            {
+              "old": "<aside class=\"gl-draft-note\" role=\"note\"><strong>INTERNÍ NESCHVÁLENÝ NÁVRH — NEPUBLIKOVAT.</strong> Původní popisy účinků a piktogramy jsou zachovány pro obsahovou kontrolu; jejich převzetí není schválením tvrzení. Rozpory a návrhy neutrálního znění jsou v samostatném QA přehledu.</aside>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Účinky — původní pracovní text",
+              "new": "Účinky",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Úplný původní popis jednotlivých složek je dostupný přes tlačítka plus.",
+              "new": "Úplný popis jednotlivých složek je dostupný přes tlačítka plus.",
+              "count": 2,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Kyselina hyaluronová · původní vysvětlení vztahu k vodě a hydrataci.",
+              "new": "Kyselina hyaluronová · vztah k vodě a hydrataci.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Extrakt z kostivalu · původní popis zmiňuje alantoin.",
+              "new": "Extrakt z kostivalu · alantoin.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Extrakt z arniky · úplný původní popis vlastností rostliny.",
+              "new": "Extrakt z arniky · vlastnosti rostliny.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Liftonin®xpert · původní popis rostlinné aktivní látky.",
+              "new": "Liftonin®xpert · rostlinná aktivní látka.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Defensil® · zdroj jej popisuje jako výtažek z Albatrellus Ovinus.",
+              "new": "Defensil® · výtažek z Albatrellus Ovinus.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Informační karta · aplikace ráno, nikoli další složka.",
+              "new": "Jak používat · aplikace ráno.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "Návod uvádí aplikaci ráno na vyčištěnou pleť obličeje a krku. Úplný původní popis jednotlivých složek je dostupný přes tlačítka plus. Seznam INCI a omezení použití jsou zachované níže.",
+            "Návod uvádí aplikaci ráno na vyčištěnou pleť obličeje a krku. Úplný původní popis jednotlivých složek je dostupný přes tlačítka plus. Seznam INCI a omezení použití jsou zachované níže.",
+            "Kyselina hyaluronová · původní vysvětlení vztahu k vodě a hydrataci.",
+            "Extrakt z kostivalu · původní popis zmiňuje alantoin.",
+            "Extrakt z arniky · úplný původní popis vlastností rostliny.",
+            "Liftonin®xpert · původní popis rostlinné aktivní látky.",
+            "Defensil® · zdroj jej popisuje jako výtažek z Albatrellus Ovinus.",
+            "Informační karta · aplikace ráno, nikoli další složka.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena."
+          ],
+          "paragraphs_before": 50,
+          "paragraphs_after": 41,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 31,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": [
+            {
+              "id": "nad-info",
+              "original_paragraphs": [
+                "Návod uvádí aplikaci ráno na vyčištěnou pleť obličeje a krku. Úplný původní popis jednotlivých složek je dostupný přes tlačítka plus. Seznam INCI a omezení použití jsou zachované níže."
+              ],
+              "final_paragraphs": [
+                "Návod uvádí aplikaci ráno na vyčištěnou pleť obličeje a krku. Úplný popis jednotlivých složek je dostupný přes tlačítka plus. Seznam INCI a omezení použití jsou zachované níže."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-0",
+              "original_paragraphs": [
+                "Kyselina hyaluronová Je látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost. Pravidelné užívání kyseliny hyaluronové oddaluje vznik vrásek."
+              ],
+              "final_paragraphs": [
+                "Kyselina hyaluronová Je látka, která se přirozeně nachází a vytváří v našem těle. Její hlavní funkcí je zadržovat vodu, tedy hydratovat tkáně, a udržovat v nich dostatečnou vlhkost. Pomáhá vyživovat pokožku, která je poté zdravější a pružnější. Omezuje tak tvorbu vrásek a napomáhá regeneraci a celkovému omlazení pleti. Účinně pomáhá při hojení ran a bolesti kloubů, zlepšuje jejich pohyblivost. Pravidelné užívání kyseliny hyaluronové oddaluje vznik vrásek."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-1",
+              "original_paragraphs": [
+                "Symphytum Officinale (extrakt z kostivalu) Díky obsaženému alantoinu při pravidelném používání prokazatelně napomáhá k redukci jemných vrásek a pigmentových skvrn. Kostival má také vlastnosti, které pomáhají chránit a hydratovat kůži. Skvěle pečuje o suchou a podrážděnou pokožku, pomáhá ji zklidňovat a regenerovat."
+              ],
+              "final_paragraphs": [
+                "Symphytum Officinale (extrakt z kostivalu) Díky obsaženému alantoinu při pravidelném používání prokazatelně napomáhá k redukci jemných vrásek a pigmentových skvrn. Kostival má také vlastnosti, které pomáhají chránit a hydratovat kůži. Skvěle pečuje o suchou a podrážděnou pokožku, pomáhá ji zklidňovat a regenerovat."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-2",
+              "original_paragraphs": [
+                "Arnica Montana extrakt (extrakt z arniky) Má vynikající protizánětlivé účinky a je skvělým pomocníkem při léčbě zanícení pokožky či akné. Podporuje prokrvení a hojení poškozených tkání."
+              ],
+              "final_paragraphs": [
+                "Arnica Montana extrakt (extrakt z arniky) Má vynikající protizánětlivé účinky a je skvělým pomocníkem při léčbě zanícení pokožky či akné. Podporuje prokrvení a hojení poškozených tkání."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-3",
+              "original_paragraphs": [
+                "Šťáva z listů Bulbine Frutescens (jagavka kočičí) Je využívána pro své protizánětlivé účinky, ničí škodlivé bakterie, zmírňuje akné, ekzémy, hydratuje a zklidňuje podrážděnou a suchou pokožku."
+              ],
+              "final_paragraphs": [
+                "Šťáva z listů Bulbine Frutescens (jagavka kočičí) Je využívána pro své protizánětlivé účinky, ničí škodlivé bakterie, zmírňuje akné, ekzémy, hydratuje a zklidňuje podrážděnou a suchou pokožku."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-4",
+              "original_paragraphs": [
+                "Albatrellus Ovinus extrakt (krásnoporka mlynářka) Dokáže velmi rychle zmírnit nepříjemné pocity při podráždění u citlivé pleti. Chrání před tepelnými výkyvy a slunečním zářením."
+              ],
+              "final_paragraphs": [
+                "Albatrellus Ovinus extrakt (krásnoporka mlynářka) Dokáže velmi rychle zmírnit nepříjemné pocity při podráždění u citlivé pleti. Chrání před tepelnými výkyvy a slunečním zářením."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-5",
+              "original_paragraphs": [
+                "Liftonin®xpert Revoluční aktivní látka získávaná z rostliny s lidovým názvem kočičí ocásek. Některé zdroje dokonce uvádí, že je účinnější než aloe vera. Z rostlin je za přísných výrobních podmínek extrahována šťáva, která má prokazatelné omlazující účinky na pleť. Látky obsažené ve šťávě i v poměrně malé koncentraci aktivují produkci vysoce kvalitního kolagenu ve fibroblastech a navíc působí i jako výplň v již ztenčených vláknech."
+              ],
+              "final_paragraphs": [
+                "Liftonin®xpert Revoluční aktivní látka získávaná z rostliny s lidovým názvem kočičí ocásek. Některé zdroje dokonce uvádí, že je účinnější než aloe vera. Z rostlin je za přísných výrobních podmínek extrahována šťáva, která má prokazatelné omlazující účinky na pleť. Látky obsažené ve šťávě i v poměrně malé koncentraci aktivují produkci vysoce kvalitního kolagenu ve fibroblastech a navíc působí i jako výplň v již ztenčených vláknech."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-6",
+              "original_paragraphs": [
+                "Defensil® Aktivní látka normalizující citlivou pokožku. Jedná se o výtažek z jedlé houby Albatrellus Ovinus. Výrazně eliminuje potíže spojené s citlivou pokožkou a snižuje projevy atopického ekzému. Přispívá k redukci vrásek a zvyšuje elasticitu pokožky. Chrání a regeneruje narušenou kožní bariéru."
+              ],
+              "final_paragraphs": [
+                "Defensil® Aktivní látka normalizující citlivou pokožku. Jedná se o výtažek z jedlé houby Albatrellus Ovinus. Výrazně eliminuje potíže spojené s citlivou pokožkou a snižuje projevy atopického ekzému. Přispívá k redukci vrásek a zvyšuje elasticitu pokožky. Chrání a regeneruje narušenou kožní bariéru."
+              ]
+            },
+            {
+              "id": "gl-99-ingredient-7",
+              "original_paragraphs": [
+                "Citric Acid Je významnou složkou anti-aging produktů kvůli její schopnosti regenerace pokožky. Pleť čistí, zpevňuje a bojuje proti pigmentovým skvrnám. Má antibakteriální a antimykotické účinky."
+              ],
+              "final_paragraphs": [
+                "Citric Acid Je významnou složkou anti-aging produktů kvůli její schopnosti regenerace pokožky. Pleť čistí, zpevňuje a bojuje proti pigmentovým skvrnám. Má antibakteriální a antimykotické účinky."
+              ]
+            },
+            {
+              "id": "gl-99-info-0",
+              "original_paragraphs": [
+                "Návod uvádí aplikaci ráno na vyčištěnou pleť obličeje a krku. Úplný původní popis jednotlivých složek je dostupný přes tlačítka plus. Seznam INCI a omezení použití jsou zachované níže."
+              ],
+              "final_paragraphs": [
+                "Návod uvádí aplikaci ráno na vyčištěnou pleť obličeje a krku. Úplný popis jednotlivých složek je dostupný přes tlačítka plus. Seznam INCI a omezení použití jsou zachované níže."
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "short",
+          "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+          "sha256": "d3ee890279690a92eff109c384a93ebc4ef863ea026dc33c899289606043de62",
+          "source_sha256": "440cc42d46d5d7db529d234f139d2eaf218f7e66aa8a2e751a3b13039cade58f",
+          "edits": [
+            {
+              "old": "<aside class=\"gl-draft-note\" role=\"note\"><strong>INTERNÍ NESCHVÁLENÝ NÁVRH — NEPUBLIKOVAT.</strong> Původní popisy účinků a piktogramy jsou zachovány pro obsahovou kontrolu; jejich převzetí není schválením tvrzení. Rozpory a návrhy neutrálního znění jsou v samostatném QA přehledu.</aside>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [],
+          "paragraphs_before": 2,
+          "paragraphs_after": 2,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 5,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": []
+        }
+      ]
+    },
+    {
+      "id": "84",
+      "product": "Vitamín C",
+      "checks": [
+        {
+          "kind": "long",
+          "path": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+          "sha256": "73f23db5e18458965f4e2be128ad80dc85f19ed19f9e048be95a7b570becfb97",
+          "source_sha256": "efb43724e03e1620cf6a0bb8f605b246efc4ce0167ea1cb198983a82d76a9d3b",
+          "edits": [
+            {
+              "old": "<aside class=\"gl-draft-note\" role=\"note\"><strong>INTERNÍ NESCHVÁLENÝ NÁVRH — NEPUBLIKOVAT.</strong> Původní popisy účinků a piktogramy jsou zachovány pro obsahovou kontrolu; jejich převzetí není schválením tvrzení. Rozpory a návrhy neutrálního znění jsou v samostatném QA přehledu.</aside>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Balení obsahuje 90 tobolek; původní návod uvádí jednu kapsli jednou denně.",
+              "new": "Balení obsahuje 90 tobolek; užívejte jednu kapsli jednou denně.",
+              "count": 2,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Zdroj popisuje vitamín C jako kyselinu L-askorbovou a uvádí postupné uvolňování během 12 hodin. Toto technologické tvrzení ani původní doporučení pro těhotné a kojící nebylo v rámci vizuální migrace ověřeno. Složení uvádí pomocné látky bez jejich názvů.",
+              "new": "Vitamín C (kyselina L-askorbová) s postupným uvolňováním během 12 hodin.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Informační karta · 90 tobolek, nikoli další látka.",
+              "new": "Balení · 90 tobolek.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Balení obsahuje 90 tobolek. Zdroj uvádí: Vitamín C (kyselina L-askorbová), pomocné látky.",
+              "new": "Balení obsahuje 90 tobolek. Složení: Vitamín C (kyselina L-askorbová), pomocné látky.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Názvy pomocných látek zdroj neobsahuje. Rozhodující je úplné složení na obalu.",
+              "new": "Úplné složení je uvedeno na obalu.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "vitamínu C dle názvu produktu",
+              "new": "vitamínu C",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "500 mg dle názvu produktu.",
+              "new": "500 mg.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "Vitamín C 500 mg s postupným uvolňováním v tobolkách. Doplněk stravy. Balení obsahuje 90 tobolek; původní návod uvádí jednu kapsli jednou denně.",
+            "Vitamín C 500 mg s postupným uvolňováním v tobolkách. Doplněk stravy. Balení obsahuje 90 tobolek; původní návod uvádí jednu kapsli jednou denně.",
+            "Zdroj popisuje vitamín C jako kyselinu L-askorbovou a uvádí postupné uvolňování během 12 hodin. Toto technologické tvrzení ani původní doporučení pro těhotné a kojící nebylo v rámci vizuální migrace ověřeno. Složení uvádí pomocné látky bez jejich názvů.",
+            "Kyselina L-askorbová; 500 mg dle názvu produktu.",
+            "Informační karta · 90 tobolek, nikoli další látka.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Balení obsahuje 90 tobolek. Zdroj uvádí: Vitamín C (kyselina L-askorbová), pomocné látky.",
+            "Názvy pomocných látek zdroj neobsahuje. Rozhodující je úplné složení na obalu."
+          ],
+          "paragraphs_before": 31,
+          "paragraphs_after": 28,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 15,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": [
+            {
+              "id": "nad-info",
+              "original_paragraphs": [
+                "Zdroj popisuje vitamín C jako kyselinu L-askorbovou a uvádí postupné uvolňování během 12 hodin. Toto technologické tvrzení ani původní doporučení pro těhotné a kojící nebylo v rámci vizuální migrace ověřeno. Složení uvádí pomocné látky bez jejich názvů."
+              ],
+              "final_paragraphs": [
+                "Vitamín C (kyselina L-askorbová) s postupným uvolňováním během 12 hodin."
+              ]
+            },
+            {
+              "id": "gl-84-ingredient-0",
+              "original_paragraphs": [
+                "Přispívá k normální funkci imunitního systému, k tvorbě kolagenu a k ochraně buněk před oxidačním stresem. Podporuje energetický metabolismus."
+              ],
+              "final_paragraphs": [
+                "Přispívá k normální funkci imunitního systému, k tvorbě kolagenu a k ochraně buněk před oxidačním stresem. Podporuje energetický metabolismus."
+              ]
+            },
+            {
+              "id": "gl-84-info-0",
+              "original_paragraphs": [
+                "1 kapsle 1× denně.",
+                "Návod a plná upozornění jsou také v části Jak užívat."
+              ],
+              "final_paragraphs": [
+                "1 kapsle 1× denně.",
+                "Návod a plná upozornění jsou také v části Jak užívat."
+              ]
+            },
+            {
+              "id": "gl-84-info-1",
+              "original_paragraphs": [
+                "Balení obsahuje 90 tobolek. Zdroj uvádí: Vitamín C (kyselina L-askorbová), pomocné látky.",
+                "Názvy pomocných látek zdroj neobsahuje. Rozhodující je úplné složení na obalu."
+              ],
+              "final_paragraphs": [
+                "Balení obsahuje 90 tobolek. Složení: Vitamín C (kyselina L-askorbová), pomocné látky.",
+                "Úplné složení je uvedeno na obalu."
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "short",
+          "path": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+          "sha256": "7d2ddafd593ea43043f2a1654b8ecf0a8e52bf4b15e2f05c484de53f5669aa79",
+          "source_sha256": "b76d0460209485f8764e05396edcc269f9eef11f102feafe1dfb6899d37979b9",
+          "edits": [
+            {
+              "old": "<aside class=\"gl-draft-note\" role=\"note\"><strong>INTERNÍ NESCHVÁLENÝ NÁVRH — NEPUBLIKOVAT.</strong> Původní popisy účinků a piktogramy jsou zachovány pro obsahovou kontrolu; jejich převzetí není schválením tvrzení. Rozpory a návrhy neutrálního znění jsou v samostatném QA přehledu.</aside>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Balení obsahuje 90 tobolek; původní návod uvádí jednu kapsli jednou denně.",
+              "new": "Balení obsahuje 90 tobolek; užívejte jednu kapsli jednou denně.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "Vitamín C 500 mg s postupným uvolňováním v tobolkách. Doplněk stravy. Balení obsahuje 90 tobolek; původní návod uvádí jednu kapsli jednou denně."
+          ],
+          "paragraphs_before": 4,
+          "paragraphs_after": 4,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 5,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": []
+        }
+      ]
+    },
+    {
+      "id": "357",
+      "product": "Xpress Hair Grow s biotinem",
+      "checks": [
+        {
+          "kind": "long",
+          "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+          "sha256": "d498266e2d1db7011e43f41aaf717585925178bd5c8389cacdb632a940bcd9c9",
+          "source_sha256": "2fde0d29d6aa28fcdf62a5d652ee34084ec9ac23832798a4574e99f6c15b634e",
+          "edits": [
+            {
+              "old": "<aside class=\"gl-draft-note\" role=\"note\"><strong>INTERNÍ NESCHVÁLENÝ NÁVRH — NEPUBLIKOVAT.</strong> Původní popisy účinků a piktogramy jsou zachovány pro obsahovou kontrolu; jejich převzetí není schválením tvrzení. Rozpory a návrhy neutrálního znění jsou v samostatném QA přehledu.</aside>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "<p class=\"gl-source-note\">Původní zdrojový text — interní, tvrzení neschválena.</p>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Tobolky s biotinem, aminokyselinami, vitamíny a dalšími složkami uvedenými v původní tabulce. Doplněk stravy. Jednotlivé zdrojové skupiny a jejich úplné vysvětlení jsou zachované níže.",
+              "new": "Tobolky s biotinem, aminokyselinami, vitamíny a dalšími složkami uvedenými v tabulce. Doplněk stravy. Úplné vysvětlení jednotlivých složek naleznete níže.",
+              "count": 2,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": " Původní slovní složení a tabulka se liší; bez ověření obalu je neslučujeme do nové receptury.",
+              "new": "",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Přesná množství původní tabulky jsou zachována v oddílu Složení.",
+              "new": "Přesná množství jsou uvedena v oddílu Složení.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "67 g dle krátkého popisu",
+              "new": "67 g",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Slovní složení zmiňuje přesličku a vitamín E, ale jejich množství tabulka neuvádí; tabulka naopak obsahuje další složky. Úplnou recepturu je nutné ověřit na obalu.",
+              "new": "Úplné složení je uvedeno na obalu.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Informační karta · tabulka a návod, nikoli šestá látka.",
+              "new": "Složení a dávkování · tabulka a návod.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Rozpor v původním zdroji: krátký popis uvádí 60 tobolek, následující věta uvádí 45 dní. Přebíráme ji pouze pro kontrolu, nikoli jako ověřenou výdrž balení.",
+              "new": "",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            },
+            {
+              "old": "Zdrojový rozpor: slovní složení a následující tabulka nejsou shodné. Tabulka uvádí rybí kolagen; při alergii na některou ze složek se řiďte upozorněním. Úplnou recepturu včetně alergenů je nutné ověřit na obalu.",
+              "new": "Tabulka uvádí rybí kolagen; při alergii na některou ze složek se řiďte upozorněním. Úplné složení včetně alergenů je uvedeno na obalu.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "Tobolky s biotinem, aminokyselinami, vitamíny a dalšími složkami uvedenými v původní tabulce. Doplněk stravy. Jednotlivé zdrojové skupiny a jejich úplné vysvětlení jsou zachované níže.",
+            "Tobolky s biotinem, aminokyselinami, vitamíny a dalšími složkami uvedenými v původní tabulce. Doplněk stravy. Jednotlivé zdrojové skupiny a jejich úplné vysvětlení jsou zachované níže.",
+            "Tabulka uvádí 2 500 mcg biotinu v jedné tobolce a 5 000 mcg ve dvou tobolkách. Denní užívání je dvě tobolky, ráno a odpoledne. Původní slovní složení a tabulka se liší; bez ověření obalu je neslučujeme do nové receptury.",
+            "Informační karta · tabulka a návod, nikoli šestá látka.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Původní zdrojový text — interní, tvrzení neschválena.",
+            "Doporučené užívání: dvě tobolky denně. Přesná množství původní tabulky jsou zachována v oddílu Složení.",
+            "Slovní složení zmiňuje přesličku a vitamín E, ale jejich množství tabulka neuvádí; tabulka naopak obsahuje další složky. Úplnou recepturu je nutné ověřit na obalu.",
+            "Rozpor v původním zdroji: krátký popis uvádí 60 tobolek, následující věta uvádí 45 dní. Přebíráme ji pouze pro kontrolu, nikoli jako ověřenou výdrž balení.",
+            "Zdrojový rozpor: slovní složení a následující tabulka nejsou shodné. Tabulka uvádí rybí kolagen; při alergii na některou ze složek se řiďte upozorněním. Úplnou recepturu včetně alergenů je nutné ověřit na obalu."
+          ],
+          "paragraphs_before": 48,
+          "paragraphs_after": 40,
+          "table_cells_preserved": 55,
+          "image_attributes_preserved": 24,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": [
+            {
+              "id": "nad-info",
+              "original_paragraphs": [
+                "Tabulka uvádí 2 500 mcg biotinu v jedné tobolce a 5 000 mcg ve dvou tobolkách. Denní užívání je dvě tobolky, ráno a odpoledne. Původní slovní složení a tabulka se liší; bez ověření obalu je neslučujeme do nové receptury."
+              ],
+              "final_paragraphs": [
+                "Tabulka uvádí 2 500 mcg biotinu v jedné tobolce a 5 000 mcg ve dvou tobolkách. Denní užívání je dvě tobolky, ráno a odpoledne."
+              ]
+            },
+            {
+              "id": "gl-357-info-composition",
+              "original_paragraphs": [
+                "Doporučené užívání: dvě tobolky denně. Přesná množství původní tabulky jsou zachována v oddílu Složení.",
+                "Slovní složení zmiňuje přesličku a vitamín E, ale jejich množství tabulka neuvádí; tabulka naopak obsahuje další složky. Úplnou recepturu je nutné ověřit na obalu."
+              ],
+              "final_paragraphs": [
+                "Doporučené užívání: dvě tobolky denně. Přesná množství jsou uvedena v oddílu Složení.",
+                "Úplné složení je uvedeno na obalu."
+              ]
+            },
+            {
+              "id": "lm-methionin",
+              "original_paragraphs": [
+                "Obě aminokyseliny hrají klíčovou roli pro zdraví vlasů, nehtů a pleti. Methionin je základní složkou proteinu keratinu, který je nezbytný pro vlasy, kůži a nehty. Cystein podporuje ochranu buněk před oxidačním stresem."
+              ],
+              "final_paragraphs": [
+                "Obě aminokyseliny hrají klíčovou roli pro zdraví vlasů, nehtů a pleti. Methionin je základní složkou proteinu keratinu, který je nezbytný pro vlasy, kůži a nehty. Cystein podporuje ochranu buněk před oxidačním stresem."
+              ]
+            },
+            {
+              "id": "lm-preslicka",
+              "original_paragraphs": [
+                "Rostlina s vysokým obsahem kyseliny křemité, přispívající k celkovému zdraví vlasů, pokožky a nehtů."
+              ],
+              "final_paragraphs": [
+                "Rostlina s vysokým obsahem kyseliny křemité, přispívající k celkovému zdraví vlasů, pokožky a nehtů."
+              ]
+            },
+            {
+              "id": "lm-vitcae",
+              "original_paragraphs": [
+                "Antioxidanty, které chrání buňky před volnými radikály a oxidačním stresem. Vitamín C je klíčový pro tvorbu kolagenu, zatímco vitamín E hydratuje pokožku."
+              ],
+              "final_paragraphs": [
+                "Antioxidanty, které chrání buňky před volnými radikály a oxidačním stresem. Vitamín C je klíčový pro tvorbu kolagenu, zatímco vitamín E hydratuje pokožku."
+              ]
+            },
+            {
+              "id": "lm-zinek",
+              "original_paragraphs": [
+                "Základní prvek potřebný pro regeneraci a tvorbu kolagenu, posilující vlasy a pleť."
+              ],
+              "final_paragraphs": [
+                "Základní prvek potřebný pro regeneraci a tvorbu kolagenu, posilující vlasy a pleť."
+              ]
+            },
+            {
+              "id": "lm-bkomplex",
+              "original_paragraphs": [
+                "Podporuje zdraví pokožky, vlasů a nehtů, snižuje únavu a vyčerpání."
+              ],
+              "final_paragraphs": [
+                "Podporuje zdraví pokožky, vlasů a nehtů, snižuje únavu a vyčerpání."
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "short",
+          "path": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+          "sha256": "598e4e0c28a16ae7384cf96023aed680147a7d7f96f2c1e61f248b998434cfa8",
+          "source_sha256": "e562fd7a3bcd956a2a7d366bda5eecd1e7d59e7170a8ba601d3a24b476387b72",
+          "edits": [
+            {
+              "old": "<aside class=\"gl-draft-note\" role=\"note\"><strong>INTERNÍ NESCHVÁLENÝ NÁVRH — NEPUBLIKOVAT.</strong> Původní popisy účinků a piktogramy jsou zachovány pro obsahovou kontrolu; jejich převzetí není schválením tvrzení. Rozpory a návrhy neutrálního znění jsou v samostatném QA přehledu.</aside>",
+              "new": "",
+              "reason": "internal editorial/legal workflow notice"
+            },
+            {
+              "old": "Tobolky s biotinem, aminokyselinami, vitamíny a dalšími složkami uvedenými v původní tabulce. Doplněk stravy. Jednotlivé zdrojové skupiny a jejich úplné vysvětlení jsou zachované níže.",
+              "new": "Tobolky s biotinem, aminokyselinami, vitamíny a dalšími složkami uvedenými v tabulce. Doplněk stravy. Úplné vysvětlení jednotlivých složek naleznete níže.",
+              "count": 1,
+              "reason": "remove editorial wording; keep product facts and safety"
+            }
+          ],
+          "removed_or_rephrased_paragraphs": [
+            "Tobolky s biotinem, aminokyselinami, vitamíny a dalšími složkami uvedenými v původní tabulce. Doplněk stravy. Jednotlivé zdrojové skupiny a jejich úplné vysvětlení jsou zachované níže."
+          ],
+          "paragraphs_before": 3,
+          "paragraphs_after": 3,
+          "table_cells_preserved": 0,
+          "image_attributes_preserved": 5,
+          "scripts_byte_preserved_except_enumerated_runtime_edits": true,
+          "dialogs": []
+        }
+      ]
+    }
+  ],
+  "shared_dependencies_unchanged": true,
+  "scope": "Local only; no Git/web/CMS publication. Source is parent-provided pinned remote snapshot."
+}

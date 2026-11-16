@@ -1,0 +1,738 @@
+{
+  "remote_parent": "062f000c40da4c5489d214bba35c9abb8dcfa3f3",
+  "prepared_source_commit": "a5bb8abb7cc36fe702c3a1441e456417b15d0f4e",
+  "files": [
+    {
+      "id": "51",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "upstream_git_blob": "f650af61c2c4988e1e79373ac6fb7d215aa0813f",
+      "upstream_sha256": "6fc37979b93ca47486f4f2c1a02ef7e861ffcbc8ddcbe6aa73c88c3c3723358b",
+      "previous_tested_sha256": "6682226c157fa5c58f5c5f84d55bfc23ea8310e5348df23f3982b41bf2aad678",
+      "merged_sha256": "c0b20b14f40cf1870f2e22cde94a81b084eb0935a280f7bfc3919c2b5a3bdc70",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/slim.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a1ce80cdad1f-slim.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "51",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "upstream_git_blob": "fc4a5bd1bc136d06514ef4fca98c86af6363c492",
+      "upstream_sha256": "eadd84283e1a544e11cc2a1cd4e2984d06429fa7641beca88693dadd5acb98de",
+      "previous_tested_sha256": "be773a0fa28f5dbfd046c603fffa14b7e5f83c05aa7345de746a3181e5060985",
+      "merged_sha256": "afffc333a586220809c63cdccecadde99e96b0620f4c4c98f1d74c18b397188a",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/traveni.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/pamet.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detoxikace.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "51",
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css",
+      "upstream_git_blob": "21e7b0dc20305790c20a7b478a43a6567c3c7a9c",
+      "upstream_sha256": "4ff7e799274046dc096ab10db4fd691ffdf16d800ef11dc8942fc8ae81bf439e",
+      "previous_tested_sha256": "4ff7e799274046dc096ab10db4fd691ffdf16d800ef11dc8942fc8ae81bf439e",
+      "merged_sha256": "4ff7e799274046dc096ab10db4fd691ffdf16d800ef11dc8942fc8ae81bf439e",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "452",
+      "kind": "long",
+      "path": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+      "upstream_git_blob": "d7adc3871bb0d8c4049d85ee66257ee9a058eb85",
+      "upstream_sha256": "c1d93021beadf5f652a1476770ea9b6bf6872e418126f2115dbad6f044de72de",
+      "previous_tested_sha256": "c46295172a2c855a8e5328eb8d47d0e4e0544bb03b79a43af69aadb7733d212d",
+      "merged_sha256": "ae5965f56aa8f396e8848a08c1e59e16d84c96e72afc7d5679c511edca7623f5",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "452",
+      "kind": "short",
+      "path": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+      "upstream_git_blob": "e9896ce2f7b5fc492d4d847e22dba4038949775c",
+      "upstream_sha256": "bac0a4b86d5f40130c0fc188a805ef757324969bfb3b1bd1c7b03254432ac027",
+      "previous_tested_sha256": "c8aefe98d93e3df387dd5614ff957f83a1eff5e33ff16ab5917f542281e721bd",
+      "merged_sha256": "c8aefe98d93e3df387dd5614ff957f83a1eff5e33ff16ab5917f542281e721bd",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "452",
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-bikini-body.css",
+      "upstream_git_blob": "fb8ff9764b25a6b407ac4735b6260d6fbf5e3560",
+      "upstream_sha256": "a902ae39d51b3f737576aa88ba1aa870aea856b6392aba18eac592a46df7a1aa",
+      "previous_tested_sha256": "177f28790cb51b4f8e514b6ed6ba9caaa41000d114bbfaf5f50fc02b81ae797d",
+      "merged_sha256": "177f28790cb51b4f8e514b6ed6ba9caaa41000d114bbfaf5f50fc02b81ae797d",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "57",
+      "kind": "long",
+      "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "upstream_git_blob": "d9c865ecd54c3a33625c38aedf8f1693e624139c",
+      "upstream_sha256": "b5844c2c73e7e41fb3f8be434909f1100f47e934123806c75426a22766109bcc",
+      "previous_tested_sha256": "03d93f2f2b553a510f7bab4c2c30ff364699304688d1da095a475a8f2e60ab3c",
+      "merged_sha256": "3ced11fb7a844d0e80591f7f81b397ae482121e91d5c86567145cefafdbf6779",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "57",
+      "kind": "short",
+      "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "upstream_git_blob": "90b2b92c1166f1acfa9c2a98648795262d512e8e",
+      "upstream_sha256": "3d1120c3bec48e2b56daaf769ebb34e916b382b12ad494848ee0363975adba89",
+      "previous_tested_sha256": "6de2a4a67797821e24c35c8d907481086208532bf79dc64e36c2c9b00d393252",
+      "merged_sha256": "6de2a4a67797821e24c35c8d907481086208532bf79dc64e36c2c9b00d393252",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "57",
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css",
+      "upstream_git_blob": "af56ab6b190e5d95f8041dda03f000f35d13e4df",
+      "upstream_sha256": "b2f278af2267bce44bceb2837425f134164a29f14dc424c3747dcfac6bfe0e46",
+      "previous_tested_sha256": "b2f278af2267bce44bceb2837425f134164a29f14dc424c3747dcfac6bfe0e46",
+      "merged_sha256": "b2f278af2267bce44bceb2837425f134164a29f14dc424c3747dcfac6bfe0e46",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "99",
+      "kind": "long",
+      "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "upstream_git_blob": "975231b7977b0b02edbc95ad3747c11f09c8f1bf",
+      "upstream_sha256": "510ebaf1e3ff48689c34f558f9d930cbb07cb4c89c0e88622289e6b142dd42b3",
+      "previous_tested_sha256": "8ef6978118cf76a9092088bbb700e994c65ae552b3c65895d00f9d3ae1fa5c8b",
+      "merged_sha256": "fe1ed2c131c664b2ce7db2129d7ecc843a770577f6f4f499edf860e8a37f1729",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hydratace.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0ecec09acea6-hydratace.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free-golden.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "99",
+      "kind": "short",
+      "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "upstream_git_blob": "2cebd809dcad0d7a443632ee14b1cdec592c2cc6",
+      "upstream_sha256": "15aa77a4676480d5b5420feb08d03fc24d703fb16cf1fc188bc130fee09c1d4f",
+      "previous_tested_sha256": "d3ee890279690a92eff109c384a93ebc4ef863ea026dc33c899289606043de62",
+      "merged_sha256": "4072dfe82c9c22ced030c42859fc8851fd10ccb6482bb942e2b4fee639b73968",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/textura.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Rozjasnění nové.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zkliňuje podrážděnou pleť.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "99",
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-miracle-drops.css",
+      "upstream_git_blob": "e2fe93b9152f008e32b1b098033b336c19338256",
+      "upstream_sha256": "3f90e4c5129fa980d449ca3d9667bfd9f1f17f0164752ffe158911baca1a83a3",
+      "previous_tested_sha256": "3f90e4c5129fa980d449ca3d9667bfd9f1f17f0164752ffe158911baca1a83a3",
+      "merged_sha256": "3f90e4c5129fa980d449ca3d9667bfd9f1f17f0164752ffe158911baca1a83a3",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "84",
+      "kind": "long",
+      "path": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+      "upstream_git_blob": "bca3cc0c99bc28bff9b971af7cf8743f9b78b1c4",
+      "upstream_sha256": "a7fb8dee2cba27e789b8a5e4d1b9be32ba40055040f6fbb23b9c5f82d3613ac2",
+      "previous_tested_sha256": "73f23db5e18458965f4e2be128ad80dc85f19ed19f9e048be95a7b570becfb97",
+      "merged_sha256": "644d96f9ead1793353fdfe87e2bd46fa3ea57a462d202906fdedfb790c286749",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/imunita2.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cukr.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tabletky-uvolnovani.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "84",
+      "kind": "short",
+      "path": "web/Golden Life Vitamin C/maly/Golden-Life-Vitamin-C-maly-cz.html",
+      "upstream_git_blob": "cfd533845700fc84f14a4af3857bfe3112904914",
+      "upstream_sha256": "871a406c45f6749a1277464f5bd4579653913b5b051b037d927a29cced8453b9",
+      "previous_tested_sha256": "7d2ddafd593ea43043f2a1654b8ecf0a8e52bf4b15e2f05c484de53f5669aa79",
+      "merged_sha256": "609ac27a4b078c30deb938e0cdf4ec7713dcb4d241e96b5cabb28ede4bc35611",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/psychcka pohoda.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/59fa429595d8-psychcka-pohoda.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy//klouby.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50d21688a9bd-klouby.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/tehotenstvi.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "84",
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-vitamin-c.css",
+      "upstream_git_blob": "cb923e9f04a8fa3a6f36dd64c64a89e92ab56833",
+      "upstream_sha256": "f1b62aae679ffe9543d77bbf3e21ddfabc5e3d06158b88243e6d3622caa9a93d",
+      "previous_tested_sha256": "f1b62aae679ffe9543d77bbf3e21ddfabc5e3d06158b88243e6d3622caa9a93d",
+      "merged_sha256": "f1b62aae679ffe9543d77bbf3e21ddfabc5e3d06158b88243e6d3622caa9a93d",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "357",
+      "kind": "long",
+      "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+      "upstream_git_blob": "29bc2affec617692e0933cf367d5c5f2d7790779",
+      "upstream_sha256": "58d3cfb1126d1050f62a0657f785435bb896505ab3f7b2a451d22bd97e6335cb",
+      "previous_tested_sha256": "d498266e2d1db7011e43f41aaf717585925178bd5c8389cacdb632a940bcd9c9",
+      "merged_sha256": "340e8fa3ce1907dfb0859b3ad6f3ce453ebe850d6414e8378de6a74107733f70",
+      "url_replacements": {
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vlasy.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bfd63cb4e64a-vlasy.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/nehty.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/plet.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Silné a rychle rostoucí vlasy.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/842f1ddeb824-Siln-a-rychle-rostouc-vlasy.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikonaCZ.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/gluten free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/GMO free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/additives free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/lactose free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+        "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/neobsahuje/sugar free.png": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png"
+      },
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "357",
+      "kind": "short",
+      "path": "web/Golden Life Xpress Hair Grow/maly/Golden-Life-Xpress-Hair-Grow-maly-cz.html",
+      "upstream_git_blob": "c90902ffda1e24d2b538e1635b41eba17c70c072",
+      "upstream_sha256": "e562fd7a3bcd956a2a7d366bda5eecd1e7d59e7170a8ba601d3a24b476387b72",
+      "previous_tested_sha256": "598e4e0c28a16ae7384cf96023aed680147a7d7f96f2c1e61f248b998434cfa8",
+      "merged_sha256": "598e4e0c28a16ae7384cf96023aed680147a7d7f96f2c1e61f248b998434cfa8",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    },
+    {
+      "id": "357",
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-xpress-hair-grow.css",
+      "upstream_git_blob": "bac029e4a610f3d1d6b7da3738d47e213bc7d071",
+      "upstream_sha256": "b1b72b05de4f08fa8d55fb52f849adca31c6aa6fcf469e50dbd6f47d75a300db",
+      "previous_tested_sha256": "b1b72b05de4f08fa8d55fb52f849adca31c6aa6fcf469e50dbd6f47d75a300db",
+      "merged_sha256": "b1b72b05de4f08fa8d55fb52f849adca31c6aa6fcf469e50dbd6f47d75a300db",
+      "url_replacements": {},
+      "reverse_merge_exact_prepared": true
+    }
+  ],
+  "upstream_assets": [
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/064b8fa04429b1d4a7da8eaa1464dbedcad32acd513a21af2eb6e6478dd2a390",
+      "sha256": "064b8fa04429b1d4a7da8eaa1464dbedcad32acd513a21af2eb6e6478dd2a390",
+      "size": [
+        143,
+        143
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/064b8fa04429-additives-free.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/0dda24fa262457c806a5c60ba0cf70a959c4eaf511cb558e48a6d4fce98117af",
+      "sha256": "0dda24fa262457c806a5c60ba0cf70a959c4eaf511cb558e48a6d4fce98117af",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/0dda24fa2624-pamet.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0ecec09acea6-hydratace.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/0ecec09acea62babaa2c759a28c5d1ef96a33ad239278a3209ec3643323de4b1",
+      "sha256": "0ecec09acea62babaa2c759a28c5d1ef96a33ad239278a3209ec3643323de4b1",
+      "size": [
+        140,
+        140
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/0ecec09acea6-hydratace.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/0fbae983034a1c8306a7f8e77340bd2261172c240d321fcef177931c23da188c",
+      "sha256": "0fbae983034a1c8306a7f8e77340bd2261172c240d321fcef177931c23da188c",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/0fbae983034a-traveni.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/146b08cff02348b6f811643d460a0541cfe15b05629d0cc835b60a4cc5135a2b",
+      "sha256": "146b08cff02348b6f811643d460a0541cfe15b05629d0cc835b60a4cc5135a2b",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/146b08cff023-detoxikace.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/1aff08316aa20a3cf72d1930f19a001e073dbbe7bb77e223830c2630adff5b04",
+      "sha256": "1aff08316aa20a3cf72d1930f19a001e073dbbe7bb77e223830c2630adff5b04",
+      "size": [
+        143,
+        143
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/1aff08316aa2-additives-free-golden.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/30a0cddc4d5dbc7b0f37e4eec6e2054041494624f5c126fe316614b9dbbdc615",
+      "sha256": "30a0cddc4d5dbc7b0f37e4eec6e2054041494624f5c126fe316614b9dbbdc615",
+      "size": [
+        142,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/30a0cddc4d5d-lactose-free-golden.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/31612ce1e3c2eb7d8f58da8307dc121b11cce5373b527428f54cbc08e77659d9",
+      "sha256": "31612ce1e3c2eb7d8f58da8307dc121b11cce5373b527428f54cbc08e77659d9",
+      "size": [
+        279,
+        279
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/31612ce1e3c2-ikonaCZ.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/3e5e4fc00733f484681bf03fb035d7704bfe1a94d79a7c6626c2b7abd149cd94",
+      "sha256": "3e5e4fc00733f484681bf03fb035d7704bfe1a94d79a7c6626c2b7abd149cd94",
+      "size": [
+        557,
+        557
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/3e5e4fc00733-cukr.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/5065266ca688abf84f0edbfa0f1047a85db13c7cf101e8bd8c7f55dc7d2277ff",
+      "sha256": "5065266ca688abf84f0edbfa0f1047a85db13c7cf101e8bd8c7f55dc7d2277ff",
+      "size": [
+        143,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/5065266ca688-sugar-free-golden.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/50d21688a9bd-klouby.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/50d21688a9bdd946b181c7ae287fcf02870af2916b461d8ba0a88a74829d93c5",
+      "sha256": "50d21688a9bdd946b181c7ae287fcf02870af2916b461d8ba0a88a74829d93c5",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/50d21688a9bd-klouby.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/51561d73401dff0f89ce055ae800391a75a4f5aa7ab6ee72448cfeeee26dd69a",
+      "sha256": "51561d73401dff0f89ce055ae800391a75a4f5aa7ab6ee72448cfeeee26dd69a",
+      "size": [
+        142,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/51561d73401d-lactose-free.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/5873860f19345a4a24b57ca82cd46b79a6572c87e3d52e2cfd73c1f3eb345873",
+      "sha256": "5873860f19345a4a24b57ca82cd46b79a6572c87e3d52e2cfd73c1f3eb345873",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/5873860f1934-imunita.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/59fa429595d8-psychcka-pohoda.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/59fa429595d8b663b7c323ca99e52ab6262517b0bd7826a762fda5047553a98e",
+      "sha256": "59fa429595d8b663b7c323ca99e52ab6262517b0bd7826a762fda5047553a98e",
+      "size": [
+        140,
+        140
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/59fa429595d8-psychcka-pohoda.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/67d1766118c134d7fd2cecf41dc81597b697d5b0a960ea84207d487253c17155",
+      "sha256": "67d1766118c134d7fd2cecf41dc81597b697d5b0a960ea84207d487253c17155",
+      "size": [
+        140,
+        140
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/67d1766118c1-Zkli-uje-podr-d-nou-ple.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/7ae4e0b2b43c3c56798121251e02cb4068ef971dc820a005457c349297e98feb",
+      "sha256": "7ae4e0b2b43c3c56798121251e02cb4068ef971dc820a005457c349297e98feb",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/7ae4e0b2b43c-imunita2.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/83058538b4a6c3b008c90a1dc04f851f6469418a1e3ba055b20c28a434668431",
+      "sha256": "83058538b4a6c3b008c90a1dc04f851f6469418a1e3ba055b20c28a434668431",
+      "size": [
+        142,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/83058538b4a6-GMO-free-golden.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/842f1ddeb824-Siln-a-rychle-rostouc-vlasy.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/842f1ddeb8244109c6a7f3ed33aadc15c0b690d7f04276ba9aca0e97890ef8c9",
+      "sha256": "842f1ddeb8244109c6a7f3ed33aadc15c0b690d7f04276ba9aca0e97890ef8c9",
+      "size": [
+        140,
+        140
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/842f1ddeb824-Siln-a-rychle-rostouc-vlasy.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/8d3836ff0516e9cb501e0286170ab87d192f18218bfdf5b72b745e784a255f11",
+      "sha256": "8d3836ff0516e9cb501e0286170ab87d192f18218bfdf5b72b745e784a255f11",
+      "size": [
+        1002,
+        1003
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/8d3836ff0516-Rozjasn-n-nov.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a1ce80cdad1f-slim.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/a1ce80cdad1f1c469c664b81c8233bb44a657d48234f224c361cbc6cfa00dfc5",
+      "sha256": "a1ce80cdad1f1c469c664b81c8233bb44a657d48234f224c361cbc6cfa00dfc5",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/a1ce80cdad1f-slim.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/a7e585dd2449c3ff90becbe480152c3b3a4cd0fa78fa98bab4a4c5534fb9ea35",
+      "sha256": "a7e585dd2449c3ff90becbe480152c3b3a4cd0fa78fa98bab4a4c5534fb9ea35",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/a7e585dd2449-nehty.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/bfd63cb4e64a-vlasy.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/bfd63cb4e64abdbd25869e64b0052768c3e0df480d0bcf57d3dde853a5c78aeb",
+      "sha256": "bfd63cb4e64abdbd25869e64b0052768c3e0df480d0bcf57d3dde853a5c78aeb",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/bfd63cb4e64a-vlasy.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/c43e9c0cfbde7e5149f68bbc67122ea71edc7ee1caa1e89153b90c46b9b5865a",
+      "sha256": "c43e9c0cfbde7e5149f68bbc67122ea71edc7ee1caa1e89153b90c46b9b5865a",
+      "size": [
+        142,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/c43e9c0cfbde-gluten-free.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/c9cdbdb1ef52e6f4792a87dfb6b0c422ec15b7f5747697adec6ab9aa71e6a71e",
+      "sha256": "c9cdbdb1ef52e6f4792a87dfb6b0c422ec15b7f5747697adec6ab9aa71e6a71e",
+      "size": [
+        556,
+        557
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/c9cdbdb1ef52-tabletky-uvolnovani.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/d3769607ebfc18bf01d808f2af21b9d86104f6329eb7953cea226e4a0756f84b",
+      "sha256": "d3769607ebfc18bf01d808f2af21b9d86104f6329eb7953cea226e4a0756f84b",
+      "size": [
+        557,
+        557
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/d3769607ebfc-tehotenstvi.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/d780d1ea50e47ce58b5e959e1aa23c12f82551eca1c954a4908f0849e42b08f8",
+      "sha256": "d780d1ea50e47ce58b5e959e1aa23c12f82551eca1c954a4908f0849e42b08f8",
+      "size": [
+        145,
+        145
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/d780d1ea50e4-plet.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/d7b665863c737226ee943a2fb785e0dfc933258691958945487367804dc5dcd2",
+      "sha256": "d7b665863c737226ee943a2fb785e0dfc933258691958945487367804dc5dcd2",
+      "size": [
+        142,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/d7b665863c73-gluten-free-golden.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/dec133dd9501ac7b746705c39bbab684d181a0b62d38247aed5ef2191d53a46a",
+      "sha256": "dec133dd9501ac7b746705c39bbab684d181a0b62d38247aed5ef2191d53a46a",
+      "size": [
+        140,
+        140
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/dec133dd9501-vraskyikona.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/e2cd3da54a1b900cd8ac6fa45caefb8478799334470e6628fe12b72bb351911c",
+      "sha256": "e2cd3da54a1b900cd8ac6fa45caefb8478799334470e6628fe12b72bb351911c",
+      "size": [
+        143,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/e2cd3da54a1b-sugar-free.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/e460535f9d457caa73288247f9199f9d4aa7bd4b11e3974993dbfc07f2fa538c",
+      "sha256": "e460535f9d457caa73288247f9199f9d4aa7bd4b11e3974993dbfc07f2fa538c",
+      "size": [
+        140,
+        140
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/e460535f9d45-textura.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+      "status": 200,
+      "mime": "image/png",
+      "path": "assets/e7397e8de33fc81fe5a1436801c858d9284ff9cd02cf3b18fb654dab344e0330",
+      "sha256": "e7397e8de33fc81fe5a1436801c858d9284ff9cd02cf3b18fb654dab344e0330",
+      "size": [
+        142,
+        142
+      ],
+      "git_commit": "bb751e31b25b03355205706aebdf460db0d65d98",
+      "git_path": "assets/piktogramy/bez-kruhu-v1/e7397e8de33f-GMO-free.png",
+      "https_bytes_equal_git_blob": true,
+      "cors": "*"
+    }
+  ]
+}
