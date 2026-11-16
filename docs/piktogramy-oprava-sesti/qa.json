@@ -1,0 +1,19 @@
+{
+  "rejectedMotifs": [
+    "flame",
+    "runner",
+    "waist",
+    "clean_skin",
+    "shield_hand",
+    "hair"
+  ],
+  "revisedMotifs": 6,
+  "newPngColorVariants": 22,
+  "referenceStrokeAt64": 2,
+  "allCapsJoinsRound": true,
+  "newArtworkMatchesNoClaimOfPixelIdentity": true,
+  "unmarkedFlagAndMilkUntouched": true,
+  "productionHtmlRewired": false,
+  "cmsSaved": false,
+  "scope": "Only the six user-marked rejections; red marks are rejection annotations, not prohibition slashes inside the icons"
+}

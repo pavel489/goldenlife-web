@@ -1,0 +1,305 @@
+[
+  {
+    "motif": "flame",
+    "color": "#E40E7E",
+    "oldAsset": "assets/piktogramy/monoline-v3/flame-e40e7e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+    "newAsset": "assets/piktogramy/organic-v4/flame-e40e7e.png",
+    "newSha256": "9cd8e618d2b87ebe3b90c3a742c2aba08e8752c6e5a1fddff43459bc10a855d7",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 1
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "shield_hand",
+    "color": "#E40E7E",
+    "oldAsset": "assets/piktogramy/monoline-v3/shield_hand-e40e7e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-e40e7e.png",
+    "newAsset": "assets/piktogramy/organic-v4/shield_hand-e40e7e.png",
+    "newSha256": "3bcc7b261f6c7a15c0b5e36ecfeef81f7e33141593be5e152994d079a21a0167",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/50211ca41eb0-imunita.png",
+    "method": {
+      "method": "faithful redraw of original compact curved shield, supporting hand and small sparkles; cleaned branch joints"
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "flame",
+    "color": "#ED0081",
+    "oldAsset": "assets/piktogramy/monoline-v3/flame-ed0081.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+    "newAsset": "assets/piktogramy/organic-v4/flame-ed0081.png",
+    "newSha256": "7536aba239545254d1c5d2ff13fcea246c8e9e78323fa962d92a1df4df49bd47",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 1
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "shield_hand",
+    "color": "#D19B10",
+    "oldAsset": "assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+    "newAsset": "assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+    "newSha256": "bd8c13620635db6f967d6aa3c0022bf7d568ebafd4053c10818363c9dec001d9",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/50211ca41eb0-imunita.png",
+    "method": {
+      "method": "faithful redraw of original compact curved shield, supporting hand and small sparkles; cleaned branch joints"
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#ED0081",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-ed0081.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-ed0081.png",
+    "newSha256": "e2f1ca62938d2dd749c93a241064f49db822e47830308775f918c365320d3bb1",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "hair",
+    "color": "#D09A0E",
+    "oldAsset": "assets/piktogramy/monoline-v3/hair-d09a0e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+    "newAsset": "assets/piktogramy/organic-v4/hair-d09a0e.png",
+    "newSha256": "ce27325fb1747af7cef09a662c66c9aa157cedef612d22a9693f8c0e2634c53c",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/bfd63cb4e64a-vlasy.png",
+    "method": {
+      "method": "faithful redraw retaining original three curved hair shafts, root loops and separate follicle rays; no closed teardrop replacement"
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#E1AD0E",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-e1ad0e.png",
+    "newSha256": "0dc0ce9c757ccb2a5a330a64e9f62cb87739f10df0086822c0e462ddd344817c",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "runner",
+    "color": "#ED0081",
+    "oldAsset": "assets/piktogramy/monoline-v3/runner-ed0081.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-ed0081.png",
+    "newAsset": "assets/piktogramy/organic-v4/runner-ed0081.png",
+    "newSha256": "da33e63e9a09a6954164764683fcc4a2d6877f427230a7720f60e728e8697d14",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v2/d808754cf239-regenerace.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 2
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "flame",
+    "color": "#E6007E",
+    "oldAsset": "assets/piktogramy/monoline-v3/flame-e6007e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e6007e.png",
+    "newAsset": "assets/piktogramy/organic-v4/flame-e6007e.png",
+    "newSha256": "384932c97e00ae58c8ffdd25cc0d35c559a51a20e356778695cf9c1919439e18",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 1
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#E6007E",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-e6007e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e6007e.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-e6007e.png",
+    "newSha256": "5e61f404958a0c94b653d9d820be97f9bf48ecef2eb49350c9c62acc3dc01110",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "flame",
+    "color": "#FFCE00",
+    "oldAsset": "assets/piktogramy/monoline-v3/flame-ffce00.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+    "newAsset": "assets/piktogramy/organic-v4/flame-ffce00.png",
+    "newSha256": "d55e05790fcc71464dd523ca1b1f2a436f2679e80af3f517b79df4a5bb67402a",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 1
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "shield_hand",
+    "color": "#168F3E",
+    "oldAsset": "assets/piktogramy/monoline-v3/shield_hand-168f3e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-168f3e.png",
+    "newAsset": "assets/piktogramy/organic-v4/shield_hand-168f3e.png",
+    "newSha256": "b4a864e13bcf4f4654fe7b1580f5c0101da79d383802e8425c9443a91891cef2",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/50211ca41eb0-imunita.png",
+    "method": {
+      "method": "faithful redraw of original compact curved shield, supporting hand and small sparkles; cleaned branch joints"
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "runner",
+    "color": "#E6007E",
+    "oldAsset": "assets/piktogramy/monoline-v3/runner-e6007e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-e6007e.png",
+    "newAsset": "assets/piktogramy/organic-v4/runner-e6007e.png",
+    "newSha256": "8d95d40ceee66fc8e00d479428b6f93b5820da502c6f43903094c4a596da9eb2",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v2/d808754cf239-regenerace.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 2
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "clean_skin",
+    "color": "#1CA270",
+    "oldAsset": "assets/piktogramy/monoline-v3/clean_skin-1ca270.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/clean_skin-1ca270.png",
+    "newAsset": "assets/piktogramy/organic-v4/clean_skin-1ca270.png",
+    "newSha256": "732c0f59e0a143cc3ff180548f1bbb90f866a7b61add81283d9338ff89921c71",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v2/2f76e063d492-hloubkovecistenipleti.png",
+    "method": {
+      "method": "faithful redrawing of recessed pore and original three-arrow composition, not an upward bump"
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#E40E7E",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-e40e7e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e40e7e.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-e40e7e.png",
+    "newSha256": "6bf511b8b0e5174a05f54c8c9ac7eb178b0a20dac8a4d756b5108cbd7752319a",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#ECBA06",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-ecba06.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ecba06.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-ecba06.png",
+    "newSha256": "edde1f5094a3216b73939d66a12155b62b06d3c538968e35bdb8a49263abe4da",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "runner",
+    "color": "#FFD100",
+    "oldAsset": "assets/piktogramy/monoline-v3/runner-ffd100.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-ffd100.png",
+    "newAsset": "assets/piktogramy/organic-v4/runner-ffd100.png",
+    "newSha256": "54900f922dd1a34c08fa5d38e9ae4bada080695c603804d66c6d3d377391a26d",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v2/d808754cf239-regenerace.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 2
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "flame",
+    "color": "#4E4A99",
+    "oldAsset": "assets/piktogramy/monoline-v3/flame-4e4a99.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+    "newAsset": "assets/piktogramy/organic-v4/flame-4e4a99.png",
+    "newSha256": "499488e3b72e27d489bf277315c0d7fa2b1a51502cfd38515773467bde14096f",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/d9bea19b5536-spalovani.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 1
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#504998",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-504998.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-504998.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-504998.png",
+    "newSha256": "e541994bd3200920dcfcbcd2ebca0357bef045bedf35324ec87750771ac720a6",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#554596",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-554596.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-554596.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-554596.png",
+    "newSha256": "80f9687e532571246beb1706dd03cabe3d5dab3ece4299af1a82f0f85d0fe0bd",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "runner",
+    "color": "#4E4A99",
+    "oldAsset": "assets/piktogramy/monoline-v3/runner-4e4a99.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-4e4a99.png",
+    "newAsset": "assets/piktogramy/organic-v4/runner-4e4a99.png",
+    "newSha256": "48bbcb291656be7ca49d08e46a3b9c1ad85652ea87da467713416ba6423e08a1",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v2/d808754cf239-regenerace.png",
+    "method": {
+      "method": "smoothed contour of actual original silhouette, not generic icon",
+      "paths": 2
+    },
+    "strokeAt64": 2
+  },
+  {
+    "motif": "waist",
+    "color": "#603A8E",
+    "oldAsset": "assets/piktogramy/monoline-v3/waist-603a8e.png",
+    "oldSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-603a8e.png",
+    "newAsset": "assets/piktogramy/organic-v4/waist-603a8e.png",
+    "newSha256": "e33241e22a0e983414852d902308c3c97731654a4ea2408030f86b1e276b7bbc",
+    "sourceArtwork": "assets/piktogramy/bez-kruhu-v1/0713976ac9ce-slim.png",
+    "method": {
+      "method": "smoothed centerlines from actual original artwork",
+      "paths": 19
+    },
+    "strokeAt64": 2
+  }
+]

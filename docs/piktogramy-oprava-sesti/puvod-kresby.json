@@ -1,0 +1,23 @@
+{
+  "flame": {
+    "method": "smoothed contour of actual original silhouette, not generic icon",
+    "paths": 1
+  },
+  "runner": {
+    "method": "smoothed contour of actual original silhouette, not generic icon",
+    "paths": 2
+  },
+  "waist": {
+    "method": "smoothed centerlines from actual original artwork",
+    "paths": 19
+  },
+  "shield_hand": {
+    "method": "faithful redraw of original compact curved shield, supporting hand and small sparkles; cleaned branch joints"
+  },
+  "hair": {
+    "method": "faithful redraw retaining original three curved hair shafts, root loops and separate follicle rays; no closed teardrop replacement"
+  },
+  "clean_skin": {
+    "method": "faithful redrawing of recessed pore and original three-arrow composition, not an upward bump"
+  }
+}
