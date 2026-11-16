@@ -81,13 +81,13 @@
 .hero-icons-grid { display: grid; grid-template-columns: repeat(2, 1fr); grid-auto-rows: 1fr; gap: 12px; height: 100%; }
 .p-icon-card {
   display: flex; flex-direction: column; align-items: center; justify-content: center;
-  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);
+  background:transparent; border-radius:0;
   padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);
-  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);
+  transition:none;
+  border:0;
+  box-shadow:none;
 }
-.p-icon-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); }
+.p-icon-card:hover { transform:none; box-shadow:none; }
 .p-card-img {
   width: 80px; height: 80px; object-fit: contain; margin-bottom: 8px;
   filter: brightness(0) saturate(100%) invert(11%) sepia(56%) saturate(3200%) hue-rotate(315deg) brightness(80%) contrast(95%);

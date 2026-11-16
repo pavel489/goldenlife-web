@@ -491,7 +491,7 @@
   }
   .hero-row { margin-bottom: 0 !important; }
   .hero-icons-grid { gap: 8px; }
-  .p-icon-card { padding: 12px 6px 10px; border-radius: var(--gl-radius-md); }
+  .p-icon-card { padding: 12px 6px 10px; border-radius:0; }
   .p-card-img { width: 64px; height: 64px; }
 }
 
@@ -508,20 +508,20 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: rgba(255, 255, 255, 0.92);
-  border-radius: var(--gl-radius-md);
+  background:transparent;
+  border-radius:0;
   padding: 16px 10px 14px;
   width: 100%;
   height: 100%;
   box-sizing: border-box;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);
-  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);
+  transition:none;
+  border:0;
+  box-shadow:none;
 }
 
 .p-icon-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1);
+  transform:none;
+  box-shadow:none;
 }
 
 .p-card-img {
@@ -844,7 +844,7 @@
 <div class="hero-img">
 <div class="hero-row"><img class="heroimg" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/Slim GLP-1 Shaker Duo s příchutí vanilka-jahoda bez.png' alt="Slim GLP-1 Balance Duo" /></div>
 <div class="hero-icons-grid">
-<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png' alt="Extrémní spalování tuků" />
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png' alt="Extrémní spalování tuků" />
 <p class="p-card-p">Extrémní spalování tuků</p>
 </div>
 <div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/food-5f3a8f.png' alt="Snižuje chuť k jídlu" />
@@ -853,7 +853,7 @@
 <div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/skin_lift-4e4a99.png' alt="Anti-aging efekt" />
 <p class="p-card-p">Anti-aging efekt</p>
 </div>
-<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-554596.png' alt="Zvyšuje pocit sytosti" />
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-554596.png' alt="Zvyšuje pocit sytosti" />
 <p class="p-card-p">Zvyšuje pocit sytosti</p>
 </div>
 <div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flag-62388e.png' alt="Vyrobeno v České republice" />

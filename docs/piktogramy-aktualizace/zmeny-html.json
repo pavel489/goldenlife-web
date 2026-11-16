@@ -1,0 +1,1698 @@
+{
+  "sourceHead": "30fdbcd0bfa87b381bb42347e60babb7681b3d26",
+  "scannedHtml": 332,
+  "changedHtml": 89,
+  "referencesChanged": 180,
+  "productsChanged": 10,
+  "records": [
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-de.html",
+      "sha256": "b805ea1f4f6cf268c67d306bd66c3184c20779145dcaf790ef58ada59d450dfd",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-cz.html",
+      "sha256": "cfe1a56130b4a3d44eebaf999e70a8b0bbf41eed57b7d682603d4c8691e70f71",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-en.html",
+      "sha256": "2bf3e09bf833997188b22040a30a694071235517f0044b342278342e91f93809",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/Golden-Life-Double-Slim-SOS-Burner-sk.html",
+      "sha256": "a3a2e59d04da2be8e0f533088e6bdb4aa807bdb9e9fecb23290af04a64a017c9",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-en.html",
+      "sha256": "b534de45a6255556b9813b40864a46372c19ae722324292c8048a7206eb6766e",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-de.html",
+      "sha256": "3f7e62cbbe0a4c8e53867ca90f32c9b49cb0b7ee17cc67bb5aa85d5591a03a96",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-sk.html",
+      "sha256": "2548b4736b1c772498a099712a19b4575682d8af1b10198631dbceaf7079a607",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Double Slim SOS Burner/maly/Golden-Life-Double-Slim-SOS-Burner-maly-cz.html",
+      "sha256": "67704c7bb4488dd0ff694b705e45e3c0682c9d43651b78a45ebd41cd0cbc6d97",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-sk.html",
+      "sha256": "9bf3fc08c7646c5eae0c3a520b3588a967885c5d2b09393624efdd5e149784ce",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-cz.html",
+      "sha256": "f0ccfa3d5663037c14ee6e52ce12d55f8ea1fc5021b9a4b8a1487602fc6818c0",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-en.html",
+      "sha256": "a486f40448b1b8b4e56e1f873d39293ba9c705de6b28a4f3e27604be92a67f0a",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Vitamin C/Golden-Life-Vitamin-C-de.html",
+      "sha256": "51286c8e502a88dae710a8d2418fab4c85354b2f9f30e85c62cef6ffd1bffaa7",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "sha256": "33c36610f0ec022b19f421165f7f46636a03439638c95fb1808c155d2696824a",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-sk.html",
+      "sha256": "d1c3298637a4a76fb370f68ce2310a8ae43f24c25f4179bb47024f361e178e88",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-de.html",
+      "sha256": "8215f220ed36aa8d2a99c25e2859cd35cd0ef6a84e477db2d16f301f6881928e",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-en.html",
+      "sha256": "e7ee7e05f4cae03531efad53b4ea9901c4e9ef0c666003413240fd6d189d5f7d",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-de.html",
+      "sha256": "5cb4b4ea22d7262885411b188dfe73106005dd6f46dc7a980de1b14dc1b63a2f",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-cz.html",
+      "sha256": "0414e748d39c58f3f17d7e41c4f7d21e1dbcf37384db19733784ea3e6badce45",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-en.html",
+      "sha256": "354553dac00f2e264526b98c6f2546e3a525ffc345d33653ea9f56bd138259b2",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-sk.html",
+      "sha256": "11c0b4a94bc63751d6992071f81fd8131e9b940e5686a785a257a2daf657f1ea",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-en.html",
+      "sha256": "e969b7f1bad82cf542507db0815c6322307ef7359a721e8c109dfabb0c67aab6",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-de.html",
+      "sha256": "21e597271a530c2dc298589c7286320f1a77d493a0ed951ef4b24e8d210d052e",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-sk.html",
+      "sha256": "f0f69838656a549cc7ac8b7f6cd3fb3a7e75edd51946e33c06d90c56fb7ebcf1",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Star/Golden-Life-Beauty-Star-cz.html",
+      "sha256": "2368d988513b4a77b76d9f141934a0094db8ce9e4ec21f79f9768b6db15b9e4c",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "sha256": "19e8eae0bb889df7677cbff8ec87f194366bb7083ee40906de8b37081f89770d",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-sk.html",
+      "sha256": "d7f898015b437c2710fdbd52823cab7507f07e09658a5fe4634020dfbe1a0017",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-de.html",
+      "sha256": "9b550abf2cac79ae3d0c2d4746b9971353d921623e5631f64cd0d4ee2775aa61",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-en.html",
+      "sha256": "4c6b73c44fc90d804f788aef315b622697ca795ee1f421d30461629ce190e186",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "sha256": "42d3676fd87afa91d43c7ba908f489dea7985800ee57746d383a712e54bfd7c2",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-en.html",
+      "sha256": "ba60546293eeae35e9f15584bfcd4f30b912e76e8dd735440290ffc75c48c780",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-de.html",
+      "sha256": "e5853bd99bbbf11369c7231362af3648dd518690641cc0d3f23d1e08b9561105",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-sk.html",
+      "sha256": "599fa7dddf92d10c7385646903d2e5d3a50721cec1d30d72495ac2a70a20a8e9",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-en.html",
+      "sha256": "bae45bcc6f588f4f283aab0372d6671a276674e81032fdc7e881b2565f259dc3",
+      "referencesChanged": 6,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/enterosolventni@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/capsule.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-cz.html",
+      "sha256": "b2e50791a202167304b7d4970479c4cfc8db8a5e91b5b84cec47d8b57098c620",
+      "referencesChanged": 6,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/enterosolventni@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/capsule.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-sk.html",
+      "sha256": "c66a255c9c5d711b59099d77bc337a4d6de2505add84e31c00f992b4cf5ec200",
+      "referencesChanged": 6,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/enterosolventni@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/capsule.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/Golden-Life-Bikini-Body-de.html",
+      "sha256": "ed55ba89e1144b796930ff5a08524f4181772a09f50bfe10309112c0e4e0fc4c",
+      "referencesChanged": 6,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/enterosolventni@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/capsule.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-cz.html",
+      "sha256": "15c1c2cf642f3f6c737eb37f717a874b19b49c466d6c09529201e7fa6d6e3ef3",
+      "referencesChanged": 5,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-de.html",
+      "sha256": "fc8dc35460d64f8dd6fd36935249f92cf49bb729a4becb635ae71abaeaad5d5e",
+      "referencesChanged": 5,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-sk.html",
+      "sha256": "4a981b70bde2cf758ef8343002b7f3a65c356412ba6d2663c4ccfed60899ba2a",
+      "referencesChanged": 5,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Bikini Body/maly/Golden-Life-Bikini-Body-maly-en.html",
+      "sha256": "a1a4b2496a8207240715a867caf3c159bcc1d1537490071fc56ef59604da913b",
+      "referencesChanged": 5,
+      "edits": [
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Podporuje hubnuti a traveni.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Lehké nohy, zdravé žíly@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Cévní pevnost a mikrocirkulace@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Proti celulitide.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+          "count": 1
+        },
+        {
+          "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/cz-@8x.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-en.html",
+      "sha256": "0329c9db510aadc54f4016150ba306da8b49d5db4b6cfd242003dd7006c1f08d",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "sha256": "dba824f09a2b41010e59ef0a7c0626c1ae9db56b4b858dd09480a3b775f2835a",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-sk.html",
+      "sha256": "b236b5a1e0fbe7edecccb1db9cac6b9764c01b65a1915c7a8350f3c260aa27fa",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-de.html",
+      "sha256": "2eab48a3f4e04f693b3d4476676c67af066fd433b19a99a9aaa5484594f4a9c2",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/534-slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada-dlouhy.html",
+      "sha256": "2996e46c90fbffa9d16d3beacec609569fd2b8a543b19b5c965db75c6b949cf7",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-554596.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-554596.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true,
+      "inlineCssEdits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12295,
+          "before": " padding: 12px 6px 10px; border-radius: var(--gl-radius-md); ",
+          "after": " padding: 12px 6px 10px; border-radius:0; "
+        },
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12552,
+          "before": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background: rgba(255, 255, 255, 0.92);\n  border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background:transparent;\n  border-radius:0;\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 13017,
+          "before": "\n  transform: translateY(-4px);\n  box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1);\n",
+          "after": "\n  transform:none;\n  box-shadow:none;\n"
+        }
+      ]
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/509-slim-extreme-glp-1-trio-dlouhy.html",
+      "sha256": "8c6d4a041d270e5c859e6a28397db5d72f303e6af137bea31324db77b1af30c9",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/407-slimming-duo-box-dlouhy.html",
+      "sha256": "5d18a3634b5fec01c7f434bf01401706a4e9179dfa2b372df72adb3e3dd90394",
+      "referencesChanged": 3,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/497-slim-glp-1-quattro-box-dlouhy.html",
+      "sha256": "5fec4a8bc15a12bb5a667c3da8e6bbb00449e2d55a3ce7b12617424cb4cf8dd3",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/425-clean-skin-foam-dlouhy.html",
+      "sha256": "4e4e8f4b1ef7093d4a8dea4948827a2b5b0f00ca740237ec73aa5e3bc4aa9305",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/clean_skin-1ca270.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/clean_skin-1ca270.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/189-hubnouci-trio-dlouhy.html",
+      "sha256": "388c61f67b9b85a25c6e6ad461312b5956f822264b14fc60b9ac52d73cb64d43",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e6007e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e6007e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/183-slimming-duo-dlouhy.html",
+      "sha256": "954318634c2c82fb47a76b346ad9359c5e63e83ad06ba4f36fb0e675215c0c7a",
+      "referencesChanged": 3,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/407-slimming-duo-box-kratky.html",
+      "sha256": "692416e380beef0a455da29d9b786d635eeb414eed1ab0c2cdc5fbc7ef016537",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/632-nad-trio-kratky.html",
+      "sha256": "fa8826327da0dba9349200f47ee97dc6579357d3a149a1db5335c93b3811db45",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/524-hubnouci-trio-box-mango-s-glp-1-kratky.html",
+      "sha256": "baffd535677bd347a8ea14d04ef8327b9a023b738ce9ad86f86d1c7095561b3d",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/341-2x-detox-caj-cajitko-ruzove-dlouhy.html",
+      "sha256": "569887b8021d1aa3869abb30890e9dc083e38e4d2597b4987ccc6453ae688818",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-168f3e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-168f3e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/521-hubnouci-trio-box-ananas-mango-dlouhy.html",
+      "sha256": "f818304762b5685f3c4500902e0d98a081f8d05fcd3ef4a57a3138778b7d4cb9",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e6007e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e6007e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/497-slim-glp-1-quattro-box-kratky.html",
+      "sha256": "55d3176000a621e2871f548f5d62836fb1fc88e1cc6d1876ad7cd78a321e1d55",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/225-beauty-duo-pack-dlouhy.html",
+      "sha256": "9b8515ec3a79c27652bd5c303e9f2a7b6390156b732dee998640f948da78178c",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/225-beauty-duo-pack-kratky.html",
+      "sha256": "2d49ef17ff35578a98204b3265c95d1d4af85fd261104ebe33e096816e6856a0",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/488-slim-glp-1-duo-kratky.html",
+      "sha256": "a620ab89c5ea24a356b9e98a63ff9c8f36d468d8219de8da7bf838ba8de33995",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/537-slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda-dlouhy.html",
+      "sha256": "6f5b7380739e2f1d17766113eeb1055d867dc7d13d864d40e861bfba488c29c3",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-554596.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-554596.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true,
+      "inlineCssEdits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12276,
+          "before": " padding: 12px 6px 10px; border-radius: var(--gl-radius-md); ",
+          "after": " padding: 12px 6px 10px; border-radius:0; "
+        },
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12533,
+          "before": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background: rgba(255, 255, 255, 0.92);\n  border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background:transparent;\n  border-radius:0;\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 12998,
+          "before": "\n  transform: translateY(-4px);\n  box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1);\n",
+          "after": "\n  transform:none;\n  box-shadow:none;\n"
+        }
+      ]
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/180-top-balicek-hubnuti-kratky.html",
+      "sha256": "1a5ea62639d967b1c5c1ab449de7c6a226416de3e0fe9061ec7c551bb5590e55",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/413-beauty-star-duo-dlouhy.html",
+      "sha256": "1f825630deaa3c99c408da3f1b26cc2accf69df47ab3b2d66e516321753940d9",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/553-slim-glp-1-shake-duo-s-prichuti-cappuccino-dlouhy.html",
+      "sha256": "d531984e5a4066df16af7e866fdfafc3b254f1d6223fbb94aca0d5e75662ef8d",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-554596.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-554596.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/213-beauty-anti-aging-vitality-kratky.html",
+      "sha256": "2aed78451887cc985c50cd513bfa2dae3ac6626a8c2475c033cc39241eaf505d",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/404-hubnouci-trio-box-kratky.html",
+      "sha256": "d8b8865a123fb9e0910b36a616f3301fceec655178a6ecc12522fd3ce5178d7e",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/512-slim-extreme-glp-1-trio-box-dlouhy.html",
+      "sha256": "1412c9d682d2726970639afe2d1e8fda75b3bcb92f3b6957f13dc86b1c857125",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/404-hubnouci-trio-box-dlouhy.html",
+      "sha256": "5d01e600dd18ae0fd1b98754b32d38e6af45a1c11679e19f7f342a07e10d035a",
+      "referencesChanged": 3,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e6007e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e6007e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-e6007e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/180-top-balicek-hubnuti-dlouhy.html",
+      "sha256": "a7ef2c6c7205065f07d813cd2790bb41d5ac80dfb5145cf7c8f4df58d8f72c72",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/189-hubnouci-trio-kratky.html",
+      "sha256": "72a7724ed0b4e26fefe3c9ee98c9162f4d7512b171efe9a0e481d11ec1e3548d",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/446-body-shaping-duo-dlouhy.html",
+      "sha256": "f4c5714d643701475ad64c5d73c11d2e55a95f3c71e1d6fe8c9c8b5db9820543",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ecba06.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ecba06.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/512-slim-extreme-glp-1-trio-box-kratky.html",
+      "sha256": "13241604e58f0858a50e7b5d4e765c8db7d2ead3dfdf6f115ef23013ab1fa5f0",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/213-beauty-anti-aging-vitality-dlouhy.html",
+      "sha256": "6e11200e7ccaeb77e6939597b12209fd5170279b8ce0e4e5a85e1c4e32e3edf7",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/482-slim-glp-1-trio-kratky.html",
+      "sha256": "5a78b94726f09db7fd1e17f2a5d1015c58c0f654165178fb69d629e463a9c8ae",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-504998.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-504998.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/446-body-shaping-duo-kratky.html",
+      "sha256": "fb3ee19349e0a1f01ccc566b75b63ebf21b2d8e957c2f781c93ae25e2f341126",
+      "referencesChanged": 3,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ecba06.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ecba06.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/shield_hand-d19b10.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e1ad0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/537-slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda-kratky.html",
+      "sha256": "9757222e3b8823c335ae5f92b1e684690b7c4cd7982f2f7a88d3941819a01cef",
+      "referencesChanged": 3,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-603a8e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-603a8e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-4e4a99.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/632-nad-trio-dlouhy.html",
+      "sha256": "07357bdac27c818cc80e9b6904e306c541d53c95b634b781045c2ad8904fb10f",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true,
+      "inlineCssEdits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 4105,
+          "before": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background:transparent; border-radius:0;\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 4555,
+          "before": " transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); ",
+          "after": " transform:none; box-shadow:none; "
+        }
+      ]
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/482-slim-glp-1-trio-dlouhy.html",
+      "sha256": "fd4d0805559e89dfa60acdb0ec57b8fac1a549faef86a33b6b3e3228ca39b00f",
+      "referencesChanged": 4,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-554596.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-554596.png",
+          "count": 2
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-4e4a99.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/428-slim-extreme-cream-kratky.html",
+      "sha256": "bf5da1c5365f1d09ba588bf22f5bcf8feb9f1443a6af1bcfcf109bbab968787e",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/425-clean-skin-foam-kratky.html",
+      "sha256": "cae40a9ca6a34b8f79b37a6faa165e0a8cf3c36e78e01529dde944b7470b657e",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/clean_skin-1ca270.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/clean_skin-1ca270.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/413-beauty-star-duo-kratky.html",
+      "sha256": "d3763f3abaeefbc7921c2d2c90159470ce1aab115f1dceb8ce8067d45ab44718",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/hair-d09a0e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/524-hubnouci-trio-box-mango-s-glp-1-dlouhy.html",
+      "sha256": "5e1c3d9da6cef506a044088dd330247a07d424f321a48c052e4aae91a075d360",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e6007e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e6007e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e6007e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/428-slim-extreme-cream-dlouhy.html",
+      "sha256": "ef3f095b21f99f25029b2da840a69ffbd927a0db96d7551fba51667c4e11301c",
+      "referencesChanged": 1,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-e40e7e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e40e7e.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/521-hubnouci-trio-box-ananas-mango-kratky.html",
+      "sha256": "8808f9cb200e692d8b6313a84e7dd26295afbf0ab528954a10590ccf23d567c0",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/534-slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada-kratky.html",
+      "sha256": "69f8380c8f25d1a90721f193467c0175d9998ac7979a0321c48946df8712ce2d",
+      "referencesChanged": 3,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-603a8e.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-603a8e.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-4e4a99.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/488-slim-glp-1-duo-dlouhy.html",
+      "sha256": "95e89bdcf6c2dcd2e8d30a7dac35b13224dfe30a2711c7252523a93d5c4092a8",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-4e4a99.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/waist-554596.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-554596.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "shoptet/piktogramy-dalsi/183-slimming-duo-kratky.html",
+      "sha256": "692416e380beef0a455da29d9b786d635eeb414eed1ab0c2cdc5fbc7ef016537",
+      "referencesChanged": 2,
+      "edits": [
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/runner-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-ed0081.png",
+          "count": 1
+        },
+        {
+          "old": "https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ed0081.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+          "count": 1
+        }
+      ],
+      "copyTablesScriptsPreserved": true
+    },
+    {
+      "file": "web/Golden Life Hormonal Duo/Golden_Life__Hormonal_duo_cz.html",
+      "referencesChanged": 0,
+      "edits": [],
+      "copyTablesScriptsPreserved": true,
+      "inlineCssEdits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 4077,
+          "before": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background:transparent; border-radius:0;\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 4527,
+          "before": " transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); ",
+          "after": " transform:none; box-shadow:none; "
+        }
+      ],
+      "sha256": "9a8249fdee1ca115df97f51c2803f97dfa7b3599ff5f2a63f7d5923f2387b4f1"
+    },
+    {
+      "file": "web/Golden Life Hormonal Trio/Golden_Life__Hormonal_triocz.html",
+      "referencesChanged": 0,
+      "edits": [],
+      "copyTablesScriptsPreserved": true,
+      "inlineCssEdits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 4150,
+          "before": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background:transparent; border-radius:0;\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 4600,
+          "before": " transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); ",
+          "after": " transform:none; box-shadow:none; "
+        }
+      ],
+      "sha256": "ff91082734d49f64ef5992a7f8d564a22c84cde9a429d0e4c6189ffc2d3a6552"
+    }
+  ],
+  "cssFiles": 28,
+  "inlineCssHtml": 5
+}

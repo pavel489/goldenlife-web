@@ -83,13 +83,13 @@
 .hero-icons-grid { display: grid; grid-template-columns: repeat(2, 1fr); grid-auto-rows: 1fr; gap: 12px; height: 100%; }
 .p-icon-card {
   display: flex; flex-direction: column; align-items: center; justify-content: center;
-  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);
+  background:transparent; border-radius:0;
   padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);
-  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);
+  transition:none;
+  border:0;
+  box-shadow:none;
 }
-.p-icon-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); }
+.p-icon-card:hover { transform:none; box-shadow:none; }
 .p-card-img {
   width: 80px; height: 80px; object-fit: contain; margin-bottom: 8px;
   filter: brightness(0) saturate(100%) invert(15%) sepia(94%) saturate(2883%) hue-rotate(349deg) brightness(92%) contrast(95%);
@@ -182,7 +182,7 @@
 <div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/sleep-fecd01.png' alt="Kvalitní spánek" />
 <p class="p-card-p">Kvalitní spánek</p>
 </div>
-<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/286002abbca46d80f336fac0579177c82e7c8c37/assets/piktogramy/monoline-v3/flame-ffce00.png' alt="Noční spalování tuků" />
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png' alt="Noční spalování tuků" />
 <p class="p-card-p">Noční spalování</p>
 </div>
 <div class="p-icon-card"><img class="p-card-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/slim-fialova.png' alt="Kontrola chuti k jídlu" />

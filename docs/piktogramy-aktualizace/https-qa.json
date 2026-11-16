@@ -1,0 +1,353 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/hair-v5/hair-d09a0e.png",
+    "path": "assets/piktogramy/hair-v5/hair-d09a0e.png",
+    "sha256": "3039d009ea0720ba23e062546eb79a4633fcd77ada041a2c9eb0be1e4e3a375d",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/clean_skin-1ca270.png",
+    "path": "assets/piktogramy/organic-v4/clean_skin-1ca270.png",
+    "sha256": "732c0f59e0a143cc3ff180548f1bbb90f866a7b61add81283d9338ff89921c71",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-4e4a99.png",
+    "path": "assets/piktogramy/organic-v4/flame-4e4a99.png",
+    "sha256": "499488e3b72e27d489bf277315c0d7fa2b1a51502cfd38515773467bde14096f",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e40e7e.png",
+    "path": "assets/piktogramy/organic-v4/flame-e40e7e.png",
+    "sha256": "9cd8e618d2b87ebe3b90c3a742c2aba08e8752c6e5a1fddff43459bc10a855d7",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-e6007e.png",
+    "path": "assets/piktogramy/organic-v4/flame-e6007e.png",
+    "sha256": "384932c97e00ae58c8ffdd25cc0d35c559a51a20e356778695cf9c1919439e18",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ed0081.png",
+    "path": "assets/piktogramy/organic-v4/flame-ed0081.png",
+    "sha256": "7536aba239545254d1c5d2ff13fcea246c8e9e78323fa962d92a1df4df49bd47",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/flame-ffce00.png",
+    "path": "assets/piktogramy/organic-v4/flame-ffce00.png",
+    "sha256": "d55e05790fcc71464dd523ca1b1f2a436f2679e80af3f517b79df4a5bb67402a",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-4e4a99.png",
+    "path": "assets/piktogramy/organic-v4/runner-4e4a99.png",
+    "sha256": "48bbcb291656be7ca49d08e46a3b9c1ad85652ea87da467713416ba6423e08a1",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-e6007e.png",
+    "path": "assets/piktogramy/organic-v4/runner-e6007e.png",
+    "sha256": "8d95d40ceee66fc8e00d479428b6f93b5820da502c6f43903094c4a596da9eb2",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/runner-ed0081.png",
+    "path": "assets/piktogramy/organic-v4/runner-ed0081.png",
+    "sha256": "da33e63e9a09a6954164764683fcc4a2d6877f427230a7720f60e728e8697d14",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-168f3e.png",
+    "path": "assets/piktogramy/organic-v4/shield_hand-168f3e.png",
+    "sha256": "b4a864e13bcf4f4654fe7b1580f5c0101da79d383802e8425c9443a91891cef2",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+    "path": "assets/piktogramy/organic-v4/shield_hand-d19b10.png",
+    "sha256": "bd8c13620635db6f967d6aa3c0022bf7d568ebafd4053c10818363c9dec001d9",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/shield_hand-e40e7e.png",
+    "path": "assets/piktogramy/organic-v4/shield_hand-e40e7e.png",
+    "sha256": "3bcc7b261f6c7a15c0b5e36ecfeef81f7e33141593be5e152994d079a21a0167",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-504998.png",
+    "path": "assets/piktogramy/organic-v4/waist-504998.png",
+    "sha256": "e541994bd3200920dcfcbcd2ebca0357bef045bedf35324ec87750771ac720a6",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-554596.png",
+    "path": "assets/piktogramy/organic-v4/waist-554596.png",
+    "sha256": "80f9687e532571246beb1706dd03cabe3d5dab3ece4299af1a82f0f85d0fe0bd",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-603a8e.png",
+    "path": "assets/piktogramy/organic-v4/waist-603a8e.png",
+    "sha256": "e33241e22a0e983414852d902308c3c97731654a4ea2408030f86b1e276b7bbc",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e1ad0e.png",
+    "path": "assets/piktogramy/organic-v4/waist-e1ad0e.png",
+    "sha256": "0dc0ce9c757ccb2a5a330a64e9f62cb87739f10df0086822c0e462ddd344817c",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e40e7e.png",
+    "path": "assets/piktogramy/organic-v4/waist-e40e7e.png",
+    "sha256": "6bf511b8b0e5174a05f54c8c9ac7eb178b0a20dac8a4d756b5108cbd7752319a",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-e6007e.png",
+    "path": "assets/piktogramy/organic-v4/waist-e6007e.png",
+    "sha256": "5e61f404958a0c94b653d9d820be97f9bf48ecef2eb49350c9c62acc3dc01110",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ecba06.png",
+    "path": "assets/piktogramy/organic-v4/waist-ecba06.png",
+    "sha256": "edde1f5094a3216b73939d66a12155b62b06d3c538968e35bdb8a49263abe4da",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/30fdbcd0bfa87b381bb42347e60babb7681b3d26/assets/piktogramy/organic-v4/waist-ed0081.png",
+    "path": "assets/piktogramy/organic-v4/waist-ed0081.png",
+    "sha256": "e2f1ca62938d2dd749c93a241064f49db822e47830308775f918c365320d3bb1",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/capsule.png",
+    "path": "assets/piktogramy/bikini-v3/capsule.png",
+    "sha256": "c8f3181e7157a3240de2a7e22d528c52e0e4ae936a2733c2b5c4f13dbafde4e9",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/circulation.png",
+    "path": "assets/piktogramy/bikini-v3/circulation.png",
+    "sha256": "34fbcef4cb09aff7f4a4f43631bcff4dcfc67614bbcfedcb78c3e1af6cc8e0ab",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/digestion.png",
+    "path": "assets/piktogramy/bikini-v3/digestion.png",
+    "sha256": "cad97675b1c3172da4c309a58bde56832e35a0d830004e3c207b39388dfe278e",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/flag.png",
+    "path": "assets/piktogramy/bikini-v3/flag.png",
+    "sha256": "a36f917113b5f5851bd7f2a6da18b13fbbacc072d91c1a6a94a1421d499cb762",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/legs.png",
+    "path": "assets/piktogramy/bikini-v3/legs.png",
+    "sha256": "4e50275dfc90bac25ee61d8df90ed2f47ec79b5f5f6ff143392dd1fb037a877f",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/cf82e2ac1db72e0df2582cd82fdec70ffa130377/assets/piktogramy/bikini-v3/skin_smooth.png",
+    "path": "assets/piktogramy/bikini-v3/skin_smooth.png",
+    "sha256": "34cd5c50cc21b3cb64fb6c350b3c001b76a9990335e4483832c6f2cb62ffccca",
+    "status": 200,
+    "mime": "image/png",
+    "cors": "*",
+    "dimensions": [
+      256,
+      256
+    ],
+    "alpha": true
+  }
+]

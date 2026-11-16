@@ -1,0 +1,639 @@
+{
+  "ledger": [
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css",
+      "sha256_before": "c7943f2d1a16ec66c02d4ba871eceaf468308e1a994af2c74e928e264867bb26",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"anti-age-longevity\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 16593,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "5ed688cced21b2038c4f54f49974a17306c3a1a02faa0d125f89e2f9e699a68c",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css",
+      "sha256_before": "4ff7e799274046dc096ab10db4fd691ffdf16d800ef11dc8942fc8ae81bf439e",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"beauty-body-soul\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11308,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "102dbf5d6f21ce96c2ba8e1d9739a8308f29747f175be731b06d3b7965cacc16",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css",
+      "sha256_before": "3b55ed92298e29c0d56c67a87c362e97d41c77de1cf5549ad3e420a6b2f2eb2e",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"beauty-longevity-sacek\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 18645,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "43dd4ab79e9c1d86aabeaf7329cdaa94ad5b12e96d172870fd351603fe9518ac",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity.css",
+      "sha256_before": "cd546ed5cd06a72698793696eac55b0d578f4b423f1fb36adcc4c25794a289a5",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"beauty-longevity\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 14468,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "7980cdabbe9779683cc8f9708360bdb99e3ade70ede73158577ca5d51ff3c46b",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-star.css",
+      "sha256_before": "954b58422808cc1c6a527da735a838866388e87a9aa3d8c5b83a5f4e795f679d",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"beauty-star\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11340,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "61f57c2abc0ba92aa99b949f6233c7edccd33e8291a44363949cb13141984bb1",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-bikini-body.css",
+      "sha256_before": "177f28790cb51b4f8e514b6ed6ba9caaa41000d114bbfaf5f50fc02b81ae797d",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"bikini-body\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11233,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "45a5b3138c807fd271b7e9434a6974a566c28b1b13cf078d13065b8c853fd9d1",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-30-dni.css",
+      "sha256_before": "054885af07257d08d97c2d93ad67fcd0b2868016d1918ee605310fa87f3df81a",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"detoxikacni-caj-30-dni\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11396,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "8e49edf5590ea4de6c2e6fe133c562b61d15702de0b8d8933d1c3f68e78ba5bd",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-detoxikacni-caj-7-dni.css",
+      "sha256_before": "7686bbc1322be3c77e35e723ba4a711331d814a3844529a8a0c640f129e7e5c7",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"detoxikacni-caj-7-dni\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11381,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "2204110d152cdecdd1d5ccf496c0ffa15df8bf3ea11b92ece104a84ca861eaae",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance-sacek.css",
+      "sha256_before": "ceab576066c4b07cea91e9a1421c84978e73163b0e308a77557a0c945cbee470",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"glp1-woman-balance-sacek\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 16625,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "2008108700029e1a329bd57f815f378296a30d1c0dc7416fd7225937c2b05d11",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-glp1-woman-balance.css",
+      "sha256_before": "698545418997d460da56caca26ad551df26ef6570c6ad4f8dbb5da1afd00f723",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"glp1-woman-balance\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 15971,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "bd1893742cbbb550bc642b873af842135a7d972caf5550cd2f6ddca173de487c",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css",
+      "sha256_before": "b2f278af2267bce44bceb2837425f134164a29f14dc424c3747dcfac6bfe0e46",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"good-sleep-night-burn\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11382,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "6373c67a155aad0e834c3a7a462246be685a021287e6315e6b975de2a33b168f",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-miracle-drops.css",
+      "sha256_before": "3f90e4c5129fa980d449ca3d9667bfd9f1f17f0164752ffe158911baca1a83a3",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"miracle-drops\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11263,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "fdbe1b5ec045868eb18f64c738a0da0089a0cb711e74b65c62df1f19932f95f0",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-ph-uro-balance-caj.css",
+      "sha256_before": "22234131309895dd575b6070b2ab5e10f45b948181878cff60ba3e42e0f7e602",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"ph-uro-balance-caj\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11337,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "8961c3588ede69b230b99f212e433c3e78348221614e4324795dbd74d6593636",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css",
+      "sha256_before": "899e3f29ef5816ef81d5915c93a4782d008b0d9f572cf7727d81de4df9e29ad3",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-detox-power-plus\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11383,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "7258027c77ac5c462dd65fe07615414aa518ab4f1db670f519e1a53729355209",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css",
+      "sha256_before": "98f76a3995875c697ab77155b944e594cff485b6e9852c9ad0efa46103db1522",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-extreme-collagen-box-ananas-mango\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 16344,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "0c3ff3949ca8759b553cb58bbaf2aa3f1ffc204e1747d6cbf4b8b3f4b11bcab3",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "sha256_before": "576b9f1efda42b4bd95beb25534299543f89311cb61aa735023e3c2272cc3341",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-extreme-collagen-box-ananas\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 12893,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "7c9f96c45243f32526abf11429d7fbf04832c5a9f518a800e22db38d58c52e68",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css",
+      "sha256_before": "763752d34deab4db0f7c0e3a67b004006b9d3705e0358adb36cebb0d60c05421",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-extreme-collagen-sacek-ananas-mango\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 17369,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "9c0072dec084a5493f31cebfd6a59abd5bc6762dfe53776b35d01ab4fe64b348",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css",
+      "sha256_before": "8898da1cdb945d91814013f65482d1d6a06d03c19d11444f72347c4472e04469",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-extreme-collagen-sacek-ananas\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 14710,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "1b64a4da9032540a17c4cc2d4689792b935bd581b77bbe02df7eac0cfe4a5c35",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen.css",
+      "sha256_before": "5250c4efadc28f8dd118a7daf7ab22bcc65b4c5bc30d911a370e4bd38e46c96c",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-extreme-collagen\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 16168,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "9d0ecca36f0fb5b2e8f9048bd1964300349b48af5458c42173e8e1c08b5b060d",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-glp-1-activator.css",
+      "sha256_before": "debc2ed247c42c5f9de8c0d7f938b15f07515ca0c6602d98098db43963b74005",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-glp-1-activator\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 12902,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "ca060dee5b3014727bcfc8742c076926b80dfc29e77cfcf4fdfd47e031e1d6dd",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-cappuccino.css",
+      "sha256_before": "ff8d33672aa7105ec1492656a8ec5c8f15f45cf02dc7ef6151771fa726d15355",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-glp1-shake-cappuccino\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 13046,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "b82acc12f993d34d36e56b23f3040dbcea7f62a4d02d085acdea408ae88b6163",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-kokos-bila-cokolada.css",
+      "sha256_before": "9bae6463a0a924634b935c1ee99ed0b2190ed3e968e9d347d67b181bbdb9f68e",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-glp1-shake-kokos-bila-cokolada\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 13262,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "a9fdfb92f000d1592e22630a11bcab8d162bf451bf5c8a66e3787f65a44af8fb",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-glp1-shake-vanilka-jahoda.css",
+      "sha256_before": "f68e564813b38ecef74fbf2bab3893bc6aaea6a22ceb721c33c723495a42e8b3",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-glp1-shake-vanilka-jahoda\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 13142,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "3db3a5c991bcda1cf19a4415b048badd7bf4cea9417b9b643bb985a8424050e6",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-slim-sos-fat-burner.css",
+      "sha256_before": "706b4344f39748cc5b7479e9aa8add50901e7b2dcfe96427c49ccbe8f7221fb1",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"slim-sos-fat-burner\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 12428,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "401dec284f68c65df8db108349dc825993c702151bcd46ae2bd79c0fcb1d0fb5",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-vitamin-c.css",
+      "sha256_before": "f1b62aae679ffe9543d77bbf3e21ddfabc5e3d06158b88243e6d3622caa9a93d",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"vitamin-c\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11202,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "18b3bf173ac8a045541975b38b54fde9392bdaf54cad3c5ff501165002db1b8e",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-woman-hormonal-balance.css",
+      "sha256_before": "567f2ae9c9e0ac9911666f0605c8119077799e71fa43dc0b71fd22135095d18d",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"woman-hormonal-balance\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 16740,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "6287948dfd1db8dc288f79f14802feefa7096dca4b790b004d100b25883a6cad",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-barvy-xpress-hair-grow.css",
+      "sha256_before": "b1b72b05de4f08fa8d55fb52f849adca31c6aa6fcf469e50dbd6f47d75a300db",
+      "edits": [
+        {
+          "selector": ":where([data-gl-theme=\"xpress-hair-grow\"][data-gl-site-scheme=\"dark\"]) .p-icon-card",
+          "offset": 11307,
+          "before": "background:var(--gl-dark-raised)!important;border-color:var(--gl-dark-border);",
+          "after": "background:transparent!important;border-color:transparent;"
+        }
+      ],
+      "sha256_after": "5f7e36697ebc45179688d52075f468a4e2b05da2aff74cea24665eb4d6acac67",
+      "css_only_reversal_verified": true
+    },
+    {
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "sha256_before": "3380d3b53b4348ebdaea8c763dce98c2e196dd6dea63b2cfda65841b2a5d723b",
+      "edits": [
+        {
+          "selector": ":where([data-gl-layout=\"hormonal-duo\"],[data-gl-layout=\"hormonal-trio\"]) .p-icon-card",
+          "offset": 22135,
+          "before": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--gl-tone-p-icon-card-background-1);border-radius:var(--gl-radius-md);padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:transform 0.25s ease,box-shadow 0.25s ease;border:1px solid var(--gl-tone-p-icon-card-border-1);box-shadow:0 2px 8px var(--gl-tone-p-icon-card-box-shadow-1)",
+          "after": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:transparent;border-radius:0;padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:none;border:0;box-shadow:none"
+        },
+        {
+          "selector": ":where([data-gl-layout=\"hormonal-duo\"],[data-gl-layout=\"hormonal-trio\"]) .p-icon-card:hover",
+          "offset": 22626,
+          "before": "transform:translateY(-4px);box-shadow:0 8px 24px var(--gl-tone-p-icon-card-hover-box-shadow-1)",
+          "after": "transform:none;box-shadow:none"
+        },
+        {
+          "selector": ":where([data-gl-layout=\"beauty-longevity\"],[data-gl-layout=\"glp1-woman-balance\"],[data-gl-layout=\"glp1-woman-balance-sacek\"],[data-gl-layout=\"woman-hormonal-balance\"]) .p-icon-card",
+          "offset": 35915,
+          "before": "padding:12px 6px 10px;border-radius:var(--gl-radius-md)",
+          "after": "padding:12px 6px 10px;border-radius:0"
+        },
+        {
+          "selector": ":where([data-gl-layout=\"beauty-longevity\"],[data-gl-layout=\"glp1-woman-balance\"],[data-gl-layout=\"glp1-woman-balance-sacek\"],[data-gl-layout=\"woman-hormonal-balance\"]) .p-icon-card",
+          "offset": 37821,
+          "before": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--gl-tone-p-icon-card-background-1);border-radius:var(--gl-radius-md);padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:transform 0.25s ease,box-shadow 0.25s ease;border:1px solid var(--gl-tone-p-icon-card-border-1);box-shadow:0 2px 8px var(--gl-tone-p-icon-card-box-shadow-1)",
+          "after": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:transparent;border-radius:0;padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:none;border:0;box-shadow:none"
+        },
+        {
+          "selector": ":where([data-gl-layout=\"beauty-longevity\"],[data-gl-layout=\"glp1-woman-balance\"],[data-gl-layout=\"glp1-woman-balance-sacek\"],[data-gl-layout=\"woman-hormonal-balance\"]) .p-icon-card:hover",
+          "offset": 38407,
+          "before": "transform:translateY(-4px);box-shadow:0 8px 24px var(--gl-tone-p-icon-card-hover-box-shadow-1)",
+          "after": "transform:none;box-shadow:none"
+        },
+        {
+          "selector": "#nad-popis:where([data-gl-layout=\"anti-age-longevity\"]) .p-icon-card",
+          "offset": 94927,
+          "before": "padding:12px 6px 10px;border-radius:var(--gl-radius-md)",
+          "after": "padding:12px 6px 10px;border-radius:0"
+        },
+        {
+          "selector": "#nad-popis:where([data-gl-layout=\"anti-age-longevity\"]) .p-icon-card",
+          "offset": 96037,
+          "before": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--gl-tone-p-icon-card-background-1);border-radius:var(--gl-radius-md);padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:transform 0.25s,box-shadow 0.25s;border:1px solid var(--gl-tone-p-icon-card-border-1);box-shadow:0 2px 8px var(--gl-tone-p-icon-card-box-shadow-1)",
+          "after": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:transparent;border-radius:0;padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:none;border:0;box-shadow:none"
+        },
+        {
+          "selector": "#nad-popis:where([data-gl-layout=\"anti-age-longevity\"]) .p-icon-card:hover",
+          "offset": 96501,
+          "before": "transform:translateY(-4px);box-shadow:0 8px 24px var(--gl-tone-p-icon-card-hover-box-shadow-1)",
+          "after": "transform:none;box-shadow:none"
+        },
+        {
+          "selector": "#special-popis.gl-box-refined:where([data-gl-layout=\"darkovy-box-beauty\"],[data-gl-layout=\"darkovy-box-hormonal\"],[data-gl-layout=\"darkovy-box-longevity\"],[data-gl-layout=\"darkovy-box-slim\"],[data-gl-layout=\"darkovy-box-ufirst\"]) .p-icon-card",
+          "offset": 136339,
+          "before": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--gl-tone-gl-box-refined-p-icon-card-background-1);border-radius:var(--gl-radius-md);padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:transform .25s,box-shadow .25s;border:1px solid var(--gl-tone-gl-box-refined-p-icon-card-border-1);box-shadow:0 2px 8px var(--gl-tone-gl-box-refined-p-icon-card-box-shadow-1)",
+          "after": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:transparent;border-radius:0;padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:none;border:0;box-shadow:none"
+        },
+        {
+          "selector": "#special-popis.gl-box-refined:where([data-gl-layout=\"darkovy-box-beauty\"],[data-gl-layout=\"darkovy-box-hormonal\"],[data-gl-layout=\"darkovy-box-longevity\"],[data-gl-layout=\"darkovy-box-slim\"],[data-gl-layout=\"darkovy-box-ufirst\"]) .p-icon-card:hover",
+          "offset": 137020,
+          "before": "transform:translateY(-4px);box-shadow:0 8px 24px var(--gl-tone-gl-box-refined-p-icon-card-hover-box-shadow-1)",
+          "after": "transform:none;box-shadow:none"
+        },
+        {
+          "selector": ":where(#special-popis:not([data-gl-product]),#nad-popis:not([data-gl-product])) .p-icon-card",
+          "offset": 243759,
+          "before": "padding:12px 6px 10px;border-radius:var(--gl-radius-md,12px)",
+          "after": "padding:12px 6px 10px;border-radius:0"
+        },
+        {
+          "selector": ":where(#special-popis:not([data-gl-product]),#nad-popis:not([data-gl-product])) .p-icon-card",
+          "offset": 244895,
+          "before": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:rgba(255,255,255,0.92);border-radius:var(--gl-radius-md,12px);padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:transform 0.25s ease,box-shadow 0.25s ease;border:1px solid rgba(var(--gl-color-primary-rgb,227,18,126),0.06);box-shadow:0 2px 8px rgba(var(--gl-color-primary-rgb,227,18,126),0.04)",
+          "after": "display:flex;flex-direction:column;align-items:center;justify-content:center;background:transparent;border-radius:0;padding:16px 10px 14px;width:100%;height:100%;box-sizing:border-box;transition:none;border:0;box-shadow:none"
+        },
+        {
+          "selector": ":where(#special-popis:not([data-gl-product]),#nad-popis:not([data-gl-product])) .p-icon-card:hover",
+          "offset": 245404,
+          "before": "transform:translateY(-4px);box-shadow:0 8px 24px rgba(var(--gl-color-primary-rgb,227,18,126),0.1)",
+          "after": "transform:none;box-shadow:none"
+        }
+      ],
+      "sha256_after": "65f9308e4addb2d25844f380a727956b512c4e916c9a9d75736699677412c3f1",
+      "css_only_reversal_verified": true
+    }
+  ],
+  "inline": [
+    {
+      "path": "shoptet/piktogramy-dalsi/534-slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada-dlouhy.html",
+      "edits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12295,
+          "before": " padding: 12px 6px 10px; border-radius: var(--gl-radius-md); ",
+          "after": " padding: 12px 6px 10px; border-radius:0; "
+        },
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12552,
+          "before": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background: rgba(255, 255, 255, 0.92);\n  border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background:transparent;\n  border-radius:0;\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 13017,
+          "before": "\n  transform: translateY(-4px);\n  box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1);\n",
+          "after": "\n  transform:none;\n  box-shadow:none;\n"
+        }
+      ],
+      "reason": "Standalone source without shared CSS; parent owns HTML concurrently. Apply exact before/after CSS body replacements only."
+    },
+    {
+      "path": "shoptet/piktogramy-dalsi/537-slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda-dlouhy.html",
+      "edits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12276,
+          "before": " padding: 12px 6px 10px; border-radius: var(--gl-radius-md); ",
+          "after": " padding: 12px 6px 10px; border-radius:0; "
+        },
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 12533,
+          "before": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background: rgba(255, 255, 255, 0.92);\n  border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  background:transparent;\n  border-radius:0;\n  padding: 16px 10px 14px;\n  width: 100%;\n  height: 100%;\n  box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 12998,
+          "before": "\n  transform: translateY(-4px);\n  box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1);\n",
+          "after": "\n  transform:none;\n  box-shadow:none;\n"
+        }
+      ],
+      "reason": "Standalone source without shared CSS; parent owns HTML concurrently. Apply exact before/after CSS body replacements only."
+    },
+    {
+      "path": "shoptet/piktogramy-dalsi/632-nad-trio-dlouhy.html",
+      "edits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 4105,
+          "before": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background:transparent; border-radius:0;\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 4555,
+          "before": " transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); ",
+          "after": " transform:none; box-shadow:none; "
+        }
+      ],
+      "reason": "Standalone source without shared CSS; parent owns HTML concurrently. Apply exact before/after CSS body replacements only."
+    },
+    {
+      "path": "web/Golden Life Hormonal Duo/Golden_Life__Hormonal_duo_cz.html",
+      "edits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 4077,
+          "before": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background:transparent; border-radius:0;\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 4527,
+          "before": " transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); ",
+          "after": " transform:none; box-shadow:none; "
+        }
+      ],
+      "reason": "Standalone source without shared CSS; parent owns HTML concurrently. Apply exact before/after CSS body replacements only."
+    },
+    {
+      "path": "web/Golden Life Hormonal Trio/Golden_Life__Hormonal_triocz.html",
+      "edits": [
+        {
+          "selector": ".p-icon-card",
+          "offset_at_inventory": 4150,
+          "before": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background: rgba(255, 255, 255, 0.92); border-radius: var(--gl-radius-md);\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition: transform 0.25s ease, box-shadow 0.25s ease;\n  border: 1px solid rgba(var(--gl-color-primary-rgb), 0.06);\n  box-shadow: 0 2px 8px rgba(var(--gl-color-primary-rgb), 0.04);\n",
+          "after": "\n  display: flex; flex-direction: column; align-items: center; justify-content: center;\n  background:transparent; border-radius:0;\n  padding: 16px 10px 14px; width: 100%; height: 100%; box-sizing: border-box;\n  transition:none;\n  border:0;\n  box-shadow:none;\n"
+        },
+        {
+          "selector": ".p-icon-card:hover",
+          "offset_at_inventory": 4600,
+          "before": " transform: translateY(-4px); box-shadow: 0 8px 24px rgba(var(--gl-color-primary-rgb), 0.1); ",
+          "after": " transform:none; box-shadow:none; "
+        }
+      ],
+      "reason": "Standalone source without shared CSS; parent owns HTML concurrently. Apply exact before/after CSS body replacements only."
+    }
+  ],
+  "static_qa": {
+    "changed_css_files": 28,
+    "changed_css_rules": 40,
+    "html_files_written_by_this_worker": 0,
+    "uro_ico_occurrences_in_production_source": 0,
+    "nad_ico_actual_elements_in_production_source_at_inventory": 48,
+    "nad_ico_status": "Already transparent, border:0, radius:0 in production shared CSS; no changes needed.",
+    "all_changes_reverse_to_original_css_hash": true
+  },
+  "browser_summary": {
+    "browser": "real Chromium via Browser Use CLI/CDP",
+    "method": "Exact production HTML snapshots with @import styles replaced in-memory by local CSS before/after; scripts disabled and HTTP/HTTPS blocked only in QA harness. CSS dark branches explicitly selected; not a native host-scheme-initializer test.",
+    "documents_total": 139,
+    "documents_using_changed_shared_css": 134,
+    "proposed_inline_documents_not_written": 5,
+    "scenarios_total": 556,
+    "widths": [
+      1280,
+      390
+    ],
+    "schemes": [
+      "light",
+      "dark"
+    ],
+    "frameless_passes": 556,
+    "protected_styles_unchanged_passes": 556,
+    "protected_style_comparisons": 18852,
+    "failure_count": 0,
+    "failures": [],
+    "protected_selectors": [
+      ".cta-box",
+      ".cta-content",
+      ".cta-text",
+      ".cta-product-img",
+      ".cta-button",
+      ".btn-s",
+      ".nad-btn",
+      ".latky",
+      ".latky-modal-box",
+      ".latky-modal-close",
+      ".latky-plus",
+      ".custom-grid",
+      ".custom-grid img",
+      ".ucinky-item",
+      ".gl-benefit-colour"
+    ],
+    "native_hover_spot_check": {
+      "path": "shoptet/hormonal.html",
+      "width": 390,
+      "scheme": "dark",
+      "method": "CDP CSS.forcePseudoState hover on first actual .p-icon-card",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": "0px",
+      "radius": "0px",
+      "shadow": "none",
+      "transform": "none",
+      "passed": true
+    },
+    "local_authentic_icon_decode_spot_check": {
+      "path": "shoptet/hormonal.html",
+      "icons": 6,
+      "decoded": 6,
+      "note": "Existing snapshot PNGs embedded only in QA; not proof of parent’s new artwork."
+    },
+    "visual_screenshot": "Page.captureScreenshot timed out after 60s; no screenshot visual sign-off claimed."
+  },
+  "finalIntegrationReport": "browser-qa.json"
+}
