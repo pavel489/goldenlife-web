@@ -1,0 +1,19 @@
+{
+  "sourceCommit": "2103f411272d38e8978af2601970a60112c5c67a",
+  "assetCommit": "286002abbca46d80f336fac0579177c82e7c8c37",
+  "oldAssetsUnified": 109,
+  "newColorPngCount": 104,
+  "editableSvgMotifs": 46,
+  "strokeWidthAt64": 2,
+  "roundCapsAndJoins": true,
+  "filledSilhouettesReplacedWithOutlineDrawing": true,
+  "changedProductionFiles": 203,
+  "changedHtmlFiles": 203,
+  "imageReferenceChanges": 1090,
+  "copyTablesScriptsPreserved": true,
+  "cmsSaved": false,
+  "scope": "Both previously delivered frameless icon sets, not all other untouched shop icon families",
+  "model": "GPT-6.1-sol",
+  "paidImageGeneration": 0,
+  "modelRuntimeCost": "not measured here"
+}
