@@ -1,0 +1,384 @@
+{
+  "base": "20b449a66194e538c3339d4a6696bfc6f3bb96d0",
+  "files": [
+    {
+      "path": "web/Golden Life Darkovy box Longevity/maly/Golden-Life-Darkovy-box-Longevity-maly-sk.html",
+      "restored_icons": 6,
+      "source": "current Git",
+      "sha256": "8641a598713663bc2e44936a0f0b5799057ae1a7e14364bd369f64519f14f5de"
+    },
+    {
+      "path": "web/Golden Life Darkovy box Longevity/Golden_Life_Darkovy_box_Longevity_sk.html",
+      "restored_icons": 6,
+      "source": "https://www.golden-life.cz/sk/darcekovy-box-longevity/",
+      "sha256": "d19a22d222826e119dc4ce323c8318f99aa669fcce54d9e8b2df573bb9dc54a9"
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/maly/Golden-Life-Darkovy-box-UFIRST-maly-sk.html",
+      "restored_icons": 6,
+      "source": "https://www.golden-life.cz/sk/golden-life-darkovy-box-ufirst/",
+      "sha256": "b1fa17a1a3dd1aa6f0f959f4a849e8509c8852af0da55d3aab4338ec4b455d37"
+    },
+    {
+      "path": "web/Golden Life Darkovy box UFIRST/Golden_Life_Darkovy_box_UFIRST_sk.html",
+      "restored_icons": 6,
+      "source": "https://www.golden-life.cz/sk/golden-life-darkovy-box-ufirst/",
+      "sha256": "a0afbbd1fddaa4ef06b2505c11720d49474cacfd819e84a726a0ec21141d43b3"
+    }
+  ],
+  "test": "Exact final fragments in full-page response override, not live CMS",
+  "cases": [
+    {
+      "box": "longevity",
+      "kind": "short",
+      "viewport": 1440,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/01-kolagen.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/02-sacky-malina.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/03-nikotinamid-ribosid.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/04-veganske-kapsle.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(217, 8, 23)"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "box": "longevity",
+      "kind": "long",
+      "viewport": 1440,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/01-kolagen.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/02-sacky-malina.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/03-nikotinamid-ribosid.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/04-veganske-kapsle.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(217, 8, 23)"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "box": "longevity",
+      "kind": "short",
+      "viewport": 390,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/01-kolagen.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/02-sacky-malina.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/03-nikotinamid-ribosid.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/04-veganske-kapsle.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(217, 8, 23)"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "box": "longevity",
+      "kind": "long",
+      "viewport": 390,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/01-kolagen.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/02-sacky-malina.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/03-nikotinamid-ribosid.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/04-veganske-kapsle.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(217, 8, 23)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/4a61d15f2e6ecd18da28ebbd87e3170888f4ac04/assets/longevity-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(217, 8, 23)"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "box": "ufirst",
+      "kind": "short",
+      "viewport": 1440,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/01-slozky.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/02-sacky.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/03-prichute.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/04-rostlinne-kapsle.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 40,
+          "bg": "rgb(91, 207, 222)"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "box": "ufirst",
+      "kind": "long",
+      "viewport": 1440,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/01-slozky.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/02-sacky.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/03-prichute.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/04-rostlinne-kapsle.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 64,
+          "bg": "rgb(91, 207, 222)"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "box": "ufirst",
+      "kind": "short",
+      "viewport": 390,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/01-slozky.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/02-sacky.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/03-prichute.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/04-rostlinne-kapsle.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 32,
+          "bg": "rgb(91, 207, 222)"
+        }
+      ],
+      "passed": true
+    },
+    {
+      "box": "ufirst",
+      "kind": "long",
+      "viewport": 390,
+      "icons": [
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/01-slozky.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/02-sacky.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/03-prichute.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/04-rostlinne-kapsle.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/05-lahev.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(91, 207, 222)"
+        },
+        {
+          "mask": "url(\"https://raw.githubusercontent.com/pavel489/goldenlife-web/0fbf052c9ee9bfc26a4112c763e66d17ee806143/assets/ufirst-giftbox-line-icons/06-usb-michatko.png\")",
+          "loaded": true,
+          "width": 48,
+          "bg": "rgb(91, 207, 222)"
+        }
+      ],
+      "passed": true
+    }
+  ]
+}
