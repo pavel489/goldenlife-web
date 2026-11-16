@@ -1,0 +1,862 @@
+
+                
+                                    <p>&nbsp;</p>
+<p><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /></p>
+<style><!--
+@import url("https://www.golden-life.cz/user/documents/upload/UFIRST/UFIRST10.css");
+@import url("https://www.golden-life.cz/user/documents/upload/UFIRST/ufirst-produkt.css");
+@import url("https://www.golden-life.cz/user/documents/upload/UFIRST/all-in-one.css");
+@import url("https://www.golden-life.cz/user/documents/upload/UFIRST/UFIRST-PATCH.css");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+/* Základ, aliasy proměnných, reset, nadpisy Impact, CMS opravy → přesunuto do UFIRST08.css */
+/* Účinky (uf-areas): pilulky s aktivními látkami pod sebou a stejně široké */
+.ufirst-detail .uf-area-pills{flex-direction:column;align-items:stretch;padding:0 70px}
+.ufirst-detail .uf-area-pills .uf-pill{width:100%;padding-right:20px}
+.ufirst-detail .uf-area-pills .uf-pill-img{margin-left:auto}
+/* Claim-band „Začni u sebe": při zúžení ořezávat zleva → drží nápoje vpravo */
+.ufirst-detail .claim-band img{object-position:right center}
+/* Mobil: kratší banner (ukáže patio i kbelík) + text „Začni u sebe" vlevo do volného místa */
+@media (max-width:767px){
+  .ufirst-detail .claim-band{min-height:0;aspect-ratio:3/2;align-items:center;justify-content:flex-start}
+  .ufirst-detail .claim-band h2{text-align:left;padding:0 0 0 22px;max-width:52%;font-size:34px}
+}
+/* Shoptet obal: na mobilu bez bočního odsazení */
+@media (max-width: 767px){.content-wrapper.container .row>div{padding-left:0;padding-right:0}
+.latky-grid .odstavec2 {
+        padding: 0px 0 0;}}
+/* ===== Progresivní načítání obrázků: kostra (shimmer) + plynulé objevení =====
+   Třídu .uf-img přidává JS (bez JS zůstanou obrázky normálně viditelné). */
+@keyframes uf-shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+.ufirst-detail img.uf-img{opacity:0;transition:opacity .45s ease}
+.ufirst-detail img.uf-img.uf-loaded{opacity:1}
+.ufirst-detail .claim-band,
+.ufirst-detail .carousel-slide,
+.ufirst-detail .uf-areas-img,
+.ufirst-detail .uf-howto-img{background-image:linear-gradient(100deg,#e4edef 25%,#f3f8f9 50%,#e4edef 75%);background-size:200% 100%;animation:uf-shimmer 1.3s linear infinite}
+.ufirst-detail .uf-skel-done{animation:none!important;background-image:none!important}
+/* ===== CLS: rezervace místa pro obrázky bez pevné výšky =====
+   Bez aspect-ratio měly height:auto → do načtení 0 px, po načtení naskočily a
+   odstrčily obsah (Cumulative Layout Shift). Poměry = přirozený poměr obrázků
+   drinku (stejná zobrazená velikost, jen se místo rezervuje předem). */
+.ufirst-detail .hero-visual img{aspect-ratio:3.847;height:auto}
+.ufirst-detail .uf-flav-row .uf-flav-pack{aspect-ratio:3.847;height:auto}
+.ufirst-detail .uf-daily2-graphic img{aspect-ratio:1.22;height:auto}
+.ufirst-detail .final-art img{aspect-ratio:1.335;height:auto}
+.ufirst-detail .uf-footcta-img img{aspect-ratio:1.335;width:100%;height:auto}
+--></style>
+<p>
+<script defer="defer" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/ufirst-common.js'></script>
+</p>
+<div class="ufirst-detail"><main class="long">
+<section class="hero section">
+<div class="hero-copy">
+<h2>Jeden sáček.<br /><em>A&nbsp;o&nbsp;sebe je postaráno.</em></h2>
+<p>Nestačí jen jíst vitaminy. Důležité je, aby spolu správně fungovaly, ve&nbsp;správném poměru, v&nbsp;dobře vstřebatelné formě a&nbsp;v&nbsp;prvotřídní kvalitě. Právě tak jsme vytvořili UFIRST.</p>
+<p><strong style="color: var(--yellow);">SYNERGIE, KTERÁ DÁVÁ SMYSL</strong><br />Všechny složky jsou pečlivě vybrané a&nbsp;vzájemně se doplňují, aby se v&nbsp;těle lépe vstřebávaly a&nbsp;přinášely maximální efekt. 85+ složek pracuje společně – pro vaši energii, hydrataci, soustředění a&nbsp;vitalitu každý den.</p>
+<p><strong style="color: var(--yellow);">PŘÍRODNÍ ZDROJE, SKUTEČNÁ KVALITA</strong><br />Minerály z&nbsp;moře Aquamin®, elektrolyty z&nbsp;kokosové vody a&nbsp;další čisté, přírodní ingredience. Bez zbytečných aditiv. Jen to, co dává smysl.</p>
+<p><strong style="color: var(--yellow);">ELEKTROLYTY I&nbsp;V&nbsp;BĚŽNÝ DEN</strong><br />Podporují hydrataci, energii a&nbsp;soustředění – nejen po sportu, ale každý den. Ať už jste ve&nbsp;škole, v&nbsp;práci, na cestách nebo jen chcete udělat něco pro sebe.</p>
+<p><strong>MÉNĚ DOPLŇKŮ. VÍC PRO SEBE.</strong></p>
+<div class="cta-row"><a class="cta-button uf-add-cart uf-btn uf-btn--accent" role="button" tabindex="0">Přidat do košíku</a><a class="ghost uf-btn uf-btn--ghost" href="#uf-slozeni">Prohlédnout složení</a></div>
+</div>
+<div class="hero-visual"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/sacek mokap bez jabko web.png' alt="UFIRST mockup zelené jablko" /> <img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/sacek mokap bez malina web.png' alt="UFIRST mockup malina" /> <img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/sacek mokap bez tropical-web.png' alt="UFIRST mockup tropical" /></div>
+</section>
+<section class="claim-band section"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/storie1allinone.png' alt="UFIRST all in one drink" />
+<h2>Začni u&nbsp;sebe.</h2>
+</section>
+<section class="section" style="display: none;">
+<div class="carousel-track uf-swipe">
+<div class="carousel-slide" id="story-1"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/storie2.png' alt="UFIRST all in one drink 1" />
+<p class="carousel-text">Nejde o&nbsp;to, že byste <span class="hl">nevěděli, co pro sebe máte dělat</span>. Jde o&nbsp;to, že na&nbsp;to během běžného dne prostě <span class="hl">nezbude čas ani hlava</span>.</p>
+<a class="uf-slide-link" href="#story-1" aria-label="Slide 1"></a></div>
+<div class="carousel-slide" id="story-2"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/storie3.png' alt="UFIRST all in one drink 2" />
+<p class="carousel-text">Jedna dóza ráno. Kapsle po&nbsp;jídle. Prášek večer. Půlka z&nbsp;toho v&nbsp;koupelně, půlka v&nbsp;kuchyni, a&nbsp;po pár dnech už netušíte, co jste dnes vlastně vzali. Tak to <span class="hl">většina lidí po&nbsp;čase vzdá</span>. Ne proto, že by na&nbsp;sobě nechtěli pracovat. Ale proto, že <span class="hl">je toho moc</span>.</p>
+<a class="uf-slide-link" href="#story-2" aria-label="Slide 2"></a></div>
+<div class="carousel-slide" id="story-3"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/storie4.png' alt="UFIRST all in one drink 3" />
+<p class="carousel-text">UFIRST tenhle uzel rozetne. <span class="hl">Jeden předem odměřený sáček</span> dá dohromady kolagen, aminokyseliny, probiotické kultury, enzymy, vitaminy i&nbsp;minerály do&nbsp;<span class="hl">jediného drinku</span>, který si připravíte <span class="hl">za&nbsp;pár vteřin</span>. Nic nevážíte, nic nekombinujete, na&nbsp;nic nezapomenete.</p>
+<a class="uf-slide-link" href="#story-3" aria-label="Slide 3"></a></div>
+<div class="carousel-slide" id="story-4"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/storie5.png' alt="UFIRST all in one drink 4" />
+<p class="carousel-text">A&nbsp;přesně v&nbsp;tom je ten rozdíl. Ne <span class="hl">dokonalá rutina</span>, kterou nevydržíte, ale <span class="hl">jednoduchý rituál</span>, který zvládnete i&nbsp;v <span class="hl">ten nejnabitější den</span>.</p>
+<a class="uf-slide-link" href="#story-4" aria-label="Slide 4"></a></div>
+<div class="carousel-slide" id="story-5"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/storie6.png' alt="UFIRST all in one drink 5" />
+<p class="carousel-text">S&nbsp;námi budeš <span class="hl">na&nbsp;prvním místě ty</span>. Málokdo začíná tam, kde na&nbsp;tom záleží nejvíc. <span class="hl">U&nbsp;sebe.</span></p>
+<a class="uf-slide-link" href="#story-5" aria-label="Slide 5"></a></div>
+</div>
+</section>
+<section class="section">
+<div class="uf-daily2">
+<div class="uf-daily2-copy">
+<h2 class="uf-daily2-title"><span style="color: #fff;">S&nbsp;NÁMI BUDEŠ<br />NA PRVNÍM MÍSTĚ TY.</span><br /><span style="color: var(--yellow);">MÁLOKDO ZAČÍNÁ TAM,</span><br /><span style="color: #fff;">KDE NA TOM ZÁLEŽÍ NEJVÍC –</span><br /><span style="color: var(--yellow);">U&nbsp;SEBE.</span></h2>
+<p class="uf-hide-mobile">Znáte to. Ráno nestíháte, přes den to vypustíte a&nbsp;večer se vám už nechce přemýšlet, kterou z&nbsp;pěti krabiček ještě otevřít. Péče o&nbsp;sebe skončí jako první věc, na kterou nezbyl čas. Zase.</p>
+<p>UFIRST to mění. Jeden praktický sáček spojuje kolagenní peptidy Peptan B®, aminokyseliny, směs 10 probiotických kultur, enzymy a&nbsp;široké spektrum vitaminů a&nbsp;minerálů do jediného drinku. Rozmícháte ve&nbsp;vodě, vypijete a&nbsp;to nejdůležitější rozhodnutí dne máte za sebou dřív, než dopijete ranní kávu.</p>
+<div class="uf-daily2-bottom">
+<div class="uf-daily2-badges"><span class="uf-badge"><span class="fl" aria-hidden="true"></span> Vyrobeno v&nbsp;ČR</span> <span class="uf-badge"><span class="fl fl-ch" aria-hidden="true"></span> Dle švýcarské receptury</span></div>
+<div class="uf-daily2-free">
+<div><img src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/0fdb351c4895-Lactosefreewhite.png' alt="Lactose free" />Lactose free</div>
+<div><img src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/fd8980632d2e-Additivesfreewhite.png' alt="Additives free" />Additives free</div>
+<div><img src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/4ae02387bad7-GMOfreewhite.png' alt="GMO free" />GMO free</div>
+<div><img src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/eee319685f38-Glutenfreewhite.png' alt="Gluten free" />Gluten free</div>
+<div><img src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/291c48547a9e-Sugarfreewhite.png' alt="Sugar free" />Sugar free</div>
+</div>
+</div>
+</div>
+<div class="uf-daily2-graphic"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/sacek-vlastnostiufirst-2.png' alt="UFIRST all-in-one drink – složení" /></div>
+</div>
+</section>
+<section class="section uf-areas"><input class="uf-area-radio" type="radio" name="uf-area" id="uf-area-1" checked="checked" /> <input class="uf-area-radio" type="radio" name="uf-area" id="uf-area-2" /> <input class="uf-area-radio" type="radio" name="uf-area" id="uf-area-3" /> <input class="uf-area-radio" type="radio" name="uf-area" id="uf-area-4" />
+<p class="uf-eyebrow">účinky</p>
+<h2 class="section-title">Čtyři oblasti každodenní podpory v&nbsp;jednom drinku</h2>
+<div class="uf-areas-grid">
+<div class="uf-areas-content">
+<div class="uf-area-panel uf-p1">
+<h3>Hydratace a&nbsp;minerální rovnováha</h3>
+<p>UFIRST obsahuje prášek z&nbsp;kokosové vody CocoMineral®, mořský minerální komplex Aquamin MG Soluble® a&nbsp;citrát hořečnatý. Hořčík přispívá k&nbsp;elektrolytické rovnováze, k&nbsp;normálnímu energetickému metabolismu, k&nbsp;normální činnosti nervové soustavy a&nbsp;ke snížení míry únavy a&nbsp;vyčerpání.</p>
+<div class="uf-area-pills"><span class="uf-pill"><span class="uf-pill-txt">Aquamin MG Soluble®</span><img loading="lazy" decoding="async" class="uf-pill-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/Aquamin.png' alt="Aquamin MG Soluble®" /></span><span class="uf-pill"><span class="uf-pill-txt">CocoMineral®</span><img loading="lazy" decoding="async" class="uf-pill-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/kokos-alektrolit.png' alt="CocoMineral®" /></span></div>
+</div>
+<div class="uf-area-panel uf-p2">
+<h3>Regenerace a&nbsp;kolagenová péče</h3>
+<p>Každý sáček obsahuje 3 000 mg hydrolyzovaných kolagenních peptidů Peptan B® z&nbsp;hovězího kolagenu a&nbsp;1 110 mg L-glycinu. Vitamin C přispívá k&nbsp;normální tvorbě kolagenu pro normální funkci pokožky, chrupavek, kostí, krevních cév, dásní a&nbsp;zubů.</p>
+<div class="uf-area-pills"><span class="uf-pill"><span class="uf-pill-txt">Peptan B®</span><img loading="lazy" decoding="async" class="uf-pill-img uf-pill-img--fit" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/peptan-b-molekula.png' alt="Peptan B®" /></span><span class="uf-pill"><span class="uf-pill-txt">L-glycin</span><img loading="lazy" decoding="async" class="uf-pill-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/slozky/glycin_1.png' alt="L-glycin" /></span></div>
+</div>
+<div class="uf-area-panel uf-p3">
+<h3>Energie pro náročný den</h3>
+<p>Receptura kombinuje vitaminy skupiny B, vitamin C, hořčík a&nbsp;železo s&nbsp;aminokyselinami L-tyrosinem, L-taurinem, L-theaninem a&nbsp;s&nbsp;citikolinem. Vitaminy B1, B2, B3, B5, B6, B12 a&nbsp;vitamin C přispívají k&nbsp;normálnímu energetickému metabolismu a&nbsp;ke snížení míry únavy a&nbsp;vyčerpání.</p>
+<div class="uf-area-pills"><span class="uf-pill"><span class="uf-pill-txt">Vitamíny B</span><img loading="lazy" decoding="async" class="uf-pill-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/vitaminb.png' alt="Vitamíny B" /></span><span class="uf-pill"><span class="uf-pill-txt">Citikolin</span><img loading="lazy" decoding="async" class="uf-pill-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/citikolin.png' alt="Citikolin" /></span></div>
+</div>
+<div class="uf-area-panel uf-p4">
+<h3>Imunita a&nbsp;ochrana buněk</h3>
+<p>Denní dávka obsahuje vitamin C ve dvou formách (klasický i&nbsp;liposomální LIPOSOVIT®), vitamin D3, zinek a&nbsp;selen. Vitamin C, vitamin D, zinek a&nbsp;selen přispívají k&nbsp;normální funkci imunitního systému a&nbsp;k&nbsp;ochraně buněk před oxidativním stresem.</p>
+<div class="uf-area-pills"><span class="uf-pill"><span class="uf-pill-txt">Vitamin C</span><img loading="lazy" decoding="async" class="uf-pill-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/vitamin-c-citron.png' alt="Vitamin C" /></span><span class="uf-pill"><span class="uf-pill-txt">Zinek</span><img loading="lazy" decoding="async" class="uf-pill-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/zinek.png' alt="Zinek" /></span></div>
+</div>
+</div>
+<div class="uf-areas-visual">
+<div class="uf-areas-tabs"><label class="uf-area-tab uf-t1" for="uf-area-1"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-kapka-w_20.png' alt="" />Hydratace</label> <label class="uf-area-tab uf-t2" for="uf-area-2"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-srdce-w_20.png' alt="" />Regenerace</label> <label class="uf-area-tab uf-t3" for="uf-area-3"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-blesk-w_20.png' alt="" />Energie</label> <label class="uf-area-tab uf-t4" for="uf-area-4"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/pictogram-ufirst-stit-w_20.png' alt="" />Imunita</label></div>
+<div class="uf-areas-img"><img loading="lazy" decoding="async" class="uf-im1" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/Hydratace.jpg' alt="Hydratace" /> <img loading="lazy" decoding="async" class="uf-im2" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/Regenerace.jpg' alt="Regenerace" /> <img loading="lazy" decoding="async" class="uf-im3" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/Energie.jpg' alt="Energie" /> <img loading="lazy" decoding="async" class="uf-im4" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/Imunita.jpg' alt="Imunita" /></div>
+</div>
+</div>
+</section>
+<section class="section formula box" style="display: none;">
+<p class="uf-eyebrow">Složení</p>
+<h2 class="section-title">Jak je UFIRST poskládaný a&nbsp;proč právě takto</h2>
+<p>UFIRST není postaven na tom, aby měl co nejdelší složení. Jednotlivé skupiny látek byly zvoleny tak, aby daly praktickou denní recepturu.</p>
+<div class="compose">
+<div class="compose-list" data-accordion="" data-media="compose-img"><details name="slozeni" open="" data-img="/user/documents/upload/UFIRST/img/SLOZENI01.png"><summary>Kolagenní základ</summary>
+<p>Peptan B® a&nbsp;L-glycin tvoří kolagenní základ, doplněný vitaminem C, který přispívá k&nbsp;normální tvorbě kolagenu.</p>
+</details> <details name="slozeni" data-img="/user/documents/upload/UFIRST/img/SLOZENI02.png"><summary>Vitaminy ve zvolených formách</summary>
+<p>Vitaminy v&nbsp;pečlivě zvolených formách, například B12 jako methylkobalamin, folát jako L-5-methyltetrahydrofolát, vitamin K2 jako MK-7 a&nbsp;vitamin C ve standardní i&nbsp;liposomální formě.</p>
+</details> <details name="slozeni" data-img="/user/documents/upload/UFIRST/img/SLOZENI03.png"><summary>Minerály jako bisglycináty</summary>
+<p>Minerály jako bisglycináty (zinek, železo, mangan, měď), tedy chelátové formy vázané na aminokyselinu glycin.</p>
+</details> <details name="slozeni" data-img="/user/documents/upload/UFIRST/img/SLOZENI04.png"><summary>Hořčík z&nbsp;mořských zdrojů</summary>
+<p>Hořčík a&nbsp;stopové prvky z&nbsp;mořských zdrojů (Aquamin MG Soluble®, extrakt z&nbsp;kelpu jako zdroj jódu).</p>
+</details> <details name="slozeni" data-img="/user/documents/upload/UFIRST/img/SLOZENI05.png"><summary>10 probiotických kmenů</summary>
+<p>Směs 10 konkrétně uvedených probiotických kmenů s&nbsp;deklarovaným množstvím 10 miliard CFU.</p>
+</details> <details name="slozeni" data-img="/user/documents/upload/UFIRST/img/SLOZENI06.png"><summary>Trávicí enzymy</summary>
+<p>Trávicí enzymy bromelain a&nbsp;papain.</p>
+</details></div>
+<div class="compose-media"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI01.png' alt="Kolagenní základ" /><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI02.png' alt="Vitaminy ve zvolených formách" /><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI03.png' alt="Minerály jako bisglycináty" /><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI04.png' alt="Hořčík z&nbsp;mořských zdrojů" /><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI05.png' alt="10 probiotických kmenů" /><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI06.png' alt="Trávicí enzymy" /></div>
+<div class="compose-mobile">
+<div class="cm-track uf-swipe">
+<div class="cm-slide"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI01.png' alt="Kolagenní základ" />
+<div class="cm-card"><strong class="cm-title">Kolagenní základ</strong> <span class="cm-text">Peptan B® a&nbsp;L-glycin tvoří kolagenní základ, doplněný vitaminem C, který přispívá k&nbsp;normální tvorbě kolagenu.</span></div>
+</div>
+<div class="cm-slide"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI02.png' alt="Vitaminy ve zvolených formách" />
+<div class="cm-card"><strong class="cm-title">Vitaminy ve zvolených formách</strong> <span class="cm-text">Vitaminy v&nbsp;pečlivě zvolených formách, například B12 jako methylkobalamin, folát jako L-5-methyltetrahydrofolát, vitamin K2 jako MK-7 a&nbsp;vitamin C ve standardní i&nbsp;liposomální formě.</span></div>
+</div>
+<div class="cm-slide"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI03.png' alt="Minerály jako bisglycináty" />
+<div class="cm-card"><strong class="cm-title">Minerály jako bisglycináty</strong> <span class="cm-text">Minerály jako bisglycináty (zinek, železo, mangan, měď), tedy chelátové formy vázané na aminokyselinu glycin.</span></div>
+</div>
+<div class="cm-slide"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI04.png' alt="Hořčík z&nbsp;mořských zdrojů" />
+<div class="cm-card"><strong class="cm-title">Hořčík z&nbsp;mořských zdrojů</strong> <span class="cm-text">Hořčík a&nbsp;stopové prvky z&nbsp;mořských zdrojů (Aquamin MG Soluble®, extrakt z&nbsp;kelpu jako zdroj jódu).</span></div>
+</div>
+<div class="cm-slide"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI05.png' alt="10 probiotických kmenů" />
+<div class="cm-card"><strong class="cm-title">10 probiotických kmenů</strong> <span class="cm-text">Směs 10 konkrétně uvedených probiotických kmenů s&nbsp;deklarovaným množstvím 10 miliard CFU.</span></div>
+</div>
+<div class="cm-slide"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/SLOZENI06.png' alt="Trávicí enzymy" />
+<div class="cm-card"><strong class="cm-title">Trávicí enzymy</strong> <span class="cm-text">Trávicí enzymy bromelain a&nbsp;papain.</span></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section uf-compare2">
+<p class="uf-eyebrow">All in one</p>
+<h2 class="section-title">Co všechno UFIRST nahradí</h2>
+<p class="uf-compare2-sub">Kolagen, multivitamin, probiotika, hořčík a&nbsp;trávicí enzymy. To je pět různých doplňků, pět balení doma a&nbsp;pět kroků, na které si musíte vzpomenout. UFIRST je má v&nbsp;jednom sáčku.</p>
+<div class="uf-compare2-grid">
+<div class="uf-comp-col uf-comp-what">
+<h3>Co řešíte</h3>
+<ul>
+<li>Kolagenní peptidy</li>
+<li>Vitaminy a&nbsp;minerály</li>
+<li>Probiotika</li>
+<li>Hořčík a&nbsp;elektrolyty</li>
+<li>Trávicí enzymy</li>
+<li>Denní rutina</li>
+<li>Doma na poličce</li>
+<li>Odměřování a&nbsp;plánování</li>
+<li class="uf-comp-price"></li>
+</ul>
+</div>
+<div class="uf-comp-col uf-comp-common">
+<h3>Běžné řešení</h3>
+<ul>
+<li><span class="x">✕</span>samostatné balení</li>
+<li><span class="x">✕</span>samostatný multivitamin</li>
+<li><span class="x">✕</span>samostatné balení</li>
+<li><span class="x">✕</span>samostatné balení</li>
+<li><span class="x">✕</span>samostatné balení</li>
+<li><span class="x">✕</span>5 různých kroků</li>
+<li><span class="x">✕</span>5 dóz a&nbsp;krabiček</li>
+<li><span class="x">✕</span>u&nbsp;každého zvlášť</li>
+<li class="uf-comp-price">4 000 Kč+ / měsíc</li>
+</ul>
+</div>
+<div class="uf-comp-col uf-comp-ufirst">
+<h3>Vše v&nbsp;jednom sáčku UFIRST</h3>
+<ul>
+<li><span class="chk">✓</span>3 000 mg Peptan B®</li>
+<li><span class="chk">✓</span>široké spektrum vitaminů a&nbsp;minerálů</li>
+<li><span class="chk">✓</span>10 kmenů, 10 miliard CFU</li>
+<li><span class="chk">✓</span>Aquamin MG Soluble® a&nbsp;kokosová voda</li>
+<li><span class="chk">✓</span>bromelain a&nbsp;papain</li>
+<li><span class="chk">✓</span>1 sáček</li>
+<li><span class="chk">✓</span>1 krabička</li>
+<li><span class="chk">✓</span>žádné</li>
+<li class="uf-comp-price"><strong>1 500 Kč</strong><small>50 Kč / den</small></li>
+</ul>
+<span class="uf-comp-1" aria-hidden="true"></span></div>
+</div>
+<a class="cta-button uf-add-cart uf-btn uf-btn--solid" role="button" tabindex="0">Chci UFIRST</a></section>
+<section class="section uf-ingred">
+<p class="uf-eyebrow">Ingredience</p>
+<h2 class="section-title">Klíčové patentované suroviny</h2>
+<div class="uf-ingred-grid">
+<article class="uf-ingred-card">
+<h3>Peptan B®</h3>
+<p class="uf-ingred-sub">Kolagenní peptidy</p>
+<p class="uf-ingred-desc">Prémiový hydrolyzovaný kolagen pro pevné klouby, krásnou pokožku, vlasy a&nbsp;regeneraci.</p>
+<img loading="lazy" decoding="async" class="uf-ingred-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/peptan-b-molekula.png' alt="Peptan B®" /></article>
+<article class="uf-ingred-card">
+<h3>Aquamin MG Soluble®</h3>
+<p class="uf-ingred-sub">Přírodní hořčík</p>
+<p class="uf-ingred-desc">Z&nbsp;mořských řas. Bohatý na 72+ minerálů pro svaly, nervy a&nbsp;energii.</p>
+<img loading="lazy" decoding="async" class="uf-ingred-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/Aquamin.png' alt="Aquamin MG Soluble®" /></article>
+<article class="uf-ingred-card">
+<h3>CocoMineral®</h3>
+<p class="uf-ingred-sub">Kokosové elektrolyty</p>
+<p class="uf-ingred-desc">Přírodní ústrojí minerálů pro hydrataci a&nbsp;rovnováhu.</p>
+<img loading="lazy" decoding="async" class="uf-ingred-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/kokos-alektrolit.png' alt="CocoMineral®" /></article>
+<article class="uf-ingred-card">
+<h3>LIPOSOVIT®</h3>
+<p class="uf-ingred-sub">Liposomální vitamín&nbsp;C</p>
+<p class="uf-ingred-desc">Až 5× vyšší vstřebatelnost pro maximální účinek a&nbsp;imunitu.</p>
+<img loading="lazy" decoding="async" class="uf-ingred-img" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/vitamin-c-citron.png' alt="LIPOSOVIT®" /></article>
+</div>
+<div class="uf-probio">
+<div class="uf-probio-num"><strong>10</strong>
+<p>Jeden sáček obsahuje směs deseti probiotických kultur s&nbsp;celkovým deklarovaným množstvím 10 miliard CFU.</p>
+</div>
+<div class="uf-probio-tablewrap">
+<table class="uf-probio-table">
+<thead>
+<tr>
+<th>Kmen</th>
+<th>Množství</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bifidobacterium animalis subsp. lactis</td>
+<td>2,5 × 10⁹ CFU</td>
+</tr>
+<tr>
+<td>Bifidobacterium bifidum</td>
+<td>5,0 × 10⁸ CFU</td>
+</tr>
+<tr>
+<td>Bifidobacterium breve</td>
+<td>1,0 × 10⁹ CFU</td>
+</tr>
+<tr>
+<td>Bifidobacterium longum subsp. infantis</td>
+<td>5,0 × 10⁸ CFU</td>
+</tr>
+<tr>
+<td>Bifidobacterium longum subsp. longum</td>
+<td>5,0 × 10⁸ CFU</td>
+</tr>
+<tr>
+<td>Lactobacillus acidophilus</td>
+<td>5,0 × 10⁸ CFU</td>
+</tr>
+<tr>
+<td>Levilactobacillus brevis</td>
+<td>1,0 × 10⁹ CFU</td>
+</tr>
+<tr>
+<td>Lacticaseibacillus casei</td>
+<td>1,0 × 10⁹ CFU</td>
+</tr>
+<tr>
+<td>Lactiplantibacillus plantarum</td>
+<td>1,5 × 10⁹ CFU</td>
+</tr>
+<tr>
+<td>Lacticaseibacillus rhamnosus</td>
+<td>1,0 × 10⁹ CFU</td>
+</tr>
+<tr>
+<td>Celkem</td>
+<td>10 × 10⁹ CFU (10 miliard)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p class="uf-ingred-note">Recepturu doplňují enzymy bromelain a&nbsp;papain a&nbsp;rostlinné extrakty ze serenoa plazivé (saw palmetto) a&nbsp;z&nbsp;kelpu. Studie k&nbsp;jednotlivým surovinám se týkají dané suroviny, ne hotového výrobku UFIRST.</p>
+</section>
+<section class="section uf-persona">
+<p class="uf-eyebrow">Pro koho</p>
+<h2 class="section-title">Poznáte se? Pak je UFIRST pro vás.</h2>
+<p class="uf-persona-sub">Nemusíte být sportovec ani nadšenec do doplňků. Stačí, že vám dny utíkají a&nbsp;na sebe většinou nezbyde čas.</p>
+<div class="uf-persona-grid">
+<article class="uf-persona-card" style="background-image: url('/user/documents/upload/UFIRST/img/Student.png');"><span class="material-symbols-outlined uf-persona-ic">auto_stories</span>
+<h3>Student ve zkouškovém</h3>
+</article>
+<article class="uf-persona-card" style="background-image: url('/user/documents/upload/UFIRST/img/rodic.png');"><span class="material-symbols-outlined uf-persona-ic">escalator_warning</span>
+<h3>Rodič v&nbsp;jednom kole</h3>
+</article>
+<article class="uf-persona-card" style="background-image: url('/user/documents/upload/UFIRST/img/prace.png');"><span class="material-symbols-outlined uf-persona-ic">computer</span>
+<h3>Člověk v&nbsp;kanceláři</h3>
+</article>
+<article class="uf-persona-card" style="background-image: url('/user/documents/upload/UFIRST/img/Sportovec.png');"><span class="material-symbols-outlined uf-persona-ic">exercise</span>
+<h3>Sportovec</h3>
+</article>
+<article class="uf-persona-card" style="background-image: url('/user/documents/upload/UFIRST/img/cestovatel.png');"><span class="material-symbols-outlined uf-persona-ic">flight</span>
+<h3>Věčný cestovatel</h3>
+</article>
+<article class="uf-persona-card" style="background-image: url('/user/documents/upload/UFIRST/img/kdokoli.png');"><span class="material-symbols-outlined uf-persona-ic">diversity_3</span>
+<h3>Nebo prostě kdokoli</h3>
+</article>
+</div>
+</section>
+<section class="section uf-dev">
+<p class="uf-eyebrow">Vývoj</p>
+<h2 class="section-title">Za produkty stojí roky vývoje</h2>
+<p class="uf-dev-sub">Žádné tajné směsi ani jen hezký obal. UFIRST staví na švýcarských recepturách, vývoji s&nbsp;biochemiky, lékaři a&nbsp;na letitých zkušenostech ve výživě a&nbsp;doplňcích stravy.</p>
+<div class="uf-dev-video" style="background-image: url('/user/documents/upload/produktove_stranky/vyvoj-video-poster.jpg');">&nbsp;</div>
+<div class="uf-dev-trust">
+<div class="uf-dev-item"><span class="uf-dev-ic"><span class="uf-dev-flag"></span></span>
+<div class="uf-dev-txt">
+<h4>Švýcarské receptury</h4>
+<p>Prémiový vývoj a&nbsp;přísná kontrola kvality.</p>
+</div>
+</div>
+<div class="uf-dev-item"><span class="uf-dev-ic"><span class="material-symbols-outlined">science</span></span>
+<div class="uf-dev-txt">
+<h4>Biochemici &amp; lékaři</h4>
+<p>Složení navržené lékaři a&nbsp;biochemiky.</p>
+</div>
+</div>
+<div class="uf-dev-item"><span class="uf-dev-ic"><span class="material-symbols-outlined">history_edu</span></span>
+<div class="uf-dev-txt">
+<h4>Letité zkušenosti a&nbsp;rok testování</h4>
+<p>25+ let praxe ve výživě a&nbsp;doplňcích stravy.</p>
+</div>
+</div>
+</div>
+</section>
+<section class="section uf-flav">
+<p class="uf-eyebrow">Tři příchutě</p>
+<h2 class="section-title">Aby vás to nepřestalo bavit</h2>
+<p class="uf-flav-intro">Většina lidí nepřestane brát doplňky proto, že by nefungovaly. Důležité je, aby jim opravdu chutnaly a&nbsp;staly se přirozenou součástí každého dne.</p>
+<p class="uf-flav-intro">UFIRST tohle řeší rovnou v&nbsp;krabičce. Tři příchutě, mezi kterými střídáte podle nálady, a&nbsp;vaše rutina tak nebude nikdy stejná.</p>
+<div class="uf-flav-list">
+<article class="uf-flav-row" style="background-image: url('/user/documents/upload/produktove_stranky/allinonedrink01-jabko.png');">
+<div class="uf-flav-text">
+<h3>Zelené jablko</h3>
+<p>Zelené jablko je svěží, lehce nakyslá příchuť. Jako barvivo je použita spirulina.</p>
+</div>
+<img class="uf-flav-pack" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/sacek mokap bez jabko web.png' alt="Sáček UFIRST zelené jablko" /></article>
+<article class="uf-flav-row" style="background-image: url('/user/documents/upload/produktove_stranky/allinonedrink01-malina_1.png');">
+<div class="uf-flav-text">
+<h3>Malina</h3>
+<p>Malina je výrazná ovocná příchuť s&nbsp;koncentrátem z&nbsp;červené řepy jako barvivem.</p>
+</div>
+<img class="uf-flav-pack" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/sacek mokap bez malina web.png' alt="Sáček UFIRST malina" /></article>
+<article class="uf-flav-row" style="background-image: url('/user/documents/upload/produktove_stranky/allinonedrink01-tropical.png');">
+<div class="uf-flav-text">
+<h3>Tropical mango &amp; marakuja</h3>
+<p>Tropical mango &amp; marakuja je šťavnatá tropická kombinace. Barvu dodává betakaroten.</p>
+</div>
+<img class="uf-flav-pack" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/sacek mokap bez tropical-web.png' alt="Sáček UFIRST tropical mango a&nbsp;marakuja" /></article>
+</div>
+<p class="uf-flav-note">Jedno balení. Tři příchutě. Každý den si vyberete.</p>
+</section>
+<section class="section uf-howto">
+<p class="uf-eyebrow">Návod k&nbsp;použití</p>
+<h2 class="section-title">Je to jednoduché</h2>
+<p class="uf-howto-sub">Jeden sáček, tři kroky a&nbsp;pár vteřin. Žádné odměřování, žádné plánování.</p>
+<div class="uf-howto-grid">
+<article class="uf-howto-card">
+<div class="uf-howto-img"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/navod_11.jpg' alt="Otevřete sáček" /><span class="uf-howto-num">1</span></div>
+<h3>Otevřete sáček</h3>
+<p>Vyberte si z&nbsp;příchutí — zelené jablko, malina, nebo tropical mango &amp;&nbsp;marakuja. Odtrhněte horní okraj sáčku podle naznačené linie a&nbsp;celý obsah (9,2 g) vysypte do&nbsp;sklenice nebo shakeru.</p>
+</article>
+<article class="uf-howto-card">
+<div class="uf-howto-img"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/navod_2.png' alt="Rozmíchejte ve vodě" /><span class="uf-howto-num">2</span></div>
+<h3>Rozmíchejte ve vodě</h3>
+<p>Zalijte 300 až 500 ml vody a&nbsp;důkladně rozmíchejte. Pro jemnější chuť lze sáček rozmíchat i&nbsp;v&nbsp;1 litru vody a&nbsp;nápoj popíjet během dne.</p>
+</article>
+<article class="uf-howto-card">
+<div class="uf-howto-img"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/navod_3.png' alt="Vypijte nebo popíjejte" /><span class="uf-howto-num">3</span></div>
+<h3>Vypijte nebo popíjejte</h3>
+<p>Nápoj vypijte najednou, nebo ho popíjejte postupně během dne. Doporučená denní dávka je 1 sáček denně; nepřekračujte ji.</p>
+</article>
+</div>
+</section>
+<section class="section benefits box">
+<h2 class="section-title">Co vám UFIRST přinese</h2>
+<ul>
+<li>Jedna denní rutina místo pěti různých doplňků</li>
+<li>Podpora normálního energetického metabolismu a&nbsp;snížení únavy</li>
+<li>Podpora normální funkce imunitního systému</li>
+<li>Ochrana buněk před oxidativním stresem</li>
+<li>Vitamin C pro normální tvorbu kolagenu</li>
+<li>3 svěží příchutě v&nbsp;praktických jednotlivých sáčcích</li>
+</ul>
+</section>
+<section class="section final box">
+<div class="final-copy">
+<h2>Zítra ráno může být <em>jednodušší</em></h2>
+<p>Jedno balení. 30 sáčků. Celý měsíc, kdy o&nbsp;sebe nemusíte přemýšlet. Jen sáhnout do zásuvky, rozmíchat a&nbsp;vypít.</p>
+<p>Představte si to. Sáček připravený ve&nbsp;stole v&nbsp;práci, druhý v&nbsp;tašce na cesty, jeden doma vedle sklenice. Ať vás den zastihne kdekoli, to nejdůležitější máte vyřešené, bez pěti krabiček, bez odměřování a&nbsp;bez výčitek, že jste na sebe zase zapomněli.</p>
+<p>Není to další věc na seznamu. Je to ta jedna, po které je zbytek dne o&nbsp;něco lehčí.</p>
+<p>30 sáčků · 3 příchutě · 30 dní · jedna jednoduchá rutina</p>
+<p>Dejte si UFIRST domů dřív, než vás k&nbsp;tomu donutí další uspěchané ráno. Vaše budoucí já vám poděkuje.</p>
+<a class="cta-button uf-add-cart uf-btn uf-btn--accent" role="button" style="margin-top: 15px;" tabindex="0">Přidat UFIRST do košíku</a></div>
+<div class="final-art"><img loading="lazy" decoding="async" src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/UFIRST/img/BOXmockupufirs.png' alt="UFIRST box" /></div>
+</section>
+<section class="section uf-compo-sec" id="uf-slozeni">
+<article class="box tech uf-compo">
+<h2 class="uf-compo-title">Celkové složení</h2>
+<p class="uf-compo-sub">Aktivní látky v&nbsp;jedné denní dávce (9,2 g)</p>
+<input type="checkbox" id="uf-compo-toggle" class="uf-compo-toggle" hidden="" />
+<div class="uf-compo-tablewrap">
+<table class="uf-compo-table">
+<thead>
+<tr>
+<th>Aktivní látka</th>
+<th>Množství</th>
+<th>% RHP*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kolagenní peptidy Peptan B®</td>
+<td>3 000 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>L-glycin</td>
+<td>1 110 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>CocoMineral® (prášek z&nbsp;kokosové vody)</td>
+<td>700 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>Extrakt ze saw palmetta</td>
+<td>500 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>z&nbsp;toho mastné kyseliny</td>
+<td>225 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>Aquamin MG Soluble® (hořčík)</td>
+<td>400 mg</td>
+<td>11 %</td>
+</tr>
+<tr>
+<td>L-theanin</td>
+<td>400 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>L-tyrosin</td>
+<td>350 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>L-taurin</td>
+<td>350 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>Citikolin (CDP-cholin)</td>
+<td>250 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>Vitamín C (kyselina L-askorbová)</td>
+<td>130 mg</td>
+<td>163 %</td>
+</tr>
+<tr>
+<td>Směs 10 probiotických kmenů</td>
+<td>100 mg / 10 mld. CFU</td>
+<td>**</td>
+</tr>
+<tr>
+<td>Extrakt z&nbsp;kelpu</td>
+<td>75 mg</td>
+<td>163 %</td>
+</tr>
+<tr>
+<td>z&nbsp;toho jód</td>
+<td>150 µg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Liposomální vitamín C LIPOSOVIT®</td>
+<td>32,5 mg</td>
+<td>41 %</td>
+</tr>
+<tr>
+<td>Bromelain 1200 GDU</td>
+<td>30 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>Papain 500 000 IU/g</td>
+<td>30 mg</td>
+<td>**</td>
+</tr>
+<tr>
+<td>Hořčík (magnesium)</td>
+<td>18 mg</td>
+<td>5 %</td>
+</tr>
+<tr>
+<td>Vitamín B3 (nikotinamid)</td>
+<td>16 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Zinek</td>
+<td>10 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín B5 (D-pantothenát vápenatý)</td>
+<td>6 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Železo</td>
+<td>14 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín B2 (riboflavin)</td>
+<td>1,4 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín B6 (pyridoxin hydrochlorid)</td>
+<td>1,4 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín B1 (thiamin hydrochlorid)</td>
+<td>1,1 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Mangan</td>
+<td>2 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín B7 (biotin)</td>
+<td>1 000 µg</td>
+<td>200 %</td>
+</tr>
+<tr>
+<td>Vitamín E (DL-alfa-tokoferyl-acetát)</td>
+<td>0,8 mg</td>
+<td>7 %</td>
+</tr>
+<tr>
+<td>Měď</td>
+<td>1 mg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Folát</td>
+<td>200 µg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín B12 (methylkobalamin)</td>
+<td>100 µg</td>
+<td>4000 %</td>
+</tr>
+<tr>
+<td>Vitamín K2 (MK-7)</td>
+<td>75 µg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín K1</td>
+<td>75 µg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Selen</td>
+<td>55 µg</td>
+<td>100 %</td>
+</tr>
+<tr>
+<td>Vitamín D3 (cholekalciferol)</td>
+<td>50 µg</td>
+<td>1000 %</td>
+</tr>
+<tr>
+<td>Chrom</td>
+<td>40 µg</td>
+<td>100 %</td>
+</tr>
+</tbody>
+</table>
+</div>
+<label for="uf-compo-toggle" class="uf-compo-btn"><span class="uf-compo-more">Zobrazit více</span><span class="uf-compo-less">Zobrazit méně</span><i class="uf-compo-chev"></i></label>
+<p class="uf-compo-note">* RHP je referenční hodnota příjmu. ** U&nbsp;látky není RHP stanovena.</p>
+</article>
+<article class="box tech composition"><details class="slozeni-detail"><summary>Kompletní složení</summary>
+<p>Hydrolyzované kolagenní peptidy Peptan B® z&nbsp;hovězího kolagenu, L-glycin, prášek z&nbsp;kokosové vody, extrakt ze serenoa plazivé (saw palmetto), Aquamin MG Soluble® (citrát hořečnatý z&nbsp;mořských minerálů), L-theanin, L-tyrosin, L-taurin, citikolin (CDP-cholin), vitamin C (kyselina L-askorbová), trimagnesium citrát, směs 10 probiotických kultur (Bifidobacterium animalis subsp. lactis, Lactobacillus plantarum, Bifidobacterium breve, Lactobacillus rhamnosus, Lactobacillus casei, Lactobacillus brevis, Bifidobacterium bifidum, Bifidobacterium longum subsp. infantis, Bifidobacterium longum subsp. longum, Lactobacillus acidophilus), extrakt z&nbsp;chaluhy (kelp), bisglycinát zinečnatý, liposomální vitamin C LIPOSOVIT® (kyselina askorbová, maltodextrin, glycerol, fosfolipidy ze slunečnicového lecitinu), bromelain 1200 GDU, papain 500 000 IU/g, bisglycinát železnatý, vitamin D3 (cholekalciferol), vitamin B3 (nikotinamid), selenomethionin, bisglycinát manganatý, vitamin B12 (methylkobalamin), vitamin K2 (MK-7), vitamin B5 (D-pantothenát vápenatý), vitamin B7 (biotin), bisglycinát měďnatý, vitamin E (DL-alfa-tokoferyl-acetát), vitamin K1, vitamin B2 (riboflavin), vitamin B6 (pyridoxin hydrochlorid), vitamin B1 (thiamin hydrochlorid), chrom pikolinát, L-5-methyltetrahydrofolát vápenatý, regulátor kyselosti (kyselina citronová bezvodá), sladidlo (sukralóza).</p>
+<p>Podle příchuti se liší aroma a&nbsp;barvivo.</p>
+<p>Zelené jablko obsahuje aroma zelené jablko a&nbsp;barvivo spirulinu. Mango &amp; marakuja obsahuje tropické aroma a&nbsp;barvivo betakaroten. Malina obsahuje malinové aroma a&nbsp;barvivo koncentrát z&nbsp;červené řepy.</p>
+<div class="warning">
+<h3>Upozornění</h3>
+<p>Doplněk stravy. Není náhradou pestré a&nbsp;vyvážené stravy ani zdravého životního stylu. Nepřekračujte doporučenou denní dávku. Není určeno pro děti, těhotné a&nbsp;kojící ženy. Uchovávejte mimo dosah dětí. Skladujte v&nbsp;chladu a&nbsp;suchu. Obsahuje hovězí kolagen. Vzhledem k&nbsp;obsahu vitaminu K&nbsp;a&nbsp;jódu konzultujte užívání s&nbsp;lékařem, pokud užíváte léky na srážlivost krve nebo na štítnou žlázu.</p>
+<p>Vyrobeno v&nbsp;České republice podle švýcarské receptury.</p>
+</div>
+</details></article>
+</section>
+<section class="section uf-faq">
+<p class="uf-eyebrow">FAQ</p>
+<h2 class="section-title">Časté dotazy</h2>
+<div class="uf-faq-grid"><details><summary>Proč UFIRST, když už beru doplňky?</summary>
+<p>Protože UFIRST spojuje to, co byste jinak řešili několika různými produkty. Jeden sáček, jeden drink a&nbsp;komplexní každodenní rutina s&nbsp;85+ složkami.</p>
+</details><details><summary>Co všechno je v&nbsp;jednom sáčku?</summary>
+<p>Vitaminy, minerály, elektrolyty, kolagenní peptidy, aminokyseliny, probiotika, trávicí enzymy, houbový blend a&nbsp;další pečlivě vybrané složky. Vše v&nbsp;jednom drinku.</p>
+</details><details><summary>Proč říkáme 85+ složek?</summary>
+<p>Protože UFIRST není obyčejný vitaminový drink. Jeho komplexní receptura kombinuje více skupin aktivních a&nbsp;přirozeně se vyskytujících složek v&nbsp;jedné denní dávce.</p>
+</details><details><summary>Kdy je nejlepší UFIRST pít?</summary>
+<p>Kdy vám to vyhovuje. Ráno, v&nbsp;práci, ve škole nebo během dne. Nejdůležitější je udělat si z&nbsp;UFIRST jednoduchý každodenní rituál.</p>
+</details><details><summary>Je UFIRST energy drink?</summary>
+<p>Ne. UFIRST není klasický energy drink ani stimulant. Je to all-in-one drink vytvořený pro každodenní rutinu – bez přidaného kofeinu.</p>
+</details><details><summary>Proč je UFIRST jiný než běžný multivitamin?</summary>
+<p>Protože jsme nechtěli vytvořit další hrst tablet. UFIRST kombinuje několik kategorií složek v&nbsp;jednom sáčku, který rozmícháte ve vodě a&nbsp;vypijete.</p>
+</details><details><summary>Musím ho vypít najednou?</summary>
+<p>Nemusíte. Namíchejte si ho do vody a&nbsp;pijte způsobem, který vám během dne vyhovuje.</p>
+</details><details><summary>Kolik sáčků denně?</summary>
+<p>Jeden sáček denně. Jednoduše, bez počítání několika různých doplňků.</p>
+</details><details><summary>Jak dlouho vydrží jedno balení?</summary>
+<p>Balení obsahuje 30 sáčků – při doporučené denní dávce máte svou UFIRST rutinu na 30 dní.</p>
+</details><details><summary>Jakou příchuť si mám vybrat?</summary>
+<p>Podle nálady: Raspberry, Green Apple nebo Tropical. Vy si jen vyberete svého favorita.</p>
+</details><details><summary>Je UFIRST pro ženy i&nbsp;muže?</summary>
+<p>Ano. UFIRST je all-in-one drink pro dospělé ženy i&nbsp;muže, kteří chtějí svou každodenní suplementaci zjednodušit.</p>
+</details><details><summary>Co znamená „UFIRST“?</summary>
+<p>You first. Protože mezi všemi povinnostmi je snadné zapomenout na sebe. Jeden sáček denně je jednoduchá připomínka: dneska začínám u&nbsp;sebe.</p>
+</details></div>
+</section>
+<section class="section uf-footcta">
+<div class="uf-footcta-img"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/produktove_stranky/BOX mockup u first.png' alt="UFIRST all-in-one drink" /></div>
+<div class="uf-footcta-body">
+<p class="uf-eyebrow">Jeden sáček každé ráno</p>
+<h2 class="uf-footcta-title">All-in-One drink</h2>
+<p class="uf-footcta-desc">Jediný nápoj místo hrsti tablet — nahrazuje ~16 samostatných tablet denně. Hydratace, energie, regenerace i&nbsp;imunita v&nbsp;jednom.</p>
+<div class="uf-footcta-price"><strong class="cta-price-value">2 990 Kč</strong> <span>/ měsíc</span><small>100 Kč / den</small></div>
+<a class="cta-button uf-add-cart uf-footcta-btn uf-btn uf-btn--solid" role="button" tabindex="0">Do košíku</a></div>
+</section>
+</main>
+<script>(function(){
+  document.querySelectorAll('[data-accordion]').forEach(function(acc){
+    var items = acc.querySelectorAll('details');
+    var media = acc.getAttribute('data-media') ? document.getElementById(acc.getAttribute('data-media')) : null;
+    function swap(d){
+      if(!media) return;
+      var src = d.getAttribute('data-img');
+      if(!src || media.getAttribute('src') === src) return;
+      media.style.opacity = '0';
+      setTimeout(function(){ media.setAttribute('src', src); media.style.opacity = '1'; }, 200);
+    }
+    items.forEach(function(d){
+      d.addEventListener('toggle', function(){
+        if(d.open){ items.forEach(function(o){ if(o !== d) o.open = false; }); swap(d); }
+      });
+    });
+  });
+
+  function addSwipe(el, onNext, onPrev){
+    var x0 = null, y0 = null;
+    el.addEventListener('touchstart', function(e){ x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, {passive:true});
+    el.addEventListener('touchend', function(e){
+      if(x0 === null) return;
+      var dx = e.changedTouches[0].clientX - x0;
+      var dy = e.changedTouches[0].clientY - y0;
+      if(Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)){ dx < 0 ? onNext() : onPrev(); }
+      x0 = null; y0 = null;
+    }, {passive:true});
+  }
+
+  document.querySelectorAll('[data-carousel]').forEach(function(box){
+    var viewport = box.querySelector('.carousel-viewport');
+    var track = box.querySelector('.carousel-track');
+    var slides = box.querySelectorAll('.carousel-slide');
+    var dots = box.querySelectorAll('.carousel-dots button');
+    if(slides.length < 2) return;
+    var i = 0;
+    function go(n){
+      i = Math.max(0, Math.min(n, slides.length - 1));
+      var max = Math.max(0, track.scrollWidth - track.clientWidth);
+      track.style.transform = 'translateX(-' + Math.min(slides[i].offsetLeft, max) + 'px)';
+      dots.forEach(function(dot, x){ dot.classList.toggle('is-active', x === i); });
+    }
+    slides.forEach(function(slide, x){
+      slide.addEventListener('click', function(){ go(x === i ? (i + 1) % slides.length : x); });
+    });
+    dots.forEach(function(dot, x){ dot.addEventListener('click', function(){ go(x); }); });
+    window.addEventListener('resize', function(){ go(i); });
+    addSwipe(viewport, function(){ go(i + 1); }, function(){ go(i - 1); });
+    go(0);
+  });
+
+  document.querySelectorAll('[data-step-show]').forEach(function(box){
+    var viewport = box.querySelector('.step-viewport');
+    var track = box.querySelector('.step-track');
+    var slides = box.querySelectorAll('.step-slide');
+    var dots = box.querySelectorAll('.step-dots button');
+    if(slides.length < 2) return;
+    var i = 0;
+    function go(n){
+      i = Math.max(0, Math.min(n, slides.length - 1));
+      var max = Math.max(0, track.scrollWidth - track.clientWidth);
+      track.style.transform = 'translateX(-' + Math.min(slides[i].offsetLeft, max) + 'px)';
+      dots.forEach(function(dot, x){ dot.classList.toggle('is-active', x === i); });
+    }
+    slides.forEach(function(slide, x){
+      slide.addEventListener('click', function(){ go(x === i ? (i + 1) % slides.length : x); });
+    });
+    dots.forEach(function(dot, x){ dot.addEventListener('click', function(){ go(x); }); });
+    window.addEventListener('resize', function(){ go(i); });
+    addSwipe(viewport, function(){ go(i + 1); }, function(){ go(i - 1); });
+    go(0);
+  });
+
+  document.querySelectorAll('[data-flavor-slider]').forEach(function(box){
+    var slides = box.querySelectorAll('.flavor-slide');
+    var tabs = box.querySelectorAll('.flavor-tabs .flavor-tab');
+    if(slides.length < 2) return;
+    var i = 0;
+    function show(n){
+      i = (n + slides.length) % slides.length;
+      slides.forEach(function(slide, y){ slide.classList.toggle('is-active', y === i); });
+      tabs.forEach(function(t, y){ t.classList.toggle('is-active', y === i); });
+    }
+    tabs.forEach(function(tab, x){ tab.addEventListener('click', function(){ show(x); }); });
+    addSwipe(box, function(){ show(i + 1); }, function(){ show(i - 1); });
+    show(0);
+  });
+})();</script>
+<script>(function(){
+  /* POZOR: musí vracet VÝHRADNĚ tlačítko hlavního produktu (v .p-info-wrapper).
+     Dřívější široké fallbacky (.add-to-cart-button / .btn-cart) chytaly na této
+     stránce první tlačítko z cross-sellu „Doporučujeme přikoupit" (UFIRST TRIO,
+     Vitality…), takže když byl hlavní produkt nedostupný / předprodej a Shoptet
+     hlavní tlačítko schoval, přidával se do košíku TRIO místo drinku. */
+  function realCart(){ return document.querySelector('.p-detail .p-info-wrapper .add-to-cart-button, #product-detail .p-info-wrapper .add-to-cart-button, .p-info-wrapper .add-to-cart-button'); }
+  /* Klik na skryté hlavní tlačítko → Shoptet přidá produkt a otevře potvrzovací
+     colorbox. Původní `scrollIntoView({behavior:'smooth'})` PŘED klikem způsobil,
+     že se colorbox (umístěný absolutně) „minul" s výřezem: u tlačítek níže na
+     stránce se popup otevřel mimo obrazovku a nešlo objednat. Řešení: NEscrollovat
+     před klikem; po otevření popup aktivně nascrollovat do výřezu (block:start,
+     aby byla vidět jeho horní část s tlačítkem do košíku). */
+  function add(e){
+    if(e){e.preventDefault();}
+    var b=realCart(); if(!b) return;
+    b.click();
+    var tries=0, iv=setInterval(function(){
+      var box=document.querySelector('#cboxLoadedContent, .cboxWrapper, #colorbox');
+      if(box && box.offsetHeight>40){ clearInterval(iv); try{ box.scrollIntoView({block:'start'}); }catch(_){} }
+      if(++tries>40){ clearInterval(iv); }
+    },100);
+  }
+  document.querySelectorAll('.uf-add-cart').forEach(function(el){ el.style.cursor='pointer'; el.addEventListener('click', add); el.addEventListener('keydown', function(ev){ if(ev.key==='Enter'||ev.key===' '){ ev.preventDefault(); add(ev); } }); });
+  var comp=document.querySelector('a.ghost[href="#uf-slozeni"]');
+  if(comp){ comp.addEventListener('click', function(e){ e.preventDefault(); var t=document.getElementById('uf-slozeni'); if(t){ t.scrollIntoView({behavior:'smooth',block:'start'}); } }); }
+})();</script>
+<script>/* Progresivní načítání: obrázek startuje průhledný nad shimmer kostrou a plynule
+   se objeví (opacity) až doopravdy doskočí. Bez JS zůstanou obrázky viditelné
+   (třída .uf-img se přidává až tady). Kostru vypneme na cover-kontejneru po načtení. */
+(function(){
+  var imgs=document.querySelectorAll('.ufirst-detail img');
+  Array.prototype.forEach.call(imgs, function(img){
+    img.classList.add('uf-img');
+    try{ img.setAttribute('decoding','async'); }catch(_){}
+    function done(){
+      img.classList.add('uf-loaded');
+      var box=img.closest('.claim-band, .carousel-slide, .uf-areas-img, .uf-howto-img');
+      if(box){ box.classList.add('uf-skel-done'); }
+    }
+    if(img.complete && img.naturalWidth>0){ done(); }
+    else { img.addEventListener('load', done); img.addEventListener('error', done); }
+  });
+})();</script>
+<script>/* Aktuální cena z e-shopu → .cta-price-value (+ přepočet Kč/den). Reaguje i na změnu varianty/příchutě. */
+(function(){
+  function num(t){ t=(t||'').replace(/ /g,'').replace(/\s/g,''); var m=t.match(/\d+(?:[.,]\d+)?/); return m?parseFloat(m[0].replace(',','.')):null; }
+  function syncPrice(){
+    var src=document.querySelector('.price-final-holder');
+    var tgt=document.querySelector('.uf-footcta-price .cta-price-value');
+    if(!src||!tgt) return;
+    var txt=src.textContent.trim();
+    if(!txt) return;
+    tgt.textContent=txt;
+    var per=document.querySelector('.uf-footcta-price small');
+    var v=num(txt);
+    if(per&&v){ per.textContent=Math.round(v/30)+' Kč / den'; }
+  }
+  if(document.readyState==='loading'){ document.addEventListener('DOMContentLoaded', syncPrice); } else { syncPrice(); }
+  var holder=document.querySelector('.price-final-holder');
+  if(holder){ new MutationObserver(syncPrice).observe(holder, {childList:true, subtree:true, characterData:true}); }
+})();</script>
+<script>/* Support box (chat) běží v same-origin iframu #supportBox-iframe → CSS ze stránky tam
+   nedosáhne. Vložíme styl přímo dovnitř iframu (JEN z UFIRST stránky), aby byl chat
+   tyrkysový místo růžového. Polling ~30 s pokryje pozdní/async inicializaci widgetu. */
+(function(){
+  var CSS='.sb-color__primary-bg:not(input){background-color:#1F9CAD !important;}';
+  var n=0, iv=setInterval(function(){
+    try{
+      var f=document.getElementById('supportBox-iframe');
+      if(f){
+        var d=f.contentDocument||(f.contentWindow&&f.contentWindow.document);
+        if(d && !d.getElementById('uf-sb-teal')){
+          var s=d.createElement('style'); s.id='uf-sb-teal'; s.textContent=CSS;
+          (d.head||d.documentElement).appendChild(s);
+        }
+      }
+    }catch(e){}
+    if(++n>60) clearInterval(iv);
+  }, 500);
+})();</script>
+</div>
+                            

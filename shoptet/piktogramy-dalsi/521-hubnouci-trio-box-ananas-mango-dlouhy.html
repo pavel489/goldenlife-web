@@ -1,0 +1,596 @@
+
+                
+                                    <style><!--
+:root {
+      --main-gradient: linear-gradient(0deg, #D9A707 0%, #F8D865 100%);
+    }
+.custom-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* mobil – 3 sloupce */
+    gap: 1rem;
+    text-align: center;
+    justify-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .custom-grid {
+      grid-template-columns: repeat(5, 1fr); /* tablet – 5 sloupců */
+    }
+  }
+
+  @media (min-width: 992px) {
+    .custom-grid {
+      grid-template-columns: repeat(5, 1fr); /* PC – 5 sloupců */
+    }
+  }
+
+  .custom-grid img {
+    max-width: 80px;
+    height: auto;
+    margin-bottom: 0.5rem;
+  }
+    #special-popis {
+      width: 100%;
+      padding: 60px 0;
+      background: #fff;
+    }
+    #special-popis .uvodni-obrazek {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+      border-radius: 12px;
+    }
+    #special-popis .section h2 {
+      font-size: 2.5rem;
+      color: #e91e63;
+      margin: 20px 0;
+      text-align: center;
+    }
+    .icon-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+      margin: 20px 0;
+    }
+    .p-icon-card {
+      text-align: center;
+      max-width: 120px;
+    }
+    .p-icon-card .p-card-img {
+      width: 60px;
+      height: auto;
+      margin-bottom: 8px;
+    }
+    .p-card-p {
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .hero-row img {
+      width: 100%;
+      max-width: 600px;
+      display: block;
+      margin: 0 auto;
+    }
+    .slimming-duo--sexy {
+      padding: 80px 0;
+    }
+    .slimming-duo--sexy .section-title {
+      font-size: 2.5rem;
+      color: #e91e63;
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .products-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+    }
+    .product-card {
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+      transition: transform 0.3s, box-shadow 0.3s;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      background: #fff;
+    }
+    .product-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 16px 40px rgba(0,0,0,0.12);
+    }
+    .card-media {
+      flex: 0 0 50%;
+      min-width: 200px;
+      background: #fafafa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px;
+    }
+    .card-media img {
+      max-width: 100%;
+      height: auto;
+    }
+    .card-body {
+      flex: 1;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .card-body h3 {
+      margin: 0 0 15px;
+      font-size: 1.75rem;
+      color: #333;
+    }
+    .card-body p {
+      color: #666;
+      line-height: 1.5;
+      margin-bottom: 20px;
+    }
+    .btn2 {
+      align-self: flex-start;
+      padding: 12px 24px;
+      border-radius: 10px;
+      background: var(--main-gradient);
+      color: #fff;
+      font-weight: 600;
+      border: none;
+      cursor: pointer;
+      transition: transform 0.1s, filter 0.2s;
+    }
+    .btn2:hover {
+      transform: scale(1.02);
+    }
+    .btn2:active {
+      transform: scale(0.96);
+      filter: brightness(80%);
+    }
+    #product-details {
+      display: none;
+      width: 100%;
+      margin: 0;
+      padding: 30px 15px;
+      background: #fff;
+    }
+    #product-details h3 {
+      margin-top: 0;
+      color: #e91e63;
+      text-align: center;
+    }
+    @media (max-width: 768px) {
+      .product-card {
+        flex-direction: column;
+      }
+      .card-media {
+        flex: 1 0 auto;
+      }
+    }
+<style><!--
+#special-popis h1{
+color: #e3127e;
+font-size: 5rem;
+font-weight: bold;
+margin-top: 20px;
+margin-bottom: 15px;
+}
+
+#special-popis h2{
+color: #e3127e;
+font-size: 3.5rem;
+font-weight: bold;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+
+#special-popis h3{
+color: #e3127e;
+font-size: 2.5rem;
+font-weight: bold;
+margin-top: 15px;
+margin-bottom: 8px;
+
+}
+
+#special-popis h4{
+color: #e3127e;
+font-size: 1.8rem;
+font-weight: bold;
+margin-top: 10px;
+margin-bottom: 5px;
+}
+
+#special-popis h5{
+color: #e3127e;
+font-size: 1rem;
+font-weight: bold;
+margin-top: 10px;
+margin-bottom: 5px;
+}
+
+#special-popis h6{
+color: #e3127e;
+font-size: 0.9rem;
+font-weight: bold;
+margin-top: 8px;
+margin-bottom: 5px;
+}
+
+#special-popis h7{
+color: #e3127e;
+font-size: 0.85rem;
+font-weight: bold;
+margin-top: 8px;
+margin-bottom: 5px;
+}
+
+#special-popis h1::after,
+#special-popis h2::after,
+#special-popis h3::after,
+#special-popis h4::after,
+#special-popis h5::after,
+#special-popis h6::after,
+#special-popis h7::after {
+content: none !important;
+display: none !important;
+}
+
+.obrazek-odstavec{
+width: 220px;
+height: 115px;
+border-radius: 12px; /* Zaoblení rohů obrázků */
+object-fit: cover;   /* Aby se obrázek nedeformoval při pevném rozměru */
+}
+
+ .custom-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* mobil – 3 sloupce */
+    gap: 1rem;
+    text-align: center;
+    justify-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .custom-grid {
+      grid-template-columns: repeat(5, 1fr); /* tablet – 5 sloupců */
+    }
+  }
+
+  @media (min-width: 992px) {
+    .custom-grid {
+      grid-template-columns: repeat(5, 1fr); /* PC – 5 sloupců */
+    }
+  }
+
+  .custom-grid img {
+    max-width: 80px;
+    height: auto;
+    margin-bottom: 0.5rem;
+  }
+.odstavec2 {
+    outline: 1px solid AliceBlue; /* Šedivá tenká outline */
+    border-radius: 12px;     /* Kulaté rohy */
+    padding-right: 10px;           /* Volitelně přidejte odsazení obsahu od outline */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:white;
+    overflow: hidden; /* Zajistí, že obsah (obrázek) nepřeteče přes zaoblený roh */
+}
+.latky{
+background-color:#f0f0f0;
+border-radius: 12px;
+padding: 0px 10px 0px 10px;
+}
+@media (max-width: 768px) {
+.odstavec2 {
+    padding: 10px;
+margin: 10px;
+border-radius: 24px; 
+}
+.nadpis{
+padding-left:40px;
+}
+.obrazek-odstavec{
+width: 220px;
+height: 115px;
+border-radius: 12px;
+}
+
+.latky{
+
+border-radius: 0px;
+}
+
+.odstavec2 h4 {
+text-align: left;
+}
+}
+.barvaruzova{color: #e3127e;}
+
+.product-container {
+max-width: 1100px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+padding-right: 20px;
+}
+
+.text-justify {
+text-align: justify;
+}
+
+.text-center {
+text-align: center;
+}
+
+.mt-20 {
+margin-top: 20px;
+}
+
+.cta-box {
+background: linear-gradient(135deg, #f8f8f8 0%, #ffffff 100%);
+border: 2px solid #e3127e;
+border-radius: 12px;
+padding: 20px;
+margin: 20px 0;
+text-align: center;
+box-shadow: 0 4px 12px rgba(227, 18, 126, 0.1);
+}
+
+.cta-price {
+font-size: 2rem;
+color: #e3127e;
+font-weight: bold;
+margin: 10px 0;
+}
+
+.cta-price-old {
+font-size: 1.5rem;
+color: #999;
+text-decoration: line-through;
+margin-right: 15px;
+}
+
+.cta-button {
+background-color: #e3127e;
+color: white;
+font-size: 1rem;
+font-weight: bold;
+padding: 12px 35px;
+border: none;
+border-radius: 50px;
+cursor: pointer;
+margin-top: 15px;
+transition: all 0.3s ease;
+text-transform: uppercase;
+letter-spacing: 1px;
+}
+
+.cta-button:hover {
+background-color: #c30f6a;
+transform: translateY(-2px);
+box-shadow: 0 6px 20px rgba(227, 18, 126, 0.3);
+}
+
+.cta-availability {
+color: #27ae60;
+font-weight: bold;
+font-size: 0.9rem;
+margin-top: 8px;
+}
+
+.cta-product-img {
+max-width: 170px;
+height: auto;
+margin: 0 auto 15px;
+display: block;
+}
+
+@media (min-width: 768px) {
+.cta-box {
+display: grid;
+grid-template-columns: 200px 1fr;
+gap: 40px;
+text-align: left;
+align-items: center;
+padding: 35px;
+max-width: 550px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.cta-product-img {
+margin: 0;
+width: 100%;
+max-width: 200px;
+}
+
+.cta-content {
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+
+.cta-content h3 {
+margin-top: 0;
+margin-bottom: 15px;
+font-size: 2rem;
+line-height: 1.2;
+text-align: left;
+}
+
+.cta-content .cta-price {
+margin: 0 0 18px 0;
+font-size: 2.7rem;
+line-height: 1;
+}
+
+.cta-content p {
+font-size: 1rem;
+margin: 8px 0;
+line-height: 1.6;
+}
+
+.cta-content .cta-button {
+margin-left: 0;
+margin-top: 20px;
+margin-bottom: 10px;
+display: inline-block;
+font-size: 1rem;
+padding: 12px 35px;
+width: auto;
+max-width: fit-content;
+}
+
+.cta-content .cta-availability {
+margin-top: 4px;
+margin-bottom: 0;
+font-size: 1rem;
+}
+}
+
+@media (min-width: 1094px) {
+
+.heroimg{width:80%;}
+
+.odstavec2 h4 {
+text-align: left;
+}
+
+.latky .odstavec2:nth-child(7) h4,
+.latky .odstavec2:nth-child(8) h4 {
+text-align: left !important;
+}
+}
+--></style>
+<p>&nbsp;</p>
+<div id="special-popis">
+<div class="container"><a><img class="uvodni-obrazek" /></a>
+<div class="section" style="text-align: justify;"><span class="hidden-text">Golden Life</span>
+<h2>Hubnoucí TRIO BOX ANANAS-MANGO</h2>
+<div class="hero-img">
+<div class="icon-row">
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/123c3b7a2c21-Extrrmni-spalovani-tuku.png' />
+<p class="p-card-p">Extrémní spalování tuků</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/c6d65cbfd5cf-Zvysuje-pocit-sytosti.png' />
+<p class="p-card-p">Zvyšuje pocit sytosti</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/e2decdef212a-Snizeni-chuti-k-jidlu.png' />
+<p class="p-card-p">Snížení chuti k jídlu</p>
+</div>
+</div>
+<div class="hero-row"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/Hubnoucí Trio Box Ananas-Mango bez.png' alt="Cream Illustrative Coming Soon Instagram Post" /></div>
+<div class="icon-row">
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/39563537996f-traveni.png' />
+<p class="p-card-p">Kompletní regenerace</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/bb751e31b25b03355205706aebdf460db0d65d98/assets/piktogramy/bez-kruhu-v1/27a5d20595c3-ikonaCZ.png' />
+<p class="p-card-p">Vyrobeno v České Republice</p>
+</div>
+<div class="p-icon-card"><img class="p-card-img" src='https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/940261d2bddd-Redukce-celulitidy.png' />
+<p class="p-card-p">Redukcia celulitídy</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section class="slimming-duo--sexy">
+<div class="container">
+<div class="odstavec2">
+<p class="p-mobil"><meta charset="utf-8" /></p>
+<article class="text-token-text-primary w-full focus:outline-none scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" dir="auto" data-turn-id="request-68e50580-a644-8328-8df6-1e4e6ada3b9e-8" data-testid="conversation-turn-36" data-scroll-anchor="true" data-turn="assistant" tabindex="-1">
+<div class="text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)">
+<div class="[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn" tabindex="-1">
+<div class="flex max-w-full flex-col grow">
+<div data-message-author-role="assistant" data-message-id="96b551dc-eb5e-4261-8aa2-b35db514028c" dir="auto" class="min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5" data-message-model-slug="gpt-5">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[1px]">
+<div class="markdown prose dark:prose-invert w-full break-words dark markdown-new-styling">
+<p data-start="0" data-end="457" data-is-last-node="" data-is-only-node="" style="text-align: justify;"><meta charset="utf-8" />Se zvýhodněným balíčkem <strong data-start="145" data-end="163">TOP 3 produktů</strong> získáte chytrý systém podpory hubnutí, který funguje ve dne i v noci. <span style="text-decoration: underline;"><a href="https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/"><strong data-start="234" data-end="259">Slim Extreme Collagen</strong></a></span> je váš každodenní drink pro kontrolu chutí a podporu režimu, navíc pečuje o pleť, vlasy, nehty i klouby. <span style="text-decoration: underline;"><a href="https://www.golden-life.cz/slim-detox-power-plus-booster/"><strong data-start="365" data-end="392">Slim &amp; Detox Power Plus booster</strong></a></span> podporuje metabolismus, pomáhá odvádět přebytečnou vodu a přispívá k detoxikaci organismu. Večer se o tělo postará <span style="text-decoration: underline;"><a href="https://www.golden-life.cz/good-sleep-night-burn/"><strong data-start="508" data-end="537">Good Sleep and Night Burn</strong></a></span>, který pomáhá zvládat večerní hlad, zklidňuje organismus a podporuje noční spalování. Společně tvoří vyváženou kombinaci, která podporuje hubnutí přirozeně, udržitelně a bez zbytečného stresu.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="z-0 flex min-h-[46px] justify-start">&nbsp;</div>
+<div class="mt-3 w-full empty:hidden">&nbsp;</div>
+</div>
+</div>
+</article>
+<div aria-hidden="true" data-edge="true" class="pointer-events-none h-px w-px">&nbsp;</div>
+</div>
+<div class="products-grid">
+<article class="product-card">
+<div class="card-media"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/Good sleep and burn night glass jar.png' alt="Sleep &amp; Night Burn" /></div>
+<div class="card-body">
+<div>
+<h3>Sleep &amp; Night Burn</h3>
+<p>Užijte si klidnou noc a spalujte kalorie i během odpočinku</p>
+</div>
+<button class="btn2" data-detail-key="more-info-1">Více informací</button></div>
+</article>
+<article class="product-card">
+<div class="card-media"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/Sliim extremecollagen BOX-bez_.png' alt="Slim Extreme Collagen box s příchutí ananasu" /></div>
+<div class="card-body">
+<div>
+<h3>Slim Extreme Collagen box s příchutí ananas-mango</h3>
+<p>Slim Extreme Collagen box je silný a účinný spalovač ve formě osvěžujícího hubnoucího drinku.</p>
+</div>
+<button class="btn2" data-detail-key="more-info-2">Více informací</button></div>
+</article>
+<article class="product-card">
+<div class="card-media"><img src='https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/detox pozadi.png' pozadi="" png="" alt="Slim GLP-1 Activátor s Berberinem" /></div>
+<div class="card-body">
+<div>
+<h3>Slim &amp; Detox Super Energy Booster Power +</h3>
+<p>Extrémně účinný spalovač tuků, který působí i tam, kde už ani cvičení nebo dieta nepomáhají.</p>
+</div>
+<button class="btn2" data-detail-key="more-info-3">Více informací</button></div>
+</article>
+</div>
+</div>
+</section>
+<div id="product-details">&nbsp;</div>
+</div>
+<p>
+<script>const detailsInfo = {
+  'more-info-1': 'https://www.golden-life.cz/good-sleep-night-burn/',
+  'more-info-2': 'https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/',
+  'more-info-3': 'https://www.golden-life.cz/slim-detox-power-plus-booster/'
+};
+
+async function fetchSpecialPopis(url) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error('Nelze načíst obsah');
+  const text = await res.text();
+  const doc = new DOMParser().parseFromString(text, 'text/html');
+  const special = doc.querySelector('#special-popis');
+  return special ? special.innerHTML : '<p>Popis nenalezen.</p>';
+}
+
+document.querySelectorAll('.btn2').forEach(btn2 => {
+  btn2.addEventListener('click', async e => {
+    e.preventDefault();
+    const key = btn2.getAttribute('data-detail-key');
+    const box = document.getElementById('product-details');
+    if (box.dataset.current === key) {
+      box.style.display = 'none';
+      delete box.dataset.current;
+      return;
+    }
+    box.style.display = 'block';
+    box.innerHTML = '<p>Načítám detaily…</p>';
+    try {
+      const html = await fetchSpecialPopis(detailsInfo[key]);
+      box.innerHTML = `<h3>Detailní popis</h3>${html}`;
+      box.dataset.current = key;
+    } catch (err) {
+      box.innerHTML = '<p>Chyba při načítání detailů.</p>';
+    }
+  });
+});</script>
+</p>
+                            

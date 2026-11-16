@@ -1,0 +1,631 @@
+{
+  "newSourceUrls": 50,
+  "newTransparentPngFiles": 48,
+  "filledPinkTilesExtracted": 6,
+  "productsWithNextSources": 32,
+  "additionalProductsPrepared": 31,
+  "fragmentsPrepared": 51,
+  "imgSourcesChanged": 278,
+  "sitemapCzechProductPagesRead": 84,
+  "nativeProductsIdentified": 84,
+  "newArtworkPublishedCommit": "a003d4e6437ab85fa71892c88ee992fef4616bf8",
+  "cmsSaved": false,
+  "products": [
+    {
+      "productId": "180",
+      "url": "https://www.golden-life.cz/top-balicek-hubnuti/",
+      "title": "Top balíček hubnutí",
+      "sourcePageSha256": "534e336e3be82eba28f8c0bf89c5b31f71acee5b8d63059a3c29e06234e1814d",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/180-top-balicek-hubnuti-kratky.html",
+          "replacements": 5,
+          "sha256": "a175c0ef605d7b60f34138ccddec42fc5d7d83d5cac6af0c3245eae71761f385",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/180-top-balicek-hubnuti-dlouhy.html",
+          "replacements": 6,
+          "sha256": "459c7609e9c68465f65d13bce0c47837bb136207e976b361c0744068d73b78a5",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "183",
+      "url": "https://www.golden-life.cz/slimming-duo/",
+      "title": "Slimming Duo",
+      "sourcePageSha256": "a0cca97c01732b0d49ca102723a88371712cc33e028eb7cd32111c3b49b8c85b",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/183-slimming-duo-kratky.html",
+          "replacements": 5,
+          "sha256": "ebd703c8a6f9412dceb8d62a22bec9bccf6ca836db650a97fd6b080d5488c668",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/183-slimming-duo-dlouhy.html",
+          "replacements": 6,
+          "sha256": "4d158ba0e9ffaf0a22de49c7b9fcacc07153fabaff05d5af18b6b0ba15f323e4",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "189",
+      "url": "https://www.golden-life.cz/hubnouci-trio/",
+      "title": "Hubnoucí Trio",
+      "sourcePageSha256": "cfa38c6f73b5da9ee4849652f1635165d2250f05b3bfe82e1939637501d305d3",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/189-hubnouci-trio-kratky.html",
+          "replacements": 5,
+          "sha256": "bbb0e300ceb3cc00af7b8469d693f2fad71a22aaaad3d8240ae3c9d70657291c",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/189-hubnouci-trio-dlouhy.html",
+          "replacements": 6,
+          "sha256": "83524875131319727d70f143b97acb5e1aec6ef26f882babd0d7015d228380c5",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "213",
+      "url": "https://www.golden-life.cz/beauty-anti-aging-vitality/",
+      "title": "Beauty Anti-aging & Vitality",
+      "sourcePageSha256": "bf9acdc5e00387740869e87dae5cb1cfcd77cb6d158bf98119c3cf4a5c8450df",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/213-beauty-anti-aging-vitality-kratky.html",
+          "replacements": 5,
+          "sha256": "300c3ea4935edadd2168aff8e8907e3918ca274e3edbd91c0db1ea204dfcf98a",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/213-beauty-anti-aging-vitality-dlouhy.html",
+          "replacements": 6,
+          "sha256": "51779ef2df0b475ba90bcdba55ea45d53b2cfedf4321331cc607b6c43ddd1cdc",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "225",
+      "url": "https://www.golden-life.cz/beauty-duo-pack/",
+      "title": "Duo Pack sér",
+      "sourcePageSha256": "371a7381d0a6305bdbc7833eb825321c46c53f5b43f58cac4e477af4d12b677b",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/225-beauty-duo-pack-kratky.html",
+          "replacements": 5,
+          "sha256": "0fda63bd799efbfcd3e9225e7e1e13215c5cdcbcc47a5cbec32b054c082a2bd7",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/225-beauty-duo-pack-dlouhy.html",
+          "replacements": 6,
+          "sha256": "a6ee3df1c8dcc2d918023416a3bc8ed953d4665012ae4c9df3af04fbfc05e496",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "341",
+      "url": "https://www.golden-life.cz/2x-detox-caj-cajitko-ruzove/",
+      "title": "2× detox čaj + čajítko růžové",
+      "sourcePageSha256": "1fb823dd8e73c486f4e16f632192e8b60618ffffda094963b5fe2323f57732a6",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/341-2x-detox-caj-cajitko-ruzove-dlouhy.html",
+          "replacements": 6,
+          "sha256": "c40adc7585a496679ea1b5d0a87596f7eedaacf0c59ba47bd8ff157c08c9c66d",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "404",
+      "url": "https://www.golden-life.cz/hubnouci-trio-box/",
+      "title": "Hubnoucí Trio Box",
+      "sourcePageSha256": "98585cd1094f07d896e80bfc32b3caf8a9c188563d0b5bf3a0984053f7f4ddc3",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/404-hubnouci-trio-box-kratky.html",
+          "replacements": 5,
+          "sha256": "ac1fb7c39cd67753e9fb180f7a4a0198f683e78aa7e9cd8168fb8d76d15763fb",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/404-hubnouci-trio-box-dlouhy.html",
+          "replacements": 6,
+          "sha256": "cc0f8b39de57c59b8daebc3dba7f2093aca0fcf61f381b623fee0bbe8c923d01",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "407",
+      "url": "https://www.golden-life.cz/slimming-duo-box/",
+      "title": "Slimming Duo box",
+      "sourcePageSha256": "ec12a16122f8a3fcba0ce86826960113a903aaf1549261529b7050f22851f8a4",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/407-slimming-duo-box-kratky.html",
+          "replacements": 5,
+          "sha256": "ebd703c8a6f9412dceb8d62a22bec9bccf6ca836db650a97fd6b080d5488c668",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/407-slimming-duo-box-dlouhy.html",
+          "replacements": 6,
+          "sha256": "720ab87c53873d5710e97bcaf0b3ca55bbf501298f1fb7475da8a9f6421e42de",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "413",
+      "url": "https://www.golden-life.cz/beauty-star-duo/",
+      "title": "Beauty Star Duo",
+      "sourcePageSha256": "a45a0c9de913e9077457cc5cc04a8853b8eb7b17559e0d0e4c879ef0c40b8c24",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/413-beauty-star-duo-kratky.html",
+          "replacements": 5,
+          "sha256": "0558984f6ccddd15cb4f33f1e1bf49d408f86ba2966e1b27963f8d8888253c1e",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/413-beauty-star-duo-dlouhy.html",
+          "replacements": 11,
+          "sha256": "2c8c65b6ab91919c0e79bd1ac1b932a641f3b73db284fd76923cc635a32a496d",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "425",
+      "url": "https://www.golden-life.cz/clean-skin-foam/",
+      "title": "Clean Skin foam",
+      "sourcePageSha256": "25c1ad8caa79867b2aa1d1291cf344cb1003712ae541a5a8f2e0f481000ee53a",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/425-clean-skin-foam-kratky.html",
+          "replacements": 4,
+          "sha256": "065d0bbce939c4041dc7b229bab410a0502bd14fb472e1291cb14349ee43c37e",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/425-clean-skin-foam-dlouhy.html",
+          "replacements": 4,
+          "sha256": "2ec43675af9ebf902fe33b87c3ff84435bb395f2bbe1768a1dfc40bc8b3332ad",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "428",
+      "url": "https://www.golden-life.cz/slim-extreme-cream/",
+      "title": "Slim extreme cream",
+      "sourcePageSha256": "8a4f22dde64d09184464d24f0ed0c344010d027b1e42c3cea796419757600f07",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/428-slim-extreme-cream-kratky.html",
+          "replacements": 5,
+          "sha256": "62db82c941bbefea145317dccf154c48a2936fcbc382a362bec760595c986eec",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/428-slim-extreme-cream-dlouhy.html",
+          "replacements": 11,
+          "sha256": "f5b9bdbab293249c388712ae158933e653f6b5dfccee9bb0228cdd4a3c266fc7",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "446",
+      "url": "https://www.golden-life.cz/body-shaping-duo/",
+      "title": "Body Shaping Duo",
+      "sourcePageSha256": "d32873553dbda594db74bf1a8eb196f46ad80443b55aca4e0c0973a419f65f04",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/446-body-shaping-duo-kratky.html",
+          "replacements": 5,
+          "sha256": "e9e06594b789ece536f5a82dbb06752bd4ee14217ead4db0d3392e75bc818252",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/446-body-shaping-duo-dlouhy.html",
+          "replacements": 6,
+          "sha256": "340f6effca23c29c2cd992c06190ab925f855ae0ddd9ae97c802b28b9f5be359",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "482",
+      "url": "https://www.golden-life.cz/slim-glp-1-trio/",
+      "title": "Slim GLP-1 Trio",
+      "sourcePageSha256": "e466ded21471852541cc1254dde5fdb189dcd7e9042372b6deec4243d301298f",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/482-slim-glp-1-trio-kratky.html",
+          "replacements": 5,
+          "sha256": "9cd9ed26bd67c8b27369412f7ba2e695b804db88ccb88ceeb51a669c13cd163e",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/482-slim-glp-1-trio-dlouhy.html",
+          "replacements": 6,
+          "sha256": "d21f22d5202116bb560d4d0891e13cc25ad117bd919641cc25390acdf856f6f9",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "488",
+      "url": "https://www.golden-life.cz/slim-glp-1-duo/",
+      "title": "Slim GLP-1 Duo",
+      "sourcePageSha256": "91502697d7deee2e8087393e5a25c2dfae92386eb60fc57d5ee68a1e74b36ca9",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/488-slim-glp-1-duo-kratky.html",
+          "replacements": 5,
+          "sha256": "4eebd3453b14075d75fc82d52abbbad85b06f2bf505305b8eb494f9dd21d16e1",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/488-slim-glp-1-duo-dlouhy.html",
+          "replacements": 6,
+          "sha256": "48c9914922666a161411359d2a3949e247650690ea2ad09caac93aab21e5429b",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "497",
+      "url": "https://www.golden-life.cz/slim-glp-1-quattro-box/",
+      "title": "Slim GLP-1 Quattro Box",
+      "sourcePageSha256": "3e21ce49f8f9ef3eed829e3bde410adc1eac72219bc3b5ac4b1b8eedd3ec57e1",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/497-slim-glp-1-quattro-box-kratky.html",
+          "replacements": 5,
+          "sha256": "4f4bc11cf835dccf6ac7770338b662a18527e507e364cecff346e445ad1f0136",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/497-slim-glp-1-quattro-box-dlouhy.html",
+          "replacements": 6,
+          "sha256": "b7b4581dcfd736a0c1f3cdf8e2b023214a006bc27d4f723f1c7815dd40f04f71",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "509",
+      "url": "https://www.golden-life.cz/slim-extreme-glp-1-trio/",
+      "title": "Slim Extreme GLP-1 Trio",
+      "sourcePageSha256": "a458adf36dfc17319f80fea46c69959332c90678c2bfd4100ca8f59ed8f5a07a",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/509-slim-extreme-glp-1-trio-dlouhy.html",
+          "replacements": 6,
+          "sha256": "9524ab24764bbc2506427df3e3e984b001f750a6e6f7aa232f70610b818fabdf",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "512",
+      "url": "https://www.golden-life.cz/slim-extreme-glp-1-trio-box/",
+      "title": "Slim Extreme GLP-1 Trio Box",
+      "sourcePageSha256": "2e4da09a100584a7d4064f13da5b46ba590bc1bb1e130aa4b855da510ac96dcc",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/512-slim-extreme-glp-1-trio-box-kratky.html",
+          "replacements": 5,
+          "sha256": "671e9ab4cf9abd772fb84cc2877c1e21f04665e68a0bf588e55581823d487375",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/512-slim-extreme-glp-1-trio-box-dlouhy.html",
+          "replacements": 6,
+          "sha256": "b0e4667f98f8ed7a330b0c260a7cc5d88b2e0833e8f537499f2424be5b8e2a32",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "521",
+      "url": "https://www.golden-life.cz/hubnouci-trio-box-ananas-mango/",
+      "title": "Hubnoucí Trio Box Ananas-Mango",
+      "sourcePageSha256": "e76b8576cd08036df7a0e8c4ca5e43b04d95aefbc515fd092ab6b5b06df800fe",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/521-hubnouci-trio-box-ananas-mango-kratky.html",
+          "replacements": 5,
+          "sha256": "db3f06d7c4c845cee87ce8965a55a9fdfefaa2850e69a7db490ae29da9bd8550",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/521-hubnouci-trio-box-ananas-mango-dlouhy.html",
+          "replacements": 6,
+          "sha256": "5944af8272b6e24d6682e9edbec40181ffcef5d7703ef2ec5f3aceb2ffb6dc22",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "524",
+      "url": "https://www.golden-life.cz/hubnouci-trio-box-mango-s-glp-1/",
+      "title": "Hubnoucí Trio Box mango s GLP-1",
+      "sourcePageSha256": "1b3247b345e038de158c2b7c2d9507fe984820b7a2e9f1d82be9ebb3cd882d9b",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/524-hubnouci-trio-box-mango-s-glp-1-kratky.html",
+          "replacements": 5,
+          "sha256": "2809a7f638ad262d523978a061d30e7fcd629ff834a302376721a87f7e83d431",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/524-hubnouci-trio-box-mango-s-glp-1-dlouhy.html",
+          "replacements": 6,
+          "sha256": "b0d7f2d4519ca6463bf07e14d5e371a3baff8706ad066efdb7ffa781f14fa463",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "534",
+      "url": "https://www.golden-life.cz/slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada/",
+      "title": "Slim GLP-1 Shake Duo  s příchutí kokos - bílá čokoláda",
+      "sourcePageSha256": "dfbfe8a13676e4b1e59955c3121ec602ed1d2c354f75e6c4b7a22a8503417da9",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/534-slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada-kratky.html",
+          "replacements": 5,
+          "sha256": "c39fa50b78869b4b3366ed9b1c34a6b36431f0a4248b10e997d73ef8fe4c752c",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/534-slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada-dlouhy.html",
+          "replacements": 6,
+          "sha256": "6d8bd6634cabbc8c1843dbedc0d5dc134864d0769d1d804577d8af8337f5da7e",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "537",
+      "url": "https://www.golden-life.cz/slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda/",
+      "title": "Slim GLP-1 Shake Duo s příchutí vanilka-jahoda",
+      "sourcePageSha256": "25123193cd87d06fe933e8434dd07d4cd63165ca4c56f1fb816ba99fdfb8b62f",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/537-slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda-kratky.html",
+          "replacements": 5,
+          "sha256": "0ba2e222308628cac7b36d73b934f0014247c6e952a63dfe2945924a8ca594dd",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/537-slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda-dlouhy.html",
+          "replacements": 6,
+          "sha256": "9217a29c8bbf7be74e1410264d2705215bb69577397ba1510970e3d157aa0f54",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "553",
+      "url": "https://www.golden-life.cz/slim-glp-1-shake-duo-s-prichuti-cappuccino/",
+      "title": "Slim GLP-1 Shake Duo s příchutí cappuccino",
+      "sourcePageSha256": "38111fdbe5136c1fbb45b2e9592daccfbc4ed07ba98681dfc0a3532a34603b93",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/553-slim-glp-1-shake-duo-s-prichuti-cappuccino-dlouhy.html",
+          "replacements": 6,
+          "sha256": "1794eb487f20e6b3324920c63a2e6503039519ed87c6fc9d0984f95b10aebf84",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "576",
+      "url": "https://www.golden-life.cz/ufirst-all-in-one-drink-/",
+      "title": "UFIRST all-in-one drink",
+      "sourcePageSha256": "1688b9be66933524f6b07991245a62aedee4862f10310bad7553b767a2ad1d08",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/576-ufirst-all-in-one-drink--dlouhy.html",
+          "replacements": 5,
+          "sha256": "bda638f036a7f1965e3a3cc4cae3f0f71dd6497abf5872b39097cbf0188e4fe5",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "579",
+      "url": "https://www.golden-life.cz/ashwagandha-ksm-66/",
+      "title": "UFIRST Ashwagandha KSM-66",
+      "sourcePageSha256": "0ff1cd191b5bdb27c289b596c02fd0298c4b6baf29b12d5efcb9691c58870edd",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/579-ashwagandha-ksm-66-dlouhy.html",
+          "replacements": 5,
+          "sha256": "cc1c9c7645c3d407b4741d7444de783814b6a6475728a27dc4b5bae0012ec3a4",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "582",
+      "url": "https://www.golden-life.cz/brain-focus/",
+      "title": "UFIRST Brain & Focus",
+      "sourcePageSha256": "5e78dd35d5c53b59b6d4ebfaf8ce104ef5d62f96d45fe01b5ee8e00b7a0eab71",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/582-brain-focus-dlouhy.html",
+          "replacements": 5,
+          "sha256": "2ea6ffc050ad42fe9680622782a884f7b474b2f7b98f48c37ba857ec9c05680f",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "585",
+      "url": "https://www.golden-life.cz/care-free/",
+      "title": "UFIRST Care Free",
+      "sourcePageSha256": "0d3d6d63ea5a6187b3bf3055c4b76f2a09f5ca293bc19fa8027fc9c6bb0fc551",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/585-care-free-dlouhy.html",
+          "replacements": 5,
+          "sha256": "96682fbbdd7bdda74ed202fcb66b050322844a92ea39cb3106593e50d927de3a",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "588",
+      "url": "https://www.golden-life.cz/maca-triple-complex/",
+      "title": "UFIRST Maca Triple Complex",
+      "sourcePageSha256": "05d4a76c32ba6bd8c831d0204dac55d2289bcb43f98f63aacc7ea62586c7abb7",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/588-maca-triple-complex-dlouhy.html",
+          "replacements": 5,
+          "sha256": "54855efc46397bfd73a2a5feb2156878ad80642ded8ec869a9dcf3983de58ffa",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "591",
+      "url": "https://www.golden-life.cz/magnesium-triple-blend/",
+      "title": "UFIRST Magnesium Triple Blend",
+      "sourcePageSha256": "e5e8810826a3f9d1da678eab14fd451a88f3af908a75fe8f13183f10a3a7dbc7",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/591-magnesium-triple-blend-dlouhy.html",
+          "replacements": 5,
+          "sha256": "3155b8f6df9a7e484ea07a1745404530d56efb92c7881625513295f27eb44852",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "594",
+      "url": "https://www.golden-life.cz/vitality-complex/",
+      "title": "UFIRST Vitality Complex",
+      "sourcePageSha256": "f7e673bfc0832cadc8a0e0863dff82d495638de07b6047809bf514d5cad57576",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/594-vitality-complex-dlouhy.html",
+          "replacements": 5,
+          "sha256": "cc3edeee635415fc5e3d2acc2d4ac55a2388ab6d3dc0e3a8cd5b327a2723f3be",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "617",
+      "url": "https://www.golden-life.cz/ufirst-sample-pack/",
+      "title": "UFIRST Sample Pack",
+      "sourcePageSha256": "2b51e3045929f8e370ae46def24b850d723e48362a3d1ee56643e42f2eea8e79",
+      "fields": [
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/617-ufirst-sample-pack-dlouhy.html",
+          "replacements": 5,
+          "sha256": "d89acf90c29fd7f6d9f70b2a9276e059112e88fed8b46307b06644de779cf98a",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    },
+    {
+      "productId": "632",
+      "url": "https://www.golden-life.cz/nad-trio/",
+      "title": "NAD+ TRIO",
+      "sourcePageSha256": "e2f456f82c25cdf0f3362963b6ee3eaef868108f03073e09263cc2d46e6c656f",
+      "fields": [
+        {
+          "kind": "short",
+          "file": "shoptet/piktogramy-dalsi/632-nad-trio-kratky.html",
+          "replacements": 2,
+          "sha256": "7c1728544cc19617bec37827375a8e8ae17a8f2ba8db297e14ecc43a30963a2d",
+          "onlyImgSrcChanged": true
+        },
+        {
+          "kind": "long",
+          "file": "shoptet/piktogramy-dalsi/632-nad-trio-dlouhy.html",
+          "replacements": 2,
+          "sha256": "8850d40c93a160e766172884b62fbbfb2a5b43016508d5700554f138a6c67820",
+          "onlyImgSrcChanged": true
+        }
+      ]
+    }
+  ],
+  "keptNewerPreparedProducts": [
+    {
+      "productId": "461",
+      "url": "https://www.golden-life.cz/double-slim-glp-1-activator-s-berberinem/",
+      "reason": "Already has newer prepared repository files; not replaced by old live description",
+      "files": [
+        "web/Golden Life Double Slim GLP-1 Activator/Golden-Life-Double-Slim-GLP-1-Activator-cz.html",
+        "web/Golden Life Double Slim GLP-1 Activator/maly/Golden-Life-Double-Slim-GLP-1-Activator-maly-cz.html"
+      ]
+    }
+  ]
+}

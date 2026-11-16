@@ -1,0 +1,2062 @@
+[
+  {
+    "index": 1,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/spanek.png",
+    "canonical": "shop:/user/documents/upload/ruzovy-popis/spanek.png",
+    "sourceSha256": "841ced013819604db9a125c01bacd78443540d0075b7bd63d5436c3f4bfaf8bb",
+    "newSha256": "94eab80a380c32a94244bd9245b7162196e2b7c39780449eb116d032869d1c0b",
+    "asset": "assets/piktogramy/bez-kruhu-v2/94eab80a380c-spanek.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/94eab80a380c-spanek.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3164
+    },
+    "uses": [
+      {
+        "productId": "180",
+        "slug": "top-balicek-hubnuti",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "180",
+        "slug": "top-balicek-hubnuti",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/detox.png",
+    "canonical": "shop:/user/documents/upload/ruzovy-popis/detox.png",
+    "sourceSha256": "ec3f47d506c266b5874372c27dfe1edd612a39cdb203e5a78b7ec948c0d596bb",
+    "newSha256": "6347745939be9e8d0cbb289268c64de87cb66be42e07fa54710b948dd751f7d2",
+    "asset": "assets/piktogramy/bez-kruhu-v2/6347745939be-detox.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/6347745939be-detox.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3164
+    },
+    "uses": [
+      {
+        "productId": "180",
+        "slug": "top-balicek-hubnuti",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "180",
+        "slug": "top-balicek-hubnuti",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "183",
+        "slug": "slimming-duo",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "189",
+        "slug": "hubnouci-trio",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "404",
+        "slug": "hubnouci-trio-box",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "407",
+        "slug": "slimming-duo-box",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "521",
+        "slug": "hubnouci-trio-box-ananas-mango",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "524",
+        "slug": "hubnouci-trio-box-mango-s-glp-1",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/snížení únavy a vyčerpání.png",
+    "canonical": "shop:/user/documents/upload/ruzovy-popis/snížení únavy a vyčerpání.png",
+    "sourceSha256": "8e436463a1755b0820cdb048358a4e9ef35f069add11d503fc37130342db3e95",
+    "newSha256": "c6819c313882c6eb4bcadd38be22e9c736cf1887aff1e4b9970dfd64776555f6",
+    "asset": "assets/piktogramy/bez-kruhu-v2/c6819c313882-sni-z-eni-u-navy-a-vyc-erpa-ni.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/c6819c313882-sni-z-eni-u-navy-a-vyc-erpa-ni.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 145534
+    },
+    "uses": [
+      {
+        "productId": "180",
+        "slug": "top-balicek-hubnuti",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "407",
+        "slug": "slimming-duo-box",
+        "block": "long",
+        "alt": "Snížení únavy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/traveni.png",
+    "canonical": "shop:/user/documents/upload/ruzovy-popis/traveni.png",
+    "sourceSha256": "65721ba3cfc7fe23e632b0b7e452952c8389a2c48db047e696a0bb2c1cc728ba",
+    "newSha256": "39563537996f3f278d42692d64b481735a008f1150bd3d4760605905a7bb983f",
+    "asset": "assets/piktogramy/bez-kruhu-v2/39563537996f-traveni.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/39563537996f-traveni.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3176
+    },
+    "uses": [
+      {
+        "productId": "180",
+        "slug": "top-balicek-hubnuti",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "189",
+        "slug": "hubnouci-trio",
+        "block": "long",
+        "alt": "Kompletní regenerace",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "521",
+        "slug": "hubnouci-trio-box-ananas-mango",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "524",
+        "slug": "hubnouci-trio-box-mango-s-glp-1",
+        "block": "long",
+        "alt": "Kompletní regenerace",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/regenerace.png",
+    "canonical": "shop:/user/documents/upload/ruzovy-popis/regenerace.png",
+    "sourceSha256": "2854edefa1b935dda62576c4e7d1a82e5f2a692ac7a6f426390faf9f981bbbbc",
+    "newSha256": "d808754cf239f6b22b96c5860fecd76e5d124ccffbd2f8a5c41419f9b637903e",
+    "asset": "assets/piktogramy/bez-kruhu-v2/d808754cf239-regenerace.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/d808754cf239-regenerace.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3816
+    },
+    "uses": [
+      {
+        "productId": "183",
+        "slug": "slimming-duo",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "183",
+        "slug": "slimming-duo",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "407",
+        "slug": "slimming-duo-box",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "407",
+        "slug": "slimming-duo-box",
+        "block": "long",
+        "alt": "Regenerace",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/ruzovy-popis/snížení%20únavy%20a%20vyčerpání.png",
+    "canonical": "shop:/user/documents/upload/ruzovy-popis/snížení únavy a vyčerpání.png",
+    "sourceSha256": "8e436463a1755b0820cdb048358a4e9ef35f069add11d503fc37130342db3e95",
+    "newSha256": "c6819c313882c6eb4bcadd38be22e9c736cf1887aff1e4b9970dfd64776555f6",
+    "asset": "assets/piktogramy/bez-kruhu-v2/c6819c313882-sni-z-eni-u-navy-a-vyc-erpa-ni.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/c6819c313882-sni-z-eni-u-navy-a-vyc-erpa-ni.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 145534
+    },
+    "uses": [
+      {
+        "productId": "183",
+        "slug": "slimming-duo",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Extrrmni-spalovani-tuku.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Extrrmni-spalovani-tuku.png",
+    "sourceSha256": "c7e12a736942ffa5cd5221d47fe207bce61e56372c8a7483f30e192aacf65709",
+    "newSha256": "123c3b7a2c21897f1caa936403b6852f40c72887aaf47876b482e50191c59515",
+    "asset": "assets/piktogramy/bez-kruhu-v2/123c3b7a2c21-Extrrmni-spalovani-tuku.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/123c3b7a2c21-Extrrmni-spalovani-tuku.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 2906
+    },
+    "uses": [
+      {
+        "productId": "189",
+        "slug": "hubnouci-trio",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "404",
+        "slug": "hubnouci-trio-box",
+        "block": "long",
+        "alt": "Spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "521",
+        "slug": "hubnouci-trio-box-ananas-mango",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "524",
+        "slug": "hubnouci-trio-box-mango-s-glp-1",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Zvysuje-pocit-sytosti.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Zvysuje-pocit-sytosti.png",
+    "sourceSha256": "c226658d776bf3bdab614c2b366deb550a747c0c75a331e5122a5941d87e280e",
+    "newSha256": "c6d65cbfd5cf983a4aff88f2f2a71f251098c69e6a2d278fc2a2c00b8c458b5e",
+    "asset": "assets/piktogramy/bez-kruhu-v2/c6d65cbfd5cf-Zvysuje-pocit-sytosti.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/c6d65cbfd5cf-Zvysuje-pocit-sytosti.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 242629
+    },
+    "uses": [
+      {
+        "productId": "189",
+        "slug": "hubnouci-trio",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "404",
+        "slug": "hubnouci-trio-box",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "521",
+        "slug": "hubnouci-trio-box-ananas-mango",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "524",
+        "slug": "hubnouci-trio-box-mango-s-glp-1",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Snizeni-chuti-k-jidlu.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Snizeni-chuti-k-jidlu.png",
+    "sourceSha256": "006b080cfe8bda15b0975e962ae2eb22b6bc1fdacb04810d4abc60188ce28a92",
+    "newSha256": "e2decdef212a9e9ff1027f53b5a83b08dbd1aeea71ce5c180ee886e5d8ace300",
+    "asset": "assets/piktogramy/bez-kruhu-v2/e2decdef212a-Snizeni-chuti-k-jidlu.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/e2decdef212a-Snizeni-chuti-k-jidlu.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 242663
+    },
+    "uses": [
+      {
+        "productId": "189",
+        "slug": "hubnouci-trio",
+        "block": "long",
+        "alt": "Snížení chuti k jídlu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "404",
+        "slug": "hubnouci-trio-box",
+        "block": "long",
+        "alt": "Snížení chuti k jídlu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "521",
+        "slug": "hubnouci-trio-box-ananas-mango",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "524",
+        "slug": "hubnouci-trio-box-mango-s-glp-1",
+        "block": "long",
+        "alt": "Snížení chuti k jídlu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Redukce-celulitidy.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Redukce-celulitidy.png",
+    "sourceSha256": "cb52b3c67afa45f29b7b67c06f200d71a4e690c30ff2d2f4c61fa5017390e0b3",
+    "newSha256": "940261d2bddd4c6736271625d48fe5358835901933479d80da97c8e5357b4b40",
+    "asset": "assets/piktogramy/bez-kruhu-v2/940261d2bddd-Redukce-celulitidy.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/940261d2bddd-Redukce-celulitidy.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 242645
+    },
+    "uses": [
+      {
+        "productId": "189",
+        "slug": "hubnouci-trio",
+        "block": "long",
+        "alt": "Redukce celulitídy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "404",
+        "slug": "hubnouci-trio-box",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "521",
+        "slug": "hubnouci-trio-box-ananas-mango",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "524",
+        "slug": "hubnouci-trio-box-mango-s-glp-1",
+        "block": "long",
+        "alt": "Redukce celulitídy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Redukce vrásek nová.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Redukce vrásek nová.png",
+    "sourceSha256": "211979e012a10a449fb98b0553d3e86f363f0ac54e53f2d47ea9fe85eecae6a8",
+    "newSha256": "9358263eda9b6ff476efab47b701e0d72b22ad9fad2b93d55dfa90c79c373d50",
+    "asset": "assets/piktogramy/bez-kruhu-v2/9358263eda9b-Redukce-vr-sek-nov.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/9358263eda9b-Redukce-vr-sek-nov.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 137285
+    },
+    "uses": [
+      {
+        "productId": "213",
+        "slug": "beauty-anti-aging-vitality",
+        "block": "long",
+        "alt": "Redukce vrásek",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "446",
+        "slug": "body-shaping-duo",
+        "block": "short",
+        "alt": "Pevnější pokožka",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "446",
+        "slug": "body-shaping-duo",
+        "block": "long",
+        "alt": "Zpevnění pokožky zvenčí",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/spalovani.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/spalovani.png",
+    "sourceSha256": "bda16134cf81b63cce78a57aecf9d798639657cfa9519b601645a0413a3938e3",
+    "newSha256": "3a9e25096a77415232e028013d2016e5e1098a0665e07255f8bf1b690f2c43ef",
+    "asset": "assets/piktogramy/bez-kruhu-v2/3a9e25096a77-spalovani.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/3a9e25096a77-spalovani.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3164
+    },
+    "uses": [
+      {
+        "productId": "225",
+        "slug": "beauty-duo-pack",
+        "block": "long",
+        "alt": "Ikona spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "461",
+        "slug": "double-slim-glp-1-activator-s-berberinem",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "497",
+        "slug": "slim-glp-1-quattro-box",
+        "block": "short",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "497",
+        "slug": "slim-glp-1-quattro-box",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "509",
+        "slug": "slim-extreme-glp-1-trio",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "512",
+        "slug": "slim-extreme-glp-1-trio-box",
+        "block": "short",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "512",
+        "slug": "slim-extreme-glp-1-trio-box",
+        "block": "long",
+        "alt": "Snížení celulitidy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "632",
+        "slug": "nad-trio",
+        "block": "short",
+        "alt": "Noční spalování",
+        "anc": "p-card-img ikona  maly-ikony  p-short-description "
+      },
+      {
+        "productId": "632",
+        "slug": "nad-trio",
+        "block": "long",
+        "alt": "Noční spalování tuků",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/detox.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/detox.png",
+    "sourceSha256": "2ae2eb2855c50557e725cb1ff419af79311eef766aca2bf6c1633927c91d1e4c",
+    "newSha256": "7ecccaf2c84ac385a21c4697b725db24015093b2685f5e7ee434427f3fe64279",
+    "asset": "assets/piktogramy/bez-kruhu-v2/7ecccaf2c84a-detox.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/7ecccaf2c84a-detox.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3164
+    },
+    "uses": [
+      {
+        "productId": "225",
+        "slug": "beauty-duo-pack",
+        "block": "long",
+        "alt": "Ikona detoxikace",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 29l.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ikona gl kopie 29l.png",
+    "sourceSha256": "8bec0e0a8db8eab500c1c98957e1770aa9504a563d04867d7af6961e99cd595e",
+    "newSha256": "75d6cd62993241a5b75f536d14536323d6d1220c0170dde7fd1fa145210d1c77",
+    "asset": "assets/piktogramy/bez-kruhu-v2/75d6cd629932-ikona-gl-kopie-29l.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/75d6cd629932-ikona-gl-kopie-29l.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 2905
+    },
+    "uses": [
+      {
+        "productId": "341",
+        "slug": "2x-detox-caj-cajitko-ruzove",
+        "block": "long",
+        "alt": "Odolnější imunitní systém",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/celková regenerace.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/celková regenerace.png",
+    "sourceSha256": "33c8e736fb266f24aaed69bbdeb2262881fd818459fb788677846cdcdab78d8e",
+    "newSha256": "7e86524018d22e2118a0bf1695a5b4277616a9e52d709026f91973585b78bcc1",
+    "asset": "assets/piktogramy/bez-kruhu-v2/7e86524018d2-celkov-regenerace.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/7e86524018d2-celkov-regenerace.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 2901
+    },
+    "uses": [
+      {
+        "productId": "404",
+        "slug": "hubnouci-trio-box",
+        "block": "long",
+        "alt": "S kolagenem",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/snížení únavy a vyčerpání.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/snížení únavy a vyčerpání.png",
+    "sourceSha256": "3f36615032893b487464d0de3dacc5fd5e3be8b000ab595bf4f7a38bba9830ac",
+    "newSha256": "e672c4f4ce4bc6f62090ebf7ed371ad07be431d2c294fbcfa35a3ea334d1eaa1",
+    "asset": "assets/piktogramy/bez-kruhu-v2/e672c4f4ce4b-sni-z-eni-u-navy-a-vyc-erpa-ni.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/e672c4f4ce4b-sni-z-eni-u-navy-a-vyc-erpa-ni.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 145534
+    },
+    "uses": [
+      {
+        "productId": "413",
+        "slug": "beauty-star-duo",
+        "block": "short",
+        "alt": "nehty",
+        "anc": "p-card-img ikona      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hloubkovecistenipleti.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/hloubkovecistenipleti.png",
+    "sourceSha256": "0020844e164fc8058f485533ca46c5a687a6d0426878ac1e8bdc51edfb251da0",
+    "newSha256": "2f76e063d4927a52e05e745d970a4cc03885c84ba8fa3467ceb8bd427471c574",
+    "asset": "assets/piktogramy/bez-kruhu-v2/2f76e063d492-hloubkovecistenipleti.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/2f76e063d492-hloubkovecistenipleti.png",
+    "reusePrevious": false,
+    "mode": "ring-and-white-matte-removal-preserve-green-glyph",
+    "proof": {
+      "glyphAlphaRecoveredFromOriginalWhiteMatte": true,
+      "sourceGreenRGB": [
+        28,
+        162,
+        112
+      ],
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "short",
+        "alt": "Čistí do hloubky, ale jemně",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/prevencejizevpoakne.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/prevencejizevpoakne.png",
+    "sourceSha256": "bfdd7353551547830ca4dc038401648e793141c46b6fde0d0fd5fae9c7120862",
+    "newSha256": "850cb9417ee2e523d806fa243f0cbab2648fd1867bc235bdb92102c27cad57d1",
+    "asset": "assets/piktogramy/bez-kruhu-v2/850cb9417ee2-prevencejizevpoakne.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/850cb9417ee2-prevencejizevpoakne.png",
+    "reusePrevious": false,
+    "mode": "ring-and-white-matte-removal-preserve-green-glyph",
+    "proof": {
+      "glyphAlphaRecoveredFromOriginalWhiteMatte": true,
+      "sourceGreenRGB": [
+        27,
+        162,
+        107
+      ],
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "short",
+        "alt": "Prevence jizev po akné",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ucinnaredukceakne.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ucinnaredukceakne.png",
+    "sourceSha256": "dccaf610345cbbc7eb19bbfe34e9195c3da16915aa65e30cc875d25249d5702a",
+    "newSha256": "71c3197259aef53764eb45458b5653f27c03e1f9b7dba06b209c8546866a3aca",
+    "asset": "assets/piktogramy/bez-kruhu-v2/71c3197259ae-ucinnaredukceakne.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/71c3197259ae-ucinnaredukceakne.png",
+    "reusePrevious": false,
+    "mode": "ring-and-white-matte-removal-preserve-green-glyph",
+    "proof": {
+      "glyphAlphaRecoveredFromOriginalWhiteMatte": true,
+      "sourceGreenRGB": [
+        28,
+        156,
+        105
+      ],
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "short",
+        "alt": "Účinná redukce akné",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/zmenseniporu.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/zmenseniporu.png",
+    "sourceSha256": "748178848569648d365ca6ee7ac0493d2782730f54f5b475f52b957ddc91402f",
+    "newSha256": "787333c46866977ead7e3c1d651952b54b4f2c0a99c59d61d0b07056740da4b2",
+    "asset": "assets/piktogramy/bez-kruhu-v2/787333c46866-zmenseniporu.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/787333c46866-zmenseniporu.png",
+    "reusePrevious": false,
+    "mode": "ring-and-white-matte-removal-preserve-green-glyph",
+    "proof": {
+      "glyphAlphaRecoveredFromOriginalWhiteMatte": true,
+      "sourceGreenRGB": [
+        27,
+        162,
+        107
+      ],
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "short",
+        "alt": "Zmenšení pórů",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "425",
+        "slug": "clean-skin-foam",
+        "block": "long",
+        "alt": "",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/1-sec.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/1-sec.png",
+    "sourceSha256": "2127ba811c1b7945d577af62b29176a3d13b049d1790aee0bed8d1592213f0f7",
+    "newSha256": "9abd981acd62cb2ed10e179319dad4047f48efb46f2d9f80e830a106699d920e",
+    "asset": "assets/piktogramy/bez-kruhu-v2/9abd981acd62-1-sec.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/9abd981acd62-1-sec.png",
+    "reusePrevious": false,
+    "mode": "authentic-light-glyph-extraction-no-disk",
+    "proof": {
+      "genuineGlyphCoverageRecovered": true,
+      "onlyGlyphRecolouredTo": "#E40E7E",
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "short",
+        "alt": "Zdravšie vlasy a pleť",
+        "anc": "  custom-icon-box  icon-container  p-short-description "
+      },
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "long",
+        "alt": "Redukce celulitidy a zpevnění pokožky",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Datový zdroj 5-sec.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Datový zdroj 5-sec.png",
+    "sourceSha256": "e0ee2b843c3d028fd5034195a4d855cf10abaf13fe41389a990f673be389bb91",
+    "newSha256": "f4da835b276624898fd98f3a8563e60e8a954d5a72d7bb4d7f1db03bbf125c42",
+    "asset": "assets/piktogramy/bez-kruhu-v2/f4da835b2766-Datov-zdroj-5-sec.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/f4da835b2766-Datov-zdroj-5-sec.png",
+    "reusePrevious": false,
+    "mode": "authentic-light-glyph-extraction-no-disk",
+    "proof": {
+      "genuineGlyphCoverageRecovered": true,
+      "onlyGlyphRecolouredTo": "#E40E7E",
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "short",
+        "alt": "Podpora hormonálnej rovnováhy",
+        "anc": "  custom-icon-box  icon-container  p-short-description "
+      },
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "long",
+        "alt": "Pro pokožku břicha a prsou v těhotenství a po porodu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Datový zdroj 4-sec.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Datový zdroj 4-sec.png",
+    "sourceSha256": "75b7080a56069ea7776f50c2a820385e310ff0ddda7a26f0bb9fc4dbf8639082",
+    "newSha256": "883aaffc9deb93680146dc2c74a5f7bab54f5c339c1681642099b5be82ccb4fc",
+    "asset": "assets/piktogramy/bez-kruhu-v2/883aaffc9deb-Datov-zdroj-4-sec.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/883aaffc9deb-Datov-zdroj-4-sec.png",
+    "reusePrevious": false,
+    "mode": "authentic-light-glyph-extraction-no-disk",
+    "proof": {
+      "genuineGlyphCoverageRecovered": true,
+      "onlyGlyphRecolouredTo": "#E40E7E",
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "short",
+        "alt": "Znižuje únavu",
+        "anc": "  custom-icon-box  icon-container  p-short-description "
+      },
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "long",
+        "alt": "Zrychlení odvodnění a ulehčení těžkým nohám",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Datový zdroj 3-sec.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Datový zdroj 3-sec.png",
+    "sourceSha256": "a312a8674a61ae4694bd8c31fb69422648d76b8b9fe8fd4c9f5cf1aa9ebc7c2a",
+    "newSha256": "4249524b5b89a5490dd45aea7dbbe06eb6fc8d7b763e7cef1527aad287e9689b",
+    "asset": "assets/piktogramy/bez-kruhu-v2/4249524b5b89-Datov-zdroj-3-sec.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/4249524b5b89-Datov-zdroj-3-sec.png",
+    "reusePrevious": false,
+    "mode": "authentic-light-glyph-extraction-no-disk",
+    "proof": {
+      "genuineGlyphCoverageRecovered": true,
+      "onlyGlyphRecolouredTo": "#E40E7E",
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "short",
+        "alt": "Posilňuje imunitný systém",
+        "anc": "  custom-icon-box  icon-container  p-short-description "
+      },
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "long",
+        "alt": "Pro silně dehydratovanou pokožku",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Datový zdroj 2-sec.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Datový zdroj 2-sec.png",
+    "sourceSha256": "ba67119ac069174d4ca863f38ef7ebd9e8f297ccc1aefd130ca20286fee90443",
+    "newSha256": "eca1fd6d80c6ac5266afdcce41e81f44b57863bac8daeb4f93a72f93395678d2",
+    "asset": "assets/piktogramy/bez-kruhu-v2/eca1fd6d80c6-Datov-zdroj-2-sec.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/eca1fd6d80c6-Datov-zdroj-2-sec.png",
+    "reusePrevious": false,
+    "mode": "authentic-light-glyph-extraction-no-disk",
+    "proof": {
+      "genuineGlyphCoverageRecovered": true,
+      "onlyGlyphRecolouredTo": "#E40E7E",
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "short",
+        "alt": "Podpora rastu vlasov",
+        "anc": "  custom-icon-box  icon-container  p-short-description "
+      },
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "long",
+        "alt": "Vhodné na obličej i tělo",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Datový zdroj 1-sec.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Datový zdroj 1-sec.png",
+    "sourceSha256": "d7215d6bc1df39a843183b1a5f826901b975f7175f709c1046fb99aa17804558",
+    "newSha256": "31db3738201efdadf272dab4f83c2020a6158f73aba74374e5d56e20af48f1c2",
+    "asset": "assets/piktogramy/bez-kruhu-v2/31db3738201e-Datov-zdroj-1-sec.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/31db3738201e-Datov-zdroj-1-sec.png",
+    "reusePrevious": false,
+    "mode": "authentic-light-glyph-extraction-no-disk",
+    "proof": {
+      "genuineGlyphCoverageRecovered": true,
+      "onlyGlyphRecolouredTo": "#E40E7E",
+      "noGenerativeRedrawing": true
+    },
+    "uses": [
+      {
+        "productId": "428",
+        "slug": "slim-extreme-cream",
+        "block": "long",
+        "alt": "Zpevnění prsou, krku i dekoltu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/2.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/2.png",
+    "sourceSha256": "d60fbd38b86c77645aceaf293eab7449c56c3228abbfb2aabf6605d386884b6b",
+    "newSha256": "fd8481d2d5d664665ae82f6ec80113ae20a5c347774f4cbef5fc2a155c9a7e4f",
+    "asset": "assets/piktogramy/bez-kruhu-v2/fd8481d2d5d6-2.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/fd8481d2d5d6-2.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3176
+    },
+    "uses": [
+      {
+        "productId": "446",
+        "slug": "body-shaping-duo",
+        "block": "short",
+        "alt": "Redukce celulitidy",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "446",
+        "slug": "body-shaping-duo",
+        "block": "long",
+        "alt": "Redukce celulitidy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/regenerace.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/regenerace.png",
+    "sourceSha256": "71aa7cbd8e938d7c8739f7a23ec073a764b85c622c12de8ec2d4ceb6dc406af0",
+    "newSha256": "e95bbf58aed34687e641903af92bd7aa9f072bd4ca89dae8964f249f02e8b2a7",
+    "asset": "assets/piktogramy/bez-kruhu-v2/e95bbf58aed3-regenerace.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/e95bbf58aed3-regenerace.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 3816
+    },
+    "uses": [
+      {
+        "productId": "461",
+        "slug": "double-slim-glp-1-activator-s-berberinem",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/vraskyikona kopie 16glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/vraskyikona kopie 16glp-fialova.png",
+    "sourceSha256": "5cc7d4cc2924542385e0f0cb15ec9b17ee5c464717154ec40fab60cffb9a5345",
+    "newSha256": "d8863c2960e52d333c94bb2712864aa12ea412ba86a696b539ba95465d7f503c",
+    "asset": "assets/piktogramy/bez-kruhu-v2/d8863c2960e5-vraskyikona-kopie-16glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/d8863c2960e5-vraskyikona-kopie-16glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22961
+    },
+    "uses": [
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "553",
+        "slug": "slim-glp-1-shake-duo-s-prichuti-cappuccino",
+        "block": "long",
+        "alt": "Extrémní spalování tuků",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/vraskyikona ruzova kopieglp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/vraskyikona ruzova kopieglp-fialova.png",
+    "sourceSha256": "ab2564c0368e2cc8e8b453d00d49156706b34b9909b6f64b1c3b30268ca10832",
+    "newSha256": "37131073cb0e2c040a25b85f81d20fdcf8e975cde17f8f23f71084ad480e2843",
+    "asset": "assets/piktogramy/bez-kruhu-v2/37131073cb0e-vraskyikona-ruzova-kopieglp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/37131073cb0e-vraskyikona-ruzova-kopieglp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22957
+    },
+    "uses": [
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "long",
+        "alt": "Redukce celulitidy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "long",
+        "alt": "Redukce celulitidy",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "long",
+        "alt": "Redukce celulitidy",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "553",
+        "slug": "slim-glp-1-shake-duo-s-prichuti-cappuccino",
+        "block": "long",
+        "alt": "Redukce celulitidy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/JIDLOglp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/JIDLOglp-fialova.png",
+    "sourceSha256": "fa18a30a03c4642e90d2f400a94a484a06945f44b47156c87a66d5ca559f5a13",
+    "newSha256": "5ddde9fc0a798391523c2de58f45c168173469c0df8c4921e22eb72b35ed5549",
+    "asset": "assets/piktogramy/bez-kruhu-v2/5ddde9fc0a79-JIDLOglp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/5ddde9fc0a79-JIDLOglp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22962
+    },
+    "uses": [
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "long",
+        "alt": "Snížení chuti k jídlu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/vraskyikona kopie 13glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/vraskyikona kopie 13glp-fialova.png",
+    "sourceSha256": "4f5b8fadb581e421436292f8614457594f5123fe5495edc7b06292e46ad0e5a7",
+    "newSha256": "851e2f0a442cf9f27121e206d50f6c8518506e3cfb677204c5e074771c211004",
+    "asset": "assets/piktogramy/bez-kruhu-v2/851e2f0a442c-vraskyikona-kopie-13glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/851e2f0a442c-vraskyikona-kopie-13glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22960
+    },
+    "uses": [
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "short",
+        "alt": "CZ",
+        "anc": "p-card-img ikona      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/ikona gl kopie 34glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/ikona gl kopie 34glp-fialova.png",
+    "sourceSha256": "adda693397ba855e86d5c538d08cc191a7c051ddd8b47fc0b968a8499a225d34",
+    "newSha256": "c6defd7dab0284566ead6a00b8e596c9406979d39182ce0e910ee540986ee26d",
+    "asset": "assets/piktogramy/bez-kruhu-v2/c6defd7dab02-ikona-gl-kopie-34glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/c6defd7dab02-ikona-gl-kopie-34glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "existing-purple-rectangular-flag",
+    "proof": {},
+    "uses": [
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "short",
+        "alt": "CZ",
+        "anc": "p-card-img ikona  ikona-line    p-short-description "
+      },
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "long",
+        "alt": "Vyrobeno v České Republice",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "short",
+        "alt": "CZ",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "long",
+        "alt": "Vyrobeno v České republice",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "long",
+        "alt": "Vyrobeno v České republice",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "long",
+        "alt": "Vyrobeno v České republice",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "553",
+        "slug": "slim-glp-1-shake-duo-s-prichuti-cappuccino",
+        "block": "long",
+        "alt": "Vyrobeno v České republice",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/vraskyikona kopie 26glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/vraskyikona kopie 26glp-fialova.png",
+    "sourceSha256": "6ca649080492126fde3c3d31cc31c6c7bf2fea585145e57da2b012abb58a9770",
+    "newSha256": "3bf2b646f2acd20c8e7071f9d6ae21b165b129f2a7b3771bef205f83ea88ae6e",
+    "asset": "assets/piktogramy/bez-kruhu-v2/3bf2b646f2ac-vraskyikona-kopie-26glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/3bf2b646f2ac-vraskyikona-kopie-26glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22959
+    },
+    "uses": [
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "long",
+        "alt": "Redukce celulitidy",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "553",
+        "slug": "slim-glp-1-shake-duo-s-prichuti-cappuccino",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/vraskyikona kopie 27glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/vraskyikona kopie 27glp-fialova.png",
+    "sourceSha256": "8276c4f54fe8abc94d7b86b011baf34cce1fc2e15841701f96757c30d00fc475",
+    "newSha256": "2d4fcb9e8bc796b9f7f7e0505f6fb54ca331734b2e3682c00793dbee7f3b95ba",
+    "asset": "assets/piktogramy/bez-kruhu-v2/2d4fcb9e8bc7-vraskyikona-kopie-27glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/2d4fcb9e8bc7-vraskyikona-kopie-27glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22961
+    },
+    "uses": [
+      {
+        "productId": "482",
+        "slug": "slim-glp-1-trio",
+        "block": "long",
+        "alt": "Kompletní regenerace",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/vraskyikona kopie 24glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/vraskyikona kopie 24glp-fialova.png",
+    "sourceSha256": "91459e4cebdf2f6ded6263d34823be59865a5ca8c4236497f85b7b49c34101f2",
+    "newSha256": "efd2af9f652309f69ca8d4a46ae47e520e2e5933d0f4c0eac5309e7677cafe9f",
+    "asset": "assets/piktogramy/bez-kruhu-v2/efd2af9f6523-vraskyikona-kopie-24glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/efd2af9f6523-vraskyikona-kopie-24glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22955
+    },
+    "uses": [
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/ikona gl kopie 24glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/ikona gl kopie 24glp-fialova.png",
+    "sourceSha256": "c63fa684698e4ab4de7738d05d1d0145a466336da1be7fe591a0b7d8a12ca973",
+    "newSha256": "60115e130a4e052700f8d408c3a442c9e75081a1d89c72ec9a771e0036547a59",
+    "asset": "assets/piktogramy/bez-kruhu-v2/60115e130a4e-ikona-gl-kopie-24glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/60115e130a4e-ikona-gl-kopie-24glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22965
+    },
+    "uses": [
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "short",
+        "alt": "",
+        "anc": "p-card-img ikona      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/ikona gl kopie 22glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/ikona gl kopie 22glp-fialova.png",
+    "sourceSha256": "55c00136e15569ffc927219b6ffa28c8a5fa389796bcdb040c2c1db37fbeb4b6",
+    "newSha256": "3602b240b4fd2d217bd4df2d15baa9649ea31c76c2b3e0dd694e9e90566cfda9",
+    "asset": "assets/piktogramy/bez-kruhu-v2/3602b240b4fd-ikona-gl-kopie-22glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/3602b240b4fd-ikona-gl-kopie-22glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22954
+    },
+    "uses": [
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "long",
+        "alt": "Snižuje chuť k jídlu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "long",
+        "alt": "Snižuje chuť k jídlu",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "long",
+        "alt": "Snižuje chuť k jídlu",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "553",
+        "slug": "slim-glp-1-shake-duo-s-prichuti-cappuccino",
+        "block": "long",
+        "alt": "Snižuje chuť k jídlu",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/fialova/ikona gl kopie 14glp-fialova.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/fialova/ikona gl kopie 14glp-fialova.png",
+    "sourceSha256": "d37144819f37d28d683dcd6bbfdc727cee4130ae7dae51c3c09d45e7f14a9b0d",
+    "newSha256": "ba62e7d6f9ed9c48f5ad285bce8e9c2ad877a0a4580eb91c8c53c873885c5172",
+    "asset": "assets/piktogramy/bez-kruhu-v2/ba62e7d6f9ed-ikona-gl-kopie-14glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/ba62e7d6f9ed-ikona-gl-kopie-14glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22950
+    },
+    "uses": [
+      {
+        "productId": "488",
+        "slug": "slim-glp-1-duo",
+        "block": "long",
+        "alt": "Anti-aging efekt",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "long",
+        "alt": "Anti-aging efekt",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "long",
+        "alt": "Anti-aging efekt",
+        "anc": "p-card-img  p-icon-card  hero-icons-grid  hero-img "
+      },
+      {
+        "productId": "553",
+        "slug": "slim-glp-1-shake-duo-s-prichuti-cappuccino",
+        "block": "long",
+        "alt": "Anti-aging efekt",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/jidlo.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/jidlo.png",
+    "sourceSha256": "b1bf9abca83e705f524bfb800418d763ea4e9731f5c656d541c4ae4d3c469968",
+    "newSha256": "a7c5b5bdf61317d3c3c74aaead6e3ebb12b43cbeac343cd07dc8abdda72e59e3",
+    "asset": "assets/piktogramy/bez-kruhu-v2/a7c5b5bdf613-jidlo.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/a7c5b5bdf613-jidlo.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 2908
+    },
+    "uses": [
+      {
+        "productId": "497",
+        "slug": "slim-glp-1-quattro-box",
+        "block": "short",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "497",
+        "slug": "slim-glp-1-quattro-box",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "509",
+        "slug": "slim-extreme-glp-1-trio",
+        "block": "long",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      },
+      {
+        "productId": "512",
+        "slug": "slim-extreme-glp-1-trio-box",
+        "block": "short",
+        "alt": "Zvyšuje pocit sytosti",
+        "anc": "p-card-img ikona      p-short-description "
+      },
+      {
+        "productId": "512",
+        "slug": "slim-extreme-glp-1-trio-box",
+        "block": "long",
+        "alt": "Klinicky ověřená účinnost",
+        "anc": "p-card-img  p-icon-card  icon-row  hero-img "
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/JIDLO.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/JIDLO.png",
+    "sourceSha256": "c2f36ea13edca5986642bc787a0f65cf9da40df8efc787bd2ca340b9dfad2896",
+    "newSha256": "c532054db76e9889a2b78e42b09f0112f01f3c31a6fb05e7949131c254f87880",
+    "asset": "assets/piktogramy/bez-kruhu-v2/c532054db76e-JIDLO.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/c532054db76e-JIDLO.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 10568
+    },
+    "uses": [
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/Kreslicí plátno 92.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/Kreslicí plátno 92.png",
+    "sourceSha256": "785aed84760bd4c2bbbec29105bbdcfd6b8aee54ce0dd85f03063beff251f75a",
+    "newSha256": "9dc613753327bdf87ab81a8ab928110c6c99d88b58268ecfedd4fdf85b2198ac",
+    "asset": "assets/piktogramy/bez-kruhu-v2/9dc613753327-Kreslic-pl-tno-92.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/9dc613753327-Kreslic-pl-tno-92.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 10568
+    },
+    "uses": [
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 49,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 28.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/vraskyikona kopie 28.png",
+    "sourceSha256": "7d113380513f6d9d78de1f94b6dffc498268fd0178f33bd7efeb910e3ff2624e",
+    "newSha256": "80ec3d03d731f6b474c9d2952806d70572118deb662923dc6200207a5043cd6b",
+    "asset": "assets/piktogramy/bez-kruhu-v2/80ec3d03d731-vraskyikona-kopie-28.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/80ec3d03d731-vraskyikona-kopie-28.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22965
+    },
+    "uses": [
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 50,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/vraskyikona kopie 27.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/vraskyikona kopie 27.png",
+    "sourceSha256": "eac987b2019aa5a35d767ed755a83922145ce55746ce12d50460bd9b4d63829d",
+    "newSha256": "6b608973b70024e2a681604be8baf24d171793204b206b8974a7ddc694a40a65",
+    "asset": "assets/piktogramy/bez-kruhu-v2/6b608973b700-vraskyikona-kopie-27.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/6b608973b700-vraskyikona-kopie-27.png",
+    "reusePrevious": false,
+    "mode": "detached-frame-removal",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 22961
+    },
+    "uses": [
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "short",
+        "alt": "",
+        "anc": "      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 51,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ikona gl kopie 34.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ikona gl kopie 34.png",
+    "sourceSha256": "8a7b4a033eae1edd928ce08ca1b35c0aa4a468f04ec7be2a18c1dbcf5f52b53e",
+    "newSha256": "c6defd7dab0284566ead6a00b8e596c9406979d39182ce0e910ee540986ee26d",
+    "asset": "assets/piktogramy/bez-kruhu-v2/c6defd7dab02-ikona-gl-kopie-34glp-fialova.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/c6defd7dab02-ikona-gl-kopie-34glp-fialova.png",
+    "reusePrevious": false,
+    "mode": "existing-purple-rectangular-flag",
+    "proof": {},
+    "uses": [
+      {
+        "productId": "534",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-kokos-bila-cokolada",
+        "block": "short",
+        "alt": "CZ",
+        "anc": "      p-short-description "
+      },
+      {
+        "productId": "537",
+        "slug": "slim-glp-1-shaker-duo-s-prichuti-vanilka-jahoda",
+        "block": "short",
+        "alt": "CZ",
+        "anc": "      p-short-description "
+      }
+    ]
+  },
+  {
+    "index": 63,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/Lactosefreewhite.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ufirst/Lactosefreewhite.png",
+    "sourceSha256": "ee42a82b7c8d5f1fdae22151fd568407c7c963d8fe37c42d76929c878492ba97",
+    "newSha256": "0fdb351c4895caeb024428cb5dc4e4cc4ba18d91b30f7645fe4219ab154edc5d",
+    "asset": "assets/piktogramy/bez-kruhu-v2/0fdb351c4895-Lactosefreewhite.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/0fdb351c4895-Lactosefreewhite.png",
+    "reusePrevious": false,
+    "mode": "outer-ring-removal-slash-preserved",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 9496
+    },
+    "uses": [
+      {
+        "productId": "576",
+        "slug": "ufirst-all-in-one-drink-",
+        "block": "long",
+        "alt": "Lactose free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      },
+      {
+        "productId": "579",
+        "slug": "ashwagandha-ksm-66",
+        "block": "long",
+        "alt": "Bez laktózy",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "582",
+        "slug": "brain-focus",
+        "block": "long",
+        "alt": "Bez laktózy",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "585",
+        "slug": "care-free",
+        "block": "long",
+        "alt": "Bez laktózy",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "588",
+        "slug": "maca-triple-complex",
+        "block": "long",
+        "alt": "Bez laktózy",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "591",
+        "slug": "magnesium-triple-blend",
+        "block": "long",
+        "alt": "Bez laktózy",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "594",
+        "slug": "vitality-complex",
+        "block": "long",
+        "alt": "Bez laktózy",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "617",
+        "slug": "ufirst-sample-pack",
+        "block": "long",
+        "alt": "Lactose free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      }
+    ]
+  },
+  {
+    "index": 64,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/Additivesfreewhite.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ufirst/Additivesfreewhite.png",
+    "sourceSha256": "ec4543b520bb4c9baa47718dcc56f1e9754e2d9a6ab75a745abfe6591c182884",
+    "newSha256": "fd8980632d2ef0051aaeb87e1f0bb1130bd2f14a70466f4fc2b8402990a7614f",
+    "asset": "assets/piktogramy/bez-kruhu-v2/fd8980632d2e-Additivesfreewhite.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/fd8980632d2e-Additivesfreewhite.png",
+    "reusePrevious": false,
+    "mode": "outer-ring-removal-slash-preserved",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 9541
+    },
+    "uses": [
+      {
+        "productId": "576",
+        "slug": "ufirst-all-in-one-drink-",
+        "block": "long",
+        "alt": "Additives free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      },
+      {
+        "productId": "579",
+        "slug": "ashwagandha-ksm-66",
+        "block": "long",
+        "alt": "Bez přidaných látek",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "582",
+        "slug": "brain-focus",
+        "block": "long",
+        "alt": "Bez přidaných látek",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "585",
+        "slug": "care-free",
+        "block": "long",
+        "alt": "Bez přidaných látek",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "588",
+        "slug": "maca-triple-complex",
+        "block": "long",
+        "alt": "Bez přidaných látek",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "591",
+        "slug": "magnesium-triple-blend",
+        "block": "long",
+        "alt": "Bez přidaných látek",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "594",
+        "slug": "vitality-complex",
+        "block": "long",
+        "alt": "Bez přidaných látek",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "617",
+        "slug": "ufirst-sample-pack",
+        "block": "long",
+        "alt": "Additives free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      }
+    ]
+  },
+  {
+    "index": 65,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/GMOfreewhite.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ufirst/GMOfreewhite.png",
+    "sourceSha256": "95466570eeb08cedac55bb8ab0e03694bd554b0c2e438c44c5c003ff12a27427",
+    "newSha256": "4ae02387bad7c59b85911a05a5aa9a39b4b92373ca1c72a41e743ba6fadbb965",
+    "asset": "assets/piktogramy/bez-kruhu-v2/4ae02387bad7-GMOfreewhite.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/4ae02387bad7-GMOfreewhite.png",
+    "reusePrevious": false,
+    "mode": "outer-ring-removal-slash-preserved",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 9539
+    },
+    "uses": [
+      {
+        "productId": "576",
+        "slug": "ufirst-all-in-one-drink-",
+        "block": "long",
+        "alt": "GMO free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      },
+      {
+        "productId": "579",
+        "slug": "ashwagandha-ksm-66",
+        "block": "long",
+        "alt": "Bez GMO",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "582",
+        "slug": "brain-focus",
+        "block": "long",
+        "alt": "Bez GMO",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "585",
+        "slug": "care-free",
+        "block": "long",
+        "alt": "Bez GMO",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "588",
+        "slug": "maca-triple-complex",
+        "block": "long",
+        "alt": "Bez GMO",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "591",
+        "slug": "magnesium-triple-blend",
+        "block": "long",
+        "alt": "Bez GMO",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "594",
+        "slug": "vitality-complex",
+        "block": "long",
+        "alt": "Bez GMO",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "617",
+        "slug": "ufirst-sample-pack",
+        "block": "long",
+        "alt": "GMO free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      }
+    ]
+  },
+  {
+    "index": 66,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/Glutenfreewhite.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ufirst/Glutenfreewhite.png",
+    "sourceSha256": "00281e1313951160ff82b5e0e917dda3464013edc9788ee24839fab0e7ea9a8a",
+    "newSha256": "eee319685f38d78ce5df1ea59f7029a859e5ea841baea194db0731419755fae8",
+    "asset": "assets/piktogramy/bez-kruhu-v2/eee319685f38-Glutenfreewhite.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/eee319685f38-Glutenfreewhite.png",
+    "reusePrevious": false,
+    "mode": "outer-ring-removal-slash-preserved",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 9537
+    },
+    "uses": [
+      {
+        "productId": "576",
+        "slug": "ufirst-all-in-one-drink-",
+        "block": "long",
+        "alt": "Gluten free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      },
+      {
+        "productId": "579",
+        "slug": "ashwagandha-ksm-66",
+        "block": "long",
+        "alt": "Bez lepku",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "582",
+        "slug": "brain-focus",
+        "block": "long",
+        "alt": "Bez lepku",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "585",
+        "slug": "care-free",
+        "block": "long",
+        "alt": "Bez lepku",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "588",
+        "slug": "maca-triple-complex",
+        "block": "long",
+        "alt": "Bez lepku",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "591",
+        "slug": "magnesium-triple-blend",
+        "block": "long",
+        "alt": "Bez lepku",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "594",
+        "slug": "vitality-complex",
+        "block": "long",
+        "alt": "Bez lepku",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "617",
+        "slug": "ufirst-sample-pack",
+        "block": "long",
+        "alt": "Gluten free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      }
+    ]
+  },
+  {
+    "index": 67,
+    "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/ufirst/Sugarfreewhite.png",
+    "canonical": "shop:/user/documents/upload/piktogramy/ufirst/Sugarfreewhite.png",
+    "sourceSha256": "03f3f450525feae5e5d928d0efae2e1a28f04e17cac55046fb5ae1b8005f9d01",
+    "newSha256": "291c48547a9ef100cdefe8a8a58fb0c050f0b4f7e9f53a11a711af72f6ca90a6",
+    "asset": "assets/piktogramy/bez-kruhu-v2/291c48547a9e-Sugarfreewhite.png",
+    "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/a003d4e6437ab85fa71892c88ee992fef4616bf8/assets/piktogramy/bez-kruhu-v2/291c48547a9e-Sugarfreewhite.png",
+    "reusePrevious": false,
+    "mode": "outer-ring-removal-slash-preserved",
+    "proof": {
+      "unmodifiedGlyphPixelsIdentical": true,
+      "removedPixels": 9545
+    },
+    "uses": [
+      {
+        "productId": "576",
+        "slug": "ufirst-all-in-one-drink-",
+        "block": "long",
+        "alt": "Sugar free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      },
+      {
+        "productId": "579",
+        "slug": "ashwagandha-ksm-66",
+        "block": "long",
+        "alt": "Bez cukru",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "582",
+        "slug": "brain-focus",
+        "block": "long",
+        "alt": "Bez cukru",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "585",
+        "slug": "care-free",
+        "block": "long",
+        "alt": "Bez cukru",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "588",
+        "slug": "maca-triple-complex",
+        "block": "long",
+        "alt": "Bez cukru",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "591",
+        "slug": "magnesium-triple-blend",
+        "block": "long",
+        "alt": "Bez cukru",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "594",
+        "slug": "vitality-complex",
+        "block": "long",
+        "alt": "Bez cukru",
+        "anc": "  custom-grid  product-container "
+      },
+      {
+        "productId": "617",
+        "slug": "ufirst-sample-pack",
+        "block": "long",
+        "alt": "Sugar free",
+        "anc": "  uf-daily2-free  uf-daily2-bottom "
+      }
+    ]
+  }
+]
