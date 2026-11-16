@@ -29,7 +29,7 @@ Statické prohlížečové testy záměrně blokují skripty, externí fotografi
 
 ## Nahrání
 
-Gitová předávka není publikace do Shoptetu. HTML používá neměnné veřejné PNG adresy z asset commitu `c8aab36a83be76909a314f648e9c59740412913a`. Při ručním přenosu porovnejte případné novější nativní úpravy CMS a zachovejte je. Tento úkol sám žádný CMS popis ani živé CSS neukládal.
+Gitová předávka není publikace do Shoptetu. HTML používá neměnné veřejné PNG adresy z hlavního asset commitu `c8aab36a83be76909a314f648e9c59740412913a`, NAD+ s dočištěnou mezerou před znaménkem plus z commitu `2d5dc5945e6a424dfb9db6adab54361a263efc15`. Při ručním přenosu porovnejte případné novější nativní úpravy CMS a zachovejte je. Tento úkol sám žádný CMS popis ani živé CSS neukládal.
 
 Pro vzhled bez kartiček používejte také aktuální společné a produktové CSS z předchozí dávky. ZIP proto obsahuje nezměněné potřebné CSS jako závislosti; nejsou nové změny tohoto commitu. Staré rodiny některých boxových ikon a historické screenshoty nejsou touto dávkou přepracované.
 

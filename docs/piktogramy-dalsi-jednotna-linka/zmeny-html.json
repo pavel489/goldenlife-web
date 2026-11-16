@@ -34,7 +34,7 @@
   "records": [
     {
       "file": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-de.html",
-      "sha256": "13c652c29e28706965d9732c4d265e9f7e200590d9fd3628b14c19593cc38f20",
+      "sha256": "b19c473d695dc1dff9461c49eb2aa07db8679f8eb5a04f8f2ea61e8ec0fecc07",
       "changedImages": 6,
       "referencesChanged": 6,
       "edits": [
@@ -60,7 +60,7 @@
         },
         {
           "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {
@@ -73,7 +73,7 @@
     },
     {
       "file": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
-      "sha256": "957e946c28f19390c26bea119ae7906bf2c49561f36271e2bb59c5c0a2690a9a",
+      "sha256": "91408803e17d570d7d0ce10eb0fea6f244d4635e2d537a3f46ab9f1da2b3cb7b",
       "changedImages": 6,
       "referencesChanged": 6,
       "edits": [
@@ -99,7 +99,7 @@
         },
         {
           "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {
@@ -112,7 +112,7 @@
     },
     {
       "file": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-en.html",
-      "sha256": "ae773f6a4ca6aefee055317c08168192be6d31192b90cd8942d842686b328b08",
+      "sha256": "191088a30f0c17c8671e32a6169d8c79ba4c12232438a2c608170f4823bbcb05",
       "changedImages": 6,
       "referencesChanged": 6,
       "edits": [
@@ -138,7 +138,7 @@
         },
         {
           "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {
@@ -151,7 +151,7 @@
     },
     {
       "file": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-sk.html",
-      "sha256": "bd39a292b5e977a2469957f874dd357370d61e2fb8c6d44e5eb22a5df5634bed",
+      "sha256": "8fe12060008660c26f90acb9227bf229e50b4986b2f423d836bc303d65241cd5",
       "changedImages": 6,
       "referencesChanged": 6,
       "edits": [
@@ -177,7 +177,7 @@
         },
         {
           "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {
@@ -1462,7 +1462,7 @@
     },
     {
       "file": "web/Golden Life Hormonal Trio/Golden_Life__Hormonal_triocz.html",
-      "sha256": "348752835e12c39d1ab0a9a44bd23eed6acfd7b8c234fe300559d636158c244d",
+      "sha256": "a4da6b0564398f4587b6afea077f76b779fd0856e26511a5156b1aa42019e8ee",
       "changedImages": 5,
       "referencesChanged": 5,
       "edits": [
@@ -1483,7 +1483,7 @@
         },
         {
           "old": "/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {
@@ -1496,7 +1496,7 @@
     },
     {
       "file": "web/Golden Life Hormonal Trio/maly/Golden-Life-Hormonal-trio-maly-cz.html",
-      "sha256": "18661d794d01d6bee7f36ea1a9bf2af2652394853654b741a2f5b27f007f3aa5",
+      "sha256": "d8e7a54e511e8e0b916d70ab3eb94abba5611a58b935f55ea1cddf96ec91c406",
       "changedImages": 11,
       "referencesChanged": 11,
       "edits": [
@@ -1512,7 +1512,7 @@
         },
         {
           "old": "/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {
@@ -6239,13 +6239,13 @@
     },
     {
       "file": "shoptet/piktogramy-dalsi/632-nad-trio-kratky.html",
-      "sha256": "1155774f3c986f7d76b4d714c0c9e1aa5b70eb1a14d21e22308b13cf4aaef2d4",
+      "sha256": "003aa3dea5b4d4eb7a6f82fb81e14eb8e0cc13af3cef7658e1ed6a01fc399aa0",
       "changedImages": 12,
       "referencesChanged": 12,
       "edits": [
         {
           "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {
@@ -6283,13 +6283,13 @@
     },
     {
       "file": "shoptet/piktogramy-dalsi/632-nad-trio-dlouhy.html",
-      "sha256": "581f3715bbff20eba2e0d07eccfc07119f0126df614f2d9d7fba69256fb86a3f",
+      "sha256": "73c558f6d3511531e60bd914057365db2f33d148304bc2116f4ae6230226d81d",
       "changedImages": 4,
       "referencesChanged": 4,
       "edits": [
         {
           "old": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/nad.png",
-          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
+          "new": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
           "count": 1
         },
         {

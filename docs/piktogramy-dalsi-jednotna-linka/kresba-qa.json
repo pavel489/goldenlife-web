@@ -71,8 +71,8 @@
       "sha256": "b7f117a4726c4b5129a37a521a654abced112efa0e54503cdd59c3f43352c47a"
     },
     {
-      "file": "assets/piktogramy/frameless-family-v6/masters/nad.svg",
-      "sha256": "eef0d52ce0d9ef8df3dc72ed8b315b44839b52ffcd20d7adb92656dcf4e6239b"
+      "file": "assets/piktogramy/frameless-family-v6/masters/nad-v2.svg",
+      "sha256": "9ab00d8c2e2a99ee4862e525dc018c6875fd29b6effc8ed690a2cc0fa957f24a"
     },
     {
       "file": "assets/piktogramy/frameless-family-v6/masters/nails.svg",
@@ -269,8 +269,8 @@
       "notClipped": true
     },
     {
-      "file": "assets/piktogramy/frameless-family-v6/nad-911b1c.png",
-      "sha256": "7ee49a0fa1889682af5f639946cf3fc7e22028770a65efb0b565013d658cb262",
+      "file": "assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
+      "sha256": "14ecf24270949dc3cd39843016ed43bd06dddeba8c189dad56ddbaa1f9954f81",
       "nonempty": true,
       "notClipped": true
     },

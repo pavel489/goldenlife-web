@@ -240,9 +240,9 @@
     ]
   },
   {
-    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png",
-    "asset": "assets/piktogramy/frameless-family-v6/nad-911b1c.png",
-    "sha256": "7ee49a0fa1889682af5f639946cf3fc7e22028770a65efb0b565013d658cb262",
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
+    "asset": "assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
+    "sha256": "14ecf24270949dc3cd39843016ed43bd06dddeba8c189dad56ddbaa1f9954f81",
     "status": 200,
     "mime": "image/png",
     "cors": "*",

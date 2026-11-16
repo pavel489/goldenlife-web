@@ -2203,13 +2203,14 @@
     "index": 20,
     "motif": "nad",
     "color": "#911B1C",
-    "newAsset": "assets/piktogramy/frameless-family-v6/nad-911b1c.png",
-    "newSha256": "7ee49a0fa1889682af5f639946cf3fc7e22028770a65efb0b565013d658cb262",
-    "master": "assets/piktogramy/frameless-family-v6/masters/nad.svg",
+    "newAsset": "assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
+    "newSha256": "14ecf24270949dc3cd39843016ed43bd06dddeba8c189dad56ddbaa1f9954f81",
+    "master": "assets/piktogramy/frameless-family-v6/masters/nad-v2.svg",
     "strokeAt64": 2,
     "roundCapsJoins": true,
     "method": "source-guided rounded outline / source centerline recovery",
-    "newSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png"
+    "newSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/2d5dc5945e6a424dfb9db6adab54361a263efc15/assets/piktogramy/frameless-family-v6/nad-v2-911b1c.png",
+    "oldNewSourceUrl": "https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/nad-911b1c.png"
   },
   {
     "name": "nehty-ruzova.png",
