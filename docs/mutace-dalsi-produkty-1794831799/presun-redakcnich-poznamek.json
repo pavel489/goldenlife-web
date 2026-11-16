@@ -1,0 +1,165 @@
+{
+  "base": "b18ef92ffdb3fd80ab88088e282d65302ecf41bb",
+  "html_files": 9,
+  "changes": [
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-sk.html",
+      "id": "600",
+      "lang": "sk",
+      "type": "long",
+      "before_sha256": "5aa64430ff0befc760b65ca86c28b319c3d1d049027a2371c9671a1348afd752",
+      "after_sha256": "2a5343c3af0fe202a17f35d23aa3681d761b3937d6cc5eae433c6828ece5ea31",
+      "exact_edits": [
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Rozpor archívneho textu – neplatí ako špecifikácia vrecúška ID 600</summary><p class=\"cta-meta\">Balenie: 270 g | 30 vrecúšok · Dĺžka kúry: 30 dní, odporúčané minimálne 3 mesiace</p></details>",
+          "after": "",
+          "reason": "Remove internal archive-review panel; preserve exact conflicting historical wording in ledger."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-sk.html",
+      "id": "600",
+      "lang": "sk",
+      "type": "short",
+      "before_sha256": "be920e26dd550c32575847f1fe15b87905b3a129fbfaf61b0973ae73a2eda77b",
+      "after_sha256": "214784a85e294643caedb87fb6f94a5823e54361a4502a3e22daa39cfcbc2a35",
+      "exact_edits": [
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Historické odporúčanie kúry – nejde o výdrž jedného vrecúška</summary><span class=\"maly-vydrz\"><img alt=\"dĺžka kúry\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-zelena.png\"/>odporúčaná dĺžka kúry: 30 dní, odporúčané minimálne 3 mesiace</span></details>",
+          "after": "",
+          "reason": "Remove internal archive-review panel; preserve exact conflicting historical wording in ledger."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-en.html",
+      "id": "600",
+      "lang": "en",
+      "type": "long",
+      "before_sha256": "2d969748d95c82b25c1ef44f773803aa51c2a7b56768592bfa291a5d29bc84f7",
+      "after_sha256": "f41d9a49f1ca4602b8e21fdcb64f0ab25f7539eefca12d24f5982298029ddfee",
+      "exact_edits": [
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Discrepancy in archived text – not a specification for sachet ID 600</summary><p class=\"cta-meta\">Pack: 270 g | 30 sachets · Course duration: 30 days, at least 3 months recommended</p></details>",
+          "after": "",
+          "reason": "Remove internal archive-review panel; preserve exact conflicting historical wording in ledger."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-en.html",
+      "id": "600",
+      "lang": "en",
+      "type": "short",
+      "before_sha256": "8714770c384eed6d776bc7371b4c059a7b8639e92697c071721e7840ed68a27f",
+      "after_sha256": "07ac68607aaa945d4b37a9bdd9b8d7b04beaf4dc1d7f6193ea93607e7188cfff",
+      "exact_edits": [
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Historical course recommendation – not the duration of a single sachet</summary><span class=\"maly-vydrz\"><img alt=\"course duration\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-zelena.png\"/>recommended course duration: 30 days, at least 3 months recommended</span></details>",
+          "after": "",
+          "reason": "Remove internal archive-review panel; preserve exact conflicting historical wording in ledger."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-de.html",
+      "id": "600",
+      "lang": "de",
+      "type": "long",
+      "before_sha256": "d1ad61b7dea21617eacabc86fdfc0e5559d9fcb2e59a4b9a0167aa62d4b32398",
+      "after_sha256": "4073dc75d528ec8ffc7368c872f7dc9f3187b643e831607209a7a9d37696dfd2",
+      "exact_edits": [
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Widerspruch im Archivtext – gilt nicht als Spezifikation für Beutel ID 600</summary><p class=\"cta-meta\">Packung: 270 g | 30 Beutel · Einnahmedauer: 30 Tage, mindestens 3 Monate empfohlen</p></details>",
+          "after": "",
+          "reason": "Remove internal archive-review panel; preserve exact conflicting historical wording in ledger."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-de.html",
+      "id": "600",
+      "lang": "de",
+      "type": "short",
+      "before_sha256": "302169dc9e2be2f5700b8eb9d9f8649f8beee4994716aa2610121fa059795c0a",
+      "after_sha256": "d1c6ebf2c1421c8473577c5f6a395de01211eef561663b171a570ccfb71b3486",
+      "exact_edits": [
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Historische Einnahmeempfehlung – nicht die Reichweite eines Einzelbeutels</summary><span class=\"maly-vydrz\"><img alt=\"Einnahmedauer\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/piktogramy-bez/cas-zelena.png\"/>empfohlene Einnahmedauer: 30 Tage, mindestens 3 Monate empfohlen</span></details>",
+          "after": "",
+          "reason": "Remove internal archive-review panel; preserve exact conflicting historical wording in ledger."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-sk.html",
+      "id": "357",
+      "lang": "sk",
+      "type": "long",
+      "before_sha256": "7591132b67d84ae1c8995877b0f4c56a53c5263a948b5edbefd3f83ea2155823",
+      "after_sha256": "124045cfe3907593b054f1a738891d7af1951e14a3e6e334d67a878925b2ce5d",
+      "exact_edits": [
+        {
+          "before": "<p class=\"gl-source-conflict\">Rozpor v zdroji: slovné zloženie a nasledujúca tabuľka sa nezhodujú. Tabuľka uvádza rybí kolagén; pri alergii na niektorú zo zložiek sa riaďte upozornením. Úplnú receptúru vrátane alergénov treba overiť na obale.</p>",
+          "after": "<p class=\"gl-product-warning\">Tabuľka uvádza rybí kolagén; pri alergii na niektorú zo zložiek sa riaďte upozornením. Úplnú receptúru vrátane alergénov treba overiť na obale.</p>",
+          "reason": "Move editorial source-conflict commentary to ledger; retain complete fish-collagen/allergy/packaging warnings."
+        },
+        {
+          "before": "<p class=\"gl-source-conflict\">Rozpor v pôvodnom zdroji: krátky opis uvádza 60 toboliek, nasledujúca veta uvádza 45 dní. Preberáme ju iba na kontrolu, nie ako overenú výdrž balenia.</p>",
+          "after": "",
+          "reason": "Move editorial source-conflict commentary to ledger; retain complete fish-collagen/allergy/packaging warnings."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-en.html",
+      "id": "357",
+      "lang": "en",
+      "type": "long",
+      "before_sha256": "5df8dfedd49f137200856238aee6024fcb70a935c03b915271d4fd3cc5d6be60",
+      "after_sha256": "cf9945a2dc9bc1cd73a5885134b44f43bd48138a27e96d7590e0605a7c09a8d0",
+      "exact_edits": [
+        {
+          "before": "<p class=\"gl-source-conflict\">Source discrepancy: the written ingredients list and the following table do not match. The table lists fish collagen; if you are allergic to any ingredient, follow the warning. The complete formula, including allergens, must be checked on the packaging.</p>",
+          "after": "<p class=\"gl-product-warning\">The table lists fish collagen; if you are allergic to any ingredient, follow the warning. The complete formula, including allergens, must be checked on the packaging.</p>",
+          "reason": "Move editorial source-conflict commentary to ledger; retain complete fish-collagen/allergy/packaging warnings."
+        },
+        {
+          "before": "<p class=\"gl-source-conflict\">Discrepancy in the original source: the short description states 60 capsules, while the following sentence states 45 days. We retain it for review only, not as a verified pack duration.</p>",
+          "after": "",
+          "reason": "Move editorial source-conflict commentary to ledger; retain complete fish-collagen/allergy/packaging warnings."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    },
+    {
+      "path": "web/Golden Life Xpress Hair Grow/Golden-Life-Xpress-Hair-Grow-de.html",
+      "id": "357",
+      "lang": "de",
+      "type": "long",
+      "before_sha256": "8c8dd2b03a4de617e56f9ca9af771b6a662747c769d9bcef4ad7b71fd725c863",
+      "after_sha256": "9b5cefe6b56e13f1e3c39fc865829aa968271cbbd4a457d5543d7c3a797d7a49",
+      "exact_edits": [
+        {
+          "before": "<p class=\"gl-source-conflict\">Widerspruch in der Quelle: Die ausformulierte Zusammensetzung und die folgende Tabelle stimmen nicht überein. Die Tabelle nennt Fischkollagen; beachten Sie bei einer Allergie gegen einen der Inhaltsstoffe den Warnhinweis. Die vollständige Rezeptur einschließlich der Allergene muss auf der Verpackung überprüft werden.</p>",
+          "after": "<p class=\"gl-product-warning\">Die Tabelle nennt Fischkollagen; beachten Sie bei einer Allergie gegen einen der Inhaltsstoffe den Warnhinweis. Die vollständige Rezeptur einschließlich der Allergene muss auf der Verpackung überprüft werden.</p>",
+          "reason": "Move editorial source-conflict commentary to ledger; retain complete fish-collagen/allergy/packaging warnings."
+        },
+        {
+          "before": "<p class=\"gl-source-conflict\">Widerspruch in der ursprünglichen Quelle: Die Kurzbeschreibung nennt 60 Kapseln, der folgende Satz nennt 45 Tage. Wir übernehmen ihn nur zur Prüfung, nicht als bestätigte Reichweite der Packung.</p>",
+          "after": "",
+          "reason": "Move editorial source-conflict commentary to ledger; retain complete fish-collagen/allergy/packaging warnings."
+        }
+      ],
+      "tables_and_executable_scripts_unchanged": true
+    }
+  ]
+}
