@@ -1,0 +1,31 @@
+{
+  "scope": "Native public response override with exact final descriptions and repository CSS/JS, not CMS save. No POST/purchase. Other native resources are actual public network responses.",
+  "scenarios": [
+    {
+      "width": 390,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "shortRootWidth": 355,
+      "shortParagraphsInside": 0,
+      "longScheme": "light",
+      "photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/354_golden-life-hair-serum---lahvicka-vlasoveho-sera.png?ff=1&x=1024&y=1024&q=85&ts=67e5086c&sg=38cb01fe",
+      "css": "#07873c",
+      "toggles": 4,
+      "dialog": true
+    },
+    {
+      "width": 1440,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "shortRootWidth": 460,
+      "shortParagraphsInside": 0,
+      "longScheme": "light",
+      "photo": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/354_golden-life-hair-serum---lahvicka-vlasoveho-sera.png?ff=1&x=1024&y=1024&q=85&ts=67e5086c&sg=38cb01fe",
+      "css": "#07873c",
+      "toggles": 0,
+      "dialog": true
+    }
+  ],
+  "errors": [],
+  "passed": true
+}

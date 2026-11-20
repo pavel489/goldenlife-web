@@ -33,7 +33,8 @@
     'vitamin-c',
     'detoxikacni-caj-30-dni',
     'detoxikacni-caj-7-dni',
-    'ph-uro-balance-caj'
+    'ph-uro-balance-caj',
+    'hair-serum'
   ]);
   var supported = new Set(THEMES);
   var ATTRIBUTE = 'data-gl-site-scheme';

@@ -1,0 +1,592 @@
+{
+  "scope": "Exact final fragments with pinned repository CSS/JS in same-origin intercepted fixture, not saved CMS. Authentic downloaded source image bytes; no cart submission. Arial fallback, not a physical-device test.",
+  "geometry": [
+    {
+      "width": 320,
+      "height": 900,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "96px 96px 96px",
+      "mode": "light",
+      "kind": "paired"
+    },
+    {
+      "width": 320,
+      "height": 900,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "96px 96px 96px",
+      "mode": "dark",
+      "kind": "paired"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "119.328px 119.328px 119.344px",
+      "mode": "light",
+      "kind": "paired"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "119.328px 119.328px 119.344px",
+      "mode": "dark",
+      "kind": "paired"
+    },
+    {
+      "width": 767,
+      "height": 900,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "light",
+      "kind": "paired"
+    },
+    {
+      "width": 767,
+      "height": 900,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "dark",
+      "kind": "paired"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "light",
+      "kind": "paired"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "dark",
+      "kind": "paired"
+    },
+    {
+      "width": 820,
+      "height": 1180,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "light",
+      "kind": "paired"
+    },
+    {
+      "width": 820,
+      "height": 1180,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "dark",
+      "kind": "paired"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "light",
+      "kind": "paired"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "dark",
+      "kind": "paired"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "light",
+      "kind": "paired"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "dark",
+      "kind": "paired"
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "82.6562px 82.6719px 82.6562px",
+      "mode": "light",
+      "kind": "short-host",
+      "host": 280
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "82.6562px 82.6719px 82.6562px",
+      "mode": "dark",
+      "kind": "short-host",
+      "host": 280
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "96px 96px 96px",
+      "mode": "light",
+      "kind": "short-host",
+      "host": 320
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "96px 96px 96px",
+      "mode": "dark",
+      "kind": "short-host",
+      "host": 320
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "light",
+      "background": "rgb(255, 255, 255)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "light",
+      "kind": "short-host",
+      "host": 420
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentOverflow": 0,
+      "longOverflow": 0,
+      "shortOverflow": 0,
+      "badCaptions": [],
+      "titleClipped": false,
+      "brokenImages": [],
+      "rootScheme": "dark",
+      "background": "rgb(25, 23, 29)",
+      "shortColumns": "129.328px 129.328px 129.328px",
+      "mode": "dark",
+      "kind": "short-host",
+      "host": 420
+    }
+  ],
+  "dialogs": [
+    {
+      "id": "nad-info",
+      "width": 390,
+      "mode": "light",
+      "fullParagraphs": 2,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-0",
+      "width": 390,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-1",
+      "width": 390,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-2",
+      "width": 390,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-3",
+      "width": 390,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-4",
+      "width": 390,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-5",
+      "width": 390,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "nad-info",
+      "width": 390,
+      "mode": "dark",
+      "fullParagraphs": 2,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-0",
+      "width": 390,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-1",
+      "width": 390,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-2",
+      "width": 390,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-3",
+      "width": 390,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-4",
+      "width": 390,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-5",
+      "width": 390,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "nad-info",
+      "width": 1440,
+      "mode": "light",
+      "fullParagraphs": 2,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-0",
+      "width": 1440,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-1",
+      "width": 1440,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-2",
+      "width": 1440,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-3",
+      "width": 1440,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-4",
+      "width": 1440,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-5",
+      "width": 1440,
+      "mode": "light",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "nad-info",
+      "width": 1440,
+      "mode": "dark",
+      "fullParagraphs": 2,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-0",
+      "width": 1440,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-1",
+      "width": 1440,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-2",
+      "width": 1440,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-3",
+      "width": 1440,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-4",
+      "width": 1440,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    },
+    {
+      "id": "gl-354-ingredient-5",
+      "width": 1440,
+      "mode": "dark",
+      "fullParagraphs": 1,
+      "pointerOpenClose": true,
+      "escapeFocus": true
+    }
+  ],
+  "toggles": [
+    {
+      "width": 390,
+      "count": 4,
+      "roundTrip": true
+    },
+    {
+      "width": 1440,
+      "count": 0,
+      "roundTrip": true
+    },
+    {
+      "width": 390,
+      "count": 4,
+      "roundTrip": true
+    }
+  ],
+  "photoSync": [
+    {
+      "case": "own",
+      "passed": true
+    },
+    {
+      "case": "foreign",
+      "passed": true
+    },
+    {
+      "case": "wrong-id",
+      "passed": true
+    },
+    {
+      "case": "restore",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    "screenshots/dialog-390-dark.png",
+    "screenshots/long-390.png",
+    "screenshots/short-390.png",
+    "screenshots/long-1440.png",
+    "screenshots/short-1440.png"
+  ],
+  "blocked": [
+    "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+  ],
+  "browser": "156.0.8078.4",
+  "noJS": "Light fallback and CSS dialog verified",
+  "offline": {
+    "images": 31,
+    "externalRequests": 0,
+    "pointerDialog": true
+  },
+  "geometryFailures": [],
+  "passed": true
+}

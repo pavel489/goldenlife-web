@@ -1,0 +1,16 @@
+[
+  {
+    "path": "user/documents/upload/css/golden-life-produkt.css",
+    "status": 200,
+    "same_as_prepared": false
+  },
+  {
+    "path": "user/documents/upload/css/golden-life-barvy-hair-serum.css",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "path": "user/documents/upload/js/golden-life-product-scheme.js",
+    "status": 200,
+    "same_as_prepared": false
+  }
+]

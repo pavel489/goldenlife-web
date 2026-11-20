@@ -1,0 +1,56 @@
+{
+  "baseline": "02e3c306915d0ba9a2a22690a4fabf9c3adc4124",
+  "productId": 354,
+  "source": "https://www.golden-life.cz/hair-serum/",
+  "paragraphsRetained": 23,
+  "liRetained": 6,
+  "ingredientDialogs": 6,
+  "icons": [
+    {
+      "name": "hair_growth",
+      "source": "assets/piktogramy/monoline-v3/hair_growth-fbcd00.png",
+      "source_sha256": "511fc73d2f8fb0b81dcba2d8e43588bb73dd18d3e615a1951542c38eadb7eb6c",
+      "alpha_unchanged": true
+    },
+    {
+      "name": "drop",
+      "source": "assets/piktogramy/monoline-v3/drop-e5b200.png",
+      "source_sha256": "0ef1df358a56ef520d2e0970c78de24dc88e4783b3296dbe2af22d87e6ebde8d",
+      "alpha_unchanged": true
+    },
+    {
+      "name": "hair",
+      "source": "assets/piktogramy/hair-v5/hair-d09a0e.png",
+      "source_sha256": "3039d009ea0720ba23e062546eb79a4633fcd77ada041a2c9eb0be1e4e3a375d",
+      "alpha_unchanged": true
+    },
+    {
+      "name": "shield_hand",
+      "source": "assets/piktogramy/monoline-v3/shield_hand-168f3e.png",
+      "source_sha256": "377373e08c753ddb5d429b2c852cd1d4e003e211bb65ed7c8d47f59a5ea666ac",
+      "alpha_unchanged": true
+    },
+    {
+      "name": "shield_network",
+      "source": "assets/piktogramy/monoline-v3/shield_network-f1c004.png",
+      "source_sha256": "2c5eaed1ebc54a023af35930da737f041ff6c7a78d52af726d960ebdad01a6c9",
+      "alpha_unchanged": true
+    },
+    {
+      "name": "flag",
+      "source": "assets/piktogramy/monoline-v3/flag-148f3d.png",
+      "source_sha256": "689119f675c201878fea077cc859b3294320ed04cedea06160cc10564e56cecf",
+      "alpha_unchanged": true
+    }
+  ],
+  "mainPhoto": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/354_golden-life-hair-serum---lahvicka-vlasoveho-sera.png?ff=1&x=1024&y=1024&q=85&ts=67e5086c&sg=38cb01fe",
+  "scriptsSyntaxChecked": 4,
+  "excludedStaleValues": [
+    "495 Kč",
+    "2 měsíce použití",
+    "Skladem – odesíláme tentýž den"
+  ],
+  "long": "web/Golden Life Hair Serum/Golden-Life-Hair-Serum-cz.html",
+  "short": "web/Golden Life Hair Serum/maly/Golden-Life-Hair-Serum-maly-cz.html",
+  "theme": "user/documents/upload/css/golden-life-barvy-hair-serum.css"
+}
