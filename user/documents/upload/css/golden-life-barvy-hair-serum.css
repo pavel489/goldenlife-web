@@ -253,3 +253,11 @@
 [data-gl-theme="hair-serum"] .maly-ikony>div{overflow-wrap:normal;word-break:normal;hyphens:auto;}
 @container(max-width:600px){[data-gl-theme="hair-serum"] .maly-ikony{grid-template-columns:repeat(3,minmax(0,1fr));}}
 @media(max-width:600px){[data-gl-theme="hair-serum"] .maly-ikony{grid-template-columns:repeat(3,minmax(0,1fr));}}
+
+/* Hair Serum: bounded desktop CTA columns; mobile layout stays unchanged. */
+@media(min-width:768px){
+  #special-popis[data-gl-theme="hair-serum"] .cta-content{display:grid;grid-template-columns:minmax(0,260px) minmax(0,1fr);align-items:center;gap:32px;width:100%;max-width:900px;margin-inline:auto;text-align:left;}
+  #special-popis[data-gl-theme="hair-serum"] .cta-content>*+*{margin-top:0;}
+  #special-popis[data-gl-theme="hair-serum"] .gl-cta-photo{width:100%;max-width:260px;justify-self:center;}
+  #special-popis[data-gl-theme="hair-serum"] .cta-text{min-width:0;max-width:100%;margin:0;text-align:left;}
+}

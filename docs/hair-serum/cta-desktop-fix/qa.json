@@ -1,0 +1,529 @@
+{
+  "passed": true,
+  "scenarios": [
+    {
+      "width": 390,
+      "scheme": "light",
+      "geometry": {
+        "box": {
+          "width": 342,
+          "height": 594.671875
+        },
+        "photo": {
+          "width": 338,
+          "height": 338,
+          "right": 364
+        },
+        "text": {
+          "width": 0,
+          "height": 0,
+          "left": 0
+        },
+        "button": {
+          "width": 310,
+          "height": 50.390625,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 390,
+        "documentWidth": 390
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": true,
+      "page_errors": []
+    },
+    {
+      "width": 390,
+      "scheme": "dark",
+      "geometry": {
+        "box": {
+          "width": 342,
+          "height": 594.671875
+        },
+        "photo": {
+          "width": 338,
+          "height": 338,
+          "right": 364
+        },
+        "text": {
+          "width": 0,
+          "height": 0,
+          "left": 0
+        },
+        "button": {
+          "width": 310,
+          "height": 50.390625,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 390,
+        "documentWidth": 390
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": true,
+      "page_errors": []
+    },
+    {
+      "width": 600,
+      "scheme": "light",
+      "geometry": {
+        "box": {
+          "width": 552,
+          "height": 783.0625
+        },
+        "photo": {
+          "width": 548,
+          "height": 548,
+          "right": 574
+        },
+        "text": {
+          "width": 0,
+          "height": 0,
+          "left": 0
+        },
+        "button": {
+          "width": 520,
+          "height": 50.390625,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 600,
+        "documentWidth": 600
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 600,
+      "scheme": "dark",
+      "geometry": {
+        "box": {
+          "width": 552,
+          "height": 783.0625
+        },
+        "photo": {
+          "width": 548,
+          "height": 548,
+          "right": 574
+        },
+        "text": {
+          "width": 0,
+          "height": 0,
+          "left": 0
+        },
+        "button": {
+          "width": 520,
+          "height": 50.390625,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 600,
+        "documentWidth": 600
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 767,
+      "scheme": "light",
+      "geometry": {
+        "box": {
+          "width": 719,
+          "height": 950.0625
+        },
+        "photo": {
+          "width": 715,
+          "height": 715,
+          "right": 741
+        },
+        "text": {
+          "width": 0,
+          "height": 0,
+          "left": 0
+        },
+        "button": {
+          "width": 687,
+          "height": 50.390625,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 767,
+        "documentWidth": 767
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 767,
+      "scheme": "dark",
+      "geometry": {
+        "box": {
+          "width": 719,
+          "height": 950.0625
+        },
+        "photo": {
+          "width": 715,
+          "height": 715,
+          "right": 741
+        },
+        "text": {
+          "width": 0,
+          "height": 0,
+          "left": 0
+        },
+        "button": {
+          "width": 687,
+          "height": 50.390625,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 767,
+        "documentWidth": 767
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 768,
+      "scheme": "light",
+      "geometry": {
+        "box": {
+          "width": 752,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 290
+        },
+        "text": {
+          "width": 416,
+          "height": 225.96875,
+          "left": 322
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 768,
+        "documentWidth": 768
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 768,
+      "scheme": "dark",
+      "geometry": {
+        "box": {
+          "width": 752,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 290
+        },
+        "text": {
+          "width": 416,
+          "height": 225.96875,
+          "left": 322
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 768,
+        "documentWidth": 768
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 1024,
+      "scheme": "light",
+      "geometry": {
+        "box": {
+          "width": 1008,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 322
+        },
+        "text": {
+          "width": 608,
+          "height": 199.578125,
+          "left": 354
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 1024,
+        "documentWidth": 1024
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 1024,
+      "scheme": "dark",
+      "geometry": {
+        "box": {
+          "width": 1008,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 322
+        },
+        "text": {
+          "width": 608,
+          "height": 199.578125,
+          "left": 354
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 1024,
+        "documentWidth": 1024
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 1440,
+      "scheme": "light",
+      "geometry": {
+        "box": {
+          "width": 1100,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 530
+        },
+        "text": {
+          "width": 608,
+          "height": 199.578125,
+          "left": 562
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 1440,
+        "documentWidth": 1440
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": true,
+      "page_errors": []
+    },
+    {
+      "width": 1440,
+      "scheme": "dark",
+      "geometry": {
+        "box": {
+          "width": 1100,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 530
+        },
+        "text": {
+          "width": 608,
+          "height": 199.578125,
+          "left": 562
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 1440,
+        "documentWidth": 1440
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": true,
+      "page_errors": []
+    },
+    {
+      "width": 1920,
+      "scheme": "light",
+      "geometry": {
+        "box": {
+          "width": 1100,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 770
+        },
+        "text": {
+          "width": 608,
+          "height": 199.578125,
+          "left": 802
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 1920,
+        "documentWidth": 1920
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    },
+    {
+      "width": 1920,
+      "scheme": "dark",
+      "geometry": {
+        "box": {
+          "width": 1100,
+          "height": 304
+        },
+        "photo": {
+          "width": 260,
+          "height": 260,
+          "right": 770
+        },
+        "text": {
+          "width": 608,
+          "height": 199.578125,
+          "left": 802
+        },
+        "button": {
+          "width": 175.578125,
+          "height": 44,
+          "text": "Přejít k nákupu",
+          "href": "#product-detail-form"
+        },
+        "layout": "grid",
+        "viewport": 1920,
+        "documentWidth": 1920
+      },
+      "pointer_click_to_verified_product_354_target": true,
+      "cart_submitted": false,
+      "modal_full_width_regression_checked": false,
+      "page_errors": []
+    }
+  ],
+  "mobile_pixel_comparisons": [
+    {
+      "width": 390,
+      "scheme": "light",
+      "identical": true
+    },
+    {
+      "width": 390,
+      "scheme": "dark",
+      "identical": true
+    },
+    {
+      "width": 600,
+      "scheme": "light",
+      "identical": true
+    },
+    {
+      "width": 600,
+      "scheme": "dark",
+      "identical": true
+    },
+    {
+      "width": 767,
+      "scheme": "light",
+      "identical": true
+    },
+    {
+      "width": 767,
+      "scheme": "dark",
+      "identical": true
+    }
+  ],
+  "limits": "Exact final Git fragments/CSS/scripts in isolated same-origin Chromium with verified genuine image cache. Native browser inspection separately reproduced >900px desktop photo column and verified a 260px fix through temporary CSS only. No cart submission or live CMS change.",
+  "reproduced_before": {
+    "box": {
+      "width": 1100,
+      "height": 957.21875
+    },
+    "photo": {
+      "width": 913.21875,
+      "height": 913.21875,
+      "right": 1105.21875
+    },
+    "text": {
+      "width": 118.78125,
+      "height": 408.328125,
+      "left": 1129.21875
+    },
+    "button": {
+      "width": 118.78125,
+      "height": 76,
+      "text": "Přejít k nákupu",
+      "href": "#product-detail-form"
+    },
+    "layout": "flex",
+    "viewport": 1440,
+    "documentWidth": 1440
+  },
+  "pointer_cta_checks": 14,
+  "offline_preview_checked": true,
+  "source_copy_photos_scripts_preserved": true,
+  "shared_css_unchanged": true
+}

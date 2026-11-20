@@ -65,3 +65,10 @@ Nová šestice fotografií je zapojená v dlouhém českém popisu, v kartách i
 Produktová CSS výjimka `object-fit:contain` vytvářela u širokých obrázků boční pásy. Vlastní styl Hair Serum nyní používá plnou šířku a automatickou výšku podle skutečného poměru obrázku: fotografie je od kraje ke kraji bez deformace a bez dodatečného ořezu. Krátký i dlouhý popis načítají stejné CSS s novým cache parametrem `hair-serum-2-modal`. Fotografie, texty, skripty, sdílené CSS i ostatní produkty jsou beze změny.
 
 Opravený samostatný náhled: `nahled.html`. Podklady a testy: `modal-full-bleed/`. Pro živý Shoptet je nutné nahrát aktualizovaný `user/documents/upload/css/golden-life-barvy-hair-serum.css` a použít aktualizované importy; Git publikace sama živý obchod nepřepisuje.
+
+
+## Desktopové CTA — oprava roztažení
+
+Foto rámeček už na desktopu nespotřebuje téměř celou šířku flexového řádku. Od 768 px používá pouze Hair Serum omezený obrázkový sloupec 260 px a samostatný pružný textový sloupec; obsah má maximální šířku 900 px. Mobilní větev, galerie/synchronizace, skutečné fotografie, texty a cíl tlačítka `#product-detail-form` zůstaly zachované. Ověření a screenshoty: `cta-desktop-fix/`.
+
+CSS import v krátkém i dlouhém popisu používá cache parametr `hair-serum-3-cta`. Pro živý web je nutné nahrát aktualizovaný produktový CSS soubor; Git aktualizace není uložením do Shoptetu.
