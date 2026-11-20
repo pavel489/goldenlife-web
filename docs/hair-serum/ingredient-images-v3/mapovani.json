@@ -1,0 +1,56 @@
+[
+  {
+    "label": "Capixyl™",
+    "slug": "capixyl",
+    "old_url": "https://www.golden-life.cz/user/documents/upload/pozadihair.png",
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/79868accdc16a1cb3159aa96b226af62a3e90575/assets/hair-serum-ingredients/hair-serum_capixyl_v2.jpg",
+    "jpg": "hair-serum_capixyl_v2.jpg",
+    "webp": "hair-serum_capixyl_v2.webp",
+    "jpg_sha256": "6cda19087d4ccaf45730f43ff2528d5d26a55482297f9860d1e8c043ce422ea7"
+  },
+  {
+    "label": "Panthenol (Provitamín B5)",
+    "slug": "panthenol",
+    "old_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/Panthenol-gl.png",
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/79868accdc16a1cb3159aa96b226af62a3e90575/assets/hair-serum-ingredients/hair-serum_panthenol_v3.jpg",
+    "jpg": "hair-serum_panthenol_v3.jpg",
+    "webp": "hair-serum_panthenol_v3.webp",
+    "jpg_sha256": "0119ab2951a0584434c5185115fc886b9218d9f540fad8fe381a24da7a15fe59"
+  },
+  {
+    "label": "Niacinamid (Vitamín B3)",
+    "slug": "niacinamid",
+    "old_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/Niacinamid-gl.png",
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/79868accdc16a1cb3159aa96b226af62a3e90575/assets/hair-serum-ingredients/hair-serum_niacinamid_v3.jpg",
+    "jpg": "hair-serum_niacinamid_v3.jpg",
+    "webp": "hair-serum_niacinamid_v3.webp",
+    "jpg_sha256": "0ef7848301026042d648a44619aabdb4f0f3482d6848c60d6e60bf32f1ca93b7"
+  },
+  {
+    "label": "Biotin",
+    "slug": "biotin",
+    "old_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/Biotin.png",
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/79868accdc16a1cb3159aa96b226af62a3e90575/assets/hair-serum-ingredients/hair-serum_biotin_v3.jpg",
+    "jpg": "hair-serum_biotin_v3.jpg",
+    "webp": "hair-serum_biotin_v3.webp",
+    "jpg_sha256": "e4087b80a5efda65eba383e57995e5a8b04dac955c59c97f387226e28ce4fd8c"
+  },
+  {
+    "label": "Sodium Hyaluronate",
+    "slug": "sodium-hyaluronate",
+    "old_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/SodiumHyaluronate-gl.png",
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/79868accdc16a1cb3159aa96b226af62a3e90575/assets/hair-serum-ingredients/hair-serum_sodium-hyaluronate_v1.jpg",
+    "jpg": "hair-serum_sodium-hyaluronate_v1.jpg",
+    "webp": "hair-serum_sodium-hyaluronate_v1.webp",
+    "jpg_sha256": "2f317519be42938c14d5982fb6e8793ff32b72d8aaa98449144f155628777b42"
+  },
+  {
+    "label": "Extrakt z červeného jetele",
+    "slug": "cerveny-jetel",
+    "old_url": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/SLIM EXTREME COLLAGEN/cerveného-jetele-gl.png",
+    "url": "https://raw.githubusercontent.com/pavel489/goldenlife-web/79868accdc16a1cb3159aa96b226af62a3e90575/assets/hair-serum-ingredients/hair-serum_cerveny-jetel_v1.jpg",
+    "jpg": "hair-serum_cerveny-jetel_v1.jpg",
+    "webp": "hair-serum_cerveny-jetel_v1.webp",
+    "jpg_sha256": "33414ed5b5746570fefb6e9bda3adf32ee26af6d6bd9af3ab91d898d7b93e688"
+  }
+]

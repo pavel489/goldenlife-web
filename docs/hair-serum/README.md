@@ -53,3 +53,8 @@ Aktuální kontrola veřejných závislostí je v [public-dependencies.json](pub
 - **Bez placeného generování médií.** Skutečná cena modelového a nástrojového běhu není v této předávce dostupná; nulový celkový náklad netvrdíme.
 
 Původní účinková tvrzení jsou zachována jako převzatý pracovní obsah, nikoli nově právně schválené sliby. Přesné výhrady, alternativy a odstraněné zastaralé obchodní údaje jsou odděleně v [obsah-ke-kontrole.md](obsah-ke-kontrole.md); interní poznámky nejsou ve vložitelných HTML.
+
+
+## Aktualizace obrázků aktivních látek v3
+
+Nová šestice fotografií je zapojená v dlouhém českém popisu, v kartách i dialozích. [Přehled, mapování a testy](ingredient-images-v3/README.md). Obrázky jsou v `assets/hair-serum-ingredients/`; offline `nahled.html` a hlavní screenshoty jsou aktualizované. Živý Shoptet tato Git změna nepřepisuje.

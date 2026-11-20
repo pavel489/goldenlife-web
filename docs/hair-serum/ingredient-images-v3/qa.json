@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "scenarios": [
+    {
+      "width": 390,
+      "decoded_ingredient_images": 12,
+      "opened_closed_dialogs": 6,
+      "page_errors": [],
+      "geometry": {
+        "viewport": 390,
+        "scroll": 390
+      },
+      "blocked_unrelated_resources": [
+        "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+      ]
+    },
+    {
+      "width": 820,
+      "decoded_ingredient_images": 12,
+      "opened_closed_dialogs": 6,
+      "page_errors": [],
+      "geometry": {
+        "viewport": 820,
+        "scroll": 820
+      },
+      "blocked_unrelated_resources": [
+        "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+      ]
+    },
+    {
+      "width": 1440,
+      "decoded_ingredient_images": 12,
+      "opened_closed_dialogs": 6,
+      "page_errors": [],
+      "geometry": {
+        "viewport": 1440,
+        "scroll": 1440
+      },
+      "blocked_unrelated_resources": [
+        "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+      ]
+    }
+  ],
+  "limits": "Isolated same-origin Chromium with exact current Git HTML/CSS/JS and exact new image bytes; unrelated images from genuine cached public assets. Not live CMS deployment. Git Raw URLs will be independently fetched after publication.",
+  "dialog_checks": 18,
+  "offline_preview_loaded_and_dialog_tested": true,
+  "production_short_description_unchanged": true,
+  "source_text_css_scripts_preserved": true
+}
