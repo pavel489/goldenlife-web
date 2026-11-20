@@ -218,7 +218,7 @@
 [data-gl-theme="hair-serum"] .latky-grid-2{grid-template-columns:repeat(2,minmax(0,1fr));}
 [data-gl-theme="hair-serum"] .latky-grid-2 .odstavec2::after{display:none!important;}
 [data-gl-theme="hair-serum"] [data-gl-info-card] .obrazek-odstavec{object-fit:contain;padding:20px;background:var(--gl-color-bg-light);}
-[data-gl-theme="hair-serum"] .latky-modal-img{object-fit:contain;background:var(--gl-color-bg-light);}
+[data-gl-theme="hair-serum"] .latky-modal-img{display:block;width:100%;height:auto;object-fit:cover;background:var(--gl-color-bg-light);}
 [data-gl-theme="hair-serum"] .latky-modal-box{padding-top:0;}
 [data-gl-theme="hair-serum"] .gl-table-scroll{max-width:100%;overflow-x:auto;border-radius:12px;}
 [data-gl-theme="hair-serum"] .gl-table-scroll table{display:table;min-width:580px;width:100%;}

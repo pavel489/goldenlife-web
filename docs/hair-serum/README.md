@@ -58,3 +58,10 @@ Původní účinková tvrzení jsou zachována jako převzatý pracovní obsah, 
 ## Aktualizace obrázků aktivních látek v3
 
 Nová šestice fotografií je zapojená v dlouhém českém popisu, v kartách i dialozích. [Přehled, mapování a testy](ingredient-images-v3/README.md). Obrázky jsou v `assets/hair-serum-ingredients/`; offline `nahled.html` a hlavní screenshoty jsou aktualizované. Živý Shoptet tato Git změna nepřepisuje.
+
+
+## Oprava fotografie v rozkliknutém detailu
+
+Produktová CSS výjimka `object-fit:contain` vytvářela u širokých obrázků boční pásy. Vlastní styl Hair Serum nyní používá plnou šířku a automatickou výšku podle skutečného poměru obrázku: fotografie je od kraje ke kraji bez deformace a bez dodatečného ořezu. Krátký i dlouhý popis načítají stejné CSS s novým cache parametrem `hair-serum-2-modal`. Fotografie, texty, skripty, sdílené CSS i ostatní produkty jsou beze změny.
+
+Opravený samostatný náhled: `nahled.html`. Podklady a testy: `modal-full-bleed/`. Pro živý Shoptet je nutné nahrát aktualizovaný `user/documents/upload/css/golden-life-barvy-hair-serum.css` a použít aktualizované importy; Git publikace sama živý obchod nepřepisuje.
