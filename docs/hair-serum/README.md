@@ -72,3 +72,8 @@ Opravený samostatný náhled: `nahled.html`. Podklady a testy: `modal-full-blee
 Foto rámeček už na desktopu nespotřebuje téměř celou šířku flexového řádku. Od 768 px používá pouze Hair Serum omezený obrázkový sloupec 260 px a samostatný pružný textový sloupec; obsah má maximální šířku 900 px. Mobilní větev, galerie/synchronizace, skutečné fotografie, texty a cíl tlačítka `#product-detail-form` zůstaly zachované. Ověření a screenshoty: `cta-desktop-fix/`.
 
 CSS import v krátkém i dlouhém popisu používá cache parametr `hair-serum-3-cta`. Pro živý web je nutné nahrát aktualizovaný produktový CSS soubor; Git aktualizace není uložením do Shoptetu.
+
+
+## Jazykové mutace Hair Serum
+
+Doplněny slovenské, anglické a německé krátké i dlouhé HTML popisy podle nejnovějšího českého zdroje včetně obrázků v3, fotografie od kraje ke kraji v dialogu a kompaktního desktopového CTA. [Náhledy, manifest a testy](locales/README.md). České popisy, společné styly, zdrojové obrázky a skripty zůstaly beze změny; přeložené jsou pouze viditelné texty, alt/aria a lokalizované textové řetězce ovládání. Git mutace nejsou nasazením do živého Shoptetu.

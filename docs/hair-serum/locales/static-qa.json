@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "html_count": 6,
+  "files": [
+    {
+      "path": "web/Golden Life Hair Serum/Golden-Life-Hair-Serum-sk.html",
+      "paragraphs": 34,
+      "all_source_element_counts_preserved": true,
+      "no_language_inappropriate_czech_ui_leftover": true,
+      "utf8_valid": true,
+      "lang": "sk"
+    },
+    {
+      "path": "web/Golden Life Hair Serum/maly/Golden-Life-Hair-Serum-maly-sk.html",
+      "paragraphs": 1,
+      "all_source_element_counts_preserved": true,
+      "no_language_inappropriate_czech_ui_leftover": true,
+      "utf8_valid": true,
+      "lang": "sk"
+    },
+    {
+      "path": "web/Golden Life Hair Serum/Golden-Life-Hair-Serum-en.html",
+      "paragraphs": 34,
+      "all_source_element_counts_preserved": true,
+      "no_language_inappropriate_czech_ui_leftover": true,
+      "utf8_valid": true,
+      "lang": "en"
+    },
+    {
+      "path": "web/Golden Life Hair Serum/maly/Golden-Life-Hair-Serum-maly-en.html",
+      "paragraphs": 1,
+      "all_source_element_counts_preserved": true,
+      "no_language_inappropriate_czech_ui_leftover": true,
+      "utf8_valid": true,
+      "lang": "en"
+    },
+    {
+      "path": "web/Golden Life Hair Serum/Golden-Life-Hair-Serum-de.html",
+      "paragraphs": 34,
+      "all_source_element_counts_preserved": true,
+      "no_language_inappropriate_czech_ui_leftover": true,
+      "utf8_valid": true,
+      "lang": "de"
+    },
+    {
+      "path": "web/Golden Life Hair Serum/maly/Golden-Life-Hair-Serum-maly-de.html",
+      "paragraphs": 1,
+      "all_source_element_counts_preserved": true,
+      "no_language_inappropriate_czech_ui_leftover": true,
+      "utf8_valid": true,
+      "lang": "de"
+    }
+  ]
+}

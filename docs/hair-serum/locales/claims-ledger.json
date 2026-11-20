@@ -1,0 +1,286 @@
+{
+  "product_category": "cosmetic_external_use",
+  "approved_effect_replacement_available": false,
+  "claims": [
+    {
+      "source_cz": "Hair Serum je inovativní produkt určený k podpoře růstu vlasů a boji proti jejich řídnutí. Díky kombinaci vysoce účinných látek, jako je patentovaná složka Capixyl™, sérum proniká do vlasových kořínků a posiluje je zevnitř. Pravidelným používáním dochází ke zlepšení hustoty a síly vlasů během několika týdnů. Sérum je vhodné pro všechny typy vlasů, je šetrné k pokožce hlavy a jeho lehká konzistence se snadno vstřebává, aniž by zanechalo mastný film.",
+      "translations": {
+        "sk": "Hair Serum je inovatívny produkt určený na podporu rastu vlasov a boj proti ich rednutiu. Vďaka kombinácii vysoko účinných látok, ako je patentovaná zložka Capixyl™, sérum preniká do vlasových korienkov a posilňuje ich zvnútra. Pravidelným používaním dochádza k zlepšeniu hustoty a sily vlasov v priebehu niekoľkých týždňov. Sérum je vhodné pre všetky typy vlasov, je šetrné k pokožke hlavy a jeho ľahká konzistencia sa ľahko vstrebáva bez toho, aby zanechalo mastný film.",
+        "en": "Hair Serum is an innovative product designed to support hair growth and combat thinning. With a combination of highly effective ingredients, including the patented ingredient Capixyl™, the serum penetrates the hair roots and strengthens them from within. Regular use improves hair density and strength within a few weeks. Suitable for all hair types, the serum is gentle on the scalp, and its lightweight texture absorbs easily without leaving a greasy film.",
+        "de": "Hair Serum ist ein innovatives Produkt zur Unterstützung des Haarwachstums und zur Bekämpfung von dünner werdendem Haar. Dank der Kombination hochwirksamer Inhaltsstoffe wie des patentierten Wirkstoffs Capixyl™ dringt das Serum in die Haarwurzeln ein und stärkt sie von innen. Bei regelmäßiger Anwendung verbessern sich Haardichte und Haarstärke innerhalb weniger Wochen. Das Serum eignet sich für alle Haartypen und ist sanft zur Kopfhaut. Dank seiner leichten Konsistenz zieht es mühelos ein, ohne einen Fettfilm zu hinterlassen."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Podporuje růst vlasů",
+      "translations": {
+        "sk": "Podporuje rast vlasov",
+        "en": "Supports hair growth",
+        "de": "Unterstützt das Haarwachstum"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Zlepšuje hydrataci pokožky hlavy",
+      "translations": {
+        "sk": "Zlepšuje hydratáciu pokožky hlavy",
+        "en": "Improves scalp hydration",
+        "de": "Verbessert die Feuchtigkeitsversorgung der Kopfhaut"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Zahušťuje a posiluje vlasy",
+      "translations": {
+        "sk": "Zahusťuje a posilňuje vlasy",
+        "en": "Thickens and strengthens hair",
+        "de": "Verdichtet und stärkt das Haar"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Snižuje řídnutí vlasů",
+      "translations": {
+        "sk": "Znižuje rednutie vlasov",
+        "en": "Reduces hair thinning",
+        "de": "Reduziert das Ausdünnen der Haare"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Klinicky ověřená účinnost",
+      "translations": {
+        "sk": "Klinicky overená účinnosť",
+        "en": "Clinically proven efficacy",
+        "de": "Klinisch bestätigte Wirksamkeit"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Podporuje růst nových vlasů:",
+      "translations": {
+        "sk": "Podporuje rast nových vlasov:",
+        "en": "Supports new hair growth:",
+        "de": "Unterstützt das Wachstum neuer Haare:"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Díky kombinaci aktivních látek, které stimulují vlasové folikuly a napomáhají tvorbě silnějších a zdravějších vlasů.",
+      "translations": {
+        "sk": "Vďaka kombinácii aktívnych látok, ktoré stimulujú vlasové folikuly a napomáhajú tvorbe silnejších a zdravších vlasov.",
+        "en": "Thanks to a combination of active ingredients that stimulate hair follicles and help produce stronger, healthier hair.",
+        "de": "Dank einer Kombination von Wirkstoffen, die die Haarfollikel stimulieren und die Bildung kräftigerer und gesünderer Haare unterstützen."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Zahušťuje vlasy:",
+      "translations": {
+        "sk": "Zahusťuje vlasy:",
+        "en": "Thickens hair:",
+        "de": "Verdichtet das Haar:"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Posiluje vlasové kořínky a zlepšuje jejich strukturu, což vede k větší hustotě vlasů již po několika týdnech.",
+      "translations": {
+        "sk": "Posilňuje vlasové korienky a zlepšuje ich štruktúru, čo vedie k väčšej hustote vlasov už po niekoľkých týždňoch.",
+        "en": "Strengthens hair roots and improves their structure, resulting in greater hair density after just a few weeks.",
+        "de": "Stärkt die Haarwurzeln und verbessert ihre Struktur, was bereits nach wenigen Wochen zu einer höheren Haardichte führt."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Zabraňuje předčasnému vypadávání vlasů a podporuje jejich celkový růst.",
+      "translations": {
+        "sk": "Zabraňuje predčasnému vypadávaniu vlasov a podporuje ich celkový rast.",
+        "en": "Prevents premature hair loss and supports overall hair growth.",
+        "de": "Verhindert vorzeitigen Haarausfall und unterstützt das Haarwachstum insgesamt."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Hydratuje pokožku hlavy:",
+      "translations": {
+        "sk": "Hydratuje pokožku hlavy:",
+        "en": "Hydrates the scalp:",
+        "de": "Versorgt die Kopfhaut mit Feuchtigkeit:"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Snižuje řídnutí vlasů:",
+      "translations": {
+        "sk": "Znižuje rednutie vlasov:",
+        "en": "Reduces hair thinning:",
+        "de": "Reduziert das Ausdünnen der Haare:"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Patentovaná složka Capixyl™ posiluje vlasy od kořínků a zabraňuje jejich oslabování.",
+      "translations": {
+        "sk": "Patentovaná zložka Capixyl™ posilňuje vlasy od korienkov a zabraňuje ich oslabovaniu.",
+        "en": "The patented ingredient Capixyl™ strengthens hair from the roots and prevents it from weakening.",
+        "de": "Der patentierte Wirkstoff Capixyl™ stärkt die Haare von der Wurzel an und verhindert, dass sie schwächer werden."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Účinné látky",
+      "translations": {
+        "sk": "Účinné látky",
+        "en": "Active ingredients",
+        "de": "Wirkstoffe"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Capixyl™ je patentovaná směs obsahující acetyl tetrapeptid-3 a extrakt z červeného jetele. Tato složka stimuluje růst nových vlasů, snižuje řídnutí a prodlužuje životní cyklus stávajících vlasů. Klinické studie potvrdily její schopnost obnovovat vlasovou hustotu a vitalitu.",
+      "translations": {
+        "sk": "Capixyl™ je patentovaná zmes obsahujúca acetyl tetrapeptid-3 a extrakt z červenej ďateliny. Táto zložka stimuluje rast nových vlasov, znižuje rednutie a predlžuje životný cyklus existujúcich vlasov. Klinické štúdie potvrdili jej schopnosť obnovovať hustotu a vitalitu vlasov.",
+        "en": "Capixyl™ is a patented blend containing acetyl tetrapeptide-3 and red clover extract. This ingredient stimulates new hair growth, reduces thinning and extends the life cycle of existing hair. Clinical studies have confirmed its ability to restore hair density and vitality.",
+        "de": "Capixyl™ ist eine patentierte Mischung aus Acetyl Tetrapeptid-3 und Rotklee-Extrakt. Dieser Wirkstoff stimuliert das Wachstum neuer Haare, reduziert das Ausdünnen und verlängert den Lebenszyklus bestehender Haare. Klinische Studien haben seine Fähigkeit bestätigt, Haardichte und Vitalität wiederherzustellen."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Podporuje hydrataci vlasové pokožky, čímž udržuje vlasy zdravé a pružné. Zlepšuje strukturu vlasů a snižuje jejich lámavost.",
+      "translations": {
+        "sk": "Podporuje hydratáciu pokožky hlavy, čím udržiava vlasy zdravé a pružné. Zlepšuje štruktúru vlasov a znižuje ich lámavosť.",
+        "en": "Supports scalp hydration, keeping hair healthy and supple. Improves hair structure and reduces breakage.",
+        "de": "Unterstützt die Feuchtigkeitsversorgung der Kopfhaut und hält dadurch die Haare gesund und elastisch. Verbessert die Haarstruktur und reduziert Haarbruch."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Podporuje cirkulaci krve v pokožce hlavy, což zlepšuje zásobení vlasových folikulů živinami a podporuje jejich zdravý růst.",
+      "translations": {
+        "sk": "Podporuje cirkuláciu krvi v pokožke hlavy, čo zlepšuje zásobovanie vlasových folikulov živinami a podporuje ich zdravý rast.",
+        "en": "Supports blood circulation in the scalp, improving the supply of nutrients to hair follicles and supporting healthy hair growth.",
+        "de": "Unterstützt die Durchblutung der Kopfhaut, wodurch die Versorgung der Haarfollikel mit Nährstoffen verbessert und ihr gesundes Wachstum unterstützt wird."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Biotin je jednou z nejdůležitějších látek pro podporu zdraví vlasů. Zvyšuje jejich hustotu a posiluje je, čímž snižuje jejich řídnutí.",
+      "translations": {
+        "sk": "Biotín je jednou z najdôležitejších látok na podporu zdravia vlasov. Zvyšuje ich hustotu a posilňuje ich, čím znižuje ich rednutie.",
+        "en": "Biotin is one of the most important ingredients for supporting hair health. It increases hair density and strengthens hair, reducing thinning.",
+        "de": "Biotin ist einer der wichtigsten Stoffe zur Unterstützung der Haargesundheit. Es erhöht die Haardichte und stärkt die Haare, wodurch ihr Ausdünnen reduziert wird."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Hydratuje pokožku hlavy, což pomáhá předcházet vysychání a podporuje zdravý růst vlasů.",
+      "translations": {
+        "sk": "Hydratuje pokožku hlavy, čo pomáha predchádzať vysychaniu a podporuje zdravý rast vlasov.",
+        "en": "Hydrates the scalp, helping prevent dryness and supporting healthy hair growth.",
+        "de": "Versorgt die Kopfhaut mit Feuchtigkeit, hilft dadurch, dem Austrocknen vorzubeugen, und unterstützt gesundes Haarwachstum."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Obsahuje izoflavony, které pomáhají obnovit hormonální rovnováhu v pokožce hlavy a snižují řídnutí vlasů.",
+      "translations": {
+        "sk": "Obsahuje izoflavóny, ktoré pomáhajú obnoviť hormonálnu rovnováhu v pokožke hlavy a znižujú rednutie vlasov.",
+        "en": "Contains isoflavones that help restore hormonal balance in the scalp and reduce hair thinning.",
+        "de": "Enthält Isoflavone, die helfen, das hormonelle Gleichgewicht der Kopfhaut wiederherzustellen, und das Ausdünnen der Haare reduzieren."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Gluten free",
+      "translations": {
+        "sk": "Bez lepku",
+        "en": "Gluten free",
+        "de": "Glutenfrei"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "GMO free",
+      "translations": {
+        "sk": "Bez GMO",
+        "en": "GMO free",
+        "de": "Ohne Gentechnik"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Additives free",
+      "translations": {
+        "sk": "Bez prídavných látok",
+        "en": "Additives free",
+        "de": "Ohne Zusatzstoffe"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Lactose free",
+      "translations": {
+        "sk": "Bez laktózy",
+        "en": "Lactose free",
+        "de": "Laktosefrei"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Sugar free",
+      "translations": {
+        "sk": "Bez cukru",
+        "en": "Sugar free",
+        "de": "Zuckerfrei"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Hair Serum | Podpora růstu vlasů s Capixyl™",
+      "translations": {
+        "sk": "Hair Serum | Podpora rastu vlasov s Capixyl™",
+        "en": "Hair Serum | Hair growth support with Capixyl™",
+        "de": "Hair Serum | Unterstützung des Haarwachstums mit Capixyl™"
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    },
+    {
+      "source_cz": "Hair Serum je inovativní produkt určený pro podporu růstu vlasů a boj proti jejich řídnutí. Díky kombinaci vysoce účinných látek, jako je patentovaná složka Capixyl™, sérum proniká do vlasových kořínků a posiluje je zevnitř. Pravidelným používáním dochází ke zlepšení hustoty a síly vlasů během několika týdnů. Sérum je vhodné pro všechny typy vlasů, je šetrné k pokožce hlavy a jeho lehká konzistence se snadno vstřebává, aniž by zanechávala mastný film.",
+      "translations": {
+        "sk": "Hair Serum je inovatívny produkt určený na podporu rastu vlasov a boj proti ich rednutiu. Vďaka kombinácii vysoko účinných látok, ako je patentovaná zložka Capixyl™, sérum preniká do vlasových korienkov a posilňuje ich zvnútra. Pravidelným používaním dochádza k zlepšeniu hustoty a sily vlasov v priebehu niekoľkých týždňov. Sérum je vhodné pre všetky typy vlasov, je šetrné k pokožke hlavy a jeho ľahká konzistencia sa ľahko vstrebáva bez toho, aby zanechávala mastný film.",
+        "en": "Hair Serum is an innovative product designed to support hair growth and combat thinning. With a combination of highly effective ingredients, including the patented ingredient Capixyl™, the serum penetrates the hair roots and strengthens them from within. Regular use improves hair density and strength within a few weeks. Suitable for all hair types, the serum is gentle on the scalp, and its lightweight texture absorbs easily without leaving a greasy film.",
+        "de": "Hair Serum ist ein innovatives Produkt zur Unterstützung des Haarwachstums und zur Bekämpfung von dünner werdendem Haar. Dank der Kombination hochwirksamer Inhaltsstoffe wie des patentierten Wirkstoffs Capixyl™ dringt das Serum in die Haarwurzeln ein und stärkt sie von innen. Bei regelmäßiger Anwendung verbessern sich Haardichte und Haarstärke innerhalb weniger Wochen. Das Serum eignet sich für alle Haartypen und ist sanft zur Kopfhaut. Dank seiner leichten Konsistenz zieht es mühelos ein, ohne einen Fettfilm zu hinterlassen."
+      },
+      "status": "inherited working claim, substantiation/legal review not established",
+      "neutral_option": "Describe the verified ingredients, external use and instructions instead; own product file has no approved equivalent effect wording."
+    }
+  ]
+}

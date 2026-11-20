@@ -1,0 +1,339 @@
+{
+  "passed": true,
+  "scenarios": [
+    {
+      "language": "sk",
+      "width": 390,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 4,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 390,
+        "scroll": 390
+      },
+      "page_errors": []
+    },
+    {
+      "language": "sk",
+      "width": 390,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 4,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 390,
+        "scroll": 390
+      },
+      "page_errors": []
+    },
+    {
+      "language": "sk",
+      "width": 820,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 820,
+        "scroll": 820
+      },
+      "page_errors": []
+    },
+    {
+      "language": "sk",
+      "width": 820,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 820,
+        "scroll": 820
+      },
+      "page_errors": []
+    },
+    {
+      "language": "sk",
+      "width": 1440,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 1440,
+        "scroll": 1440
+      },
+      "page_errors": []
+    },
+    {
+      "language": "sk",
+      "width": 1440,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 1440,
+        "scroll": 1440
+      },
+      "page_errors": []
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 4,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 390,
+        "scroll": 390
+      },
+      "page_errors": []
+    },
+    {
+      "language": "en",
+      "width": 390,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 4,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 390,
+        "scroll": 390
+      },
+      "page_errors": []
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 820,
+        "scroll": 820
+      },
+      "page_errors": []
+    },
+    {
+      "language": "en",
+      "width": 820,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 820,
+        "scroll": 820
+      },
+      "page_errors": []
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 1440,
+        "scroll": 1440
+      },
+      "page_errors": []
+    },
+    {
+      "language": "en",
+      "width": 1440,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 1440,
+        "scroll": 1440
+      },
+      "page_errors": []
+    },
+    {
+      "language": "de",
+      "width": 390,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 4,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 390,
+        "scroll": 390
+      },
+      "page_errors": []
+    },
+    {
+      "language": "de",
+      "width": 390,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 4,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 390,
+        "scroll": 390
+      },
+      "page_errors": []
+    },
+    {
+      "language": "de",
+      "width": 820,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 820,
+        "scroll": 820
+      },
+      "page_errors": []
+    },
+    {
+      "language": "de",
+      "width": 820,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 820,
+        "scroll": 820
+      },
+      "page_errors": []
+    },
+    {
+      "language": "de",
+      "width": 1440,
+      "scheme": "light",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 1440,
+        "scroll": 1440
+      },
+      "page_errors": []
+    },
+    {
+      "language": "de",
+      "width": 1440,
+      "scheme": "dark",
+      "ingredient_dialogs": 6,
+      "info_dialog_checked": true,
+      "mobile_toggles_checked": 0,
+      "localized_runtime_labels": true,
+      "full_width_dialog_images": true,
+      "cta_pointer_checked": true,
+      "geometry": {
+        "viewport": 1440,
+        "scroll": 1440
+      },
+      "page_errors": []
+    }
+  ],
+  "previews": [
+    {
+      "language": "sk",
+      "actual_file_loaded": true,
+      "no_network_media_required": true,
+      "dialog_and_runtime_language_checked": true
+    },
+    {
+      "language": "en",
+      "actual_file_loaded": true,
+      "no_network_media_required": true,
+      "dialog_and_runtime_language_checked": true
+    },
+    {
+      "language": "de",
+      "actual_file_loaded": true,
+      "no_network_media_required": true,
+      "dialog_and_runtime_language_checked": true
+    }
+  ],
+  "limits": "Isolated same-origin Chromium using exact translated fragments and current Git dependencies. Product/media images are genuine checked cached bytes, not fresh complete-shop proof. Forced scheme attribute tests CSS only. No customer data, cart submission, or live CMS save.",
+  "html_files": 6,
+  "paired_viewport_scenarios": 18,
+  "ingredient_dialog_checks": 108,
+  "info_dialog_checks": 18,
+  "mobile_toggle_checks": 24,
+  "cta_pointer_checks": 18,
+  "offline_previews_checked": 3,
+  "visual_qa": {
+    "all_three_short_fragments_opened": true,
+    "all_three_mobile_long_headers_opened": true,
+    "german_desktop_header_opened": true,
+    "german_mobile_ingredient_dialog_opened": true,
+    "all_three_final_ctas_opened_on_overview": true,
+    "no_observed_text_clipping": true,
+    "photos_preserved": true,
+    "limits": "Not physical-device/Safari testing; original product claims remain unverified."
+  },
+  "artifact_hashes": {
+    "web/Golden Life Hair Serum/Golden-Life-Hair-Serum-sk.html": "209f17ac6c11a834792603cfcf7f75f5d0dcbd1795fd5a86f5a7f3be8e918012",
+    "web/Golden Life Hair Serum/Golden-Life-Hair-Serum-en.html": "efeac7aacf9b9086f1ab2b6b854afb81e14eeae508d85b54d15c39c050ab7622",
+    "web/Golden Life Hair Serum/Golden-Life-Hair-Serum-de.html": "195b8388159f1ce657f3e964d2c13c4080d8d47a772faf2156011b8336ef0ab5",
+    "web/Golden Life Hair Serum/maly/Golden-Life-Hair-Serum-maly-en.html": "a3befbfa36f3d1ec34e76b8ba91f6f72b37ee6ce2ec536330400b6b18554a6c9",
+    "web/Golden Life Hair Serum/maly/Golden-Life-Hair-Serum-maly-sk.html": "6dbd9bded0621b5faf7e42398a4414a349a432b4565bd3f2cfd873ade0376a09",
+    "web/Golden Life Hair Serum/maly/Golden-Life-Hair-Serum-maly-de.html": "249e7ea3df6976bac26a631de427968e727833fe39624eef349a25fd454efd5c"
+  }
+}
