@@ -101,7 +101,7 @@
 :where([data-gl-theme="slim-extreme-collagen-box-ananas-mango"]) .gl-sales-unit{font-weight:600;text-align:left}
 :where([data-gl-theme="slim-extreme-collagen-box-ananas-mango"]) .maly-popis{ text-align:left }
 :where([data-gl-theme="slim-extreme-collagen-box-ananas-mango"])[data-gl-layout="woman-hormonal-balance-short"] p[style]{text-align:left!important}
-:where([data-gl-theme="slim-extreme-collagen-box-ananas-mango"]) .latky-modal-box::before{content:"Interní draft – neověřená účinková tvrzení, nepublikovat";display:block;padding:12px 54px 12px 14px;background:#fff5de;color:#542700;font:13px/1.5 Arial,sans-serif}
+
 :where([data-gl-theme="slim-extreme-collagen-box-ananas-mango"]) .maly-ikony>div{font-size:10px;line-height:1.35;margin:0;min-width:0;overflow-wrap:anywhere}
 :where([data-gl-theme="slim-extreme-collagen-box-ananas-mango"]) .maly-ikony .p-card-img{width:36px;height:36px;max-width:100%;object-fit:contain;filter:none}
 :where([data-gl-theme="slim-extreme-collagen-box-ananas-mango"]) .maly-produkt{padding:12px}
