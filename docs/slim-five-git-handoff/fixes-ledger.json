@@ -1,0 +1,110 @@
+[
+  {
+    "id": "383",
+    "kind": "long",
+    "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+    "before_sha256": "dba824f09a2b41010e59ef0a7c0626c1ae9db56b4b858dd09480a3b775f2835a",
+    "after_sha256": "f3b48675c4855634524572bcb94aa6a16970d926a5276208eafad2edf9f44e3d",
+    "edits": [
+      {
+        "before": "",
+        "after": "\n<script data-gl-dialogs=\"383\">(function(){'use strict';var root=document.querySelector('#special-popis[data-gl-product-id=\"383\"]');if(!root||root.dataset.glDialogsReady)return;root.dataset.glDialogsReady='true';var opener=null,previousActive=null;function active(){var id;try{id=decodeURIComponent(location.hash.slice(1));}catch(e){return null;}var el=root.querySelectorAll('.latky-modal,.nad-info');return Array.from(el).find(function(x){return x.id===id;})||null;}root.querySelectorAll('.latky-modal,.nad-info').forEach(function(m,i){m.setAttribute('role','dialog');m.setAttribute('aria-modal','true');m.setAttribute('tabindex','-1');var h=m.querySelector('h4');if(h){if(!h.id)h.id='gl-383-dialog-title-'+i;m.setAttribute('aria-labelledby',h.id);}});function refresh(){var target=active(),closing=previousActive&&!target;root.querySelectorAll('.latky-modal,.nad-info').forEach(function(m){m.setAttribute('aria-hidden',String(m!==target));});if(target)target.focus({preventScroll:true});else if(closing&&opener&&opener.isConnected)opener.focus({preventScroll:true});previousActive=target;}root.addEventListener('click',function(e){var a=e.target.closest('a');if(a&&a.getAttribute('href')&&/^#(collagen-box-lm-|nad-info)/.test(a.getAttribute('href')))opener=a;var m=active();if(m&&e.target===m){location.hash=m.classList.contains('nad-info')?'nad-banner':'latky';}});document.addEventListener('keydown',function(e){var m=active();if(!m)return;if(e.key==='Escape'){e.preventDefault();location.hash=m.classList.contains('nad-info')?'nad-banner':'latky';}if(e.key==='Tab'){var a=Array.from(m.querySelectorAll('a,button,input,[tabindex]')).filter(function(x){return x.tabIndex>=0&&x.getClientRects().length;});if(!a.length){e.preventDefault();m.focus();return;}var first=a[0],last=a[a.length-1];if(e.shiftKey&&(document.activeElement===first||document.activeElement===m)){e.preventDefault();last.focus();}else if(!e.shiftKey&&(document.activeElement===last||document.activeElement===m)){e.preventDefault();first.focus();}}});window.addEventListener('hashchange',refresh);refresh();})();</script>\n",
+        "reason": "Stejná lokální modal obsluha jako ověřený sourozenec 416: Escape, focus-return, Tab, dialog semantics; pouze ID383."
+      }
+    ],
+    "tables_identical": true,
+    "ingredient_dialogs_identical": true
+  },
+  {
+    "id": "174",
+    "kind": "long",
+    "path": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+    "before_sha256": "58b1774d3969b098a317ab4c7a8c4e5e91d59340d02dfb757790bf13dc27fe36",
+    "after_sha256": "33e49c30d1581fc3e8a73bda27a5226e3c26b6960031383d046452eb581ddf24",
+    "edits": [
+      {
+        "before": "<img alt=\"Fotografie z původního popisu Slim &amp; Detox Super Energy Booster Power+\" class=\"gl-source-packshot\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/detox.png\"/>",
+        "after": "",
+        "reason": "Odstraněn druhý drobný mockup v CTA; hlavní skutečná produktová fotografie beze změny."
+      }
+    ],
+    "tables_identical": true,
+    "ingredient_dialogs_identical": true
+  },
+  {
+    "id": "464",
+    "kind": "short",
+    "path": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+    "before_sha256": "162a8365e40b5711e22302bcd245b16601999e8d1dcc5cfc5292d545281af040",
+    "after_sha256": "6d67821bb84e6d30ab4542bf827b996ba61160d75f890c182f34a23b0f18a954",
+    "edits": [
+      {
+        "before": "<details class=\"gl-history\"><summary>Historické údaje o hmotnosti a délce balení – před publikací potvrdit</summary><div class=\"maly-produkty\">\n<div class=\"maly-produkt\">\n<div class=\"maly-produkt-nazev\">Slim Extreme Collagen Mango</div>\n<div class=\"maly-produkt-info\"><span><img alt=\"hmotnost\" src=\"https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/weight-e3107e.png\"/> 240 g</span> <span class=\"maly-davkovani\"><img alt=\"dávkování\" src=\"https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/stopwatch-e3107e.png\"/>1 sáček (8,2g) rozmíchat do 300–400 ml vody, nebo do 1 l podle chuti</span> <span class=\"maly-vydrz\"><img alt=\"čas\" src=\"https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/calendar-e3107e.png\"/> jedno balení vydrží 30 dní</span></div>\n</div>\n</div></details>",
+        "after": "<div class=\"maly-produkty\">\n<div class=\"maly-produkt\">\n<div class=\"maly-produkt-nazev\">Slim Extreme Collagen Mango</div>\n<div class=\"maly-produkt-info\"> <span class=\"maly-davkovani\"><img alt=\"dávkování\" src=\"https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/stopwatch-e3107e.png\"/>1 sáček (8,2g) rozmíchat do 300–400 ml vody, nebo do 1 l podle chuti</span> </div>\n</div>\n</div>",
+        "reason": "Interní historické/conflict rozbalení přesunuto do této samostatné předávací evidence; legitimní vlastní příprava 464 zachována."
+      }
+    ],
+    "tables_identical": true,
+    "ingredient_dialogs_identical": true
+  },
+  {
+    "id": "464",
+    "kind": "long",
+    "path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+    "before_sha256": "07774558c3f67d2c25b2f4a6101cf0ff339f7da5a68be6982bde07a99f0bbe88",
+    "after_sha256": "ebc61a66d6340ed16c35456af6e8eb93c37c4cea32768cf8d4ff1ee2325c3b91",
+    "edits": [
+      {
+        "before": "<details class=\"gl-history\"><summary>Historické údaje o balení – před publikací potvrdit</summary><p class=\"cta-meta\">Balení: 30 sáčků | Stačí na: 30 dní</p></details>",
+        "after": "",
+        "reason": "Interní historické/conflict rozbalení přesunuto do této samostatné předávací evidence; legitimní vlastní příprava 464 zachována."
+      },
+      {
+        "before": "Box s příchutí ananas–mango. Hmotnost a vztah 240 g k 30 × 8,2 g vyžadují potvrzení; nové shrnutí žádnou z rozporných gramáží nepřebírá. Nejde o jednodenní balení.",
+        "after": "Kolagenový nápoj v boxu se sáčky, s příchutí ananasu a manga. Složení a návod k přípravě jsou uvedeny níže.",
+        "occurrences": 2,
+        "reason": "Interní stav revize nahrazen věcnou identifikací varianty; nevolí se sporná gramáž."
+      }
+    ],
+    "tables_identical": true,
+    "ingredient_dialogs_identical": true
+  },
+  {
+    "id": "467",
+    "kind": "short",
+    "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+    "before_sha256": "7c80d30bb1bf9e19608065f4859ad25cb8b7283fb1fe8e686ae9492befa50e84",
+    "after_sha256": "9166bd7aa2365475f1f5a4262899b7d4150c2ec45758f1b93fa0d29ba5150fe2",
+    "edits": [
+      {
+        "before": "<details class=\"gl-history\"><summary>Historické rozporné údaje – neplatí jako balení tohoto sáčku</summary>\n<p class=\"gl-4d-inline-46295e8b65\"></p>\n\n\n<hr class=\"gl-4d-inline-c8d6287b9c\"/>\n<div class=\"gl-4d-inline-9a3532edd1\">\n<div class=\"gl-4d-inline-3b01833b51\"><img class=\"gl-4d-inline-0e8d6167b2\" alt=\"čas\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/čas.png\"/> jedno balení vydrží 30 dní</div>\n</div>\n<div class=\"gl-4d-inline-9a3532edd1\">\n<div class=\"gl-4d-inline-2f99771c4e\"><img class=\"gl-4d-inline-0e8d6167b2\" alt=\"hmotnost\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/piktogramy/hmotnost.png\"/> hmotnost 240 g</div>\n</div>\n<hr class=\"gl-4d-inline-c8d6287b9c\"/>\n</details>",
+        "after": "",
+        "reason": "Interní historické/conflict rozbalení přesunuto do této samostatné předávací evidence; legitimní vlastní příprava 464 zachována."
+      }
+    ],
+    "tables_identical": true,
+    "ingredient_dialogs_identical": true
+  },
+  {
+    "id": "467",
+    "kind": "long",
+    "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+    "before_sha256": "17787e6df2d483b66ac9d919223d1db538c5241153d3c11876f07af0267be727",
+    "after_sha256": "2819af9b9a28e9c257bb19d6334bc3672b0864459f7b4ab7022c6d2566f346a5",
+    "edits": [
+      {
+        "before": "<details class=\"gl-history\"><summary>Historické rozporné údaje – neplatí jako balení tohoto sáčku</summary><p class=\"cta-meta\">Balení: 1 sáček (8,2&nbsp;g) · 1 dávka</p></details>",
+        "after": "<p class=\"cta-meta\">Balení: 1 sáček · 1 dávka</p>",
+        "reason": "Interní historické/conflict rozbalení přesunuto do této samostatné předávací evidence; legitimní vlastní příprava 464 zachována."
+      },
+      {
+        "before": "Samostatně prodávaný sáček, nikoli box. Nové shrnutí neuvádí spornou gramáž. Původní rozporné balicí údaje zůstávají výhradně v označeném historickém rozbalení.",
+        "after": "Samostatně prodávaný sáček kolagenového nápoje s příchutí ananasu a manga. Jeden sáček představuje jednu dávku.",
+        "occurrences": 2,
+        "reason": "Interní stav revize nahrazen věcnou identifikací varianty; nevolí se sporná gramáž."
+      }
+    ],
+    "tables_identical": true,
+    "ingredient_dialogs_identical": true
+  }
+]

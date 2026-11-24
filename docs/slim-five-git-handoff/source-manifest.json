@@ -1,0 +1,187 @@
+{
+  "source_commit": "13dacd419a906a203c168eb53acd042ba6c5cfd5",
+  "products": 5,
+  "html": 10,
+  "files": [
+    {
+      "product_id": "383",
+      "product": "Slim Extreme Collagen box s příchutí ananasu",
+      "type": "short",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html",
+      "git_blob": "51ab589ef6222e671c4bc2ef49fd1b01f2192f88",
+      "sha256": "b92f2fc729be0c85c28b2ece1815c66b6e68f99a58e1c0e68967c634eee357b0",
+      "bytes": 3839,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "383",
+      "product": "Slim Extreme Collagen box s příchutí ananasu",
+      "type": "long",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+      "git_blob": "72e8766b7e3cadb6c2f9a01bb13222f395846d99",
+      "sha256": "f3b48675c4855634524572bcb94aa6a16970d926a5276208eafad2edf9f44e3d",
+      "bytes": 28573,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "174",
+      "product": "Slim & Detox Super energy booster Power+",
+      "type": "short",
+      "path": "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html",
+      "git_blob": "5c0baa01c756371455b3315a3efdfff783fb12d6",
+      "sha256": "52e4e7a050e3c959868d12a356d6b1e7a7fc42005115ea2642267b741fefd626",
+      "bytes": 3646,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "174",
+      "product": "Slim & Detox Super energy booster Power+",
+      "type": "long",
+      "path": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+      "git_blob": "5eb4d5e4f56d8a9eaeeda761be4cafdf90f0cffc",
+      "sha256": "33e49c30d1581fc3e8a73bda27a5226e3c26b6960031383d046452eb581ddf24",
+      "bytes": 29928,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "464",
+      "product": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "type": "short",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html",
+      "git_blob": "9524973ac3a0f0a40293ec07e0c96990a65ed1df",
+      "sha256": "6d67821bb84e6d30ab4542bf827b996ba61160d75f890c182f34a23b0f18a954",
+      "bytes": 3264,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "464",
+      "product": "Slim Extreme Collagen box s příchutí ananas - mango",
+      "type": "long",
+      "path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+      "git_blob": "1b44afec566f15070e1e19a8a14f1945c998221e",
+      "sha256": "ebc61a66d6340ed16c35456af6e8eb93c37c4cea32768cf8d4ff1ee2325c3b91",
+      "bytes": 32541,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "467",
+      "product": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "type": "short",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html",
+      "git_blob": "b95924f883cd7aed9f2d2929856ea9f781c0aaf5",
+      "sha256": "9166bd7aa2365475f1f5a4262899b7d4150c2ec45758f1b93fa0d29ba5150fe2",
+      "bytes": 2959,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "467",
+      "product": "Slim Extreme Collagen sáček s příchutí ananas - mango",
+      "type": "long",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+      "git_blob": "dac2afe7432d81be73e6f6549851ee7ff02dc4ea",
+      "sha256": "2819af9b9a28e9c257bb19d6334bc3672b0864459f7b4ab7022c6d2566f346a5",
+      "bytes": 31588,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "416",
+      "product": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "type": "short",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html",
+      "git_blob": "dc3257b9d0be70a530d1320e49d429c38ccf79e6",
+      "sha256": "1d97f69c94e016d8163a6cbc74a49dc00af50803befee855f71389c776668d10",
+      "bytes": 3586,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css?v=host-bg-1"
+      ]
+    },
+    {
+      "product_id": "416",
+      "product": "Slim Extreme Collagen sáček s příchutí ananasu",
+      "type": "long",
+      "path": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+      "git_blob": "0345a36e931c033abc1d364b2ee1d35157be2c97",
+      "sha256": "bbc07a038d3a7160e258e7a6ee465b49c47f4ddf20447d04f8c815fc968e4ade",
+      "bytes": 31871,
+      "css_imports": [
+        "/user/documents/upload/css/golden-life-produkt.css",
+        "/user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css?v=host-bg-1"
+      ]
+    },
+    {
+      "type": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css",
+      "git_blob": "8806450f4b5974b15e8e7f85c52e44ece9844db0",
+      "sha256": "7258027c77ac5c462dd65fe07615414aa518ab4f1db670f519e1a53729355209",
+      "bytes": 15529
+    },
+    {
+      "type": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css",
+      "git_blob": "81edff09215f01c9c3e22538d9d48e069fb8c596",
+      "sha256": "22fdf2af247d094f003166aa407c8c055b22dcad3f276b15dbdb96e069d076ff",
+      "bytes": 18121
+    },
+    {
+      "type": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css",
+      "git_blob": "e7bcfc9801e6db3e1cc149a0dd41bd4a5fb6bd45",
+      "sha256": "7c9f96c45243f32526abf11429d7fbf04832c5a9f518a800e22db38d58c52e68",
+      "bytes": 14449
+    },
+    {
+      "type": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css",
+      "git_blob": "98eaba5ef5ce64c1cafe2d8a49b72d14dddf9528",
+      "sha256": "496ac049f1e60b6d802bfc2fe3659d11c732b9a8c126a058d3f5665acdf58cec",
+      "bytes": 19164
+    },
+    {
+      "type": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css",
+      "git_blob": "1bc09cc2394e64b8c62c478cb430771e9b9dfdbc",
+      "sha256": "1b64a4da9032540a17c4cc2d4689792b935bd581b77bbe02df7eac0cfe4a5c35",
+      "bytes": 16282
+    },
+    {
+      "type": "css",
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "git_blob": "909607b80b6d60d0d2aae0f8bc1fd13797424a40",
+      "sha256": "65f9308e4addb2d25844f380a727956b512c4e916c9a9d75736699677412c3f1",
+      "bytes": 263766
+    },
+    {
+      "type": "js",
+      "path": "user/documents/upload/js/golden-life-product-scheme.js",
+      "sha256": "65870c1642d2db0e8395a68dc28940b44ef805989cd8f63dae149e526c810abd",
+      "bytes": 12434,
+      "git_blob": "5c1b4370c31a8441e36811c8cc4d2e5672dd8300"
+    }
+  ],
+  "note": "Git-only handoff; 6 HTML corrected, other prepared sources and shared dependencies unchanged; source_commit is parent, not new commit."
+}
