@@ -1,0 +1,284 @@
+{
+  "parent_commit": "0b0e2b29a5438d820f0ad95477eb89306d734c92",
+  "browser": "156.0.8078.4",
+  "scope": "Final repository HTML/CSS/appearance JS, isolated Chromium harness; Git only, no shop save or cart mutation.",
+  "counts": {
+    "skus": 6,
+    "html_files": 12,
+    "scenarios": 42,
+    "dialog_open_close_pass": 147,
+    "escape_pass": 18,
+    "images_decoded": 708,
+    "document_overflow": 0,
+    "page_errors": 0
+  },
+  "files": [
+    {
+      "id": "544",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "sha256": "651d60d19c5846e4c15ef491f8f8dc2759387a6dff23be89c1e8e0780e50718c",
+      "git_blob": "7012f4287a0bc4574d128bc675c25f9853bfec2c",
+      "equals_HEAD": true,
+      "ingredient_dialogs": 0,
+      "source_details": []
+    },
+    {
+      "id": "544",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "sha256": "a4be5d0843e00a078b899ef138bc1e3d759b0896563c8510fe5e2c1a5249f470",
+      "git_blob": "fa28b78564bab9377bf4de32c04246e98c178a05",
+      "equals_HEAD": false,
+      "ingredient_dialogs": 6,
+      "source_details": []
+    },
+    {
+      "id": "550",
+      "kind": "short",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "sha256": "8695375072a79c61eb9471e3992c4eed98bde2bf661a9b613d84479584c4e39e",
+      "git_blob": "d048bd3b5606051021519c72b1eadc45f889b544",
+      "equals_HEAD": true,
+      "ingredient_dialogs": 0,
+      "source_details": []
+    },
+    {
+      "id": "550",
+      "kind": "long",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "sha256": "614acde4e934394e4cbfaedc8fd0c04560666a7b68ccb2dc1892feeb8e936459",
+      "git_blob": "b2b1fa6b44d797ff56626f6baf19e3d00a9b609f",
+      "equals_HEAD": false,
+      "ingredient_dialogs": 9,
+      "source_details": []
+    },
+    {
+      "id": "51",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "sha256": "30f6a0628f60584eae86f20d3a04405f60796b32971c09c9a14739e6808e2714",
+      "git_blob": "da368024817d3d0cfee6dee01bcb0e5bfda465d0",
+      "equals_HEAD": true,
+      "ingredient_dialogs": 0,
+      "source_details": []
+    },
+    {
+      "id": "51",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "sha256": "19e8eae0bb889df7677cbff8ec87f194366bb7083ee40906de8b37081f89770d",
+      "git_blob": "7a82f424e91b04aa1e8f4332b7277780d871eebc",
+      "equals_HEAD": true,
+      "ingredient_dialogs": 6,
+      "source_details": []
+    },
+    {
+      "id": "600",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "sha256": "92ae03f6d936c2f01c8e9522aa43020238d5c2fa9ae2bf57052e192c8ef044b5",
+      "git_blob": "621d00dd97bc93b82cab486a6e2a6244dfcf90fd",
+      "equals_HEAD": false,
+      "ingredient_dialogs": 0,
+      "source_details": []
+    },
+    {
+      "id": "600",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "sha256": "a7dbf3362728492a9023c609072a366eadb7e3c27feaef880d167ee0ee308401",
+      "git_blob": "eb04a09225d6292c4bba052ef8328dfb7d4968ff",
+      "equals_HEAD": false,
+      "ingredient_dialogs": 6,
+      "source_details": []
+    },
+    {
+      "id": "57",
+      "kind": "short",
+      "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "sha256": "5771982d04ff73feb8c2bfe3c502ddf81f88d800588c2874261d1860ec12f95d",
+      "git_blob": "cb32afd58be247cc2260ae98e4dfc1b9f9c2df42",
+      "equals_HEAD": true,
+      "ingredient_dialogs": 0,
+      "source_details": []
+    },
+    {
+      "id": "57",
+      "kind": "long",
+      "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "sha256": "8420326d2057bc280e1709ecbc1994bc4bd35536b8b0935fe22aba149cda2f2d",
+      "git_blob": "45f379966760842a57a922dbc1b69e2d7cabb2f5",
+      "equals_HEAD": false,
+      "ingredient_dialogs": 8,
+      "source_details": []
+    },
+    {
+      "id": "99",
+      "kind": "short",
+      "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "sha256": "3693ad7ed44c9fd6ffcf4a7afc8155cb61e4d6d9cce7e52d6f53c87471e7ed57",
+      "git_blob": "be33fa80cdafc562a7982f3f33547bdfa79a5cde",
+      "equals_HEAD": true,
+      "ingredient_dialogs": 0,
+      "source_details": []
+    },
+    {
+      "id": "99",
+      "kind": "long",
+      "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "sha256": "a6d7a15179be96acc18a78cee33ead676cce6283b0afb1fcdf1ea8a12da4b1ad",
+      "git_blob": "fbec5c543b4f502ddd6974fadfcfa8ba56a0d02b",
+      "equals_HEAD": true,
+      "ingredient_dialogs": 9,
+      "source_details": []
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "sha256": "65f9308e4addb2d25844f380a727956b512c4e916c9a9d75736699677412c3f1",
+      "equals_HEAD": true
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity.css",
+      "sha256": "7980cdabbe9779683cc8f9708360bdb99e3ade70ede73158577ca5d51ff3c46b",
+      "equals_HEAD": true
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css",
+      "sha256": "5ed688cced21b2038c4f54f49974a17306c3a1a02faa0d125f89e2f9e699a68c",
+      "equals_HEAD": true
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css",
+      "sha256": "102dbf5d6f21ce96c2ba8e1d9739a8308f29747f175be731b06d3b7965cacc16",
+      "equals_HEAD": true
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css",
+      "sha256": "43dd4ab79e9c1d86aabeaf7329cdaa94ad5b12e96d172870fd351603fe9518ac",
+      "equals_HEAD": true
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css",
+      "sha256": "6373c67a155aad0e834c3a7a462246be685a021287e6315e6b975de2a33b168f",
+      "equals_HEAD": true
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-miracle-drops.css",
+      "sha256": "fdbe1b5ec045868eb18f64c738a0da0089a0cb711e74b65c62df1f19932f95f0",
+      "equals_HEAD": true
+    }
+  ],
+  "limits": [
+    "Not live deployed Shoptet, no native-gallery/price/stock/cart verification.",
+    "Not physical Safari or a legal claims approval.",
+    "Original copy preserved as working draft; video at ID51 retained, playback not certified."
+  ],
+  "corrections": [
+    {
+      "id": "544",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "before_sha256": "91408803e17d570d7d0ce10eb0fea6f244d4635e2d537a3f46ab9f1da2b3cb7b",
+      "after_sha256": "a4be5d0843e00a078b899ef138bc1e3d759b0896563c8510fe5e2c1a5249f470",
+      "edits": [
+        {
+          "before": "",
+          "after": "\n<script data-gl-dialogs=\"544\">(function(){'use strict';var root=document.querySelector('#special-popis[data-gl-product-id=\"544\"]');if(!root||root.dataset.glDialogsReady)return;root.dataset.glDialogsReady='true';var opener=null,previousActive=null;function active(){var id;try{id=decodeURIComponent(location.hash.slice(1));}catch(e){return null;}var el=root.querySelectorAll('.latky-modal,.nad-info');return Array.from(el).find(function(x){return x.id===id;})||null;}root.querySelectorAll('.latky-modal,.nad-info').forEach(function(m,i){m.setAttribute('role','dialog');m.setAttribute('aria-modal','true');m.setAttribute('tabindex','-1');var h=m.querySelector('h4');if(h){if(!h.id)h.id='gl-544-dialog-title-'+i;m.setAttribute('aria-labelledby',h.id);}});function refresh(){var target=active(),closing=previousActive&&!target;root.querySelectorAll('.latky-modal,.nad-info').forEach(function(m){m.setAttribute('aria-hidden',String(m!==target));});if(target)target.focus({preventScroll:true});else if(closing&&opener&&opener.isConnected)opener.focus({preventScroll:true});previousActive=target;}root.addEventListener('click',function(e){var a=e.target.closest('a');if(a&&a.getAttribute('href')&&/^#(lm-|nad-info)/.test(a.getAttribute('href')))opener=a;var m=active();if(m&&e.target===m){location.hash=m.classList.contains('nad-info')?'nad-banner':'latky';}});document.addEventListener('keydown',function(e){var m=active();if(!m)return;if(e.key==='Escape'){e.preventDefault();location.hash=m.classList.contains('nad-info')?'nad-banner':'latky';}if(e.key==='Tab'){var a=Array.from(m.querySelectorAll('a,button,input,[tabindex]')).filter(function(x){return x.tabIndex>=0&&x.getClientRects().length;});if(!a.length){e.preventDefault();m.focus();return;}var first=a[0],last=a[a.length-1];if(e.shiftKey&&(document.activeElement===first||document.activeElement===m)){e.preventDefault();last.focus();}else if(!e.shiftKey&&(document.activeElement===last||document.activeElement===m)){e.preventDefault();first.focus();}}});window.addEventListener('hashchange',refresh);refresh();})();</script>\n",
+          "occurrences": 1,
+          "reason": "Doplněna lokální modal obsluha z ověřeného sourozence: Escape, Tab, focus-return a dialog semantics. Pouze ID544."
+        },
+        {
+          "before": "alt=\"Beauty Longevity NAD+ – skutečný produkt, nativní ID 544\"",
+          "after": "alt=\"Beauty Longevity NAD+\"",
+          "occurrences": 2,
+          "reason": "Technické nativní ID odstraněno z zákaznického alternativního textu."
+        }
+      ],
+      "tables_and_ingredient_dialogs_unchanged": true
+    },
+    {
+      "id": "550",
+      "kind": "long",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "before_sha256": "714c4ece0207e5d17bfab71544b08ac3ff8df8612be6bccd2172681e65463862",
+      "after_sha256": "614acde4e934394e4cbfaedc8fd0c04560666a7b68ccb2dc1892feeb8e936459",
+      "edits": [
+        {
+          "before": "<div class=\"product-container gl-550-draft-notice\" role=\"note\"><p>PRACOVNÍ KOPIE · Historický text, nikoli schválení zdravotních tvrzení. Před publikací je nutná kontrola tvrzení a rozporů v předávacím protokolu.</p></div>",
+          "after": "",
+          "occurrences": 1,
+          "reason": "Interní právní/pracovní upozornění přesunuto mimo zákaznické HTML, do samostatného ledgeru; produktová bezpečnostní upozornění zachována."
+        }
+      ],
+      "tables_and_ingredient_dialogs_unchanged": true
+    },
+    {
+      "id": "600",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "before_sha256": "25da9d370fda2c30e9d3244f0db4c4e6a8a37d83011a15f93dcccd30322d92d4",
+      "after_sha256": "a7dbf3362728492a9023c609072a366eadb7e3c27feaef880d167ee0ee308401",
+      "edits": [
+        {
+          "before": "<span class=\"nad-dose-sub\">Produkt ID 600</span>",
+          "after": "<span class=\"nad-dose-sub\">Malinová příchuť</span>",
+          "occurrences": 1,
+          "reason": "Interní produktové ID v zákaznickém banneru nahrazeno ověřenou příchutí; technické data-gl-product-id zachováno."
+        },
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Rozpor archivního textu – neplatí jako specifikace sáčku ID 600</summary><p class=\"cta-meta\">Balení: 270 g | 30 sáčků  ·  Délka kúry: 30 dní, doporučeno minimálně 3 měsíce</p></details>",
+          "after": "",
+          "occurrences": 1,
+          "reason": "Odstraněna historická boxová metadata nebo redakční doporučení kúry, neodpovídající samostatnému sáčku. Přesné původní znění zůstává v tomto ledgeru."
+        },
+        {
+          "before": "alt=\"Beauty Longevity NAD+ – samostatný sáček, ID 600; archivní nativní fotografie\"",
+          "after": "alt=\"Beauty Longevity NAD+ – samostatný sáček\"",
+          "occurrences": 2,
+          "reason": "Technické/archivní údaje odstraněny z zákaznického alternativního textu."
+        }
+      ],
+      "tables_and_ingredient_dialogs_unchanged": true
+    },
+    {
+      "id": "600",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "before_sha256": "362a43f67db250b44875fced2f4f9e1a93ffbc503585cc85cbb5be1af608937e",
+      "after_sha256": "92ae03f6d936c2f01c8e9522aa43020238d5c2fa9ae2bf57052e192c8ef044b5",
+      "edits": [
+        {
+          "before": "<details class=\"gl-source-conflict\"><summary>Historické doporučení kúry – není výdrž jednoho sáčku</summary><span class=\"maly-vydrz\"><img alt=\"délka kúry\" src=\"https://raw.githubusercontent.com/pavel489/goldenlife-web/c8aab36a83be76909a314f648e9c59740412913a/assets/piktogramy/frameless-family-v6/calendar-148f3d.png\"/>doporučená délka kúry: 30 dní, doporučeno minimálně 3 měsíce</span></details>",
+          "after": "",
+          "occurrences": 1,
+          "reason": "Odstraněna historická boxová metadata nebo redakční doporučení kúry, neodpovídající samostatnému sáčku. Přesné původní znění zůstává v tomto ledgeru."
+        }
+      ],
+      "tables_and_ingredient_dialogs_unchanged": true
+    },
+    {
+      "id": "57",
+      "kind": "long",
+      "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "before_sha256": "56295e5534d896fcf74a7de2ec4d15492c48ceb054f5d087c58e56e0d40201c0",
+      "after_sha256": "8420326d2057bc280e1709ecbc1994bc4bd35536b8b0935fe22aba149cda2f2d",
+      "edits": [
+        {
+          "before": "<img alt=\"Good Sleep &amp; Night Burn\" class=\"gl-source-packshot\" src=\"https://cdn.myshoptet.com/usr/www.golden-life.cz/user/documents/upload/mockup/Good sleep and burn night glass jar.png\"/>",
+          "after": "",
+          "occurrences": 1,
+          "reason": "Odstraněn druhý drobný mockup v CTA; primární fotografie a její synchronizace beze změny."
+        }
+      ],
+      "tables_and_ingredient_dialogs_unchanged": true
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "parent_commit": "0b0e2b29a5438d820f0ad95477eb89306d734c92",
+  "scope": "Six requested CZ standalone products, Git only, no live shop edit",
+  "skus": 6,
+  "html_files": 12,
+  "files": [
+    {
+      "id": "544",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+      "sha256": "a4be5d0843e00a078b899ef138bc1e3d759b0896563c8510fe5e2c1a5249f470",
+      "git_blob": "e3e4bd059a1234d070f02206b7bb3032e8ad6195",
+      "bytes": 34112
+    },
+    {
+      "id": "544",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html",
+      "sha256": "651d60d19c5846e4c15ef491f8f8dc2759387a6dff23be89c1e8e0780e50718c",
+      "git_blob": "7012f4287a0bc4574d128bc675c25f9853bfec2c",
+      "bytes": 4083
+    },
+    {
+      "id": "550",
+      "kind": "long",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+      "sha256": "614acde4e934394e4cbfaedc8fd0c04560666a7b68ccb2dc1892feeb8e936459",
+      "git_blob": "810d193b01f434b0ec30471e815b8d6c1e7e60b8",
+      "bytes": 33289
+    },
+    {
+      "id": "550",
+      "kind": "short",
+      "path": "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html",
+      "sha256": "8695375072a79c61eb9471e3992c4eed98bde2bf661a9b613d84479584c4e39e",
+      "git_blob": "d048bd3b5606051021519c72b1eadc45f889b544",
+      "bytes": 3782
+    },
+    {
+      "id": "51",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+      "sha256": "19e8eae0bb889df7677cbff8ec87f194366bb7083ee40906de8b37081f89770d",
+      "git_blob": "7a82f424e91b04aa1e8f4332b7277780d871eebc",
+      "bytes": 30463
+    },
+    {
+      "id": "51",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html",
+      "sha256": "30f6a0628f60584eae86f20d3a04405f60796b32971c09c9a14739e6808e2714",
+      "git_blob": "da368024817d3d0cfee6dee01bcb0e5bfda465d0",
+      "bytes": 2606
+    },
+    {
+      "id": "600",
+      "kind": "long",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+      "sha256": "a7dbf3362728492a9023c609072a366eadb7e3c27feaef880d167ee0ee308401",
+      "git_blob": "979daf928065d5bc5fd86a2988927aa8e4f3d586",
+      "bytes": 30268
+    },
+    {
+      "id": "600",
+      "kind": "short",
+      "path": "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html",
+      "sha256": "92ae03f6d936c2f01c8e9522aa43020238d5c2fa9ae2bf57052e192c8ef044b5",
+      "git_blob": "2cd6a96fe0ae32aaa74c45d9c584d761e990078d",
+      "bytes": 3944
+    },
+    {
+      "id": "57",
+      "kind": "long",
+      "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+      "sha256": "8420326d2057bc280e1709ecbc1994bc4bd35536b8b0935fe22aba149cda2f2d",
+      "git_blob": "901541b6cb48dbbf0129d91e34f27cba278ca612",
+      "bytes": 26678
+    },
+    {
+      "id": "57",
+      "kind": "short",
+      "path": "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html",
+      "sha256": "5771982d04ff73feb8c2bfe3c502ddf81f88d800588c2874261d1860ec12f95d",
+      "git_blob": "cb32afd58be247cc2260ae98e4dfc1b9f9c2df42",
+      "bytes": 3721
+    },
+    {
+      "id": "99",
+      "kind": "long",
+      "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+      "sha256": "a6d7a15179be96acc18a78cee33ead676cce6283b0afb1fcdf1ea8a12da4b1ad",
+      "git_blob": "fbec5c543b4f502ddd6974fadfcfa8ba56a0d02b",
+      "bytes": 30097
+    },
+    {
+      "id": "99",
+      "kind": "short",
+      "path": "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html",
+      "sha256": "3693ad7ed44c9fd6ffcf4a7afc8155cb61e4d6d9cce7e52d6f53c87471e7ed57",
+      "git_blob": "be33fa80cdafc562a7982f3f33547bdfa79a5cde",
+      "bytes": 3013
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css",
+      "sha256": "5ed688cced21b2038c4f54f49974a17306c3a1a02faa0d125f89e2f9e699a68c",
+      "git_blob": "b57c3bd9be1131e796c6fcfa02ff417e992aa8a9",
+      "bytes": 18037
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css",
+      "sha256": "102dbf5d6f21ce96c2ba8e1d9739a8308f29747f175be731b06d3b7965cacc16",
+      "git_blob": "c05ed9e68cb0eb2ba6a58d03726c422ad8bcd121",
+      "bytes": 15744
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css",
+      "sha256": "43dd4ab79e9c1d86aabeaf7329cdaa94ad5b12e96d172870fd351603fe9518ac",
+      "git_blob": "9df847c3dfa2788e7d6a09223ef16e53f94b4560",
+      "bytes": 20127
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-beauty-longevity.css",
+      "sha256": "7980cdabbe9779683cc8f9708360bdb99e3ade70ede73158577ca5d51ff3c46b",
+      "git_blob": "6bb275906843c8f550cac31bf2466156944d5ff9",
+      "bytes": 15909
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css",
+      "sha256": "6373c67a155aad0e834c3a7a462246be685a021287e6315e6b975de2a33b168f",
+      "git_blob": "32f71943cafb9564c7007193c7780a4870d2a935",
+      "bytes": 15528
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-barvy-miracle-drops.css",
+      "sha256": "fdbe1b5ec045868eb18f64c738a0da0089a0cb711e74b65c62df1f19932f95f0",
+      "git_blob": "2c0d0484bece2506c52eea1f636213d8a408faf3",
+      "bytes": 17664
+    },
+    {
+      "kind": "css",
+      "path": "user/documents/upload/css/golden-life-produkt.css",
+      "sha256": "65f9308e4addb2d25844f380a727956b512c4e916c9a9d75736699677412c3f1",
+      "git_blob": "909607b80b6d60d0d2aae0f8bc1fd13797424a40",
+      "bytes": 263766
+    },
+    {
+      "kind": "js",
+      "path": "user/documents/upload/js/golden-life-product-scheme.js",
+      "sha256": "65870c1642d2db0e8395a68dc28940b44ef805989cd8f63dae149e526c810abd",
+      "git_blob": "5c1b4370c31a8441e36811c8cc4d2e5672dd8300",
+      "bytes": 12434
+    }
+  ]
+}
