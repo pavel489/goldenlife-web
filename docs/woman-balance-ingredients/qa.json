@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "scenarios": [
+    {
+      "source": "shop",
+      "width": 390,
+      "decoded_ingredient_images": 18,
+      "dialogs_opened_closed": 9,
+      "document_geometry": {
+        "width": 390,
+        "scroll": 375
+      },
+      "page_error_count": 0
+    },
+    {
+      "source": "shop",
+      "width": 820,
+      "decoded_ingredient_images": 18,
+      "dialogs_opened_closed": 9,
+      "document_geometry": {
+        "width": 820,
+        "scroll": 813
+      },
+      "page_error_count": 0
+    },
+    {
+      "source": "shop",
+      "width": 1440,
+      "decoded_ingredient_images": 18,
+      "dialogs_opened_closed": 9,
+      "document_geometry": {
+        "width": 1440,
+        "scroll": 1425
+      },
+      "page_error_count": 0
+    },
+    {
+      "source": "git",
+      "width": 390,
+      "decoded_ingredient_images": 18,
+      "dialogs_opened_closed": 9,
+      "document_geometry": {
+        "width": 390,
+        "scroll": 375
+      },
+      "page_error_count": 0
+    },
+    {
+      "source": "git",
+      "width": 820,
+      "decoded_ingredient_images": 18,
+      "dialogs_opened_closed": 9,
+      "document_geometry": {
+        "width": 820,
+        "scroll": 813
+      },
+      "page_error_count": 0
+    },
+    {
+      "source": "git",
+      "width": 1440,
+      "decoded_ingredient_images": 18,
+      "dialogs_opened_closed": 9,
+      "document_geometry": {
+        "width": 1440,
+        "scroll": 1425
+      },
+      "page_error_count": 0
+    }
+  ],
+  "dialog_checks": 54,
+  "image_checks": 108,
+  "native_description_readback_exact": true,
+  "short_description_unchanged": true,
+  "meta_description_unchanged": true,
+  "copy_css_scripts_unchanged": true,
+  "limits": [
+    "Chromium desktop responsive simulation, not physical-device testing",
+    "Unrelated newsletter/chat/cookie overlays hidden only in QA browser"
+  ]
+}
