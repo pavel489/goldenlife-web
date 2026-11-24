@@ -253,8 +253,10 @@ async function fetchDetail(url) {
   }
   /* Posbírat produktové styly; :root přemapovat na :host, aby si detail nesl
      vlastní barvy (jinak by zdědil červené proměnné balíčku). */
+  /* Každý blok zůstává samostatný: @import musí být před pravidly svého
+     stylesheetu, jinak prohlížeč např. CSS banneru Dark Cherry zahodí. */
   var styles = '';
-  doc.querySelectorAll('style').forEach(function(s){ styles += s.textContent.replace(/:root\b/g, ':host') + '\n'; });
+  doc.querySelectorAll('style').forEach(function(s){ styles += '<style>' + s.textContent.replace(/:root\b/g, ':host') + '</style>\n'; });
   var links = '';
   doc.querySelectorAll('link[rel="stylesheet"]').forEach(function(l){ links += '<link rel="stylesheet" href="' + l.href + '">'; });
   return { styles: styles, links: links, html: el.outerHTML };
@@ -274,7 +276,7 @@ document.querySelectorAll('.nad-duo-btn').forEach(btn => {
       shadow.innerHTML =
         data.links +
         '<style>:host{display:block;font-family:Metropolis,Arial,Helvetica,sans-serif;color:#333}img{max-width:100%;height:auto}</style>' +
-        '<style>' + data.styles + '</style>' +
+        data.styles +
         data.html;
       box.dataset.current = key;
     } catch (e) { shadow.innerHTML = '<p style="text-align:center;padding:20px">Chyba při načítání detailů.</p>'; }
