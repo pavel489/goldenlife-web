@@ -1,0 +1,6 @@
+# Hormonal Balance V6 – approved pictogram design
+Product 635, Czech long description. Seven original pictograms extracted from Pavel's supplied A5 leaflet; original glyphs recoloured #761232, decorative round backplates removed. Clean hero with original logo and product; background drink photograph removed. Live editable DOM copy and native #product-detail-form CTA. Final CTA image explicitly changed to /user/documents/upload/mockup/box peptides.png. Existing study/article links, tables, scripts, short description and other languages preserved.
+
+Source: supplied leaflet, V2 approved proof, existing authenticated CMS description and independently fetched current remote main. No AI image generation. HTML/CSS implementation: gpt-6.1-sol. Poppins source license included; original font bytes embedded in CSS.
+
+Claim concern: original leaflet effect claims remain unverified, particularly cortisol reduction, satiety, hormone balance, sleep/regeneration and collagen outcomes. User approved publishing the specific design; this is not legal substantiation or medical approval. Existing packaging artwork and study limitations are unchanged. No product-specific approved info.md for these new effects was available. Review these claims separately rather than treating the technical release as legal clearance.
