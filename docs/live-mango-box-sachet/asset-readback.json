@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-mango-box-web-v2.css?v=1",
+    "status": 200,
+    "sha256": "33d7ce29b0f3d77b1573252c3749013f02fde34837a1ec232598c6708be4e9d9",
+    "exact_bytes": true
+  },
+  {
+    "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-mango-sacek-web-v2.css?v=1",
+    "status": 200,
+    "sha256": "0c807a0eac08c3eb0c0161b1991739e228c297076568a94598ae53da2a67bb21",
+    "exact_bytes": true
+  },
+  {
+    "url": "https://www.golden-life.cz/user/documents/upload/css/golden-life-cta-native-v2.css?v=1",
+    "status": 200,
+    "sha256": "77005bf763f0d7f27a03d7bce33068c4823f865fe5961cfd85c7dcfc09d5a9d7",
+    "exact_bytes": true
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "464",
+    "field": "shortDescription",
+    "readback_exact_except_one_trailing_newline": true,
+    "published_sha256": "3dc1a990f24b59afb21c7d945c441f4cff450704d13e0b9d3e5cb3cccf94182d",
+    "source_path": "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html"
+  },
+  {
+    "id": "464",
+    "field": "description",
+    "readback_exact_except_one_trailing_newline": true,
+    "published_sha256": "fb258c7ad1bfddb13629bad79f4910f8736ebd86d21ac3a7f108d1461763c204",
+    "source_path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html"
+  },
+  {
+    "id": "467",
+    "field": "shortDescription",
+    "readback_exact_except_one_trailing_newline": true,
+    "published_sha256": "62b865e42f72b723cc938b211a963c9e5921f7bebc2cda0d51734e0421a81792",
+    "source_path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html"
+  },
+  {
+    "id": "467",
+    "field": "description",
+    "readback_exact_except_one_trailing_newline": true,
+    "published_sha256": "86b9d4a7087112202a6c51f325a9fc497a5d7031719a028cc61fee6d266b853a",
+    "source_path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html"
+  }
+]
