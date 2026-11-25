@@ -1,6 +1,7 @@
 <style>
 @import url("/user/documents/upload/css/golden-life-produkt.css");
 @import url("/user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css?v=host-bg-1");
+@import url("/user/documents/upload/css/golden-life-cta-native-v2.css?v=1");
 </style>
 <script data-gl-site-scheme-loader="host-bg-1">(function(){var d=document,w=window,k='gl-product-scheme-script';if(w.GoldenLifeProductScheme){w.GoldenLifeProductScheme.refresh();return;}if(d.getElementById(k))return;var s=d.createElement('script');s.id=k;s.src="https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1";s.defer=true;s.onerror=function(){s.remove();};(d.head||d.documentElement).appendChild(s);}());</script>
 
@@ -156,16 +157,13 @@
 </div>
 </div>
 <div class="product-container">
-<div class="cta-box">
-<div class="cta-content"><img alt="Beauty Longevity NAD+ – samostatný sáček" class="cta-product-img" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/600_sacek-web-beauty-nad.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6acdf022&amp;sg=38cb01fe"/>
-<div class="cta-text">
-<p class="gl-pack-summary">Samostatný sáček · jedna dávka · malinová příchuť. Nejde o měsíční balení.</p><h3 class="barvaruzova">Beauty &amp; Longevity NAD+</h3>
-
-<p class="cta-meta">Denní dávka: 1 sáček (9 g) / 26 kcal</p>
-
-
-<a class="cta-button" href="#product-detail-form">Přejít k nákupu</a></div>
-</div>
+<div class="cta-box" data-gl-cta="native-main-v2" data-gl-product-id="600" data-gl-main-photo="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/600_sacek-web-beauty-nad.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6acdf022&amp;sg=38cb01fe" data-native-ready="false">
+<div class="gl-cta-v2-media"><img class="gl-cta-v2-image" data-gl-fit="canonical" src="https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/600_sacek-web-beauty-nad.png?ff=1&amp;x=1024&amp;y=1024&amp;q=85&amp;ts=6acdf022&amp;sg=38cb01fe" alt="Beauty Longevity NAD+ sáček" loading="lazy" decoding="async"/></div>
+<div class="gl-cta-v2-details"><h3 class="gl-cta-v2-title">Beauty Longevity NAD+ sáček</h3>
+<dl class="gl-cta-v2-facts"><div><dt>Denní dávka</dt><dd>1 sáček denně, rozmíchat ve vodě</dd></div><div><dt>Balení</dt><dd>1 samostatný sáček</dd></div></dl>
+<p class="gl-cta-v2-price"><span data-gl-cta-price="">—</span><small>Aktuální cena včetně DPH</small></p>
+<button type="button" class="gl-cta-v2-button" disabled>Hodit do košíku</button>
+<p class="gl-cta-v2-status" role="status" aria-live="polite"></p><a class="gl-cta-v2-fallback" href="#product-detail-form">Přejít k nákupu produktu</a></div>
 </div>
 </div>
 <div class="product-container">
@@ -385,3 +383,25 @@ window.addEventListener('pagehide',function(){observer.disconnect();},{once:true
 })();
 </script>
 <script id="gl-600-dialog-accessibility">(function(){'use strict';var root=document.querySelector('#special-popis[data-gl-product-id="600"]');if(!root||root.dataset.glDialogsReady)return;root.dataset.glDialogsReady='true';var opener=null,active=null;root.querySelectorAll('.latky-plus').forEach(function(a){a.setAttribute('aria-haspopup','dialog');a.setAttribute('aria-controls',a.hash.slice(1));a.addEventListener('click',function(){opener=a;});});root.querySelectorAll('.latky-modal').forEach(function(d,i){var h=d.querySelector('h4');h.id='gl-600-dialog-title-'+i;d.setAttribute('role','dialog');d.setAttribute('aria-labelledby',h.id);d.setAttribute('tabindex','-1');});function update(){var d=root.querySelector('.latky-modal:target');if(active&&active!==d)active.removeAttribute('aria-modal');active=d;if(d){d.setAttribute('aria-modal','true');d.querySelector('.latky-modal-close').focus({preventScroll:true});}else if(opener){opener.focus({preventScroll:true});opener=null;}}window.addEventListener('hashchange',update);root.addEventListener('keydown',function(e){if(!active)return;if(e.key==='Escape'){e.preventDefault();location.hash='latky';}if(e.key==='Tab'){var xs=Array.from(active.querySelectorAll('a[href],button,[tabindex="0"]')).filter(function(x){return x.getClientRects().length;});var i=xs.indexOf(document.activeElement);if(e.shiftKey&&i<=0){e.preventDefault();xs[xs.length-1].focus();}else if(!e.shiftKey&&i===xs.length-1){e.preventDefault();xs[0].focus();}}});update();})();</script>
+
+<script data-gl-cta-bridge="native-main-v2">/* Native CTA bridge: no cart endpoint, credentials, tracking or quantity rewrite. */
+(function(){'use strict';
+ document.querySelectorAll('[data-gl-cta="native-main-v2"]').forEach(function(box){
+  if(box.dataset.glCtaReady)return;box.dataset.glCtaReady='true';
+  var id=box.getAttribute('data-gl-product-id'),img=box.querySelector('.gl-cta-v2-image'),price=box.querySelector('[data-gl-cta-price]'),button=box.querySelector('.gl-cta-v2-button'),status=box.querySelector('.gl-cta-v2-status'),fallback=box.getAttribute('data-gl-main-photo'),failed=new Set(),pending=false;
+  function text(el,value){if(el&&el.textContent!==value)el.textContent=value;}
+  function host(){var f=document.querySelector('form#product-detail-form'),input=f&&f.querySelector('input[name="productId"]');return f&&input&&input.value===id&&!box.contains(f)?f:null;}
+  function nativeButton(f){return f&&f.querySelector('button.add-to-cart-button,button[data-testid="buttonAddToCart"],input.add-to-cart-button');}
+  function imageURL(){var i=document.querySelector('#main-slider-slide01 img')||document.querySelector('.p-image[data-testid="mainImage"] img,.p-image img');if(!i||box.contains(i)||!i.complete||i.naturalWidth<2)return null;var u=i.currentSrc||i.getAttribute('src');return u&&!failed.has(u)&&!/(?:missing[_-]?images?|no-image|placeholder)/i.test(u)?u:null;}
+  function setImage(u){if(!u)return;var canonical;try{canonical=new URL(u,location.href).pathname===new URL(fallback,location.href).pathname;}catch(e){canonical=false;}var fit=canonical?'canonical':'natural';if(img.getAttribute('data-gl-fit')!==fit)img.setAttribute('data-gl-fit',fit);if(img.getAttribute('src')===u)return;['srcset','sizes','data-src','data-srcset','data-lazy'].forEach(function(a){img.removeAttribute(a);});img.setAttribute('src',u);}
+  function currentPrice(f){var p=f&&f.querySelector('.p-final-price-wrapper .price-final-holder,.p-final-price-wrapper .price-final');var value=p&&p.textContent.replace(/\s+/g,' ').trim();return value&&/\d/.test(value)?value:null;}
+  function sync(){pending=false;if(!box.isConnected){observer.disconnect();return;}var f=host(),b=nativeButton(f),p=currentPrice(f),available=!!(f&&b&&!b.disabled&&b.getAttribute('aria-disabled')!=='true'&&!b.classList.contains('disabled')&&p);setImage(f?(imageURL()||fallback):fallback);text(price,p||'—');if(button.disabled!==!available)button.disabled=!available;box.setAttribute('data-native-ready',String(available));text(status,available?'':f?'Aktuální možnosti nákupu najdete v hlavním nákupním bloku.':'Nákup je dostupný na produktové stránce.');}
+  function schedule(){if(!pending){pending=true;queueMicrotask(sync);}}
+  img.addEventListener('error',function(){var u=img.getAttribute('src');if(u&&u!==fallback){failed.add(u);setImage(fallback);}});
+  button.addEventListener('click',function(e){e.preventDefault();var f=host(),b=nativeButton(f);if(!f||!b||b.disabled||b.getAttribute('aria-disabled')==='true'||b.classList.contains('disabled')||!currentPrice(f)){schedule();if(f)f.scrollIntoView({block:'center',behavior:'smooth'});return;}b.click();});
+  var observer=new MutationObserver(schedule);observer.observe(document.documentElement,{subtree:true,childList:true,characterData:true,attributes:true,attributeFilter:['src','srcset','sizes','data-src','value','disabled','aria-disabled','class']});
+  document.addEventListener('load',function(e){if(!box.contains(e.target))schedule();},true);document.addEventListener('error',function(e){if(!box.contains(e.target))schedule();},true);document.addEventListener('change',schedule,true);document.addEventListener('input',schedule,true);
+  window.addEventListener('pagehide',function(){observer.disconnect();},{once:true});schedule();
+ });
+})();
+</script>
