@@ -1,0 +1,375 @@
+{
+  "products": [
+    {
+      "id": "464",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-box-ananas-mango/",
+      "public_sha256": "eb73ebbe3245be724e4c0899e8feaa7de5496555c252ce68e9cdfb567661d0c9",
+      "cases": [
+        {
+          "ready": "true",
+          "price": "1 500 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+          "skin": "bubble-2",
+          "viewport": 320
+        },
+        {
+          "ready": "true",
+          "price": "1 500 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+          "skin": "bubble-2",
+          "viewport": 375
+        },
+        {
+          "ready": "true",
+          "price": "1 500 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 250.1875,
+            "height": 338.234375,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 768
+        },
+        {
+          "ready": "true",
+          "price": "1 500 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 268.90625,
+            "height": 338.234375,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 820
+        },
+        {
+          "ready": "true",
+          "price": "1 500 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 320,
+            "height": 378,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 1024
+        },
+        {
+          "ready": "true",
+          "price": "1 500 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/464-1_box-komplet-mango.png?ff=1&x=1024&y=1024&q=85&ts=6ace0d46&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 320,
+            "height": 378,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 1280
+        }
+      ],
+      "dialogs": [
+        {
+          "viewport": 375,
+          "target": "#lm-garcinia",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-hyaluron",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-mineraly",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-bkomplex",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-vitace",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-zelenycaj",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "banner-info",
+          "open_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-garcinia",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-hyaluron",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-mineraly",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-bkomplex",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-vitace",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-zelenycaj",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "banner-info",
+          "open_close": true
+        }
+      ],
+      "pageerrors": []
+    },
+    {
+      "id": "467",
+      "url": "https://www.golden-life.cz/slim-extreme-collagen-sacek-s-prichuti-ananas-mango/",
+      "public_sha256": "07414cc82b20d7ea4e53a39e7f4d1d57d744a393028cda98e0e29f4d3f355887",
+      "cases": [
+        {
+          "ready": "true",
+          "price": "55 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+          "skin": "bubble-2",
+          "viewport": 320
+        },
+        {
+          "ready": "true",
+          "price": "55 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+          "skin": "bubble-2",
+          "viewport": 375
+        },
+        {
+          "ready": "true",
+          "price": "55 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 250.1875,
+            "height": 338.234375,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 768
+        },
+        {
+          "ready": "true",
+          "price": "55 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 268.90625,
+            "height": 338.234375,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 820
+        },
+        {
+          "ready": "true",
+          "price": "55 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 320,
+            "height": 378,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 1024
+        },
+        {
+          "ready": "true",
+          "price": "55 Kč",
+          "button": "Hodit do košíku",
+          "disabled": false,
+          "dose": "1 sáček",
+          "labelLines": 1,
+          "doseLines": 1,
+          "overflow": false,
+          "image": "https://cdn.myshoptet.com/usr/www.golden-life.cz/user/shop/big/467_sacek-web-slim-mango.png?ff=1&x=1024&y=1024&q=85&ts=6acdf0a1&sg=38cb01fe",
+          "skin": "bubble-2",
+          "desktop_geometry": {
+            "photoWidth": 320,
+            "height": 378,
+            "titleRight": true,
+            "titleAbove": true
+          },
+          "viewport": 1280
+        }
+      ],
+      "dialogs": [
+        {
+          "viewport": 375,
+          "target": "#lm-garcinia",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-hyaluron",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-mineraly",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-bkomplex",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-vitace",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "#lm-zelenycaj",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 375,
+          "target": "banner-info",
+          "open_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-garcinia",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-hyaluron",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-mineraly",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-bkomplex",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-vitace",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "#lm-zelenycaj",
+          "pointer_open_escape_close": true
+        },
+        {
+          "viewport": 1280,
+          "target": "banner-info",
+          "open_close": true
+        }
+      ],
+      "pageerrors": []
+    }
+  ],
+  "blocked_cart_requests": [],
+  "scope": "Fresh anonymous live shop, no response/CSS/script replacements; nuisance overlays hidden only in QA.",
+  "counts": {
+    "products": 2,
+    "responsive_cases": 12,
+    "dialog_interactions": 28
+  }
+}

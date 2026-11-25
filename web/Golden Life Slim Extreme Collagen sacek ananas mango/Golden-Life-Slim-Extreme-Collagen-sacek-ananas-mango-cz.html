@@ -5,6 +5,21 @@
 /* Keep label + daily amount to two lines in the real narrow native phone host. */
 @media(max-width:400px){[data-gl-cta="native-main-v2"][data-gl-product-id="467"] .gl-cta-v2-facts>div{padding:10px 8px!important}[data-gl-cta="native-main-v2"][data-gl-product-id="467"] .gl-cta-v2-facts dt{font-size:10px!important;letter-spacing:.02em!important;white-space:nowrap}}
 
+/* Desktop correction only: smaller photo, name above own purchase facts. Phones unchanged. */
+@media(min-width:768px){
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="464"]{grid-template-columns:minmax(0,min(36%,320px)) minmax(0,1fr)!important;grid-template-rows:auto 1fr!important;align-items:start!important;gap:18px 28px!important;padding:28px!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="464"] .gl-cta-v2-media{display:contents!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="464"] .gl-cta-v2-photo{grid-column:1!important;grid-row:1 / span 2!important;align-self:center!important;aspect-ratio:1 / 1!important;width:100%!important;border-radius:18px!important;clip-path:inset(0 round 18px)!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="464"] .gl-cta-v2-title{grid-column:2!important;grid-row:1!important;align-self:end!important;position:static!important;width:auto!important;margin:0!important;padding:0!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;font-size:clamp(21px,2vw,28px)!important;line-height:1.22!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="464"] .gl-cta-v2-details{grid-column:2!important;grid-row:2!important;align-self:start!important;gap:16px!important;margin:0!important;padding:0!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="464"] .gl-cta-v2-image[data-gl-fit="canonical"]{transform:translate(-2.4414%,-4.8286%) scale(1.1111)!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="467"]{grid-template-columns:minmax(0,min(36%,320px)) minmax(0,1fr)!important;grid-template-rows:auto 1fr!important;align-items:start!important;gap:18px 28px!important;padding:28px!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="467"] .gl-cta-v2-media{display:contents!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="467"] .gl-cta-v2-photo{grid-column:1!important;grid-row:1 / span 2!important;align-self:center!important;aspect-ratio:1 / 1!important;width:100%!important;border-radius:18px!important;clip-path:inset(0 round 18px)!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="467"] .gl-cta-v2-title{grid-column:2!important;grid-row:1!important;align-self:end!important;position:static!important;width:auto!important;margin:0!important;padding:0!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;font-size:clamp(21px,2vw,28px)!important;line-height:1.22!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="467"] .gl-cta-v2-details{grid-column:2!important;grid-row:2!important;align-self:start!important;gap:16px!important;margin:0!important;padding:0!important;}
+#special-popis .cta-box[data-gl-cta="native-main-v2"][data-gl-product-id="467"] .gl-cta-v2-image[data-gl-fit="canonical"]{transform:translate(-1.0815%,1.5369%) scale(1.1657)!important;}
+}
 </style>
 <script data-gl-site-scheme-loader="host-bg-1">(function(){var d=document,w=window,k='gl-product-scheme-script';if(w.GoldenLifeProductScheme){w.GoldenLifeProductScheme.refresh();return;}if(d.getElementById(k))return;var s=d.createElement('script');s.id=k;s.src="https://www.golden-life.cz/user/documents/upload/js/golden-life-product-scheme.js?v=host-bg-1";s.defer=true;s.onerror=function(){s.remove();};(d.head||d.documentElement).appendChild(s);}());</script>
 
