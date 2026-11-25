@@ -1,0 +1,101 @@
+[
+  {
+    "id": "383",
+    "path": "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html",
+    "old": "1 sáček denně, rozmíchat ve vodě",
+    "new": "1 sáček",
+    "before_sha256": "36ba9b48de18afc893844dbd5a1b36ad6a7618161c32637aa97f8d1a55563763",
+    "after_sha256": "a5ddd4513046313a437bd1f9b1860a7d15f952936da3ea31d87c42c4f58afd37",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "174",
+    "path": "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html",
+    "old": "První týden 1 tobolka denně, poté 2 tobolky denně",
+    "new": "2 tobolky",
+    "before_sha256": "cf48e36d7e33c6547d19f8d1437c4dfcdf3ee1d0c8af1c6625ecb9eac6a2097c",
+    "after_sha256": "47a3b89eba3c506ed4bd6690f5a950c6f88e99f8392844c7ff81a1e5c5f283b4",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "464",
+    "path": "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html",
+    "old": "1 sáček denně, rozmíchat ve vodě",
+    "new": "1 sáček",
+    "before_sha256": "59fe491ae04ff00f13546aaf47c1660bcb0474e99a5b01bf4f421fad397ec9b5",
+    "after_sha256": "76f2899fd64a95e378b89f17fc7c88be3d2fa3874b7f697c0fb172c194fa6dd7",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "467",
+    "path": "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html",
+    "old": "1 sáček denně, rozmíchat ve vodě",
+    "new": "1 sáček",
+    "before_sha256": "341c61cbe3794c5bae1d79fee39a13d190c8a86a8a35348a66e13677b8627b3f",
+    "after_sha256": "0ba4f3a4c5b44c7163dea2039f27cd9d161bb1fc5d5cdf4d8ea44e771b3654fa",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "416",
+    "path": "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html",
+    "old": "1 sáček denně, rozmíchat ve vodě",
+    "new": "1 sáček",
+    "before_sha256": "1080c81b729fa8b456b8ad28bbe2560a54cc2c3a24c3d918d3d2610ab5930e6d",
+    "after_sha256": "8f7e7c81f7dbde928e3bf6739d96fc5154466c3d24c83b10175798c509870224",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "544",
+    "path": "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html",
+    "old": "1 sáček denně, rozmíchat ve vodě",
+    "new": "1 sáček",
+    "before_sha256": "74d7a53b1252a248ce68165dda5e6137c42dfcd0e24c69a663ddf43333174b25",
+    "after_sha256": "24ddb92df735ca4be88aa6950b2397f61f351d2f4a1d9ebabddd8645f0022070",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "550",
+    "path": "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html",
+    "old": "2 kapsle denně, ráno nebo dopoledne",
+    "new": "2 kapsle",
+    "before_sha256": "fc78914e43d1c996f7cb1bad8435175f4a8abe7d8e3848c4d69e773aea3d6aca",
+    "after_sha256": "5dcdd388b76b585cb2878491c7ac9739191b6fdfce2ad346f8846e1a98636359",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "51",
+    "path": "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html",
+    "old": "2 zarovnané odměrky (8 g) do 400 ml vody",
+    "new": "8 g",
+    "before_sha256": "07710ddfd36748bb845dabbfc94ffd9a37ff87d231c58915db87ebb29566f701",
+    "after_sha256": "e0036be1894a394c7463e16618c4250c020ac413f802e2d59ac12aa6c0273de0",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "600",
+    "path": "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html",
+    "old": "1 sáček denně, rozmíchat ve vodě",
+    "new": "1 sáček",
+    "before_sha256": "64856322351e25d08beccfbc1d5bc1ac7ba7aff5da1617490c5b8595eb5d7806",
+    "after_sha256": "23418444016efc6cf00e56b1f7bbd6974222d8f1aa2d4665db3dd4ecb32dcf2d",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "57",
+    "path": "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html",
+    "old": "2 tobolky denně, 30–60 minut před spaním",
+    "new": "2 tobolky",
+    "before_sha256": "1b7c8aecbbde085c1c0479a43b4f9d9bc16dcde9b9ef4fe9f9b4d2286dd667f5",
+    "after_sha256": "c10a99c049c346f0eb9787e63ff464b6c93e7635adbfa890ce6dec290d0e549f",
+    "only_first_cta_dd_changed": true
+  },
+  {
+    "id": "99",
+    "path": "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html",
+    "old": "3–5 kapek ráno · k zevnímu použití",
+    "new": "3–5 kapek",
+    "before_sha256": "610df57ec7edb868e83dc888ecc2c0641e32721172a0af0a10b0d8e2e8873465",
+    "after_sha256": "481082eb737f16eec00c0c7210d7685b2c6448441c496a10ccfffa4c287c6f42",
+    "only_first_cta_dd_changed": true
+  }
+]
