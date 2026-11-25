@@ -1,0 +1,812 @@
+{
+  "counts": {
+    "products": 11,
+    "cases": 77,
+    "passed": 77,
+    "native_delegations": 11,
+    "screenshots": 77
+  },
+  "browser": "156.0.8078.4",
+  "scope": "All 11 prepared CZ product CTAs. Git only.",
+  "layout_checks": "77/77 rounded clipped photo corners, floating title across photo lower edge, two equal-height side-by-side fact boxes; price before cart button; no document overflow.",
+  "runtime_native_cases": 11,
+  "no_real_cart_writes": true,
+  "source_hashes": {
+    "web/Golden Life Slim Extreme Collagen box ananas/Golden-Life-Slim-Extreme-Collagen-box-ananas-cz.html": "36ba9b48de18afc893844dbd5a1b36ad6a7618161c32637aa97f8d1a55563763",
+    "web/Golden Life Slim Extreme Collagen box ananas/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-maly-cz.html": "b92f2fc729be0c85c28b2ece1815c66b6e68f99a58e1c0e68967c634eee357b0",
+    "web/Golden Life Slim Detox Power Plus/Golden-Life-Slim-Detox-Power-Plus-cz.html": "cf48e36d7e33c6547d19f8d1437c4dfcdf3ee1d0c8af1c6625ecb9eac6a2097c",
+    "web/Golden Life Slim Detox Power Plus/maly/Golden-Life-Slim-Detox-Power-Plus-maly-cz.html": "52e4e7a050e3c959868d12a356d6b1e7a7fc42005115ea2642267b741fefd626",
+    "web/Golden Life Slim Extreme Collagen box ananas mango/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-cz.html": "59fe491ae04ff00f13546aaf47c1660bcb0474e99a5b01bf4f421fad397ec9b5",
+    "web/Golden Life Slim Extreme Collagen box ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-box-ananas-mango-maly-cz.html": "6d67821bb84e6d30ab4542bf827b996ba61160d75f890c182f34a23b0f18a954",
+    "web/Golden Life Slim Extreme Collagen sacek ananas mango/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-cz.html": "341c61cbe3794c5bae1d79fee39a13d190c8a86a8a35348a66e13677b8627b3f",
+    "web/Golden Life Slim Extreme Collagen sacek ananas mango/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-mango-maly-cz.html": "9166bd7aa2365475f1f5a4262899b7d4150c2ec45758f1b93fa0d29ba5150fe2",
+    "web/Golden Life Slim Extreme Collagen sacek ananas/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-cz.html": "1080c81b729fa8b456b8ad28bbe2560a54cc2c3a24c3d918d3d2610ab5930e6d",
+    "web/Golden Life Slim Extreme Collagen sacek ananas/maly/Golden-Life-Slim-Extreme-Collagen-sacek-ananas-maly-cz.html": "1d97f69c94e016d8163a6cbc74a49dc00af50803befee855f71389c776668d10",
+    "web/Golden Life Beauty Longevity NAD+ dóza/Golden-Life-Beauty-Longevity-NAD-doza-cz.html": "74d7a53b1252a248ce68165dda5e6137c42dfcd0e24c69a663ddf43333174b25",
+    "web/Golden Life Beauty Longevity NAD+ dóza/maly/Golden-Life-Beauty-Longevity-NAD-doza-maly-cz.html": "651d60d19c5846e4c15ef491f8f8dc2759387a6dff23be89c1e8e0780e50718c",
+    "web/Golden Life Anti-Age Longevity NAD+/Golden-life-Anti-Age Longevity NAD+.html": "fc78914e43d1c996f7cb1bad8435175f4a8abe7d8e3848c4d69e773aea3d6aca",
+    "web/Golden Life Anti-Age Longevity NAD+/maly/Golden-life-Anti-Age Longevity NAD+maly.html": "8695375072a79c61eb9471e3992c4eed98bde2bf661a9b613d84479584c4e39e",
+    "web/Golden Life Beauty Body Soul/Golden-Life-Beauty-Body-Soul-cz.html": "07710ddfd36748bb845dabbfc94ffd9a37ff87d231c58915db87ebb29566f701",
+    "web/Golden Life Beauty Body Soul/maly/Golden-Life-Beauty-Body-Soul-maly-cz.html": "30f6a0628f60584eae86f20d3a04405f60796b32971c09c9a14739e6808e2714",
+    "web/Golden Life Beauty Longevity NAD+ sáček/Golden-Life-Beauty-Longevity-NAD-sacek-cz.html": "64856322351e25d08beccfbc1d5bc1ac7ba7aff5da1617490c5b8595eb5d7806",
+    "web/Golden Life Beauty Longevity NAD+ sáček/maly/Golden-Life-Beauty-Longevity-NAD-sacek-maly-cz.html": "92ae03f6d936c2f01c8e9522aa43020238d5c2fa9ae2bf57052e192c8ef044b5",
+    "web/Golden Life Good Sleep Night Burn/Golden-Life-Good-Sleep-Night-Burn-cz.html": "1b7c8aecbbde085c1c0479a43b4f9d9bc16dcde9b9ef4fe9f9b4d2286dd667f5",
+    "web/Golden Life Good Sleep Night Burn/maly/Golden-Life-Good-Sleep-Night-Burn-maly-cz.html": "5771982d04ff73feb8c2bfe3c502ddf81f88d800588c2874261d1860ec12f95d",
+    "web/Golden Life Miracle Drops/Golden-Life-Miracle-Drops-cz.html": "610df57ec7edb868e83dc888ecc2c0641e32721172a0af0a10b0d8e2e8873465",
+    "web/Golden Life Miracle Drops/maly/Golden-Life-Miracle-Drops-maly-cz.html": "3693ad7ed44c9fd6ffcf4a7afc8155cb61e4d6d9cce7e52d6f53c87471e7ed57",
+    "user/documents/upload/css/golden-life-barvy-anti-age-longevity.css": "5ed688cced21b2038c4f54f49974a17306c3a1a02faa0d125f89e2f9e699a68c",
+    "user/documents/upload/css/golden-life-barvy-beauty-body-soul.css": "102dbf5d6f21ce96c2ba8e1d9739a8308f29747f175be731b06d3b7965cacc16",
+    "user/documents/upload/css/golden-life-barvy-beauty-longevity-sacek.css": "43dd4ab79e9c1d86aabeaf7329cdaa94ad5b12e96d172870fd351603fe9518ac",
+    "user/documents/upload/css/golden-life-barvy-beauty-longevity.css": "7980cdabbe9779683cc8f9708360bdb99e3ade70ede73158577ca5d51ff3c46b",
+    "user/documents/upload/css/golden-life-barvy-good-sleep-night-burn.css": "6373c67a155aad0e834c3a7a462246be685a021287e6315e6b975de2a33b168f",
+    "user/documents/upload/css/golden-life-barvy-miracle-drops.css": "fdbe1b5ec045868eb18f64c738a0da0089a0cb711e74b65c62df1f19932f95f0",
+    "user/documents/upload/css/golden-life-barvy-slim-detox-power-plus.css": "7258027c77ac5c462dd65fe07615414aa518ab4f1db670f519e1a53729355209",
+    "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas-mango.css": "22fdf2af247d094f003166aa407c8c055b22dcad3f276b15dbdb96e069d076ff",
+    "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-box-ananas.css": "7c9f96c45243f32526abf11429d7fbf04832c5a9f518a800e22db38d58c52e68",
+    "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas-mango.css": "496ac049f1e60b6d802bfc2fe3659d11c732b9a8c126a058d3f5665acdf58cec",
+    "user/documents/upload/css/golden-life-barvy-slim-extreme-collagen-sacek-ananas.css": "1b64a4da9032540a17c4cc2d4689792b935bd581b77bbe02df7eac0cfe4a5c35",
+    "user/documents/upload/css/golden-life-cta-native-v2.css": "77005bf763f0d7f27a03d7bce33068c4823f865fe5961cfd85c7dcfc09d5a9d7",
+    "user/documents/upload/css/golden-life-produkt.css": "65f9308e4addb2d25844f380a727956b512c4e916c9a9d75736699677412c3f1",
+    "user/documents/upload/js/golden-life-cta-native-v2.js": "d2d570746132e3a8e80aeb657ddcfc4a2b44e21e8255b7f37fb060a46968cd4e",
+    "user/documents/upload/js/golden-life-product-scheme.js": "65870c1642d2db0e8395a68dc28940b44ef805989cd8f63dae149e526c810abd"
+  },
+  "package_bbox_proof": [
+    {
+      "tag": "383-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "383-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "383-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "383-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "383-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "383-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "383-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "174-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "174-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "174-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "174-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "174-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "174-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "174-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "464-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "464-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "464-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "464-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "464-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "464-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "464-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "467-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "467-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "467-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "467-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "467-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "467-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "467-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "416-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "416-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "416-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "416-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "416-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "416-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "416-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "544-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "544-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "544-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "544-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "544-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "544-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "544-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "550-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "550-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "550-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "550-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "550-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "550-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "550-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "51-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "51-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "51-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "51-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "51-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "51-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "51-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "600-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "600-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "600-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "600-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "600-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "600-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "600-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "57-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "57-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "57-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "57-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "57-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "57-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "57-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "99-320-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "99-375-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "99-768-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "99-1280-light",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "99-375-dark",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "99-375-no-host",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    },
+    {
+      "tag": "99-375-no-js",
+      "whole_verified_package_bbox_inside_photo": true,
+      "package_bbox_above_title": true
+    }
+  ],
+  "preservation": [
+    {
+      "id": "383",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 0,
+      "screenshot_difference_bbox": null
+    },
+    {
+      "id": "174",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 10,
+      "screenshot_difference_bbox": [
+        373,
+        12,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "464",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 10,
+      "screenshot_difference_bbox": [
+        373,
+        12,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "467",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 10,
+      "screenshot_difference_bbox": [
+        373,
+        12,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "416",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 10,
+      "screenshot_difference_bbox": [
+        373,
+        12,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "544",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 8,
+      "screenshot_difference_bbox": [
+        373,
+        12,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "550",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 4,
+      "screenshot_difference_bbox": [
+        373,
+        15,
+        375,
+        19
+      ]
+    },
+    {
+      "id": "51",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 7,
+      "screenshot_difference_bbox": [
+        373,
+        13,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "600",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 8,
+      "screenshot_difference_bbox": [
+        373,
+        12,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "57",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 7,
+      "screenshot_difference_bbox": [
+        373,
+        13,
+        375,
+        20
+      ]
+    },
+    {
+      "id": "99",
+      "copy_identical": true,
+      "image_attributes_identical": true,
+      "all_script_contents_identical": true,
+      "short_byte_identical": true,
+      "old_unmarked_cta_computed_geometry_and_styles_identical": true,
+      "screenshot_changed_pixels": 6,
+      "screenshot_difference_bbox": [
+        373,
+        13,
+        375,
+        20
+      ]
+    }
+  ],
+  "offline": {
+    "cases": [
+      {
+        "index": 0,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 500 Kč",
+        "text": "Slim Extreme Collagen box s příchutí ananasu"
+      },
+      {
+        "index": 0,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 500 Kč",
+        "text": "Slim Extreme Collagen box s příchutí ananasu"
+      },
+      {
+        "index": 1,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 350 Kč",
+        "text": "Slim & Detox Super energy booster Power+"
+      },
+      {
+        "index": 1,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 350 Kč",
+        "text": "Slim & Detox Super energy booster Power+"
+      },
+      {
+        "index": 2,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 500 Kč",
+        "text": "Slim Extreme Collagen box s příchutí ananas - mango"
+      },
+      {
+        "index": 2,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 500 Kč",
+        "text": "Slim Extreme Collagen box s příchutí ananas - mango"
+      },
+      {
+        "index": 3,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "55 Kč",
+        "text": "Slim Extreme Collagen sáček s příchutí ananas - mango"
+      },
+      {
+        "index": 3,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "55 Kč",
+        "text": "Slim Extreme Collagen sáček s příchutí ananas - mango"
+      },
+      {
+        "index": 4,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "55 Kč",
+        "text": "Slim Extreme Collagen sáček s příchutí ananasu"
+      },
+      {
+        "index": 4,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "55 Kč",
+        "text": "Slim Extreme Collagen sáček s příchutí ananasu"
+      },
+      {
+        "index": 5,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 690 Kč",
+        "text": "Beauty Longevity NAD+"
+      },
+      {
+        "index": 5,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 690 Kč",
+        "text": "Beauty Longevity NAD+"
+      },
+      {
+        "index": 6,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 450 Kč",
+        "text": "Anti-Age longevity NAD+"
+      },
+      {
+        "index": 6,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 450 Kč",
+        "text": "Anti-Age longevity NAD+"
+      },
+      {
+        "index": 7,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "8 888 Kč",
+        "text": "Beauty Body & Soul®"
+      },
+      {
+        "index": 7,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "8 888 Kč",
+        "text": "Beauty Body & Soul®"
+      },
+      {
+        "index": 8,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "65 Kč",
+        "text": "Beauty Longevity NAD+ sáček"
+      },
+      {
+        "index": 8,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "65 Kč",
+        "text": "Beauty Longevity NAD+ sáček"
+      },
+      {
+        "index": 9,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 250 Kč",
+        "text": "Good Sleep & Night Burn"
+      },
+      {
+        "index": 9,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 250 Kč",
+        "text": "Good Sleep & Night Burn"
+      },
+      {
+        "index": 10,
+        "mode": "phone",
+        "w": 375,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 200 Kč",
+        "text": "Miracle Drops"
+      },
+      {
+        "index": 10,
+        "mode": "desktop",
+        "w": 1100,
+        "img": 1024,
+        "disabled": true,
+        "price": "1 200 Kč",
+        "text": "Miracle Drops"
+      }
+    ],
+    "external_requests": [],
+    "errors": [],
+    "sha256": "d8a1113a10af5760bb38ec272ec87931a03330cc840b07c2293b6739135c92d1"
+  },
+  "limits": [
+    "Isolated Chromium, not live Shoptet, physical Safari or real cart submission.",
+    "Offline prices inherited labelled snapshot, not new live verification.",
+    "Prior product/claim/packaging caveats unchanged."
+  ]
+}
