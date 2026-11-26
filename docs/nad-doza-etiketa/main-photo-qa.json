@@ -1,0 +1,24 @@
+{
+  "scenarios": [
+    "No native gallery: both images hidden, no label fallback",
+    "Initial loaded main image mirrors into both slots",
+    "Main-image change updates both slots",
+    "Replacement gallery node recovered",
+    "Explicit wrong-product ID blocks photo mirroring",
+    "Matching configured ID recovers photo",
+    "Placeholder rejected without returning to label",
+    "404 source hidden without retry loop",
+    "Unbound image display does not enable price or purchase"
+  ],
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "js_errors": [],
+  "both_image_slots": true,
+  "label_url_in_source": false,
+  "fixture": "Synthetic native gallery; not deployed Shoptet; cart never sent"
+}
