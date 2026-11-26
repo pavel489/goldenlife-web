@@ -1,0 +1,63 @@
+{
+  "browser": "Playwright Chromium (not physical phones)",
+  "runs": [
+    {
+      "width": 320,
+      "overflow": false,
+      "broken_images": 0,
+      "table_count": 3,
+      "ingredient_dialogs_open_close": 6,
+      "top_dialog": true,
+      "focus_return": true,
+      "short_five_icons_one_row": true,
+      "price_unknown_cart_disabled": true
+    },
+    {
+      "width": 390,
+      "overflow": false,
+      "broken_images": 0,
+      "table_count": 3,
+      "ingredient_dialogs_open_close": 6,
+      "top_dialog": true,
+      "focus_return": true,
+      "short_five_icons_one_row": true,
+      "price_unknown_cart_disabled": true
+    },
+    {
+      "width": 768,
+      "overflow": false,
+      "broken_images": 0,
+      "table_count": 3,
+      "ingredient_dialogs_open_close": 6,
+      "top_dialog": true,
+      "focus_return": true,
+      "short_five_icons_one_row": true,
+      "price_unknown_cart_disabled": true
+    },
+    {
+      "width": 1024,
+      "overflow": false,
+      "broken_images": 0,
+      "table_count": 3,
+      "ingredient_dialogs_open_close": 6,
+      "top_dialog": true,
+      "focus_return": true,
+      "short_five_icons_one_row": true,
+      "price_unknown_cart_disabled": true
+    },
+    {
+      "width": 1440,
+      "overflow": false,
+      "broken_images": 0,
+      "table_count": 3,
+      "ingredient_dialogs_open_close": 6,
+      "top_dialog": true,
+      "focus_return": true,
+      "short_five_icons_one_row": true,
+      "price_unknown_cart_disabled": true
+    }
+  ],
+  "js_errors": [],
+  "external_http_requests": [],
+  "wrong_box_id_544_cannot_activate_new_jar": true
+}
