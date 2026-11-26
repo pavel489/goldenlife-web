@@ -1,0 +1,36 @@
+{
+  "base": "6b24d492b6066f77342a92b3f84e584c5864096a",
+  "tests": [
+    {
+      "width": 320,
+      "mobile_pixels_identical": true
+    },
+    {
+      "width": 390,
+      "mobile_pixels_identical": true
+    },
+    {
+      "width": 767,
+      "mobile_pixels_identical": true
+    },
+    {
+      "width": 768,
+      "title_top_right_above_facts": true,
+      "responsive_move_back_verified": true
+    },
+    {
+      "width": 1024,
+      "title_top_right_above_facts": true,
+      "responsive_move_back_verified": true
+    },
+    {
+      "width": 1440,
+      "title_top_right_above_facts": true,
+      "responsive_move_back_verified": true
+    }
+  ],
+  "js_errors": [],
+  "source_change": "Only appended SKU-scoped desktop CSS and responsive move of existing title; all previous source bytes retained",
+  "image_reference": "Local preview uses the supplied screenshot crop, not a newly generated/approved packshot",
+  "shop_deployed": false
+}
