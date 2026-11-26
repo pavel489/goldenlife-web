@@ -363,3 +363,11 @@ window.addEventListener('pagehide',function(){observer.disconnect();},{once:true
 }
 </style>
 <script data-gl-cta-desktop-title="nad-doza-v1">(function(){'use strict';var root=document.querySelector('#special-popis[data-gl-variant="nad-doza"]');if(!root||root.dataset.glCtaDesktopTitleReady)return;root.dataset.glCtaDesktopTitleReady='true';var box=root.querySelector('[data-gl-cta="native-main-v2"]'),title=box&&box.querySelector('.gl-cta-v2-title'),details=box&&box.querySelector('.gl-cta-v2-details'),media=box&&box.querySelector('.gl-cta-v2-media');if(!title||!details||!media)return;var mq=window.matchMedia('(min-width:768px)');function update(){if(mq.matches){if(title.parentElement!==details)details.insertBefore(title,details.firstChild);}else if(title.parentElement!==media)media.appendChild(title);}if(mq.addEventListener)mq.addEventListener('change',update);else mq.addListener(update);update();})();</script>
+
+<style data-gl-nad-banner-spacing="desktop-v1">
+@media(min-width:769px){
+#special-popis[data-gl-variant="nad-doza"] .nad-banner{grid-template-columns:minmax(0,1fr) 230px;grid-template-areas:"content mol" "features dose" "btn dose";column-gap:24px;row-gap:16px;}
+#special-popis[data-gl-variant="nad-doza"] .nad-mol{position:static;grid-area:mol;align-self:start;justify-self:end;width:100%;max-width:230px;height:230px;object-fit:contain;top:auto;right:auto;margin:0;transform:none;}
+#special-popis[data-gl-variant="nad-doza"] .nad-dose{align-self:start;margin-top:0;}
+}
+</style>

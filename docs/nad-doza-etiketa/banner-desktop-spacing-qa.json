@@ -1,0 +1,55 @@
+{
+  "base": "9c1a382635882e6eaa715a241b71d115e1c1c574",
+  "tests": [
+    {
+      "viewport": 320,
+      "mobile_banner_pixels_identical": true
+    },
+    {
+      "viewport": 390,
+      "mobile_banner_pixels_identical": true
+    },
+    {
+      "viewport": 768,
+      "mobile_banner_pixels_identical": true
+    },
+    {
+      "viewport": 769,
+      "host_width": 737,
+      "molecule_dose_clearance_px": 35.59,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "viewport": 1015,
+      "host_width": 825,
+      "molecule_dose_clearance_px": 28.42,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "viewport": 1024,
+      "host_width": 992,
+      "molecule_dose_clearance_px": 29.11,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "viewport": 1440,
+      "host_width": 1100,
+      "molecule_dose_clearance_px": 44.38,
+      "overlap": false,
+      "overflow": false
+    },
+    {
+      "viewport": 1440,
+      "host_width": 700,
+      "molecule_dose_clearance_px": 96.77,
+      "overlap": false,
+      "overflow": false
+    }
+  ],
+  "js_errors": [],
+  "change": "Only desktop CSS scoped to NAD jar; molecule occupies its own grid cell above dose; all existing HTML, claims, composition and CTA retained",
+  "shop_deployed": false
+}
